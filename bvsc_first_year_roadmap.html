@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The First-Year Roadmap — BVSc & AH | Veterinary Notes by ThatVetGuy</title>
+<style>
+  :root {
+    --black: #07090A;
+    --black-soft: #0D1110;
+    --bone: #ECE6D6;
+    --bone-dim: #B8B2A0;
+    --scope: #5CFFB0;
+    --scope-dim: #2F7A5C;
+    --line: #1E2725;
+    --amber: #F5B942;
+    --pulse-blue: #5CB8FF;
+    --field-green: #8FD14F;
+    font-size: 16px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--black);
+    color: var(--bone);
+    font-family: 'Inter', -apple-system, sans-serif;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+  .display {
+    font-family: 'Archivo Narrow', 'Arial Narrow', sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+  }
+  .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; letter-spacing: 0.02em; }
+  a { color: inherit; text-decoration: none; }
+  ::selection { background: rgba(92,255,176,0.25); }
+
+  .bg-grid {
+    position: fixed; inset: 0;
+    background-image: linear-gradient(var(--line) 1px, transparent 1px), linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size: 64px 64px;
+    opacity: 0.18;
+    z-index: 0; pointer-events: none;
+  }
+  .bg-glow {
+    position: fixed; top: -20%; left: 50%; transform: translateX(-50%);
+    width: 1200px; height: 700px;
+    background: radial-gradient(ellipse at center, rgba(16,185,129,0.08), transparent 60%);
+    z-index: 0; pointer-events: none;
+  }
+
+  nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 22px 48px;
+    backdrop-filter: blur(14px);
+    background: rgba(7,9,10,0.92);
+    border-bottom: 1px solid var(--line);
+  }
+  .logo { display: flex; align-items: center; gap: 10px; font-size: 1.1rem; }
+  .logo-mark { width: 28px; height: 28px; }
+  .logo-mark svg { width: 100%; height: 100%; }
+  .logo-text { display: flex; flex-direction: column; line-height: 1; }
+  .logo-text .pulse-word { font-size: 0.95rem; letter-spacing: 0.03em; }
+  .logo-text .sub-word { font-size: 0.55rem; color: var(--scope-dim); letter-spacing: 0.18em; margin-top: 2px; }
+  .nav-links { display: flex; gap: 36px; font-size: 0.82rem; letter-spacing: 0.04em; text-transform: uppercase; font-weight: 600; }
+  .nav-links a { position: relative; color: var(--bone-dim); transition: color 0.25s ease; padding-bottom: 4px; }
+  .nav-links a:hover { color: var(--scope); }
+  .nav-cta {
+    border: 1px solid var(--scope-dim); color: var(--scope);
+    padding: 8px 18px; border-radius: 999px; font-size: 0.78rem; font-weight: 700;
+    letter-spacing: 0.04em; text-transform: uppercase; transition: all 0.25s ease;
+  }
+  .nav-cta:hover { background: var(--scope); color: var(--black); box-shadow: 0 0 24px rgba(92,255,176,0.4); }
+  .hamburger {
+    display: none; width: 40px; height: 40px; border: 1px solid var(--line); border-radius: 10px;
+    align-items: center; justify-content: center; flex-direction: column; gap: 5px;
+    background: rgba(255,255,255,0.02); cursor: pointer; z-index: 210;
+  }
+  .hamburger span { width: 18px; height: 1.5px; background: var(--bone); border-radius: 2px; transition: all 0.3s ease; }
+  .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); background: var(--scope); }
+  .hamburger.open span:nth-child(2) { opacity: 0; }
+  .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); background: var(--scope); }
+  .drawer-scrim { position: fixed; inset: 0; background: rgba(4,6,5,0.6); backdrop-filter: blur(3px); z-index: 190; opacity: 0; pointer-events: none; transition: opacity 0.35s ease; }
+  .drawer-scrim.open { opacity: 1; pointer-events: auto; }
+  .drawer {
+    position: fixed; top: 0; right: 0; height: 100%; width: min(84vw, 360px);
+    background: linear-gradient(160deg, #0D1211, #07090A);
+    border-left: 1px solid var(--line); z-index: 200;
+    transform: translateX(100%); transition: transform 0.4s cubic-bezier(0.16,1,0.3,1);
+    overflow-y: auto; padding: 74px 24px 32px;
+  }
+  .drawer.open { transform: translateX(0); }
+  .drawer-direct {
+    display: block; padding: 18px 4px; border-bottom: 1px solid var(--line);
+    font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em;
+    color: var(--bone); transition: color 0.2s ease;
+  }
+  .drawer-direct:hover, .drawer-direct.active { color: var(--scope); }
+  .drawer-cta {
+    margin-top: 28px; display: block; text-align: center; background: var(--scope); color: var(--black);
+    padding: 15px; border-radius: 10px; font-weight: 700; font-size: 0.9rem; letter-spacing: 0.02em;
+  }
+
+  .breadcrumb {
+    position: relative; z-index: 1;
+    padding: 118px 48px 0;
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    font-size: 0.78rem; color: var(--bone-dim);
+  }
+  .breadcrumb a { color: var(--bone-dim); transition: color 0.2s ease; }
+  .breadcrumb a:hover { color: var(--scope); }
+  .breadcrumb .sep { color: var(--line); }
+  .breadcrumb .current { color: var(--scope); }
+
+  .hero {
+    position: relative; z-index: 1;
+    padding: 34px 48px 70px;
+    max-width: 980px;
+  }
+  .hero-kicker {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 0.78rem; letter-spacing: 0.16em; text-transform: uppercase;
+    color: var(--scope-dim); margin-bottom: 22px;
+  }
+  .hero-kicker .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--scope); box-shadow: 0 0 10px var(--scope); animation: pulse-dot 2.2s ease-in-out infinite; }
+  @keyframes pulse-dot { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+  .hero h1 {
+    font-size: clamp(2.4rem, 5.6vw, 4.2rem);
+    line-height: 1.02;
+    margin-bottom: 26px;
+  }
+  .hero h1 .accent {
+    background: linear-gradient(100deg, var(--scope) 30%, #8fffce 50%, var(--scope) 70%);
+    background-size: 200% auto;
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    animation: shine 5s linear infinite;
+  }
+  @keyframes shine { to { background-position: -200% center; } }
+
+  .hero-lead {
+    font-size: 1.08rem;
+    line-height: 1.7;
+    color: var(--bone-dim);
+    max-width: 680px;
+  }
+  .hero-lead b { color: var(--bone); font-weight: 600; }
+
+  .phase-nav {
+    position: relative; z-index: 1;
+    padding: 0 48px 8px;
+    display: flex;
+    gap: 2px;
+    flex-wrap: wrap;
+  }
+  .phase-tab {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 16px 22px;
+    border: 1px solid var(--line);
+    border-bottom: none;
+    border-radius: 12px 12px 0 0;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--bone-dim);
+    background: rgba(255,255,255,0.015);
+    transition: color 0.25s ease, background 0.25s ease;
+    cursor: pointer;
+  }
+  .phase-tab:hover { color: var(--bone); background: rgba(255,255,255,0.03); }
+  .phase-tab .tab-num { font-family: 'JetBrains Mono', monospace; font-size: 0.72rem; color: var(--scope-dim); }
+  .phase-tab.active { color: var(--scope); }
+
+  .phase {
+    position: relative; z-index: 1;
+    border-top: 1px solid var(--line);
+    padding: 64px 48px;
+  }
+  .phase-head {
+    display: flex;
+    align-items: baseline;
+    gap: 18px;
+    margin-bottom: 36px;
+    flex-wrap: wrap;
+  }
+  .phase-index {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-weight: 800;
+    font-size: 3.2rem;
+    color: transparent;
+    -webkit-text-stroke: 1.5px var(--line);
+    line-height: 1;
+  }
+  .phase-head h2 { font-size: clamp(1.7rem, 3.2vw, 2.5rem); letter-spacing: -0.01em; }
+  .phase-sub { font-size: 0.85rem; color: var(--scope-dim); letter-spacing: 0.06em; text-transform: uppercase; margin-top: 6px; }
+
+  .phase-1 .phase-body {
+    max-width: 720px;
+    font-size: 1.02rem;
+    line-height: 1.75;
+    color: var(--bone-dim);
+  }
+  .phase-1 .phase-body p { margin-bottom: 20px; }
+  .phase-1 .phase-body b { color: var(--bone); font-weight: 600; }
+  .callout {
+    margin: 28px 0;
+    padding: 22px 26px;
+    border-left: 3px solid var(--scope);
+    background: linear-gradient(90deg, rgba(92,255,176,0.06), transparent);
+    border-radius: 0 12px 12px 0;
+    font-size: 1.05rem;
+    color: var(--bone);
+    font-weight: 600;
+    line-height: 1.55;
+  }
+
+  .pillars-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+  }
+  .pillar {
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 30px 28px;
+    background: linear-gradient(160deg, rgba(255,255,255,0.02), transparent);
+    transition: border-color 0.35s ease, transform 0.35s ease, box-shadow 0.35s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .pillar::before {
+    content: '';
+    position: absolute; top: 0; left: 0; right: 0; height: 3px;
+    background: var(--pillar-color, var(--scope));
+  }
+  .pillar:hover {
+    transform: translateY(-4px);
+    border-color: color-mix(in srgb, var(--pillar-color, var(--scope)) 40%, var(--line));
+    box-shadow: 0 24px 60px -24px rgba(0,0,0,0.7);
+  }
+  .pillar-anatomy { --pillar-color: var(--amber); }
+  .pillar-physio { --pillar-color: var(--pulse-blue); }
+  .pillar-lpm { --pillar-color: var(--field-green); }
+
+  .pillar-icon {
+    width: 44px; height: 44px;
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 20px;
+    background: color-mix(in srgb, var(--pillar-color) 14%, transparent);
+    border: 1px solid color-mix(in srgb, var(--pillar-color) 35%, transparent);
+  }
+  .pillar-icon svg { width: 22px; height: 22px; color: var(--pillar-color); }
+
+  .pillar h3 { font-size: 1.25rem; margin-bottom: 6px; letter-spacing: -0.01em; }
+  .pillar .pillar-scope { font-size: 0.78rem; color: var(--bone-dim); margin-bottom: 18px; }
+
+  .pillar-row {
+    padding: 13px 0;
+    border-top: 1px dashed var(--line);
+    font-size: 0.85rem;
+    line-height: 1.55;
+  }
+  .pillar-row:first-of-type { border-top: none; padding-top: 0; }
+  .pillar-row .row-label {
+    display: block;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--pillar-color);
+    margin-bottom: 5px;
+    font-weight: 700;
+  }
+  .pillar-row .row-body { color: var(--bone-dim); }
+  .pillar-row .row-body b { color: var(--bone); font-weight: 600; }
+
+  .pillar-text {
+    display: flex; align-items: center; gap: 8px;
+    margin-top: 18px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--bone);
+  }
+  .pillar-text svg { width: 14px; height: 14px; color: var(--pillar-color); flex-shrink: 0; }
+
+  .blueprint-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    max-width: 780px;
+  }
+  .rule {
+    display: grid;
+    grid-template-columns: 56px 1fr;
+    gap: 22px;
+    padding: 26px 0;
+    border-top: 1px solid var(--line);
+  }
+  .rule:first-child { border-top: none; padding-top: 0; }
+  .rule-mark {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--scope);
+    border: 1px solid rgba(92,255,176,0.3);
+    background: rgba(92,255,176,0.06);
+    border-radius: 8px;
+    height: 38px;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .rule h4 { font-size: 1.08rem; margin-bottom: 8px; }
+  .rule p { font-size: 0.92rem; color: var(--bone-dim); line-height: 1.6; }
+
+  .phase-4 { background: radial-gradient(circle at 85% 15%, rgba(92,255,176,0.05), transparent 55%); }
+  .life-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .life-card { padding: 4px 0; }
+  .life-card .life-icon {
+    width: 40px; height: 40px;
+    border-radius: 11px;
+    background: rgba(92,255,176,0.08);
+    border: 1px solid rgba(92,255,176,0.25);
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 18px;
+  }
+  .life-card .life-icon svg { width: 20px; height: 20px; color: var(--scope); }
+  .life-card h4 { font-size: 1.08rem; margin-bottom: 10px; }
+  .life-card p { font-size: 0.9rem; color: var(--bone-dim); line-height: 1.65; }
+
+  .sign-off {
+    max-width: 680px;
+    margin-top: 48px;
+    padding-top: 36px;
+    border-top: 1px solid var(--line);
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.6;
+    color: var(--bone);
+  }
+  .sign-off .accent-text { color: var(--scope); }
+
+  .closing-cta {
+    position: relative; z-index: 1;
+    margin: 0 48px 90px;
+    border: 1px solid rgba(92,255,176,0.3);
+    border-radius: 18px;
+    padding: 40px 44px;
+    background: radial-gradient(circle at 12% 20%, rgba(92,255,176,0.08), transparent 55%), linear-gradient(160deg, #0D1413, #090B0A);
+    display: flex; align-items: center; justify-content: space-between; gap: 28px; flex-wrap: wrap;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  .closing-cta:hover { border-color: rgba(92,255,176,0.55); box-shadow: 0 24px 60px -20px rgba(92,255,176,0.15); }
+  .closing-cta h3 { font-size: 1.5rem; margin-bottom: 8px; }
+  .closing-cta p { font-size: 0.92rem; color: var(--bone-dim); max-width: 440px; }
+  .closing-btn {
+    display: inline-flex; align-items: center; gap: 9px;
+    background: var(--scope); color: var(--black);
+    font-weight: 700; font-size: 0.9rem;
+    padding: 15px 28px; border-radius: 10px;
+    white-space: nowrap;
+    transition: all 0.25s ease;
+  }
+  .closing-btn:hover { box-shadow: 0 10px 28px rgba(92,255,176,0.35); transform: translateY(-2px); }
+
+  .reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
+  .reveal.in { opacity: 1; transform: translateY(0); }
+
+  footer {
+    position: relative; z-index: 1;
+    border-top: 1px solid var(--line);
+    padding: 50px 48px 40px;
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;
+  }
+  footer .foot-left { font-size: 0.85rem; color: var(--bone-dim); }
+  footer .foot-links { display: flex; gap: 28px; font-size: 0.82rem; color: var(--bone-dim); flex-wrap: wrap; }
+  footer .foot-links a:hover { color: var(--scope); }
+
+  @media (max-width: 900px) {
+    nav { padding: 14px 20px; }
+    .nav-links, .nav-cta { display: none !important; }
+    .hamburger { display: flex !important; }
+    .breadcrumb { padding: 94px 20px 0; }
+    .hero { padding: 26px 20px 44px; }
+    .phase-nav { padding: 0 20px 6px; overflow-x: auto; flex-wrap: nowrap; }
+    .phase-tab { flex-shrink: 0; }
+    .phase { padding: 44px 20px; }
+    .phase-index { font-size: 2.2rem; }
+    .pillars-grid { grid-template-columns: 1fr; }
+    .life-grid { grid-template-columns: 1fr; gap: 30px; }
+    .rule { grid-template-columns: 44px 1fr; gap: 16px; }
+    .closing-cta { margin: 0 20px 70px; padding: 30px 26px; flex-direction: column; align-items: flex-start; }
+    .closing-btn { width: 100%; justify-content: center; }
+    footer { padding: 40px 20px 30px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="bg-grid"></div>
+<div class="bg-glow"></div>
+
+<nav>
+  <div class="logo">
+    <div class="logo-mark">
+      <svg viewBox="0 0 28 28" fill="none">
+        <circle cx="14" cy="14" r="12.5" stroke="#5CFFB0" stroke-width="1.2" opacity="0.4"/>
+        <path d="M5 14 H10 L12 8 L16 20 L18 14 H23" stroke="#5CFFB0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </svg>
+    </div>
+    <div class="logo-text">
+      <span class="pulse-word display">VET NOTES</span>
+      <span class="sub-word">BY THATVETGUY</span>
+    </div>
+  </div>
+  <div class="nav-links">
+    <a href="index.html#bvsc">BVSc &amp; AH</a>
+    <a href="index.html#exams">Competitive Exams</a>
+    <a href="index.html#lab">AI Prompt Lab</a>
+    <a href="index.html#ranked">Rankings</a>
+    <a href="https://blog.thatvetguy.net" target="_blank" rel="noopener">Blog ↗</a>
+  </div>
+  <a href="first-year-notes.html" class="nav-cta">Start Studying</a>
+  <button class="hamburger" id="hamburgerBtn" aria-label="Open menu">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<div class="drawer-scrim" id="drawerScrim"></div>
+<div class="drawer" id="drawer">
+  <a href="index.html#bvsc" class="drawer-direct">BVSc &amp; AH</a>
+  <a href="index.html#exams" class="drawer-direct">Competitive Exams</a>
+  <a href="index.html#lab" class="drawer-direct">AI Prompt Lab</a>
+  <a href="index.html#ranked" class="drawer-direct">Rankings</a>
+  <a href="https://blog.thatvetguy.net" target="_blank" rel="noopener" class="drawer-direct">Blog ↗</a>
+  <a href="first-year-notes.html" class="drawer-cta">Start Studying</a>
+</div>
+
+<div class="breadcrumb">
+  <a href="index.html">Vet Notes</a>
+  <span class="sep">/</span>
+  <a href="index.html#bvsc">BVSc &amp; AH</a>
+  <span class="sep">/</span>
+  <a href="first-year-notes.html">1st Year</a>
+  <span class="sep">/</span>
+  <span class="current">Roadmap</span>
+</div>
+
+<section class="hero reveal">
+  <div class="hero-kicker"><span class="dot"></span> THE FIRST-YEAR ROADMAP</div>
+  <h1 class="display">Study Smart, <span class="accent">Not Just Hard</span></h1>
+  <p class="hero-lead">You've secured your seat, survived the counseling chaos, and officially stepped into veterinary science. If you're standing on campus wondering <b>"what now?"</b> — you aren't alone. Here's a complete, high-yield roadmap for conquering your first year, focused on what actually matters.</p>
+</section>
+
+<nav class="phase-nav">
+  <a href="#phase-1" class="phase-tab"><span class="tab-num">01</span> Mindset Reset</a>
+  <a href="#phase-2" class="phase-tab"><span class="tab-num">02</span> Three Pillars</a>
+  <a href="#phase-3" class="phase-tab"><span class="tab-num">03</span> Study Smart</a>
+  <a href="#phase-4" class="phase-tab"><span class="tab-num">04</span> Life Beyond Books</a>
+</nav>
+
+<section class="phase phase-1 reveal" id="phase-1">
+  <div class="phase-head">
+    <span class="phase-index">01</span>
+    <div>
+      <h2>The Mindset Reset</h2>
+      <span class="phase-sub">Before the syllabus, the headspace</span>
+    </div>
+  </div>
+  <div class="phase-body">
+    <p>Let's address the elephant in the room: the post-counseling slump. The gap between your entrance exams and the start of college often shatters your carefully built study habits. On top of that, many students spend their first few months hung up on the "MBBS seat they barely missed."</p>
+    <div class="callout">It's time to drop that baggage. Veterinary science is an entirely distinct, specialized, and incredibly rewarding field.</div>
+    <p>The human anatomy and physiology you memorized won't save you here — a cow's digestive system and a dog's anatomy play by completely different rules. Treat this as a blank slate. Embrace the field, reset your focus, and start building new habits from day one.</p>
+  </div>
+</section>
+
+<section class="phase phase-2 reveal" id="phase-2">
+  <div class="phase-head">
+    <span class="phase-index">02</span>
+    <div>
+      <h2>The Three Pillar Subjects</h2>
+      <span class="phase-sub">Not hurdles to clear — the foundation for years 4 and 5</span>
+    </div>
+  </div>
+
+  <div class="pillars-grid">
+
+    <div class="pillar pillar-anatomy">
+      <div class="pillar-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a4 4 0 0 0-4 4c0 1.5.5 2 0 3.5S6 12 6 14a4 4 0 0 0 4 4v2a2 2 0 0 0 4 0v-2a4 4 0 0 0 4-4c0-2-2-3-2-4.5s0-2 0-3.5a4 4 0 0 0-4-4z"/></svg>
+      </div>
+      <h3>Veterinary Anatomy</h3>
+      <p class="pillar-scope">Osteology · Myology · Histology · Embryology</p>
+
+      <div class="pillar-row">
+        <span class="row-label">Why it matters</span>
+        <span class="row-body">You cannot perform surgery or understand obstetrics later if you don't know what <b>normal</b> looks like now.</span>
+      </div>
+      <div class="pillar-row">
+        <span class="row-label">The strategy</span>
+        <span class="row-body">Focus on the structural basics. Keep it clean and conceptual.</span>
+      </div>
+      <div class="pillar-text">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        R.K. Ghosh — the gold standard, built for note-taking
+      </div>
+    </div>
+
+    <div class="pillar pillar-physio">
+      <div class="pillar-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h4l3 8 4-16 3 8h4"/></svg>
+      </div>
+      <h3>Veterinary Physiology</h3>
+      <p class="pillar-scope">Ruminants · Canines · Felines · Equines · Avians</p>
+
+      <div class="pillar-row">
+        <span class="row-label">Why it matters</span>
+        <span class="row-body">The bedrock of Veterinary Medicine. Understand the <b>normal</b> mechanisms now, and diagnosing abnormal pathology later becomes second nature.</span>
+      </div>
+      <div class="pillar-row">
+        <span class="row-label">The strategy</span>
+        <span class="row-body">Do not cram. Focus heavily on understanding the "how" and "why" of physiological mechanisms.</span>
+      </div>
+      <div class="pillar-text">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        Dukes' Physiology — heavy, but comprehensive multi-species depth
+      </div>
+    </div>
+
+    <div class="pillar pillar-lpm">
+      <div class="pillar-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V9l7-5 7 5v12M9 21v-6h6v6"/></svg>
+      </div>
+      <h3>LPM &amp; Poultry Science</h3>
+      <p class="pillar-scope">Husbandry · Breed ID · Housing · Farm management</p>
+
+      <div class="pillar-row">
+        <span class="row-label">Why it matters</span>
+        <span class="row-body">Pulls you out of the lab and onto the farm. Before you can treat an animal, you need to know how it is housed, fed, and managed.</span>
+      </div>
+      <div class="pillar-row">
+        <span class="row-label">The strategy</span>
+        <span class="row-body">Avoid mindless rote memorization. Learn the practical terminology and visualize the management practices.</span>
+      </div>
+      <div class="pillar-text">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        G.C. Banerjee or Basant Bais (LPM) · D. Sapcota (Poultry)
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="phase phase-3 reveal" id="phase-3">
+  <div class="phase-head">
+    <span class="phase-index">03</span>
+    <div>
+      <h2>The Study Smart Blueprint</h2>
+      <span class="phase-sub">Spoon-feeding is over — here's how to keep your head above water</span>
+    </div>
+  </div>
+
+  <div class="blueprint-list">
+    <div class="rule">
+      <div class="rule-mark">24h</div>
+      <div>
+        <h4>The 24-Hour Rule</h4>
+        <p>Read the topic on the exact same day it is taught in class. Same-day review is the cheapest insurance against falling behind.</p>
+      </div>
+    </div>
+    <div class="rule">
+      <div class="rule-mark mono">&#9998;</div>
+      <div>
+        <h4>Synthesize your notes</h4>
+        <p>Don't just copy the textbook. Combine your professor's lecture points with your own textbook reading to create sharp, effective short notes. You'll thank yourself when university exams loom closer.</p>
+      </div>
+    </div>
+    <div class="rule">
+      <div class="rule-mark mono">7d</div>
+      <div>
+        <h4>Weekly revisions</h4>
+        <p>Consistency beats intensity. Dedicate time at the end of the week to review everything you've compiled. It takes 21 days to build a habit — push through the initial friction.</p>
+      </div>
+    </div>
+    <div class="rule">
+      <div class="rule-mark mono">&#9678;</div>
+      <div>
+        <h4>Concepts over cramming</h4>
+        <p>Some things — values, breed names — simply have to be memorized. But the core of your first year, especially Physiology, requires deep conceptual understanding.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="phase phase-4 reveal" id="phase-4">
+  <div class="phase-head">
+    <span class="phase-index">04</span>
+    <div>
+      <h2>Life Beyond the Books</h2>
+      <span class="phase-sub">A 5.5-year marathon — your environment dictates your pace</span>
+    </div>
+  </div>
+
+  <div class="life-grid">
+    <div class="life-card">
+      <div class="life-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      </div>
+      <h4>Choose your circle wisely</h4>
+      <p>The friends you make in your first year are the people you will spend the next half-decade with. They directly influence your study habits, your focus, and your daily routine. Surround yourself with people who pull you up.</p>
+    </div>
+    <div class="life-card">
+      <div class="life-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+      </div>
+      <h4>Master time management</h4>
+      <p>Balance college hours, practicals, hostel life, and extracurriculars. Map out your time so academic focus doesn't bleed into personal downtime, and vice versa.</p>
+    </div>
+    <div class="life-card">
+      <div class="life-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.4 7.2H22l-6 4.6L18.4 22 12 17.4 5.6 22 8 13.8 2 9.2h7.6z"/></svg>
+      </div>
+      <h4>Develop personal skills</h4>
+      <p>Don't let the curriculum consume your entire identity. Carve out time for sports, creative hobbies, and personal development — it'll keep you sane when the syllabus gets heavier.</p>
+    </div>
+  </div>
+
+  <div class="sign-off">
+    Stay disciplined, keep your concepts sharp, and remember to actually <span class="accent-text">enjoy the process</span>. Good luck on the rounds.
+  </div>
+</section>
+
+<div class="closing-cta reveal">
+  <div>
+    <h3>Ready to put this into practice?</h3>
+    <p>Head to First Year Notes for the subject-wise resources, book recommendations, and recap sheets for LPM, Physiology, and Anatomy.</p>
+  </div>
+  <a href="first-year-notes.html" class="closing-btn">
+    Go to First Year Notes
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+  </a>
+</div>
+
+<footer>
+  <div class="foot-left">© 2026 Veterinary Notes — a ThatVetGuy collective project.</div>
+  <div class="foot-links">
+    <a href="https://thatvetguy.net" target="_blank" rel="noopener">thatvetguy.net ↗</a>
+    <a href="https://blog.thatvetguy.net" target="_blank" rel="noopener">Blog ↗</a>
+    <a href="https://instagram.com/happyrancho" target="_blank" rel="noopener">Instagram ↗</a>
+    <a href="mailto:contact@thatvetguy.net">Contact</a>
+  </div>
+</footer>
+
+<script>
+  const reveals = document.querySelectorAll('.reveal');
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); obs.unobserve(e.target); } });
+  }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+  reveals.forEach(r => obs.observe(r));
+
+  const phases = document.querySelectorAll('.phase');
+  const tabs = document.querySelectorAll('.phase-tab');
+  const tabObs = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        const id = e.target.getAttribute('id');
+        tabs.forEach(t => t.classList.toggle('active', t.getAttribute('href') === '#' + id));
+      }
+    });
+  }, { threshold: 0.5 });
+  phases.forEach(p => tabObs.observe(p));
+
+  const hamburger = document.getElementById('hamburgerBtn');
+  const drawer = document.getElementById('drawer');
+  const scrim = document.getElementById('drawerScrim');
+  function closeDrawer() {
+    hamburger.classList.remove('open'); drawer.classList.remove('open'); scrim.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+  function openDrawer() {
+    hamburger.classList.add('open'); drawer.classList.add('open'); scrim.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+  hamburger.addEventListener('click', () => drawer.classList.contains('open') ? closeDrawer() : openDrawer());
+  scrim.addEventListener('click', closeDrawer);
+  drawer.querySelectorAll('a').forEach(a => a.addEventListener('click', closeDrawer));
+</script>
+
+</body>
+</html>
