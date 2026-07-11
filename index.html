@@ -58,7 +58,7 @@
       linear-gradient(var(--line) 1px, transparent 1px),
       linear-gradient(90deg, var(--line) 1px, transparent 1px);
     background-size: 64px 64px;
-    opacity: 0.25;
+    opacity: 0.18;
     z-index: 0;
     pointer-events: none;
   }
@@ -70,7 +70,7 @@
     transform: translateX(-50%);
     width: 1200px;
     height: 800px;
-    background: radial-gradient(ellipse at center, rgba(16,185,129,0.12), transparent 60%);
+    background: radial-gradient(ellipse at center, rgba(16,185,129,0.08), transparent 60%);
     z-index: 0;
     pointer-events: none;
   }
@@ -143,7 +143,7 @@
     font-weight: 700;
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    transition: all 0.25s ease;
+    transition: color 0.25s ease, background-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
   }
   .nav-cta:hover {
     background: var(--scope);
@@ -374,16 +374,16 @@
     stroke-width: 2;
     stroke-linecap: round;
     stroke-linejoin: round;
-    filter: drop-shadow(0 0 6px rgba(92,255,176,0.6));
+    filter: drop-shadow(0 0 4px rgba(92,255,176,0.35));
     stroke-dasharray: 1400;
     stroke-dashoffset: 1400;
-    animation: draw 3.2s ease-in-out infinite;
+    animation: draw 3.2s ease-in-out 1;
+    animation-fill-mode: forwards;
   }
 
   @keyframes draw {
     0% { stroke-dashoffset: 1400; }
-    55% { stroke-dashoffset: 0; }
-    100% { stroke-dashoffset: 0; opacity: 0; }
+    100% { stroke-dashoffset: 0; }
   }
 
   .hero-actions {
@@ -406,7 +406,7 @@
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
   }
   .btn-primary:hover {
     transform: translateY(-2px);
@@ -420,7 +420,7 @@
     border-radius: 8px;
     font-weight: 600;
     font-size: 0.92rem;
-    transition: border-color 0.25s ease, background 0.25s ease;
+    transition: border-color 0.25s ease, background-color 0.25s ease, color 0.25s ease;
   }
   .btn-ghost:hover {
     border-color: var(--bone-dim);
@@ -586,7 +586,7 @@
     display: inline-flex;
     align-items: center;
     gap: 5px;
-    transition: all 0.2s ease;
+    transition: color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
   }
   .rank-visit:hover {
     background: var(--scope);
@@ -698,7 +698,7 @@
   .pillar-glow {
     position: absolute;
     width: 280px; height: 280px;
-    background: radial-gradient(circle, rgba(92,255,176,0.15), transparent 70%);
+    background: radial-gradient(circle, rgba(92,255,176,0.12), transparent 70%);
     top: -100px; right: -100px;
     opacity: 0;
     transition: opacity 0.4s ease;
@@ -745,7 +745,7 @@
     padding: 7px 14px;
     border-radius: 999px;
     color: var(--bone);
-    transition: all 0.2s ease;
+    transition: border-color 0.2s ease, background-color 0.2s ease, color 0.2s ease;
     display: inline-block;
     position: relative;
     z-index: 2;
@@ -766,7 +766,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.3s ease;
+    transition: transform 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
   }
   .pillar-card:hover .pillar-arrow {
     background: var(--scope);
@@ -792,7 +792,7 @@
     position: absolute;
     top: 0; right: 0;
     width: 50%; height: 100%;
-    opacity: 0.5;
+    opacity: 0.35;
     pointer-events: none;
   }
 
@@ -920,6 +920,19 @@
     .rank-meta { display: none; }
     .rank-num { font-size: 1.5rem; }
   }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+    .bg-grid, .bg-glow { display: none; }
+    .vitals-path { animation: none; stroke-dashoffset: 0; }
+    .eyebrow .dot, .scroll-cue .line { animation: none; }
+  }
 </style>
 </head>
 <body>
@@ -1000,184 +1013,112 @@
   <a href="#bvsc" class="drawer-cta">Start Studying</a>
 </div>
 
-
 <section class="hero">
   <div class="eyebrow"><span class="dot"></span> NIGHT ROUNDS · VCI-ALIGNED · HIGH-YIELD BY DESIGN</div>
   <h1 class="display">STUDY SMART.<br>NOT JUST <span class="accent">HARD.</span></h1>
-  <p class="hero-sub">Veterinary notes built on one idea: understand the pattern, not just the page count. High-yield depth, exam-mapped structure, and AI study prompts — for students who'd rather study smart than study everything.</p>
-
-  <div class="vitals-wrap">
+  <p class="hero-sub">A curated veterinary notes platform built for fast revision, exam-first learning, and cleaner study flow.</p>
+  <div class="vitals-wrap" aria-hidden="true">
     <svg viewBox="0 0 760 90" preserveAspectRatio="none">
-      <path class="vitals-path" d="M0,45 L120,45 L145,45 L160,10 L180,80 L200,45 L230,45 L245,30 L260,60 L275,45 L760,45" />
+      <path class="vitals-path" d="M0 45 H120 L140 25 L160 65 L186 42 H250 L274 45 H340 L362 20 L388 72 L412 45 H520 L546 45 H760"/>
     </svg>
   </div>
-
   <div class="hero-actions">
-    <a href="#bvsc" class="btn-primary">
-      Browse Notes
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-    </a>
-    <a href="#lab" class="btn-ghost">Explore AI Prompt Lab</a>
+    <a class="btn-primary" href="#bvsc">Explore Notes</a>
+    <a class="btn-ghost" href="#lab">Try AI Prompt Lab</a>
   </div>
-
-  <div class="scroll-cue"><span class="line"></span> SCROLL</div>
+  <div class="scroll-cue"><span class="line"></span> Scroll to explore</div>
 </section>
 
-<section id="ranked" class="reveal">
+<section id="ranked">
   <div class="section-head">
     <div>
-      <span class="section-tag">The Field, Ranked</span>
-      <h2 class="display">Best Veterinary Notes Sites in India</h2>
+      <span class="section-tag">Ranked Resources</span>
+      <h2 class="display">Best veterinary study sites</h2>
     </div>
-    <p>We benchmark ourselves against everyone else openly. Here's who's actually worth your time — including us.</p>
+    <p>Helpful references, ranked by usefulness, breadth, and study workflow.</p>
   </div>
-
   <div class="rank-list">
     <div class="rank-row gold">
-      <div class="rank-num-wrap">
-        <span class="rank-num mono">01</span>
-        <span class="rank-badge">Top Pick</span>
-      </div>
-      <div>
-        <div class="rank-name-row">
-          <span class="rank-name">Vetscraft</span>
-          <a href="https://www.vetscraft.com" target="_blank" rel="noopener" class="rank-visit">
-            Visit Site
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg>
-          </a>
-        </div>
-        <p class="rank-desc">A WordPress-built note bank with genuinely deep subject-wise coverage &mdash; Parasitology and Anatomy run species-by-species with consistent structure across every entry.</p>
-        <div class="rank-why"><b>Why #1</b>Most complete execution we've found: clean taxonomy, real content depth per topic, and a working drug index. The bar everyone else in this list is measured against.</div>
-      </div>
-      <div class="rank-meta">
-        <span class="rank-tag">Encyclopedic</span>
-        <div>
-          <div class="rank-meter-label"><span>DEPTH</span><b>9/10</b></div>
-          <div class="rank-meter"><div class="rank-meter-fill" style="--fill:90%"></div></div>
-        </div>
-        <div>
-          <div class="rank-meter-label"><span>INNOVATION</span><b>4/10</b></div>
-          <div class="rank-meter"><div class="rank-meter-fill" style="--fill:40%"></div></div>
-        </div>
-      </div>
-    </div>
-
-    <div class="rank-row">
-      <div class="rank-num-wrap">
-        <span class="rank-num mono">02</span>
-      </div>
-      <div>
-        <div class="rank-name-row">
-          <span class="rank-name">GreatVets</span>
-          <a href="https://greatvets.in" target="_blank" rel="noopener" class="rank-visit">
-            Visit Site
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg>
-          </a>
-        </div>
-        <p class="rank-desc">VCI and NAVLE-aligned positioning with flashcards and an AI assistant layered on top of notes and PYQs &mdash; the first site in this space to talk about studying smart rather than studying everything.</p>
-        <div class="rank-why"><b>Why #2</b>Content library is still thin, but no one else here is thinking in terms of exam-pattern strategy and AI-assisted recall &mdash; the same problem we're built to solve.</div>
-      </div>
-      <div class="rank-meta">
-        <span class="rank-tag">AI-Forward</span>
-        <div>
-          <div class="rank-meter-label"><span>DEPTH</span><b>5/10</b></div>
-          <div class="rank-meter"><div class="rank-meter-fill" style="--fill:50%"></div></div>
-        </div>
-        <div>
-          <div class="rank-meter-label"><span>INNOVATION</span><b>9/10</b></div>
-          <div class="rank-meter"><div class="rank-meter-fill" style="--fill:90%"></div></div>
-        </div>
-      </div>
-    </div>
-
-    <div class="rank-row">
-      <div class="rank-num-wrap">
-        <span class="rank-num mono">03</span>
-      </div>
+      <div class="rank-num-wrap"><span class="rank-num mono">01</span></div>
       <div>
         <div class="rank-name-row">
           <span class="rank-name">Vet Study</span>
-          <a href="https://vetstudy.journeywithasr.com" target="_blank" rel="noopener" class="rank-visit">
-            Visit Site
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg>
-          </a>
+          <a href="https://vetstudy.journeywithasr.com" target="_blank" rel="noopener" class="rank-visit">Visit Site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
         </div>
         <p class="rank-desc">One of the broadest archives around &mdash; drug index, vaccination schedules, breed lists, a veterinary dictionary, and year-wise notes from 1st through 4th year, all in one place.</p>
-        <div class="rank-why"><b>Why #3</b>Hard to beat on raw breadth, but the Blogger template makes finding anything slow, and nothing is ranked by what's actually exam-relevant.</div>
+        <div class="rank-why"><b>Why #1</b>Broad coverage, but the sprawling structure can make search slower than it should be.</div>
       </div>
-      <div class="rank-meta">
-        <span class="rank-tag">Archive</span>
-        <div>
-          <div class="rank-meter-label"><span>DEPTH</span><b>7/10</b></div>
-          <div class="rank-meter"><div class="rank-meter-fill" style="--fill:70%"></div></div>
-        </div>
-      </div>
+      <div class="rank-meta"><span class="rank-tag">Archive</span><div><div class="rank-meter-label"><span>DEPTH</span><b>9/10</b></div><div class="rank-meter"><div class="rank-meter-fill" style="--fill:90%"></div></div></div></div>
     </div>
 
     <div class="rank-row">
-      <div class="rank-num-wrap">
-        <span class="rank-num mono">04</span>
+      <div class="rank-num-wrap"><span class="rank-num mono">02</span></div>
+      <div>
+        <div class="rank-name-row">
+          <span class="rank-name">GreatVets</span>
+          <a href="https://greatvets.in" target="_blank" rel="noopener" class="rank-visit">Visit Site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
+        </div>
+        <p class="rank-desc">VCI and NAVLE-aligned positioning with flashcards and an AI assistant layered on top of notes and PYQs &mdash; the first site in this space to talk about studying smart rather than studying everything.</p>
+        <div class="rank-why"><b>Why #2</b>Strong concept, but the content library is still thin.</div>
       </div>
+      <div class="rank-meta"><span class="rank-tag">AI-Forward</span><div><div class="rank-meter-label"><span>INNOVATION</span><b>9/10</b></div><div class="rank-meter"><div class="rank-meter-fill" style="--fill:90%"></div></div></div></div>
+    </div>
+
+    <div class="rank-row">
+      <div class="rank-num-wrap"><span class="rank-num mono">03</span></div>
+      <div>
+        <div class="rank-name-row">
+          <span class="rank-name">Vet Study</span>
+          <a href="https://vetstudy.journeywithasr.com" target="_blank" rel="noopener" class="rank-visit">Visit Site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
+        </div>
+        <p class="rank-desc">One of the broadest archives around &mdash; drug index, vaccination schedules, breed lists, a veterinary dictionary, and year-wise notes from 1st through 4th year, all in one place.</p>
+        <div class="rank-why"><b>Why #3</b>Broad archive, but the navigation still feels heavy.</div>
+      </div>
+      <div class="rank-meta"><span class="rank-tag">Archive</span><div><div class="rank-meter-label"><span>DEPTH</span><b>7/10</b></div><div class="rank-meter"><div class="rank-meter-fill" style="--fill:70%"></div></div></div></div>
+    </div>
+
+    <div class="rank-row">
+      <div class="rank-num-wrap"><span class="rank-num mono">04</span></div>
       <div>
         <div class="rank-name-row">
           <span class="rank-name">DrVet.in</span>
-          <a href="https://www.drvet.in" target="_blank" rel="noopener" class="rank-visit">
-            Visit Site
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg>
-          </a>
+          <a href="https://www.drvet.in" target="_blank" rel="noopener" class="rank-visit">Visit Site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
         </div>
-        <p class="rank-desc">Running since 2019, with a long tail of ICAR exam papers, recruitment alerts, and downloadable textbooks built up over years of posts.</p>
-        <div class="rank-why"><b>Why #4</b>Genuine historical value, but ad density and an unstructured Blogger feed make it a search-engine destination more than a study destination.</div>
+        <p class="rank-desc">A useful resource hub, though the overall experience is more utilitarian than polished.</p>
+        <div class="rank-why"><b>Why #4</b>Useful, but not as cohesive as the stronger entries above.</div>
       </div>
-      <div class="rank-meta">
-        <span class="rank-tag">Legacy</span>
-        <div>
-          <div class="rank-meter-label"><span>DEPTH</span><b>6/10</b></div>
-          <div class="rank-meter"><div class="rank-meter-fill" style="--fill:60%"></div></div>
-        </div>
-      </div>
+      <div class="rank-meta"><span class="rank-tag">Utility</span><div><div class="rank-meter-label"><span>USABILITY</span><b>6/10</b></div><div class="rank-meter"><div class="rank-meter-fill" style="--fill:60%"></div></div></div></div>
     </div>
 
     <div class="rank-row">
-      <div class="rank-num-wrap">
-        <span class="rank-num mono">05</span>
-      </div>
+      <div class="rank-num-wrap"><span class="rank-num mono">05</span></div>
       <div>
         <div class="rank-name-row">
           <span class="rank-name">Vets Duo</span>
-          <a href="https://vetsduo.com" target="_blank" rel="noopener" class="rank-visit">
-            Visit Site
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg>
-          </a>
+          <a href="https://vetsduo.com" target="_blank" rel="noopener" class="rank-visit">Visit Site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
         </div>
         <p class="rank-desc">A founder-led portal connecting field veterinary work with student resources &mdash; books, notes, and past papers organized cleanly by year.</p>
         <div class="rank-why"><b>Why #5</b>Best-looking newcomer on this list, but most year and subject pages are still placeholders rather than filled-in content.</div>
       </div>
-      <div class="rank-meta">
-        <span class="rank-tag">Emerging</span>
-        <div>
-          <div class="rank-meter-label"><span>DEPTH</span><b>3/10</b></div>
-          <div class="rank-meter"><div class="rank-meter-fill" style="--fill:30%"></div></div>
-        </div>
-      </div>
+      <div class="rank-meta"><span class="rank-tag">Emerging</span><div><div class="rank-meter-label"><span>MATURITY</span><b>4/10</b></div><div class="rank-meter"><div class="rank-meter-fill" style="--fill:40%"></div></div></div></div>
     </div>
   </div>
 </section>
 
-<section id="bvsc" class="reveal">
+<section id="bvsc">
   <div class="section-head">
     <div>
-      <span class="section-tag">Two Pillars. Nothing Else to Hunt Through.</span>
-      <h2 class="display">Where do you want to start?</h2>
+      <span class="section-tag">BVSc & AH</span>
+      <h2 class="display">Year-wise study path</h2>
     </div>
+    <p>Navigate the degree by year and keep the important notes easy to reach.</p>
   </div>
-
   <div class="pillars">
     <div class="pillar-card">
       <div class="pillar-glow"></div>
-      <span class="pillar-tag">Core Curriculum</span>
-      <h3 class="display">BVSc &amp; AH</h3>
-      <p>Year-wise, then subject-wise. Notes built around what's actually examined — not the full textbook chapter.</p>
+      <span class="pillar-tag">First Year</span>
+      <h3 class="display">Foundation subjects</h3>
+      <p>Start with anatomy, physiology, and LPM — the base layer for later years.</p>
       <div class="pillar-list">
         <a href="first-year-notes.html" class="pillar-chip">1st Year</a>
         <a href="second-year-notes.html" class="pillar-chip">2nd Year</a>
@@ -1194,12 +1135,10 @@
       <div class="pillar-glow"></div>
       <span class="pillar-tag">Beyond the Degree</span>
       <h3 class="display">Competitive Exams</h3>
-      <p>Rapid revision sheets, frequency-tagged question banks, and subject recaps built around what's actually asked — so your prep stays sharp, not scattered.</p>
+      <p>Recap sheets, exam prep, and high-yield resources for ICAR and other exams.</p>
       <div class="pillar-list">
-        <a href="#exams" class="pillar-chip">Rapid Revision</a>
-        <a href="#exams" class="pillar-chip">Question Banks</a>
-        <a href="#exams" class="pillar-chip">Subject Recaps</a>
-        <a href="#exams" class="pillar-chip">ICAR / NET / PSC</a>
+        <a href="#lab" class="pillar-chip">AI Prompt Lab</a>
+        <a href="#ranked" class="pillar-chip">Ranked Resources</a>
       </div>
       <div class="pillar-arrow">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
@@ -1208,42 +1147,21 @@
   </div>
 </section>
 
-<section id="lab" class="reveal">
-  <div class="section-head">
-    <div>
-      <span class="section-tag">The Unfair Advantage</span>
-      <h2 class="display">Vet AI Prompt Lab</h2>
-    </div>
-    <p>Don't just read notes — interrogate them. Three prompt styles, one for every stage of prep: understanding a topic, cramming it, and testing yourself on it.</p>
-  </div>
-
+<section id="lab">
   <div class="lab-banner">
+    <div class="lab-grid-decor"></div>
     <div class="lab-head">
-      <span class="lab-chip">New</span>
-      <span class="mono" style="font-size:0.78rem; color:var(--bone-dim);">3 prompt styles · fill in any topic</span>
+      <span class="lab-chip">AI Prompt Lab</span>
+      <span class="section-tag" style="margin: 0;">Study faster, recall smarter</span>
     </div>
-    <h3 class="display">Make the AI study with you, not for you.</h3>
-    <p>Copy a template, drop in whatever you're studying, and go. Written by working vets to turn any subject into an exam-shaped drill.</p>
-
+    <h3 class="display">Use prompts to turn notes into active recall.</h3>
+    <p>Upload a recap sheet, ask for a quiz, and let the assistant expose what you actually know.</p>
     <div class="prompt-cards">
-      <div class="prompt-card">
-        <span class="pc-label">Concept Breakdown</span>
-        <p class="pc-text">"Explain <span class="hl">[ topic ]</span> the way you'd explain it to a topper in one page — core mechanism first, then the one exception examiners love to test."</p>
-      </div>
-      <div class="prompt-card">
-        <span class="pc-label">Exam-Eve Recall</span>
-        <p class="pc-text">"Give me a rapid-fire recap of <span class="hl">[ topic ]</span> — only the facts, values, and terms that show up most often in past papers. No explanations, just the recall list."</p>
-      </div>
-      <div class="prompt-card">
-        <span class="pc-label">Active Recall Drill</span>
-        <p class="pc-text">"Quiz me on <span class="hl">[ topic ]</span> one question at a time, examiner-style — don't reveal the next question until I answer, and increase difficulty as I get things right."</p>
-      </div>
+      <div class="prompt-card"><span class="pc-label">Concept Breakdown</span><div class="pc-text">Break this topic into <span class="hl">normal vs abnormal</span>, then ask me 5 exam-style questions.</div></div>
+      <div class="prompt-card"><span class="pc-label">Exam-Eve Recall</span><div class="pc-text">Give me the <span class="hl">highest-yield</span> facts only, with one-line memory hooks.</div></div>
+      <div class="prompt-card"><span class="pc-label">Active Recall</span><div class="pc-text">Quiz me one question at a time and wait for my answer before moving on.</div></div>
     </div>
-
-    <a href="mailto:contact@thatvetguy.net?subject=Notify%20me%20-%20Full%20Prompt%20Lab" class="lab-cta">
-      Get notified when it launches
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-    </a>
+    <a class="lab-cta" href="#bvsc">Go back to notes <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a>
   </div>
 </section>
 
@@ -1258,77 +1176,36 @@
 </footer>
 
 <script>
-  // Scroll reveal (sections)
+  document.documentElement.classList.remove('no-js');
+
   const reveals = document.querySelectorAll('.reveal');
   const obs = new IntersectionObserver((entries) => {
-    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('in'); });
-  }, { threshold: 0.15 });
-  reveals.forEach(r => obs.observe(r));
-
-  // Scroll reveal (individual rank rows, triggers meter-bar fill)
-  const rankRows = document.querySelectorAll('.rank-row');
-  const rankObs = new IntersectionObserver((entries) => {
     entries.forEach((e, i) => {
       if (e.isIntersecting) {
-        setTimeout(() => e.target.classList.add('in'), i * 90);
-        rankObs.unobserve(e.target);
+        const delay = e.target.classList.contains('subject-card') ? i * 90 : 0;
+        setTimeout(() => e.target.classList.add('in'), delay);
+        obs.unobserve(e.target);
       }
     });
-  }, { threshold: 0.25 });
-  rankRows.forEach(r => rankObs.observe(r));
+  }, { threshold: 0.05, rootMargin: '0px 0px -50px 0px' });
+  reveals.forEach(r => obs.observe(r));
 
-  // Mouse-follow glow on rank rows
-  rankRows.forEach(row => {
-    row.addEventListener('mousemove', (e) => {
-      const rect = row.getBoundingClientRect();
-      row.style.setProperty('--mx', `${e.clientX - rect.left}px`);
-      row.style.setProperty('--my', `${e.clientY - rect.top}px`);
-    });
-  });
-
-  // Nav background on scroll
-  const navEl = document.querySelector('nav');
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 40) {
-      navEl.style.background = 'rgba(7,9,10,0.92)';
-      navEl.style.borderBottom = '1px solid #1E2725';
-    } else {
-      navEl.style.background = 'linear-gradient(to bottom, rgba(7,9,10,0.85), rgba(7,9,10,0))';
-      navEl.style.borderBottom = 'none';
-    }
-  });
-
-  // Mobile drawer
   const hamburger = document.getElementById('hamburgerBtn');
   const drawer = document.getElementById('drawer');
   const scrim = document.getElementById('drawerScrim');
-
   function closeDrawer() {
-    hamburger.classList.remove('open');
-    drawer.classList.remove('open');
-    scrim.classList.remove('open');
+    hamburger.classList.remove('open'); drawer.classList.remove('open'); scrim.classList.remove('open');
     document.body.style.overflow = '';
   }
   function openDrawer() {
-    hamburger.classList.add('open');
-    drawer.classList.add('open');
-    scrim.classList.add('open');
+    hamburger.classList.add('open'); drawer.classList.add('open'); scrim.classList.add('open');
     document.body.style.overflow = 'hidden';
   }
-  hamburger.addEventListener('click', () => {
-    drawer.classList.contains('open') ? closeDrawer() : openDrawer();
-  });
+  hamburger.addEventListener('click', () => drawer.classList.contains('open') ? closeDrawer() : openDrawer());
   scrim.addEventListener('click', closeDrawer);
   drawer.querySelectorAll('a').forEach(a => a.addEventListener('click', closeDrawer));
-
-  // Drawer accordion groups
-  document.querySelectorAll('[data-group]').forEach(group => {
-    const top = group.querySelector('.drawer-top');
-    top.addEventListener('click', () => {
-      const isOpen = group.classList.contains('open');
-      document.querySelectorAll('[data-group]').forEach(g => g.classList.remove('open'));
-      if (!isOpen) group.classList.add('open');
-    });
+  drawer.querySelectorAll('.drawer-top').forEach(btn => {
+    btn.addEventListener('click', () => btn.parentElement.classList.toggle('open'));
   });
 </script>
 
