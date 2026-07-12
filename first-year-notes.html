@@ -3,16 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>1st Year Notes — BVSc & AH | Veterinary Notes by ThatVetGuy</title>
+<title>1st Year Notes — BVSc & AH | World's Best Notes</title>
 <style>
   :root {
-    --black: #07090A;
-    --black-soft: #0D1110;
-    --bone: #ECE6D6;
-    --bone-dim: #B8B2A0;
-    --scope: #5CFFB0;
-    --scope-dim: #2F7A5C;
-    --line: #1E2725;
+    --black: #050816;
+    --black-soft: #0C1326;
+    --bone: #F5F7FF;
+    --bone-dim: #A8B3D4;
+    --scope: #60A5FA;
+    --scope-dim: #2563EB;
+    --line: #1B2745;
     --amber: #F5B942;
     font-size: 16px;
   }
@@ -46,7 +46,7 @@
   .bg-glow {
     position: fixed; top: -20%; left: 50%; transform: translateX(-50%);
     width: 1200px; height: 700px;
-    background: radial-gradient(ellipse at center, rgba(16,185,129,0.10), transparent 60%);
+    background: radial-gradient(ellipse at center, rgba(59,130,246,0.10), transparent 60%);
     z-index: 0; pointer-events: none;
   }
 
@@ -56,7 +56,7 @@
     display: flex; align-items: center; justify-content: space-between;
     padding: 22px 48px;
     backdrop-filter: blur(14px);
-    background: rgba(7,9,10,0.92);
+    background: rgba(5,8,22,0.92);
     border-bottom: 1px solid var(--line);
   }
   .logo { display: flex; align-items: center; gap: 10px; font-size: 1.1rem; }
@@ -74,7 +74,7 @@
     padding: 8px 18px; border-radius: 999px; font-size: 0.78rem; font-weight: 700;
     letter-spacing: 0.04em; text-transform: uppercase; transition: all 0.25s ease;
   }
-  .nav-cta:hover { background: var(--scope); color: var(--black); box-shadow: 0 0 24px rgba(92,255,176,0.4); }
+  .nav-cta:hover { background: var(--scope); color: var(--black); box-shadow: 0 0 24px rgba(96,165,250,0.4); }
 
   .hamburger {
     display: none; width: 40px; height: 40px; border: 1px solid var(--line); border-radius: 10px;
@@ -86,11 +86,11 @@
   .hamburger.open span:nth-child(2) { opacity: 0; }
   .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); background: var(--scope); }
 
-  .drawer-scrim { position: fixed; inset: 0; background: rgba(4,6,5,0.6); backdrop-filter: blur(3px); z-index: 190; opacity: 0; pointer-events: none; transition: opacity 0.35s ease; }
+  .drawer-scrim { position: fixed; inset: 0; background: rgba(4,8,18,0.6); backdrop-filter: blur(3px); z-index: 190; opacity: 0; pointer-events: none; transition: opacity 0.35s ease; }
   .drawer-scrim.open { opacity: 1; pointer-events: auto; }
   .drawer {
     position: fixed; top: 0; right: 0; height: 100%; width: min(84vw, 360px);
-    background: linear-gradient(160deg, #0D1211, #07090A);
+    background: linear-gradient(160deg, #0E1428, #050816);
     border-left: 1px solid var(--line); z-index: 200;
     transform: translateX(100%); transition: transform 0.4s cubic-bezier(0.16,1,0.3,1);
     overflow-y: auto; padding: 74px 24px 32px;
@@ -138,7 +138,7 @@
   }
   .page-head h1 { font-size: clamp(2.6rem, 6vw, 4.6rem); line-height: 0.98; max-width: 900px; }
   .page-head h1 .accent {
-    background: linear-gradient(100deg, var(--scope) 30%, #8fffce 50%, var(--scope) 70%);
+    background: linear-gradient(100deg, var(--scope) 30%, #BFDBFE 50%, var(--scope) 70%);
     background-size: 200% auto;
     -webkit-background-clip: text;
     background-clip: text;
@@ -153,10 +153,10 @@
     position: relative;
     z-index: 1;
     margin: 0 48px 56px;
-    border: 1px solid rgba(92,255,176,0.3);
+    border: 1px solid rgba(96,165,250,0.3);
     border-radius: 18px;
     padding: 36px 40px;
-    background: radial-gradient(circle at 15% 20%, rgba(92,255,176,0.08), transparent 55%), linear-gradient(160deg, #0D1413, #090B0A);
+    background: radial-gradient(circle at 15% 20%, rgba(96,165,250,0.08), transparent 55%), linear-gradient(160deg, #101935, #070D1E);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -166,15 +166,15 @@
     transition: border-color 0.3s ease, box-shadow 0.3s ease;
   }
   .roadmap-card:hover {
-    border-color: rgba(92,255,176,0.55);
-    box-shadow: 0 20px 60px -20px rgba(92,255,176,0.15);
+    border-color: rgba(96,165,250,0.55);
+    box-shadow: 0 20px 60px -20px rgba(96,165,250,0.15);
   }
   .roadmap-left { display: flex; align-items: center; gap: 20px; }
   .roadmap-icon {
     width: 54px; height: 54px; flex-shrink: 0;
     border-radius: 14px;
-    background: rgba(92,255,176,0.12);
-    border: 1px solid rgba(92,255,176,0.35);
+    background: rgba(96,165,250,0.12);
+    border: 1px solid rgba(96,165,250,0.35);
     display: flex; align-items: center; justify-content: center;
     animation: float 3.5s ease-in-out infinite;
   }
@@ -201,7 +201,7 @@
     transition: all 0.2s ease;
     flex-shrink: 0;
   }
-  .roadmap-btn:hover { box-shadow: 0 8px 24px rgba(92,255,176,0.35); transform: translateY(-2px); }
+  .roadmap-btn:hover { box-shadow: 0 8px 24px rgba(96,165,250,0.35); transform: translateY(-2px); }
   .roadmap-btn svg { width: 15px; height: 15px; }
 
   /* ===== Legend / key ===== */
@@ -233,8 +233,8 @@
   .legend-icon.syllabus { color: var(--bone-dim); }
   .legend-icon.deep { color: var(--amber); border-color: rgba(245,185,66,0.3); }
   .legend-item:hover .legend-icon.deep { box-shadow: 0 0 18px rgba(245,185,66,0.25); }
-  .legend-icon.recap { color: var(--scope); border-color: rgba(92,255,176,0.3); }
-  .legend-item:hover .legend-icon.recap { box-shadow: 0 0 18px rgba(92,255,176,0.25); }
+  .legend-icon.recap { color: var(--scope); border-color: rgba(96,165,250,0.3); }
+  .legend-item:hover .legend-icon.recap { box-shadow: 0 0 18px rgba(96,165,250,0.25); }
   .legend-text h4 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 5px; }
   .legend-text p { font-size: 0.82rem; color: var(--bone-dim); line-height: 1.5; }
 
@@ -249,7 +249,7 @@
     transition: border-color 0.35s ease, box-shadow 0.35s ease;
   }
   .subject-card:hover {
-    border-color: rgba(92,255,176,0.25);
+    border-color: rgba(96,165,250,0.25);
     box-shadow: 0 20px 60px -20px rgba(0,0,0,0.6);
   }
 
@@ -272,8 +272,8 @@
   }
   .subject-card:hover .subject-num {
     color: var(--scope);
-    border-color: rgba(92,255,176,0.4);
-    box-shadow: 0 0 16px rgba(92,255,176,0.15);
+    border-color: rgba(96,165,250,0.4);
+    box-shadow: 0 0 16px rgba(96,165,250,0.15);
   }
   .subject-head h2 { font-size: 1.7rem; letter-spacing: -0.01em; }
   .subject-tag {
@@ -338,7 +338,7 @@
 
   /* ===== Recap tile — elevated as the proprietary differentiator ===== */
   .resource.is-recap {
-    background: radial-gradient(circle at 85% 0%, rgba(92,255,176,0.06), transparent 60%);
+    background: radial-gradient(circle at 85% 0%, rgba(96,165,250,0.06), transparent 60%);
     position: relative;
   }
   .resource.is-recap::before {
@@ -347,7 +347,7 @@
     inset: 0;
     padding: 1px;
     border-radius: inherit;
-    background: linear-gradient(120deg, transparent, rgba(92,255,176,0.35), transparent);
+    background: linear-gradient(120deg, transparent, rgba(96,165,250,0.35), transparent);
     background-size: 250% 250%;
     -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
     -webkit-mask-composite: xor;
@@ -363,8 +363,8 @@
     100% { background-position: 100% 100%; }
   }
   .resource.is-recap .resource-kind.recap {
-    background: rgba(92,255,176,0.1);
-    border: 1px solid rgba(92,255,176,0.3);
+    background: rgba(96,165,250,0.1);
+    border: 1px solid rgba(96,165,250,0.3);
     padding: 5px 11px 5px 9px;
     border-radius: 999px;
     width: fit-content;
@@ -373,9 +373,9 @@
   .recap-preview {
     margin: 4px 0 18px;
     padding: 16px 16px 14px;
-    border: 1px solid rgba(92,255,176,0.18);
+    border: 1px solid rgba(96,165,250,0.18);
     border-radius: 12px;
-    background: rgba(92,255,176,0.035);
+    background: rgba(96,165,250,0.035);
   }
   .recap-preview-label {
     font-size: 0.66rem;
@@ -432,7 +432,7 @@
     background: var(--scope);
     color: var(--black);
   }
-  .resource-btn.owned:hover { box-shadow: 0 6px 20px rgba(92,255,176,0.35); transform: translateY(-1px); }
+  .resource-btn.owned:hover { box-shadow: 0 6px 20px rgba(96,165,250,0.35); transform: translateY(-1px); }
   .resource-btn svg { width: 13px; height: 13px; }
 
   /* ===== Telegram channel banner (comprehensive bundle — brand color, not Telegram blue) ===== */
@@ -442,7 +442,7 @@
     justify-content: space-between;
     gap: 20px;
     padding: 22px 32px;
-    background: radial-gradient(circle at 10% 30%, rgba(92,255,176,0.08), transparent 60%), linear-gradient(90deg, rgba(255,255,255,0.02), transparent);
+    background: radial-gradient(circle at 10% 30%, rgba(96,165,250,0.08), transparent 60%), linear-gradient(90deg, rgba(255,255,255,0.02), transparent);
     border-bottom: 1px solid var(--line);
     flex-wrap: wrap;
     position: relative;
@@ -451,8 +451,8 @@
   .tg-icon {
     width: 40px; height: 40px; flex-shrink: 0;
     border-radius: 11px;
-    background: rgba(92,255,176,0.1);
-    border: 1px solid rgba(92,255,176,0.3);
+    background: rgba(96,165,250,0.1);
+    border: 1px solid rgba(96,165,250,0.3);
     display: flex; align-items: center; justify-content: center;
     transition: transform 0.3s ease;
   }
@@ -475,7 +475,7 @@
   .tg-join-btn:hover {
     background: var(--scope);
     color: var(--black);
-    box-shadow: 0 8px 24px rgba(92,255,176,0.35);
+    box-shadow: 0 8px 24px rgba(96,165,250,0.35);
     transform: translateY(-2px);
   }
   .tg-join-btn svg { width: 15px; height: 15px; }
@@ -628,13 +628,13 @@
   <div class="logo">
     <div class="logo-mark">
       <svg viewBox="0 0 28 28" fill="none">
-        <circle cx="14" cy="14" r="12.5" stroke="#5CFFB0" stroke-width="1.2" opacity="0.4"/>
-        <path d="M5 14 H10 L12 8 L16 20 L18 14 H23" stroke="#5CFFB0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <circle cx="14" cy="14" r="12.5" stroke="#60A5FA" stroke-width="1.2" opacity="0.4"/>
+        <path d="M5 14 H10 L12 8 L16 20 L18 14 H23" stroke="#60A5FA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
       </svg>
     </div>
     <div class="logo-text">
-      <span class="pulse-word display">VET NOTES</span>
-      <span class="sub-word">BY THATVETGUY</span>
+      <span class="pulse-word display">WORLD'S BEST</span>
+      <span class="sub-word">NOTES</span>
     </div>
   </div>
   <div class="nav-links">
@@ -779,7 +779,7 @@
           Objective Recap Sheet
         </div>
         <h3>LPM — Objective Recap</h3>
-        <div class="author"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>ThatVetGuy Notes</div>
+        <div class="author"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>World's Best Notes</div>
         <p class="purpose">Completely concised and crisp recap of important points for objective and short answers.</p>
         <a href="https://t.me/+zDQ8mmpDqOFjNTJl" target="_blank" rel="noopener" class="resource-btn tg-item">
           Download via Telegram
@@ -845,7 +845,7 @@
           Objective Recap Sheet
         </div>
         <h3>Physiology — Objective Recap</h3>
-        <div class="author"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>ThatVetGuy Notes</div>
+        <div class="author"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>World's Best Notes</div>
         <p class="purpose">Completely concised and crisp recap of important points for objective and short answers.</p>
         <a href="https://t.me/+BA8DyseFkhk2Y2Fl" target="_blank" rel="noopener" class="resource-btn tg-item">
           Download via Telegram
@@ -911,7 +911,7 @@
           Objective Recap Sheet
         </div>
         <h3>Anatomy — Objective Recap</h3>
-        <div class="author"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>ThatVetGuy Notes</div>
+        <div class="author"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>World's Best Notes</div>
         <p class="purpose">Completely concised and crisp recap of important points for objective and short answers.</p>
         <a href="https://t.me/+FWR8Xdptkko5YjU1" target="_blank" rel="noopener" class="resource-btn tg-item">
           Download via Telegram
@@ -947,7 +947,7 @@
 </div>
 
 <footer>
-  <div class="foot-left">© 2026 Veterinary Notes — a ThatVetGuy collective project.</div>
+  <div class="foot-left">© 2026 World's Best Notes.</div>
   <div class="foot-links">
     <a href="https://thatvetguy.net" target="_blank" rel="noopener">thatvetguy.net ↗</a>
     <a href="https://blog.thatvetguy.net" target="_blank" rel="noopener">Blog ↗</a>
