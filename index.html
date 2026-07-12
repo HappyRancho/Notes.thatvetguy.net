@@ -6,15 +6,15 @@
 <title>World's Best Notes — Veterinary Edition</title>
 <style>
   :root {
-    --black: #050816;
-    --black-soft: #0C1326;
-    --panel: #111A3380;
-    --bone: #F5F7FF;
-    --bone-dim: #A8B3D4;
-    --emerald: #3B82F6;
-    --scope: #60A5FA;
-    --scope-dim: #2563EB;
-    --line: #1B2745;
+    --black: #130A1E;
+    --black-soft: #1A1030;
+    --panel: #2A1A4680;
+    --bone: #FFF4E0;
+    --bone-dim: #D6C5A3;
+    --emerald: #F59E0B;
+    --scope: #FFB547;
+    --scope-dim: #B87300;
+    --line: #3A284F;
     --red: #E5484D;
     font-size: 16px;
   }
@@ -70,7 +70,7 @@
     transform: translateX(-50%);
     width: 1200px;
     height: 800px;
-    background: radial-gradient(ellipse at center, rgba(59,130,246,0.12), transparent 60%);
+    background: radial-gradient(ellipse at center, rgba(255,181,71,0.12), transparent 60%);
     z-index: 0;
     pointer-events: none;
   }
@@ -85,7 +85,7 @@
     justify-content: space-between;
     padding: 22px 48px;
     backdrop-filter: blur(14px);
-    background: linear-gradient(to bottom, rgba(5,8,22,0.85), rgba(5,8,22,0));
+    background: linear-gradient(to bottom, rgba(19,10,30,0.85), rgba(19,10,30,0));
     transition: background 0.3s ease;
   }
 
@@ -148,7 +148,7 @@
   .nav-cta:hover {
     background: var(--scope);
     color: var(--black);
-    box-shadow: 0 0 24px rgba(96,165,250,0.4);
+    box-shadow: 0 0 24px rgba(255,181,71,0.4);
   }
 
   /* ===== Mobile hamburger ===== */
@@ -182,7 +182,7 @@
   .drawer-scrim {
     position: fixed;
     inset: 0;
-    background: rgba(4,8,18,0.6);
+    background: rgba(20,12,34,0.6);
     backdrop-filter: blur(3px);
     z-index: 190;
     opacity: 0;
@@ -197,7 +197,7 @@
     right: 0;
     height: 100%;
     width: min(84vw, 360px);
-    background: linear-gradient(160deg, #0E1428, #050816);
+    background: linear-gradient(160deg, #201335, #130A1E);
     border-left: 1px solid var(--line);
     z-index: 200;
     transform: translateX(100%);
@@ -374,7 +374,7 @@
     stroke-width: 2;
     stroke-linecap: round;
     stroke-linejoin: round;
-    filter: drop-shadow(0 0 6px rgba(96,165,250,0.6));
+    filter: drop-shadow(0 0 6px rgba(255,181,71,0.6));
     stroke-dasharray: 1400;
     stroke-dashoffset: 1400;
     animation: draw 3.2s ease-in-out infinite;
@@ -410,7 +410,7 @@
   }
   .btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 30px rgba(96,165,250,0.35);
+    box-shadow: 0 8px 30px rgba(255,181,71,0.35);
   }
 
   .btn-ghost {
@@ -508,7 +508,7 @@
     content: '';
     position: absolute;
     inset: 0;
-    background: radial-gradient(600px circle at var(--mx,50%) var(--my,50%), rgba(96,165,250,0.06), transparent 40%);
+    background: radial-gradient(600px circle at var(--mx,50%) var(--my,50%), rgba(255,181,71,0.06), transparent 40%);
     opacity: 0;
     transition: opacity 0.3s ease;
     pointer-events: none;
@@ -520,13 +520,13 @@
   }
   .rank-row:hover::before { opacity: 1; }
 
-  .rank-row.gold { border-color: rgba(96,165,250,0.35); }
+  .rank-row.gold { border-color: rgba(255,181,71,0.35); }
   .rank-row.gold::after {
     content: '';
     position: absolute;
     top: -60px; right: -60px;
     width: 200px; height: 200px;
-    background: radial-gradient(circle, rgba(96,165,250,0.18), transparent 70%);
+    background: radial-gradient(circle, rgba(255,181,71,0.18), transparent 70%);
     pointer-events: none;
   }
 
@@ -546,8 +546,8 @@
     line-height: 1;
     transition: color 0.3s ease, text-shadow 0.3s ease;
   }
-  .rank-row:hover .rank-num { color: var(--scope); text-shadow: 0 0 20px rgba(96,165,250,0.5); }
-  .rank-row.gold .rank-num { color: var(--scope); text-shadow: 0 0 16px rgba(96,165,250,0.35); }
+  .rank-row:hover .rank-num { color: var(--scope); text-shadow: 0 0 20px rgba(255,181,71,0.5); }
+  .rank-row.gold .rank-num { color: var(--scope); text-shadow: 0 0 16px rgba(255,181,71,0.35); }
 
   .rank-badge {
     font-size: 0.58rem;
@@ -591,7 +591,7 @@
   .rank-visit:hover {
     background: var(--scope);
     color: var(--black);
-    box-shadow: 0 0 18px rgba(96,165,250,0.4);
+    box-shadow: 0 0 18px rgba(255,181,71,0.4);
   }
   .rank-visit svg { width: 11px; height: 11px; transition: transform 0.2s ease; }
   .rank-visit:hover svg { transform: translate(1px,-1px); }
@@ -698,7 +698,7 @@
   .pillar-glow {
     position: absolute;
     width: 280px; height: 280px;
-    background: radial-gradient(circle, rgba(96,165,250,0.15), transparent 70%);
+    background: radial-gradient(circle, rgba(255,181,71,0.15), transparent 70%);
     top: -100px; right: -100px;
     opacity: 0;
     transition: opacity 0.4s ease;
@@ -752,10 +752,10 @@
   }
   .pillar-chip:hover {
     border-color: var(--scope);
-    background: rgba(96,165,250,0.1);
+    background: rgba(255,181,71,0.1);
     color: var(--scope);
   }
-  .pillar-card:hover .pillar-chip { border-color: rgba(96,165,250,0.3); }
+  .pillar-card:hover .pillar-chip { border-color: rgba(255,181,71,0.3); }
 
   .pillar-arrow {
     position: absolute;
@@ -781,8 +781,8 @@
     border-radius: 20px;
     border: 1px solid var(--scope-dim);
     background:
-      radial-gradient(circle at 20% 20%, rgba(96,165,250,0.08), transparent 50%),
-      linear-gradient(160deg, #101935, #070D1E);
+      radial-gradient(circle at 20% 20%, rgba(255,181,71,0.08), transparent 50%),
+      linear-gradient(160deg, #2A1A46, #140C22);
     padding: 56px;
     position: relative;
     overflow: hidden;
@@ -805,14 +805,14 @@
 
   .lab-chip {
     font-size: 0.7rem;
-    background: rgba(96,165,250,0.12);
+    background: rgba(255,181,71,0.12);
     color: var(--scope);
     padding: 5px 12px;
     border-radius: 999px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     font-weight: 700;
-    border: 1px solid rgba(96,165,250,0.3);
+    border: 1px solid rgba(255,181,71,0.3);
   }
 
   .lab-banner h3 {
@@ -931,8 +931,8 @@
   <div class="logo">
     <div class="logo-mark">
       <svg viewBox="0 0 28 28" fill="none">
-        <circle cx="14" cy="14" r="12.5" stroke="#60A5FA" stroke-width="1.2" opacity="0.4"/>
-        <path d="M5 14 H10 L12 8 L16 20 L18 14 H23" stroke="#60A5FA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <circle cx="14" cy="14" r="12.5" stroke="#FFB547" stroke-width="1.2" opacity="0.4"/>
+        <path d="M5 14 H10 L12 8 L16 20 L18 14 H23" stroke="#FFB547" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
       </svg>
     </div>
     <div class="logo-text">
@@ -1290,10 +1290,10 @@
   const navEl = document.querySelector('nav');
   window.addEventListener('scroll', () => {
     if (window.scrollY > 40) {
-      navEl.style.background = 'rgba(5,8,22,0.92)';
-      navEl.style.borderBottom = '1px solid #1B2745';
+      navEl.style.background = 'rgba(19,10,30,0.92)';
+      navEl.style.borderBottom = '1px solid #3A284F';
     } else {
-      navEl.style.background = 'linear-gradient(to bottom, rgba(5,8,22,0.85), rgba(5,8,22,0))';
+      navEl.style.background = 'linear-gradient(to bottom, rgba(19,10,30,0.85), rgba(19,10,30,0))';
       navEl.style.borderBottom = 'none';
     }
   });
