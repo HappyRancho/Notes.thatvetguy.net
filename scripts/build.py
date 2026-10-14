@@ -2,6 +2,7 @@
 """Build the dependency-free site. Edit data/resources.json, then run python3 scripts/build.py."""
 from pathlib import Path
 import json
+import hashlib
 import re
 from html import escape
 from resources import RECORDS, CATALOGUE, unique
@@ -13,7 +14,7 @@ DATA = json.loads((ROOT / 'data/resources.json').read_text())
 SUBJECTS = json.loads((ROOT / 'data/subjects.json').read_text())
 ASIDES = json.loads((ROOT / 'data/section-asides.json').read_text())
 BASE = 'https://notes.thatvetguy.net'
-VERSION = '20261014-p3'
+VERSION = hashlib.sha256(b''.join((ROOT/'assets'/asset).read_bytes() for asset in ['site.css','theme.js','logic.js','site.js'])).hexdigest()[:12]
 DESCRIPTION = 'Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.'
 VCI = 'https://www.vci.dahd.gov.in/sites/default/files/IVPR/MSVE-Gazette-2016.pdf#page=103'
 ROUTES = {
