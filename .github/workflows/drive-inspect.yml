@@ -6,9 +6,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/inspect-public-drive.py
+      - run: python3 scripts/crawl-public-drive.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: public-drive-inspection
-          path: docs/qa/task2-drive/
+          path: |
+            docs/qa/task2-drive/
+            data/drive_manifest.json
