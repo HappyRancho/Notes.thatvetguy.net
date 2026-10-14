@@ -87,7 +87,7 @@ def luminance(h):
     c=[int(h[i:i+2],16)/255 for i in (1,3,5)]
     c=[x/12.92 if x<=.04045 else ((x+.055)/1.055)**2.4 for x in c]
     return sum(a*b for a,b in zip(c,[.2126,.7152,.0722]))
-pairs=[('body','#233d32','#f7f7f0'),('secondary','#5c685e','#f7f7f0'),('link','#244d3d','#f7f7f0'),('placeholder','#69756b','#fffefa'),('subject number','#68765f','#fffefa'),('inactive tab','#233d32','#e8edde'),('selected tab','#fffefa','#244d3d'),('note text','#344022','#e8edba'),('note metadata','#54603c','#e8edba'),('AI copy','#5c685e','#eaf0e5'),('Telegram','#086b99','#f7f7f0'),('footer','#c8d4c3','#233f33'),('result type','#365340','#edf2e9')]
+pairs=[('body','#25334a','#faf8f5'),('secondary','#5d6777','#faf8f5'),('link','#293f67','#faf8f5'),('placeholder','#687385','#fffefd'),('subject number','#65728a','#fffefd'),('inactive tab','#25334a','#e7edf6'),('selected tab','#fffefd','#293f67'),('note text','#4d382c','#f6dcc7'),('note metadata','#72533e','#f6dcc7'),('AI copy','#5d6777','#eaf0f7'),('Telegram','#086b99','#faf8f5'),('footer','#ced9e9','#243653'),('result type','#3b5275','#edf2fa')]
 ratios=[]
 for label,fg,bg in pairs:
     lo,hi=sorted([luminance(fg),luminance(bg)]);ratio=(hi+.05)/(lo+.05)

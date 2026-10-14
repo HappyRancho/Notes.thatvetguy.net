@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / 'data/resources.json').read_text())
 SUBJECTS = json.loads((ROOT / 'data/subjects.json').read_text())
 BASE = 'https://notes.thatvetguy.net'
-VERSION = '20261014-content-restored'
+VERSION = '20261014-midnight-apricot'
 DESCRIPTION = 'Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.'
 VCI = 'https://www.vci.dahd.gov.in/sites/default/files/IVPR/MSVE-Gazette-2016.pdf#page=103'
 ROUTES = {
@@ -93,7 +93,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
-<meta name="theme-color" content="#f7f7f0"><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
+<meta name="theme-color" content="#faf8f5"><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
 <link rel="canonical" href="{canonical}"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE}/assets/social-cover.png"><meta property="og:image:alt" content="Notes.ThatVetGuy — free academic resources for future vets"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE}/assets/social-cover.png">

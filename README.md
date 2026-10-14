@@ -30,7 +30,7 @@ References: [Google's AI search guidance](https://developers.google.com/search/d
 
 ## Design and accessibility
 
-One evergreen, warm-paper and pale-citron palette; compact search; equal objective links; a revision-note treatment for Backbenchers. No external fonts, animation libraries, tracking, login or runtime framework. Search catalogue loads only on interaction. Motion respects reduced-motion preferences; content never depends on reveal animations. Native modal navigation supports Escape, outside click, focus containment, link dismissal and scroll lock.
+One midnight-blue, warm-ivory and muted-apricot palette; compact search; equal objective links; a revision-note treatment for Backbenchers. No external fonts, animation libraries, tracking, login or runtime framework. Search catalogue loads only on interaction. Motion respects reduced-motion preferences; content never depends on reveal animations. Native modal navigation supports Escape, outside click, focus containment, link dismissal and scroll lock.
 
 ## Verification
 
