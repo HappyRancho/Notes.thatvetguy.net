@@ -1,0 +1,3589 @@
+{
+  "commit": "b556eb5d6a8df153ce9880539ad6dfd2978eb1c6",
+  "views": [
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0010323862954389573
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0016165458808167139
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0014813015910333076
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.003059272385305829
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0015867160959335347
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.04524664544753087
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.15487988603988603
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.001506692165798611
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0061474700106514835
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0037085736226316014
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0443347477816358
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.01923760683760684
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.03765381524984729
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.028426244689358605
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.014305161380637003
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.016114739368998626
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.06935846786957897
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.004067837938850309
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0040857921044031775
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0007942518446180557
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0003003508659122085
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.04715169406853435
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.013537046757450811
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.001540777285893758
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0020509862075617285
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.24853598894032922
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.24709834510525483
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.323001981758777
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.26011812203460266
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.26278897515023525
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.00036511316872427985
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.016961135446343784
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.028075434479890048
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0279120168586572
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.014162288578907323
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0027789201817558294
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.002019633982272871
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.00404015811873071
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.005094017502334383
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0025759377394520533
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0008265846836419753
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0016165458808167139
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.001454355197482639
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.023592819538381368
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0015559354554478524
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.04388927919238683
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.15487988603988603
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.001506692165798611
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0061474700106514835
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0037085736226316014
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0443347477816358
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.01923760683760684
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.03765381524984729
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.028426244689358605
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.014305161380637003
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.02272082304526749
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0628683950617284
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0011335267369148663
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0040857921044031775
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0020660993160043725
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0006036785193758573
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.04715169406853435
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.013537046757450811
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.004055905342102051
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0020509862075617285
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.24853598894032922
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.2469011295109212
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.323210448063352
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.26011812203460266
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "NSAIDs",
+            "width": 43,
+            "height": 44
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [
+          "33 matching resources."
+        ],
+        "overlaps": [],
+        "cls": 0.2632833370758182
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.00036511316872427985
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.019751597321145935
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.027607702862774888
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.026796676947010885
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "Main website ↗",
+            "width": 102.734375,
+            "height": 17
+          },
+          {
+            "text": "Blog ↗",
+            "width": 44.734375,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.013595692274305557
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 169.046875,
+            "height": 29
+          },
+          {
+            "text": "Search resources",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Open navigation",
+            "width": 40,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0027789201817558294
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 184.171875,
+            "height": 32
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.002701489791073124
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.00404015811873071
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.005094017502334383
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [
+          {
+            "text": "Notes.ThatVetGuy",
+            "width": 210.53125,
+            "height": 34
+          },
+          {
+            "text": "Clinical",
+            "width": 42,
+            "height": 44
+          },
+          {
+            "text": "Home",
+            "width": 31,
+            "height": 44
+          },
+          {
+            "text": "contact@thatvetguy.net",
+            "width": 160,
+            "height": 17
+          },
+          {
+            "text": "About",
+            "width": 28,
+            "height": 44
+          },
+          {
+            "text": "Contact",
+            "width": 37,
+            "height": 44
+          }
+        ],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.0025759377394520533
+      },
+      "violations": [],
+      "errors": []
+    }
+  ],
+  "lighthouse": [
+    {
+      "url": "/",
+      "theme": "light",
+      "scores": {
+        "performance": 90,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2887.8740721240656,
+      "cls": 0.014298782387478106
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "scores": {
+        "performance": 91,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2740.1368999999995,
+      "cls": 0.026769559771522317
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "scores": {
+        "performance": 91,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2291.2341,
+      "cls": 0.13389124198233843
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "scores": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2589.2673999999997,
+      "cls": 0.03277363582628608
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "scores": {
+        "performance": 91,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2743.1503000000002,
+      "cls": 0.011747424603439836
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "scores": {
+        "performance": 81,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 66
+      },
+      "lcp": 2611.7597,
+      "cls": 0.24279927052522862
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "scores": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2589.2211500000003,
+      "cls": 0.03223889355149389
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "scores": {
+        "performance": 84,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2579.2975500000002,
+      "cls": 0.191519234957784
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "scores": {
+        "performance": 90,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2892.079407832788,
+      "cls": 0.01192692370267869
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "scores": {
+        "performance": 92,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2733.0459,
+      "cls": 0.027229733956280904
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "scores": {
+        "performance": 88,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2581.7082,
+      "cls": 0.13389124198233843
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "scores": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2579.2154,
+      "cls": 0.032313461641527486
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "scores": {
+        "performance": 92,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2728.2735,
+      "cls": 0.010381579919996149
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "scores": {
+        "performance": 81,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 66
+      },
+      "lcp": 2577.2953500000003,
+      "cls": 0.2421887628353072
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "scores": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2578.5384,
+      "cls": 0.03223889355149389
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "scores": {
+        "performance": 84,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2580.40395,
+      "cls": 0.191519234957784
+    }
+  ]
+}
