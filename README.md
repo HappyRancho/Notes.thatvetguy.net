@@ -1,10 +1,10 @@
 # Notes.ThatVetGuy
 
-A dependency-free veterinary study-resource directory. The homepage, category content, year lists and external source links are static HTML. JavaScript enhances search, year tabs and the mobile navigation.
+A free veterinary academic and study-resource platform, primarily for BVSc & AH students. The homepage, category content, year lists and external source links are static HTML. JavaScript enhances search, year tabs and the mobile navigation.
 
 ## Edit and build
 
-Edit `data/resources.json` and `scripts/build.py` for content and page composition; edit `assets/site.css` and `assets/site.js` for presentation and behaviour.
+Edit `data/resources.json` and `data/subjects.json` for content and credited material. `data/content-contract.json` locks the requested homepage content and earlier year grouping; update it only when the product requirements deliberately change. Edit `scripts/build.py` for page composition; edit `assets/site.css` and `assets/site.js` for presentation and behaviour.
 
 ```sh
 python3 scripts/build.py
@@ -35,3 +35,5 @@ One evergreen, warm-paper and pale-citron palette; compact search; equal objecti
 ## Verification
 
 The structural audit covers links/anchors, schema JSON, visible catalogue content, indexable URLs, robots access and representative WCAG AA text pairs. JavaScript syntax is checked separately. Browser visual and interaction checks must run in a browser-capable environment; the current managed sandbox blocked Chromium socket operations.
+
+Content preservation and reviewed source decisions are documented in [docs/source-audit.md](docs/source-audit.md). Every subject now keeps separate Notes and Books choices instead of repeating the same two generic directories.

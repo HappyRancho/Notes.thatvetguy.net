@@ -10,13 +10,14 @@ import xml.etree.ElementTree as ET
 ROOT=Path(__file__).resolve().parent.parent
 class Page(HTMLParser):
     def __init__(self,path):
-        super().__init__();self.path=path;self.ids=set();self.urls=[];self.h1=0;self.jsons=[];self.capture=False;self.buffer='';self.canonical=None
+        super().__init__();self.path=path;self.ids=set();self.urls=[];self.h1=0;self.jsons=[];self.capture=False;self.buffer='';self.canonical=None;self.text=[];self.sections=[]
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
         if 'id' in a:
             assert a['id'] not in self.ids,(self.path,'Duplicate id',a['id'])
             self.ids.add(a['id'])
         if tag=='h1':self.h1+=1
+        if tag=='section' and 'id' in a:self.sections.append(a['id'])
         if tag=='a':
             assert a.get('href') not in ('','#',None),(self.path,'Empty link')
         for key in ['href','src']:
@@ -24,6 +25,7 @@ class Page(HTMLParser):
         if tag=='script' and a.get('type')=='application/ld+json':self.capture=True;self.buffer=''
         if tag=='link' and a.get('rel')=='canonical':self.canonical=a['href']
     def handle_data(self,text):
+        if not self.capture:self.text.append(text)
         if self.capture:self.buffer+=text
     def handle_endtag(self,tag):
         if tag=='script' and self.capture:
@@ -51,6 +53,24 @@ for path,page in pages.items():
                 assert item['name'] in path.read_text() or item['name'].replace('&','&amp;') in path.read_text(),(path,'Schema name not in page',item['name'])
 data=json.loads((ROOT/'data/resources.json').read_text())
 home=(ROOT/'index.html').read_text()
+contract=json.loads((ROOT/'data/content-contract.json').read_text())
+assert data['years']==contract['years'],'Professional-year subjects drifted from the preserved content'
+assert data['objectiveBooks']==contract['objectiveBooks'],'Objective book names were changed'
+homepage=pages[ROOT/'index.html']
+visible=' '.join(' '.join(homepage.text).split())
+for phrase in contract['requiredText']+contract['searchExamples']:
+    assert phrase in visible,('Required homepage content missing',phrase)
+assert [s for s in homepage.sections if s in contract['requiredSections']]==contract['requiredSections'],'Homepage section flow changed'
+for url in contract['telegram'].values():assert url in homepage.urls,'Telegram channel missing or changed'
+subjects=json.loads((ROOT/'data/subjects.json').read_text())
+assert set(subjects)=={subject for names in data['years'].values() for subject in names}
+for subject,material in subjects.items():
+    assert material['notes'],('Missing notes source',subject)
+    assert 'sourceChecked' in material
+    for bucket in ['notes','books']:
+        for item in material[bucket]:
+            assert item['url'].startswith('https://'),('Unusable source URL',subject)
+assert 'download-best-veterinary-e-learning-app_83.html' not in (ROOT/'objective/index.html').read_text(),'Objective questions still lead to the general app/materials page'
 for names in data['years'].values():
     for name in names:assert name in home,'Subjects missing from static HTML'
 assert not any('Farm Practices' in name for name in data['years']['4'])
@@ -72,4 +92,4 @@ ratios=[]
 for label,fg,bg in pairs:
     lo,hi=sorted([luminance(fg),luminance(bg)]);ratio=(hi+.05)/(lo+.05)
     assert ratio>=4.5,(label,ratio);ratios.append(ratio)
-print(f'PASS: {len(pages)} pages; local destinations and anchors; one H1 per page; JSON-LD; sitemap; crawler access; all subjects in static HTML; {len(pairs)} contrast pairs (minimum {min(ratios):.2f}:1).')
+print(f'PASS: {len(pages)} pages; preserved homepage copy/flow, year subjects and book names; credited Notes/Books sources; local links and anchors; JSON-LD; sitemap; crawler access; {len(pairs)} contrast pairs (minimum {min(ratios):.2f}:1).')

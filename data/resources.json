@@ -3,10 +3,10 @@
     "1": [
       "Veterinary Anatomy",
       "Veterinary Physiology",
-      "Veterinary Biochemistry",
       "Livestock Production Management"
     ],
     "2": [
+      "Veterinary Biochemistry",
       "Veterinary Microbiology",
       "Veterinary Pathology",
       "Animal Genetics and Breeding",
@@ -120,6 +120,24 @@
       "type": "Book",
       "collection": "surgery-books",
       "keywords": "surgery books radiology"
+    },
+    {
+      "id": "pharmacology-notes",
+      "title": "Veterinary Pharmacology",
+      "subject": "Pharmacology and Toxicology",
+      "type": "Note",
+      "source": "Vetscraft",
+      "url": "https://www.vetscraft.com/bvscah/veterinary-pharmacology/",
+      "keywords": "notes drugs pharmacology toxicology"
+    },
+    {
+      "id": "haemonchus",
+      "title": "Haemonchus (Barber’s Pole Worm)",
+      "subject": "Veterinary Parasitology",
+      "type": "Note",
+      "source": "Vetscraft",
+      "url": "https://www.vetscraft.com/haemonchus-barbers-pole-worm/",
+      "keywords": "Haemonchus contortus haemonchosis parasites nematodes"
     }
   ],
   "collections": {
@@ -139,20 +157,15 @@
       "description": "Start with the question-bank collections below, then choose the subject you are revising.",
       "links": [
         {
-          "title": "Vet Study question-bank resources",
-          "text": "Browse the platform’s veterinary question-bank and study-material listings.",
-          "url": "https://vetstudy.journeywithasr.com/2021/04/download-best-veterinary-e-learning-app_83.html"
-        },
-        {
-          "title": "Vets Duo PG entrance resources",
-          "text": "Browse the study platform’s entrance-exam preparation category.",
-          "url": "https://vetsduo.com/"
+          "title": "Vet Study — veterinary question banks",
+          "text": "Question-bank collection. Choose the veterinary subject or exam material on the source page.",
+          "url": "https://vetstudy.journeywithasr.com/p/veterinary-question-banks-pdf.html"
         }
       ]
     },
     "objective-books": {
       "title": "Objective Books",
-      "description": "The planned bookshelf below keeps exam references in one place. Dedicated listings are being prepared; suggest the title or edition you need.",
+      "description": "Important veterinary objective books for exam preparation. Book-specific resources will be added as they are checked.",
       "bookList": true,
       "links": []
     },
@@ -260,15 +273,15 @@
       "description": "Browse subject-wise veterinary book listings at their source.",
       "links": [
         {
-          "title": "Vet Study book listings",
-          "text": "A subject-wise veterinary book directory.",
-          "url": "https://vetstudy.journeywithasr.com/2021/05/veterinary-books-pdf_2.html"
+          "title": "Vets Duo — Veterinary Surgery and Radiology books",
+          "text": "Fourth-year book listings include a dedicated Surgery and Radiology section.",
+          "url": "https://www.vetsduo.com/pages/books4.html"
         }
       ]
     },
     "about": {
       "title": "About Notes.ThatVetGuy",
-      "description": "A free academic and study-resource platform for learning vets. Start with your year or a search, then open the resource you need.",
+      "description": "A free veterinary academic and study-resource platform primarily for BVSc & AH students.",
       "links": [
         {
           "title": "ThatVetGuy",

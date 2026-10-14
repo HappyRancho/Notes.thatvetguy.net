@@ -1,0 +1,83 @@
+{
+  "years": {
+    "1": [
+      "Veterinary Anatomy",
+      "Veterinary Physiology",
+      "Livestock Production Management"
+    ],
+    "2": [
+      "Veterinary Biochemistry",
+      "Veterinary Microbiology",
+      "Veterinary Pathology",
+      "Animal Genetics and Breeding",
+      "Animal Nutrition"
+    ],
+    "3": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology",
+      "Livestock Products Technology",
+      "Veterinary and Animal Husbandry Extension Education",
+      "Veterinary Clinical Practices I",
+      "Livestock Farm Practices"
+    ],
+    "4": [
+      "Veterinary Medicine",
+      "Veterinary Surgery and Radiology",
+      "Veterinary Gynaecology and Obstetrics",
+      "Veterinary Clinical Practices II"
+    ]
+  },
+  "objectiveBooks": [
+    "Dhruv N Desi",
+    "Review of Veterinary Science",
+    "Review of Animal Science",
+    "Animal Science Refresher",
+    "TANUVAS Objective Question Bank"
+  ],
+  "requiredSections": [
+    "notes",
+    "objective",
+    "backbench",
+    "tools",
+    "clinical",
+    "telegram-updates",
+    "request"
+  ],
+  "requiredText": [
+    "Free academic resources, thoughtfully made for future vets.",
+    "Everything useful for veterinary study, organised in one place.",
+    "BVSc Notes & Books",
+    "Subject-wise study material organised by professional year.",
+    "Objective Resources",
+    "ICAR PYQ Question Bank",
+    "Subject-wise Objective Questions",
+    "Objective Books",
+    "Backbenchers Corner",
+    "Less to read. More to remember.",
+    "Open Short Notes",
+    "Tips & Tools for Vet Study",
+    "Use of AI for Vet Study",
+    "Useful Free Apps",
+    "Latest Useful Tools",
+    "Clinical Resources",
+    "Handbooks",
+    "Drug Index",
+    "Other Clinical Resources",
+    "Veterinary opportunities, without the hunt.",
+    "Government, private, internship and veterinary job updates — gathered in one place.",
+    "Follow Job Updates on Telegram",
+    "Can’t find what you need?",
+    "Request Resource"
+  ],
+  "searchExamples": [
+    "Pharmacology",
+    "Haemonchus",
+    "NSAIDs",
+    "Surgery books"
+  ],
+  "telegram": {
+    "shortNotes": "https://t.me/vetshortnotesbytvg",
+    "jobs": "https://t.me/jobupdatesbytvg"
+  }
+}
