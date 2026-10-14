@@ -1,11 +1,1991 @@
 {
   "phase": "after",
-  "generated": "2026-10-14T14:15:02.366Z",
-  "runs": [],
-  "lighthouse": [],
-  "blocked": [
-    "Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'playwright' imported from /workspace/scripts/qa-browser.mjs\nDid you mean to import \"playwright/index.js\"?\n    at Object.getPackageJSONURL (node:internal/modules/package_json_reader:301:9)\n    at packageResolve (node:internal/modules/esm/resolve:768:81)\n    at moduleResolve (node:internal/modules/esm/resolve:859:18)\n    at defaultResolve (node:internal/modules/esm/resolve:992:11)\n    at #cachedDefaultResolve (node:internal/modules/esm/loader:701:20)\n    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:721:38)\n    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:759:56)\n    at #resolve (node:internal/modules/esm/loader:683:17)\n    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:603:35)\n    at node:internal/modules/esm/loader:632:32"
+  "generated": "2026-10-14",
+  "commit": "7f74a21e1a621a2ee9e771a873ca61303bbf2c29",
+  "source": "GitHub Actions; local browser/socket execution is blocked",
+  "runUrl": "https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/38581756208",
+  "artifactUrl": "https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/38581756208/artifacts/11904366509",
+  "runs": [
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.010727223312315137,
+        "shifts": [
+          {
+            "value": 0.010727223312315137,
+            "nodes": [
+              "<section class=\"content-section preset-result\" id=\"preset-pharmacology\"><h2 id=\"pharmacology\">Pharmacology</h2><article class=\"resource-card\" data-resource-id=\"subject-notes-vetscraft-22\"><span class=",
+              "<section class=\"content-section\"><h2 id=\"results-heading\">Browse the library</h2><div id=\"page-results\"><ul class=\"page-results-list\" id=\"page-result-list\" role=\"listbox\" aria-label=\"Matching resource"
+            ]
+          }
+        ]
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.006446619137945817,
+        "shifts": [
+          {
+            "value": 0.006446619137945817,
+            "nodes": [
+              "<section class=\"content-section\"><h2 id=\"results-heading\">Browse the library</h2><div id=\"page-results\"><ul class=\"page-results-list\" id=\"page-result-list\" role=\"listbox\" aria-label=\"Matching resource",
+              "<section class=\"content-section preset-result\" id=\"preset-pharmacology\"><h2 id=\"pharmacology\">Pharmacology</h2><article class=\"resource-card\" data-resource-id=\"subject-notes-vetscraft-22\"><span class="
+            ]
+          }
+        ]
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.008581988910833994,
+        "shifts": [
+          {
+            "value": 0.008581988910833994,
+            "nodes": [
+              "<section class=\"content-section preset-result\" id=\"preset-pharmacology\"><h2 id=\"pharmacology\">Pharmacology</h2><article class=\"resource-card\" data-resource-id=\"subject-notes-vetscraft-22\"><span class=",
+              "<section class=\"content-section\"><h2 id=\"results-heading\">Browse the library</h2><div id=\"page-results\"><ul class=\"page-results-list\" id=\"page-result-list\" role=\"listbox\" aria-label=\"Matching resource"
+            ]
+          }
+        ]
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0.004339731676392103,
+        "shifts": [
+          {
+            "value": 0.004339731676392103,
+            "nodes": [
+              "<section class=\"content-section preset-result\" id=\"preset-pharmacology\"><h2 id=\"pharmacology\">Pharmacology</h2><article class=\"resource-card\" data-resource-id=\"subject-notes-vetscraft-22\"><span class=",
+              "<section class=\"content-section\"><h2 id=\"results-heading\">Browse the library</h2><div id=\"page-results\"><ul class=\"page-results-list\" id=\"page-result-list\" role=\"listbox\" aria-label=\"Matching resource"
+            ]
+          }
+        ]
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 1024,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 1440,
+      "geometry": {
+        "overflow": false,
+        "smallTargets": [],
+        "clipped": [],
+        "overlaps": [],
+        "cls": 0,
+        "shifts": []
+      },
+      "violations": [],
+      "errors": []
+    }
   ],
+  "lighthouse": [
+    {
+      "url": "/",
+      "theme": "light",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1501.4302550995496,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1802.0935606505775,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.97
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1651.762,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1501.2001,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1501.6199,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcp": 1504.4363,
+      "cls": 0.007486485465102237,
+      "failedAudits": [
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "is-crawlable",
+          "title": "Page is blocked from indexing",
+          "score": 0
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1653.4376,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1502.1008,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1502.1595,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1571.928517784649,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1653.0787,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1651.2316,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1651.7901,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcp": 1505.585,
+      "cls": 0.007486485465102237,
+      "failedAudits": [
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "is-crawlable",
+          "title": "Page is blocked from indexing",
+          "score": 0
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1651.7908,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1652.029,
+      "cls": 0,
+      "failedAudits": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "uses-long-cache-ttl",
+          "title": "Serve static assets with an efficient cache policy",
+          "score": 0.5
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "blocked": [],
   "visualBugs": [],
-  "interactionChecks": []
+  "interactionChecks": [
+    "menu Escape/outside tap/scroll lock",
+    "command shortcut",
+    "year tab",
+    "search keyboard/empty states",
+    "theme/bookmark/studied persistence",
+    "all no-JS presets"
+  ],
+  "knownExceptions": [
+    {
+      "url": "/search/",
+      "category": "seo",
+      "score": 66,
+      "reason": "Intentionally noindex"
+    }
+  ]
 }
