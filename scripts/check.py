@@ -150,3 +150,10 @@ assert (ROOT/'llms-full.txt').stat().st_size>20000
 runtime=sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['theme.js','logic.js','site.js'])
 assert runtime<60000,('Runtime JS exceeds budget',runtime)
 print(f'PASS: heading outlines, external attributes, 27 Markdown mirrors/social dimensions/schema entities, 19 original subject summaries, unique catalogue URLs, no-JS preset anchors, sitemap dates; runtime JS {runtime} bytes gzip.')
+url_contract=json.loads((ROOT/'docs/qa/url-contract.json').read_text())
+assert set(url_contract['externalResourceUrls'])==set(urls),'An original external resource URL changed'
+for path,page in pages.items():
+ raw=path.read_text()
+ main=raw.split('<main id="main">',1)[1].split('</main>',1)[0]
+ assert all(' id="' in attrs for attrs in re.findall(r'<h[1-3]([^>]*)>',main)),(path,'Main heading lacks a stable anchor')
+print('PASS: all 31 original external resource URLs retained; stable main-content heading anchors.')

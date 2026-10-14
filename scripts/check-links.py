@@ -28,6 +28,7 @@ if __name__=='__main__':
  for file in ROOT.rglob('index.html'):
   if not any(part in file.parts for part in ['shared','scratch','library-files','node_modules']):p.feed(file.read_text())
  with ThreadPoolExecutor(max_workers=8) as pool:results=list(pool.map(check,sorted(p.urls)))
+ for result in results:print('QA_LINK '+json.dumps(result))
  target=ROOT/args.output;target.parent.mkdir(parents=True,exist_ok=True);target.write_text(json.dumps(results,indent=2)+'\n')
  counts={kind:sum(r['result']==kind for r in results) for kind in ['ok','redirect','http-error','unverified']};print(counts)
  raise SystemExit(1 if any(r['result']!='ok' for r in results) else 0)

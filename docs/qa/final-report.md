@@ -1,6 +1,6 @@
 # P0–P3 QA and redesign report
 
-Date: 2026-10-14. Repository: HappyRancho/Notes.thatvetguy.net. Existing static site retained; original eight route URLs, category anchors and external resource URL strings preserved. Nineteen subject routes are additive.
+Date: 2026-10-14. Repository: HappyRancho/Notes.thatvetguy.net. Existing static site retained; original eight route URLs, category anchors and all 31 original external resource URL strings preserved (compared directly with the pre-task resource and subject data). Nineteen subject routes are additive.
 
 ## Changes delivered
 
