@@ -10,9 +10,11 @@
   let lockedScroll = null;
   let menuOpener;
   let restoreFocus = true;
+  let menuClosing = null;
 
   function openMenu() {
     if (!menu || menu.open) return;
+    closeSuggestions();
     menuOpener = document.activeElement;
     restoreFocus = true;
     lockedScroll = { y: scrollY, position: document.body.style.position, top: document.body.style.top, width: document.body.style.width };
@@ -23,11 +25,24 @@
     $('.menu-close').focus();
   }
   function closeMenu(focus = true) {
+    if (menuClosing) return menuClosing;
     restoreFocus = focus;
-    if (menu?.open) menu.close();
+    if (!menu?.open) return Promise.resolve();
+    menuClosing = new Promise(resolve => {
+      menu.addEventListener('close', () => { menuClosing = null; resolve(); }, { once: true });
+      if (!reduceMotion.matches && typeof menu.animate === 'function') {
+        const animation = menu.animate(
+          [{ opacity: 1, transform: 'translateX(0)' }, { opacity: .5, transform: 'translateX(10px)' }],
+          { duration: 140, easing: 'ease-in', fill: 'forwards' }
+        );
+        animation.finished.catch(() => {}).then(() => { if (menu.open) menu.close(); animation.cancel(); });
+      } else menu.close();
+    });
+    return menuClosing;
   }
   menuButton?.addEventListener('click', openMenu);
   $('.menu-close')?.addEventListener('click', () => closeMenu());
+  menu?.addEventListener('cancel', event => { event.preventDefault(); closeMenu(); });
   menu?.addEventListener('click', event => {
     if (event.target !== menu) return;
     const r = menu.getBoundingClientRect();
@@ -43,19 +58,17 @@
     }
     if (restoreFocus) menuOpener?.focus({ preventScroll: true });
   });
-  $$('a', menu).forEach(a => a.addEventListener('click', event => {
+  $$('a', menu).forEach(a => a.addEventListener('click', async event => {
+    if (a.classList.contains('search-jump')) return;
     const destination = new URL(a.href);
-    closeMenu(false);
     if (destination.pathname === location.pathname && destination.hash) {
       event.preventDefault();
-      // close fires asynchronously; wait for scroll-lock restoration before jumping.
-      requestAnimationFrame(() => requestAnimationFrame(() => {
-        const target = document.getElementById(destination.hash.slice(1));
-        target?.scrollIntoView({ behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'start' });
-        const focusTarget = target?.querySelector('input, h2') || target;
-        if (focusTarget) { if (focusTarget.tagName !== 'INPUT') focusTarget.tabIndex = -1; focusTarget.focus({ preventScroll: true }); }
-      }));
-    }
+      await closeMenu(false);
+      const target = document.getElementById(destination.hash.slice(1));
+      target?.scrollIntoView({ behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'start' });
+      const focusTarget = target?.querySelector('input, h2') || target;
+      if (focusTarget) { if (focusTarget.tagName !== 'INPUT') focusTarget.tabIndex = -1; focusTarget.focus({ preventScroll: true }); }
+    } else closeMenu(false);
   }));
   matchMedia('(min-width: 1024px)').addEventListener('change', e => { if (e.matches) closeMenu(false); });
 
@@ -148,9 +161,10 @@
         const a = resultLink(item); a.id = 'result-' + i; a.setAttribute('role', 'option'); a.setAttribute('aria-selected', 'false'); a.tabIndex = -1;
         a.addEventListener('click', closeSuggestions); li.append(a); list.append(li);
       });
-      if (!results.length) { const li = node('li', 'search-empty', 'No match yet. '); const a = node('a', '', 'Request a resource →'); a.href = '/request-resource/'; li.append(a); list.append(li); }
+      list.hidden = results.length === 0;
+      $('#search-empty').hidden = results.length > 0;
       status.textContent = results.length ? `${results.length} suggestions. Use arrow keys to choose.` : 'No matching resources. You can request one.';
-      suggestions.hidden = false; input.setAttribute('aria-expanded', 'true');
+      suggestions.hidden = false; input.setAttribute('aria-expanded', String(results.length > 0));
     } catch {
       closeSuggestions();
       status.textContent = 'Suggestions are temporarily unavailable. Browse the subject and resource links below.';
@@ -195,10 +209,12 @@
       form.addEventListener('submit', e => { e.preventDefault(); const url = new URL(location.href); if (input.value.trim()) url.searchParams.set('q', input.value.trim()); else url.searchParams.delete('q'); history.replaceState(null, '', url); renderPageResults(); });
     }
   }
-  $$('.search-jump').forEach(a => a.addEventListener('click', e => {
+  $$('.search-jump').forEach(a => a.addEventListener('click', async e => {
     if (new URL(a.href).pathname !== location.pathname || !input) return;
-    e.preventDefault(); closeMenu(false);
-    requestAnimationFrame(() => requestAnimationFrame(() => { input.scrollIntoView({ behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'center' }); input.focus({ preventScroll: true }); }));
+    e.preventDefault();
+    await closeMenu(false);
+    input.scrollIntoView({ behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'center' });
+    input.focus({ preventScroll: true });
   }));
   const header = $('.site-header');
   const onScroll = () => header?.classList.toggle('scrolled', scrollY > 8);

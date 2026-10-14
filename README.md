@@ -10,6 +10,7 @@ Edit `data/resources.json` and `data/subjects.json` for content and credited mat
 python3 scripts/build.py
 python3 scripts/check.py
 node --check assets/site.js
+node scripts/check-interactions.cjs
 python3 -m http.server 8000
 ```
 
@@ -30,10 +31,12 @@ References: [Google's AI search guidance](https://developers.google.com/search/d
 
 ## Design and accessibility
 
-One midnight-blue, warm-ivory and muted-apricot palette; compact search; equal objective links; a revision-note treatment for Backbenchers. No external fonts, animation libraries, tracking, login or runtime framework. Search catalogue loads only on interaction. Motion respects reduced-motion preferences; content never depends on reveal animations. Native modal navigation supports Escape, outside click, focus containment, link dismissal and scroll lock.
+The main ThatVetGuy site’s cream, forest-green, coral and soft-lime palette; compact search; equal objective links; a revision-note treatment for Backbenchers. Inter and Playfair Display match the main site and load with display=swap and system fallbacks. No animation libraries, tracking, login or runtime framework. Search catalogue loads only on interaction. Motion respects reduced-motion preferences; content never depends on reveal animations. Native modal navigation supports Escape, outside click, focus containment, link dismissal and scroll lock.
 
 ## Verification
 
-The structural audit covers links/anchors, schema JSON, visible catalogue content, indexable URLs, robots access and representative WCAG AA text pairs. JavaScript syntax is checked separately. Browser visual and interaction checks must run in a browser-capable environment; the current managed sandbox blocked Chromium socket operations.
+The structural audit covers links/anchors, schema JSON, visible catalogue content, indexable URLs, robots access and representative WCAG AA text pairs. JavaScript syntax and menu/tab/search interaction logic (normal and reduced motion) are checked separately. The interaction harness does not render CSS or test a real browser. Browser visual and interaction checks must run in a browser-capable environment; the current managed sandbox blocked Chromium socket operations.
 
 Content preservation and reviewed source decisions are documented in [docs/source-audit.md](docs/source-audit.md). Every subject now keeps separate Notes and Books choices instead of repeating the same two generic directories.
+
+The shared brand palette, font choices, contrast adaptations and three original section asides are documented in [docs/brand-alignment.md](docs/brand-alignment.md).

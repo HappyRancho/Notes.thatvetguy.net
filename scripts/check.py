@@ -77,6 +77,11 @@ assert not any('Farm Practices' in name for name in data['years']['4'])
 assert 'Recently Added' not in home
 css=(ROOT/'assets/site.css').read_text()
 assert css.count('{')==css.count('}') and 'prefers-reduced-motion' in css
+asides=json.loads((ROOT/'data/section-asides.json').read_text())
+assert set(asides)=={'objective','backbench','tools'} and len(asides)==3
+for aside in asides.values():assert visible.count(aside)==1,('Section aside repeated or missing',aside)
+assert 'forced-colors:active' in css
+assert (ROOT/'data/content-contract.json').read_bytes(), 'Missing content contract'
 rp=RobotFileParser();rp.parse((ROOT/'robots.txt').read_text().splitlines())
 for agent in ['OAI-SearchBot','Googlebot','Bingbot']:
     for url in ['https://notes.thatvetguy.net/','https://notes.thatvetguy.net/bvsc/']:assert rp.can_fetch(agent,url)
@@ -87,7 +92,7 @@ def luminance(h):
     c=[int(h[i:i+2],16)/255 for i in (1,3,5)]
     c=[x/12.92 if x<=.04045 else ((x+.055)/1.055)**2.4 for x in c]
     return sum(a*b for a,b in zip(c,[.2126,.7152,.0722]))
-pairs=[('body','#25334a','#faf8f5'),('secondary','#5d6777','#faf8f5'),('link','#293f67','#faf8f5'),('placeholder','#687385','#fffefd'),('subject number','#65728a','#fffefd'),('inactive tab','#25334a','#e7edf6'),('selected tab','#fffefd','#293f67'),('note text','#4d382c','#f6dcc7'),('note metadata','#72533e','#f6dcc7'),('AI copy','#5d6777','#eaf0f7'),('Telegram','#086b99','#faf8f5'),('footer','#ced9e9','#243653'),('result type','#3b5275','#edf2fa')]
+pairs=[('body','#183c36','#fffaf2'),('secondary','#59706b','#fffaf2'),('link','#a93c2b','#fffaf2'),('placeholder','#59706b','#ffffff'),('subject number','#59706b','#ffffff'),('inactive tab','#183c36','#edf3ed'),('selected tab','#ffffff','#183c36'),('note text','#213d32','#dbf07d'),('note metadata','#405e35','#dbf07d'),('AI copy','#59706b','#fff0ea'),('Telegram','#086b99','#fffaf2'),('footer','#dce9dd','#183c36'),('result type','#36574c','#edf3ed'),('coral button','#102c26','#ef6a50'),('coral button hover','#102c26','#f27b63'),('aside','#49635e','#fffaf2'),('AI aside','#49635e','#fff0ea'),('AI label','#a93c2b','#fff0ea')]
 ratios=[]
 for label,fg,bg in pairs:
     lo,hi=sorted([luminance(fg),luminance(bg)]);ratio=(hi+.05)/(lo+.05)

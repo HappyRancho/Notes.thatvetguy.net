@@ -8,8 +8,9 @@ from html import escape
 ROOT = Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / 'data/resources.json').read_text())
 SUBJECTS = json.loads((ROOT / 'data/subjects.json').read_text())
+ASIDES = json.loads((ROOT / 'data/section-asides.json').read_text())
 BASE = 'https://notes.thatvetguy.net'
-VERSION = '20261014-midnight-apricot'
+VERSION = '20261014-collective-brand'
 DESCRIPTION = 'Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.'
 VCI = 'https://www.vci.dahd.gov.in/sites/default/files/IVPR/MSVE-Gazette-2016.pdf#page=103'
 ROUTES = {
@@ -52,6 +53,9 @@ def link(url, text, cls='', external=False):
 def section_heading(title, text='', extra=''):
     return f'<div class="section-heading"><div><h2>{title}</h2>{f"<p>{text}</p>" if text else ""}</div>{extra}</div>'
 
+def section_aside(key):
+    return f'<p class="section-aside">{escape(ASIDES[key])}</p>'
+
 def header(home=False):
     prefix = '' if home else '/'
     groups = [
@@ -93,11 +97,13 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
-<meta name="theme-color" content="#faf8f5"><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
+<meta name="theme-color" content="#fffaf2"><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
 <link rel="canonical" href="{canonical}"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE}/assets/social-cover.png"><meta property="og:image:alt" content="Notes.ThatVetGuy — free academic resources for future vets"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE}/assets/social-cover.png">
 <link rel="stylesheet" href="/assets/site.css?v={VERSION}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Playfair+Display:ital,wght@0,600;1,400;1,600&amp;display=swap">
 <script type="application/ld+json">{schema(path,title,description,items,home)}</script>
 <script src="/assets/site.js?v={VERSION}" defer></script>
 </head><body>{header(home)}<main id="main">{body}</main>{footer()}</body></html>'''
@@ -106,7 +112,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
     if not noindex:PAGES.append((path,title,description))
 
 def search_form(page=False):
-    return f'''<div class="search-area" id="search"><form class="search-form" action="/search/" method="get" role="search"><label for="resource-search" class="sr-only">Search veterinary resources</label><div class="search-field">{icon('search')}<input id="resource-search" name="q" type="search" placeholder="Search notes, books, drugs, handbooks…" autocomplete="off" enterkeyhint="search" aria-describedby="search-help"><button type="submit" class="search-submit" aria-label="Search">{icon('arrow')}</button></div><div class="search-suggestions" id="search-suggestions" hidden><p class="suggestion-label">Suggested resources</p><ul id="suggestion-list"></ul></div></form><p class="search-examples" id="search-help">Try {link('/search/?q=Pharmacology','Pharmacology')}{link('/search/?q=Haemonchus','Haemonchus')}{link('/search/?q=NSAIDs','NSAIDs')}{link('/search/?q=Surgery%20books','Surgery books')}</p><p id="search-status" class="sr-only" role="status" aria-live="polite"></p></div>'''
+    return f'''<div class="search-area" id="search"><form class="search-form" action="/search/" method="get" role="search"><label for="resource-search" class="sr-only">Search veterinary resources</label><div class="search-field">{icon('search')}<input id="resource-search" name="q" type="search" placeholder="Search notes, books, drugs, handbooks…" autocomplete="off" enterkeyhint="search" aria-describedby="search-help"><button type="submit" class="search-submit" aria-label="Search">{icon('arrow')}</button></div><div class="search-suggestions" id="search-suggestions" hidden><p class="suggestion-label">Suggested resources</p><ul id="suggestion-list"></ul><p id="search-empty" class="search-empty" hidden>No match yet. {link('/request-resource/','Request a resource →')}</p></div></form><p class="search-examples" id="search-help">Try {link('/search/?q=Pharmacology','Pharmacology')}{link('/search/?q=Haemonchus','Haemonchus')}{link('/search/?q=NSAIDs','NSAIDs')}{link('/search/?q=Surgery%20books','Surgery books')}</p><p id="search-status" class="sr-only" role="status" aria-live="polite"></p></div>'''
 
 def homepage():
     tabs=''.join(f'<a href="#year-{y}" class="year-tab" id="tab-{y}" data-year="{y}">{DATA["labels"][y]}</a>' for y in DATA['years'])
@@ -127,9 +133,9 @@ def homepage():
         ('handbooks','Handbooks','Trusted references, close at hand.','book'),('drug-index','Drug Index','Find a veterinary drug reference.','pill'),('clinical-other','Other Clinical Resources','Pathology and professional reading.','cross')])
     body=f'''<section class="intro container"><div class="intro-heading"><div><h1>Free academic resources, thoughtfully made for future vets.</h1><p class="intro-description">Everything useful for veterinary study, organised in one place.</p></div></div>{search_form()}</section>
 <section class="section container" id="notes">{section_heading('BVSc Notes <em>& Books</em>','Subject-wise study material organised by professional year.',link('/bvsc/','All subjects '+icon('arrow'),'text-link section-link'))}<div class="academic-library"><div class="year-tabs" aria-label="Choose a professional year">{tabs}<span class="tab-indicator" aria-hidden="true"></span></div><div class="year-panels">{panels}</div></div></section>
-<section class="section container objective-section" id="objective">{section_heading('Objective Resources','PYQs, subject-wise objective material and important veterinary objective books.')}<div class="objective-list">{objective}</div></section>
-<section class="section container" id="backbench"><div class="revision-note"><div class="revision-heading"><p class="kicker">For the night before</p><h2>Backbenchers <em>Corner</em></h2><p class="revision-motto">Less to read. More to remember.</p></div><div class="revision-body"><span class="note-tag">Keep this one handy</span><p>A collection of <strong>concise veterinary short notes</strong> for objective questions and short answers.</p>{link('https://t.me/vetshortnotesbytvg','Open Short Notes '+icon('arrow'),'button',True)}<span class="telegram-caption">{icon('telegram')} The short-notes collection on Telegram</span></div><span class="revision-paw" aria-hidden="true">{icon('paw')}</span></div></section>
-<section class="section container" id="tools">{section_heading('Tips & Tools <em>for Vet Study</em>','Thoughtful tools and practical guides for the everyday work of learning.')}<div class="study-layout">{link(ROUTES['ai-guide'],'<span class="kicker">A practical guide</span><h3>Use of AI<br>for Vet Study</h3><p>Practical ways to use AI for notes, research and presentations.</p><span class="resource-action">Read the guide '+icon('arrow')+'</span><span class="ai-mark" aria-hidden="true">'+icon('spark')+'</span>','ai-guide')}<div class="tool-rows">{tools}</div></div></section>
+<section class="section container objective-section" id="objective">{section_heading('Objective Resources','PYQs, subject-wise objective material and important veterinary objective books.')}<div class="objective-list">{objective}</div>{section_aside("objective")}</section>
+<section class="section container" id="backbench"><div class="revision-note"><div class="revision-heading"><p class="kicker">For the night before</p><h2>Backbenchers <em>Corner</em></h2><p class="revision-motto">Less to read. More to remember.</p>{section_aside("backbench")}</div><div class="revision-body"><span class="note-tag">Keep this one handy</span><p>A collection of <strong>concise veterinary short notes</strong> for objective questions and short answers.</p>{link('https://t.me/vetshortnotesbytvg','Open Short Notes '+icon('arrow'),'button',True)}<span class="telegram-caption">{icon('telegram')} The short-notes collection on Telegram</span></div><span class="revision-paw" aria-hidden="true">{icon('paw')}</span></div></section>
+<section class="section container" id="tools">{section_heading('Tips & Tools <em>for Vet Study</em>','Thoughtful tools and practical guides for the everyday work of learning.')}<div class="study-layout">{link(ROUTES['ai-guide'],'<span class="kicker">A practical guide</span><h3>Use of AI<br>for Vet Study</h3><p>Practical ways to use AI for notes, research and presentations.</p>'+section_aside('tools')+'<span class="resource-action">Read the guide '+icon('arrow')+'</span><span class="ai-mark" aria-hidden="true">'+icon('spark')+'</span>','ai-guide')}<div class="tool-rows">{tools}</div></div></section>
 <section class="section container" id="clinical"><div class="clinical-layout"><div class="clinical-heading"><span class="clinical-emblem" aria-hidden="true">{icon('cross')}</span><h2>Clinical<br><em>Resources</em></h2><p>A place for trusted handbooks and practical references. Keep the essentials close.</p></div><div class="clinical-list">{clinical}</div></div></section>
 <section class="section container" id="telegram-updates"><div class="jobs-strip"><span class="telegram-symbol">{icon('telegram')}</span><div><p class="kicker">Beyond the classroom</p><h2>Veterinary opportunities,<br>without the hunt.</h2><p>Government, private, internship and veterinary job updates — gathered in one place.</p>{link('https://t.me/jobupdatesbytvg',icon('telegram')+'Follow Job Updates on Telegram '+icon('external'),'jobs-link',True)}</div></div></section>
 <section class="container request-section" id="request"><div><h2>Can’t find what you need?</h2><p>Request a note, book, PYQ or useful resource. Help shape the library.</p></div>{link('/request-resource/','Request Resource '+icon('arrow'),'text-link')}</section>'''
