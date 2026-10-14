@@ -13,28 +13,24 @@
     ]
   },
   "/bvsc/": {
-    "summary": "Find subject-wise BVSc & AH notes and shared book collections across four professional years. Choose a subject to see credited sources, a revision outline and related subjects.",
+    "summary": "Browse veterinary notes, books and practical material from the supplied Google Drive library, organised by four professional years. Choose a subject to see the actual indexed files and original revision guidance.",
     "faq": [
       [
         "Does this grouping match my university?",
         "Year grouping may vary by university. Check your syllabus before planning revision."
       ],
       [
-        "Where are the books?",
-        "Each year has one shared Books for Year collection. Subject Notes and Books tabs point to the relevant material without repeating the same book directory."
+        "Where do the files open?",
+        "File buttons open the original Google Drive viewer. Download is available only for known binary files below 25 MB."
       ]
     ]
   },
   "/objective/": {
-    "summary": "Find ICAR AIEEA (PG) previous-year papers, subject-wise objective questions and veterinary objective book listings. These resources help veterinary students plan exam revision using credited external collections.",
+    "summary": "Find ICAR PYQs, objective questions and objective books identified by names in the supplied Drive library. If a collection has no matching indexed files, you can request material for it.",
     "faq": [
       [
-        "Where can I find ICAR AIEEA PG previous-year papers?",
-        "The ICAR PYQ Question Bank section links to the year-wise Vet Study collection. Select the paper and exam year on that source website."
-      ],
-      [
-        "Are the objective books available to download?",
-        "The five named book entries are marked Coming soon because individual book links have not been verified. You can request a specific title or edition."
+        "Where are the objective resources sourced?",
+        "Only files with PYQ, ICAR, objective or MCQ in their source folder or file names appear here. Files open through their subject collections."
       ]
     ]
   },
@@ -43,29 +39,25 @@
     "faq": [
       [
         "Can I use AI as a clinical reference?",
-        "Use AI to help organise study, not to make clinical decisions. Check veterinary facts, citations and drug information against original professional references."
+        "Use AI to help organise study. Check facts, citations and drug information against original professional references before relying on them."
       ],
       [
-        "Are these tools all subscription-free?",
-        "The free-app listings describe free tools; access conditions can change. Check the source website for current licensing and availability."
+        "Do these guides require subscriptions?",
+        "The guides describe study habits and tools by name. They do not require signing up or following external software links."
       ]
     ]
   },
   "/clinical/": {
-    "summary": "Find veterinary handbooks, drug and analgesic references, and clinical pathology resources. These links support veterinary study and supervised clinical learning; they do not replace professional judgement or a current prescribing reference.",
+    "summary": "Browse handbooks, drug-related files and clinical or pathology material identified in the supplied Drive library. These study resources do not replace clinical judgement or a current prescribing reference.",
     "faq": [
       [
-        "Is this a complete veterinary drug index?",
-        "No. Drug & Analgesic References currently links to Merck material on NSAIDs and analgesics, rather than individual locally maintained drug monographs."
-      ],
-      [
-        "Where can I study veterinary clinical pathology?",
-        "Other Clinical Resources includes Cornell eClinPath, an online clinical pathology textbook covering test interpretation, haematology and chemistry."
+        "Is this a complete clinical or drug reference?",
+        "No. This page lists matching files in the supplied collection, rather than maintaining complete drug monographs or prescribing instructions."
       ]
     ]
   },
   "/search/": {
-    "summary": "Search veterinary notes, books, objective resources, drugs and handbooks by topic or subject. Veterinary students can also use the preset topic links below without JavaScript.",
+    "summary": "Search every indexed Drive file by title, subject, year or folder path. Veterinary students can also use the four static topic links below without JavaScript.",
     "faq": [
       [
         "Can I browse without JavaScript?",
@@ -74,7 +66,7 @@
     ]
   },
   "/about/": {
-    "summary": "Notes.ThatVetGuy is a free academic resource directory for BVSc & AH students. It brings together credited study links, original subject outlines and practical tools within the ThatVetGuy ecosystem.",
+    "summary": "Notes.ThatVetGuy is a free academic library for BVSc & AH students, organised around the supplied Google Drive collections. Original revision outlines and on-site study guides help you choose what to read next.",
     "faq": [
       [
         "Who writes the original guides?",

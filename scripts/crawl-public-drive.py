@@ -33,3 +33,5 @@ if __name__=='__main__':
  (ROOT/'data/drive_manifest.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')
  (out/'crawl.json').write_text(json.dumps({'folders':folders,'errors':errors,'fileCount':len(records)},ensure_ascii=False,indent=2)+'\n')
  print('DRIVE_COMPLETE '+json.dumps({'files':len(records),'folders':len(folders),'errors':errors}),flush=True)
+
+ if errors:raise SystemExit(1)

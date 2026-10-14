@@ -1,0 +1,169 @@
+{
+  "years": {
+    "1": [
+      "Veterinary Anatomy",
+      "Veterinary Physiology",
+      "Livestock Production Management"
+    ],
+    "2": [
+      "Veterinary Biochemistry",
+      "Veterinary Microbiology",
+      "Veterinary Pathology",
+      "Animal Genetics and Breeding",
+      "Animal Nutrition"
+    ],
+    "3": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology",
+      "Livestock Products Technology",
+      "Veterinary and Animal Husbandry Extension Education",
+      "Veterinary Clinical Practices I",
+      "Livestock Farm Practices"
+    ],
+    "4": [
+      "Veterinary Medicine",
+      "Veterinary Surgery and Radiology",
+      "Veterinary Gynaecology and Obstetrics",
+      "Veterinary Clinical Practices II"
+    ]
+  },
+  "labels": {
+    "1": "1st Year",
+    "2": "2nd Year",
+    "3": "3rd Year",
+    "4": "4th Year"
+  },
+  "titles": {
+    "1": "Build your foundations.",
+    "2": "Understand the science.",
+    "3": "Connect science with practice.",
+    "4": "Bring it all to the clinic."
+  },
+  "descriptions": {
+    "1": "Anatomy, physiology and the essentials of animal care.",
+    "2": "From cells and disease to nutrition and animal breeding.",
+    "3": "Drugs, parasites, public health and production systems.",
+    "4": "Medicine, surgery, reproduction and clinical practice."
+  },
+  "yearSources": {
+    "1": "first",
+    "2": "second",
+    "3": "third",
+    "4": "fourth"
+  },
+  "objectiveBooks": [
+    "Dhruv N Desi",
+    "Review of Veterinary Science",
+    "Review of Animal Science",
+    "Animal Science Refresher",
+    "TANUVAS Objective Question Bank"
+  ],
+  "collections": {
+    "icar-pyq": {
+      "title": "ICAR PYQ Question Bank",
+      "description": "Browse previous-year papers for veterinary and animal sciences at their source.",
+      "resourceIds": [
+        "icar-aieea-pg-papers"
+      ]
+    },
+    "objective-questions": {
+      "title": "Subject-wise Objective Questions",
+      "description": "Start with the question-bank collections below, then choose the subject you are revising.",
+      "resourceIds": [
+        "vet-study-veterinary-question-banks"
+      ]
+    },
+    "objective-books": {
+      "title": "Objective Books",
+      "description": "Important veterinary objective books for exam preparation. Book-specific resources will be added as they are checked.",
+      "bookList": true,
+      "resourceIds": []
+    },
+    "ai-guide": {
+      "title": "Use of AI for Vet Study",
+      "description": "Use AI to help organise your work, while keeping your course materials as the source of truth.",
+      "tips": [
+        [
+          "Start with an outline",
+          "Ask for a clear structure for a topic, presentation or revision plan."
+        ],
+        [
+          "Bring your own sources",
+          "Work from your notes and check every fact, reference and citation."
+        ],
+        [
+          "Keep clinical decisions separate",
+          "AI-generated study text is not a substitute for professional clinical guidance."
+        ]
+      ],
+      "resourceIds": []
+    },
+    "free-apps": {
+      "title": "Useful Free Apps",
+      "description": "A small toolkit for writing, reading and organising references.",
+      "resourceIds": [
+        "zotero",
+        "libreoffice"
+      ]
+    },
+    "useful-tools": {
+      "title": "Useful Study Tools",
+      "description": "Useful starting points for working with references and PDF study material.",
+      "resourceIds": [
+        "pdf-js"
+      ]
+    },
+    "handbooks": {
+      "title": "Handbooks",
+      "description": "Open a professional reference at its source. These are external reading links, not files hosted here.",
+      "resourceIds": [
+        "merck-veterinary-manual"
+      ]
+    },
+    "drug-index": {
+      "title": "Drug & Analgesic References",
+      "description": "Read the full pharmacology reference for the species and context you are studying.",
+      "resourceIds": [
+        "veterinary-nsaid-reference",
+        "analgesics-used-in-animals"
+      ]
+    },
+    "clinical-other": {
+      "title": "Other Clinical Resources",
+      "description": "Explore clinical pathology and professional veterinary reference libraries.",
+      "resourceIds": [
+        "cornell-eclinpath",
+        "vetlexicon"
+      ]
+    },
+    "surgery-books": {
+      "title": "Veterinary surgery books",
+      "description": "Browse subject-wise veterinary book listings at their source.",
+      "resourceIds": [
+        "vets-duo-veterinary-surgery-and-radiology-books"
+      ]
+    },
+    "about": {
+      "title": "About Notes.ThatVetGuy",
+      "description": "A free veterinary academic and study-resource platform primarily for BVSc & AH students.",
+      "resourceIds": [
+        "thatvetguy",
+        "thatvetguy-blog"
+      ]
+    }
+  },
+  "yearBooks": {
+    "1": "year-1-books",
+    "2": "year-2-books",
+    "3": "year-3-books",
+    "4": "vets-duo-veterinary-surgery-and-radiology-books"
+  },
+  "lastChecked": "2026-10-14",
+  "externalProfiles": {
+    "main": "https://thatvetguy.net",
+    "blog": "https://blog.thatvetguy.net",
+    "shortNotes": "https://t.me/vetshortnotesbytvg",
+    "jobs": "https://t.me/jobupdatesbytvg"
+  }
+}

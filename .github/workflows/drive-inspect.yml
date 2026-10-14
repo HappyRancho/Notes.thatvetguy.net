@@ -2,7 +2,7 @@ name: Inspect supplied public Drive folders
 on: [push, workflow_dispatch]
 jobs:
   inspect:
-    if: contains(github.event.head_commit.message, '[drive-inspect]') || github.event_name == 'workflow_dispatch'
+    if: (contains(github.event.head_commit.message, '[drive-inspect]') || contains(github.event.head_commit.message, '[drive-pagination]')) || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -12,6 +12,7 @@ jobs:
       - run: npm install
       - run: npx playwright install --with-deps chromium
       - run: python3 scripts/crawl-public-drive.py
+        if: ${{ !contains(github.event.head_commit.message, '[drive-pagination]') }}
       - run: node scripts/finish-drive-manifest.mjs
       - uses: actions/upload-artifact@v4
         if: always()

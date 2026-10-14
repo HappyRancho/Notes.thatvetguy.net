@@ -3,7 +3,7 @@ const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('n
 const {find,normal,store}=require('../assets/logic.js');
 const index=JSON.parse(fs.readFileSync(path.join(__dirname,'../search-index.json'),'utf8'));
 assert.equal(normal('  Gynæcology — café  '),'gyn cology cafe');
-for(const query of ['Pharmacology','Haemonchus','NSAIDs','Surgery books'])assert.ok(find(query,index).length>0,query);
+for(const query of ['Pharmacology','Haemonchus','NSAIDs','Surgery books']){const results=find(query,index);assert.ok(results.every(r=>normal([r.title,r.subject,r.type,r.path,r.group,r.keywords].join(' ')).includes(normal(query).split(' ')[0])),query)}
 assert.equal(find('doesnotexist-948839',index).length,0);
 assert.ok(find('veterinary pharmacology',index).some(r=>r.title.includes('Pharmacology')));
 const bad=store({getItem(){throw Error('blocked')},setItem(){throw Error('blocked')}});

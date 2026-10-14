@@ -1,0 +1,145 @@
+{
+  "lastInspected": "2026-10-14",
+  "years": {
+    "1": [
+      "Veterinary Anatomy",
+      "Veterinary Physiology",
+      "Livestock Production Management"
+    ],
+    "2": [
+      "Veterinary Biochemistry",
+      "Veterinary Microbiology",
+      "Veterinary Pathology",
+      "Animal Genetics and Breeding",
+      "Animal Nutrition"
+    ],
+    "3": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology",
+      "Livestock Products Technology",
+      "Veterinary and Animal Husbandry Extension Education",
+      "Veterinary Clinical Practices I",
+      "Livestock Farm Practices"
+    ],
+    "4": [
+      "Veterinary Medicine",
+      "Veterinary Surgery and Radiology",
+      "Veterinary Gynaecology and Obstetrics",
+      "Veterinary Clinical Practices II"
+    ]
+  },
+  "aliases": {
+    "Veterinary Anatomy": [
+      "Anatomy",
+      "Vet anatomy"
+    ],
+    "Veterinary Physiology": [
+      "Physiology"
+    ],
+    "Livestock Production Management": [
+      "LPM",
+      "Livestock production management"
+    ],
+    "Veterinary Biochemistry": [
+      "Biochemistry",
+      "VBC"
+    ],
+    "Veterinary Microbiology": [
+      "Microbiology",
+      "VMB"
+    ],
+    "Veterinary Pathology": [
+      "Pathology",
+      "VPA"
+    ],
+    "Animal Genetics and Breeding": [
+      "AGB",
+      "Animal genetics",
+      "Genetics"
+    ],
+    "Animal Nutrition": [
+      "Animal Nutrition",
+      "ANN"
+    ],
+    "Veterinary Pharmacology and Toxicology": [
+      "Pharmacology",
+      "Toxicology",
+      "VPT"
+    ],
+    "Veterinary Parasitology": [
+      "Parasitology",
+      "VPP"
+    ],
+    "Veterinary Public Health and Epidemiology": [
+      "VPH",
+      "VPHE",
+      "Veterinary public health",
+      "Public Health & Epidemiology"
+    ],
+    "Livestock Products Technology": [
+      "Livestock Products Technology (LPT)",
+      "LPT"
+    ],
+    "Veterinary and Animal Husbandry Extension Education": [
+      "Extension",
+      "Extension Education",
+      "VAHEE"
+    ],
+    "Veterinary Clinical Practices I": [
+      "Clinical Practices I",
+      "VCP I"
+    ],
+    "Livestock Farm Practices": [
+      "LFP",
+      "Livestock Farm Practices"
+    ],
+    "Veterinary Medicine": [
+      "Medicine",
+      "VMD"
+    ],
+    "Veterinary Surgery and Radiology": [
+      "Surgery",
+      "Radiology",
+      "VSR"
+    ],
+    "Veterinary Gynaecology and Obstetrics": [
+      "Gynaecology",
+      "Gynecology",
+      "Obstetrics",
+      "VGO",
+      "OG"
+    ],
+    "Veterinary Clinical Practices II": [
+      "Clinical Practices II",
+      "VCP II"
+    ]
+  },
+  "pathOverrides": {
+    "Ward/": "Veterinary Clinical Practices I"
+  },
+  "fileOverrides": {},
+  "groups": {
+    "Practical manuals": [
+      "practical",
+      "practicals",
+      "manual",
+      "manuals",
+      "spotters"
+    ],
+    "Books": [
+      "book",
+      "books",
+      "textbooks"
+    ],
+    "Notes": [
+      "notes",
+      "note",
+      "lectures",
+      "theory",
+      "PPT and PDF",
+      "PPT",
+      "PPTs"
+    ]
+  }
+}

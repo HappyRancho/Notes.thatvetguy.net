@@ -24,10 +24,10 @@ def check(url):
  except HTTPError as e:return {'url':url,'status':e.code,'result':'http-error','redirects':redirects.chain}
  except Exception as e:return {'url':url,'status':None,'result':'unverified','reason':str(e),'redirects':redirects.chain}
 if __name__=='__main__':
- ap=argparse.ArgumentParser();ap.add_argument('--output',default='docs/qa/links.json');args=ap.parse_args();p=Links()
+ ap=argparse.ArgumentParser();ap.add_argument('--output',default='docs/qa/links.json');ap.add_argument('--limit',type=int,default=0);args=ap.parse_args();p=Links()
  for file in ROOT.rglob('index.html'):
   if not any(part in file.parts for part in ['shared','scratch','library-files','node_modules']):p.feed(file.read_text())
- with ThreadPoolExecutor(max_workers=8) as pool:results=list(pool.map(check,sorted(p.urls)))
+ with ThreadPoolExecutor(max_workers=8) as pool:results=list(pool.map(check,sorted(p.urls)[:args.limit] if args.limit else sorted(p.urls)))
  for result in results:print('QA_LINK '+json.dumps(result))
  target=ROOT/args.output;target.parent.mkdir(parents=True,exist_ok=True);target.write_text(json.dumps(results,indent=2)+'\n')
  counts={kind:sum(r['result']==kind for r in results) for kind in ['ok','redirect','http-error','unverified']};print(counts)
