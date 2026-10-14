@@ -6,9 +6,9 @@
 
 Browse the indexed Unsorted files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
 
-142 files · 2nd Year
+136 files · 2nd Year
 
-[Notes (0)](#notes)[Books (0)](#books)[Practical manuals (0)](#practical-manuals)[Other (142)](#other)
+[Notes (0)](#notes)[Books (0)](#books)[Practical manuals (0)](#practical-manuals)[Other (136)](#other)
 
 ## Notes 0
 
@@ -34,25 +34,7 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 [Request Resource](https://notes.thatvetguy.net/request-resource/)
 
-## Other 142
-
-PDFOther
-
-### BVO18041 - Nutrition Paper 1
-
-10.2 MB · Updated 2020-12-25
-
-[Open BVO18041 - Nutrition Paper 1 on Google Drive](https://drive.google.com/file/d/1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE/view)[Download BVO18041 - Nutrition Paper 1](https://drive.google.com/uc?export=download&id=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE#report)
-
-PDFOther
-
-### BVO18041 - Nutrition Paper 2
-
-11.1 MB · Updated 2020-12-25
-
-[Open BVO18041 - Nutrition Paper 2 on Google Drive](https://drive.google.com/file/d/1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL/view)[Download BVO18041 - Nutrition Paper 2](https://drive.google.com/uc?export=download&id=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL#report)
+## Other 136
 
 IMGOther
 
@@ -1277,42 +1259,6 @@ IMGOther
 
 [Open IMG-20200110-WA0018 on Google Drive](https://drive.google.com/file/d/1lT5BuK3VTtwFjfWii6wIJepjNdGrRdd1/view)[Download IMG-20200110-WA0018](https://drive.google.com/uc?export=download&id=1lT5BuK3VTtwFjfWii6wIJepjNdGrRdd1)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lT5BuK3VTtwFjfWii6wIJepjNdGrRdd1#report)
-
-PDFOther
-
-### Nutrition Internal 2 Choose
-
-250 KB · Updated 2020-11-04
-
-[Open Nutrition Internal 2 Choose on Google Drive](https://drive.google.com/file/d/1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ/view)[Download Nutrition Internal 2 Choose](https://drive.google.com/uc?export=download&id=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ#report)
-
-PDFOther
-
-### Nutrition Internal 2 Fillups
-
-97 KB · Updated 2020-11-04
-
-[Open Nutrition Internal 2 Fillups on Google Drive](https://drive.google.com/file/d/1nudzh1M0A_ngthDwh4548KG2vRMzg1t6/view)[Download Nutrition Internal 2 Fillups](https://drive.google.com/uc?export=download&id=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6#report)
-
-PDFOther
-
-### Nutrition Internal 2 with ans
-
-876 KB · Updated 2020-09-23
-
-[Open Nutrition Internal 2 with ans on Google Drive](https://drive.google.com/file/d/1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5/view)[Download Nutrition Internal 2 with ans](https://drive.google.com/uc?export=download&id=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5#report)
-
-PDFOther
-
-### Nutrition Internal 3 with ans
-
-337 KB · Updated 2020-10-16
-
-[Open Nutrition Internal 3 with ans on Google Drive](https://drive.google.com/file/d/1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_/view)[Download Nutrition Internal 3 with ans](https://drive.google.com/uc?export=download&id=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_#report)
 
 ## Questions, answered
 

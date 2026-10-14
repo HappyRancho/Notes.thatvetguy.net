@@ -80,7 +80,7 @@ Subjects marked studied: 0 of 50 of 5
 [51 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#notes)
 [1 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
 
-25 files · Google Drive
+31 files · Google Drive
 
 ### [Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
@@ -88,7 +88,7 @@ Subjects marked studied: 0 of 50 of 5
 [14 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#notes)
 [3 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-142 files · Google Drive
+136 files · Google Drive
 
 ### [Unsorted](https://notes.thatvetguy.net/bvsc/year-2/unsorted/)
 
@@ -112,7 +112,7 @@ Subjects marked studied: 0 of 70 of 7
 [106 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#notes)
 [5 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-336 files · Google Drive
+338 files · Google Drive
 
 ### [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
@@ -120,7 +120,7 @@ Subjects marked studied: 0 of 70 of 7
 [86 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#notes)
 [1 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#books)
 
-73 files · Google Drive
+75 files · Google Drive
 
 ### [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
@@ -136,7 +136,7 @@ Subjects marked studied: 0 of 70 of 7
 [55 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#notes)
 [5 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-137 files · Google Drive
+139 files · Google Drive
 
 ### [Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 
@@ -159,14 +159,6 @@ Subjects marked studied: 0 of 70 of 7
 [Notes](#livestock-farm-practices-notes)[Books](#livestock-farm-practices-books)
 [0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#notes)
 [0 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#books)
-
-6 files · Google Drive
-
-### [Unsorted](https://notes.thatvetguy.net/bvsc/year-3/unsorted/)
-
-[Notes](#unsorted-3-notes)[Books](#unsorted-3-books)
-[0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/unsorted/#notes)
-[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/unsorted/#books)
 
 [Books for 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/#books)
 
@@ -192,7 +184,7 @@ Subjects marked studied: 0 of 40 of 4
 [99 notes · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#notes)
 [8 books · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-85 files · Google Drive
+87 files · Google Drive
 
 ### [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
@@ -208,7 +200,7 @@ Subjects marked studied: 0 of 40 of 4
 [0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/#notes)
 [0 books · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/#books)
 
-11 files · Google Drive
+9 files · Google Drive
 
 ### [Unsorted](https://notes.thatvetguy.net/bvsc/year-4/unsorted/)
 

@@ -6,9 +6,9 @@
 
 Browse the indexed Veterinary Public Health and Epidemiology files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
 
-73 files · 3rd Year
+75 files · 3rd Year
 
-[Notes (51)](#notes)[Books (1)](#books)[Practical manuals (2)](#practical-manuals)[Other (19)](#other)
+[Notes (51)](#notes)[Books (1)](#books)[Practical manuals (2)](#practical-manuals)[Other (21)](#other)
 
 ## Notes 51
 
@@ -502,7 +502,7 @@ PDFPractical manuals
 [Open Epi Practical manual-2021-converted on Google Drive](https://drive.google.com/file/d/1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD/view)[Download Epi Practical manual-2021-converted](https://drive.google.com/uc?export=download&id=1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD#report)
 
-## Other 19
+## Other 21
 
 IMGOther
 
@@ -641,12 +641,30 @@ PDFOther
 
 PDFOther
 
+### Public Health and Epidemiology
+
+37.1 MB · Updated 2021-11-10
+
+[Open Public Health and Epidemiology on Google Drive](https://drive.google.com/file/d/1y7ABH11dQkP4PeQGYwud_VNkYJQkwrs4/view)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1y7ABH11dQkP4PeQGYwud_VNkYJQkwrs4#report)
+
+PDFOther
+
 ### Unit 1-2-Pathological conditions-transport of animals-CLASS
 
 1.0 MB · Updated 2021-11-10
 
 [Open Unit 1-2-Pathological conditions-transport of animals-CLASS on Google Drive](https://drive.google.com/file/d/1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G/view)[Download Unit 1-2-Pathological conditions-transport of animals-CLASS](https://drive.google.com/uc?export=download&id=1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G#report)
+
+PDFOther
+
+### VPE First Internal With Answer
+
+643 KB · Updated 2021-11-10
+
+[Open VPE First Internal With Answer on Google Drive](https://drive.google.com/file/d/1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB/view)[Download VPE First Internal With Answer](https://drive.google.com/uc?export=download&id=1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB#report)
 
 PDFOther
 

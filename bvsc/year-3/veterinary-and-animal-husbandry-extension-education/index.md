@@ -6,9 +6,9 @@
 
 Browse the indexed Veterinary and Animal Husbandry Extension Education files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
 
-137 files · 3rd Year
+139 files · 3rd Year
 
-[Notes (61)](#notes)[Books (2)](#books)[Practical manuals (0)](#practical-manuals)[Other (74)](#other)
+[Notes (61)](#notes)[Books (2)](#books)[Practical manuals (0)](#practical-manuals)[Other (76)](#other)
 
 ## Notes 61
 
@@ -589,7 +589,7 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 [Request Resource](https://notes.thatvetguy.net/request-resource/)
 
-## Other 74
+## Other 76
 
 PDFOther
 
@@ -1211,6 +1211,24 @@ PDFOther
 
 [Open vae on Google Drive](https://drive.google.com/file/d/1PQE4284Hcoww8KRMpZLuIBfPCTLIvcrV/view)[Download vae](https://drive.google.com/uc?export=download&id=1PQE4284Hcoww8KRMpZLuIBfPCTLIvcrV)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PQE4284Hcoww8KRMpZLuIBfPCTLIvcrV#report)
+
+PDFOther
+
+### VAE BOARD
+
+1.6 MB · Updated 2022-01-08
+
+[Open VAE BOARD on Google Drive](https://drive.google.com/file/d/17icU97N2wlcH1d2HJKGUkaVpRcy-npaM/view)[Download VAE BOARD](https://drive.google.com/uc?export=download&id=17icU97N2wlcH1d2HJKGUkaVpRcy-npaM)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17icU97N2wlcH1d2HJKGUkaVpRcy-npaM#report)
+
+PDFOther
+
+### VAE First Internal With Answer
+
+656 KB · Updated 2021-11-10
+
+[Open VAE First Internal With Answer on Google Drive](https://drive.google.com/file/d/1WmLdc9SyF_rHJBQdLwPUpvhbVnOkNxEW/view)[Download VAE First Internal With Answer](https://drive.google.com/uc?export=download&id=1WmLdc9SyF_rHJBQdLwPUpvhbVnOkNxEW)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WmLdc9SyF_rHJBQdLwPUpvhbVnOkNxEW#report)
 
 DOCOther
 

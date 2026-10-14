@@ -12,8 +12,8 @@ Subjects marked studied: 0 of 50 of 5
 - [Veterinary Microbiology75 files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 - [Veterinary Pathology268 files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 - [Animal Genetics and Breeding77 files](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
-- [Animal Nutrition25 files](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
-- [Unsorted142 files](https://notes.thatvetguy.net/bvsc/year-2/unsorted/)
+- [Animal Nutrition31 files](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+- [Unsorted136 files](https://notes.thatvetguy.net/bvsc/year-2/unsorted/)
 
 ## Books by subject
 

@@ -10,9 +10,9 @@ Subjects marked studied: 0 of 40 of 4
 
 - [Veterinary Medicine238 files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 - [Veterinary Surgery and Radiology335 files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
-- [Veterinary Gynaecology and Obstetrics85 files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- [Veterinary Gynaecology and Obstetrics87 files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - [Veterinary Clinical Practices II0 files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
-- [Unsorted11 files](https://notes.thatvetguy.net/bvsc/year-4/unsorted/)
+- [Unsorted9 files](https://notes.thatvetguy.net/bvsc/year-4/unsorted/)
 
 ## Books by subject
 

@@ -6,9 +6,9 @@
 
 Browse the indexed Unsorted files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
 
-11 files · 4th Year
+9 files · 4th Year
 
-[Notes (0)](#notes)[Books (0)](#books)[Practical manuals (0)](#practical-manuals)[Other (11)](#other)
+[Notes (0)](#notes)[Books (0)](#books)[Practical manuals (0)](#practical-manuals)[Other (9)](#other)
 
 ## Notes 0
 
@@ -34,7 +34,7 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 [Request Resource](https://notes.thatvetguy.net/request-resource/)
 
-## Other 11
+## Other 9
 
 PDFOther
 
@@ -62,24 +62,6 @@ PDFOther
 
 [Open New Doc 2022-02-10 17.57.35 on Google Drive](https://drive.google.com/file/d/1DeyRni66rcmbsUU5cjIGBqiFsDZCGEO-/view)[Download New Doc 2022-02-10 17.57.35](https://drive.google.com/uc?export=download&id=1DeyRni66rcmbsUU5cjIGBqiFsDZCGEO-)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DeyRni66rcmbsUU5cjIGBqiFsDZCGEO-#report)
-
-PDFOther
-
-### og 2 pdf
-
-1.1 MB · Updated 2022-11-29
-
-[Open og 2 pdf on Google Drive](https://drive.google.com/file/d/16LR4P3Z0nCero6YxxIW1W3YT1HSYnY6b/view)[Download og 2 pdf](https://drive.google.com/uc?export=download&id=16LR4P3Z0nCero6YxxIW1W3YT1HSYnY6b)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16LR4P3Z0nCero6YxxIW1W3YT1HSYnY6b#report)
-
-PDFOther
-
-### OG pdf
-
-16.9 MB · Updated 2022-11-29
-
-[Open OG pdf on Google Drive](https://drive.google.com/file/d/1s2kI8CLNqslSBco18R3I6SXD17lLTQcg/view)[Download OG pdf](https://drive.google.com/uc?export=download&id=1s2kI8CLNqslSBco18R3I6SXD17lLTQcg)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1s2kI8CLNqslSBco18R3I6SXD17lLTQcg#report)
 
 PDFOther
 

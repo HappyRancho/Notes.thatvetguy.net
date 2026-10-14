@@ -6,9 +6,9 @@
 
 Browse the indexed Veterinary Gynaecology and Obstetrics files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
 
-85 files · 4th Year
+87 files · 4th Year
 
-[Notes (20)](#notes)[Books (8)](#books)[Practical manuals (17)](#practical-manuals)[Other (40)](#other)
+[Notes (20)](#notes)[Books (8)](#books)[Practical manuals (17)](#practical-manuals)[Other (42)](#other)
 
 ## Notes 20
 
@@ -421,7 +421,7 @@ DOCPractical manuals
 [Open Source - Copy on Google Drive](https://drive.google.com/file/d/1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx/view)[Download Source - Copy](https://drive.google.com/uc?export=download&id=1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx#report)
 
-## Other 40
+## Other 42
 
 PDFOther
 
@@ -722,12 +722,30 @@ PDFOther
 
 PDFOther
 
+### og 2 pdf
+
+1.1 MB · Updated 2022-11-29
+
+[Open og 2 pdf on Google Drive](https://drive.google.com/file/d/16LR4P3Z0nCero6YxxIW1W3YT1HSYnY6b/view)[Download og 2 pdf](https://drive.google.com/uc?export=download&id=16LR4P3Z0nCero6YxxIW1W3YT1HSYnY6b)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16LR4P3Z0nCero6YxxIW1W3YT1HSYnY6b#report)
+
+PDFOther
+
 ### OG - TNPSC Notes - Dr. Selvaraju
 
 1.2 MB · Updated 2022-09-21
 
 [Open OG - TNPSC Notes - Dr. Selvaraju on Google Drive](https://drive.google.com/file/d/1HQbrk09TM5IBv0wB5JthMilCeZWP9EB3/view)[Download OG - TNPSC Notes - Dr. Selvaraju](https://drive.google.com/uc?export=download&id=1HQbrk09TM5IBv0wB5JthMilCeZWP9EB3)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HQbrk09TM5IBv0wB5JthMilCeZWP9EB3#report)
+
+PDFOther
+
+### OG pdf
+
+16.9 MB · Updated 2022-11-29
+
+[Open OG pdf on Google Drive](https://drive.google.com/file/d/1s2kI8CLNqslSBco18R3I6SXD17lLTQcg/view)[Download OG pdf](https://drive.google.com/uc?export=download&id=1s2kI8CLNqslSBco18R3I6SXD17lLTQcg)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1s2kI8CLNqslSBco18R3I6SXD17lLTQcg#report)
 
 PDFOther
 

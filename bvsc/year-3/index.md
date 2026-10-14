@@ -9,13 +9,12 @@ Find 956 indexed files for 3rd Year BVSc & AH study. Choose a subject to browse 
 Subjects marked studied: 0 of 70 of 7
 
 - [Veterinary Pharmacology and Toxicology206 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
-- [Veterinary Parasitology336 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
-- [Veterinary Public Health and Epidemiology73 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- [Veterinary Parasitology338 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- [Veterinary Public Health and Epidemiology75 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 - [Livestock Products Technology138 files](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
-- [Veterinary and Animal Husbandry Extension Education137 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- [Veterinary and Animal Husbandry Extension Education139 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 - [Veterinary Clinical Practices I44 files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - [Livestock Farm Practices16 files](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
-- [Unsorted6 files](https://notes.thatvetguy.net/bvsc/year-3/unsorted/)
 
 ## Books by subject
 

@@ -50,8 +50,6 @@ Last source review: 2026-10-14; source file metadata was inspected from the supp
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/index.md
 - [Livestock Farm Practices · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/): Browse the indexed Livestock Farm Practices files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/index.md
-- [Unsorted · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/unsorted/): Browse the indexed Unsorted files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
-  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/unsorted/index.md
 - [3rd Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-3/): Find 956 indexed files for 3rd Year BVSc & AH study. Choose a subject to browse notes, books, practical manuals and other material.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/index.md
 - [Veterinary Medicine · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/): Browse the indexed Veterinary Medicine files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
