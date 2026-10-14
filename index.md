@@ -58,19 +58,19 @@ Past papers repeat. So should your revision.
 
 ### ICAR PYQ Question Bank
 
-1 files from the Drive library
+1 file · Google Drive
 
 ](https://notes.thatvetguy.net/objective/#icar-pyq)[
 
 ### Subject-wise Objective Questions
 
-32 files from the Drive library
+32 files · Google Drive
 
 ](https://notes.thatvetguy.net/objective/#subject-wise)[
 
 ### Objective Books
 
-2 files from the Drive library
+2 files · Google Drive
 
 ](https://notes.thatvetguy.net/objective/#books)
 
@@ -109,19 +109,19 @@ A place for trusted handbooks and practical references. Keep the essentials clos
 
 ### Handbooks
 
-5 files from the Drive library
+5 files · Google Drive
 
 ](https://notes.thatvetguy.net/clinical/#handbooks)[
 
 ### Drug & Analgesic References
 
-38 files from the Drive library
+38 files · Google Drive
 
 ](https://notes.thatvetguy.net/clinical/#drug-index)[
 
 ### Other Clinical Resources
 
-274 files from the Drive library
+274 files · Google Drive
 
 ](https://notes.thatvetguy.net/clinical/#other-resources)
 

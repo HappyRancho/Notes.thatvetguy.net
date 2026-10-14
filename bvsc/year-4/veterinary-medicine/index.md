@@ -993,13 +993,13 @@ PDFNotes
 [Open vmd 421 au on Google Drive](https://drive.google.com/file/d/1Zf1QdqnZoCEIbwQQsqIeK7USisN218BB/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Zf1QdqnZoCEIbwQQsqIeK7USisN218BB#report)
 
-FILENotes
+DOCNotes
 
-### VMD-422 VIRAL AND PARSITIC DISEASES-corrected.rtf
+### VMD-422 VIRAL AND PARSITIC DISEASES-corrected
 
 5.2 MB · Updated 2022-11-23
 
-[Open VMD-422 VIRAL AND PARSITIC DISEASES-corrected.rtf on Google Drive](https://drive.google.com/file/d/1wK3rZ2xrOAEQc1w1bidy1ocPvX_XYP6C/view)[Download VMD-422 VIRAL AND PARSITIC DISEASES-corrected.rtf](https://drive.google.com/uc?export=download&id=1wK3rZ2xrOAEQc1w1bidy1ocPvX_XYP6C)
+[Open VMD-422 VIRAL AND PARSITIC DISEASES-corrected on Google Drive](https://drive.google.com/file/d/1wK3rZ2xrOAEQc1w1bidy1ocPvX_XYP6C/view)[Download VMD-422 VIRAL AND PARSITIC DISEASES-corrected](https://drive.google.com/uc?export=download&id=1wK3rZ2xrOAEQc1w1bidy1ocPvX_XYP6C)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wK3rZ2xrOAEQc1w1bidy1ocPvX_XYP6C#report)
 
 DOCNotes
