@@ -92,12 +92,13 @@ def structured(path,title,description,items,home,body,records,date):
 
 def social(path):
     section=path.strip('/').split('/')[0] or 'home'
+    if section=='404':section='home'
     return '/assets/social/'+section+'.webp'
 
 def discovery(date,index):
     bots=['*','GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','PerplexityBot','Google-Extended','Applebot-Extended','CCBot']
     (ROOT/'robots.txt').write_text(''.join(f'User-agent: {b}\nAllow: /\n\n' for b in bots)+'Sitemap: '+BASE+'/sitemap.xml\n')
-    indexed={p:d for p,d in PAGES.items() if p!='/search/'}
+    indexed={p:d for p,d in PAGES.items() if p not in ['/search/','/404/']}
     (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE+p}</loc><lastmod>{d["lastmod"]}</lastmod></url>\n' for p,d in indexed.items())+'</urlset>\n')
     intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nA free academic directory primarily for BVSc & AH students. Original summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. External notes and books retain their source credit; links do not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+LINKEDIN+'\nLast source review: '+date+'; external HTTP availability has not been verified in the build environment.\n\n'
     mapping='## Sections and subject guides\n\n'+''.join(f'- [{d["title"]}]({BASE+p}): {d["description"]}\n  - Markdown: {BASE+p}index.md\n' for p,d in indexed.items())

@@ -86,7 +86,7 @@ rp=RobotFileParser();rp.parse((ROOT/'robots.txt').read_text().splitlines())
 for agent in ['OAI-SearchBot','Googlebot','Bingbot']:
     for url in ['https://notes.thatvetguy.net/','https://notes.thatvetguy.net/bvsc/']:assert rp.can_fetch(agent,url)
 sitemap=ET.parse(ROOT/'sitemap.xml');ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
-assert len(sitemap.findall('s:url',ns))==len(pages)-1
+assert len(sitemap.findall('s:url',ns))==sum('content="noindex,follow"' not in p.read_text() for p in pages)
 
 def luminance(h):
     c=[int(h[i:i+2],16)/255 for i in (1,3,5)]

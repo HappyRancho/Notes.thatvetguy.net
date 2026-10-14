@@ -12,6 +12,8 @@ No match yet. [Request a resource →](https://notes.thatvetguy.net/request-reso
 
 Try [Pharmacology](https://notes.thatvetguy.net/search/#preset-pharmacology)[Haemonchus](https://notes.thatvetguy.net/search/#preset-haemonchus)[NSAIDs](https://notes.thatvetguy.net/search/#preset-nsaids)[Surgery books](https://notes.thatvetguy.net/search/#preset-surgery-books)
 
+Search first. Panic later.
+
 [Notes](https://notes.thatvetguy.net/bvsc/)[PYQs](https://notes.thatvetguy.net/objective/#icar-pyq)[Tools](https://notes.thatvetguy.net/study-tools/)[Clinical](https://notes.thatvetguy.net/clinical/)
 
 ## BVSc Notes & Books
@@ -42,9 +44,13 @@ Medicine, surgery, reproduction and clinical practice.
 [01Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)[02Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)[03Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)[04Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
 4 subjects · notes & books[Explore 4th Year](https://notes.thatvetguy.net/bvsc/#year-4)
 
+Four years, one stethoscope, zero free weekends.
+
 ## Objective Resources
 
 PYQs, subject-wise objective material and important veterinary objective books.
+
+Past papers repeat. So should your revision.
 
 [
 
@@ -117,6 +123,8 @@ Pathology and professional reading.
 
 ](https://notes.thatvetguy.net/clinical/#other-resources)
 
+Check the dose. Then check it again. The patient can't.
+
 For the night before
 
 ## Backbenchers Corner
@@ -139,11 +147,15 @@ Government, private, internship and veterinary job updates — gathered in one p
 
 [Follow Job Updates ](https://t.me/jobupdatesbytvg)
 
+Your next posting shouldn't depend on a forwarded WhatsApp message.
+
 ## Can’t find what you need?
 
 Request a note, book, PYQ or useful resource. Help shape the library.
 
 [Request Resource ](https://notes.thatvetguy.net/request-resource/)
+
+Can't find it? Ask. The library has an excellent memory.
 
 ## Questions, answered
 

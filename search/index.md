@@ -14,6 +14,8 @@ No match yet. [Request a resource →](https://notes.thatvetguy.net/request-reso
 
 Try [Pharmacology](https://notes.thatvetguy.net/search/#preset-pharmacology)[Haemonchus](https://notes.thatvetguy.net/search/#preset-haemonchus)[NSAIDs](https://notes.thatvetguy.net/search/#preset-nsaids)[Surgery books](https://notes.thatvetguy.net/search/#preset-surgery-books)
 
+Search first. Panic later.
+
 ## Browse the library
 
 Interactive search needs JavaScript. All resources remain available through the links below.
