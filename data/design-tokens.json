@@ -1,0 +1,4 @@
+{
+  "light":{"paper":"#fffaf2","surface":"#ffffff","ink":"#183c36","muted":"#49635e","accent":"#183c36","on-accent":"#ffffff","brand":"#ef6a50","on-brand":"#102c26","brand-hover":"#f27b63","action":"#a93c2b","soft":"#edf3ed","note":"#dbf07d","note-ink":"#213d32","note-muted":"#405e35","line":"#c7d8cb","focus":"#183c36","telegram":"#086b99","footer":"#183c36","footer-ink":"#f3f8f1","footer-muted":"#dce9dd","year-1":"#93462f","year-2":"#355a82","year-3":"#456441","year-4":"#74527c"},
+  "dark":{"paper":"#14110d","surface":"#211d17","ink":"#f5eee4","muted":"#c3b7a5","accent":"#d6e6c6","on-accent":"#18251e","brand":"#f28a70","on-brand":"#24140c","brand-hover":"#f7a087","action":"#ffac92","soft":"#2a3027","note":"#3a4320","note-ink":"#e7f0b6","note-muted":"#cbd69b","line":"#655b4d","focus":"#f5bd82","telegram":"#8dd3fc","footer":"#1c211a","footer-ink":"#f2f2df","footer-muted":"#c0cbb1","year-1":"#f4b191","year-2":"#a2c8ee","year-3":"#b8d6a0","year-4":"#d6b3e1"}
+}

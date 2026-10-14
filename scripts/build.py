@@ -5,13 +5,14 @@ import json
 import re
 from html import escape
 from resources import RECORDS, CATALOGUE, unique
+TOKENS=json.loads((Path(__file__).resolve().parent.parent/'data/design-tokens.json').read_text())
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / 'data/resources.json').read_text())
 SUBJECTS = json.loads((ROOT / 'data/subjects.json').read_text())
 ASIDES = json.loads((ROOT / 'data/section-asides.json').read_text())
 BASE = 'https://notes.thatvetguy.net'
-VERSION = '20261014-p1'
+VERSION = '20261014-p2'
 DESCRIPTION = 'Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.'
 VCI = 'https://www.vci.dahd.gov.in/sites/default/files/IVPR/MSVE-Gazette-2016.pdf#page=103'
 ROUTES = {
@@ -75,13 +76,25 @@ def header(home=False):
 <header class="site-header" id="top"><div class="container header-inner">
 {link('/', '<span class="brand-icon">'+icon('book')+'</span><span>Notes.<b>ThatVetGuy</b></span>', 'brand', False)}
 <nav class="desktop-nav" aria-label="Main navigation">{nav_link('/bvsc/','Notes & Books')}{nav_link('/objective/','Objective')}{nav_link('/study-tools/','Study Tools')}{nav_link('/clinical/','Clinical')}</nav>
-<div class="header-actions">{link('/search/',icon('search')+'<span class="sr-only">Search resources</span>','icon-button search-jump')}<button class="icon-button menu-button" type="button" aria-label="Open navigation" aria-controls="mobile-menu" aria-expanded="false">{icon('menu')}</button></div>
+<div class="header-actions">{link('/search/',icon('search')+'<span class="sr-only">Search resources</span>','icon-button header-search command-trigger')}<button type="button" class="icon-button theme-toggle js-only" aria-label="Switch colour theme" aria-pressed="false"><span aria-hidden="true">◐</span></button><button class="icon-button menu-button" type="button" aria-label="Open navigation" aria-controls="mobile-menu" aria-expanded="false">{icon('menu')}</button></div>
 </div></header>
 <noscript><div class="container nojs-nav" aria-label="Browse the library">{link('/bvsc/','Notes & Books')}{link('/objective/','Objective')}{link('/study-tools/','Study Tools')}{link('/clinical/','Clinical')}</div></noscript>
 <dialog id="mobile-menu" class="menu-dialog" aria-labelledby="menu-title"><div class="menu-head"><div id="menu-title" class="menu-title">Explore.</div><button type="button" class="icon-button menu-close" aria-label="Close navigation">{icon('close')}</button></div><div class="menu-body">{link('/search/', icon('search')+'<span>Find a resource</span>'+icon('arrow'), 'menu-search search-jump')}<nav aria-label="Mobile navigation">{nav}</nav></div></dialog>'''
 
 def footer():
-    return f'''<footer class="site-footer"><div class="container footer-top"><div><p class="footer-name">ThatVetGuy ecosystem</p><p>Free veterinary notes, books & study resources.</p></div><nav aria-label="ThatVetGuy ecosystem">{link('https://thatvetguy.net','<span>ThatVetGuy<small>thatvetguy.net</small></span>'+icon('external'))}{link('/','<span>Notes<small>notes.thatvetguy.net</small></span>'+icon('arrow'))}{link('https://blog.thatvetguy.net','<span>Blog<small>blog.thatvetguy.net</small></span>'+icon('external'))}</nav></div><div class="container footer-bottom"><span>© 2026 ThatVetGuy</span><nav aria-label="Footer">{link('/about/','About')}{link('/request-resource/#contact','Contact')}{link('/request-resource/#contribute','Contribute')}{link('/request-resource/','Request Resource')}{link('/request-resource/#report','Report an Error')}</nav></div></footer>'''
+    return f'''<footer class="site-footer"><div class="container footer-top"><div><p class="footer-name">ThatVetGuy ecosystem</p><p>Free veterinary notes, books & study resources.</p></div><nav aria-label="ThatVetGuy ecosystem">{link('https://thatvetguy.net','<span>ThatVetGuy<small>thatvetguy.net</small></span>'+icon('external'))}{link('/','<span>Notes<small>notes.thatvetguy.net</small></span>'+icon('arrow'))}{link('https://blog.thatvetguy.net','<span>Blog<small>blog.thatvetguy.net</small></span>'+icon('external'))}</nav></div><div class="container footer-bottom"><span>© 2026 ThatVetGuy</span><nav aria-label="Footer">{link('/about/','About')}{link('/request-resource/#contact','Contact')}{link('/request-resource/#contribute','Contribute')}{link('/request-resource/','Request Resource')}{link('/request-resource/#report','Report an Error')}</nav></div><details class="container personal-library js-only"><summary>On this device · saved & recently opened</summary><p id="storage-status" role="status"></p><h2>Saved resources</h2><ul id="saved-resources"></ul><h2>Recently opened</h2><ul id="recent-resources"></ul><button type="button" id="clear-recent" class="button secondary">Clear recent history</button></details></footer>'''
+
+def year_progress(y,names):
+    ids=' '.join(slug(n) for n in names)
+    return f'<div class="year-progress js-only" data-progress-year="{y}" data-subjects="{ids}"><label for="progress-{y}">Subjects marked studied: <span>0 of {len(names)}</span></label><progress id="progress-{y}" value="0" max="{len(names)}">0 of {len(names)}</progress></div>'
+
+def bottom_navigation(path):
+    items=[('/','Home','book'),('/bvsc/','Notes','book'),('/objective/','Objective','check'),('/search/','Search','search')]
+    links=''.join(f'<a href="{url}"'+(' aria-current="page"' if path==url else '')+'>'+icon(ic)+'<span>'+title+'</span></a>' for url,title,ic in items)
+    return '<nav class="bottom-nav" aria-label="Mobile shortcuts">'+links+'<button type="button" class="menu-button js-only" aria-label="Open more navigation" aria-controls="mobile-menu" aria-expanded="false">'+icon('menu')+'<span>More</span></button></nav>'
+
+def command_palette():
+    return '<dialog class="command-dialog" id="command-palette" aria-labelledby="command-title"><div class="menu-head"><div class="menu-title" id="command-title">Find a resource</div><button type="button" class="icon-button command-close" aria-label="Close search">'+icon('close')+'</button></div><div class="command-content"><label for="command-search" class="sr-only">Search all veterinary resources</label><input id="command-search" type="search" placeholder="Subject, note, book or drug…" autocomplete="off"><p class="search-loading" hidden>Loading the resource index…</p><ul id="command-results"></ul><p id="command-status" role="status" aria-live="polite"></p></div></dialog>'
 
 def schema(path, title, description, items=None, home=False):
     org = {'@type':'Organization', '@id':BASE+'/#organization', 'name':'ThatVetGuy', 'url':'https://thatvetguy.net', 'logo':BASE+'/assets/favicon.svg'}
@@ -103,16 +116,15 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
-<meta name="theme-color" content="#fffaf2"><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
+<meta name="theme-color" content="#fffaf2" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#14110d" media="(prefers-color-scheme: dark)"><script src="/assets/theme.js?v={VERSION}"></script><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
 <link rel="canonical" href="{canonical}"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE}/assets/social-cover.png"><meta property="og:image:alt" content="Notes.ThatVetGuy — free academic resources for future vets"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE}/assets/social-cover.png">
 <link rel="stylesheet" href="/assets/site.css?v={VERSION}">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Playfair+Display:ital,wght@0,600;1,400;1,600&amp;display=swap">
+<link rel="preload" href="/assets/fonts/notes-serif-latin.woff" as="font" type="font/woff" crossorigin>
 <script type="application/ld+json">{schema(path,title,description,items,home)}</script>
-<script src="/assets/site.js?v={VERSION}" defer></script>
-</head><body>{header(home)}<main id="main">{body}<div class="container page-checked">Last checked: <time datetime="{DATA['lastChecked']}">{DATA['lastChecked']}</time></div></main>{footer()}</body></html>'''
+<script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script>
+</head><body>{header(home)}<main id="main">{body}<div class="container page-checked">Last checked: <time datetime="{DATA['lastChecked']}">{DATA['lastChecked']}</time></div></main>{footer()}{bottom_navigation(path)}{command_palette()}</body></html>'''
     for nav_path in ['/bvsc/','/objective/','/study-tools/','/clinical/']:
         if path == nav_path:
             html=html.replace(f'href="{nav_path}" class="nav-link"',f'href="{nav_path}" class="nav-link" aria-current="page"')
@@ -140,7 +152,7 @@ def homepage():
         tools+=link(ROUTES[key],icon(ic)+f'<div><h3>{title}</h3><p>{desc}</p></div>'+icon('arrow'),'tool-row')
     clinical=''.join(link(ROUTES[key],icon(ic)+f'<div><h3>{title}</h3><p>{desc}</p></div>'+icon('arrow'),'clinical-row') for key,title,desc,ic in [
         ('handbooks','Handbooks','Trusted references, close at hand.','book'),('drug-index','Drug & Analgesic References','Find a veterinary drug reference.','pill'),('clinical-other','Other Clinical Resources','Pathology and professional reading.','cross')])
-    body=f'''<section class="intro container"><div class="intro-heading"><div><h1>Free academic resources, thoughtfully made for future vets.</h1><p class="intro-description">Everything useful for veterinary study, organised in one place.</p></div></div>{search_form()}</section>
+    body=f'''<section class="intro container"><div class="intro-heading"><div><h1>Free academic resources, thoughtfully made for future vets.</h1><p class="intro-description">Everything useful for veterinary study, organised in one place.</p></div></div>{search_form()}<div class="quick-tiles">{link('/bvsc/',icon('book')+'Notes')}{link('/objective/#icar-pyq',icon('paper')+'PYQs')}{link('/study-tools/',icon('tools')+'Tools')}{link('/clinical/',icon('cross')+'Clinical')}</div></section>
 <section class="section container" id="notes">{section_heading('BVSc Notes <em>& Books</em>','Subject-wise study material organised by professional year.',link('/bvsc/','All subjects '+icon('arrow'),'text-link section-link'))}<div class="academic-library"><div class="year-tabs" aria-label="Choose a professional year">{tabs}<span class="tab-indicator" aria-hidden="true"></span></div><div class="year-panels">{panels}</div></div></section>
 <section class="section container objective-section" id="objective">{section_heading('Objective Resources','PYQs, subject-wise objective material and important veterinary objective books.')}<div class="objective-list">{objective}</div></section>
 
@@ -161,9 +173,10 @@ def resource_card(rid, heading='h3'):
     badge='Coming soon' if unavailable else item['type']+' · '+item['source']
     checked=item.get('lastVerified')
     meta=f'<p class="resource-date">Source last checked: <time datetime="{checked}">{checked}</time></p>' if checked else ''
+    save=f'<button type="button" class="bookmark-button js-only" data-bookmark="{item["id"]}" aria-pressed="false">Save resource</button>' if not unavailable else ''
     cta=link(item['url'],'Read '+escape(item['title']), 'button secondary') if not unavailable else link('/request-resource/?resource='+item['id'],'Request this book','button secondary')
     report=link('/request-resource/?resource='+item['id']+'#report','Report broken link','report-link') if not unavailable else ''
-    return f'<article class="resource-card" data-resource-id="{item["id"]}"><span class="resource-badge">{escape(badge)}</span><{heading}>{escape(item["title"])}</{heading}><p>{escape(item["description"])}</p>{meta}<div class="card-actions">{cta}{report}</div></article>'
+    return f'<article class="resource-card" data-resource-id="{item["id"]}"><span class="resource-badge">{escape(badge)}</span>{save}<{heading}>{escape(item["title"])}</{heading}><p>{escape(item["description"])}</p>{meta}<div class="card-actions">{cta}{report}</div></article>'
 
 def source_link(item):
     return resource_card(item if isinstance(item,str) else item['id'])
@@ -187,13 +200,13 @@ def inside_pages():
     body+='<p class="source-note">Year grouping may vary by university. Check your syllabus.</p>'
     items=[]
     for y,names in DATA['years'].items():
-        body+=f'<section class="content-section year-group" data-year="{y}" id="year-{y}"><h2>{DATA["labels"][y]}</h2><p>{DATA["descriptions"][y]}</p><div class="subject-card-grid">'
+        body+=f'<section class="content-section year-group" data-year="{y}" id="year-{y}"><h2>{DATA["labels"][y]}</h2><p>{DATA["descriptions"][y]}</p>{year_progress(y,names)}<div class="subject-card-grid">'
         for name in names:
             anchor=slug(name);items.append((name,'/bvsc/#'+anchor));material=SUBJECTS[name]
             source=CATALOGUE[material['notesIds'][0]]['source']
             notes=''.join(link(CATALOGUE[rid]['url'],'Read '+escape(name)+' notes','button secondary') for rid in unique(material['notesIds']))
             books=link('#year-'+y+'-books','Books for '+DATA['labels'][y],'button secondary') if material['booksId'] else '<span class="resource-badge">Coming soon</span>'+link('/request-resource/?subject='+anchor,'Request this book','button secondary')
-            body+=f'<article class="subject-source resource-card" data-subject="{anchor}" id="{anchor}"><span class="resource-badge">Notes · {escape(source)}</span><h3>{escape(name)}</h3><p>{DATA["labels"][y]} study notes and reading resources.</p><div class="material-toggle" data-material-toggle><div class="material-tablist"><a href="#{anchor}-notes" class="material-tab">Notes</a><a href="#{anchor}-books" class="material-tab">Books</a></div><div id="{anchor}-notes" class="material-panel">{notes}</div><div id="{anchor}-books" class="material-panel">{books}</div></div>'+link('/request-resource/?subject='+anchor+'#report','Report broken link','report-link')+'</article>'
+            body+=f'<article class="subject-source resource-card" data-subject="{anchor}" id="{anchor}"><span class="resource-badge">Notes · {escape(source)}</span><h3>{escape(name)}</h3><p>{DATA["labels"][y]} study notes and reading resources.</p><div class="material-toggle" data-material-toggle><div class="material-tablist"><a href="#{anchor}-notes" class="material-tab">Notes</a><a href="#{anchor}-books" class="material-tab">Books</a></div><div id="{anchor}-notes" class="material-panel">{notes}</div><div id="{anchor}-books" class="material-panel">{books}</div></div>'+link('/request-resource/?subject='+anchor+'#report','Report broken link','report-link')+f'<button type="button" class="studied-button js-only" data-studied="{anchor}" aria-pressed="false">Mark as studied</button></article>'
         body+='</div><div class="year-books" id="year-'+y+'-books">'+resource_card(DATA['yearBooks'][y],heading='h3')+'</div></section>'
     write_page('/bvsc/','BVSc Notes & Books',intro,body+'</div>',items)
     for path,title,description,keys in [
@@ -232,6 +245,7 @@ def discovery_files():
     for y,names in DATA['years'].items():
         for name in names:catalogue.append({'id':slug(name),'title':name,'subject':DATA['labels'][y],'year':int(y),'type':'Subject','source':'Notes.ThatVetGuy','description':'Notes and books for '+name,'url':'/bvsc/#'+slug(name),'keywords':''})
     (ROOT/'assets/catalogue.json').write_text(json.dumps(catalogue,ensure_ascii=False,separators=(',',':'))+'\n')
+    (ROOT/'search-index.json').write_text(json.dumps(catalogue,ensure_ascii=False,separators=(',',':'))+'\n')
     (ROOT/'.nojekyll').touch()
 
 if __name__=='__main__':

@@ -1,242 +1,43 @@
-/* Progressive enhancement only: all study links and page content exist in the HTML. */
-(() => {
-  'use strict';
-  document.documentElement.classList.add('js');
-  const $ = (s, root = document) => root.querySelector(s);
-  const $$ = (s, root = document) => [...root.querySelectorAll(s)];
-  const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
-  const menu = $('#mobile-menu');
-  const menuButton = $('.menu-button');
-  let lockedScroll = null;
-  let menuOpener;
-  let restoreFocus = true;
-  let menuClosing = null;
-
-  function openMenu() {
-    if (!menu || menu.open) return;
-    closeSuggestions();
-    menuOpener = document.activeElement;
-    restoreFocus = true;
-    lockedScroll = { y: scrollY, position: document.body.style.position, top: document.body.style.top, width: document.body.style.width };
-    document.documentElement.classList.add('scroll-locked');
-    Object.assign(document.body.style, { position: 'fixed', top: `-${lockedScroll.y}px`, width: '100%' });
-    menu.showModal();
-    menuButton.setAttribute('aria-expanded', 'true');
-    $('.menu-close').focus();
-  }
-  function closeMenu(focus = true) {
-    if (menuClosing) return menuClosing;
-    restoreFocus = focus;
-    if (!menu?.open) return Promise.resolve();
-    menuClosing = new Promise(resolve => {
-      menu.addEventListener('close', () => { menuClosing = null; resolve(); }, { once: true });
-      if (!reduceMotion.matches && typeof menu.animate === 'function') {
-        const animation = menu.animate(
-          [{ opacity: 1, transform: 'translateX(0)' }, { opacity: .5, transform: 'translateX(10px)' }],
-          { duration: 140, easing: 'ease-in', fill: 'forwards' }
-        );
-        animation.finished.catch(() => {}).then(() => { if (menu.open) menu.close(); animation.cancel(); });
-      } else menu.close();
-    });
-    return menuClosing;
-  }
-  menuButton?.addEventListener('click', openMenu);
-  $('.menu-close')?.addEventListener('click', () => closeMenu());
-  menu?.addEventListener('cancel', event => { event.preventDefault(); closeMenu(); });
-  menu?.addEventListener('click', event => {
-    if (event.target !== menu) return;
-    const r = menu.getBoundingClientRect();
-    if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) closeMenu();
-  });
-  menu?.addEventListener('close', () => {
-    menuButton.setAttribute('aria-expanded', 'false');
-    document.documentElement.classList.remove('scroll-locked');
-    if (lockedScroll) {
-      const saved = lockedScroll; lockedScroll = null;
-      Object.assign(document.body.style, { position: saved.position, top: saved.top, width: saved.width });
-      window.scrollTo({ top: saved.y, behavior: 'instant' });
-    }
-    if (restoreFocus) menuOpener?.focus({ preventScroll: true });
-  });
-  $$('a', menu).forEach(a => a.addEventListener('click', async event => {
-    if (a.classList.contains('search-jump')) return;
-    const destination = new URL(a.href);
-    if (destination.pathname === location.pathname && destination.hash) {
-      event.preventDefault();
-      await closeMenu(false);
-      const target = document.getElementById(destination.hash.slice(1));
-      target?.scrollIntoView({ behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'start' });
-      const focusTarget = target?.querySelector('input, h2') || target;
-      if (focusTarget) { if (focusTarget.tagName !== 'INPUT') focusTarget.tabIndex = -1; focusTarget.focus({ preventScroll: true }); }
-    } else closeMenu(false);
-  }));
-  matchMedia('(min-width: 1024px)').addEventListener('change', e => { if (e.matches) closeMenu(false); });
-
-  const tabs = $$('.year-tab');
-  const panels = $$('.year-panel');
-  let yearAnimation;
-  if (tabs.length) {
-    const tablist = $('.year-tabs');
-    tablist.setAttribute('role', 'tablist');
-    tablist.classList.add('enhanced-tabs');
-    $('.academic-library').classList.add('enhanced-tabs');
-    tabs.forEach((tab, i) => {
-      tab.setAttribute('role', 'tab');
-      tab.setAttribute('aria-controls', panels[i].id);
-      panels[i].setAttribute('role', 'tabpanel');
-      panels[i].tabIndex = 0;
-    });
-    function selectYear(index, animate = false) {
-      if (animate && tabs[index].getAttribute('aria-selected') === 'true') return;
-      yearAnimation?.cancel();
-      tablist.style.setProperty('--selected', index);
-      tabs.forEach((tab, i) => { tab.setAttribute('aria-selected', String(i === index)); tab.tabIndex = i === index ? 0 : -1; panels[i].hidden = i !== index; });
-      if (animate && !reduceMotion.matches && panels[index].animate) yearAnimation = panels[index].animate([{ opacity: .65, transform: 'translateY(4px)' }, { opacity: 1, transform: 'none' }], { duration: 170, easing: 'ease-out' });
-    }
-    tabs.forEach((tab, i) => {
-      tab.addEventListener('click', e => { e.preventDefault(); selectYear(i, true); });
-      tab.addEventListener('keydown', e => {
-        let next;
-        if (e.key === 'ArrowRight') next = (i + 1) % tabs.length;
-        else if (e.key === 'ArrowLeft') next = (i + tabs.length - 1) % tabs.length;
-        else if (e.key === 'Home') next = 0;
-        else if (e.key === 'End') next = tabs.length - 1;
-        else if (e.key === ' ') { e.preventDefault(); selectYear(i, true); return; }
-        else return;
-        e.preventDefault(); selectYear(next, true); tabs[next].focus();
-      });
-    });
-    const hashIndex = panels.findIndex(p => '#' + p.id === location.hash);
-    selectYear(hashIndex >= 0 ? hashIndex : 0);
-  }
-
-  const input = $('#resource-search');
-  const form = $('.search-form');
-  const suggestions = $('#search-suggestions');
-  const list = $('#suggestion-list');
-  const status = $('#search-status');
-  const pageResults = $('#page-results');
-  let catalogue;
-  let cataloguePromise;
-  let active = -1;
-  let revision = 0;
-  const normalize = value => value.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
-  const node = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; };
-  function loadCatalogue() {
-    if (!cataloguePromise) cataloguePromise = fetch('/assets/catalogue.json').then(response => { if (!response.ok) throw Error('Catalogue unavailable'); return response.json(); }).then(data => { catalogue = data; return data; }).catch(error => { cataloguePromise = null; throw error; });
-    return cataloguePromise;
-  }
-  function matches(query, data) {
-    const words = normalize(query).split(' ').filter(Boolean);
-    if (!words.length) return data.slice(0, 5);
-    return data.filter(item => words.every(word => normalize(`${item.title} ${item.subject} ${item.type} ${item.keywords || ''}`).includes(word)))
-      .sort((a, b) => Number(normalize(b.title).startsWith(normalize(query))) - Number(normalize(a.title).startsWith(normalize(query))));
-  }
-  function resultLink(item) {
-    const a = node('a', 'search-result');
-    a.href = item.url;
-    if (/^https?:/.test(item.url)) { a.target = '_blank'; a.rel = 'noopener noreferrer'; }
-    const copy = node('span', 'result-copy');
-    copy.append(node('strong', '', item.title), node('small', '', item.source ? `${item.subject} · ${item.source}` : item.subject));
-    a.append(copy, node('span', 'result-type', item.type));
-    return a;
-  }
-  function closeSuggestions() {
-    revision++;
-    if (suggestions) suggestions.hidden = true;
-    input?.setAttribute('aria-expanded', 'false');
-    input?.removeAttribute('aria-activedescendant'); active = -1;
-  }
-  async function updateSuggestions() {
-    if (!input || !suggestions || pageResults) return;
-    const request = ++revision;
-    try {
-      const data = await loadCatalogue();
-      if (request !== revision || document.activeElement !== input) return;
-      const results = matches(input.value, data).slice(0, 5);
-      list.replaceChildren(); active = -1; input.removeAttribute('aria-activedescendant');
-      $('.suggestion-label').textContent = input.value.trim() ? 'Matching resources' : 'A few useful starting points';
-      results.forEach((item, i) => {
-        const li = node('li'); li.setAttribute('role', 'presentation');
-        const a = resultLink(item); a.id = 'result-' + i; a.setAttribute('role', 'option'); a.setAttribute('aria-selected', 'false'); a.tabIndex = -1;
-        a.addEventListener('click', closeSuggestions); li.append(a); list.append(li);
-      });
-      list.hidden = results.length === 0;
-      $('#search-empty').hidden = results.length > 0;
-      status.textContent = results.length ? `${results.length} suggestions. Use arrow keys to choose.` : 'No matching resources. You can request one.';
-      suggestions.hidden = false; input.setAttribute('aria-expanded', String(results.length > 0));
-    } catch {
-      closeSuggestions();
-      status.textContent = 'Suggestions are temporarily unavailable. Browse the subject and resource links below.';
-    }
-  }
-  async function renderPageResults() {
-    if (!pageResults) return;
-    const request = ++revision;
-    const heading = $('#results-heading');
-    try {
-      const data = await loadCatalogue();
-      if (request !== revision) return;
-      const query = input.value.trim();
-      const results = query ? matches(query, data) : data;
-      heading.textContent = query ? `Results for “${query}”` : 'Browse all resources';
-      pageResults.replaceChildren();
-      results.forEach(item => { const row = node('div', 'page-result'); row.append(resultLink(item)); pageResults.append(row); });
-      if (!results.length) { const p = node('p', 'source-note', 'No match yet. Try a subject name, or '); const a = node('a', '', 'request a resource'); a.href = '/request-resource/'; p.append(a); pageResults.append(p); }
-      status.textContent = `${results.length} matching resources.`;
-    } catch { heading.textContent = 'Browse the library'; pageResults.replaceChildren(node('p', 'source-note', 'Search is temporarily unavailable. Use the category links below to browse every resource.')); }
-  }
-  if (input) {
-    if (!pageResults) {
-      input.setAttribute('role', 'combobox'); input.setAttribute('aria-autocomplete', 'list'); input.setAttribute('aria-haspopup', 'listbox'); input.setAttribute('aria-expanded', 'false'); input.setAttribute('aria-controls', 'suggestion-list'); list.setAttribute('role', 'listbox'); list.setAttribute('aria-label', 'Matching resources');
-      input.addEventListener('focus', updateSuggestions); input.addEventListener('input', updateSuggestions);
-      input.addEventListener('keydown', e => {
-        if (e.key === 'Escape') { e.preventDefault(); closeSuggestions(); return; }
-        const options = $$('[role="option"]', list);
-        if ((e.key === 'ArrowDown' || e.key === 'ArrowUp') && options.length && !suggestions.hidden) {
-          e.preventDefault(); active = active < 0 ? (e.key === 'ArrowDown' ? 0 : options.length - 1) : (active + (e.key === 'ArrowDown' ? 1 : -1) + options.length) % options.length;
-          options.forEach((option, i) => { option.classList.toggle('active', i === active); option.setAttribute('aria-selected', String(i === active)); });
-          input.setAttribute('aria-activedescendant', options[active].id); options[active].scrollIntoView({ block: 'nearest', behavior: 'instant' });
-        }
-        if (e.key === 'Enter' && active >= 0 && !suggestions.hidden) { e.preventDefault(); options[active]?.click(); }
-      });
-      document.addEventListener('pointerdown', e => { if (!form.contains(e.target)) closeSuggestions(); });
-      document.addEventListener('focusin', e => { if (!form.contains(e.target)) closeSuggestions(); });
-      $$('.search-examples a').forEach(a => a.addEventListener('click', e => { e.preventDefault(); input.value = new URL(a.href).hash.slice(8).replaceAll('-', ' '); input.focus({ preventScroll: true }); updateSuggestions(); }));
-    } else {
-      input.value = new URLSearchParams(location.search).get('q') || '';
-      renderPageResults(); input.addEventListener('input', renderPageResults);
-      form.addEventListener('submit', e => { e.preventDefault(); const url = new URL(location.href); if (input.value.trim()) url.searchParams.set('q', input.value.trim()); else url.searchParams.delete('q'); history.replaceState(null, '', url); renderPageResults(); });
-    }
-  }
-  $$('.search-jump').forEach(a => a.addEventListener('click', async e => {
-    if (new URL(a.href).pathname !== location.pathname || !input) return;
-    e.preventDefault();
-    await closeMenu(false);
-    input.scrollIntoView({ behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'center' });
-    input.focus({ preventScroll: true });
-  }));
-  document.addEventListener('keydown', event => {
-    const editing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName || '') || document.activeElement?.isContentEditable;
-    if (event.key === '/' && !editing && !event.ctrlKey && !event.metaKey && input) { event.preventDefault(); input.focus(); }
-  });
-  const header = $('.site-header');
-  const onScroll = () => header?.classList.toggle('scrolled', scrollY > 8);
-  window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
-  if ('IntersectionObserver' in window && !reduceMotion.matches) {
-    const observer = new IntersectionObserver(entries => entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('entered'); observer.unobserve(entry.target); } }), { threshold: .06 });
-    $$('.section').forEach(section => observer.observe(section));
-  }
-})();
-
-/* Accessible subject material tabs; all panels remain visible without JavaScript. */
-(() => {
-  document.querySelectorAll('[data-material-toggle]').forEach(group => {
-    const tabs=[...group.querySelectorAll('.material-tab')];
-    const panels=[...group.querySelectorAll('.material-panel')];
-    if(tabs.length!==panels.length)return;
-    group.querySelector('.material-tablist').setAttribute('role','tablist');
-    function select(index){tabs.forEach((tab,i)=>{tab.setAttribute('aria-selected',String(i===index));tab.tabIndex=i===index?0:-1;panels[i].hidden=i!==index;});}
-    tabs.forEach((tab,i)=>{tab.id=panels[i].id+'-tab';tab.setAttribute('role','tab');tab.setAttribute('aria-controls',panels[i].id);panels[i].setAttribute('role','tabpanel');panels[i].setAttribute('aria-labelledby',tab.id);tab.addEventListener('click',e=>{e.preventDefault();select(i);});tab.addEventListener('keydown',e=>{if(!['ArrowLeft','ArrowRight','Home','End'].includes(e.key))return;e.preventDefault();const n=e.key==='Home'?0:e.key==='End'?tabs.length-1:(i+1)%tabs.length;select(n);tabs[n].focus();});});select(0);
-  });
+/* All study content is static; this file adds keyboard navigation and local-only state. */
+(()=>{'use strict';
+const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];document.documentElement.classList.add('js');
+const reduce=matchMedia('(prefers-reduced-motion: reduce)'),systemTheme=matchMedia('(prefers-color-scheme: dark)');
+const fallback=new Map();let persistence=true;
+const read=(key,initial)=>{try{return JSON.parse(localStorage.getItem(key))??initial}catch{return fallback.get(key)??initial}};
+const write=(key,value)=>{fallback.set(key,value);try{localStorage.setItem(key,JSON.stringify(value))}catch{persistence=false;const status=$('#storage-status');if(status)status.textContent='Storage is unavailable. Changes last for this visit only.'}};
+function currentTheme(){return document.documentElement.dataset.theme||(systemTheme.matches?'dark':'light')}
+function theme(value,save=false){document.documentElement.dataset.theme=value;$$('meta[name="theme-color"]').forEach(m=>{m.content=value==='dark'?'#14110d':'#fffaf2';m.removeAttribute('media')});$$('.theme-toggle').forEach(b=>{b.setAttribute('aria-pressed',String(value==='dark'));b.setAttribute('aria-label','Switch to '+(value==='dark'?'light':'dark')+' theme')});if(save){try{localStorage.setItem('tvg-theme',value)}catch{}}}
+let explicit=false;try{explicit=['light','dark'].includes(localStorage.getItem('tvg-theme'))}catch{}theme(currentTheme());
+$$('.theme-toggle').forEach(b=>b.addEventListener('click',()=>{explicit=true;theme(currentTheme()==='dark'?'light':'dark',true)}));systemTheme.addEventListener('change',()=>{if(!explicit)theme(systemTheme.matches?'dark':'light')});
+const menu=$('#mobile-menu'),palette=$('#command-palette');let lock=null,opener=null;const closing=new WeakMap();
+function lockScroll(){if(lock)return;lock={y:scrollY,position:document.body.style.position,top:document.body.style.top,width:document.body.style.width};Object.assign(document.body.style,{position:'fixed',top:`-${lock.y}px`,width:'100%'});document.documentElement.classList.add('scroll-locked')}
+function unlock(){if((menu?.open)||(palette?.open)||!lock)return;const saved=lock;lock=null;Object.assign(document.body.style,{position:saved.position,top:saved.top,width:saved.width});document.documentElement.classList.remove('scroll-locked');window.scrollTo({top:saved.y,behavior:'instant'})}
+function openDialog(dialog,trigger){if(!dialog||dialog.open)return;[menu,palette].forEach(d=>{if(d?.open)d.close()});opener=trigger||document.activeElement;lockScroll();dialog.showModal();if(dialog===menu)$$('.menu-button').forEach(b=>b.setAttribute('aria-expanded','true'));(dialog===palette?$('#command-search'):$('.menu-close'))?.focus()}
+function closeDialog(dialog,restore=true){if(!dialog?.open)return Promise.resolve();if(closing.has(dialog))return closing.get(dialog);const result=new Promise(resolve=>{dialog.addEventListener('close',()=>{unlock();if(restore)opener?.focus({preventScroll:true});closing.delete(dialog);resolve()},{once:true});if(!reduce.matches&&dialog.animate){const a=dialog.animate([{opacity:1},{opacity:0}],{duration:120,easing:'ease-out'});a.finished.catch(()=>{}).then(()=>{if(dialog.open)dialog.close();a.cancel()})}else dialog.close()});closing.set(dialog,result);return result}
+[menu,palette].forEach(dialog=>{if(!dialog)return;dialog.addEventListener('close',()=>{unlock();if(dialog===menu)$$('.menu-button').forEach(b=>b.setAttribute('aria-expanded','false'))});dialog.addEventListener('cancel',e=>{e.preventDefault();closeDialog(dialog)});dialog.addEventListener('click',e=>{if(e.target!==dialog)return;const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeDialog(dialog)})});
+$$('.menu-button').forEach(b=>b.addEventListener('click',()=>openDialog(menu,b)));$('.menu-close')?.addEventListener('click',()=>closeDialog(menu));$('.command-close')?.addEventListener('click',()=>closeDialog(palette));
+$$('a',menu).forEach(a=>a.addEventListener('click',async e=>{const u=new URL(a.href);if(u.pathname===location.pathname&&u.hash){e.preventDefault();await closeDialog(menu,false);const target=document.getElementById(u.hash.slice(1));target?.scrollIntoView({behavior:reduce.matches?'instant':'smooth'});if(target){const h=target.querySelector('h2')||target;h.tabIndex=-1;h.focus({preventScroll:true})}}else closeDialog(menu,false)}));
+matchMedia('(min-width:1024px)').addEventListener('change',e=>{if(e.matches)closeDialog(menu,false)});
+function tabs(group,tabSelector,panelSelector){const ts=$$(tabSelector,group),ps=$$(panelSelector,group);if(!ts.length||ts.length!==ps.length)return;const list=ts[0].parentElement;list.setAttribute('role','tablist');group.classList.add('enhanced-tabs');list.classList.add('enhanced-tabs');let animation;function select(i,animate=false){animation?.cancel();list.style.setProperty('--selected',i);ts.forEach((t,n)=>{t.setAttribute('aria-selected',String(n===i));t.tabIndex=n===i?0:-1;ps[n].hidden=n!==i});if(animate&&!reduce.matches&&ps[i].animate)animation=ps[i].animate([{opacity:.6,transform:'translateY(4px)'},{opacity:1,transform:'none'}],{duration:160,easing:'ease-out'})}ts.forEach((t,i)=>{t.id=t.id||ps[i].id+'-tab';t.setAttribute('role','tab');t.setAttribute('aria-controls',ps[i].id);ps[i].setAttribute('role','tabpanel');ps[i].setAttribute('aria-labelledby',t.id);ps[i].tabIndex=0;t.addEventListener('click',e=>{e.preventDefault();select(i,true)});t.addEventListener('keydown',e=>{let n;if(e.key==='ArrowRight')n=(i+1)%ts.length;else if(e.key==='ArrowLeft')n=(i+ts.length-1)%ts.length;else if(e.key==='Home')n=0;else if(e.key==='End')n=ts.length-1;else return;e.preventDefault();select(n,true);ts[n].focus()})});const index=ps.findIndex(p=>'#'+p.id===location.hash);select(index<0?0:index)}
+$$('.academic-library').forEach(g=>tabs(g,'.year-tab','.year-panel'));$$('[data-material-toggle]').forEach(g=>tabs(g,'.material-tab','.material-panel'));
+let indexPromise;const {normal,find}=window.NotesLogic;
+function loadIndex(){if(!indexPromise)indexPromise=fetch('/search-index.json').then(r=>{if(!r.ok)throw Error('Search unavailable');return r.json()}).catch(e=>{indexPromise=null;throw e});return indexPromise}
+const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n};
+function resultLink(r){const a=el('a','search-result');a.href=r.url||'/request-resource/?resource='+r.id;a.dataset.resultId=r.id;if(/^https?:/.test(a.getAttribute('href'))){a.target='_blank';a.rel='noopener noreferrer'}const copy=el('span','result-copy');copy.append(el('strong','',r.title),el('small','',r.source+' · '+(r.subject||r.description)));a.append(copy,el('span','result-type',r.type));a.addEventListener('click',()=>remember(r.id));return a}
+const controllers=[];
+function bindSearch(input,host,list,status,{page=false}={}){if(!input||!host||!list)return;let revision=0,active=-1;input.setAttribute('role','combobox');input.setAttribute('aria-autocomplete','list');input.setAttribute('aria-haspopup','listbox');input.setAttribute('aria-expanded','false');input.setAttribute('aria-controls',list.id);list.setAttribute('role','listbox');list.setAttribute('aria-label','Matching resources');const close=()=>{revision++;if(!page)host.hidden=true;input.setAttribute('aria-expanded','false');input.removeAttribute('aria-activedescendant');active=-1};async function update(){const rev=++revision,query=input.value;const loading=$('.search-loading',host);if(loading)loading.hidden=false;try{const index=await loadIndex();if(rev!==revision)return;let results=find(query,index);const count=results.length;if(!page)results=results.slice(0,7);list.replaceChildren();active=-1;input.removeAttribute('aria-activedescendant');for(const [i,r] of results.entries()){const li=el('li');li.setAttribute('role','presentation');const a=resultLink(r);a.id=input.id+'-result-'+i;a.setAttribute('role','option');a.setAttribute('aria-selected','false');a.tabIndex=-1;li.append(a);list.append(li)}const empty=$('.search-empty',host)||el('p','search-empty');if(!empty.parentElement)host.append(empty);empty.replaceChildren();empty.hidden=count>0;if(!count){empty.append(document.createTextNode('No results. '));const a=el('a','','Request Resource →');a.href='/request-resource/';empty.append(a)}status.textContent=`${count} ${count===1?'resource':'resources'} found.`;if(page){$('#results-heading').textContent=query?'Results for “'+query+'”':'All veterinary resources';$$('.preset-result').forEach(e=>e.hidden=true)}host.hidden=false;input.setAttribute('aria-expanded',String(count>0))}catch{status.textContent='Search is unavailable. Browse the page links or request a resource.';if(!page)host.hidden=false}finally{if(loading)loading.hidden=true}}
+ input.addEventListener('input',update);input.addEventListener('focus',()=>{if(!page)update()});input.addEventListener('keydown',e=>{const options=$$('[role=option]',list);if(e.key==='Escape'&&host!==palette?.querySelector('.command-content')){close();return}if(['ArrowDown','ArrowUp'].includes(e.key)&&options.length){e.preventDefault();active=active<0?(e.key==='ArrowDown'?0:options.length-1):(active+(e.key==='ArrowDown'?1:-1)+options.length)%options.length;options.forEach((a,i)=>{a.classList.toggle('active',i===active);a.setAttribute('aria-selected',String(i===active))});input.setAttribute('aria-activedescendant',options[active].id);options[active].scrollIntoView({block:'nearest',behavior:'instant'})}if(e.key==='Enter'&&options.length){e.preventDefault();options[active<0?0:active].click()}});controllers.push({input,host,close});return{update,close}}
+const input=$('#resource-search'),pageResults=$('#page-results');let primary;
+if(input){if(pageResults){const list=el('ul','page-results-list');list.id='page-result-list';pageResults.append(list);primary=bindSearch(input,pageResults,list,$('#search-status'),{page:true});input.value=new URLSearchParams(location.search).get('q')||'';primary.update();$('.search-form')?.addEventListener('submit',e=>{e.preventDefault();history.replaceState(null,'','/search/?q='+encodeURIComponent(input.value));primary.update()})}else primary=bindSearch(input,$('#search-suggestions'),$('#suggestion-list'),$('#search-status'));
+ $$('.search-examples a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();input.value=new URL(a.href).hash.replace('#preset-','').replaceAll('-',' ');input.focus();primary?.update()}))}
+const command=bindSearch($('#command-search'),$('.command-content',palette),$('#command-results'),$('#command-status'));
+function openSearch(trigger){openDialog(palette,trigger);command?.update()}
+$$('.command-trigger').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();openSearch(a)}));
+document.addEventListener('keydown',e=>{const editing=/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName||'')||document.activeElement?.isContentEditable;if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();openSearch(document.activeElement)}else if(e.key==='/'&&!editing&&!e.ctrlKey&&!e.metaKey){e.preventDefault();if(input)input.focus();else openSearch(document.activeElement)}});
+document.addEventListener('pointerdown',e=>controllers.forEach(c=>{if(c.input!==document.activeElement&&!c.host.contains(e.target)&&!c.host.closest('dialog'))c.close()}));
+document.addEventListener('click',async e=>{const a=e.target.closest('a');const dialog=a?.closest('dialog');if(dialog===palette){const u=new URL(a.href);if(u.origin===location.origin&&u.pathname===location.pathname&&u.hash){e.preventDefault();await closeDialog(palette,false);document.getElementById(u.hash.slice(1))?.scrollIntoView({behavior:reduce.matches?'instant':'smooth'})}else closeDialog(palette,false)}const article=a?.closest('[data-resource-id]');if(article&&a.href.startsWith('https:')&&!a.href.startsWith(location.origin))remember(article.dataset.resourceId);const bookmark=e.target.closest('[data-bookmark]');if(bookmark){const saved=new Set(read('tvg-bookmarks',[]));saved.has(bookmark.dataset.bookmark)?saved.delete(bookmark.dataset.bookmark):saved.add(bookmark.dataset.bookmark);write('tvg-bookmarks',[...saved]);refreshLocal()}const studied=e.target.closest('[data-studied]');if(studied){const saved=new Set(read('tvg-studied',[]));saved.has(studied.dataset.studied)?saved.delete(studied.dataset.studied):saved.add(studied.dataset.studied);write('tvg-studied',[...saved]);refreshLocal()}});
+function remember(id){const recent=read('tvg-recent',[]).filter(r=>r.id!==id);recent.unshift({id,openedAt:new Date().toISOString()});write('tvg-recent',recent.slice(0,12));refreshLocal()}
+async function refreshLocal(){const saved=new Set(read('tvg-bookmarks',[])),studied=new Set(read('tvg-studied',[]));$$('[data-bookmark]').forEach(b=>{const yes=saved.has(b.dataset.bookmark);b.setAttribute('aria-pressed',String(yes));b.textContent=yes?'Saved resource':'Save resource'});$$('[data-studied]').forEach(b=>{const yes=studied.has(b.dataset.studied);b.setAttribute('aria-pressed',String(yes));b.textContent=yes?'Studied · undo':'Mark as studied'});$$('[data-progress-year]').forEach(g=>{const ids=g.dataset.subjects.split(' '),count=ids.filter(id=>studied.has(id)).length;$('progress',g).value=count;$('label span',g).textContent=count+' of '+ids.length});const history=read('tvg-recent',[]);if(!saved.size&&!history.length){for(const id of ['saved-resources','recent-resources']){const list=$('#'+id);if(list){list.replaceChildren(el('li','','Nothing here yet.'))}}return}try{const index=await loadIndex(),byId=new Map(index.map(r=>[r.id,r]));for(const [selector,ids] of [['#saved-resources',[...saved]],['#recent-resources',history.map(r=>r.id)]]){const list=$(selector);if(!list)continue;list.replaceChildren();for(const id of ids){const r=byId.get(id);if(r){const li=el('li');li.append(resultLink(r));list.append(li)}}if(!list.children.length)list.append(el('li','','Nothing here yet.'))}}catch{const status=$('#storage-status');if(status)status.textContent='Saved choices are kept. The resource index is temporarily unavailable.'}}
+$('#clear-recent')?.addEventListener('click',()=>{write('tvg-recent',[]);refreshLocal()});refreshLocal();
+if('IntersectionObserver' in window&&!reduce.matches){const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('entered');observer.unobserve(e.target)}}),{threshold:.06});$$('.section').forEach(e=>observer.observe(e))}
 })();
