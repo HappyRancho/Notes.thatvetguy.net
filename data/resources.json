@@ -59,115 +59,26 @@
     "Animal Science Refresher",
     "TANUVAS Objective Question Bank"
   ],
-  "resources": [
-    {
-      "id": "nsaids",
-      "title": "NSAIDs: veterinary overview",
-      "subject": "Pharmacology",
-      "type": "Note",
-      "source": "Merck Veterinary Manual",
-      "url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
-      "keywords": "anti-inflammatory pharmacology drugs"
-    },
-    {
-      "id": "clinical-pathology",
-      "title": "Veterinary Clinical Pathology",
-      "subject": "Pathology",
-      "type": "Book",
-      "source": "Cornell eClinPath",
-      "url": "https://eclinpath.com/",
-      "keywords": "online textbook hematology haematology biochemistry"
-    },
-    {
-      "id": "meloxicam",
-      "title": "Meloxicam",
-      "subject": "Drug reference",
-      "type": "Drug",
-      "source": "Merck Veterinary Manual",
-      "url": "https://www.merckvetmanual.com/therapeutics/pain-assessment-and-management/analgesics-used-in-animals",
-      "keywords": "NSAID analgesic analgesia pharmacology"
-    },
-    {
-      "id": "merck",
-      "title": "Merck Veterinary Manual",
-      "subject": "Clinical reference",
-      "type": "Handbook",
-      "source": "Merck Veterinary Manual",
-      "url": "https://www.merckvetmanual.com/",
-      "keywords": "handbooks medicine surgery"
-    },
-    {
-      "id": "icar-pyq",
-      "title": "ICAR AIEEA (PG) previous-year papers",
-      "subject": "ICAR preparation",
-      "type": "PYQ",
-      "source": "Vet Study",
-      "url": "https://vetstudy.journeywithasr.com/p/previous-years-icar-aieea-question.html",
-      "keywords": "question bank exam icar pyqs papers"
-    },
-    {
-      "id": "objective",
-      "title": "Subject-wise Objective Questions",
-      "subject": "Exam preparation",
-      "type": "Objective",
-      "collection": "objective-questions",
-      "keywords": "questions mcq objective revision"
-    },
-    {
-      "id": "surgery-books",
-      "title": "Veterinary surgery books",
-      "subject": "Surgery and Radiology",
-      "type": "Book",
-      "collection": "surgery-books",
-      "keywords": "surgery books radiology"
-    },
-    {
-      "id": "pharmacology-notes",
-      "title": "Veterinary Pharmacology",
-      "subject": "Pharmacology and Toxicology",
-      "type": "Note",
-      "source": "Vetscraft",
-      "url": "https://www.vetscraft.com/bvscah/veterinary-pharmacology/",
-      "keywords": "notes drugs pharmacology toxicology"
-    },
-    {
-      "id": "haemonchus",
-      "title": "Haemonchus (Barber’s Pole Worm)",
-      "subject": "Veterinary Parasitology",
-      "type": "Note",
-      "source": "Vetscraft",
-      "url": "https://www.vetscraft.com/haemonchus-barbers-pole-worm/",
-      "keywords": "Haemonchus contortus haemonchosis parasites nematodes"
-    }
-  ],
   "collections": {
     "icar-pyq": {
       "title": "ICAR PYQ Question Bank",
       "description": "Browse previous-year papers for veterinary and animal sciences at their source.",
-      "links": [
-        {
-          "title": "ICAR AIEEA (PG) papers",
-          "text": "A year-wise collection maintained by Vet Study.",
-          "url": "https://vetstudy.journeywithasr.com/p/previous-years-icar-aieea-question.html"
-        }
+      "resourceIds": [
+        "icar-aieea-pg-papers"
       ]
     },
     "objective-questions": {
       "title": "Subject-wise Objective Questions",
       "description": "Start with the question-bank collections below, then choose the subject you are revising.",
-      "links": [
-        {
-          "title": "Vet Study — veterinary question banks",
-          "text": "Question-bank collection. Choose the veterinary subject or exam material on the source page.",
-          "url": "https://vetstudy.journeywithasr.com/p/veterinary-question-banks-pdf.html"
-        }
+      "resourceIds": [
+        "vet-study-veterinary-question-banks"
       ]
     },
     "objective-books": {
       "title": "Objective Books",
       "description": "Important veterinary objective books for exam preparation. Book-specific resources will be added as they are checked.",
       "bookList": true,
-      "links": []
+      "resourceIds": []
     },
     "ai-guide": {
       "title": "Use of AI for Vet Study",
@@ -186,104 +97,73 @@
           "AI-generated study text is not a substitute for professional clinical guidance."
         ]
       ],
-      "links": []
+      "resourceIds": []
     },
     "free-apps": {
       "title": "Useful Free Apps",
       "description": "A small toolkit for writing, reading and organising references.",
-      "links": [
-        {
-          "title": "Zotero",
-          "text": "Organise sources and build bibliographies.",
-          "url": "https://www.zotero.org/"
-        },
-        {
-          "title": "LibreOffice",
-          "text": "Create documents, spreadsheets and presentations.",
-          "url": "https://www.libreoffice.org/"
-        }
+      "resourceIds": [
+        "zotero",
+        "libreoffice"
       ]
     },
     "useful-tools": {
       "title": "Useful Study Tools",
       "description": "Useful starting points for working with references and PDF study material.",
-      "links": [
-        {
-          "title": "PDF.js",
-          "text": "Read PDFs in a browser with Mozilla’s open-source viewer.",
-          "url": "https://mozilla.github.io/pdf.js/"
-        }
+      "resourceIds": [
+        "pdf-js"
       ]
     },
     "handbooks": {
       "title": "Handbooks",
       "description": "Open a professional reference at its source. These are external reading links, not files hosted here.",
-      "links": [
-        {
-          "title": "Merck Veterinary Manual",
-          "text": "Veterinary topics, conditions and professional reference material.",
-          "url": "https://www.merckvetmanual.com/"
-        }
+      "resourceIds": [
+        "merck-veterinary-manual"
       ]
     },
     "drug-index": {
       "title": "Drug & Analgesic References",
       "description": "Read the full pharmacology reference for the species and context you are studying.",
-      "links": [
-        {
-          "title": "Veterinary NSAID reference",
-          "text": "Nonsteroidal anti-inflammatory drugs in the Merck Veterinary Manual.",
-          "url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals"
-        },
-        {
-          "title": "Analgesics used in animals",
-          "text": "Professional reference information, including meloxicam.",
-          "url": "https://www.merckvetmanual.com/therapeutics/pain-assessment-and-management/analgesics-used-in-animals"
-        }
+      "resourceIds": [
+        "veterinary-nsaid-reference",
+        "analgesics-used-in-animals"
       ]
     },
     "clinical-other": {
       "title": "Other Clinical Resources",
       "description": "Explore clinical pathology and professional veterinary reference libraries.",
-      "links": [
-        {
-          "title": "Cornell eClinPath",
-          "text": "Test basics, haematology, chemistry and clinical pathology.",
-          "url": "https://eclinpath.com/"
-        },
-        {
-          "title": "Vetlexicon",
-          "text": "Professional veterinary reference library; access varies by resource.",
-          "url": "https://www.vetlexicon.com/"
-        }
+      "resourceIds": [
+        "cornell-eclinpath",
+        "vetlexicon"
       ]
     },
     "surgery-books": {
       "title": "Veterinary surgery books",
       "description": "Browse subject-wise veterinary book listings at their source.",
-      "links": [
-        {
-          "title": "Vets Duo — Veterinary Surgery and Radiology books",
-          "text": "Fourth-year book listings include a dedicated Surgery and Radiology section.",
-          "url": "https://www.vetsduo.com/pages/books4.html"
-        }
+      "resourceIds": [
+        "vets-duo-veterinary-surgery-and-radiology-books"
       ]
     },
     "about": {
       "title": "About Notes.ThatVetGuy",
       "description": "A free veterinary academic and study-resource platform primarily for BVSc & AH students.",
-      "links": [
-        {
-          "title": "ThatVetGuy",
-          "text": "Visit the main website.",
-          "url": "https://thatvetguy.net"
-        },
-        {
-          "title": "ThatVetGuy Blog",
-          "text": "Read more from the ThatVetGuy ecosystem.",
-          "url": "https://blog.thatvetguy.net"
-        }
+      "resourceIds": [
+        "thatvetguy",
+        "thatvetguy-blog"
       ]
     }
+  },
+  "yearBooks": {
+    "1": "year-1-books",
+    "2": "year-2-books",
+    "3": "year-3-books",
+    "4": "vets-duo-veterinary-surgery-and-radiology-books"
+  },
+  "lastChecked": "2026-10-14",
+  "externalProfiles": {
+    "main": "https://thatvetguy.net",
+    "blog": "https://blog.thatvetguy.net",
+    "shortNotes": "https://t.me/vetshortnotesbytvg",
+    "jobs": "https://t.me/jobupdatesbytvg"
   }
 }

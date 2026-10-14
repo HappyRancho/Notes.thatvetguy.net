@@ -38,9 +38,9 @@
   "requiredSections": [
     "notes",
     "objective",
-    "backbench",
     "tools",
     "clinical",
+    "backbench",
     "telegram-updates",
     "request"
   ],

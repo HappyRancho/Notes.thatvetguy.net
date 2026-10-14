@@ -1,338 +1,154 @@
 {
   "Veterinary Anatomy": {
     "year": 1,
-    "notes": [
-      {
-        "title": "Subject notes · Vetscraft",
-        "text": "Anatomy notes arranged by anatomical systems and topics.",
-        "url": "https://www.vetscraft.com/bvscah/veterinary-anatomy/"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vetscraft"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 1st Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books1.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-1-books"
   },
   "Veterinary Physiology": {
     "year": 1,
-    "notes": [
-      {
-        "title": "Subject notes · Vetscraft",
-        "text": "Physiology notes covering the major body systems.",
-        "url": "https://www.vetscraft.com/bvscah/veterinary-physiology/"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vetscraft-15"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 1st Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books1.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-1-books"
   },
   "Livestock Production Management": {
     "year": 1,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Subject notebook; choose the university on the source page.",
-        "url": "https://www.vetsduo.com/pages/lpmnotes.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 1st Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books1.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-1-books"
   },
   "Veterinary Biochemistry": {
     "year": 2,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Subject notebook; choose the university on the source page.",
-        "url": "https://www.vetsduo.com/pages/vbcnotes.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-17"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 2nd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books2.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-2-books"
   },
   "Veterinary Microbiology": {
     "year": 2,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Second-year notes include bacteriology, mycology, biotechnology, immunology and virology.",
-        "url": "https://www.vetsduo.com/pages/notes2.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-19"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 2nd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books2.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-2-books"
   },
   "Veterinary Pathology": {
     "year": 2,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Second-year notes include general and systemic pathology and disease pathology.",
-        "url": "https://www.vetsduo.com/pages/notes2.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-19"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 2nd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books2.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-2-books"
   },
   "Animal Genetics and Breeding": {
     "year": 2,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Subject notebook; choose the university on the source page.",
-        "url": "https://www.vetsduo.com/pages/agbnotes.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-20"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 2nd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books2.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-2-books"
   },
   "Animal Nutrition": {
     "year": 2,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Subject notebook; choose the university on the source page.",
-        "url": "https://www.vetsduo.com/pages/annnotes.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-21"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 2nd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books2.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-2-books"
   },
   "Veterinary Pharmacology and Toxicology": {
     "year": 3,
-    "notes": [
-      {
-        "title": "Subject notes · Vetscraft",
-        "text": "Pharmacology study notes, with general and systemic sections.",
-        "url": "https://www.vetscraft.com/bvscah/veterinary-pharmacology/"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vetscraft-22"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 3rd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books3.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-3-books"
   },
   "Veterinary Parasitology": {
     "year": 3,
-    "notes": [
-      {
-        "title": "Subject notes · Vetscraft",
-        "text": "Parasitology notes organised into parasite groups.",
-        "url": "https://www.vetscraft.com/bvscah/veterinary-parasitology/"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vetscraft-24"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 3rd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books3.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-3-books"
   },
   "Veterinary Public Health and Epidemiology": {
     "year": 3,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Third-year notes include public health, epidemiology, zoonoses and environmental hygiene.",
-        "url": "https://www.vetsduo.com/pages/notes3.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-25"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 3rd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books3.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-3-books"
   },
   "Livestock Products Technology": {
     "year": 3,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Third-year notes include milk, wool, abattoir practices and meat science.",
-        "url": "https://www.vetsduo.com/pages/notes3.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-25"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 3rd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books3.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-3-books"
   },
   "Veterinary and Animal Husbandry Extension Education": {
     "year": 3,
-    "notes": [
-      {
-        "title": "Subject notes · Vets Duo",
-        "text": "Third-year notes include extension, communication and livestock economics.",
-        "url": "https://www.vetsduo.com/pages/notes3.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vets-duo-25"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 3rd Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books3.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-3-books"
   },
   "Veterinary Clinical Practices I": {
     "year": 3,
-    "notes": [
-      {
-        "title": "Practical manuals · Vet Study",
-        "text": "Browse the Clinical Practices section and check the year attached to each manual.",
-        "url": "https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "practical-manuals-vet-study"
     ],
-    "books": [
-      {
-        "title": "Related clinical book listings · Vets Duo",
-        "text": "Related reading in the Medicine and Surgery book sections.",
-        "url": "https://www.vetsduo.com/pages/books4.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "year-3-books"
   },
   "Livestock Farm Practices": {
     "year": 3,
-    "notes": [
-      {
-        "title": "Practical manuals · Vet Study",
-        "text": "Practical-manual collection includes Livestock Farm Practices.",
-        "url": "https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "practical-manuals-vet-study"
     ],
-    "books": [],
-    "sourceChecked": "2026-10-14"
+    "booksId": null
   },
   "Veterinary Medicine": {
     "year": 4,
-    "notes": [
-      {
-        "title": "Subject notes · Vetscraft",
-        "text": "Medicine notes arranged into clinical subjects and disease groups.",
-        "url": "https://www.vetscraft.com/bvscah/veterinary-medicine/"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vetscraft-27"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 4th Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books4.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
   },
   "Veterinary Surgery and Radiology": {
     "year": 4,
-    "notes": [
-      {
-        "title": "Subject notes · Vetscraft",
-        "text": "Surgery study material with anaesthesia, radiology and operative topics.",
-        "url": "https://www.vetscraft.com/bvscah/veterinary-surgery-and-radiology/"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vetscraft-28"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 4th Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books4.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
   },
   "Veterinary Gynaecology and Obstetrics": {
     "year": 4,
-    "notes": [
-      {
-        "title": "Subject notes · Vetscraft",
-        "text": "Reproduction study material, including gynaecology, andrology and obstetrics.",
-        "url": "https://www.vetscraft.com/bvscah/veterinary-gynaecology-and-obstetrics/"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "subject-notes-vetscraft-29"
     ],
-    "books": [
-      {
-        "title": "Subject book listings · Vets Duo",
-        "text": "Choose the relevant subject in the 4th Year book listings.",
-        "url": "https://www.vetsduo.com/pages/books4.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
   },
   "Veterinary Clinical Practices II": {
     "year": 4,
-    "notes": [
-      {
-        "title": "Practical manuals · Vet Study",
-        "text": "Browse the Clinical Practices section and check the year attached to each manual.",
-        "url": "https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html"
-      }
+    "sourceChecked": "2026-10-14",
+    "notesIds": [
+      "practical-manuals-vet-study"
     ],
-    "books": [
-      {
-        "title": "Related clinical book listings · Vets Duo",
-        "text": "Related reading in the Medicine and Surgery book sections.",
-        "url": "https://www.vetsduo.com/pages/books4.html"
-      }
-    ],
-    "sourceChecked": "2026-10-14"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
   }
 }

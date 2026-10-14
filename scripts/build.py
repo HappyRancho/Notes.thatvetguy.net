@@ -4,13 +4,14 @@ from pathlib import Path
 import json
 import re
 from html import escape
+from resources import RECORDS, CATALOGUE, unique
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / 'data/resources.json').read_text())
 SUBJECTS = json.loads((ROOT / 'data/subjects.json').read_text())
 ASIDES = json.loads((ROOT / 'data/section-asides.json').read_text())
 BASE = 'https://notes.thatvetguy.net'
-VERSION = '20261014-p0'
+VERSION = '20261014-p1'
 DESCRIPTION = 'Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.'
 VCI = 'https://www.vci.dahd.gov.in/sites/default/files/IVPR/MSVE-Gazette-2016.pdf#page=103'
 ROUTES = {
@@ -111,7 +112,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Playfair+Display:ital,wght@0,600;1,400;1,600&amp;display=swap">
 <script type="application/ld+json">{schema(path,title,description,items,home)}</script>
 <script src="/assets/site.js?v={VERSION}" defer></script>
-</head><body>{header(home)}<main id="main">{body}</main>{footer()}</body></html>'''
+</head><body>{header(home)}<main id="main">{body}<div class="container page-checked">Last checked: <time datetime="{DATA['lastChecked']}">{DATA['lastChecked']}</time></div></main>{footer()}</body></html>'''
     for nav_path in ['/bvsc/','/objective/','/study-tools/','/clinical/']:
         if path == nav_path:
             html=html.replace(f'href="{nav_path}" class="nav-link"',f'href="{nav_path}" class="nav-link" aria-current="page"')
@@ -142,22 +143,30 @@ def homepage():
     body=f'''<section class="intro container"><div class="intro-heading"><div><h1>Free academic resources, thoughtfully made for future vets.</h1><p class="intro-description">Everything useful for veterinary study, organised in one place.</p></div></div>{search_form()}</section>
 <section class="section container" id="notes">{section_heading('BVSc Notes <em>& Books</em>','Subject-wise study material organised by professional year.',link('/bvsc/','All subjects '+icon('arrow'),'text-link section-link'))}<div class="academic-library"><div class="year-tabs" aria-label="Choose a professional year">{tabs}<span class="tab-indicator" aria-hidden="true"></span></div><div class="year-panels">{panels}</div></div></section>
 <section class="section container objective-section" id="objective">{section_heading('Objective Resources','PYQs, subject-wise objective material and important veterinary objective books.')}<div class="objective-list">{objective}</div></section>
-<section class="section container" id="backbench"><div class="revision-note"><div class="revision-heading"><p class="kicker">For the night before</p><h2>Backbenchers <em>Corner</em></h2><p class="revision-motto">Less to read. More to remember.</p>{section_aside("backbench")}</div><div class="revision-body"><span class="note-tag">Keep this one handy</span><p>A collection of <strong>concise veterinary short notes</strong> for objective questions and short answers.</p>{link('https://t.me/vetshortnotesbytvg','Open Short Notes '+icon('arrow'),'button',True)}<span class="telegram-caption">{icon('telegram')} The short-notes collection on Telegram</span></div><span class="revision-paw" aria-hidden="true">{icon('paw')}</span></div></section>
+
 <section class="section container" id="tools">{section_heading('Tips & Tools <em>for Vet Study</em>','Thoughtful tools and practical guides for the everyday work of learning.')}<div class="study-layout">{link(ROUTES['ai-guide'],'<span class="kicker">A practical guide</span><h3>Use of AI<br>for Vet Study</h3><p>Practical ways to use AI for notes, research and presentations.</p>'+section_aside('tools')+'<span class="resource-action">Read the guide '+icon('arrow')+'</span><span class="ai-mark" aria-hidden="true">'+icon('spark')+'</span>','ai-guide')}<div class="tool-rows">{tools}</div></div></section>
 <section class="section container" id="clinical"><div class="clinical-layout"><div class="clinical-heading"><span class="clinical-emblem" aria-hidden="true">{icon('cross')}</span><h2>Clinical<br><em>Resources</em></h2><p>A place for trusted handbooks and practical references. Keep the essentials close.</p></div><div class="clinical-list">{clinical}</div></div></section>
+<section class="section container" id="backbench"><div class="revision-note"><div class="revision-heading"><p class="kicker">For the night before</p><h2>Backbenchers <em>Corner</em></h2><p class="revision-motto">Less to read. More to remember.</p>{section_aside("backbench")}</div><div class="revision-body"><span class="note-tag">Keep this one handy</span><p>A collection of <strong>concise veterinary short notes</strong> for objective questions and short answers.</p>{link('https://t.me/vetshortnotesbytvg','Open Short Notes '+icon('arrow'),'button',True)}<span class="telegram-caption">{icon('telegram')} The short-notes collection on Telegram</span></div><span class="revision-paw" aria-hidden="true">{icon('paw')}</span></div></section>
 <section class="section container" id="telegram-updates"><div class="jobs-strip"><span class="telegram-symbol">{icon('telegram')}</span><div><p class="kicker">Beyond the classroom</p><h2>Veterinary opportunities,<br>without the hunt.</h2><p>Government, private, internship and veterinary job updates — gathered in one place.</p>{link('https://t.me/jobupdatesbytvg',icon('telegram')+'Follow Job Updates on Telegram '+icon('external'),'jobs-link',True)}</div></div></section>
 <section class="container request-section" id="request"><div><h2>Can’t find what you need?</h2><p>Request a note, book, PYQ or useful resource. Help shape the library.</p></div>{link('/request-resource/','Request Resource '+icon('arrow'),'text-link')}</section>'''
-    items=[('BVSc Notes & Books','/bvsc/'),('Objective Resources','/objective/'),('Backbenchers Corner','https://t.me/vetshortnotesbytvg'),('Tips & Tools for Vet Study','/study-tools/'),('Clinical Resources','/clinical/'),('Veterinary Job Updates','https://t.me/jobupdatesbytvg')]
+    items=[('BVSc Notes & Books','/bvsc/'),('Objective Resources','/objective/'),('Tips & Tools for Vet Study','/study-tools/'),('Clinical Resources','/clinical/'),('Backbenchers Corner','https://t.me/vetshortnotesbytvg'),('Veterinary Job Updates','https://t.me/jobupdatesbytvg')]
     write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',DESCRIPTION,body,items,True)
 
 def article_intro(title, description):
     return '<div class="container reading-page"><nav class="breadcrumbs" aria-label="Breadcrumb">'+link('/','Home')+'<span aria-hidden="true">/</span><span>'+escape(title)+'</span></nav><header class="reading-header"><h1>'+escape(title)+'</h1><p>'+escape(description)+'</p></header>'
 
+def resource_card(rid, heading='h3'):
+    item=CATALOGUE[rid]
+    unavailable=not item['url']
+    badge='Coming soon' if unavailable else item['type']+' · '+item['source']
+    checked=item.get('lastVerified')
+    meta=f'<p class="resource-date">Source last checked: <time datetime="{checked}">{checked}</time></p>' if checked else ''
+    cta=link(item['url'],'Read '+escape(item['title']), 'button secondary') if not unavailable else link('/request-resource/?resource='+item['id'],'Request this book','button secondary')
+    report=link('/request-resource/?resource='+item['id']+'#report','Report broken link','report-link') if not unavailable else ''
+    return f'<article class="resource-card" data-resource-id="{item["id"]}"><span class="resource-badge">{escape(badge)}</span><{heading}>{escape(item["title"])}</{heading}><p>{escape(item["description"])}</p>{meta}<div class="card-actions">{cta}{report}</div></article>'
+
 def source_link(item):
-    from urllib.parse import urlsplit
-    host=urlsplit(item['url']).netloc.removeprefix('www.')
-    source={'eclinpath.com':'Cornell eClinPath','merckvetmanual.com':'Merck Veterinary Manual','vetsduo.com':'Vets Duo','vetscraft.com':'Vetscraft','vetstudy.journeywithasr.com':'Vet Study'}.get(host,host)
-    return link(item['url'],'<span class="resource-badge">'+escape(source)+'</span>'+ f'<span><strong>{escape(item["title"])}</strong><small>{escape(item.get("text",""))}</small></span>'+icon('external'),'source-link',True)
+    return resource_card(item if isinstance(item,str) else item['id'])
 
 def collection_content(keys):
     result=''
@@ -167,8 +176,8 @@ def collection_content(keys):
         if item.get('tips'):
             result+='<ol class="guide-steps">'+''.join(f'<li><h3>{escape(t)}</h3><p>{escape(d)}</p></li>' for t,d in item['tips'])+'</ol>'
         if item.get('bookList'):
-            result+='<div class="coming-grid">'+''.join('<article class="coming-card"><span class="resource-badge">Coming soon</span><h3>'+escape(t)+'</h3>'+link('/request-resource/','Request this book','button secondary')+'</article>' for t in DATA['objectiveBooks'])+'</div>'
-        result+=''.join(source_link(l) for l in item['links'])+'</section>'
+            result+='<div class="resource-grid">'+''.join(resource_card(r['id']) for r in RECORDS if r.get('status')=='coming-soon')+'</div>'
+        result+='<div class="resource-grid">'+''.join(resource_card(rid) for rid in unique(item['resourceIds']))+'</div></section>'
     return result
 
 def inside_pages():
@@ -178,14 +187,14 @@ def inside_pages():
     body+='<p class="source-note">Year grouping may vary by university. Check your syllabus.</p>'
     items=[]
     for y,names in DATA['years'].items():
-        body+=f'<section class="content-section" id="year-{y}"><h2>{DATA["labels"][y]}</h2><p>{DATA["descriptions"][y]}</p>'
+        body+=f'<section class="content-section year-group" data-year="{y}" id="year-{y}"><h2>{DATA["labels"][y]}</h2><p>{DATA["descriptions"][y]}</p><div class="subject-card-grid">'
         for name in names:
-            anchor=slug(name);items.append((name,'/bvsc/#'+anchor))
-            material=SUBJECTS[name]
-            note_links=''.join(source_link(item) for item in material['notes'])
-            book_links=''.join(source_link(item) for item in material['books']) or '<p class="subject-placeholder">A book-specific resource is still being checked. You can request a title.</p>'+link('/request-resource/','Request this book '+icon('arrow'),'button secondary')
-            body+=f'<article class="subject-source" id="{anchor}"><h3>{escape(name)}</h3><p class="subject-description">{DATA["labels"][y]} · choose what you need</p><div class="subject-materials"><div><h4>Notes</h4>{note_links}</div><div><h4>Books</h4>{book_links}</div></div></article>'
-        body+='</section>'
+            anchor=slug(name);items.append((name,'/bvsc/#'+anchor));material=SUBJECTS[name]
+            source=CATALOGUE[material['notesIds'][0]]['source']
+            notes=''.join(link(CATALOGUE[rid]['url'],'Read '+escape(name)+' notes','button secondary') for rid in unique(material['notesIds']))
+            books=link('#year-'+y+'-books','Books for '+DATA['labels'][y],'button secondary') if material['booksId'] else '<span class="resource-badge">Coming soon</span>'+link('/request-resource/?subject='+anchor,'Request this book','button secondary')
+            body+=f'<article class="subject-source resource-card" data-subject="{anchor}" id="{anchor}"><span class="resource-badge">Notes · {escape(source)}</span><h3>{escape(name)}</h3><p>{DATA["labels"][y]} study notes and reading resources.</p><div class="material-toggle" data-material-toggle><div class="material-tablist"><a href="#{anchor}-notes" class="material-tab">Notes</a><a href="#{anchor}-books" class="material-tab">Books</a></div><div id="{anchor}-notes" class="material-panel">{notes}</div><div id="{anchor}-books" class="material-panel">{books}</div></div>'+link('/request-resource/?subject='+anchor+'#report','Report broken link','report-link')+'</article>'
+        body+='</div><div class="year-books" id="year-'+y+'-books">'+resource_card(DATA['yearBooks'][y],heading='h3')+'</div></section>'
     write_page('/bvsc/','BVSc Notes & Books',intro,body+'</div>',items)
     for path,title,description,keys in [
         ('/objective/','Objective Resources','ICAR PYQs, subject-wise objective questions and important veterinary objective books.',['icar-pyq','objective-questions','objective-books']),
@@ -205,8 +214,8 @@ def inside_pages():
     presets = [('pharmacology','Pharmacology','pharmacology-notes'),('haemonchus','Haemonchus','haemonchus'),('nsaids','NSAIDs','nsaids'),('surgery-books','Surgery books','surgery-books')]
     preset_html=''
     for anchor,label,rid in presets:
-        item=next(r for r in DATA['resources'] if r['id']==rid)
-        url=item.get('url') or ROUTES[item['collection']]
+        item=next((r for r in RECORDS if rid in [r['id']]+r.get('legacyIds',[])+r.get('aliases',[]) or (rid=='surgery-books' and r['url'] and 'books4' in r['url'])),RECORDS[0])
+        url=item['url']
         preset_html+='<section class="content-section preset-result" id="preset-'+anchor+'"><h2>'+label+'</h2>'+link(url,escape(item['title'])+' '+icon('external' if url.startswith('https:') else 'arrow'),'source-link',url.startswith('https:'))+'</section>'
     body=body.replace('</div>',preset_html+'</div>',1) if False else body[:-6]+preset_html+'</div>'
     write_page('/search/','Search Veterinary Resources','Search veterinary notes, books, objective resources, drugs and handbooks on Notes.ThatVetGuy.',body,noindex=True)
@@ -217,16 +226,11 @@ def discovery_files():
     (ROOT/'sitemap.xml').write_text(xml)
     text='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nA free veterinary academic and study-resource platform primarily for BVSc & AH students. Resources are organised by professional year, subject and purpose. Linked material retains its credited source; a source link is not a claim of authorship or medical review.\n\n## Library\n\n'+''.join(f'- [{title}]({BASE}{path}): {desc}\n' for path,title,desc in PAGES)+'\n## Community\n\n- [Backbenchers short notes](https://t.me/vetshortnotesbytvg): Concise veterinary notes for objective questions and short answers.\n- [Veterinary job updates](https://t.me/jobupdatesbytvg): Government, private, internship and veterinary job updates.\n\nContact: contact@thatvetguy.net\n'
     (ROOT/'llms.txt').write_text(text)
-    catalogue=[]
-    for resource in DATA['resources']:
-        item=dict(resource)
-        if item.get('collection'):item['url']=ROUTES[item.pop('collection')]
-        catalogue.append(item)
+    catalogue=[dict(item) for item in RECORDS if item['url']]
+    for item in catalogue:
+        item['keywords']=' '.join(item.get('aliases',[]))+' '+item.get('keywords','')
     for y,names in DATA['years'].items():
-        for name in names:
-            catalogue.append({'title':name,'subject':DATA['labels'][y]+' · Notes & Books','type':'Subject','url':'/bvsc/#'+slug(name),'keywords': 'Haemonchus haemonchosis mange' if 'Parasitology' in name else 'NSAIDs' if 'Pharmacology' in name else ''})
-    for key in ['objective-books','ai-guide','free-apps','useful-tools','clinical-other']:
-        item=DATA['collections'][key];catalogue.append({'title':item['title'],'subject':item['description'],'type':'Objective' if key=='objective-books' else 'Guide','url':ROUTES[key]})
+        for name in names:catalogue.append({'id':slug(name),'title':name,'subject':DATA['labels'][y],'year':int(y),'type':'Subject','source':'Notes.ThatVetGuy','description':'Notes and books for '+name,'url':'/bvsc/#'+slug(name),'keywords':''})
     (ROOT/'assets/catalogue.json').write_text(json.dumps(catalogue,ensure_ascii=False,separators=(',',':'))+'\n')
     (ROOT/'.nojekyll').touch()
 

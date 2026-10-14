@@ -228,3 +228,15 @@
     $$('.section').forEach(section => observer.observe(section));
   }
 })();
+
+/* Accessible subject material tabs; all panels remain visible without JavaScript. */
+(() => {
+  document.querySelectorAll('[data-material-toggle]').forEach(group => {
+    const tabs=[...group.querySelectorAll('.material-tab')];
+    const panels=[...group.querySelectorAll('.material-panel')];
+    if(tabs.length!==panels.length)return;
+    group.querySelector('.material-tablist').setAttribute('role','tablist');
+    function select(index){tabs.forEach((tab,i)=>{tab.setAttribute('aria-selected',String(i===index));tab.tabIndex=i===index?0:-1;panels[i].hidden=i!==index;});}
+    tabs.forEach((tab,i)=>{tab.id=panels[i].id+'-tab';tab.setAttribute('role','tab');tab.setAttribute('aria-controls',panels[i].id);panels[i].setAttribute('role','tabpanel');panels[i].setAttribute('aria-labelledby',tab.id);tab.addEventListener('click',e=>{e.preventDefault();select(i);});tab.addEventListener('keydown',e=>{if(!['ArrowLeft','ArrowRight','Home','End'].includes(e.key))return;e.preventDefault();const n=e.key==='Home'?0:e.key==='End'?tabs.length-1:(i+1)%tabs.length;select(n);tabs[n].focus();});});select(0);
+  });
+})();

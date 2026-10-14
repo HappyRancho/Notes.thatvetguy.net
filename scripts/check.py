@@ -65,11 +65,10 @@ for url in contract['telegram'].values():assert url in homepage.urls,'Telegram c
 subjects=json.loads((ROOT/'data/subjects.json').read_text())
 assert set(subjects)=={subject for names in data['years'].values() for subject in names}
 for subject,material in subjects.items():
-    assert material['notes'],('Missing notes source',subject)
+    assert material['notesIds'],('Missing notes source',subject)
     assert 'sourceChecked' in material
-    for bucket in ['notes','books']:
-        for item in material[bucket]:
-            assert item['url'].startswith('https://'),('Unusable source URL',subject)
+    for rid in material['notesIds']:
+        assert rid in {r['id'] for r in json.loads((ROOT/'data/catalogue.json').read_text())}
 assert 'download-best-veterinary-e-learning-app_83.html' not in (ROOT/'objective/index.html').read_text(),'Objective questions still lead to the general app/materials page'
 for names in data['years'].values():
     for name in names:assert name in home,'Subjects missing from static HTML'
