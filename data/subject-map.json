@@ -118,7 +118,50 @@
   "pathOverrides": {
     "Ward/": "Veterinary Clinical Practices I"
   },
-  "fileOverrides": {},
+  "fileOverrides": {
+    "1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE": {
+      "subject": "Animal Nutrition"
+    },
+    "1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL": {
+      "subject": "Animal Nutrition"
+    },
+    "1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ": {
+      "subject": "Animal Nutrition"
+    },
+    "1nudzh1M0A_ngthDwh4548KG2vRMzg1t6": {
+      "subject": "Animal Nutrition"
+    },
+    "1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5": {
+      "subject": "Animal Nutrition"
+    },
+    "1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_": {
+      "subject": "Animal Nutrition"
+    },
+    "1y7ABH11dQkP4PeQGYwud_VNkYJQkwrs4": {
+      "subject": "Veterinary Public Health and Epidemiology"
+    },
+    "17icU97N2wlcH1d2HJKGUkaVpRcy-npaM": {
+      "subject": "Veterinary and Animal Husbandry Extension Education"
+    },
+    "1sjtZ8u1phYDhBQWUcU2T_4NI-EvP37tB": {
+      "subject": "Veterinary Parasitology"
+    },
+    "1WmLdc9SyF_rHJBQdLwPUpvhbVnOkNxEW": {
+      "subject": "Veterinary and Animal Husbandry Extension Education"
+    },
+    "1NWJKHrPj5QyUjahMp3F12k3MrPXHl7Vp": {
+      "subject": "Veterinary Parasitology"
+    },
+    "1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB": {
+      "subject": "Veterinary Public Health and Epidemiology"
+    },
+    "16LR4P3Z0nCero6YxxIW1W3YT1HSYnY6b": {
+      "subject": "Veterinary Gynaecology and Obstetrics"
+    },
+    "1s2kI8CLNqslSBco18R3I6SXD17lLTQcg": {
+      "subject": "Veterinary Gynaecology and Obstetrics"
+    }
+  },
   "groups": {
     "Practical manuals": [
       "practical",
