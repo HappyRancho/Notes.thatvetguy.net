@@ -149,7 +149,7 @@ def homepage():
         ('objective-questions','Subject-wise Objective Questions','Practice the topics that matter most.','check'),
         ('objective-books','Objective Books','A focused shelf of trusted exam books.','book')]):
         count=len(library_pages.matching(sys.modules[__name__],key))
-        desc=str(count)+' files from the Drive library' if count else 'Coming soon · Request Resource'
+        desc=str(count)+' file'+('' if count==1 else 's')+' · Google Drive' if count else 'Coming soon · Request Resource'
         destination=ROUTES[key] if count else '/request-resource/?collection='+key
         objective+=link(destination,f'<span class="row-icon">{icon(ic)}</span><div class="objective-copy"><h3>{title}</h3><p>{desc}</p></div>'+icon('arrow'),'objective-item')
     tools=''
@@ -158,7 +158,7 @@ def homepage():
     clinical=''
     for key,title,desc,ic in [('handbooks','Handbooks','','book'),('drug-index','Drug & Analgesic References','','pill'),('clinical-other','Other Clinical Resources','','cross')]:
         count=len(library_pages.matching(sys.modules[__name__],key))
-        desc=str(count)+' files from the Drive library' if count else 'Coming soon · Request Resource'
+        desc=str(count)+' file'+('' if count==1 else 's')+' · Google Drive' if count else 'Coming soon · Request Resource'
         destination=ROUTES[key] if count else '/request-resource/?collection='+key
         clinical+=link(destination,icon(ic)+f'<div><h3>{title}</h3><p>{desc}</p></div>'+icon('arrow'),'clinical-row')
     body=f'''<section class="intro container"><div class="intro-heading"><div><h1>Free academic resources, thoughtfully made for future vets.</h1><p class="intro-description">Everything useful for veterinary study, organised in one place.</p></div></div>{search_form()}<div class="quick-tiles">{link('/bvsc/',icon('book')+'Notes')}{link('/objective/#icar-pyq',icon('paper')+'PYQs')}{link('/study-tools/',icon('tools')+'Tools')}{link('/clinical/',icon('cross')+'Clinical')}</div></section>

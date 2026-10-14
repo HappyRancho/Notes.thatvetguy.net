@@ -17,7 +17,7 @@ def file_card(b,r):
  download=b.link(r['download'],'Download <span class="sr-only">'+e(r['title'])+'</span>','button secondary') if r['download'] else ''
  return '<article class="resource-card file-card" id="file-'+r['id']+'" data-resource-id="'+r['id']+'"><div class="file-label"><span class="file-type">'+b.icon('paper')+e(r['format'])+'</span><span class="resource-badge">'+e(r['group'])+'</span></div><h3>'+e(r['title'])+'</h3><p class="file-meta">'+size_label(r['size'])+' · Updated '+date_html+'</p>'+credit+'<div class="card-actions">'+b.link(r['url'],'Open <span class="sr-only">'+e(r['title'])+' on Google Drive</span>','button')+download+'</div><div class="file-utilities"><button type="button" class="bookmark-button js-only" data-bookmark="'+r['id']+'" aria-pressed="false">Save resource</button>'+b.link('/request-resource/?file='+r['id']+'#report','Report an error / takedown','report-link')+'</div></article>'
 def teaser(b,r):
- return '<li>'+b.link(r['permalink'],'<span>'+e(r['title'])+'<small>'+e(r['subject'])+' · '+e(r['format'])+'</small></span>'+b.icon('arrow'),'listing-row')+'</li>'
+ return '<li>'+b.link(r['permalink'],'<span><strong>'+e(r['title'])+'</strong><small>'+e(r['subject'])+' · '+e(r['format'])+'</small></span>','listing-row file-teaser')+'</li>'
 def matching(b,category):
  records=b.RECORDS
  def has(r,pattern):

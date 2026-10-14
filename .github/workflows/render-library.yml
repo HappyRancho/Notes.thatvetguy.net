@@ -1,0 +1,50 @@
+name: Render library after QA fixes
+on: [push, workflow_dispatch]
+permissions:
+  contents: write
+jobs:
+  render:
+    if: contains(github.event.head_commit.message, '[render-library]') || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm run build && npm run check
+      - name: Commit validated static output
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html index.md 404.html 404/ bvsc/ objective/ clinical/ study-tools/ search/ about/ request-resource/ data/resources.json data/catalogue.json assets/catalogue.json search-index.json build-info.json robots.txt sitemap.xml llms.txt llms-full.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'B/F: regenerate compact mobile copy and optimized library listings'
+            git push origin HEAD:main
+          fi
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - name: Responsive and file-interaction checks
+        run: npm run qa -- task2-final
+        env:
+          QA_WIDTHS: 360,390,412,768,1024,1440
+      - name: Verify current production deployment
+        if: always()
+        run: python3 scripts/verify-deploy.py
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+      - name: Production Lighthouse and axe
+        if: always()
+        run: npm run qa -- task2-production-final
+        continue-on-error: true
+        env:
+          QA_BASE_URL: https://notes.thatvetguy.net
+          QA_WIDTHS: '390'
+          QA_SKIP_INTERACTIONS: '1'
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: task2-final-qa
+          path: docs/qa/task2*/

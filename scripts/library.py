@@ -10,7 +10,7 @@ def normal(s):return re.sub(r'[^a-z0-9]+',' ',unicodedata.normalize('NFKD',s).en
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 def natural(s):return [int(p) if p.isdigit() else p.lower() for p in re.split(r'(\d+)',s)]
 def clean_title(name):
- title=re.sub(r'\.(pdf|docx?|pptx?|xlsx?|jpe?g|png|gif|webp|bmp|txt|zip|rar|mp4|mkv|avi|mp3|epub)$','',name,flags=re.I)
+ title=re.sub(r'\.(pdf|docx?|pptx?|xlsx?|jpe?g|png|gif|webp|bmp|txt|zip|rar|mp4|mkv|avi|mp3|epub|rtf)$','',name,flags=re.I)
  return re.sub(r'\s+',' ',title.replace('_',' ')).strip() or name
 
 def subject_for(f,mapping):
@@ -39,7 +39,7 @@ def file_group(f,mapping):
 def format_for(f):
  ext=f['name'].rsplit('.',1)[-1].lower();mime=f['mime']
  if ext=='pdf' or mime=='application/pdf':return 'PDF'
- if ext in ['doc','docx'] or 'wordprocessing' in mime or mime.endswith('.document'):return 'DOC'
+ if ext in ['doc','docx','rtf'] or mime=='application/msword' or 'wordprocessing' in mime or mime.endswith('.document'):return 'DOC'
  if ext in ['ppt','pptx'] or 'presentation' in mime:return 'PPT'
  if ext in ['xls','xlsx','csv'] or 'spreadsheet' in mime:return 'XLS'
  if mime.startswith('image/'):return 'IMG'

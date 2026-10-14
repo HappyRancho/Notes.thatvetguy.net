@@ -2,7 +2,7 @@ name: Production verification
 on: [push, workflow_dispatch]
 jobs:
   production:
-    if: contains(github.event.head_commit.message, 'A:') || contains(github.event.head_commit.message, '[production-qa]') || github.event_name == 'workflow_dispatch'
+    if: startsWith(github.event.head_commit.message, 'A:') || contains(github.event.head_commit.message, '[production-qa]') || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
