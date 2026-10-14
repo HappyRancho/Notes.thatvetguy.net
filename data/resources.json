@@ -205,14 +205,9 @@
       ]
     },
     "useful-tools": {
-      "title": "Latest Useful Tools",
+      "title": "Useful Study Tools",
       "description": "Useful starting points for working with references and PDF study material.",
       "links": [
-        {
-          "title": "Zotero reference tools",
-          "text": "Collect and organise the sources behind your notes.",
-          "url": "https://www.zotero.org/"
-        },
         {
           "title": "PDF.js",
           "text": "Read PDFs in a browser with Mozilla’s open-source viewer.",
@@ -228,16 +223,11 @@
           "title": "Merck Veterinary Manual",
           "text": "Veterinary topics, conditions and professional reference material.",
           "url": "https://www.merckvetmanual.com/"
-        },
-        {
-          "title": "Cornell eClinPath",
-          "text": "An online textbook of veterinary clinical pathology.",
-          "url": "https://eclinpath.com/"
         }
       ]
     },
     "drug-index": {
-      "title": "Drug Index",
+      "title": "Drug & Analgesic References",
       "description": "Read the full pharmacology reference for the species and context you are studying.",
       "links": [
         {

@@ -78,7 +78,7 @@ assert 'Recently Added' not in home
 css=(ROOT/'assets/site.css').read_text()
 assert css.count('{')==css.count('}') and 'prefers-reduced-motion' in css
 asides=json.loads((ROOT/'data/section-asides.json').read_text())
-assert set(asides)=={'objective','backbench','tools'} and len(asides)==3
+assert set(asides)=={'backbench','tools'} and len(asides)==2
 for aside in asides.values():assert visible.count(aside)==1,('Section aside repeated or missing',aside)
 assert 'forced-colors:active' in css
 assert (ROOT/'data/content-contract.json').read_bytes(), 'Missing content contract'

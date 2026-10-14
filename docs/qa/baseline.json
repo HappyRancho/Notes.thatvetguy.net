@@ -1,0 +1,487 @@
+{
+  "baselineCommit": "b556eb5d6a8df153ce9880539ad6dfd2978eb1c6",
+  "measured": false,
+  "reason": "Local server and Chromium socket EPERM; Lighthouse and axe unavailable",
+  "runs": [
+    {
+      "page": "/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/bvsc/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/objective/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/study-tools/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/clinical/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/search/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/about/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 360,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 360,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 390,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 390,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 768,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 768,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 1024,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 1024,
+      "theme": "dark",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 1440,
+      "theme": "light",
+      "status": "blocked"
+    },
+    {
+      "page": "/request-resource/",
+      "width": 1440,
+      "theme": "dark",
+      "status": "blocked"
+    }
+  ]
+}

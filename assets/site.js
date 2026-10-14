@@ -202,7 +202,7 @@
       });
       document.addEventListener('pointerdown', e => { if (!form.contains(e.target)) closeSuggestions(); });
       document.addEventListener('focusin', e => { if (!form.contains(e.target)) closeSuggestions(); });
-      $$('.search-examples a').forEach(a => a.addEventListener('click', e => { e.preventDefault(); input.value = new URL(a.href).searchParams.get('q'); input.focus({ preventScroll: true }); updateSuggestions(); }));
+      $$('.search-examples a').forEach(a => a.addEventListener('click', e => { e.preventDefault(); input.value = new URL(a.href).hash.slice(8).replaceAll('-', ' '); input.focus({ preventScroll: true }); updateSuggestions(); }));
     } else {
       input.value = new URLSearchParams(location.search).get('q') || '';
       renderPageResults(); input.addEventListener('input', renderPageResults);
@@ -216,6 +216,10 @@
     input.scrollIntoView({ behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'center' });
     input.focus({ preventScroll: true });
   }));
+  document.addEventListener('keydown', event => {
+    const editing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName || '') || document.activeElement?.isContentEditable;
+    if (event.key === '/' && !editing && !event.ctrlKey && !event.metaKey && input) { event.preventDefault(); input.focus(); }
+  });
   const header = $('.site-header');
   const onScroll = () => header?.classList.toggle('scrolled', scrollY > 8);
   window.addEventListener('scroll', onScroll, { passive: true }); onScroll();

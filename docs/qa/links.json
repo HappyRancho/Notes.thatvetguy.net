@@ -1,0 +1,233 @@
+[
+  {
+    "url": "https://blog.thatvetguy.net",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://eclinpath.com/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://mozilla.github.io/pdf.js/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://t.me/jobupdatesbytvg",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://t.me/vetshortnotesbytvg",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://thatvetguy.net",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://vetstudy.journeywithasr.com/p/previous-years-icar-aieea-question.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://vetstudy.journeywithasr.com/p/veterinary-question-banks-pdf.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.libreoffice.org/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.merckvetmanual.com/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.merckvetmanual.com/therapeutics/pain-assessment-and-management/analgesics-used-in-animals",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetlexicon.com/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/bvscah/veterinary-anatomy/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/bvscah/veterinary-gynaecology-and-obstetrics/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/bvscah/veterinary-medicine/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/bvscah/veterinary-parasitology/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/bvscah/veterinary-pharmacology/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/bvscah/veterinary-physiology/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/bvscah/veterinary-surgery-and-radiology/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetscraft.com/haemonchus-barbers-pole-worm/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/agbnotes.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/annnotes.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/books1.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/books2.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/books3.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/books4.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/lpmnotes.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/notes2.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/notes3.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.vetsduo.com/pages/vbcnotes.html",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  },
+  {
+    "url": "https://www.zotero.org/",
+    "status": null,
+    "result": "unverified",
+    "reason": "<urlopen error [Errno 1] Operation not permitted>",
+    "redirects": []
+  }
+]
