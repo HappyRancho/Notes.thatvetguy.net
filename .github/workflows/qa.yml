@@ -22,3 +22,25 @@ jobs:
         with:
           name: site-qa
           path: docs/qa/
+
+  baseline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - run: git worktree add /tmp/notes-before b556eb5d6a8df153ce9880539ad6dfd2978eb1c6
+      - run: npm run qa -- before
+        env:
+          QA_ROOT: /tmp/notes-before
+        continue-on-error: true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: baseline-qa
+          path: docs/qa/before/

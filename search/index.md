@@ -22,19 +22,51 @@ Interactive search needs JavaScript. All resources remain available through the 
 
 ## Pharmacology
 
-[Veterinary Pharmacology and Toxicology notes ](https://www.vetscraft.com/bvscah/veterinary-pharmacology/)
+Note · Vetscraft
+
+### Veterinary Pharmacology and Toxicology notes
+
+Pharmacology study notes, with general and systemic sections.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Pharmacology and Toxicology notes](https://www.vetscraft.com/bvscah/veterinary-pharmacology/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft-22#report)
 
 ## Haemonchus
 
-[Haemonchus (Barber’s Pole Worm) ](https://www.vetscraft.com/haemonchus-barbers-pole-worm/)
+Note · Vetscraft
+
+### Haemonchus (Barber’s Pole Worm)
+
+Haemonchus contortus haemonchosis parasites nematodes
+
+Source last checked: 2026-10-14
+
+[Read Haemonchus (Barber’s Pole Worm)](https://www.vetscraft.com/haemonchus-barbers-pole-worm/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=haemonchus#report)
 
 ## NSAIDs
 
-[Veterinary NSAID reference ](https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals)
+Drug · Merck Veterinary Manual
+
+### Veterinary NSAID reference
+
+Nonsteroidal anti-inflammatory drugs in the Merck Veterinary Manual.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary NSAID reference](https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=veterinary-nsaid-reference#report)
 
 ## Surgery books
 
-[Books for 4th Year ](https://www.vetsduo.com/pages/books4.html)
+Book · Vets Duo
+
+### Books for 4th Year
+
+Subject-wise textbook listings for 4th Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 4th Year](https://www.vetsduo.com/pages/books4.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vets-duo-veterinary-surgery-and-radiology-books#report)
 
 ## Questions, answered
 

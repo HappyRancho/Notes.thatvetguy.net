@@ -128,7 +128,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
     if not noindex:PAGES.append((path,title,description))
 
 def search_form(page=False):
-    return f'''<div class="search-area" id="search"><form class="search-form" action="/search/" method="get" role="search"><label for="resource-search" class="sr-only">Search veterinary resources</label><div class="search-field">{icon('search')}<input id="resource-search" name="q" type="search" placeholder="Search notes, books, drugs, handbooks…" autocomplete="off" enterkeyhint="search" aria-describedby="search-help"><button type="submit" class="search-submit" aria-label="Search">{icon('arrow')}</button></div><div class="search-suggestions" id="search-suggestions" hidden><p class="suggestion-label">Suggested resources</p><ul id="suggestion-list"></ul><p id="search-empty" class="search-empty" hidden>No match yet. {link('/request-resource/','Request a resource →')}</p></div></form><p class="search-examples" id="search-help">Try {link('/search/#preset-pharmacology','Pharmacology')}{link('/search/#preset-haemonchus','Haemonchus')}{link('/search/#preset-nsaids','NSAIDs')}{link('/search/#preset-surgery-books','Surgery books')}</p><p id="search-status" class="sr-only" role="status" aria-live="polite"></p></div>'''
+    return f'''<div class="search-area" id="search"><form class="search-form" action="/search/" method="get" role="search"><label for="resource-search" class="sr-only">Search veterinary resources</label><div class="search-field">{icon('search')}<input id="resource-search" name="q" type="search" placeholder="Search notes, books, drugs, handbooks…" autocomplete="off" enterkeyhint="search" aria-describedby="search-help"><button type="submit" class="search-submit" aria-label="Search">{icon('arrow')}</button></div><div class="search-suggestions" id="search-suggestions" hidden><p class="suggestion-label">Suggested resources</p><ul id="suggestion-list"></ul><p id="search-empty" class="search-empty" hidden>No match yet. {link('/request-resource/','Request a resource →')}</p></div></form><p class="search-examples" id="search-help">Try {link('/search/#preset-pharmacology','Pharmacology')}{link('/search/#preset-haemonchus','Haemonchus')}{link('/search/#preset-nsaids','NSAIDs')}{link('/search/#preset-surgery-books','Surgery books')}</p><p id="search-status" class="{"search-count" if page else "sr-only"}" role="status" aria-live="polite"></p></div>'''
 
 def homepage():
     tabs=''.join(f'<a href="#year-{y}" class="year-tab" id="tab-{y}" data-year="{y}">{DATA["labels"][y]}</a>' for y in DATA['years'])
@@ -225,7 +225,7 @@ def inside_pages():
     for anchor,label,rid in presets:
         item=next((r for r in RECORDS if rid in [r['id']]+r.get('legacyIds',[])+r.get('aliases',[]) or (rid=='surgery-books' and r['url'] and 'books4' in r['url'])),RECORDS[0])
         url=item['url']
-        preset_html+='<section class="content-section preset-result" id="preset-'+anchor+'"><h2>'+label+'</h2>'+link(url,escape(item['title'])+' '+icon('external' if url.startswith('https:') else 'arrow'),'source-link',url.startswith('https:'))+'</section>'
+        preset_html+='<section class="content-section preset-result" id="preset-'+anchor+'"><h2>'+label+'</h2>'+resource_card(item['id'])+'</section>'
     body=body.replace('</div>',preset_html+'</div>',1) if False else body[:-6]+preset_html+'</div>'
     write_page('/search/','Search Veterinary Resources','Search veterinary notes, books, objective resources, drugs and handbooks on Notes.ThatVetGuy.',body,noindex=True)
 
