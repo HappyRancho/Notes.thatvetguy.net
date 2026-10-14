@@ -1,0 +1,2140 @@
+# Notes.ThatVetGuy
+
+> Free academic resources, thoughtfully made for future vets.
+
+A free academic directory primarily for BVSc & AH students. Original summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. External notes and books retain their source credit; links do not imply authorship or medical review.
+
+Main website: https://thatvetguy.net
+Author: https://www.linkedin.com/in/drchiragpatidarconnect
+Last source review: 2026-10-14; external HTTP availability has not been verified in the build environment.
+
+---
+Canonical: https://notes.thatvetguy.net/
+
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-14 -->
+
+# Free academic resources, thoughtfully made for future vets.
+
+Everything useful for veterinary study, organised in one place.
+
+Search veterinary resources
+
+Suggested resources
+
+No match yet. [Request a resource →](https://notes.thatvetguy.net/request-resource/)
+
+Try [Pharmacology](https://notes.thatvetguy.net/search/#preset-pharmacology)[Haemonchus](https://notes.thatvetguy.net/search/#preset-haemonchus)[NSAIDs](https://notes.thatvetguy.net/search/#preset-nsaids)[Surgery books](https://notes.thatvetguy.net/search/#preset-surgery-books)
+
+[Notes](https://notes.thatvetguy.net/bvsc/)[PYQs](https://notes.thatvetguy.net/objective/#icar-pyq)[Tools](https://notes.thatvetguy.net/study-tools/)[Clinical](https://notes.thatvetguy.net/clinical/)
+
+## BVSc Notes & Books
+
+Subject-wise study material organised by professional year.
+
+[All subjects ](https://notes.thatvetguy.net/bvsc/)
+
+[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
+
+1st Year
+
+### Build your foundations.
+
+Anatomy, physiology and the essentials of animal care.
+
+[01Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/)[02Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/)[03Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/)
+3 subjects · notes & books[Explore 1st Year](https://notes.thatvetguy.net/bvsc/#year-1)
+
+2nd Year
+
+### Understand the science.
+
+From cells and disease to nutrition and animal breeding.
+
+[01Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)[02Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)[03Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)[04Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)[05Animal Nutrition](https://notes.thatvetguy.net/bvsc/animal-nutrition/)
+5 subjects · notes & books[Explore 2nd Year](https://notes.thatvetguy.net/bvsc/#year-2)
+
+3rd Year
+
+### Connect science with practice.
+
+Drugs, parasites, public health and production systems.
+
+[01Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)[02Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)[03Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)[04Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)[05Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/)[06Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/)[07Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/livestock-farm-practices/)
+7 subjects · notes & books[Explore 3rd Year](https://notes.thatvetguy.net/bvsc/#year-3)
+
+4th Year
+
+### Bring it all to the clinic.
+
+Medicine, surgery, reproduction and clinical practice.
+
+[01Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)[02Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)[03Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)[04Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
+4 subjects · notes & books[Explore 4th Year](https://notes.thatvetguy.net/bvsc/#year-4)
+
+## Objective Resources
+
+PYQs, subject-wise objective material and important veterinary objective books.
+
+[
+01
+
+### ICAR PYQ Question Bank
+
+Start with past papers. Find the patterns, focus your revision.
+
+Browse PYQs ](https://notes.thatvetguy.net/objective/#icar-pyq)[
+02
+
+### Subject-wise Objective Questions
+
+Practice the topics that matter most.
+
+Browse questions ](https://notes.thatvetguy.net/objective/#subject-wise)[
+03
+
+### Objective Books
+
+A focused shelf of trusted exam books.
+
+Browse books ](https://notes.thatvetguy.net/objective/#books)
+
+## Tips & Tools for Vet Study
+
+Thoughtful tools and practical guides for the everyday work of learning.
+
+[A practical guide
+
+### Use of AI for Vet Study
+
+Practical ways to use AI for notes, research and presentations.
+
+AI can help with the notes. You still have to read them.
+
+Read the guide ](https://notes.thatvetguy.net/study-tools/#ai-guide)
+[
+
+### Useful Free Apps
+
+Useful tools without unnecessary subscriptions.
+
+](https://notes.thatvetguy.net/study-tools/#free-apps)[
+
+### Useful Study Tools
+
+Small, thoughtful tools for a smoother study day.
+
+](https://notes.thatvetguy.net/study-tools/#useful-tools)
+
+## Clinical Resources
+
+A place for trusted handbooks and practical references. Keep the essentials close.
+
+[
+
+### Handbooks
+
+Trusted references, close at hand.
+
+](https://notes.thatvetguy.net/clinical/#handbooks)[
+
+### Drug & Analgesic References
+
+Find a veterinary drug reference.
+
+](https://notes.thatvetguy.net/clinical/#drug-index)[
+
+### Other Clinical Resources
+
+Pathology and professional reading.
+
+](https://notes.thatvetguy.net/clinical/#other-resources)
+
+For the night before
+
+## Backbenchers Corner
+
+Less to read. More to remember.
+
+Tomorrow’s exam. Today’s sudden interest in short notes.
+
+Keep this one handy
+
+A collection of concise veterinary short notes for objective questions and short answers.
+
+[Open Short Notes ](https://t.me/vetshortnotesbytvg) The short-notes collection on Telegram
+
+Beyond the classroom
+
+## Veterinary opportunities, without the hunt.
+
+Government, private, internship and veterinary job updates — gathered in one place.
+
+[Follow Job Updates on Telegram ](https://t.me/jobupdatesbytvg)
+
+## Can’t find what you need?
+
+Request a note, book, PYQ or useful resource. Help shape the library.
+
+[Request Resource ](https://notes.thatvetguy.net/request-resource/)
+
+## Questions, answered
+
+Are the resources hosted here?
+
+Notes.ThatVetGuy organises links to credited external sources. Availability, downloads and access terms belong to each source.
+
+Where should I start?
+
+Choose your professional year in BVSc Notes & Books, or search for a subject, book or clinical reference.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/BVSc Notes & Books
+
+# BVSc Notes & Books
+
+Find subject-wise BVSc & AH notes and shared book collections across four professional years. Choose a subject to see credited sources, a revision outline and related subjects.
+
+[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
+
+Year grouping may vary by university. Check your syllabus.
+
+## 1st Year
+
+Anatomy, physiology and the essentials of animal care.
+
+Subjects marked studied: 0 of 30 of 3
+
+Notes · Vetscraft
+
+### [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/)
+
+1st Year study notes and reading resources.
+
+[Notes](#veterinary-anatomy-notes)[Books](#veterinary-anatomy-books)
+[Read Veterinary Anatomy notes](https://www.vetscraft.com/bvscah/veterinary-anatomy/)
+[Books for 1st Year](#year-1-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-anatomy#report)
+
+Notes · Vetscraft
+
+### [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/)
+
+1st Year study notes and reading resources.
+
+[Notes](#veterinary-physiology-notes)[Books](#veterinary-physiology-books)
+[Read Veterinary Physiology notes](https://www.vetscraft.com/bvscah/veterinary-physiology/)
+[Books for 1st Year](#year-1-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-physiology#report)
+
+Notes · Vets Duo
+
+### [Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/)
+
+1st Year study notes and reading resources.
+
+[Notes](#livestock-production-management-notes)[Books](#livestock-production-management-books)
+[Read Livestock Production Management notes](https://www.vetsduo.com/pages/lpmnotes.html)
+[Books for 1st Year](#year-1-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=livestock-production-management#report)
+
+Book · Vets Duo
+
+### Books for 1st Year
+
+Subject-wise textbook listings for 1st Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 1st Year](https://www.vetsduo.com/pages/books1.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-1-books#report)
+
+## 2nd Year
+
+From cells and disease to nutrition and animal breeding.
+
+Subjects marked studied: 0 of 50 of 5
+
+Notes · Vets Duo
+
+### [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)
+
+2nd Year study notes and reading resources.
+
+[Notes](#veterinary-biochemistry-notes)[Books](#veterinary-biochemistry-books)
+[Read Veterinary Biochemistry notes](https://www.vetsduo.com/pages/vbcnotes.html)
+[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-biochemistry#report)
+
+Notes · Vets Duo
+
+### [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)
+
+2nd Year study notes and reading resources.
+
+[Notes](#veterinary-microbiology-notes)[Books](#veterinary-microbiology-books)
+[Read Veterinary Microbiology notes](https://www.vetsduo.com/pages/notes2.html)
+[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-microbiology#report)
+
+Notes · Vets Duo
+
+### [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)
+
+2nd Year study notes and reading resources.
+
+[Notes](#veterinary-pathology-notes)[Books](#veterinary-pathology-books)
+[Read Veterinary Pathology notes](https://www.vetsduo.com/pages/notes2.html)
+[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-pathology#report)
+
+Notes · Vets Duo
+
+### [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)
+
+2nd Year study notes and reading resources.
+
+[Notes](#animal-genetics-and-breeding-notes)[Books](#animal-genetics-and-breeding-books)
+[Read Animal Genetics and Breeding notes](https://www.vetsduo.com/pages/agbnotes.html)
+[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=animal-genetics-and-breeding#report)
+
+Notes · Vets Duo
+
+### [Animal Nutrition](https://notes.thatvetguy.net/bvsc/animal-nutrition/)
+
+2nd Year study notes and reading resources.
+
+[Notes](#animal-nutrition-notes)[Books](#animal-nutrition-books)
+[Read Animal Nutrition notes](https://www.vetsduo.com/pages/annnotes.html)
+[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=animal-nutrition#report)
+
+Book · Vets Duo
+
+### Books for 2nd Year
+
+Subject-wise textbook listings for 2nd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 2nd Year](https://www.vetsduo.com/pages/books2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-2-books#report)
+
+## 3rd Year
+
+Drugs, parasites, public health and production systems.
+
+Subjects marked studied: 0 of 70 of 7
+
+Notes · Vetscraft
+
+### [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
+
+3rd Year study notes and reading resources.
+
+[Notes](#veterinary-pharmacology-and-toxicology-notes)[Books](#veterinary-pharmacology-and-toxicology-books)
+[Read Veterinary Pharmacology and Toxicology notes](https://www.vetscraft.com/bvscah/veterinary-pharmacology/)
+[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-pharmacology-and-toxicology#report)
+
+Notes · Vetscraft
+
+### [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
+
+3rd Year study notes and reading resources.
+
+[Notes](#veterinary-parasitology-notes)[Books](#veterinary-parasitology-books)
+[Read Veterinary Parasitology notes](https://www.vetscraft.com/bvscah/veterinary-parasitology/)
+[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-parasitology#report)
+
+Notes · Vets Duo
+
+### [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
+
+3rd Year study notes and reading resources.
+
+[Notes](#veterinary-public-health-and-epidemiology-notes)[Books](#veterinary-public-health-and-epidemiology-books)
+[Read Veterinary Public Health and Epidemiology notes](https://www.vetsduo.com/pages/notes3.html)
+[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-public-health-and-epidemiology#report)
+
+Notes · Vets Duo
+
+### [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)
+
+3rd Year study notes and reading resources.
+
+[Notes](#livestock-products-technology-notes)[Books](#livestock-products-technology-books)
+[Read Livestock Products Technology notes](https://www.vetsduo.com/pages/notes3.html)
+[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=livestock-products-technology#report)
+
+Notes · Vets Duo
+
+### [Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/)
+
+3rd Year study notes and reading resources.
+
+[Notes](#veterinary-and-animal-husbandry-extension-education-notes)[Books](#veterinary-and-animal-husbandry-extension-education-books)
+[Read Veterinary and Animal Husbandry Extension Education notes](https://www.vetsduo.com/pages/notes3.html)
+[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-and-animal-husbandry-extension-education#report)
+
+Notes · Vet Study
+
+### [Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/)
+
+3rd Year study notes and reading resources.
+
+[Notes](#veterinary-clinical-practices-i-notes)[Books](#veterinary-clinical-practices-i-books)
+[Read Veterinary Clinical Practices I notes](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)
+[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-clinical-practices-i#report)
+
+Notes · Vet Study
+
+### [Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/livestock-farm-practices/)
+
+3rd Year study notes and reading resources.
+
+[Notes](#livestock-farm-practices-notes)[Books](#livestock-farm-practices-books)
+[Read Livestock Farm Practices notes](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)
+Coming soon[Request this book](https://notes.thatvetguy.net/request-resource/?subject=livestock-farm-practices)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=livestock-farm-practices#report)
+
+Book · Vets Duo
+
+### Books for 3rd Year
+
+Subject-wise textbook listings for 3rd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+
+## 4th Year
+
+Medicine, surgery, reproduction and clinical practice.
+
+Subjects marked studied: 0 of 40 of 4
+
+Notes · Vetscraft
+
+### [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)
+
+4th Year study notes and reading resources.
+
+[Notes](#veterinary-medicine-notes)[Books](#veterinary-medicine-books)
+[Read Veterinary Medicine notes](https://www.vetscraft.com/bvscah/veterinary-medicine/)
+[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-medicine#report)
+
+Notes · Vetscraft
+
+### [Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)
+
+4th Year study notes and reading resources.
+
+[Notes](#veterinary-surgery-and-radiology-notes)[Books](#veterinary-surgery-and-radiology-books)
+[Read Veterinary Surgery and Radiology notes](https://www.vetscraft.com/bvscah/veterinary-surgery-and-radiology/)
+[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-surgery-and-radiology#report)
+
+Notes · Vetscraft
+
+### [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)
+
+4th Year study notes and reading resources.
+
+[Notes](#veterinary-gynaecology-and-obstetrics-notes)[Books](#veterinary-gynaecology-and-obstetrics-books)
+[Read Veterinary Gynaecology and Obstetrics notes](https://www.vetscraft.com/bvscah/veterinary-gynaecology-and-obstetrics/)
+[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-gynaecology-and-obstetrics#report)
+
+Notes · Vet Study
+
+### [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
+
+4th Year study notes and reading resources.
+
+[Notes](#veterinary-clinical-practices-ii-notes)[Books](#veterinary-clinical-practices-ii-books)
+[Read Veterinary Clinical Practices II notes](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)
+[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-clinical-practices-ii#report)
+
+Book · Vets Duo
+
+### Books for 4th Year
+
+Subject-wise textbook listings for 4th Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 4th Year](https://www.vetsduo.com/pages/books4.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vets-duo-veterinary-surgery-and-radiology-books#report)
+
+## Questions, answered
+
+Does this grouping match my university?
+
+Year grouping may vary by university. Check your syllabus before planning revision.
+
+Where are the books?
+
+Each year has one shared Books for Year collection. Subject Notes and Books tabs point to the relevant material without repeating the same book directory.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/objective/
+
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/Objective Resources
+
+# Objective Resources
+
+Find ICAR AIEEA (PG) previous-year papers, subject-wise objective questions and veterinary objective book listings. These resources help veterinary students plan exam revision using credited external collections.
+
+[ICAR PYQ Question Bank](https://notes.thatvetguy.net/objective/#icar-pyq)[Subject-wise Objective Questions](https://notes.thatvetguy.net/objective/#subject-wise)[Objective Books](https://notes.thatvetguy.net/objective/#books)
+
+## ICAR PYQ Question Bank
+
+Browse previous-year papers for veterinary and animal sciences at their source.
+
+PYQ · Vet Study
+
+### ICAR AIEEA (PG) papers
+
+A year-wise collection maintained by Vet Study.
+
+Source last checked: 2026-10-14
+
+[Read ICAR AIEEA (PG) papers](https://vetstudy.journeywithasr.com/p/previous-years-icar-aieea-question.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=icar-aieea-pg-papers#report)
+
+## Subject-wise Objective Questions
+
+Start with the question-bank collections below, then choose the subject you are revising.
+
+Objective · Vet Study
+
+### Vet Study — veterinary question banks
+
+Question-bank collection. Choose the veterinary subject or exam material on the source page.
+
+Source last checked: 2026-10-14
+
+[Read Vet Study — veterinary question banks](https://vetstudy.journeywithasr.com/p/veterinary-question-banks-pdf.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vet-study-veterinary-question-banks#report)
+
+## Objective Books
+
+Important veterinary objective books for exam preparation. Book-specific resources will be added as they are checked.
+
+Coming soon
+
+### Dhruv N Desi
+
+A dedicated listing for this objective reference is coming soon.
+
+[Request this book](https://notes.thatvetguy.net/request-resource/?resource=coming-dhruv-n-desi)
+
+Coming soon
+
+### Review of Veterinary Science
+
+A dedicated listing for this objective reference is coming soon.
+
+[Request this book](https://notes.thatvetguy.net/request-resource/?resource=coming-review-of-veterinary-science)
+
+Coming soon
+
+### Review of Animal Science
+
+A dedicated listing for this objective reference is coming soon.
+
+[Request this book](https://notes.thatvetguy.net/request-resource/?resource=coming-review-of-animal-science)
+
+Coming soon
+
+### Animal Science Refresher
+
+A dedicated listing for this objective reference is coming soon.
+
+[Request this book](https://notes.thatvetguy.net/request-resource/?resource=coming-animal-science-refresher)
+
+Coming soon
+
+### TANUVAS Objective Question Bank
+
+A dedicated listing for this objective reference is coming soon.
+
+[Request this book](https://notes.thatvetguy.net/request-resource/?resource=coming-tanuvas-objective-question-bank)
+
+## Questions, answered
+
+Where can I find ICAR AIEEA PG previous-year papers?
+
+The ICAR PYQ Question Bank section links to the year-wise Vet Study collection. Select the paper and exam year on that source website.
+
+Are the objective books available to download?
+
+The five named book entries are marked Coming soon because individual book links have not been verified. You can request a specific title or edition.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/study-tools/
+
+<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/Tips & Tools for Vet Study
+
+# Tips & Tools for Vet Study
+
+Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
+
+[Use of AI for Vet Study](https://notes.thatvetguy.net/study-tools/#ai-guide)[Useful Free Apps](https://notes.thatvetguy.net/study-tools/#free-apps)[Useful Study Tools](https://notes.thatvetguy.net/study-tools/#useful-tools)
+
+## Use of AI for Vet Study
+
+Use AI to help organise your work, while keeping your course materials as the source of truth.
+
+- 
+
+### Start with an outline
+
+Ask for a clear structure for a topic, presentation or revision plan.
+
+- 
+
+### Bring your own sources
+
+Work from your notes and check every fact, reference and citation.
+
+- 
+
+### Keep clinical decisions separate
+
+AI-generated study text is not a substitute for professional clinical guidance.
+
+## Useful Free Apps
+
+A small toolkit for writing, reading and organising references.
+
+Tool · Zotero
+
+### Zotero
+
+Organise sources and build bibliographies.
+
+Source last checked: 2026-10-14
+
+[Read Zotero](https://www.zotero.org/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=zotero#report)
+
+Tool · LibreOffice
+
+### LibreOffice
+
+Create documents, spreadsheets and presentations.
+
+Source last checked: 2026-10-14
+
+[Read LibreOffice](https://www.libreoffice.org/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=libreoffice#report)
+
+## Useful Study Tools
+
+Useful starting points for working with references and PDF study material.
+
+Tool · Mozilla
+
+### PDF.js
+
+Read PDFs in a browser with Mozilla’s open-source viewer.
+
+Source last checked: 2026-10-14
+
+[Read PDF.js](https://mozilla.github.io/pdf.js/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=pdf-js#report)
+
+## Questions, answered
+
+Can I use AI as a clinical reference?
+
+Use AI to help organise study, not to make clinical decisions. Check veterinary facts, citations and drug information against original professional references.
+
+Are these tools all subscription-free?
+
+The free-app listings describe free tools; access conditions can change. Check the source website for current licensing and availability.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/clinical/
+
+<!-- Canonical: https://notes.thatvetguy.net/clinical/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/Clinical Resources
+
+# Clinical Resources
+
+Find veterinary handbooks, drug and analgesic references, and clinical pathology resources. These links support veterinary study and supervised clinical learning; they do not replace professional judgement or a current prescribing reference.
+
+[Handbooks](https://notes.thatvetguy.net/clinical/#handbooks)[Drug & Analgesic References](https://notes.thatvetguy.net/clinical/#drug-index)[Other Clinical Resources](https://notes.thatvetguy.net/clinical/#other-resources)
+
+Study references support learning; they do not replace clinical judgement. Check the complete source, species and context before using drug information. Access to external sites varies.
+
+## Handbooks
+
+Open a professional reference at its source. These are external reading links, not files hosted here.
+
+Handbook · Merck Veterinary Manual
+
+### Merck Veterinary Manual
+
+Veterinary topics, conditions and professional reference material.
+
+Source last checked: 2026-10-14
+
+[Read Merck Veterinary Manual](https://www.merckvetmanual.com/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=merck-veterinary-manual#report)
+
+## Drug & Analgesic References
+
+Read the full pharmacology reference for the species and context you are studying.
+
+Drug · Merck Veterinary Manual
+
+### Veterinary NSAID reference
+
+Nonsteroidal anti-inflammatory drugs in the Merck Veterinary Manual.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary NSAID reference](https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=veterinary-nsaid-reference#report)
+
+Drug · Merck Veterinary Manual
+
+### Analgesics used in animals
+
+Professional reference information, including meloxicam.
+
+Source last checked: 2026-10-14
+
+[Read Analgesics used in animals](https://www.merckvetmanual.com/therapeutics/pain-assessment-and-management/analgesics-used-in-animals)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=analgesics-used-in-animals#report)
+
+## Other Clinical Resources
+
+Explore clinical pathology and professional veterinary reference libraries.
+
+Reference · Cornell eClinPath
+
+### Cornell eClinPath
+
+Test basics, haematology, chemistry and clinical pathology.
+
+Source last checked: 2026-10-14
+
+[Read Cornell eClinPath](https://eclinpath.com/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=cornell-eclinpath#report)
+
+Reference · Vetlexicon
+
+### Vetlexicon
+
+Professional veterinary reference library; access varies by resource.
+
+Source last checked: 2026-10-14
+
+[Read Vetlexicon](https://www.vetlexicon.com/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vetlexicon#report)
+
+## Questions, answered
+
+Is this a complete veterinary drug index?
+
+No. Drug & Analgesic References currently links to Merck material on NSAIDs and analgesics, rather than individual locally maintained drug monographs.
+
+Where can I study veterinary clinical pathology?
+
+Other Clinical Resources includes Cornell eClinPath, an online clinical pathology textbook covering test interpretation, haematology and chemistry.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/about/
+
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/About Notes.ThatVetGuy
+
+# About Notes.ThatVetGuy
+
+Notes.ThatVetGuy is a free academic resource directory for BVSc & AH students. It brings together credited study links, original subject outlines and practical tools within the ThatVetGuy ecosystem.
+
+## A useful place to start
+
+Notes.ThatVetGuy brings together veterinary notes, books and study resources by professional year, subject and purpose. Browse notes and books, prepare with objective resources, find a clinical reference or explore a practical study tool.
+
+## How the library works
+
+Current listings link to external libraries and professional references. A listing is not a claim that Notes.ThatVetGuy authored, medically reviewed or hosts that resource. Availability and access terms belong to the source website.
+
+## Help improve the library
+
+Found a broken link, need a resource or want to contribute? Email [contact@thatvetguy.net](mailto:contact@thatvetguy.net). Please include the resource name, subject and source if you have one.
+
+## Part of ThatVetGuy
+
+[Main website ↗](https://thatvetguy.net) · [Blog ↗](https://blog.thatvetguy.net)
+
+## Questions, answered
+
+Who writes the original guides?
+
+Original site guides and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. External notes, books and references retain their source credit.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/request-resource/
+
+<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/Can’t find what you need?
+
+# Can’t find what you need?
+
+Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
+
+## Tell us what would help
+
+Include the title or topic, your professional year and subject. For a book or PYQ, add the edition or exam year if you know it.
+
+[Email your request ](mailto:contact@thatvetguy.net?subject=Resource%20request&body=Resource%20or%20topic%3A%20%0ASubject%20and%20year%3A%20%0AEdition%20or%20exam%20year%3A%20%0ASource%20link%20if%20known%3A%20)
+
+Your email app will open. You can also write directly to [contact@thatvetguy.net](mailto:contact@thatvetguy.net). Requests help guide future additions; availability is not guaranteed.
+
+## Contact
+
+Email contact@thatvetguy.net. If your email app does not open, copy this address into your preferred email service.
+
+## Contribute a resource
+
+Send the title, subject and original source to contact@thatvetguy.net.
+
+## Report an Error
+
+Send the page URL and the resource name to contact@thatvetguy.net so the link can be reviewed.
+
+## Questions, answered
+
+How do I report a broken link?
+
+Email contact@thatvetguy.net with the page URL and resource name. The visible email address can be copied if your email application does not open.
+
+Can I contribute a resource?
+
+Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/search/
+
+<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/Search veterinary resources
+
+# Search veterinary resources
+
+Search veterinary notes, books, objective resources, drugs and handbooks by topic or subject. Veterinary students can also use the preset topic links below without JavaScript.
+
+Search veterinary resources
+
+Suggested resources
+
+No match yet. [Request a resource →](https://notes.thatvetguy.net/request-resource/)
+
+Try [Pharmacology](https://notes.thatvetguy.net/search/#preset-pharmacology)[Haemonchus](https://notes.thatvetguy.net/search/#preset-haemonchus)[NSAIDs](https://notes.thatvetguy.net/search/#preset-nsaids)[Surgery books](https://notes.thatvetguy.net/search/#preset-surgery-books)
+
+## Browse the library
+
+Interactive search needs JavaScript. All resources remain available through the links below.
+
+[Notes & Books](https://notes.thatvetguy.net/bvsc/)[Objective Resources](https://notes.thatvetguy.net/objective/)[Study Tools](https://notes.thatvetguy.net/study-tools/)[Clinical Resources](https://notes.thatvetguy.net/clinical/)
+
+## Pharmacology
+
+[Veterinary Pharmacology and Toxicology notes ](https://www.vetscraft.com/bvscah/veterinary-pharmacology/)
+
+## Haemonchus
+
+[Haemonchus (Barber’s Pole Worm) ](https://www.vetscraft.com/haemonchus-barbers-pole-worm/)
+
+## NSAIDs
+
+[Veterinary NSAID reference ](https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals)
+
+## Surgery books
+
+[Books for 4th Year ](https://www.vetsduo.com/pages/books4.html)
+
+## Questions, answered
+
+Can I browse without JavaScript?
+
+Yes. The four Try links lead to static topic results, and each category has a complete HTML listing. Full query matching requires JavaScript.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-anatomy/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-anatomy/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Anatomy
+
+# Veterinary Anatomy
+
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
+
+1st Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Osteology and arthrology
+- Myology and visceral anatomy
+- Neuroanatomy and sense organs
+- Histology and embryology
+
+Use labelled diagrams to compare the same structure between species, then explain its functional significance.
+
+## Notes and books
+
+Note · Vetscraft
+
+### Veterinary Anatomy notes
+
+Anatomy notes arranged by anatomical systems and topics.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Anatomy notes](https://www.vetscraft.com/bvscah/veterinary-anatomy/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft#report)
+
+Book · Vets Duo
+
+### Books for 1st Year
+
+Subject-wise textbook listings for 1st Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 1st Year](https://www.vetsduo.com/pages/books1.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-1-books#report)
+
+## Related subjects
+
+- [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/)
+- [Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/)
+
+## Questions, answered
+
+How should I use these Veterinary Anatomy resources?
+
+Use labelled diagrams to compare the same structure between species, then explain its functional significance. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-physiology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-physiology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Physiology
+
+# Veterinary Physiology
+
+Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
+
+1st Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Blood and cardiovascular physiology
+- Respiratory and renal physiology
+- Digestion and metabolism
+- Endocrine and reproductive physiology
+
+Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
+
+## Notes and books
+
+Note · Vetscraft
+
+### Veterinary Physiology notes
+
+Physiology notes covering the major body systems.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Physiology notes](https://www.vetscraft.com/bvscah/veterinary-physiology/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft-15#report)
+
+Book · Vets Duo
+
+### Books for 1st Year
+
+Subject-wise textbook listings for 1st Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 1st Year](https://www.vetsduo.com/pages/books1.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-1-books#report)
+
+## Related subjects
+
+- [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/)
+- [Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/)
+
+## Questions, answered
+
+How should I use these Veterinary Physiology resources?
+
+Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/livestock-production-management/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/livestock-production-management/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Livestock Production Management
+
+# Livestock Production Management
+
+Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
+
+1st Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Housing and animal handling
+- Cattle and buffalo management
+- Sheep and goat management
+- Poultry production and farm records
+
+Compare management requirements by species, age and production stage, with welfare and daily observation in view.
+
+## Notes and books
+
+Note · Vets Duo
+
+### Livestock Production Management notes
+
+Subject notebook; choose the university on the source page.
+
+Source last checked: 2026-10-14
+
+[Read Livestock Production Management notes](https://www.vetsduo.com/pages/lpmnotes.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo#report)
+
+Book · Vets Duo
+
+### Books for 1st Year
+
+Subject-wise textbook listings for 1st Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 1st Year](https://www.vetsduo.com/pages/books1.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-1-books#report)
+
+## Related subjects
+
+- [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/)
+- [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/)
+
+## Questions, answered
+
+How should I use these Livestock Production Management resources?
+
+Compare management requirements by species, age and production stage, with welfare and daily observation in view. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Biochemistry
+
+# Veterinary Biochemistry
+
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
+
+2nd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Carbohydrate, lipid and protein metabolism
+- Enzymes and biological oxidation
+- Vitamins and minerals
+- Molecular biology and biochemical tests
+
+Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
+
+## Notes and books
+
+Note · Vets Duo
+
+### Veterinary Biochemistry notes
+
+Subject notebook; choose the university on the source page.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Biochemistry notes](https://www.vetsduo.com/pages/vbcnotes.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-17#report)
+
+Book · Vets Duo
+
+### Books for 2nd Year
+
+Subject-wise textbook listings for 2nd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 2nd Year](https://www.vetsduo.com/pages/books2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-2-books#report)
+
+## Related subjects
+
+- [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)
+- [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)
+- [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)
+
+## Questions, answered
+
+How should I use these Veterinary Biochemistry resources?
+
+Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-microbiology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-microbiology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Microbiology
+
+# Veterinary Microbiology
+
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
+
+2nd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Bacteriology and mycology
+- Veterinary virology
+- Immunology
+- Microbial genetics and biotechnology
+
+Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
+
+## Notes and books
+
+Note · Vets Duo
+
+### 2nd Year subject notes
+
+Second-year notes collection; choose microbiology or pathology and the relevant unit on the source page.
+
+Source last checked: 2026-10-14
+
+[Read 2nd Year subject notes](https://www.vetsduo.com/pages/notes2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-19#report)
+
+Book · Vets Duo
+
+### Books for 2nd Year
+
+Subject-wise textbook listings for 2nd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 2nd Year](https://www.vetsduo.com/pages/books2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-2-books#report)
+
+## Related subjects
+
+- [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)
+- [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)
+- [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)
+
+## Questions, answered
+
+How should I use these Veterinary Microbiology resources?
+
+Compare each agent by classification, transmission and laboratory identification while keeping species context clear. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-pathology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-pathology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Pathology
+
+# Veterinary Pathology
+
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
+
+2nd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Cell injury and inflammation
+- Circulatory disturbances
+- Systemic pathology
+- Necropsy and diagnostic sampling
+
+Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
+
+## Notes and books
+
+Note · Vets Duo
+
+### 2nd Year subject notes
+
+Second-year notes collection; choose microbiology or pathology and the relevant unit on the source page.
+
+Source last checked: 2026-10-14
+
+[Read 2nd Year subject notes](https://www.vetsduo.com/pages/notes2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-19#report)
+
+Book · Vets Duo
+
+### Books for 2nd Year
+
+Subject-wise textbook listings for 2nd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 2nd Year](https://www.vetsduo.com/pages/books2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-2-books#report)
+
+## Related subjects
+
+- [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)
+- [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)
+- [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)
+
+## Questions, answered
+
+How should I use these Veterinary Pathology resources?
+
+Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Animal Genetics and Breeding
+
+# Animal Genetics and Breeding
+
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
+
+2nd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Mendelian and molecular genetics
+- Population and quantitative genetics
+- Selection and breeding systems
+- Animal breeding programmes
+
+Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
+
+## Notes and books
+
+Note · Vets Duo
+
+### Animal Genetics and Breeding notes
+
+Subject notebook; choose the university on the source page.
+
+Source last checked: 2026-10-14
+
+[Read Animal Genetics and Breeding notes](https://www.vetsduo.com/pages/agbnotes.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-20#report)
+
+Book · Vets Duo
+
+### Books for 2nd Year
+
+Subject-wise textbook listings for 2nd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 2nd Year](https://www.vetsduo.com/pages/books2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-2-books#report)
+
+## Related subjects
+
+- [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)
+- [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)
+- [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)
+
+## Questions, answered
+
+How should I use these Animal Genetics and Breeding resources?
+
+Work through inheritance and selection examples step by step, checking assumptions before interpreting the result. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/animal-nutrition/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/animal-nutrition/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Animal Nutrition
+
+# Animal Nutrition
+
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+
+2nd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Feed evaluation and digestion
+- Energy and protein nutrition
+- Minerals and vitamins
+- Ration formulation and species feeding
+
+Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+
+## Notes and books
+
+Note · Vets Duo
+
+### Animal Nutrition notes
+
+Subject notebook; choose the university on the source page.
+
+Source last checked: 2026-10-14
+
+[Read Animal Nutrition notes](https://www.vetsduo.com/pages/annnotes.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-21#report)
+
+Book · Vets Duo
+
+### Books for 2nd Year
+
+Subject-wise textbook listings for 2nd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 2nd Year](https://www.vetsduo.com/pages/books2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-2-books#report)
+
+## Related subjects
+
+- [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)
+- [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)
+- [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)
+
+## Questions, answered
+
+How should I use these Animal Nutrition resources?
+
+Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Pharmacology and Toxicology
+
+# Veterinary Pharmacology and Toxicology
+
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
+
+3rd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- General pharmacology and pharmacokinetics
+- Systemic pharmacology
+- Antimicrobial and antiparasitic agents
+- Toxicology and poisoning principles
+
+Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
+
+## Notes and books
+
+Note · Vetscraft
+
+### Veterinary Pharmacology and Toxicology notes
+
+Pharmacology study notes, with general and systemic sections.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Pharmacology and Toxicology notes](https://www.vetscraft.com/bvscah/veterinary-pharmacology/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft-22#report)
+
+Book · Vets Duo
+
+### Books for 3rd Year
+
+Subject-wise textbook listings for 3rd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+
+## Related subjects
+
+- [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
+- [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
+- [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)
+
+## Questions, answered
+
+How should I use these Veterinary Pharmacology and Toxicology resources?
+
+Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-parasitology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-parasitology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Parasitology
+
+# Veterinary Parasitology
+
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
+
+3rd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Helminthology
+- Veterinary protozoology
+- Veterinary entomology and acarology
+- Parasitological diagnosis and control
+
+Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
+
+## Notes and books
+
+Note · Vetscraft
+
+### Veterinary Parasitology notes
+
+Parasitology notes organised into parasite groups.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Parasitology notes](https://www.vetscraft.com/bvscah/veterinary-parasitology/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft-24#report)
+
+Book · Vets Duo
+
+### Books for 3rd Year
+
+Subject-wise textbook listings for 3rd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+
+## Related subjects
+
+- [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
+- [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
+- [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)
+
+## Questions, answered
+
+How should I use these Veterinary Parasitology resources?
+
+Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Public Health and Epidemiology
+
+# Veterinary Public Health and Epidemiology
+
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+
+3rd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Zoonoses and One Health
+- Food safety and hygiene
+- Measures of disease frequency
+- Disease investigation and prevention
+
+Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+
+## Notes and books
+
+Note · Vets Duo
+
+### Veterinary Public Health and Epidemiology notes
+
+Third-year notes include public health, epidemiology, zoonoses and environmental hygiene.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Public Health and Epidemiology notes](https://www.vetsduo.com/pages/notes3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-25#report)
+
+Book · Vets Duo
+
+### Books for 3rd Year
+
+Subject-wise textbook listings for 3rd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+
+## Related subjects
+
+- [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
+- [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
+- [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)
+
+## Questions, answered
+
+How should I use these Veterinary Public Health and Epidemiology resources?
+
+Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/livestock-products-technology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/livestock-products-technology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Livestock Products Technology
+
+# Livestock Products Technology
+
+Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
+
+3rd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Milk processing and dairy products
+- Meat science and meat products
+- Poultry and egg products
+- By-products, quality and preservation
+
+Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
+
+## Notes and books
+
+Note · Vets Duo
+
+### Veterinary Public Health and Epidemiology notes
+
+Third-year notes include public health, epidemiology, zoonoses and environmental hygiene.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Public Health and Epidemiology notes](https://www.vetsduo.com/pages/notes3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-25#report)
+
+Book · Vets Duo
+
+### Books for 3rd Year
+
+Subject-wise textbook listings for 3rd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+
+## Related subjects
+
+- [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
+- [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
+- [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
+
+## Questions, answered
+
+How should I use these Livestock Products Technology resources?
+
+Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary and Animal Husbandry Extension Education
+
+# Veterinary and Animal Husbandry Extension Education
+
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
+
+3rd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Extension principles and teaching methods
+- Rural sociology and communication
+- Programme planning and evaluation
+- Livestock entrepreneurship and advisory services
+
+Match the communication method to the audience and explain how you would assess whether the advice was understood.
+
+## Notes and books
+
+Note · Vets Duo
+
+### Veterinary Public Health and Epidemiology notes
+
+Third-year notes include public health, epidemiology, zoonoses and environmental hygiene.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Public Health and Epidemiology notes](https://www.vetsduo.com/pages/notes3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-25#report)
+
+Book · Vets Duo
+
+### Books for 3rd Year
+
+Subject-wise textbook listings for 3rd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+
+## Related subjects
+
+- [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
+- [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
+- [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
+
+## Questions, answered
+
+How should I use these Veterinary and Animal Husbandry Extension Education resources?
+
+Match the communication method to the audience and explain how you would assess whether the advice was understood. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Clinical Practices I
+
+# Veterinary Clinical Practices I
+
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
+
+3rd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- History taking and clinical examination
+- Animal handling and hospital routines
+- Diagnostic sample collection principles
+- Clinical records and case discussion
+
+Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
+
+## Notes and books
+
+Note · Vet Study
+
+### Practical manuals · Vet Study
+
+Browse the Clinical Practices section and check the year attached to each manual.
+
+Source last checked: 2026-10-14
+
+[Read Practical manuals · Vet Study](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=practical-manuals-vet-study#report)
+
+Book · Vets Duo
+
+### Books for 3rd Year
+
+Subject-wise textbook listings for 3rd Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+
+## Related subjects
+
+- [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
+- [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
+- [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
+
+## Questions, answered
+
+How should I use these Veterinary Clinical Practices I resources?
+
+Practise clear histories and structured records under supervision, keeping observation separate from interpretation. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/livestock-farm-practices/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/livestock-farm-practices/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Livestock Farm Practices
+
+# Livestock Farm Practices
+
+Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
+
+3rd Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Routine animal care and handling
+- Feeding and housing observations
+- Farm records and production monitoring
+- Farm hygiene and welfare
+
+Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
+
+## Notes and books
+
+Note · Vet Study
+
+### Practical manuals · Vet Study
+
+Browse the Clinical Practices section and check the year attached to each manual.
+
+Source last checked: 2026-10-14
+
+[Read Practical manuals · Vet Study](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=practical-manuals-vet-study#report)
+
+Book listing · Coming soon
+
+[Request this book](https://notes.thatvetguy.net/request-resource/?subject=livestock-farm-practices)
+
+## Related subjects
+
+- [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
+- [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
+- [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
+
+## Questions, answered
+
+How should I use these Livestock Farm Practices resources?
+
+Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-medicine/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-medicine/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Medicine
+
+# Veterinary Medicine
+
+Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
+
+4th Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- General and systemic medicine
+- Infectious and metabolic diseases
+- Preventive medicine and herd health
+- Diagnostic reasoning and case management
+
+Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
+
+## Notes and books
+
+Note · Vetscraft
+
+### Veterinary Medicine notes
+
+Medicine notes arranged into clinical subjects and disease groups.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Medicine notes](https://www.vetscraft.com/bvscah/veterinary-medicine/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft-27#report)
+
+Book · Vets Duo
+
+### Books for 4th Year
+
+Subject-wise textbook listings for 4th Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 4th Year](https://www.vetsduo.com/pages/books4.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vets-duo-veterinary-surgery-and-radiology-books#report)
+
+## Related subjects
+
+- [Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)
+- [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)
+- [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
+
+## Questions, answered
+
+How should I use these Veterinary Medicine resources?
+
+Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Surgery and Radiology
+
+# Veterinary Surgery and Radiology
+
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+
+4th Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Asepsis and surgical principles
+- Anaesthesiology and pain management
+- Soft tissue surgery and orthopaedics
+- Radiography and other imaging principles
+
+Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+
+## Notes and books
+
+Note · Vetscraft
+
+### Veterinary Surgery and Radiology notes
+
+Surgery study material with anaesthesia, radiology and operative topics.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Surgery and Radiology notes](https://www.vetscraft.com/bvscah/veterinary-surgery-and-radiology/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft-28#report)
+
+Book · Vets Duo
+
+### Books for 4th Year
+
+Subject-wise textbook listings for 4th Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 4th Year](https://www.vetsduo.com/pages/books4.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vets-duo-veterinary-surgery-and-radiology-books#report)
+
+## Related subjects
+
+- [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)
+- [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)
+- [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
+
+## Questions, answered
+
+How should I use these Veterinary Surgery and Radiology resources?
+
+Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Gynaecology and Obstetrics
+
+# Veterinary Gynaecology and Obstetrics
+
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+
+4th Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Reproductive cycles and breeding
+- Infertility and reproductive disorders
+- Pregnancy and parturition
+- Obstetrics, andrology and assisted reproduction
+
+Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+
+## Notes and books
+
+Note · Vetscraft
+
+### Veterinary Gynaecology and Obstetrics notes
+
+Reproduction study material, including gynaecology, andrology and obstetrics.
+
+Source last checked: 2026-10-14
+
+[Read Veterinary Gynaecology and Obstetrics notes](https://www.vetscraft.com/bvscah/veterinary-gynaecology-and-obstetrics/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vetscraft-29#report)
+
+Book · Vets Duo
+
+### Books for 4th Year
+
+Subject-wise textbook listings for 4th Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 4th Year](https://www.vetsduo.com/pages/books4.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vets-duo-veterinary-surgery-and-radiology-books#report)
+
+## Related subjects
+
+- [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)
+- [Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)
+- [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
+
+## Questions, answered
+
+How should I use these Veterinary Gynaecology and Obstetrics resources?
+
+Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+
+
+---
+Canonical: https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/
+
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/; updated: 2026-10-14 -->
+
+[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Veterinary Clinical Practices II
+
+# Veterinary Clinical Practices II
+
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
+
+4th Year · BVSc & AH
+
+Year grouping may vary by university. Check your syllabus.
+
+## Revision topic outline
+
+Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+
+- Clinical examination and diagnostic planning
+- Medical and surgical case discussions
+- Reproductive case assessment
+- Hospital records and clinical communication
+
+Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
+
+## Notes and books
+
+Note · Vet Study
+
+### Practical manuals · Vet Study
+
+Browse the Clinical Practices section and check the year attached to each manual.
+
+Source last checked: 2026-10-14
+
+[Read Practical manuals · Vet Study](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=practical-manuals-vet-study#report)
+
+Book · Vets Duo
+
+### Books for 4th Year
+
+Subject-wise textbook listings for 4th Year.
+
+Source last checked: 2026-10-14
+
+[Read Books for 4th Year](https://www.vetsduo.com/pages/books4.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vets-duo-veterinary-surgery-and-radiology-books#report)
+
+## Related subjects
+
+- [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)
+- [Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)
+- [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)
+
+## Questions, answered
+
+How should I use these Veterinary Clinical Practices II resources?
+
+Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation. Match the topic outline to your university syllabus.
+
+Are the linked notes and books written by Notes.ThatVetGuy?
+
+No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+
+Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.

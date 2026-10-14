@@ -5,6 +5,7 @@ import json
 import re
 from html import escape
 from resources import RECORDS, CATALOGUE, unique
+import geo
 TOKENS=json.loads((Path(__file__).resolve().parent.parent/'data/design-tokens.json').read_text())
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -12,7 +13,7 @@ DATA = json.loads((ROOT / 'data/resources.json').read_text())
 SUBJECTS = json.loads((ROOT / 'data/subjects.json').read_text())
 ASIDES = json.loads((ROOT / 'data/section-asides.json').read_text())
 BASE = 'https://notes.thatvetguy.net'
-VERSION = '20261014-p2'
+VERSION = '20261014-p3'
 DESCRIPTION = 'Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.'
 VCI = 'https://www.vci.dahd.gov.in/sites/default/files/IVPR/MSVE-Gazette-2016.pdf#page=103'
 ROUTES = {
@@ -71,7 +72,7 @@ def header(home=False):
         ('Community', [('Backbenchers Corner', prefix+'#backbench'), ('Job Updates', prefix+'#telegram-updates'), ('Request Resource', '/request-resource/')]),
         ('ThatVetGuy', [('About', '/about/'), ('Blog', 'https://blog.thatvetguy.net'), ('Main Website', 'https://thatvetguy.net')])
     ]
-    nav = ''.join(f'<section class="menu-group"><p class="menu-group-title">{name}</p>'+''.join(link(url, escape(title)+icon('external')) for title,url in items)+'</section>' for name,items in groups)
+    nav = ''.join(f'<section class="menu-group"><p class="menu-group-title">{name}</p>'+''.join(link(url, escape(title)+icon('arrow')) for title,url in items)+'</section>' for name,items in groups)
     return f'''<a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header" id="top"><div class="container header-inner">
 {link('/', '<span class="brand-icon">'+icon('book')+'</span><span>Notes.<b>ThatVetGuy</b></span>', 'brand', False)}
@@ -96,20 +97,13 @@ def bottom_navigation(path):
 def command_palette():
     return '<dialog class="command-dialog" id="command-palette" aria-labelledby="command-title"><div class="menu-head"><div class="menu-title" id="command-title">Find a resource</div><button type="button" class="icon-button command-close" aria-label="Close search">'+icon('close')+'</button></div><div class="command-content"><label for="command-search" class="sr-only">Search all veterinary resources</label><input id="command-search" type="search" placeholder="Subject, note, book or drug…" autocomplete="off"><p class="search-loading" hidden>Loading the resource index…</p><ul id="command-results"></ul><p id="command-status" role="status" aria-live="polite"></p></div></dialog>'
 
-def schema(path, title, description, items=None, home=False):
-    org = {'@type':'Organization', '@id':BASE+'/#organization', 'name':'ThatVetGuy', 'url':'https://thatvetguy.net', 'logo':BASE+'/assets/favicon.svg'}
-    site = {'@type':'WebSite','@id':BASE+'/#website','name':'Notes.ThatVetGuy','alternateName':'Notes ThatVetGuy','url':BASE+'/', 'description':DESCRIPTION,'inLanguage':'en','publisher':{'@id':BASE+'/#organization'}}
-    page = {'@type':'CollectionPage' if items else 'WebPage','@id':BASE+path+'#webpage','url':BASE+path,'name':title,'description':description,'inLanguage':'en','isPartOf':{'@id':BASE+'/#website'},'publisher':{'@id':BASE+'/#organization'}}
-    graph = [org,site,page]
-    if items:
-        listing = {'@type':'ItemList','@id':BASE+path+'#contents','name':title,'itemListElement':[{'@type':'ListItem','position':i+1,'name':name,'url':url if url.startswith('https:') else BASE+url} for i,(name,url) in enumerate(items)]}
-        graph.append(listing);page['mainEntity']={'@id':listing['@id']}
-    if not home:
-        graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Home','item':BASE+'/'},{'@type':'ListItem','position':2,'name':title,'item':BASE+path}]})
-    return json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')
 
 PAGES = []
 def write_page(path,title,description,body,items=None,home=False,noindex=False):
+    description=geo.META.get(path,{}).get('summary',description)
+    body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path))
+    geo.register(path,title,description,body,DATA['lastChecked'])
+    social_image=geo.social(path)
     page_title = title if home else title+' | Notes.ThatVetGuy'
     canonical = BASE+path
     html=f'''<!doctype html>
@@ -118,16 +112,17 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
 <meta name="theme-color" content="#fffaf2" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#14110d" media="(prefers-color-scheme: dark)"><script src="/assets/theme.js?v={VERSION}"></script><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
 <link rel="canonical" href="{canonical}"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE}/assets/social-cover.png"><meta property="og:image:alt" content="Notes.ThatVetGuy — free academic resources for future vets"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
-<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE}/assets/social-cover.png">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE}{social_image}"><meta property="og:image:alt" content="Notes.ThatVetGuy — free academic resources for future vets"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE}{social_image}">
 <link rel="stylesheet" href="/assets/site.css?v={VERSION}">
 <link rel="preload" href="/assets/fonts/notes-serif-latin.woff" as="font" type="font/woff" crossorigin>
-<script type="application/ld+json">{schema(path,title,description,items,home)}</script>
+<script type="application/ld+json">{geo.structured(path,title,description,items,home,body,RECORDS,DATA['lastChecked'])}</script>
 <script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script>
 </head><body>{header(home)}<main id="main">{body}<div class="container page-checked">Last checked: <time datetime="{DATA['lastChecked']}">{DATA['lastChecked']}</time></div></main>{footer()}{bottom_navigation(path)}{command_palette()}</body></html>'''
     for nav_path in ['/bvsc/','/objective/','/study-tools/','/clinical/']:
-        if path == nav_path:
+        if path == nav_path or (nav_path=='/bvsc/' and path.startswith(nav_path)):
             html=html.replace(f'href="{nav_path}" class="nav-link"',f'href="{nav_path}" class="nav-link" aria-current="page"')
+    html=re.sub(r'<a href="'+re.escape(path)+r'" class=""', '<a href="'+path+'" class="active-link" aria-current="page"', html)
     destination = ROOT / ('index.html' if home else path.strip('/')+'/index.html')
     destination.parent.mkdir(parents=True,exist_ok=True);destination.write_text(html+'\n')
     if not noindex:PAGES.append((path,title,description))
@@ -139,14 +134,14 @@ def homepage():
     tabs=''.join(f'<a href="#year-{y}" class="year-tab" id="tab-{y}" data-year="{y}">{DATA["labels"][y]}</a>' for y in DATA['years'])
     panels=''
     for y,names in DATA['years'].items():
-        rows=''.join(link('/bvsc/#'+slug(name),f'<span class="subject-number">{i+1:02}</span><span>{escape(name)}</span>'+icon('arrow'),'subject-link') for i,name in enumerate(names))
+        rows=''.join(link('/bvsc/'+slug(name)+'/',f'<span class="subject-number">{i+1:02}</span><span>{escape(name)}</span>'+icon('arrow'),'subject-link') for i,name in enumerate(names))
         panels+=f'''<section class="year-panel" id="year-{y}" aria-labelledby="tab-{y}"><div class="year-summary"><div><p class="year-label">{DATA['labels'][y]}</p><h3>{DATA['titles'][y]}</h3></div><p>{DATA['descriptions'][y]}</p></div><div class="subject-list">{rows}</div><div class="year-footer"><span>{len(names)} subjects · notes & books</span>{link('/bvsc/#year-'+y,'Explore '+DATA['labels'][y]+icon('arrow'),'text-link')}</div></section>'''
     objective=''
     for i,(key,title,desc,ic) in enumerate([
         ('icar-pyq','ICAR PYQ Question Bank','Start with past papers. Find the patterns, focus your revision.','paper'),
         ('objective-questions','Subject-wise Objective Questions','Practice the topics that matter most.','check'),
         ('objective-books','Objective Books','A focused shelf of trusted exam books.','book')]):
-        objective+=link(ROUTES[key],f'<div class="objective-top"><span class="index-number">0{i+1}</span>{icon(ic)}</div><div class="objective-copy"><h3>{title}</h3><p>{desc}</p></div><span class="resource-action">Open resource {icon("arrow")}</span>','objective-item')
+        objective+=link(ROUTES[key],f'<div class="objective-top"><span class="index-number">0{i+1}</span>{icon(ic)}</div><div class="objective-copy"><h3>{title}</h3><p>{desc}</p></div><span class="resource-action">Browse {"PYQs" if i==0 else "questions" if i==1 else "books"} {icon("arrow")}</span>','objective-item')
     tools=''
     for key,title,desc,ic in [('free-apps','Useful Free Apps','Useful tools without unnecessary subscriptions.','phone'),('useful-tools','Useful Study Tools','Small, thoughtful tools for a smoother study day.','tools')]:
         tools+=link(ROUTES[key],icon(ic)+f'<div><h3>{title}</h3><p>{desc}</p></div>'+icon('arrow'),'tool-row')
@@ -165,6 +160,7 @@ def homepage():
     write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',DESCRIPTION,body,items,True)
 
 def article_intro(title, description):
+    description=next((m['summary'] for p,m in geo.META.items() if p!='/' and ((p=='/bvsc/' and title=='BVSc Notes & Books') or (p=='/objective/' and title=='Objective Resources') or (p=='/study-tools/' and title=='Tips & Tools for Vet Study') or (p=='/clinical/' and title=='Clinical Resources') or (p=='/about/' and title=='About Notes.ThatVetGuy') or (p=='/search/' and title=='Search veterinary resources') or (p=='/request-resource/' and title=='Can’t find what you need?'))),description)
     return '<div class="container reading-page"><nav class="breadcrumbs" aria-label="Breadcrumb">'+link('/','Home')+'<span aria-hidden="true">/</span><span>'+escape(title)+'</span></nav><header class="reading-header"><h1>'+escape(title)+'</h1><p>'+escape(description)+'</p></header>'
 
 def resource_card(rid, heading='h3'):
@@ -206,7 +202,7 @@ def inside_pages():
             source=CATALOGUE[material['notesIds'][0]]['source']
             notes=''.join(link(CATALOGUE[rid]['url'],'Read '+escape(name)+' notes','button secondary') for rid in unique(material['notesIds']))
             books=link('#year-'+y+'-books','Books for '+DATA['labels'][y],'button secondary') if material['booksId'] else '<span class="resource-badge">Coming soon</span>'+link('/request-resource/?subject='+anchor,'Request this book','button secondary')
-            body+=f'<article class="subject-source resource-card" data-subject="{anchor}" id="{anchor}"><span class="resource-badge">Notes · {escape(source)}</span><h3>{escape(name)}</h3><p>{DATA["labels"][y]} study notes and reading resources.</p><div class="material-toggle" data-material-toggle><div class="material-tablist"><a href="#{anchor}-notes" class="material-tab">Notes</a><a href="#{anchor}-books" class="material-tab">Books</a></div><div id="{anchor}-notes" class="material-panel">{notes}</div><div id="{anchor}-books" class="material-panel">{books}</div></div>'+link('/request-resource/?subject='+anchor+'#report','Report broken link','report-link')+f'<button type="button" class="studied-button js-only" data-studied="{anchor}" aria-pressed="false">Mark as studied</button></article>'
+            body+=f'<article class="subject-source resource-card" data-subject="{anchor}" id="{anchor}"><span class="resource-badge">Notes · {escape(source)}</span><h3>{link("/bvsc/"+anchor+"/",escape(name))}</h3><p>{DATA["labels"][y]} study notes and reading resources.</p><div class="material-toggle" data-material-toggle><div class="material-tablist"><a href="#{anchor}-notes" class="material-tab">Notes</a><a href="#{anchor}-books" class="material-tab">Books</a></div><div id="{anchor}-notes" class="material-panel">{notes}</div><div id="{anchor}-books" class="material-panel">{books}</div></div>'+link('/request-resource/?subject='+anchor+'#report','Report broken link','report-link')+f'<button type="button" class="studied-button js-only" data-studied="{anchor}" aria-pressed="false">Mark as studied</button></article>'
         body+='</div><div class="year-books" id="year-'+y+'-books">'+resource_card(DATA['yearBooks'][y],heading='h3')+'</div></section>'
     write_page('/bvsc/','BVSc Notes & Books',intro,body+'</div>',items)
     for path,title,description,keys in [
@@ -233,6 +229,23 @@ def inside_pages():
     body=body.replace('</div>',preset_html+'</div>',1) if False else body[:-6]+preset_html+'</div>'
     write_page('/search/','Search Veterinary Resources','Search veterinary notes, books, objective resources, drugs and handbooks on Notes.ThatVetGuy.',body,noindex=True)
 
+def subject_pages():
+    for name,m in SUBJECTS.items():
+        path='/bvsc/'+slug(name)+'/'
+        y=str(m['year'])
+        geo.META[path]={'summary':m['summary'],'faq':[
+            ['How should I use these '+name+' resources?',m['studyTip']+' Match the topic outline to your university syllabus.'],
+            ['Are the linked notes and books written by Notes.ThatVetGuy?','No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.']]}
+        body=article_intro(name,m['summary'])
+        body=body.replace('<span>'+escape(name)+'</span>',link('/bvsc/','BVSc Notes & Books')+'<span aria-hidden="true">/</span><span>'+escape(name)+'</span>',1)
+        body+='<p class="resource-badge">'+DATA['labels'][y]+' · BVSc & AH</p><p class="source-note">Year grouping may vary by university. Check your syllabus.</p>'
+        body+='<section class="content-section" id="topics"><h2>Revision topic outline</h2><p>Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.</p><ul class="topic-list">'+''.join('<li>'+escape(t)+'</li>' for t in m['topics'])+'</ul><p>'+escape(m['studyTip'])+'</p><button type="button" class="studied-button js-only" data-studied="'+slug(name)+'" aria-pressed="false">Mark as studied</button></section>'
+        ids=unique(m['notesIds']+([m['booksId']] if m['booksId'] else []))
+        body+='<section class="content-section" id="reading"><h2>Notes and books</h2><div class="resource-grid">'+''.join(resource_card(rid) for rid in ids)+'</div>'
+        if not m['booksId']:body+='<p class="resource-badge">Book listing · Coming soon</p>'+link('/request-resource/?subject='+slug(name),'Request this book','button secondary')
+        body+='</section><section class="content-section" id="related"><h2>Related subjects</h2><ul class="related-subjects">'+''.join('<li>'+link('/bvsc/'+slug(n)+'/',escape(n))+'</li>' for n in m['related'])+'</ul></section></div>'
+        write_page(path,name,m['summary'],body,[(CATALOGUE[r]['title'],CATALOGUE[r]['url']) for r in ids])
+
 def discovery_files():
     (ROOT/'robots.txt').write_text('User-agent: *\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nSitemap: '+BASE+'/sitemap.xml\n')
     xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE}{path}</loc></url>\n' for path,_,_ in PAGES)+'</urlset>\n'
@@ -243,11 +256,12 @@ def discovery_files():
     for item in catalogue:
         item['keywords']=' '.join(item.get('aliases',[]))+' '+item.get('keywords','')
     for y,names in DATA['years'].items():
-        for name in names:catalogue.append({'id':slug(name),'title':name,'subject':DATA['labels'][y],'year':int(y),'type':'Subject','source':'Notes.ThatVetGuy','description':'Notes and books for '+name,'url':'/bvsc/#'+slug(name),'keywords':''})
+        for name in names:catalogue.append({'id':slug(name),'title':name,'subject':DATA['labels'][y],'year':int(y),'type':'Subject','source':'Notes.ThatVetGuy','description':SUBJECTS[name]['summary'],'lastVerified':SUBJECTS[name]['sourceChecked'],'url':'/bvsc/'+slug(name)+'/','keywords':''})
     (ROOT/'assets/catalogue.json').write_text(json.dumps(catalogue,ensure_ascii=False,separators=(',',':'))+'\n')
     (ROOT/'search-index.json').write_text(json.dumps(catalogue,ensure_ascii=False,separators=(',',':'))+'\n')
+    geo.discovery(DATA['lastChecked'],catalogue)
     (ROOT/'.nojekyll').touch()
 
 if __name__=='__main__':
-    homepage();inside_pages();discovery_files()
+    homepage();inside_pages();subject_pages();discovery_files()
     print(f'Built {len(PAGES)+1} HTML pages, catalogue, sitemap, robots.txt and llms.txt.')

@@ -2,21 +2,76 @@
 
 > Free academic resources, thoughtfully made for future vets.
 
-A free veterinary academic and study-resource platform primarily for BVSc & AH students. Resources are organised by professional year, subject and purpose. Linked material retains its credited source; a source link is not a claim of authorship or medical review.
+A free academic directory primarily for BVSc & AH students. Original summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. External notes and books retain their source credit; links do not imply authorship or medical review.
 
-## Library
+Main website: https://thatvetguy.net
+Author: https://www.linkedin.com/in/drchiragpatidarconnect
+Last source review: 2026-10-14; external HTTP availability has not been verified in the build environment.
 
-- [Free Veterinary Notes, Books & Study Resources | ThatVetGuy](https://notes.thatvetguy.net/): Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.
-- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Choose your professional year and subject, then open Notes or Books.
-- [Objective Resources](https://notes.thatvetguy.net/objective/): ICAR PYQs, subject-wise objective questions and important veterinary objective books.
-- [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Practical AI study guidance, useful free apps and tools for veterinary students.
-- [Clinical Resources](https://notes.thatvetguy.net/clinical/): External veterinary handbooks, drug references and clinical pathology resources.
-- [About Notes.ThatVetGuy](https://notes.thatvetguy.net/about/): A free veterinary academic and study-resource platform primarily for BVSc & AH students.
-- [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or study resource from Notes.ThatVetGuy.
+## Sections and subject guides
+
+- [Free Veterinary Notes, Books & Study Resources | ThatVetGuy](https://notes.thatvetguy.net/): Free academic resources, thoughtfully made for future vets. Find BVSc notes, books, PYQs, study tools and clinical references in one place.
+  - Markdown: https://notes.thatvetguy.net/index.md
+- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Find subject-wise BVSc & AH notes and shared book collections across four professional years. Choose a subject to see credited sources, a revision outline and related subjects.
+  - Markdown: https://notes.thatvetguy.net/bvsc/index.md
+- [Objective Resources](https://notes.thatvetguy.net/objective/): Find ICAR AIEEA (PG) previous-year papers, subject-wise objective questions and veterinary objective book listings. These resources help veterinary students plan exam revision using credited external collections.
+  - Markdown: https://notes.thatvetguy.net/objective/index.md
+- [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
+  - Markdown: https://notes.thatvetguy.net/study-tools/index.md
+- [Clinical Resources](https://notes.thatvetguy.net/clinical/): Find veterinary handbooks, drug and analgesic references, and clinical pathology resources. These links support veterinary study and supervised clinical learning; they do not replace professional judgement or a current prescribing reference.
+  - Markdown: https://notes.thatvetguy.net/clinical/index.md
+- [About Notes.ThatVetGuy](https://notes.thatvetguy.net/about/): Notes.ThatVetGuy is a free academic resource directory for BVSc & AH students. It brings together credited study links, original subject outlines and practical tools within the ThatVetGuy ecosystem.
+  - Markdown: https://notes.thatvetguy.net/about/index.md
+- [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
+  - Markdown: https://notes.thatvetguy.net/request-resource/index.md
+- [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/): Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-anatomy/index.md
+- [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/): Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-physiology/index.md
+- [Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/): Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
+  - Markdown: https://notes.thatvetguy.net/bvsc/livestock-production-management/index.md
+- [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/): Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/index.md
+- [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/): Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-microbiology/index.md
+- [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/): Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-pathology/index.md
+- [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/): Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
+  - Markdown: https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/index.md
+- [Animal Nutrition](https://notes.thatvetguy.net/bvsc/animal-nutrition/): Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+  - Markdown: https://notes.thatvetguy.net/bvsc/animal-nutrition/index.md
+- [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/): Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/index.md
+- [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/): Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-parasitology/index.md
+- [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/): Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/index.md
+- [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/): Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
+  - Markdown: https://notes.thatvetguy.net/bvsc/livestock-products-technology/index.md
+- [Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/): Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/index.md
+- [Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/): Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/index.md
+- [Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/livestock-farm-practices/): Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
+  - Markdown: https://notes.thatvetguy.net/bvsc/livestock-farm-practices/index.md
+- [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/): Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-medicine/index.md
+- [Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/): Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/index.md
+- [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/): Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/index.md
+- [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/): Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
+  - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/index.md
+
+## Machine retrieval
+
+- Full visible page content: https://notes.thatvetguy.net/llms-full.txt
+- Resource index: https://notes.thatvetguy.net/search-index.json
+- Sitemap: https://notes.thatvetguy.net/sitemap.xml
+- Search (noindex): https://notes.thatvetguy.net/search/
 
 ## Community
 
-- [Backbenchers short notes](https://t.me/vetshortnotesbytvg): Concise veterinary notes for objective questions and short answers.
-- [Veterinary job updates](https://t.me/jobupdatesbytvg): Government, private, internship and veterinary job updates.
-
-Contact: contact@thatvetguy.net
+- Short notes: https://t.me/vetshortnotesbytvg
+- Jobs: https://t.me/jobupdatesbytvg
+- Requests and contact: https://notes.thatvetguy.net/request-resource/

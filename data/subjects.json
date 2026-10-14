@@ -5,7 +5,19 @@
     "notesIds": [
       "subject-notes-vetscraft"
     ],
-    "booksId": "year-1-books"
+    "booksId": "year-1-books",
+    "summary": "Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.",
+    "topics": [
+      "Osteology and arthrology",
+      "Myology and visceral anatomy",
+      "Neuroanatomy and sense organs",
+      "Histology and embryology"
+    ],
+    "studyTip": "Use labelled diagrams to compare the same structure between species, then explain its functional significance.",
+    "related": [
+      "Veterinary Physiology",
+      "Livestock Production Management"
+    ]
   },
   "Veterinary Physiology": {
     "year": 1,
@@ -13,7 +25,19 @@
     "notesIds": [
       "subject-notes-vetscraft-15"
     ],
-    "booksId": "year-1-books"
+    "booksId": "year-1-books",
+    "summary": "Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.",
+    "topics": [
+      "Blood and cardiovascular physiology",
+      "Respiratory and renal physiology",
+      "Digestion and metabolism",
+      "Endocrine and reproductive physiology"
+    ],
+    "studyTip": "Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.",
+    "related": [
+      "Veterinary Anatomy",
+      "Livestock Production Management"
+    ]
   },
   "Livestock Production Management": {
     "year": 1,
@@ -21,7 +45,19 @@
     "notesIds": [
       "subject-notes-vets-duo"
     ],
-    "booksId": "year-1-books"
+    "booksId": "year-1-books",
+    "summary": "Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.",
+    "topics": [
+      "Housing and animal handling",
+      "Cattle and buffalo management",
+      "Sheep and goat management",
+      "Poultry production and farm records"
+    ],
+    "studyTip": "Compare management requirements by species, age and production stage, with welfare and daily observation in view.",
+    "related": [
+      "Veterinary Anatomy",
+      "Veterinary Physiology"
+    ]
   },
   "Veterinary Biochemistry": {
     "year": 2,
@@ -29,7 +65,20 @@
     "notesIds": [
       "subject-notes-vets-duo-17"
     ],
-    "booksId": "year-2-books"
+    "booksId": "year-2-books",
+    "summary": "Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.",
+    "topics": [
+      "Carbohydrate, lipid and protein metabolism",
+      "Enzymes and biological oxidation",
+      "Vitamins and minerals",
+      "Molecular biology and biochemical tests"
+    ],
+    "studyTip": "Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.",
+    "related": [
+      "Veterinary Microbiology",
+      "Veterinary Pathology",
+      "Animal Genetics and Breeding"
+    ]
   },
   "Veterinary Microbiology": {
     "year": 2,
@@ -37,7 +86,20 @@
     "notesIds": [
       "subject-notes-vets-duo-19"
     ],
-    "booksId": "year-2-books"
+    "booksId": "year-2-books",
+    "summary": "Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.",
+    "topics": [
+      "Bacteriology and mycology",
+      "Veterinary virology",
+      "Immunology",
+      "Microbial genetics and biotechnology"
+    ],
+    "studyTip": "Compare each agent by classification, transmission and laboratory identification while keeping species context clear.",
+    "related": [
+      "Veterinary Biochemistry",
+      "Veterinary Pathology",
+      "Animal Genetics and Breeding"
+    ]
   },
   "Veterinary Pathology": {
     "year": 2,
@@ -45,7 +107,20 @@
     "notesIds": [
       "subject-notes-vets-duo-19"
     ],
-    "booksId": "year-2-books"
+    "booksId": "year-2-books",
+    "summary": "Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.",
+    "topics": [
+      "Cell injury and inflammation",
+      "Circulatory disturbances",
+      "Systemic pathology",
+      "Necropsy and diagnostic sampling"
+    ],
+    "studyTip": "Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.",
+    "related": [
+      "Veterinary Biochemistry",
+      "Veterinary Microbiology",
+      "Animal Genetics and Breeding"
+    ]
   },
   "Animal Genetics and Breeding": {
     "year": 2,
@@ -53,7 +128,20 @@
     "notesIds": [
       "subject-notes-vets-duo-20"
     ],
-    "booksId": "year-2-books"
+    "booksId": "year-2-books",
+    "summary": "Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.",
+    "topics": [
+      "Mendelian and molecular genetics",
+      "Population and quantitative genetics",
+      "Selection and breeding systems",
+      "Animal breeding programmes"
+    ],
+    "studyTip": "Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.",
+    "related": [
+      "Veterinary Biochemistry",
+      "Veterinary Microbiology",
+      "Veterinary Pathology"
+    ]
   },
   "Animal Nutrition": {
     "year": 2,
@@ -61,7 +149,20 @@
     "notesIds": [
       "subject-notes-vets-duo-21"
     ],
-    "booksId": "year-2-books"
+    "booksId": "year-2-books",
+    "summary": "Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.",
+    "topics": [
+      "Feed evaluation and digestion",
+      "Energy and protein nutrition",
+      "Minerals and vitamins",
+      "Ration formulation and species feeding"
+    ],
+    "studyTip": "Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.",
+    "related": [
+      "Veterinary Biochemistry",
+      "Veterinary Microbiology",
+      "Veterinary Pathology"
+    ]
   },
   "Veterinary Pharmacology and Toxicology": {
     "year": 3,
@@ -69,7 +170,20 @@
     "notesIds": [
       "subject-notes-vetscraft-22"
     ],
-    "booksId": "year-3-books"
+    "booksId": "year-3-books",
+    "summary": "Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.",
+    "topics": [
+      "General pharmacology and pharmacokinetics",
+      "Systemic pharmacology",
+      "Antimicrobial and antiparasitic agents",
+      "Toxicology and poisoning principles"
+    ],
+    "studyTip": "Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.",
+    "related": [
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology",
+      "Livestock Products Technology"
+    ]
   },
   "Veterinary Parasitology": {
     "year": 3,
@@ -77,7 +191,20 @@
     "notesIds": [
       "subject-notes-vetscraft-24"
     ],
-    "booksId": "year-3-books"
+    "booksId": "year-3-books",
+    "summary": "Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.",
+    "topics": [
+      "Helminthology",
+      "Veterinary protozoology",
+      "Veterinary entomology and acarology",
+      "Parasitological diagnosis and control"
+    ],
+    "studyTip": "Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.",
+    "related": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Public Health and Epidemiology",
+      "Livestock Products Technology"
+    ]
   },
   "Veterinary Public Health and Epidemiology": {
     "year": 3,
@@ -85,7 +212,20 @@
     "notesIds": [
       "subject-notes-vets-duo-25"
     ],
-    "booksId": "year-3-books"
+    "booksId": "year-3-books",
+    "summary": "Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.",
+    "topics": [
+      "Zoonoses and One Health",
+      "Food safety and hygiene",
+      "Measures of disease frequency",
+      "Disease investigation and prevention"
+    ],
+    "studyTip": "Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.",
+    "related": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Livestock Products Technology"
+    ]
   },
   "Livestock Products Technology": {
     "year": 3,
@@ -93,7 +233,20 @@
     "notesIds": [
       "subject-notes-vets-duo-25"
     ],
-    "booksId": "year-3-books"
+    "booksId": "year-3-books",
+    "summary": "Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.",
+    "topics": [
+      "Milk processing and dairy products",
+      "Meat science and meat products",
+      "Poultry and egg products",
+      "By-products, quality and preservation"
+    ],
+    "studyTip": "Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.",
+    "related": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology"
+    ]
   },
   "Veterinary and Animal Husbandry Extension Education": {
     "year": 3,
@@ -101,7 +254,20 @@
     "notesIds": [
       "subject-notes-vets-duo-25"
     ],
-    "booksId": "year-3-books"
+    "booksId": "year-3-books",
+    "summary": "Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.",
+    "topics": [
+      "Extension principles and teaching methods",
+      "Rural sociology and communication",
+      "Programme planning and evaluation",
+      "Livestock entrepreneurship and advisory services"
+    ],
+    "studyTip": "Match the communication method to the audience and explain how you would assess whether the advice was understood.",
+    "related": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology"
+    ]
   },
   "Veterinary Clinical Practices I": {
     "year": 3,
@@ -109,7 +275,20 @@
     "notesIds": [
       "practical-manuals-vet-study"
     ],
-    "booksId": "year-3-books"
+    "booksId": "year-3-books",
+    "summary": "Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.",
+    "topics": [
+      "History taking and clinical examination",
+      "Animal handling and hospital routines",
+      "Diagnostic sample collection principles",
+      "Clinical records and case discussion"
+    ],
+    "studyTip": "Practise clear histories and structured records under supervision, keeping observation separate from interpretation.",
+    "related": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology"
+    ]
   },
   "Livestock Farm Practices": {
     "year": 3,
@@ -117,7 +296,20 @@
     "notesIds": [
       "practical-manuals-vet-study"
     ],
-    "booksId": null
+    "booksId": null,
+    "summary": "Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.",
+    "topics": [
+      "Routine animal care and handling",
+      "Feeding and housing observations",
+      "Farm records and production monitoring",
+      "Farm hygiene and welfare"
+    ],
+    "studyTip": "Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.",
+    "related": [
+      "Veterinary Pharmacology and Toxicology",
+      "Veterinary Parasitology",
+      "Veterinary Public Health and Epidemiology"
+    ]
   },
   "Veterinary Medicine": {
     "year": 4,
@@ -125,7 +317,20 @@
     "notesIds": [
       "subject-notes-vetscraft-27"
     ],
-    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books",
+    "summary": "Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.",
+    "topics": [
+      "General and systemic medicine",
+      "Infectious and metabolic diseases",
+      "Preventive medicine and herd health",
+      "Diagnostic reasoning and case management"
+    ],
+    "studyTip": "Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.",
+    "related": [
+      "Veterinary Surgery and Radiology",
+      "Veterinary Gynaecology and Obstetrics",
+      "Veterinary Clinical Practices II"
+    ]
   },
   "Veterinary Surgery and Radiology": {
     "year": 4,
@@ -133,7 +338,20 @@
     "notesIds": [
       "subject-notes-vetscraft-28"
     ],
-    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books",
+    "summary": "Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.",
+    "topics": [
+      "Asepsis and surgical principles",
+      "Anaesthesiology and pain management",
+      "Soft tissue surgery and orthopaedics",
+      "Radiography and other imaging principles"
+    ],
+    "studyTip": "Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.",
+    "related": [
+      "Veterinary Medicine",
+      "Veterinary Gynaecology and Obstetrics",
+      "Veterinary Clinical Practices II"
+    ]
   },
   "Veterinary Gynaecology and Obstetrics": {
     "year": 4,
@@ -141,7 +359,20 @@
     "notesIds": [
       "subject-notes-vetscraft-29"
     ],
-    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books",
+    "summary": "Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.",
+    "topics": [
+      "Reproductive cycles and breeding",
+      "Infertility and reproductive disorders",
+      "Pregnancy and parturition",
+      "Obstetrics, andrology and assisted reproduction"
+    ],
+    "studyTip": "Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.",
+    "related": [
+      "Veterinary Medicine",
+      "Veterinary Surgery and Radiology",
+      "Veterinary Clinical Practices II"
+    ]
   },
   "Veterinary Clinical Practices II": {
     "year": 4,
@@ -149,6 +380,19 @@
     "notesIds": [
       "practical-manuals-vet-study"
     ],
-    "booksId": "vets-duo-veterinary-surgery-and-radiology-books"
+    "booksId": "vets-duo-veterinary-surgery-and-radiology-books",
+    "summary": "Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.",
+    "topics": [
+      "Clinical examination and diagnostic planning",
+      "Medical and surgical case discussions",
+      "Reproductive case assessment",
+      "Hospital records and clinical communication"
+    ],
+    "studyTip": "Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.",
+    "related": [
+      "Veterinary Medicine",
+      "Veterinary Surgery and Radiology",
+      "Veterinary Gynaecology and Obstetrics"
+    ]
   }
 }

@@ -26,7 +26,7 @@ def check(url):
 if __name__=='__main__':
  ap=argparse.ArgumentParser();ap.add_argument('--output',default='docs/qa/links.json');args=ap.parse_args();p=Links()
  for file in ROOT.rglob('index.html'):
-  if not any(part in file.parts for part in ['shared','scratch','library-files']):p.feed(file.read_text())
+  if not any(part in file.parts for part in ['shared','scratch','library-files','node_modules']):p.feed(file.read_text())
  with ThreadPoolExecutor(max_workers=8) as pool:results=list(pool.map(check,sorted(p.urls)))
  target=ROOT/args.output;target.parent.mkdir(parents=True,exist_ok=True);target.write_text(json.dumps(results,indent=2)+'\n')
  counts={kind:sum(r['result']==kind for r in results) for kind in ['ok','redirect','http-error','unverified']};print(counts)

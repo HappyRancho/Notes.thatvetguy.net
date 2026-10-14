@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Check static HTML, crawl paths, structured data and contrast before publishing."""
 from html.parser import HTMLParser
+from html import escape
 from pathlib import Path
 from urllib.parse import urlsplit, unquote
 from urllib.robotparser import RobotFileParser
@@ -33,7 +34,7 @@ class Page(HTMLParser):
 
 pages={}
 for path in ROOT.rglob('index.html'):
-    if any(part in path.parts for part in ['shared','scratch','library-files']):continue
+    if any(part in path.parts for part in ['shared','scratch','library-files','node_modules']):continue
     parser=Page(path.relative_to(ROOT));parser.feed(path.read_text());pages[path]=parser
     assert parser.h1==1,(path,'Expected one H1')
     assert parser.jsons and parser.jsons[0]['@context']=='https://schema.org'
@@ -99,3 +100,53 @@ for label,fg,bg in pairs:
     lo,hi=sorted([luminance(fg),luminance(bg)]);ratio=(hi+.05)/(lo+.05)
     assert ratio>=4.5,(label,ratio);ratios.append(ratio)
 print(f'PASS: {len(pages)} pages; preserved homepage copy/flow, year subjects and book names; credited Notes/Books sources; local links and anchors; JSON-LD; sitemap; crawler access; {len(pairs)} contrast pairs (minimum {min(ratios):.2f}:1).')
+
+# Discovery and content acceptance checks that do not pretend to render CSS.
+import re,gzip
+from datetime import date
+from struct import unpack
+from collections import Counter
+catalogue=json.loads((ROOT/'data/catalogue.json').read_text())
+urls=[r['url'] for r in catalogue if r['url']]
+assert len(urls)==len(set(urls)),'Duplicate canonical resources'
+collections=data['collections']
+for rid in ['zotero','cornell-eclinpath']:
+ assert sum(rid in c.get('resourceIds',[]) for c in collections.values())==1,(rid,'Repeated in multiple collections')
+for path,page in pages.items():
+ raw=path.read_text();outline=[int(h) for h in re.findall(r'<h([1-6])(?:\s|>)',raw)]
+ previous=0
+ for h in outline:
+  assert h<=previous+1,(path,'Skipped heading level',previous,h)
+  previous=h
+ assert not re.search(r'<h[1-6][^>]*>Explore\.',raw),'Navigation title must not be a heading'
+ for attrs in re.findall(r'<a\b([^>]*)>',raw):
+  a=dict(re.findall(r'([\w-]+)="([^"]*)"',attrs));url=a.get('href','')
+  external=url.startswith(('https://','http://')) and not url.startswith('https://notes.thatvetguy.net/')
+  if external:assert a.get('target')=='_blank' and {'noopener','noreferrer'}<=set(a.get('rel','').split()),(path,url,'Unsafe external link')
+  else:assert 'target' not in a,(path,url,'Internal link opens a tab')
+ assert path.with_suffix('.md').exists(),(path,'Missing Markdown mirror')
+ assert '<meta property="og:image:width" content="1200">' in raw
+ social=re.search(r'property="og:image" content="https://notes.thatvetguy.net([^"]+)"',raw)[1]
+ image=(ROOT/social.lstrip('/')).read_bytes();start=image.index(b'\x9d\x01\x2a')+3
+ assert tuple(v&16383 for v in unpack('<HH',image[start:start+4]))==(1200,630)
+ graph=page.jsons[0]['@graph'];types={g['@type'] for g in graph}
+ assert {'WebSite','Organization','Person','FAQPage'}<=types,(path,'Missing schema entities')
+ if path!=ROOT/'index.html':assert 'BreadcrumbList' in types
+ for entity in graph:
+  if entity['@type']=='FAQPage':
+   for q in entity['mainEntity']:assert q['name'] in raw or escape(q['name']) in raw
+  if entity['@type']=='LearningResource':assert all(entity.get(k) for k in ['educationalLevel','teaches','inLanguage','isBasedOn'])
+for subject,m in subjects.items():
+ assert 40<=len(m['summary'].split())<=80,(subject,'Summary word count')
+ slug=re.sub(r'[^a-z0-9]+','-',subject.lower()).strip('-')
+ assert (ROOT/'bvsc'/slug/'index.html').exists()
+ assert len(m['topics'])>=4
+for item in sitemap.findall('s:url',ns):date.fromisoformat(item.find('s:lastmod',ns).text)
+for bot in ['GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','PerplexityBot','Google-Extended','Applebot-Extended','CCBot']:
+ assert rp.can_fetch(bot,'https://notes.thatvetguy.net/bvsc/')
+assert 'content="noindex,follow"' in (ROOT/'search/index.html').read_text()
+for p in ['pharmacology','haemonchus','nsaids','surgery-books']:assert 'preset-'+p in pages[ROOT/'search/index.html'].ids
+assert (ROOT/'llms-full.txt').stat().st_size>20000
+runtime=sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['theme.js','logic.js','site.js'])
+assert runtime<60000,('Runtime JS exceeds budget',runtime)
+print(f'PASS: heading outlines, external attributes, 27 Markdown mirrors/social dimensions/schema entities, 19 original subject summaries, unique catalogue URLs, no-JS preset anchors, sitemap dates; runtime JS {runtime} bytes gzip.')

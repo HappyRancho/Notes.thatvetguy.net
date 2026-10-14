@@ -94,7 +94,7 @@
     "title": "Veterinary NSAID reference",
     "subject": "",
     "year": null,
-    "type": "Reference",
+    "type": "Drug",
     "source": "Merck Veterinary Manual",
     "url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
     "description": "Nonsteroidal anti-inflammatory drugs in the Merck Veterinary Manual.",
@@ -113,7 +113,7 @@
     "title": "Analgesics used in animals",
     "subject": "",
     "year": null,
-    "type": "Reference",
+    "type": "Drug",
     "source": "Merck Veterinary Manual",
     "url": "https://www.merckvetmanual.com/therapeutics/pain-assessment-and-management/analgesics-used-in-animals",
     "description": "Professional reference information, including meloxicam.",
@@ -203,7 +203,7 @@
   },
   {
     "id": "subject-notes-vetscraft",
-    "title": "Subject notes · Vetscraft",
+    "title": "Veterinary Anatomy notes",
     "subject": "Veterinary Anatomy",
     "year": 1,
     "type": "Note",
@@ -231,7 +231,7 @@
   },
   {
     "id": "subject-notes-vetscraft-15",
-    "title": "Subject notes · Vetscraft",
+    "title": "Veterinary Physiology notes",
     "subject": "Veterinary Physiology",
     "year": 1,
     "type": "Note",
@@ -244,7 +244,7 @@
   },
   {
     "id": "subject-notes-vets-duo",
-    "title": "Subject notes · Vets Duo",
+    "title": "Livestock Production Management notes",
     "subject": "Livestock Production Management",
     "year": 1,
     "type": "Note",
@@ -257,7 +257,7 @@
   },
   {
     "id": "subject-notes-vets-duo-17",
-    "title": "Subject notes · Vets Duo",
+    "title": "Veterinary Biochemistry notes",
     "subject": "Veterinary Biochemistry",
     "year": 2,
     "type": "Note",
@@ -285,20 +285,20 @@
   },
   {
     "id": "subject-notes-vets-duo-19",
-    "title": "Subject notes · Vets Duo",
-    "subject": "Veterinary Microbiology",
+    "title": "2nd Year subject notes",
+    "subject": "Veterinary Microbiology and Veterinary Pathology",
     "year": 2,
     "type": "Note",
     "source": "Vets Duo",
     "url": "https://www.vetsduo.com/pages/notes2.html",
-    "description": "Second-year notes include bacteriology, mycology, biotechnology, immunology and virology.",
+    "description": "Second-year notes collection; choose microbiology or pathology and the relevant unit on the source page.",
     "lastVerified": "2026-10-14",
     "verification": "Source-page review; HTTP availability unverified in this environment.",
     "aliases": []
   },
   {
     "id": "subject-notes-vets-duo-20",
-    "title": "Subject notes · Vets Duo",
+    "title": "Animal Genetics and Breeding notes",
     "subject": "Animal Genetics and Breeding",
     "year": 2,
     "type": "Note",
@@ -311,7 +311,7 @@
   },
   {
     "id": "subject-notes-vets-duo-21",
-    "title": "Subject notes · Vets Duo",
+    "title": "Animal Nutrition notes",
     "subject": "Animal Nutrition",
     "year": 2,
     "type": "Note",
@@ -324,7 +324,7 @@
   },
   {
     "id": "subject-notes-vetscraft-22",
-    "title": "Subject notes · Vetscraft",
+    "title": "Veterinary Pharmacology and Toxicology notes",
     "subject": "Veterinary Pharmacology and Toxicology",
     "year": 3,
     "type": "Note",
@@ -358,7 +358,7 @@
   },
   {
     "id": "subject-notes-vetscraft-24",
-    "title": "Subject notes · Vetscraft",
+    "title": "Veterinary Parasitology notes",
     "subject": "Veterinary Parasitology",
     "year": 3,
     "type": "Note",
@@ -371,7 +371,7 @@
   },
   {
     "id": "subject-notes-vets-duo-25",
-    "title": "Subject notes · Vets Duo",
+    "title": "Veterinary Public Health and Epidemiology notes",
     "subject": "Veterinary Public Health and Epidemiology",
     "year": 3,
     "type": "Note",
@@ -397,7 +397,7 @@
   },
   {
     "id": "subject-notes-vetscraft-27",
-    "title": "Subject notes · Vetscraft",
+    "title": "Veterinary Medicine notes",
     "subject": "Veterinary Medicine",
     "year": 4,
     "type": "Note",
@@ -410,7 +410,7 @@
   },
   {
     "id": "subject-notes-vetscraft-28",
-    "title": "Subject notes · Vetscraft",
+    "title": "Veterinary Surgery and Radiology notes",
     "subject": "Veterinary Surgery and Radiology",
     "year": 4,
     "type": "Note",
@@ -423,7 +423,7 @@
   },
   {
     "id": "subject-notes-vetscraft-29",
-    "title": "Subject notes · Vetscraft",
+    "title": "Veterinary Gynaecology and Obstetrics notes",
     "subject": "Veterinary Gynaecology and Obstetrics",
     "year": 4,
     "type": "Note",

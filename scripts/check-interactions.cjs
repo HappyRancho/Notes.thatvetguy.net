@@ -8,6 +8,7 @@ assert.equal(find('doesnotexist-948839',index).length,0);
 assert.ok(find('veterinary pharmacology',index).some(r=>r.title.includes('Pharmacology')));
 const bad=store({getItem(){throw Error('blocked')},setItem(){throw Error('blocked')}});
 assert.deepEqual(bad.read('saved',[]),[]);assert.equal(bad.write('saved',['one']),false);assert.deepEqual(bad.read('saved',[]),['one']);
+const readonly=store({getItem(){return null},setItem(){throw Error('quota')}});readonly.write('saved',['one']);assert.deepEqual(readonly.read('saved',[]),['one']);
 const values=new Map();const good=store({getItem:k=>values.get(k),setItem:(k,v)=>values.set(k,v)});
 assert.equal(good.write('studied',['anatomy']),true);assert.deepEqual(good.read('studied',[]),['anatomy']);values.set('studied','bad json');assert.deepEqual(good.read('studied',[]),['anatomy']);
 console.log('PASS: production search normalization, multiword/preset/empty queries and storage recovery. Browser interaction assertions are in qa-browser.mjs.');

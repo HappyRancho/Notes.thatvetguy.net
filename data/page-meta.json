@@ -1,0 +1,98 @@
+{
+  "/": {
+    "summary": "Free academic resources, thoughtfully made for future vets. Find BVSc notes, books, PYQs, study tools and clinical references in one place.",
+    "faq": [
+      [
+        "Are the resources hosted here?",
+        "Notes.ThatVetGuy organises links to credited external sources. Availability, downloads and access terms belong to each source."
+      ],
+      [
+        "Where should I start?",
+        "Choose your professional year in BVSc Notes & Books, or search for a subject, book or clinical reference."
+      ]
+    ]
+  },
+  "/bvsc/": {
+    "summary": "Find subject-wise BVSc & AH notes and shared book collections across four professional years. Choose a subject to see credited sources, a revision outline and related subjects.",
+    "faq": [
+      [
+        "Does this grouping match my university?",
+        "Year grouping may vary by university. Check your syllabus before planning revision."
+      ],
+      [
+        "Where are the books?",
+        "Each year has one shared Books for Year collection. Subject Notes and Books tabs point to the relevant material without repeating the same book directory."
+      ]
+    ]
+  },
+  "/objective/": {
+    "summary": "Find ICAR AIEEA (PG) previous-year papers, subject-wise objective questions and veterinary objective book listings. These resources help veterinary students plan exam revision using credited external collections.",
+    "faq": [
+      [
+        "Where can I find ICAR AIEEA PG previous-year papers?",
+        "The ICAR PYQ Question Bank section links to the year-wise Vet Study collection. Select the paper and exam year on that source website."
+      ],
+      [
+        "Are the objective books available to download?",
+        "The five named book entries are marked Coming soon because individual book links have not been verified. You can request a specific title or edition."
+      ]
+    ]
+  },
+  "/study-tools/": {
+    "summary": "Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.",
+    "faq": [
+      [
+        "Can I use AI as a clinical reference?",
+        "Use AI to help organise study, not to make clinical decisions. Check veterinary facts, citations and drug information against original professional references."
+      ],
+      [
+        "Are these tools all subscription-free?",
+        "The free-app listings describe free tools; access conditions can change. Check the source website for current licensing and availability."
+      ]
+    ]
+  },
+  "/clinical/": {
+    "summary": "Find veterinary handbooks, drug and analgesic references, and clinical pathology resources. These links support veterinary study and supervised clinical learning; they do not replace professional judgement or a current prescribing reference.",
+    "faq": [
+      [
+        "Is this a complete veterinary drug index?",
+        "No. Drug & Analgesic References currently links to Merck material on NSAIDs and analgesics, rather than individual locally maintained drug monographs."
+      ],
+      [
+        "Where can I study veterinary clinical pathology?",
+        "Other Clinical Resources includes Cornell eClinPath, an online clinical pathology textbook covering test interpretation, haematology and chemistry."
+      ]
+    ]
+  },
+  "/search/": {
+    "summary": "Search veterinary notes, books, objective resources, drugs and handbooks by topic or subject. Veterinary students can also use the preset topic links below without JavaScript.",
+    "faq": [
+      [
+        "Can I browse without JavaScript?",
+        "Yes. The four Try links lead to static topic results, and each category has a complete HTML listing. Full query matching requires JavaScript."
+      ]
+    ]
+  },
+  "/about/": {
+    "summary": "Notes.ThatVetGuy is a free academic resource directory for BVSc & AH students. It brings together credited study links, original subject outlines and practical tools within the ThatVetGuy ecosystem.",
+    "faq": [
+      [
+        "Who writes the original guides?",
+        "Original site guides and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. External notes, books and references retain their source credit."
+      ]
+    ]
+  },
+  "/request-resource/": {
+    "summary": "Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.",
+    "faq": [
+      [
+        "How do I report a broken link?",
+        "Email contact@thatvetguy.net with the page URL and resource name. The visible email address can be copied if your email application does not open."
+      ],
+      [
+        "Can I contribute a resource?",
+        "Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute."
+      ]
+    ]
+  }
+}
