@@ -137,7 +137,7 @@ Beyond the classroom
 
 Government, private, internship and veterinary job updates — gathered in one place.
 
-[Follow Job Updates on Telegram ](https://t.me/jobupdatesbytvg)
+[Follow Job Updates ](https://t.me/jobupdatesbytvg)
 
 ## Can’t find what you need?
 
