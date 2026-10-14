@@ -22,7 +22,7 @@ Date: 2026-10-14. Repository: HappyRancho/Notes.thatvetguy.net. Existing static 
 | Canonical external resource duplication | No duplicate catalogue URLs; Zotero/eClinPath each in one category |
 | Light/dark representative text contrast | 34 pairs pass; minimum 4.86:1 |
 | Production search/storage unit checks | Pass, including empty/preset/multiword/corrupt/blocked/quota-limited cases |
-| Runtime JavaScript | 6,048 bytes gzip |
+| Runtime JavaScript | 6,125 bytes gzip |
 | Display font | 29,708-byte self-hosted Latin-subset WOFF, swap, one preload |
 | Static no-JS preset destinations | Four present, linked to real source cards |
 | Social previews | Eight WebP files, all 1200×630 |
@@ -30,7 +30,7 @@ Date: 2026-10-14. Repository: HappyRancho/Notes.thatvetguy.net. Existing static 
 
 ## Browser measurements
 
-The sandbox blocked local HTTP sockets/Chromium and could not install Lighthouse/axe. The before baseline source defects were logged before fixes in [baseline.md](baseline.md), with all 80 requested viewport/theme runs marked blocked. A GitHub Actions runner can execute these measurements and is running the after matrix. A separate job now checks the untouched baseline commit with the same audit tooling. The initial P2 CI run failed because the checker included dependency sample HTML; that audit-scope bug is fixed.
+The sandbox blocked local HTTP sockets/Chromium and could not install Lighthouse/axe. GitHub Actions provides the browser-capable runner. The source defects were logged before fixes in [baseline.md](baseline.md). Local measurements were blocked, then GitHub Actions completed a genuine 80-viewport/16-Lighthouse run against the untouched baseline commit; see measured-baseline.json. A GitHub Actions runner can execute these measurements and is running the after matrix. A separate job now checks the untouched baseline commit with the same audit tooling. The initial P2 CI run failed because the checker included dependency sample HTML; that audit-scope bug is fixed.
 
 | Page | Before P/A/BP/SEO | After P/A/BP/SEO |
 |---|---|---|

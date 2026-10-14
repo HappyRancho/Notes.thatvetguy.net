@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-14",
+  "run": "https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/38580978716",
+  "results": [
+    {
+      "url": "https://blog.thatvetguy.net",
+      "status": 200,
+      "finalUrl": "https://blog.thatvetguy.net",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://eclinpath.com/",
+      "status": 200,
+      "finalUrl": "https://eclinpath.com/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://mozilla.github.io/pdf.js/",
+      "status": 206,
+      "finalUrl": "https://mozilla.github.io/pdf.js/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://t.me/jobupdatesbytvg",
+      "status": 200,
+      "finalUrl": "https://t.me/jobupdatesbytvg",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://t.me/vetshortnotesbytvg",
+      "status": 200,
+      "finalUrl": "https://t.me/vetshortnotesbytvg",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://thatvetguy.net",
+      "status": 200,
+      "finalUrl": "https://www.thatvetguy.net/",
+      "redirects": [
+        {
+          "status": 301,
+          "to": "https://www.thatvetguy.net/"
+        }
+      ],
+      "result": "redirect"
+    },
+    {
+      "url": "https://vetstudy.journeywithasr.com/p/previous-years-icar-aieea-question.html",
+      "status": 429,
+      "result": "http-error",
+      "redirects": [
+        {
+          "status": 302,
+          "to": "https://www.google.com/sorry/index?continue=https://vetstudy.journeywithasr.com/p/previous-years-icar-aieea-question.html&q=EgSs1i30GPujvtYGIi2WoVa6KGoex4vt0nyLPCqTA_kUZ2QHmWd-QZPkejofuMlGOiGJbNfLIn0xr9AyAnJSWgFD"
+        }
+      ]
+    },
+    {
+      "url": "https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html",
+      "status": 429,
+      "result": "http-error",
+      "redirects": [
+        {
+          "status": 302,
+          "to": "https://www.google.com/sorry/index?continue=https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html&q=EgSs1i30GPujvtYGIi3iwbrdQeDv-mDqM3cn8MwjHeqJALxBzmNNQqhKqVGYnGyvMIRkp8shBdhX4FQyAnJSWgFD"
+        }
+      ]
+    },
+    {
+      "url": "https://vetstudy.journeywithasr.com/p/veterinary-question-banks-pdf.html",
+      "status": 429,
+      "result": "http-error",
+      "redirects": [
+        {
+          "status": 302,
+          "to": "https://www.google.com/sorry/index?continue=https://vetstudy.journeywithasr.com/p/veterinary-question-banks-pdf.html&q=EgSs1i30GPujvtYGIi2YJjmBIsuXj7AF0sxXNOeHZeLGtmVXah75nxoeYJj2-T0IBZSUy2wSkO-MRbgyAnJSWgFD"
+        }
+      ]
+    },
+    {
+      "url": "https://www.libreoffice.org/",
+      "status": 206,
+      "finalUrl": "https://www.libreoffice.org/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.merckvetmanual.com/",
+      "status": 206,
+      "finalUrl": "https://www.merckvetmanual.com/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "status": 206,
+      "finalUrl": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.merckvetmanual.com/therapeutics/pain-assessment-and-management/analgesics-used-in-animals",
+      "status": 206,
+      "finalUrl": "https://www.merckvetmanual.com/therapeutics/pain-assessment-and-management/analgesics-used-in-animals",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetlexicon.com/",
+      "status": 206,
+      "finalUrl": "https://www.vetlexicon.com/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/bvscah/veterinary-anatomy/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/bvscah/veterinary-anatomy/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/bvscah/veterinary-gynaecology-and-obstetrics/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/bvscah/veterinary-gynaecology-and-obstetrics/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/bvscah/veterinary-medicine/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/bvscah/veterinary-medicine/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/bvscah/veterinary-parasitology/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/bvscah/veterinary-parasitology/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/bvscah/veterinary-pharmacology/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/bvscah/veterinary-pharmacology/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/bvscah/veterinary-physiology/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/bvscah/veterinary-physiology/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/bvscah/veterinary-surgery-and-radiology/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/bvscah/veterinary-surgery-and-radiology/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetscraft.com/haemonchus-barbers-pole-worm/",
+      "status": 200,
+      "finalUrl": "https://www.vetscraft.com/haemonchus-barbers-pole-worm/",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/agbnotes.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/agbnotes.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/annnotes.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/annnotes.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/books1.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/books1.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/books2.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/books2.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/books3.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/books3.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/books4.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/books4.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/lpmnotes.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/lpmnotes.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/notes2.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/notes2.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/notes3.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/notes3.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.vetsduo.com/pages/vbcnotes.html",
+      "status": 206,
+      "finalUrl": "https://www.vetsduo.com/pages/vbcnotes.html",
+      "redirects": [],
+      "result": "ok"
+    },
+    {
+      "url": "https://www.zotero.org/",
+      "status": 200,
+      "finalUrl": "https://www.zotero.org/",
+      "redirects": [],
+      "result": "ok"
+    }
+  ]
+}
