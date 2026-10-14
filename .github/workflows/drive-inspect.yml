@@ -1,0 +1,14 @@
+name: Inspect supplied public Drive folders
+on: [push, workflow_dispatch]
+jobs:
+  inspect:
+    if: contains(github.event.head_commit.message, '[drive-inspect]') || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/inspect-public-drive.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: public-drive-inspection
+          path: docs/qa/task2-drive/
