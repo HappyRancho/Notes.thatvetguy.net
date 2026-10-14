@@ -23,6 +23,7 @@
   let scrollLock = null;
   let menuOpener = null;
   let resourceOpener = null;
+  let yearAnimation = null;
 
   function lockScroll() {
     if (scrollLock) return;
@@ -158,6 +159,8 @@
     });
   }
   function renderYear(year, animate = false) {
+    if (animate && selectedYear === Number(year)) return;
+    yearAnimation?.cancel();
     selectedYear = Number(year);
     $("#yearLabel").textContent = content.labels[year];
     $("#exploreYear").textContent = content.labels[year];
@@ -183,9 +186,12 @@
       subjects.append(button);
     });
     if (animate && !reduceMotion.matches) {
-      panel.classList.remove("changing");
-      void panel.offsetWidth;
-      panel.classList.add("changing");
+      if (typeof subjects.animate === "function") {
+        yearAnimation = subjects.animate(
+          [{ opacity: .65, transform: "translateY(4px)" }, { opacity: 1, transform: "translateY(0)" }],
+          { duration: 180, easing: "ease-out" }
+        );
+      }
     }
   }
   $$("[data-year]").forEach(tab => {
@@ -253,6 +259,7 @@
     visibleResults.forEach((item,index) => {
       const option = element("a","result");
       option.id = "suggestion-" + index;
+      option.dataset.type = item.type;
       option.setAttribute("role","option"); option.setAttribute("aria-selected","false"); option.tabIndex = -1;
       option.href = item.url || "#notes";
       if (item.url) { option.target="_blank";option.rel="noopener noreferrer"; }
@@ -297,18 +304,6 @@
   document.addEventListener("pointerdown", event => {if(!searchBox.contains(event.target))closeSearch();});
   document.addEventListener("focusin", event => {if(!searchBox.contains(event.target))closeSearch();});
 
-  const recentList=$("#recent-list");
-  content.recent.forEach(id => {
-    const item=content.resources.find(resource=>resource.id===id);
-    if (!item?.url) return;
-    const row=element("a","recent-row");
-    row.href=item.url;row.target="_blank";row.rel="noopener noreferrer";
-    const fresh=element("span","recent-new","NEW");
-    const copy=element("span","recent-copy");
-    copy.append(element("strong","",item.title),element("small","",item.subject + " · " + item.type));
-    const arrow=element("span","arrow","↗");arrow.setAttribute("aria-hidden","true");
-    row.append(fresh,copy,arrow);recentList.append(row);
-  });
   const onScroll=()=>$("#top").classList.toggle("scrolled",window.scrollY>12);
   window.addEventListener("scroll",onScroll,{passive:true});onScroll();
   if ("IntersectionObserver" in window && !reduceMotion.matches) {
@@ -320,3 +315,4 @@
   const query=new URLSearchParams(location.search).get("q");
   if(query){input.value=query;focusSearch();}
 })();
+
