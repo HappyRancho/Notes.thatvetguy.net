@@ -35,36 +35,20 @@ Subject-wise study material organised by professional year.
 
 [1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
 
-1st Year
-
-### Build your foundations.
-
 Anatomy, physiology and the essentials of animal care.
 
 [01Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/)[02Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/)[03Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/)
 3 subjects · notes & books[Explore 1st Year](https://notes.thatvetguy.net/bvsc/#year-1)
-
-2nd Year
-
-### Understand the science.
 
 From cells and disease to nutrition and animal breeding.
 
 [01Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)[02Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)[03Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)[04Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)[05Animal Nutrition](https://notes.thatvetguy.net/bvsc/animal-nutrition/)
 5 subjects · notes & books[Explore 2nd Year](https://notes.thatvetguy.net/bvsc/#year-2)
 
-3rd Year
-
-### Connect science with practice.
-
 Drugs, parasites, public health and production systems.
 
 [01Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)[02Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)[03Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)[04Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)[05Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/)[06Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/)[07Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/livestock-farm-practices/)
 7 subjects · notes & books[Explore 3rd Year](https://notes.thatvetguy.net/bvsc/#year-3)
-
-4th Year
-
-### Bring it all to the clinic.
 
 Medicine, surgery, reproduction and clinical practice.
 
@@ -76,27 +60,24 @@ Medicine, surgery, reproduction and clinical practice.
 PYQs, subject-wise objective material and important veterinary objective books.
 
 [
-01
 
 ### ICAR PYQ Question Bank
 
 Start with past papers. Find the patterns, focus your revision.
 
-Browse PYQs ](https://notes.thatvetguy.net/objective/#icar-pyq)[
-02
+](https://notes.thatvetguy.net/objective/#icar-pyq)[
 
 ### Subject-wise Objective Questions
 
 Practice the topics that matter most.
 
-Browse questions ](https://notes.thatvetguy.net/objective/#subject-wise)[
-03
+](https://notes.thatvetguy.net/objective/#subject-wise)[
 
 ### Objective Books
 
 A focused shelf of trusted exam books.
 
-Browse books ](https://notes.thatvetguy.net/objective/#books)
+](https://notes.thatvetguy.net/objective/#books)
 
 ## Tips & Tools for Vet Study
 
@@ -125,7 +106,7 @@ Small, thoughtful tools for a smoother study day.
 
 ](https://notes.thatvetguy.net/study-tools/#useful-tools)
 
-## Clinical  Resources
+## Clinical Resources
 
 A place for trusted handbooks and practical references. Keep the essentials close.
 
