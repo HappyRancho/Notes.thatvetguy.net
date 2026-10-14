@@ -4,23 +4,21 @@
 
 # About Notes.ThatVetGuy
 
-Notes.ThatVetGuy is a free academic resource directory for BVSc & AH students. It brings together credited study links, original subject outlines and practical tools within the ThatVetGuy ecosystem.
+Notes.ThatVetGuy is a free academic library for BVSc & AH students, organised around the supplied Google Drive collections. Original revision outlines and on-site study guides help you choose what to read next.
 
 ## A useful place to start
 
-Notes.ThatVetGuy brings together veterinary notes, books and study resources by professional year, subject and purpose. Browse notes and books, prepare with objective resources, find a clinical reference or explore a practical study tool.
+The library organises the supplied Google Drive files by professional year, subject and original folder group. File titles, sizes and dates come from the inspected source; known source credits are preserved.
 
-## How the library works
+## Original study guidance
 
-Current listings link to external libraries and professional references. A listing is not a claim that Notes.ThatVetGuy authored, medically reviewed or hosts that resource. Availability and access terms belong to the source website.
+Revision outlines and on-site study guides are written for veterinary students. Linked files retain their original authorship; inclusion is not a claim of medical review or ownership.
 
 ## Help improve the library
 
-Found a broken link, need a resource or want to contribute? Email [contact@thatvetguy.net](mailto:contact@thatvetguy.net). Please include the resource name, subject and source if you have one.
+Request a resource or report an error or takedown through the request page.
 
-## Part of ThatVetGuy
-
-[Main website ↗](https://thatvetguy.net) · [Blog ↗](https://blog.thatvetguy.net)
+[Request or report a resource](https://notes.thatvetguy.net/request-resource/)
 
 ## Questions, answered
 

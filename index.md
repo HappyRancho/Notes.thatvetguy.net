@@ -8,6 +8,8 @@ Search veterinary resources
 
 Suggested resources
 
+Searching the library…
+
 No match yet. [Request a resource →](https://notes.thatvetguy.net/request-resource/)
 
 Try [Pharmacology](https://notes.thatvetguy.net/search/#preset-pharmacology)[Haemonchus](https://notes.thatvetguy.net/search/#preset-haemonchus)[NSAIDs](https://notes.thatvetguy.net/search/#preset-nsaids)[Surgery books](https://notes.thatvetguy.net/search/#preset-surgery-books)
@@ -26,23 +28,23 @@ Subject-wise study material organised by professional year.
 
 Anatomy, physiology and the essentials of animal care.
 
-[01Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/)[02Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/)[03Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/)
-3 subjects · notes & books[Explore 1st Year](https://notes.thatvetguy.net/bvsc/#year-1)
+[01Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[02Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[03Livestock Production Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+3 subjects · notes & books[Explore 1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
 
 From cells and disease to nutrition and animal breeding.
 
-[01Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)[02Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)[03Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)[04Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)[05Animal Nutrition](https://notes.thatvetguy.net/bvsc/animal-nutrition/)
-5 subjects · notes & books[Explore 2nd Year](https://notes.thatvetguy.net/bvsc/#year-2)
+[01Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[02Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[03Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[04Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[05Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+5 subjects · notes & books[Explore 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
 
 Drugs, parasites, public health and production systems.
 
-[01Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)[02Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)[03Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)[04Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)[05Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/)[06Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/)[07Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/livestock-farm-practices/)
-7 subjects · notes & books[Explore 3rd Year](https://notes.thatvetguy.net/bvsc/#year-3)
+[01Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[02Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[03Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[04Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[05Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[06Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[07Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+7 subjects · notes & books[Explore 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Medicine, surgery, reproduction and clinical practice.
 
-[01Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)[02Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)[03Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)[04Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
-4 subjects · notes & books[Explore 4th Year](https://notes.thatvetguy.net/bvsc/#year-4)
+[01Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[02Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[03Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)[04Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
+4 subjects · notes & books[Explore 4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 
 Four years, one stethoscope, zero free weekends.
 
@@ -56,19 +58,19 @@ Past papers repeat. So should your revision.
 
 ### ICAR PYQ Question Bank
 
-Start with past papers. Find the patterns, focus your revision.
+1 files from the Drive library
 
 ](https://notes.thatvetguy.net/objective/#icar-pyq)[
 
 ### Subject-wise Objective Questions
 
-Practice the topics that matter most.
+32 files from the Drive library
 
 ](https://notes.thatvetguy.net/objective/#subject-wise)[
 
 ### Objective Books
 
-A focused shelf of trusted exam books.
+2 files from the Drive library
 
 ](https://notes.thatvetguy.net/objective/#books)
 
@@ -107,19 +109,19 @@ A place for trusted handbooks and practical references. Keep the essentials clos
 
 ### Handbooks
 
-Trusted references, close at hand.
+5 files from the Drive library
 
 ](https://notes.thatvetguy.net/clinical/#handbooks)[
 
 ### Drug & Analgesic References
 
-Find a veterinary drug reference.
+38 files from the Drive library
 
 ](https://notes.thatvetguy.net/clinical/#drug-index)[
 
 ### Other Clinical Resources
 
-Pathology and professional reading.
+274 files from the Drive library
 
 ](https://notes.thatvetguy.net/clinical/#other-resources)
 
@@ -141,7 +143,7 @@ A collection of concise veterinary short notes for objective questions and short
 
 Beyond the classroom
 
-## Veterinary opportunities, without the hunt.
+## Veterinary opportunities,  without the hunt.
 
 Government, private, internship and veterinary job updates — gathered in one place.
 

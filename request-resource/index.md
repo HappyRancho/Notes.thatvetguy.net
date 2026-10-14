@@ -8,23 +8,25 @@ Request a veterinary note, book, PYQ or useful study resource, or report a link 
 
 ## Tell us what would help
 
-Include the title or topic, your professional year and subject. For a book or PYQ, add the edition or exam year if you know it.
+Include the title or topic, subject, year and edition if relevant.
 
-[Email your request ](mailto:contact@thatvetguy.net?subject=Resource%20request&body=Resource%20or%20topic%3A%20%0ASubject%20and%20year%3A%20%0AEdition%20or%20exam%20year%3A%20%0ASource%20link%20if%20known%3A%20)
+File ID, if reporting a file
 
-Your email app will open. You can also write directly to [contact@thatvetguy.net](mailto:contact@thatvetguy.net). Requests help guide future additions; availability is not guaranteed.
+[Email your request](mailto:contact@thatvetguy.net?subject=Resource%20request)
+
+You can also write directly to contact@thatvetguy.net. If your email app does not open, copy the address into your preferred email service.
 
 ## Contact
 
-Email contact@thatvetguy.net. If your email app does not open, copy this address into your preferred email service.
+Send your question to contact@thatvetguy.net.
 
 ## Contribute a resource
 
-Send the title, subject and original source to contact@thatvetguy.net.
+Send the original title, subject and source credit. Share only material you have permission to contribute.
 
-## Report an Error
+## Report an error / takedown
 
-Send the page URL and the resource name to contact@thatvetguy.net so the link can be reviewed.
+Include the file ID or page URL, the issue and your preferred contact details. For a takedown request, explain your connection to the material so it can be reviewed.
 
 ## Questions, answered
 

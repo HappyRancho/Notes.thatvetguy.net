@@ -10,72 +10,76 @@ Explore practical AI study guidance, useful free apps and everyday study tools f
 
 ## Use of AI for Vet Study
 
-Use AI to help organise your work, while keeping your course materials as the source of truth.
+AI can help with the notes. You still have to read them.
 
 - 
 
-### Start with an outline
+### Start with your own outline
 
-Ask for a clear structure for a topic, presentation or revision plan.
-
-- 
-
-### Bring your own sources
-
-Work from your notes and check every fact, reference and citation.
+Ask AI to organise your topic list or suggest a revision structure. Compare the result with your syllabus and original notes.
 
 - 
 
-### Keep clinical decisions separate
+### Check before you learn
 
-AI-generated study text is not a substitute for professional clinical guidance.
+Verify veterinary facts, citations and drug information. A fluent answer can still be wrong; do not use AI output as a prescribing reference.
+
+- 
+
+### Turn reading into an explanation
+
+Draft a presentation outline or ask for simpler wording, then rewrite it in your own words and credit your sources.
 
 ## Useful Free Apps
 
-A small toolkit for writing, reading and organising references.
+Free apps, because a vet student's budget is already on a drip.
 
-Tool · Zotero
+- 
 
 ### Zotero
 
-Organise sources and build bibliographies.
+Keep reading references together and check every generated citation against the source.
 
-Source last checked: 2026-10-14
-
-[Read Zotero](https://www.zotero.org/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=zotero#report)
-
-Tool · LibreOffice
+- 
 
 ### LibreOffice
 
-Create documents, spreadsheets and presentations.
+Prepare notes, tables and presentations without a subscription. Keep editable copies as well as PDFs.
 
-Source last checked: 2026-10-14
+- 
 
-[Read LibreOffice](https://www.libreoffice.org/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=libreoffice#report)
+### A PDF reader
+
+Use bookmarks and text search in a reader you already have. Keep a small, clearly named offline folder for essential material.
 
 ## Useful Study Tools
 
-Useful starting points for working with references and PDF study material.
+- 
 
-Tool · Mozilla
+### Your phone’s document scanner
 
-### PDF.js
+Scan only material you have permission to copy. Check legibility and file size before sharing it.
 
-Read PDFs in a browser with Mozilla’s open-source viewer.
+- 
 
-Source last checked: 2026-10-14
+### A simple folder system
 
-[Read PDF.js](https://mozilla.github.io/pdf.js/)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=pdf-js#report)
+Use Year / Subject / Notes or Books, then meaningful file names. Search works better when files have useful titles.
+
+- 
+
+### A reference checklist
+
+Record the author, edition, species and date when they matter. A saved file is a starting point, not a substitute for checking context.
 
 ## Questions, answered
 
 Can I use AI as a clinical reference?
 
-Use AI to help organise study, not to make clinical decisions. Check veterinary facts, citations and drug information against original professional references.
+Use AI to help organise study. Check facts, citations and drug information against original professional references before relying on them.
 
-Are these tools all subscription-free?
+Do these guides require subscriptions?
 
-The free-app listings describe free tools; access conditions can change. Check the source website for current licensing and availability.
+The guides describe study habits and tools by name. They do not require signing up or following external software links.
 
 Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.

@@ -2,28 +2,70 @@
 
 > Free academic resources, thoughtfully made for future vets.
 
-A free academic directory primarily for BVSc & AH students. Original summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. External notes and books retain their source credit; links do not imply authorship or medical review.
+A free academic directory primarily for BVSc & AH students. Original summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Files are indexed from the supplied Google Drive folders. Known source credits are preserved; inclusion does not imply authorship or medical review.
 
 Main website: https://thatvetguy.net
-Author: https://www.linkedin.com/in/drchiragpatidarconnect
-Last source review: 2026-10-14; external HTTP availability has not been verified in the build environment.
+Author: Dr. Chirag Patidar
+Last source review: 2026-10-14; source file metadata was inspected from the supplied public folders; access settings can change.
 
 ## Sections and subject guides
 
 - [Free Veterinary Notes, Books & Study Resources | ThatVetGuy](https://notes.thatvetguy.net/): Free academic resources, thoughtfully made for future vets. Find BVSc notes, books, PYQs, study tools and clinical references in one place.
   - Markdown: https://notes.thatvetguy.net/index.md
-- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Find subject-wise BVSc & AH notes and shared book collections across four professional years. Choose a subject to see credited sources, a revision outline and related subjects.
+- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Browse veterinary notes, books and practical material from the supplied Google Drive library, organised by four professional years. Choose a subject to see the actual indexed files and original revision guidance.
   - Markdown: https://notes.thatvetguy.net/bvsc/index.md
-- [Objective Resources](https://notes.thatvetguy.net/objective/): Find ICAR AIEEA (PG) previous-year papers, subject-wise objective questions and veterinary objective book listings. These resources help veterinary students plan exam revision using credited external collections.
-  - Markdown: https://notes.thatvetguy.net/objective/index.md
-- [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
-  - Markdown: https://notes.thatvetguy.net/study-tools/index.md
-- [Clinical Resources](https://notes.thatvetguy.net/clinical/): Find veterinary handbooks, drug and analgesic references, and clinical pathology resources. These links support veterinary study and supervised clinical learning; they do not replace professional judgement or a current prescribing reference.
-  - Markdown: https://notes.thatvetguy.net/clinical/index.md
-- [About Notes.ThatVetGuy](https://notes.thatvetguy.net/about/): Notes.ThatVetGuy is a free academic resource directory for BVSc & AH students. It brings together credited study links, original subject outlines and practical tools within the ThatVetGuy ecosystem.
-  - Markdown: https://notes.thatvetguy.net/about/index.md
-- [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
-  - Markdown: https://notes.thatvetguy.net/request-resource/index.md
+- [Veterinary Anatomy · 1st Year](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/): Browse the indexed Veterinary Anatomy files for 1st Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/index.md
+- [Veterinary Physiology · 1st Year](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/): Browse the indexed Veterinary Physiology files for 1st Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/index.md
+- [Livestock Production Management · 1st Year](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/): Browse the indexed Livestock Production Management files for 1st Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/index.md
+- [1st Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-1/): Find 698 indexed files for 1st Year BVSc & AH study. Choose a subject to browse notes, books, practical manuals and other material.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-1/index.md
+- [Veterinary Biochemistry · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/): Browse the indexed Veterinary Biochemistry files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/index.md
+- [Veterinary Microbiology · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/): Browse the indexed Veterinary Microbiology files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/index.md
+- [Veterinary Pathology · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/): Browse the indexed Veterinary Pathology files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/index.md
+- [Animal Genetics and Breeding · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/): Browse the indexed Animal Genetics and Breeding files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/index.md
+- [Animal Nutrition · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/): Browse the indexed Animal Nutrition files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/index.md
+- [Unsorted · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/unsorted/): Browse the indexed Unsorted files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/unsorted/index.md
+- [2nd Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-2/): Find 631 indexed files for 2nd Year BVSc & AH study. Choose a subject to browse notes, books, practical manuals and other material.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/index.md
+- [Veterinary Pharmacology and Toxicology · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/): Browse the indexed Veterinary Pharmacology and Toxicology files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/index.md
+- [Veterinary Parasitology · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/): Browse the indexed Veterinary Parasitology files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/index.md
+- [Veterinary Public Health and Epidemiology · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/): Browse the indexed Veterinary Public Health and Epidemiology files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/index.md
+- [Livestock Products Technology · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/): Browse the indexed Livestock Products Technology files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/index.md
+- [Veterinary and Animal Husbandry Extension Education · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/): Browse the indexed Veterinary and Animal Husbandry Extension Education files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/index.md
+- [Veterinary Clinical Practices I · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/): Browse the indexed Veterinary Clinical Practices I files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/index.md
+- [Livestock Farm Practices · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/): Browse the indexed Livestock Farm Practices files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/index.md
+- [Unsorted · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/unsorted/): Browse the indexed Unsorted files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/unsorted/index.md
+- [3rd Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-3/): Find 956 indexed files for 3rd Year BVSc & AH study. Choose a subject to browse notes, books, practical manuals and other material.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/index.md
+- [Veterinary Medicine · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/): Browse the indexed Veterinary Medicine files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/index.md
+- [Veterinary Surgery and Radiology · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/): Browse the indexed Veterinary Surgery and Radiology files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/index.md
+- [Veterinary Gynaecology and Obstetrics · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/): Browse the indexed Veterinary Gynaecology and Obstetrics files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/index.md
+- [Veterinary Clinical Practices II · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/): Browse the indexed Veterinary Clinical Practices II files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/index.md
+- [Unsorted · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/unsorted/): Browse the indexed Unsorted files for 4th Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/unsorted/index.md
+- [4th Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-4/): Find 669 indexed files for 4th Year BVSc & AH study. Choose a subject to browse notes, books, practical manuals and other material.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/index.md
 - [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/): Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
   - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-anatomy/index.md
 - [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/): Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
@@ -62,6 +104,16 @@ Last source review: 2026-10-14; external HTTP availability has not been verified
   - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/index.md
 - [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/): Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
   - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/index.md
+- [Objective Resources](https://notes.thatvetguy.net/objective/): Find ICAR PYQs, objective questions and objective books identified by names in the supplied Drive library. If a collection has no matching indexed files, you can request material for it.
+  - Markdown: https://notes.thatvetguy.net/objective/index.md
+- [Clinical Resources](https://notes.thatvetguy.net/clinical/): Browse handbooks, drug-related files and clinical or pathology material identified in the supplied Drive library. These study resources do not replace clinical judgement or a current prescribing reference.
+  - Markdown: https://notes.thatvetguy.net/clinical/index.md
+- [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
+  - Markdown: https://notes.thatvetguy.net/study-tools/index.md
+- [About Notes.ThatVetGuy](https://notes.thatvetguy.net/about/): Notes.ThatVetGuy is a free academic library for BVSc & AH students, organised around the supplied Google Drive collections. Original revision outlines and on-site study guides help you choose what to read next.
+  - Markdown: https://notes.thatvetguy.net/about/index.md
+- [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
+  - Markdown: https://notes.thatvetguy.net/request-resource/index.md
 
 ## Machine retrieval
 

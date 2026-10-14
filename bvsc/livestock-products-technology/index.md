@@ -1,18 +1,14 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/livestock-products-technology/; updated: 2026-10-14 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Livestock Products Technology
+[Home](https://notes.thatvetguy.net/)/Livestock Products Technology
 
 # Livestock Products Technology
 
 Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
-3rd Year · BVSc & AH
-
-Year grouping may vary by university. Check your syllabus.
-
 ## Revision topic outline
 
-Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+Use this overview alongside your university syllabus.
 
 - Milk processing and dairy products
 - Meat science and meat products
@@ -21,27 +17,7 @@ Use this overview to plan reading alongside your university syllabus; it is not 
 
 Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
-## Notes and books
-
-Note · Vets Duo
-
-### Veterinary Public Health and Epidemiology notes
-
-Third-year notes include public health, epidemiology, zoonoses and environmental hygiene.
-
-Source last checked: 2026-10-14
-
-[Read Veterinary Public Health and Epidemiology notes](https://www.vetsduo.com/pages/notes3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=subject-notes-vets-duo-25#report)
-
-Book · Vets Duo
-
-### Books for 3rd Year
-
-Subject-wise textbook listings for 3rd Year.
-
-Source last checked: 2026-10-14
-
-[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+[Browse Livestock Products Technology files](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
 ## Related subjects
 
@@ -51,12 +27,8 @@ Source last checked: 2026-10-14
 
 ## Questions, answered
 
-How should I use these Livestock Products Technology resources?
+Where are the files for this subject?
 
-Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step. Match the topic outline to your university syllabus.
-
-Are the linked notes and books written by Notes.ThatVetGuy?
-
-No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+Use the subject file collection linked on this page. Notes, books, practical manuals and other files are grouped by the original folder names.
 
 Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.

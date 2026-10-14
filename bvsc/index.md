@@ -4,265 +4,219 @@
 
 # BVSc Notes & Books
 
-Find subject-wise BVSc & AH notes and shared book collections across four professional years. Choose a subject to see credited sources, a revision outline and related subjects.
-
-[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
+Browse veterinary notes, books and practical material from the supplied Google Drive library, organised by four professional years. Choose a subject to see the actual indexed files and original revision guidance.
 
 Year grouping may vary by university. Check your syllabus.
 
+[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
+
 ## 1st Year
 
-Anatomy, physiology and the essentials of animal care.
+698 files · [Browse this year](https://notes.thatvetguy.net/bvsc/year-1/)
 
 Subjects marked studied: 0 of 30 of 3
 
-Notes · Vetscraft
+358 files · Google Drive
 
-### [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/)
-
-1st Year study notes and reading resources.
+### [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 
 [Notes](#veterinary-anatomy-notes)[Books](#veterinary-anatomy-books)
-[Read Veterinary Anatomy notes](https://www.vetscraft.com/bvscah/veterinary-anatomy/)
-[Books for 1st Year](#year-1-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-anatomy#report)
+[170 notes · browse files](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#notes)
+[3 books · browse files](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Notes · Vetscraft
+89 files · Google Drive
 
-### [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/veterinary-physiology/)
-
-1st Year study notes and reading resources.
+### [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 
 [Notes](#veterinary-physiology-notes)[Books](#veterinary-physiology-books)
-[Read Veterinary Physiology notes](https://www.vetscraft.com/bvscah/veterinary-physiology/)
-[Books for 1st Year](#year-1-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-physiology#report)
+[66 notes · browse files](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#notes)
+[4 books · browse files](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Notes · Vets Duo
+251 files · Google Drive
 
-### [Livestock Production Management](https://notes.thatvetguy.net/bvsc/livestock-production-management/)
-
-1st Year study notes and reading resources.
+### [Livestock Production Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
 [Notes](#livestock-production-management-notes)[Books](#livestock-production-management-books)
-[Read Livestock Production Management notes](https://www.vetsduo.com/pages/lpmnotes.html)
-[Books for 1st Year](#year-1-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=livestock-production-management#report)
+[64 notes · browse files](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#notes)
+[1 books · browse files](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Book · Vets Duo
-
-### Books for 1st Year
-
-Subject-wise textbook listings for 1st Year.
-
-Source last checked: 2026-10-14
-
-[Read Books for 1st Year](https://www.vetsduo.com/pages/books1.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-1-books#report)
+[Books for 1st Year](https://notes.thatvetguy.net/bvsc/year-1/#books)
 
 ## 2nd Year
 
-From cells and disease to nutrition and animal breeding.
+631 files · [Browse this year](https://notes.thatvetguy.net/bvsc/year-2/)
 
 Subjects marked studied: 0 of 50 of 5
 
-Notes · Vets Duo
+44 files · Google Drive
 
-### [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)
-
-2nd Year study notes and reading resources.
+### [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 
 [Notes](#veterinary-biochemistry-notes)[Books](#veterinary-biochemistry-books)
-[Read Veterinary Biochemistry notes](https://www.vetsduo.com/pages/vbcnotes.html)
-[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-biochemistry#report)
+[27 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#notes)
+[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#books)
 
-Notes · Vets Duo
+75 files · Google Drive
 
-### [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)
-
-2nd Year study notes and reading resources.
+### [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 
 [Notes](#veterinary-microbiology-notes)[Books](#veterinary-microbiology-books)
-[Read Veterinary Microbiology notes](https://www.vetsduo.com/pages/notes2.html)
-[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-microbiology#report)
+[34 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#notes)
+[5 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Notes · Vets Duo
+268 files · Google Drive
 
-### [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)
-
-2nd Year study notes and reading resources.
+### [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 
 [Notes](#veterinary-pathology-notes)[Books](#veterinary-pathology-books)
-[Read Veterinary Pathology notes](https://www.vetsduo.com/pages/notes2.html)
-[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-pathology#report)
+[86 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#notes)
+[3 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Notes · Vets Duo
+77 files · Google Drive
 
-### [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)
-
-2nd Year study notes and reading resources.
+### [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 
 [Notes](#animal-genetics-and-breeding-notes)[Books](#animal-genetics-and-breeding-books)
-[Read Animal Genetics and Breeding notes](https://www.vetsduo.com/pages/agbnotes.html)
-[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=animal-genetics-and-breeding#report)
+[51 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#notes)
+[1 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
 
-Notes · Vets Duo
+25 files · Google Drive
 
-### [Animal Nutrition](https://notes.thatvetguy.net/bvsc/animal-nutrition/)
-
-2nd Year study notes and reading resources.
+### [Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
 [Notes](#animal-nutrition-notes)[Books](#animal-nutrition-books)
-[Read Animal Nutrition notes](https://www.vetsduo.com/pages/annnotes.html)
-[Books for 2nd Year](#year-2-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=animal-nutrition#report)
+[14 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#notes)
+[3 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Book · Vets Duo
+142 files · Google Drive
 
-### Books for 2nd Year
+### [Unsorted](https://notes.thatvetguy.net/bvsc/year-2/unsorted/)
 
-Subject-wise textbook listings for 2nd Year.
+[Notes](#unsorted-2-notes)[Books](#unsorted-2-books)
+[0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-2/unsorted/#notes)
+[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-2/unsorted/#books)
 
-Source last checked: 2026-10-14
-
-[Read Books for 2nd Year](https://www.vetsduo.com/pages/books2.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-2-books#report)
+[Books for 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/#books)
 
 ## 3rd Year
 
-Drugs, parasites, public health and production systems.
+956 files · [Browse this year](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Subjects marked studied: 0 of 70 of 7
 
-Notes · Vetscraft
+206 files · Google Drive
 
-### [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)
-
-3rd Year study notes and reading resources.
+### [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
 [Notes](#veterinary-pharmacology-and-toxicology-notes)[Books](#veterinary-pharmacology-and-toxicology-books)
-[Read Veterinary Pharmacology and Toxicology notes](https://www.vetscraft.com/bvscah/veterinary-pharmacology/)
-[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-pharmacology-and-toxicology#report)
+[106 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#notes)
+[5 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Notes · Vetscraft
+336 files · Google Drive
 
-### [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)
-
-3rd Year study notes and reading resources.
+### [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
 [Notes](#veterinary-parasitology-notes)[Books](#veterinary-parasitology-books)
-[Read Veterinary Parasitology notes](https://www.vetscraft.com/bvscah/veterinary-parasitology/)
-[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-parasitology#report)
+[86 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#notes)
+[1 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#books)
 
-Notes · Vets Duo
+73 files · Google Drive
 
-### [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/veterinary-public-health-and-epidemiology/)
-
-3rd Year study notes and reading resources.
+### [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
 [Notes](#veterinary-public-health-and-epidemiology-notes)[Books](#veterinary-public-health-and-epidemiology-books)
-[Read Veterinary Public Health and Epidemiology notes](https://www.vetsduo.com/pages/notes3.html)
-[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-public-health-and-epidemiology#report)
+[51 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#notes)
+[1 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#books)
 
-Notes · Vets Duo
+138 files · Google Drive
 
-### [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)
-
-3rd Year study notes and reading resources.
+### [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
 [Notes](#livestock-products-technology-notes)[Books](#livestock-products-technology-books)
-[Read Livestock Products Technology notes](https://www.vetsduo.com/pages/notes3.html)
-[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=livestock-products-technology#report)
+[55 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#notes)
+[5 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Notes · Vets Duo
+137 files · Google Drive
 
-### [Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/veterinary-and-animal-husbandry-extension-education/)
-
-3rd Year study notes and reading resources.
+### [Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 
 [Notes](#veterinary-and-animal-husbandry-extension-education-notes)[Books](#veterinary-and-animal-husbandry-extension-education-books)
-[Read Veterinary and Animal Husbandry Extension Education notes](https://www.vetsduo.com/pages/notes3.html)
-[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-and-animal-husbandry-extension-education#report)
+[61 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#notes)
+[2 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)
 
-Notes · Vet Study
+44 files · Google Drive
 
-### [Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-i/)
-
-3rd Year study notes and reading resources.
+### [Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
 [Notes](#veterinary-clinical-practices-i-notes)[Books](#veterinary-clinical-practices-i-books)
-[Read Veterinary Clinical Practices I notes](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)
-[Books for 3rd Year](#year-3-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-clinical-practices-i#report)
+[0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/#notes)
+[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/#books)
 
-Notes · Vet Study
+16 files · Google Drive
 
-### [Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/livestock-farm-practices/)
-
-3rd Year study notes and reading resources.
+### [Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
 [Notes](#livestock-farm-practices-notes)[Books](#livestock-farm-practices-books)
-[Read Livestock Farm Practices notes](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)
-Coming soon[Request this book](https://notes.thatvetguy.net/request-resource/?subject=livestock-farm-practices)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=livestock-farm-practices#report)
+[0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#notes)
+[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#books)
 
-Book · Vets Duo
+6 files · Google Drive
 
-### Books for 3rd Year
+### [Unsorted](https://notes.thatvetguy.net/bvsc/year-3/unsorted/)
 
-Subject-wise textbook listings for 3rd Year.
+[Notes](#unsorted-3-notes)[Books](#unsorted-3-books)
+[0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-3/unsorted/#notes)
+[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-3/unsorted/#books)
 
-Source last checked: 2026-10-14
-
-[Read Books for 3rd Year](https://www.vetsduo.com/pages/books3.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=year-3-books#report)
+[Books for 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/#books)
 
 ## 4th Year
 
-Medicine, surgery, reproduction and clinical practice.
+669 files · [Browse this year](https://notes.thatvetguy.net/bvsc/year-4/)
 
 Subjects marked studied: 0 of 40 of 4
 
-Notes · Vetscraft
+238 files · Google Drive
 
-### [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/veterinary-medicine/)
-
-4th Year study notes and reading resources.
+### [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 
 [Notes](#veterinary-medicine-notes)[Books](#veterinary-medicine-books)
-[Read Veterinary Medicine notes](https://www.vetscraft.com/bvscah/veterinary-medicine/)
-[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-medicine#report)
+[116 notes · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#notes)
+[17 books · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Notes · Vetscraft
+335 files · Google Drive
 
-### [Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/veterinary-surgery-and-radiology/)
-
-4th Year study notes and reading resources.
+### [Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 
 [Notes](#veterinary-surgery-and-radiology-notes)[Books](#veterinary-surgery-and-radiology-books)
-[Read Veterinary Surgery and Radiology notes](https://www.vetscraft.com/bvscah/veterinary-surgery-and-radiology/)
-[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-surgery-and-radiology#report)
+[99 notes · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#notes)
+[8 books · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Notes · Vetscraft
+85 files · Google Drive
 
-### [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/veterinary-gynaecology-and-obstetrics/)
-
-4th Year study notes and reading resources.
+### [Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
 [Notes](#veterinary-gynaecology-and-obstetrics-notes)[Books](#veterinary-gynaecology-and-obstetrics-books)
-[Read Veterinary Gynaecology and Obstetrics notes](https://www.vetscraft.com/bvscah/veterinary-gynaecology-and-obstetrics/)
-[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-gynaecology-and-obstetrics#report)
+[20 notes · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#notes)
+[8 books · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Notes · Vet Study
+0 files · Google Drive
 
-### [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/veterinary-clinical-practices-ii/)
-
-4th Year study notes and reading resources.
+### [Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
 [Notes](#veterinary-clinical-practices-ii-notes)[Books](#veterinary-clinical-practices-ii-books)
-[Read Veterinary Clinical Practices II notes](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)
-[Books for 4th Year](#year-4-books)[Report broken link](https://notes.thatvetguy.net/request-resource/?subject=veterinary-clinical-practices-ii#report)
+[0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/#notes)
+[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/#books)
 
-Book · Vets Duo
+11 files · Google Drive
 
-### Books for 4th Year
+### [Unsorted](https://notes.thatvetguy.net/bvsc/year-4/unsorted/)
 
-Subject-wise textbook listings for 4th Year.
+[Notes](#unsorted-4-notes)[Books](#unsorted-4-books)
+[0 notes · browse files](https://notes.thatvetguy.net/bvsc/year-4/unsorted/#notes)
+[0 books · browse files](https://notes.thatvetguy.net/bvsc/year-4/unsorted/#books)
 
-Source last checked: 2026-10-14
-
-[Read Books for 4th Year](https://www.vetsduo.com/pages/books4.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=vets-duo-veterinary-surgery-and-radiology-books#report)
+[Books for 4th Year](https://notes.thatvetguy.net/bvsc/year-4/#books)
 
 ## Questions, answered
 
@@ -270,8 +224,8 @@ Does this grouping match my university?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Where are the books?
+Where do the files open?
 
-Each year has one shared Books for Year collection. Subject Notes and Books tabs point to the relevant material without repeating the same book directory.
+File buttons open the original Google Drive viewer. Download is available only for known binary files below 25 MB.
 
 Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.

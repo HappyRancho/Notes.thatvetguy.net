@@ -1,18 +1,14 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/livestock-farm-practices/; updated: 2026-10-14 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/)/Livestock Farm Practices
+[Home](https://notes.thatvetguy.net/)/Livestock Farm Practices
 
 # Livestock Farm Practices
 
 Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
-3rd Year · BVSc & AH
-
-Year grouping may vary by university. Check your syllabus.
-
 ## Revision topic outline
 
-Use this overview to plan reading alongside your university syllabus; it is not an exhaustive syllabus.
+Use this overview alongside your university syllabus.
 
 - Routine animal care and handling
 - Feeding and housing observations
@@ -21,21 +17,7 @@ Use this overview to plan reading alongside your university syllabus; it is not 
 
 Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
-## Notes and books
-
-Note · Vet Study
-
-### Practical manuals · Vet Study
-
-Browse the Clinical Practices section and check the year attached to each manual.
-
-Source last checked: 2026-10-14
-
-[Read Practical manuals · Vet Study](https://vetstudy.journeywithasr.com/p/veterinary-practical-manuals-pdf.html)[Report broken link](https://notes.thatvetguy.net/request-resource/?resource=practical-manuals-vet-study#report)
-
-Book listing · Coming soon
-
-[Request this book](https://notes.thatvetguy.net/request-resource/?subject=livestock-farm-practices)
+[Browse Livestock Farm Practices files](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
 ## Related subjects
 
@@ -45,12 +27,8 @@ Book listing · Coming soon
 
 ## Questions, answered
 
-How should I use these Livestock Farm Practices resources?
+Where are the files for this subject?
 
-Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions. Match the topic outline to your university syllabus.
-
-Are the linked notes and books written by Notes.ThatVetGuy?
-
-No. Each linked collection retains its original source credit. This page provides an original study outline and links to relevant reading.
+Use the subject file collection linked on this page. Notes, books, practical manuals and other files are grouped by the original folder names.
 
 Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.

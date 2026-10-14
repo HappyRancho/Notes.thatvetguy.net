@@ -1,0 +1,112 @@
+[
+  {
+    "year": 1,
+    "path": "Anatomy/Practicals/Spotters/Histology Photos",
+    "id": "1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+    "initial": 50,
+    "files": 99,
+    "observed": 99,
+    "responses": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 1,
+    "path": "LPM/Practicals/Spotters/Photos",
+    "id": "1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+    "initial": 50,
+    "files": 128,
+    "observed": 128,
+    "responses": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 2,
+    "path": "One Mark Questions",
+    "id": "1udDFWQDlMiRVWpnho39SbhQIvZW9shqY",
+    "initial": 50,
+    "files": 136,
+    "observed": 136,
+    "responses": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 2,
+    "path": "Pathology/Media/Pics",
+    "id": "1yVcsuq_NKpAs7kI4t93YpogxKK1l8Hcp",
+    "initial": 50,
+    "files": 162,
+    "observed": 162,
+    "responses": 11,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 3,
+    "path": "Livestock Products Technology (LPT)/Media LPT",
+    "id": "1ctrkSuBYFMJFokWeWcZ4MU2wdy4hisdr",
+    "initial": 50,
+    "files": 58,
+    "observed": 58,
+    "responses": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 3,
+    "path": "Parasitology/Media Parasitology",
+    "id": "1WpY6XVCu4g-NM_wWDhU2q5WfRw4-hpOe",
+    "initial": 50,
+    "files": 177,
+    "observed": 177,
+    "responses": 11,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 3,
+    "path": "Pharmacology/Media Pharmacology",
+    "id": "1KofjLCy_ntOPCZjGD5f3MA8HAryUBp4N",
+    "initial": 50,
+    "files": 54,
+    "observed": 54,
+    "responses": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 3,
+    "path": "Parasitology/Practicals/Parasitology Spotters Paper 1",
+    "id": "16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+    "initial": 50,
+    "files": 50,
+    "observed": 50,
+    "responses": 8,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 4,
+    "path": "Medicine/Media Medicine/Spotters Medicine",
+    "id": "1wz5i4bLp9Ac3gtHscPUJC7HrQodLqVkM",
+    "initial": 50,
+    "files": 54,
+    "observed": 54,
+    "responses": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "year": 4,
+    "path": "Surgery/Media Surgery/Instruments",
+    "id": "1edaA6feCbfOj5IPSewO1v5MkzattRL_0",
+    "initial": 50,
+    "files": 152,
+    "observed": 152,
+    "responses": 11,
+    "complete": true,
+    "missing": []
+  }
+]
