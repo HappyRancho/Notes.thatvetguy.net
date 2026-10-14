@@ -18,7 +18,7 @@ def crawl(pair):
     ident,name,mime=item[0],item[2],item[3]
     if mime==FOLDER_MIME:pending.append((ident,path+[name]));continue
     # Unknown fields remain null rather than guessing their positional meaning.
-    record={'year':year,'path':'/'.join(path+[name]),'id':ident,'name':name,'mime':mime,'size':None,'updated':None,'url':'https://drive.google.com/file/d/'+ident+'/view'}
+    record={'year':year,'path':'/'.join(path+[name]),'id':ident,'name':name,'mime':mime,'size':item[13] if len(item)>13 and isinstance(item[13],int) else None,'updated':datetime.datetime.fromtimestamp(item[10]/1000,datetime.timezone.utc).isoformat().replace('+00:00','Z') if len(item)>10 and isinstance(item[10],(int,float)) else None,'url':'https://drive.google.com/file/d/'+ident+'/view'}
     records.append(record);print('DRIVE_FILE '+json.dumps(record,ensure_ascii=False),flush=True)
     if not sample:
      print('DRIVE_SAMPLE '+json.dumps({'year':year,'name':name,'fields':{str(i):v for i,v in enumerate(item) if v is not None and (isinstance(v,(str,int,float,bool)) or i in [12,13,14,25,26])}},ensure_ascii=False),flush=True);sample=True
