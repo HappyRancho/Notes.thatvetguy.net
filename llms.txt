@@ -1,0 +1,22 @@
+# Notes.ThatVetGuy
+
+> Free academic resources, thoughtfully made for future vets.
+
+A veterinary study-resource directory primarily for BVSc & AH students. Current resource listings link to external providers. A listing is not a locally hosted download or a claim of medical review.
+
+## Library
+
+- [Free Veterinary Notes, Books & Study Resources | ThatVetGuy](https://notes.thatvetguy.net/): Free BVSc & AH veterinary notes, books, ICAR PYQs, objective resources, drug references, clinical handbooks and useful tools for veterinary students.
+- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Subject-wise notes and book directories for the four professional years of BVSc & AH.
+- [Objective Resources](https://notes.thatvetguy.net/objective/): ICAR previous-year papers, subject-wise objective resources and a planned shelf of veterinary objective books.
+- [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Practical AI study guidance, useful free apps and tools for veterinary students.
+- [Clinical Resources](https://notes.thatvetguy.net/clinical/): External veterinary handbooks, drug references and clinical pathology resources.
+- [About Notes.ThatVetGuy](https://notes.thatvetguy.net/about/): A free academic resource directory for BVSc & AH students and future vets.
+- [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or study resource from Notes.ThatVetGuy.
+
+## Community
+
+- [Backbenchers short notes](https://t.me/vetshortnotesbytvg): Concise veterinary notes for objective questions and short answers.
+- [Veterinary job updates](https://t.me/jobupdatesbytvg): Government, private, internship and veterinary job updates.
+
+Contact: contact@thatvetguy.net
