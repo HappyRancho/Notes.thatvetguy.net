@@ -1,12 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-18 -->
 
-Search veterinary resources
+# Free Veterinary Academic Resources
 
-Searching…
-
-Find your resource
-
-[Search all resources](https://notes.thatvetguy.net/search/)[Notes & Books](https://notes.thatvetguy.net/bvsc/)[Objective & Question Banks](https://notes.thatvetguy.net/objective/)[Clinical Resources](https://notes.thatvetguy.net/clinical/)
+Thoughtfully organised for future vets.
 
 ## BVSc & AH Resources
 
