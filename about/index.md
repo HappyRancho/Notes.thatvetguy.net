@@ -1,29 +1,33 @@
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-18 -->
 
 [Home](https://notes.thatvetguy.net/)/About Notes.ThatVetGuy
 
 # About Notes.ThatVetGuy
 
-Notes.ThatVetGuy is a free academic library for BVSc & AH students, organised around the supplied Google Drive collections. Original revision outlines and on-site study guides help you choose what to read next.
+Notes.ThatVetGuy is a free academic library for BVSc & AH students. Find notes, books and practical material by year, with study guides to help you choose what to read next.
 
-## A useful place to start
+## A useful place to start.
 
-The library organises the supplied Google Drive files by professional year, subject and original folder group. File titles, sizes and dates come from the inspected source; known source credits are preserved.
+Pick your professional year, find a subject and get to the reading. Notes.ThatVetGuy brings notes, books and practical material together for veterinary students.
 
-## Original study guidance
+## People behind the pages
 
-Revision outlines and on-site study guides are written for veterinary students. Linked files retain their original authorship; inclusion is not a claim of medical review or ownership.
+Site guidance and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. Linked materials retain their original authorship. Inclusion does not imply medical review or ownership.
 
-## Help improve the library
+## Help the next student
 
-Request a resource or report an error or takedown through the request page.
+A missing topic, a broken file or a credit that needs correcting: tell us so the library can get better.
 
-[Request or report a resource](https://notes.thatvetguy.net/request-resource/)
+[Request or report a resource ](https://notes.thatvetguy.net/request-resource/)
 
 ## Questions, answered
 
-Who writes the original guides?
+Where do files open?
 
-Original site guides and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. External notes, books and references retain their source credit.
+Resources open on Google Drive. Photo batches appear as one set, alternate formats share a row, and exact duplicates are hidden. Original authors retain credit.
 
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+Does the year grouping match my syllabus?
+
+Year grouping may vary by university. Check your syllabus before planning revision.
+
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

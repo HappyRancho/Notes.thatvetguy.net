@@ -1,19 +1,11 @@
-<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/Page not found
+[Home](https://notes.thatvetguy.net/)/404: this page has left the herd.
 
-# Page not found
+# 404: this page has left the herd.
 
-This address does not lead to a page in the veterinary library. Search the notes or return to your professional year.
+Try a subject or search for the resource you need.
 
-404: this page has left the herd.
+[Back to the notes ](https://notes.thatvetguy.net/bvsc/)
 
-[Search resources](https://notes.thatvetguy.net/search/)[Browse BVSc notes](https://notes.thatvetguy.net/bvsc/)
-
-## Questions, answered
-
-Where should I go instead?
-
-Use search or browse the four professional years to find a subject.
-
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

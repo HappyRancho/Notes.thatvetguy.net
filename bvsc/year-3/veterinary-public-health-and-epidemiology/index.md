@@ -1,706 +1,570 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/) / [3rd Year](https://notes.thatvetguy.net/bvsc/year-3/) / Veterinary Public Health and Epidemiology
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Public Health and Epidemiology
 
 # Veterinary Public Health and Epidemiology
 
-Browse the indexed Veterinary Public Health and Epidemiology files for 3rd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
 
-75 files · 3rd Year
+64 resources · 3rd Year
 
-[Notes (51)](#notes)[Books (1)](#books)[Practical manuals (2)](#practical-manuals)[Other (21)](#other)
+Search this collection
 
-## Notes 51
+## Notes
 
-PDFNotes
+47
 
-### Abattoir - Disposal
+PDF
+Abattoir - Disposal560 KB[Open Abattoir - Disposal](https://drive.google.com/file/d/1KZuKC0ypmTZL_WtZJVhQWjTns-MHOB7G/view)
 
-560 KB · Updated 2021-11-10
+Updated 2021-11-10 · 560 KB
 
-[Open Abattoir - Disposal on Google Drive](https://drive.google.com/file/d/1KZuKC0ypmTZL_WtZJVhQWjTns-MHOB7G/view)[Download Abattoir - Disposal](https://drive.google.com/uc?export=download&id=1KZuKC0ypmTZL_WtZJVhQWjTns-MHOB7G)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KZuKC0ypmTZL_WtZJVhQWjTns-MHOB7G#report)
+[PDF ](https://drive.google.com/file/d/1KZuKC0ypmTZL_WtZJVhQWjTns-MHOB7G/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1KZuKC0ypmTZL_WtZJVhQWjTns-MHOB7G)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KZuKC0ypmTZL_WtZJVhQWjTns-MHOB7G#report)
 
-PDFNotes
+PDF
+Aim and scope1.7 MB[Open Aim and scope](https://drive.google.com/file/d/1feJ0FxTpu9W664qNCxHZOqoIDbHv_pd7/view)
 
-### Aim and scope
+Updated 2021-11-10 · 1.7 MB
 
-1.7 MB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/1feJ0FxTpu9W664qNCxHZOqoIDbHv_pd7/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1feJ0FxTpu9W664qNCxHZOqoIDbHv_pd7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1feJ0FxTpu9W664qNCxHZOqoIDbHv_pd7#report)
 
-[Open Aim and scope on Google Drive](https://drive.google.com/file/d/1feJ0FxTpu9W664qNCxHZOqoIDbHv_pd7/view)[Download Aim and scope](https://drive.google.com/uc?export=download&id=1feJ0FxTpu9W664qNCxHZOqoIDbHv_pd7)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1feJ0FxTpu9W664qNCxHZOqoIDbHv_pd7#report)
+PDF
+Air pollution and airborne diseases1.5 MB[Open Air pollution and airborne diseases](https://drive.google.com/file/d/1_8FBrz545LJK8uYAg9ba8r_h_LiRDT13/view)
 
-PDFNotes
+Updated 2021-12-04 · 1.5 MB
 
-### Air pollution and airborne diseases
+[PDF ](https://drive.google.com/file/d/1_8FBrz545LJK8uYAg9ba8r_h_LiRDT13/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1_8FBrz545LJK8uYAg9ba8r_h_LiRDT13)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_8FBrz545LJK8uYAg9ba8r_h_LiRDT13#report)
 
-1.5 MB · Updated 2021-12-04
+PDF
+Animal welfare and Public Health Issues1.2 MB[Open Animal welfare and Public Health Issues](https://drive.google.com/file/d/1sOuQ6U4K6T6j2mBM1wIAeMuOkgP0T5Gb/view)
 
-[Open Air pollution and airborne diseases on Google Drive](https://drive.google.com/file/d/1_8FBrz545LJK8uYAg9ba8r_h_LiRDT13/view)[Download Air pollution and airborne diseases](https://drive.google.com/uc?export=download&id=1_8FBrz545LJK8uYAg9ba8r_h_LiRDT13)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_8FBrz545LJK8uYAg9ba8r_h_LiRDT13#report)
+Updated 2021-11-10 · 1.2 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1sOuQ6U4K6T6j2mBM1wIAeMuOkgP0T5Gb/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1sOuQ6U4K6T6j2mBM1wIAeMuOkgP0T5Gb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sOuQ6U4K6T6j2mBM1wIAeMuOkgP0T5Gb#report)
 
-### Animal welfare and Public Health Issues
+PDF
+Ante mortem inspection1.8 MB[Open Ante mortem inspection](https://drive.google.com/file/d/1PGo4Aq3hibI2yOrc9oihoJm8Pk_M0s3K/view)
 
-1.2 MB · Updated 2021-11-10
+Updated 2021-11-10 · 1.8 MB
 
-[Open Animal welfare and Public Health Issues on Google Drive](https://drive.google.com/file/d/1sOuQ6U4K6T6j2mBM1wIAeMuOkgP0T5Gb/view)[Download Animal welfare and Public Health Issues](https://drive.google.com/uc?export=download&id=1sOuQ6U4K6T6j2mBM1wIAeMuOkgP0T5Gb)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sOuQ6U4K6T6j2mBM1wIAeMuOkgP0T5Gb#report)
+[PDF ](https://drive.google.com/file/d/1PGo4Aq3hibI2yOrc9oihoJm8Pk_M0s3K/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1PGo4Aq3hibI2yOrc9oihoJm8Pk_M0s3K)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PGo4Aq3hibI2yOrc9oihoJm8Pk_M0s3K#report)
 
-PDFNotes
+PDF
+Aquatic foods-class1.2 MB[Open Aquatic foods-class](https://drive.google.com/file/d/1z3XCORh_W5k4R2197S1oL3vNiwYbYvpn/view)
 
-### Ante mortem inspection
+Updated 2021-11-10 · 1.2 MB
 
-1.8 MB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/1z3XCORh_W5k4R2197S1oL3vNiwYbYvpn/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1z3XCORh_W5k4R2197S1oL3vNiwYbYvpn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z3XCORh_W5k4R2197S1oL3vNiwYbYvpn#report)
 
-[Open Ante mortem inspection on Google Drive](https://drive.google.com/file/d/1PGo4Aq3hibI2yOrc9oihoJm8Pk_M0s3K/view)[Download Ante mortem inspection](https://drive.google.com/uc?export=download&id=1PGo4Aq3hibI2yOrc9oihoJm8Pk_M0s3K)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PGo4Aq3hibI2yOrc9oihoJm8Pk_M0s3K#report)
+PDF
+Biodiversity2.4 MB[Open Biodiversity](https://drive.google.com/file/d/1z8jsfPfXILDwnIvStJGGPFa85utAjN0c/view)
 
-PDFNotes
+Updated 2021-12-04 · 2.4 MB
 
-### Aquatic foods-class
+[PDF ](https://drive.google.com/file/d/1z8jsfPfXILDwnIvStJGGPFa85utAjN0c/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1z8jsfPfXILDwnIvStJGGPFa85utAjN0c)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z8jsfPfXILDwnIvStJGGPFa85utAjN0c#report)
 
-1.2 MB · Updated 2021-11-10
+PDF
+Contamination1.2 MB[Open Contamination](https://drive.google.com/file/d/1WRJ-q88JZBMsr_t-5JAvSv_E-bKeIfxP/view)
 
-[Open Aquatic foods-class on Google Drive](https://drive.google.com/file/d/1z3XCORh_W5k4R2197S1oL3vNiwYbYvpn/view)[Download Aquatic foods-class](https://drive.google.com/uc?export=download&id=1z3XCORh_W5k4R2197S1oL3vNiwYbYvpn)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z3XCORh_W5k4R2197S1oL3vNiwYbYvpn#report)
+Updated 2021-11-10 · 1.2 MB
 
-PPTNotes
+[PDF ](https://drive.google.com/file/d/1WRJ-q88JZBMsr_t-5JAvSv_E-bKeIfxP/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1WRJ-q88JZBMsr_t-5JAvSv_E-bKeIfxP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WRJ-q88JZBMsr_t-5JAvSv_E-bKeIfxP#report)
 
-### Bacteriology of Water
+PDF
+Dairy plant and equipment hygiene442 KB[Open Dairy plant and equipment hygiene](https://drive.google.com/file/d/174Ykn-HxfAdBRj7vt21GHJRB3rBgBS45/view)
 
-5.9 MB · Updated 2018-11-08
+Updated 2021-11-10 · 442 KB
 
-[Open Bacteriology of Water on Google Drive](https://drive.google.com/file/d/1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci/view)[Download Bacteriology of Water](https://drive.google.com/uc?export=download&id=1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci#report)
+[PDF ](https://drive.google.com/file/d/174Ykn-HxfAdBRj7vt21GHJRB3rBgBS45/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=174Ykn-HxfAdBRj7vt21GHJRB3rBgBS45)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=174Ykn-HxfAdBRj7vt21GHJRB3rBgBS45#report)
 
-PDFNotes
+PDF
+Disposal of farm wastes1.4 MB[Open Disposal of farm wastes](https://drive.google.com/file/d/1i-de9HcQenjGk-ffvhGA1UabCuhdvgLC/view)
 
-### Biodiversity
+Updated 2021-12-04 · 1.4 MB
 
-2.4 MB · Updated 2021-12-04
+[PDF ](https://drive.google.com/file/d/1i-de9HcQenjGk-ffvhGA1UabCuhdvgLC/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1i-de9HcQenjGk-ffvhGA1UabCuhdvgLC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1i-de9HcQenjGk-ffvhGA1UabCuhdvgLC#report)
 
-[Open Biodiversity on Google Drive](https://drive.google.com/file/d/1z8jsfPfXILDwnIvStJGGPFa85utAjN0c/view)[Download Biodiversity](https://drive.google.com/uc?export=download&id=1z8jsfPfXILDwnIvStJGGPFa85utAjN0c)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z8jsfPfXILDwnIvStJGGPFa85utAjN0c#report)
+PDF
+Drug residues1.4 MB[Open Drug residues](https://drive.google.com/file/d/1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2/view)
 
-PPTNotes
+Updated 2021-11-10 · 1.4 MB
 
-### Brucella
+[PDF ](https://drive.google.com/file/d/1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2#report)
 
-4.8 MB · Updated 2021-11-10
+PDF
+Elements of meat inspection-class1.0 MB[Open Elements of meat inspection-class](https://drive.google.com/file/d/1lOU-TH8-L668e_WxMdpO8ZFMJo5edG7z/view)
 
-[Open Brucella on Google Drive](https://drive.google.com/file/d/1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM/view)[Download Brucella](https://drive.google.com/uc?export=download&id=1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM#report)
+Updated 2021-11-10 · 1.0 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1lOU-TH8-L668e_WxMdpO8ZFMJo5edG7z/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1lOU-TH8-L668e_WxMdpO8ZFMJo5edG7z)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lOU-TH8-L668e_WxMdpO8ZFMJo5edG7z#report)
 
-### Contamination
+PDF
+Environmental Hygiene7.7 MB[Open Environmental Hygiene](https://drive.google.com/file/d/1LI6ei9cjwXrLTJ83dB8l5waAySQgJbHQ/view)
 
-1.2 MB · Updated 2021-11-10
+Updated 2021-11-20 · 7.7 MB
 
-[Open Contamination on Google Drive](https://drive.google.com/file/d/1WRJ-q88JZBMsr_t-5JAvSv_E-bKeIfxP/view)[Download Contamination](https://drive.google.com/uc?export=download&id=1WRJ-q88JZBMsr_t-5JAvSv_E-bKeIfxP)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WRJ-q88JZBMsr_t-5JAvSv_E-bKeIfxP#report)
+[PDF ](https://drive.google.com/file/d/1LI6ei9cjwXrLTJ83dB8l5waAySQgJbHQ/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1LI6ei9cjwXrLTJ83dB8l5waAySQgJbHQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LI6ei9cjwXrLTJ83dB8l5waAySQgJbHQ#report)
 
-PDFNotes
+DOC
+Epi lecture notes 2021 content page129 KB[Open Epi lecture notes 2021 content page](https://drive.google.com/file/d/107rhUrzR9JH6o6hL_EJv27_fpkin3t8_/view)
 
-### Dairy plant and equipment hygiene
+Updated 2021-11-10 · 129 KB
 
-442 KB · Updated 2021-11-10
+[DOC ](https://drive.google.com/file/d/107rhUrzR9JH6o6hL_EJv27_fpkin3t8_/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=107rhUrzR9JH6o6hL_EJv27_fpkin3t8_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=107rhUrzR9JH6o6hL_EJv27_fpkin3t8_#report)
 
-[Open Dairy plant and equipment hygiene on Google Drive](https://drive.google.com/file/d/174Ykn-HxfAdBRj7vt21GHJRB3rBgBS45/view)[Download Dairy plant and equipment hygiene](https://drive.google.com/uc?export=download&id=174Ykn-HxfAdBRj7vt21GHJRB3rBgBS45)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=174Ykn-HxfAdBRj7vt21GHJRB3rBgBS45#report)
+PDF
+Epidemiology and Zoonoses3.2 MB[Open Epidemiology and Zoonoses](https://drive.google.com/file/d/1ek_yKUrpCFr73iJWVaRZiRDRxE4E11dl/view)
 
-PPTNotes
+Updated 2021-11-10 · 3.2 MB
 
-### Disaster Management
+[PDF ](https://drive.google.com/file/d/1ek_yKUrpCFr73iJWVaRZiRDRxE4E11dl/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1ek_yKUrpCFr73iJWVaRZiRDRxE4E11dl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ek_yKUrpCFr73iJWVaRZiRDRxE4E11dl#report)
 
-2.1 MB · Updated 2025-01-08
+DOC
+Epidemiology lecture notes 20214.3 MB[Open Epidemiology lecture notes 2021](https://drive.google.com/file/d/1tu-smZBEaymtpHm5poM6twMuob22vKYU/view)
 
-[Open Disaster Management on Google Drive](https://drive.google.com/file/d/1lrHywirvF_DWknyFcjE-MKw-_Z8Q4rkg/view)[Download Disaster Management](https://drive.google.com/uc?export=download&id=1lrHywirvF_DWknyFcjE-MKw-_Z8Q4rkg)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lrHywirvF_DWknyFcjE-MKw-_Z8Q4rkg#report)
+Updated 2021-11-10 · 4.3 MB
 
-PDFNotes
+[DOC ](https://drive.google.com/file/d/1tu-smZBEaymtpHm5poM6twMuob22vKYU/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1tu-smZBEaymtpHm5poM6twMuob22vKYU)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tu-smZBEaymtpHm5poM6twMuob22vKYU#report)
 
-### Disposal of farm wastes
+PDF
+HACCP class2.6 MB[Open HACCP class](https://drive.google.com/file/d/1WiwgF4baKvdzkWcyu_3LQuM73NBtZaMr/view)
 
-1.4 MB · Updated 2021-12-04
+Updated 2021-11-10 · 2.6 MB
 
-[Open Disposal of farm wastes on Google Drive](https://drive.google.com/file/d/1i-de9HcQenjGk-ffvhGA1UabCuhdvgLC/view)[Download Disposal of farm wastes](https://drive.google.com/uc?export=download&id=1i-de9HcQenjGk-ffvhGA1UabCuhdvgLC)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1i-de9HcQenjGk-ffvhGA1UabCuhdvgLC#report)
+[PDF ](https://drive.google.com/file/d/1WiwgF4baKvdzkWcyu_3LQuM73NBtZaMr/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1WiwgF4baKvdzkWcyu_3LQuM73NBtZaMr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WiwgF4baKvdzkWcyu_3LQuM73NBtZaMr#report)
 
-PDFNotes
+PDF
+Hygiene in abattoirs and meat plants2.1 MB[Open Hygiene in abattoirs and meat plants](https://drive.google.com/file/d/11zRiv9ZLKb88laemjGKHA6doLrGwdQnY/view)
 
-### Drug residues
+Updated 2021-11-10 · 2.1 MB
 
-1.4 MB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/11zRiv9ZLKb88laemjGKHA6doLrGwdQnY/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=11zRiv9ZLKb88laemjGKHA6doLrGwdQnY)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11zRiv9ZLKb88laemjGKHA6doLrGwdQnY#report)
 
-[Open Drug residues on Google Drive](https://drive.google.com/file/d/1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2/view)[Download Drug residues](https://drive.google.com/uc?export=download&id=1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2#report)
+PDF
+Hygienic & safe milk production practices2.0 MB[Open Hygienic & safe milk production practices](https://drive.google.com/file/d/1UoPXhUAyNJwiQTZbsrC_iMS3Y6y-7K2w/view)
 
-PDFNotes
+Updated 2021-11-10 · 2.0 MB
 
-### Elements of meat inspection-class
+[PDF ](https://drive.google.com/file/d/1UoPXhUAyNJwiQTZbsrC_iMS3Y6y-7K2w/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1UoPXhUAyNJwiQTZbsrC_iMS3Y6y-7K2w)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UoPXhUAyNJwiQTZbsrC_iMS3Y6y-7K2w#report)
 
-1.0 MB · Updated 2021-11-10
+PDF
+Hygienic practices-dairy products920 KB[Open Hygienic practices-dairy products](https://drive.google.com/file/d/1i4bOpsIBJUC0y8ffXcLjmJQqKVskW-k4/view)
 
-[Open Elements of meat inspection-class on Google Drive](https://drive.google.com/file/d/1lOU-TH8-L668e_WxMdpO8ZFMJo5edG7z/view)[Download Elements of meat inspection-class](https://drive.google.com/uc?export=download&id=1lOU-TH8-L668e_WxMdpO8ZFMJo5edG7z)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lOU-TH8-L668e_WxMdpO8ZFMJo5edG7z#report)
+Updated 2021-11-10 · 920 KB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1i4bOpsIBJUC0y8ffXcLjmJQqKVskW-k4/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1i4bOpsIBJUC0y8ffXcLjmJQqKVskW-k4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1i4bOpsIBJUC0y8ffXcLjmJQqKVskW-k4#report)
 
-### Environmental Hygiene
+PDF
+Large Scale Water purification1.6 MB[Open Large Scale Water purification](https://drive.google.com/file/d/1lBeK5krknfpdSE2mdlsgzio0PA3JmyEm/view)
 
-7.7 MB · Updated 2021-11-20
+Updated 2021-12-04 · 1.6 MB
 
-[Open Environmental Hygiene on Google Drive](https://drive.google.com/file/d/1LI6ei9cjwXrLTJ83dB8l5waAySQgJbHQ/view)[Download Environmental Hygiene](https://drive.google.com/uc?export=download&id=1LI6ei9cjwXrLTJ83dB8l5waAySQgJbHQ)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LI6ei9cjwXrLTJ83dB8l5waAySQgJbHQ#report)
+[PDF ](https://drive.google.com/file/d/1lBeK5krknfpdSE2mdlsgzio0PA3JmyEm/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1lBeK5krknfpdSE2mdlsgzio0PA3JmyEm)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBeK5krknfpdSE2mdlsgzio0PA3JmyEm#report)
 
-DOCNotes
+PDF
+Lymphnode examination477 KB[Open Lymphnode examination](https://drive.google.com/file/d/1UnrewuY7H45GGldkoJw5WXRndwLfEry6/view)
 
-### Epi lecture notes 2021 content page
+Updated 2021-11-10 · 477 KB
 
-129 KB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/1UnrewuY7H45GGldkoJw5WXRndwLfEry6/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1UnrewuY7H45GGldkoJw5WXRndwLfEry6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UnrewuY7H45GGldkoJw5WXRndwLfEry6#report)
 
-[Open Epi lecture notes 2021 content page on Google Drive](https://drive.google.com/file/d/107rhUrzR9JH6o6hL_EJv27_fpkin3t8_/view)[Download Epi lecture notes 2021 content page](https://drive.google.com/uc?export=download&id=107rhUrzR9JH6o6hL_EJv27_fpkin3t8_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=107rhUrzR9JH6o6hL_EJv27_fpkin3t8_#report)
+PDF
+Meat as source of diseases951 KB[Open Meat as source of diseases](https://drive.google.com/file/d/1LkjR-GdabOCnChaCcAw9uX2ROmyePo25/view)
 
-PDFNotes
+Updated 2021-11-10 · 951 KB
 
-### Epidemiology and Zoonoses
+[PDF ](https://drive.google.com/file/d/1LkjR-GdabOCnChaCcAw9uX2ROmyePo25/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1LkjR-GdabOCnChaCcAw9uX2ROmyePo25)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LkjR-GdabOCnChaCcAw9uX2ROmyePo25#report)
 
-3.2 MB · Updated 2021-11-10
+PDF
+Microbial flora & spoilage1.7 MB[Open Microbial flora & spoilage](https://drive.google.com/file/d/1gZnX31dtyLoi02OgJyF5PFd-rFCLB_lW/view)
 
-[Open Epidemiology and Zoonoses on Google Drive](https://drive.google.com/file/d/1ek_yKUrpCFr73iJWVaRZiRDRxE4E11dl/view)[Download Epidemiology and Zoonoses](https://drive.google.com/uc?export=download&id=1ek_yKUrpCFr73iJWVaRZiRDRxE4E11dl)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ek_yKUrpCFr73iJWVaRZiRDRxE4E11dl#report)
+Updated 2021-11-10 · 1.7 MB
 
-DOCNotes
+[PDF ](https://drive.google.com/file/d/1gZnX31dtyLoi02OgJyF5PFd-rFCLB_lW/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1gZnX31dtyLoi02OgJyF5PFd-rFCLB_lW)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gZnX31dtyLoi02OgJyF5PFd-rFCLB_lW#report)
 
-### Epidemiology lecture notes 2021
+PDF
+Milk and Meat Hygiene VPH 3115.1 MB[Open Milk and Meat Hygiene VPH 311](https://drive.google.com/file/d/1PzAYwRAj-XDut0eFGXgSt4WTXBVzoy9I/view)
 
-4.3 MB · Updated 2021-11-10
+Updated 2022-01-12 · 5.1 MB
 
-[Open Epidemiology lecture notes 2021 on Google Drive](https://drive.google.com/file/d/1tu-smZBEaymtpHm5poM6twMuob22vKYU/view)[Download Epidemiology lecture notes 2021](https://drive.google.com/uc?export=download&id=1tu-smZBEaymtpHm5poM6twMuob22vKYU)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tu-smZBEaymtpHm5poM6twMuob22vKYU#report)
+[PDF ](https://drive.google.com/file/d/1PzAYwRAj-XDut0eFGXgSt4WTXBVzoy9I/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1PzAYwRAj-XDut0eFGXgSt4WTXBVzoy9I)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PzAYwRAj-XDut0eFGXgSt4WTXBVzoy9I#report)
 
-PDFNotes
+PDF
+Milk borne diseases3.9 MB[Open Milk borne diseases](https://drive.google.com/file/d/1aELs-AUxH0HIPJvy_o-5rsFngsH12lyT/view)
 
-### HACCP class
+Updated 2021-11-10 · 3.9 MB
 
-2.6 MB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/1aELs-AUxH0HIPJvy_o-5rsFngsH12lyT/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1aELs-AUxH0HIPJvy_o-5rsFngsH12lyT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1aELs-AUxH0HIPJvy_o-5rsFngsH12lyT#report)
 
-[Open HACCP class on Google Drive](https://drive.google.com/file/d/1WiwgF4baKvdzkWcyu_3LQuM73NBtZaMr/view)[Download HACCP class](https://drive.google.com/uc?export=download&id=1WiwgF4baKvdzkWcyu_3LQuM73NBtZaMr)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WiwgF4baKvdzkWcyu_3LQuM73NBtZaMr#report)
+DOC
+Milk hygeine UNIT 1148 KB[Open Milk hygeine UNIT 1](https://drive.google.com/file/d/1ds6GmdhMCzJhgnzCjF3NIMRelaOj9u8e/view)
 
-PDFNotes
+Updated 2026-08-04 · 148 KB
 
-### Hygiene in abattoirs and meat plants
+[DOC ](https://drive.google.com/file/d/1ds6GmdhMCzJhgnzCjF3NIMRelaOj9u8e/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1ds6GmdhMCzJhgnzCjF3NIMRelaOj9u8e)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ds6GmdhMCzJhgnzCjF3NIMRelaOj9u8e#report)
 
-2.1 MB · Updated 2021-11-10
+PDF
+Milk, Meat and Food Safety Lecture manual-20175.0 MB[Open Milk, Meat and Food Safety Lecture manual-2017](https://drive.google.com/file/d/1nXSBxDpvzzc1MV-e0amsfWy6IIQB4gEf/view)
 
-[Open Hygiene in abattoirs and meat plants on Google Drive](https://drive.google.com/file/d/11zRiv9ZLKb88laemjGKHA6doLrGwdQnY/view)[Download Hygiene in abattoirs and meat plants](https://drive.google.com/uc?export=download&id=11zRiv9ZLKb88laemjGKHA6doLrGwdQnY)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11zRiv9ZLKb88laemjGKHA6doLrGwdQnY#report)
+Updated 2021-11-10 · 5.0 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1nXSBxDpvzzc1MV-e0amsfWy6IIQB4gEf/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1nXSBxDpvzzc1MV-e0amsfWy6IIQB4gEf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nXSBxDpvzzc1MV-e0amsfWy6IIQB4gEf#report)
 
-### Hygienic & safe milk production practices
+PDF
+Natural resources types, uses and abuses3.1 MB[Open Natural resources types, uses and abuses](https://drive.google.com/file/d/1lXU4Ds5SlAIq4y4VY9b3Vm66NsxXrHYg/view)
 
-2.0 MB · Updated 2021-11-10
+Updated 2021-12-04 · 3.1 MB
 
-[Open Hygienic & safe milk production practices on Google Drive](https://drive.google.com/file/d/1UoPXhUAyNJwiQTZbsrC_iMS3Y6y-7K2w/view)[Download Hygienic & safe milk production practices](https://drive.google.com/uc?export=download&id=1UoPXhUAyNJwiQTZbsrC_iMS3Y6y-7K2w)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UoPXhUAyNJwiQTZbsrC_iMS3Y6y-7K2w#report)
+[PDF ](https://drive.google.com/file/d/1lXU4Ds5SlAIq4y4VY9b3Vm66NsxXrHYg/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1lXU4Ds5SlAIq4y4VY9b3Vm66NsxXrHYg)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lXU4Ds5SlAIq4y4VY9b3Vm66NsxXrHYg#report)
 
-PDFNotes
+PDF
+Occupational health hazards in abattoir and meat plants3.9 MB[Open Occupational health hazards in abattoir and meat plants](https://drive.google.com/file/d/1eJThrvxeIMFDwfHZotuli86VReyZnBkn/view)
 
-### Hygienic practices-dairy products
+Updated 2021-11-10 · 3.9 MB
 
-920 KB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/1eJThrvxeIMFDwfHZotuli86VReyZnBkn/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1eJThrvxeIMFDwfHZotuli86VReyZnBkn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1eJThrvxeIMFDwfHZotuli86VReyZnBkn#report)
 
-[Open Hygienic practices-dairy products on Google Drive](https://drive.google.com/file/d/1i4bOpsIBJUC0y8ffXcLjmJQqKVskW-k4/view)[Download Hygienic practices-dairy products](https://drive.google.com/uc?export=download&id=1i4bOpsIBJUC0y8ffXcLjmJQqKVskW-k4)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1i4bOpsIBJUC0y8ffXcLjmJQqKVskW-k4#report)
+Show 17 more 17 remaining
 
-PDFNotes
+PDF
+Pathological conditions-transport of animals-CLASS1.0 MB[Open Pathological conditions-transport of animals-CLASS](https://drive.google.com/file/d/1cQk35UFGQGdwZD3PRophQyuEamiqD87M/view)
 
-### Large Scale Water purification
+Updated 2021-11-10 · 1.0 MB
 
-1.6 MB · Updated 2021-12-04
+[PDF ](https://drive.google.com/file/d/1cQk35UFGQGdwZD3PRophQyuEamiqD87M/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1cQk35UFGQGdwZD3PRophQyuEamiqD87M)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cQk35UFGQGdwZD3PRophQyuEamiqD87M#report)
 
-[Open Large Scale Water purification on Google Drive](https://drive.google.com/file/d/1lBeK5krknfpdSE2mdlsgzio0PA3JmyEm/view)[Download Large Scale Water purification](https://drive.google.com/uc?export=download&id=1lBeK5krknfpdSE2mdlsgzio0PA3JmyEm)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBeK5krknfpdSE2mdlsgzio0PA3JmyEm#report)
+PDF
+PM inspection2.3 MB[Open PM inspection](https://drive.google.com/file/d/1Im_Di6hYmf6Bhw0jhPVjNP4St1CQsbO9/view)
 
-PDFNotes
+Updated 2021-11-10 · 2.3 MB
 
-### Lymphnode examination
+[PDF ](https://drive.google.com/file/d/1Im_Di6hYmf6Bhw0jhPVjNP4St1CQsbO9/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1Im_Di6hYmf6Bhw0jhPVjNP4St1CQsbO9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Im_Di6hYmf6Bhw0jhPVjNP4St1CQsbO9#report)
 
-477 KB · Updated 2021-11-10
+PDF
+Quality control of milk and milk products907 KB[Open Quality control of milk and milk products](https://drive.google.com/file/d/1iFcPC9ks3tjhFWA6zINElarEb-5k3zTy/view)
 
-[Open Lymphnode examination on Google Drive](https://drive.google.com/file/d/1UnrewuY7H45GGldkoJw5WXRndwLfEry6/view)[Download Lymphnode examination](https://drive.google.com/uc?export=download&id=1UnrewuY7H45GGldkoJw5WXRndwLfEry6)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UnrewuY7H45GGldkoJw5WXRndwLfEry6#report)
+Updated 2021-11-10 · 907 KB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1iFcPC9ks3tjhFWA6zINElarEb-5k3zTy/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1iFcPC9ks3tjhFWA6zINElarEb-5k3zTy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iFcPC9ks3tjhFWA6zINElarEb-5k3zTy#report)
 
-### Meat as source of diseases
+PDF
+Scope, Importance, Ecosystem3.0 MB[Open Scope, Importance, Ecosystem](https://drive.google.com/file/d/1Yaib7LC3VRd5xEFu_Nr0qk-mMlaswxsy/view)
 
-951 KB · Updated 2021-11-10
+Updated 2021-11-10 · 3.0 MB
 
-[Open Meat as source of diseases on Google Drive](https://drive.google.com/file/d/1LkjR-GdabOCnChaCcAw9uX2ROmyePo25/view)[Download Meat as source of diseases](https://drive.google.com/uc?export=download&id=1LkjR-GdabOCnChaCcAw9uX2ROmyePo25)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LkjR-GdabOCnChaCcAw9uX2ROmyePo25#report)
+[PDF ](https://drive.google.com/file/d/1Yaib7LC3VRd5xEFu_Nr0qk-mMlaswxsy/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1Yaib7LC3VRd5xEFu_Nr0qk-mMlaswxsy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Yaib7LC3VRd5xEFu_Nr0qk-mMlaswxsy#report)
 
-PDFNotes
+PDF
+Sewage disposal1.5 MB[Open Sewage disposal](https://drive.google.com/file/d/1EzS4q6MRh0ZwRRz6nFKsZIYQ5yZ0qiaa/view)
 
-### Microbial flora & spoilage
+Updated 2021-12-04 · 1.5 MB
 
-1.7 MB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/1EzS4q6MRh0ZwRRz6nFKsZIYQ5yZ0qiaa/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1EzS4q6MRh0ZwRRz6nFKsZIYQ5yZ0qiaa)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EzS4q6MRh0ZwRRz6nFKsZIYQ5yZ0qiaa#report)
 
-[Open Microbial flora & spoilage on Google Drive](https://drive.google.com/file/d/1gZnX31dtyLoi02OgJyF5PFd-rFCLB_lW/view)[Download Microbial flora & spoilage](https://drive.google.com/uc?export=download&id=1gZnX31dtyLoi02OgJyF5PFd-rFCLB_lW)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gZnX31dtyLoi02OgJyF5PFd-rFCLB_lW#report)
+PDF
+Small Scale Water purification1.0 MB[Open Small Scale Water purification](https://drive.google.com/file/d/14ixt_xk9Ygq0mnPVaIgR5QwX8cjn_7l_/view)
 
-PDFNotes
+Updated 2021-12-04 · 1.0 MB
 
-### Milk and Meat Hygiene VPH 311
+[PDF ](https://drive.google.com/file/d/14ixt_xk9Ygq0mnPVaIgR5QwX8cjn_7l_/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=14ixt_xk9Ygq0mnPVaIgR5QwX8cjn_7l_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14ixt_xk9Ygq0mnPVaIgR5QwX8cjn_7l_#report)
 
-5.1 MB · Updated 2022-01-12
+PDF
+Solid waste disposal1.2 MB[Open Solid waste disposal](https://drive.google.com/file/d/1Uls7ZuO3NQKtEd7IzF26hYmCUsFvB0wH/view)
 
-[Open Milk and Meat Hygiene VPH 311 on Google Drive](https://drive.google.com/file/d/1PzAYwRAj-XDut0eFGXgSt4WTXBVzoy9I/view)[Download Milk and Meat Hygiene VPH 311](https://drive.google.com/uc?export=download&id=1PzAYwRAj-XDut0eFGXgSt4WTXBVzoy9I)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PzAYwRAj-XDut0eFGXgSt4WTXBVzoy9I#report)
+Updated 2021-12-04 · 1.2 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1Uls7ZuO3NQKtEd7IzF26hYmCUsFvB0wH/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1Uls7ZuO3NQKtEd7IzF26hYmCUsFvB0wH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Uls7ZuO3NQKtEd7IzF26hYmCUsFvB0wH#report)
 
-### Milk borne diseases
+PDF
+Sources of contamination during processing687 KB[Open Sources of contamination during processing](https://drive.google.com/file/d/1nA9NeSpU76pyZrmNEVo_17MT6gG306z1/view)
 
-3.9 MB · Updated 2021-11-10
+Updated 2021-11-10 · 687 KB
 
-[Open Milk borne diseases on Google Drive](https://drive.google.com/file/d/1aELs-AUxH0HIPJvy_o-5rsFngsH12lyT/view)[Download Milk borne diseases](https://drive.google.com/uc?export=download&id=1aELs-AUxH0HIPJvy_o-5rsFngsH12lyT)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1aELs-AUxH0HIPJvy_o-5rsFngsH12lyT#report)
+[PDF ](https://drive.google.com/file/d/1nA9NeSpU76pyZrmNEVo_17MT6gG306z1/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1nA9NeSpU76pyZrmNEVo_17MT6gG306z1)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nA9NeSpU76pyZrmNEVo_17MT6gG306z1#report)
 
-DOCNotes
+PDF
+Sources of water1.2 MB[Open Sources of water](https://drive.google.com/file/d/1-CieAu7o6IOiNvH4n59rteApKXcUJ0e9/view)
 
-### Milk hygeine UNIT 1
+Updated 2021-12-04 · 1.2 MB
 
-148 KB · Updated 2026-08-04
+[PDF ](https://drive.google.com/file/d/1-CieAu7o6IOiNvH4n59rteApKXcUJ0e9/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1-CieAu7o6IOiNvH4n59rteApKXcUJ0e9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-CieAu7o6IOiNvH4n59rteApKXcUJ0e9#report)
 
-[Open Milk hygeine UNIT 1 on Google Drive](https://drive.google.com/file/d/1ds6GmdhMCzJhgnzCjF3NIMRelaOj9u8e/view)[Download Milk hygeine UNIT 1](https://drive.google.com/uc?export=download&id=1ds6GmdhMCzJhgnzCjF3NIMRelaOj9u8e)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ds6GmdhMCzJhgnzCjF3NIMRelaOj9u8e#report)
+PDF
+Speciation of meat1.4 MB[Open Speciation of meat](https://drive.google.com/file/d/1awcZh5YGOpdYazk53gJJX0VmoLiOXc7o/view)
 
-PDFNotes
+Updated 2021-11-10 · 1.4 MB
 
-### Milk, Meat and Food Safety Lecture manual-2017
+[PDF ](https://drive.google.com/file/d/1awcZh5YGOpdYazk53gJJX0VmoLiOXc7o/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1awcZh5YGOpdYazk53gJJX0VmoLiOXc7o)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1awcZh5YGOpdYazk53gJJX0VmoLiOXc7o#report)
 
-5.0 MB · Updated 2021-11-10
+PDF
+UNIT II - Veterinary Epidemiology1.4 MB[Open UNIT II - Veterinary Epidemiology](https://drive.google.com/file/d/108pyVU9RctufL2Hckhzir_NM8QmRHyG9/view)
 
-[Open Milk, Meat and Food Safety Lecture manual-2017 on Google Drive](https://drive.google.com/file/d/1nXSBxDpvzzc1MV-e0amsfWy6IIQB4gEf/view)[Download Milk, Meat and Food Safety Lecture manual-2017](https://drive.google.com/uc?export=download&id=1nXSBxDpvzzc1MV-e0amsfWy6IIQB4gEf)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nXSBxDpvzzc1MV-e0amsfWy6IIQB4gEf#report)
+Updated 2021-11-10 · 1.4 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/108pyVU9RctufL2Hckhzir_NM8QmRHyG9/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=108pyVU9RctufL2Hckhzir_NM8QmRHyG9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=108pyVU9RctufL2Hckhzir_NM8QmRHyG9#report)
 
-### Natural resources types, uses and abuses
+PDF
+Unit III Zoonoses2.3 MB[Open Unit III Zoonoses](https://drive.google.com/file/d/1lBD23H864upwri2JViZJ_12YvIKZAeS-/view)
 
-3.1 MB · Updated 2021-12-04
+Updated 2021-11-10 · 2.3 MB
 
-[Open Natural resources types, uses and abuses on Google Drive](https://drive.google.com/file/d/1lXU4Ds5SlAIq4y4VY9b3Vm66NsxXrHYg/view)[Download Natural resources types, uses and abuses](https://drive.google.com/uc?export=download&id=1lXU4Ds5SlAIq4y4VY9b3Vm66NsxXrHYg)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lXU4Ds5SlAIq4y4VY9b3Vm66NsxXrHYg#report)
+[PDF ](https://drive.google.com/file/d/1lBD23H864upwri2JViZJ_12YvIKZAeS-/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1lBD23H864upwri2JViZJ_12YvIKZAeS-)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBD23H864upwri2JViZJ_12YvIKZAeS-#report)
 
-PPTNotes
+DOC
+UNIT IV - environment and env. hygiene theory notes - 202012.2 MB[Open UNIT IV - environment and env. hygiene theory notes - 2020](https://drive.google.com/file/d/1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe/view)
 
-### Nuclear Hazards
+Updated 2026-07-19 · 12.2 MB
 
-811 KB · Updated 2018-11-08
+[DOC ](https://drive.google.com/file/d/1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe#report)
 
-[Open Nuclear Hazards on Google Drive](https://drive.google.com/file/d/17jx43tGfS41lXW36pc_wa1o9x7cNKh6s/view)[Download Nuclear Hazards](https://drive.google.com/uc?export=download&id=17jx43tGfS41lXW36pc_wa1o9x7cNKh6s)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17jx43tGfS41lXW36pc_wa1o9x7cNKh6s#report)
+PDF
+VPH 3115.1 MB[Open VPH 311](https://drive.google.com/file/d/1dVZATnV5tXrb1THgXg0eZqok6gDfuA7U/view)
 
-PDFNotes
+Updated 2022-01-12 · 5.1 MB
 
-### Occupational health hazards in abattoir and meat plants
+[PDF ](https://drive.google.com/file/d/1dVZATnV5tXrb1THgXg0eZqok6gDfuA7U/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1dVZATnV5tXrb1THgXg0eZqok6gDfuA7U)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dVZATnV5tXrb1THgXg0eZqok6gDfuA7U#report)
 
-3.9 MB · Updated 2021-11-10
+DOC
+VPH Unit 1 -meat part-notes1.8 MB[Open VPH Unit 1 -meat part-notes](https://drive.google.com/file/d/1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C/view)
 
-[Open Occupational health hazards in abattoir and meat plants on Google Drive](https://drive.google.com/file/d/1eJThrvxeIMFDwfHZotuli86VReyZnBkn/view)[Download Occupational health hazards in abattoir and meat plants](https://drive.google.com/uc?export=download&id=1eJThrvxeIMFDwfHZotuli86VReyZnBkn)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1eJThrvxeIMFDwfHZotuli86VReyZnBkn#report)
+Updated 2022-01-11 · 1.8 MB
 
-PDFNotes
+[DOC ](https://drive.google.com/file/d/1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C#report)
 
-### Pathological conditions-transport of animals-CLASS
+PDF
+Water quality1.5 MB[Open Water quality](https://drive.google.com/file/d/1XCwktjXiwrGC_4GsijYux3llvIstLAWJ/view)
 
-1.0 MB · Updated 2021-11-10
+Updated 2021-12-04 · 1.5 MB
 
-[Open Pathological conditions-transport of animals-CLASS on Google Drive](https://drive.google.com/file/d/1cQk35UFGQGdwZD3PRophQyuEamiqD87M/view)[Download Pathological conditions-transport of animals-CLASS](https://drive.google.com/uc?export=download&id=1cQk35UFGQGdwZD3PRophQyuEamiqD87M)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cQk35UFGQGdwZD3PRophQyuEamiqD87M#report)
+[PDF ](https://drive.google.com/file/d/1XCwktjXiwrGC_4GsijYux3llvIstLAWJ/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1XCwktjXiwrGC_4GsijYux3llvIstLAWJ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XCwktjXiwrGC_4GsijYux3llvIstLAWJ#report)
 
-PDFNotes
+DOC
+Zoonoses extra notes 20212.8 MB[Open Zoonoses extra notes 2021](https://drive.google.com/file/d/1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g/view)
 
-### PM inspection
+Updated 2026-05-05 · 2.8 MB
 
-2.3 MB · Updated 2021-11-10
+[DOC ](https://drive.google.com/file/d/1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g#report)
 
-[Open PM inspection on Google Drive](https://drive.google.com/file/d/1Im_Di6hYmf6Bhw0jhPVjNP4St1CQsbO9/view)[Download PM inspection](https://drive.google.com/uc?export=download&id=1Im_Di6hYmf6Bhw0jhPVjNP4St1CQsbO9)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Im_Di6hYmf6Bhw0jhPVjNP4St1CQsbO9#report)
+## Books
 
-PDFNotes
+1
 
-### Quality control of milk and milk products
+PDF
+Michael Thrusfield Veterinary Epidemiology16.2 MB[Open Michael Thrusfield Veterinary Epidemiology](https://drive.google.com/file/d/1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM/view)
 
-907 KB · Updated 2021-11-10
+Updated 2021-11-10 · 16.2 MB
 
-[Open Quality control of milk and milk products on Google Drive](https://drive.google.com/file/d/1iFcPC9ks3tjhFWA6zINElarEb-5k3zTy/view)[Download Quality control of milk and milk products](https://drive.google.com/uc?export=download&id=1iFcPC9ks3tjhFWA6zINElarEb-5k3zTy)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iFcPC9ks3tjhFWA6zINElarEb-5k3zTy#report)
+[PDF ](https://drive.google.com/file/d/1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM#report)
 
-PDFNotes
+## Practical
 
-### Scope, Importance, Ecosystem
+2
 
-3.0 MB · Updated 2021-11-10
+PPT
+Epi Practical manual cover design 2021326 KB[Open Epi Practical manual cover design 2021](https://drive.google.com/file/d/1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0/view)
 
-[Open Scope, Importance, Ecosystem on Google Drive](https://drive.google.com/file/d/1Yaib7LC3VRd5xEFu_Nr0qk-mMlaswxsy/view)[Download Scope, Importance, Ecosystem](https://drive.google.com/uc?export=download&id=1Yaib7LC3VRd5xEFu_Nr0qk-mMlaswxsy)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Yaib7LC3VRd5xEFu_Nr0qk-mMlaswxsy#report)
+Updated 2021-11-10 · 326 KB
 
-PDFNotes
+[PPT ](https://drive.google.com/file/d/1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0#report)
 
-### Sewage disposal
+PDF
+Epi Practical manual-2021-converted930 KB[Open Epi Practical manual-2021-converted](https://drive.google.com/file/d/1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD/view)
 
-1.5 MB · Updated 2021-12-04
+Updated 2021-11-10 · 930 KB
 
-[Open Sewage disposal on Google Drive](https://drive.google.com/file/d/1EzS4q6MRh0ZwRRz6nFKsZIYQ5yZ0qiaa/view)[Download Sewage disposal](https://drive.google.com/uc?export=download&id=1EzS4q6MRh0ZwRRz6nFKsZIYQ5yZ0qiaa)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EzS4q6MRh0ZwRRz6nFKsZIYQ5yZ0qiaa#report)
+[PDF ](https://drive.google.com/file/d/1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD#report)
 
-PDFNotes
+## Objective
 
-### Small Scale Water purification
+3
 
-1.0 MB · Updated 2021-12-04
+PDF
+Public Health5.0 MB[Open Public Health](https://drive.google.com/file/d/1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_/view)
 
-[Open Small Scale Water purification on Google Drive](https://drive.google.com/file/d/14ixt_xk9Ygq0mnPVaIgR5QwX8cjn_7l_/view)[Download Small Scale Water purification](https://drive.google.com/uc?export=download&id=14ixt_xk9Ygq0mnPVaIgR5QwX8cjn_7l_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14ixt_xk9Ygq0mnPVaIgR5QwX8cjn_7l_#report)
+Updated 2021-11-10 · 5.0 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_#report)
 
-### Solid waste disposal
+PDF
+Public Health and Epidemiology37.1 MB[Open Public Health and Epidemiology](https://drive.google.com/file/d/1y7ABH11dQkP4PeQGYwud_VNkYJQkwrs4/view)
 
-1.2 MB · Updated 2021-12-04
+Updated 2021-11-10 · 37.1 MB
 
-[Open Solid waste disposal on Google Drive](https://drive.google.com/file/d/1Uls7ZuO3NQKtEd7IzF26hYmCUsFvB0wH/view)[Download Solid waste disposal](https://drive.google.com/uc?export=download&id=1Uls7ZuO3NQKtEd7IzF26hYmCUsFvB0wH)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Uls7ZuO3NQKtEd7IzF26hYmCUsFvB0wH#report)
-
-PDFNotes
-
-### Sources of contamination during processing
-
-687 KB · Updated 2021-11-10
-
-[Open Sources of contamination during processing on Google Drive](https://drive.google.com/file/d/1nA9NeSpU76pyZrmNEVo_17MT6gG306z1/view)[Download Sources of contamination during processing](https://drive.google.com/uc?export=download&id=1nA9NeSpU76pyZrmNEVo_17MT6gG306z1)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nA9NeSpU76pyZrmNEVo_17MT6gG306z1#report)
-
-PDFNotes
-
-### Sources of water
-
-1.2 MB · Updated 2021-12-04
-
-[Open Sources of water on Google Drive](https://drive.google.com/file/d/1-CieAu7o6IOiNvH4n59rteApKXcUJ0e9/view)[Download Sources of water](https://drive.google.com/uc?export=download&id=1-CieAu7o6IOiNvH4n59rteApKXcUJ0e9)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-CieAu7o6IOiNvH4n59rteApKXcUJ0e9#report)
-
-PDFNotes
-
-### Speciation of meat
-
-1.4 MB · Updated 2021-11-10
-
-[Open Speciation of meat on Google Drive](https://drive.google.com/file/d/1awcZh5YGOpdYazk53gJJX0VmoLiOXc7o/view)[Download Speciation of meat](https://drive.google.com/uc?export=download&id=1awcZh5YGOpdYazk53gJJX0VmoLiOXc7o)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1awcZh5YGOpdYazk53gJJX0VmoLiOXc7o#report)
-
-PDFNotes
-
-### UNIT II - Veterinary Epidemiology
-
-1.4 MB · Updated 2021-11-10
-
-[Open UNIT II - Veterinary Epidemiology on Google Drive](https://drive.google.com/file/d/108pyVU9RctufL2Hckhzir_NM8QmRHyG9/view)[Download UNIT II - Veterinary Epidemiology](https://drive.google.com/uc?export=download&id=108pyVU9RctufL2Hckhzir_NM8QmRHyG9)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=108pyVU9RctufL2Hckhzir_NM8QmRHyG9#report)
-
-PDFNotes
-
-### Unit III Zoonoses
-
-2.3 MB · Updated 2021-11-10
-
-[Open Unit III Zoonoses on Google Drive](https://drive.google.com/file/d/1lBD23H864upwri2JViZJ_12YvIKZAeS-/view)[Download Unit III Zoonoses](https://drive.google.com/uc?export=download&id=1lBD23H864upwri2JViZJ_12YvIKZAeS-)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBD23H864upwri2JViZJ_12YvIKZAeS-#report)
-
-DOCNotes
-
-### UNIT IV - environment and env. hygiene theory notes - 2020
-
-12.2 MB · Updated 2026-07-19
-
-[Open UNIT IV - environment and env. hygiene theory notes - 2020 on Google Drive](https://drive.google.com/file/d/1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe/view)[Download UNIT IV - environment and env. hygiene theory notes - 2020](https://drive.google.com/uc?export=download&id=1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe#report)
-
-PDFNotes
-
-### VPH 311
-
-5.1 MB · Updated 2022-01-12
-
-[Open VPH 311 on Google Drive](https://drive.google.com/file/d/1dVZATnV5tXrb1THgXg0eZqok6gDfuA7U/view)[Download VPH 311](https://drive.google.com/uc?export=download&id=1dVZATnV5tXrb1THgXg0eZqok6gDfuA7U)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dVZATnV5tXrb1THgXg0eZqok6gDfuA7U#report)
-
-DOCNotes
-
-### VPH Unit 1 -meat part-notes
-
-1.8 MB · Updated 2022-01-11
-
-[Open VPH Unit 1 -meat part-notes on Google Drive](https://drive.google.com/file/d/1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C/view)[Download VPH Unit 1 -meat part-notes](https://drive.google.com/uc?export=download&id=1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C#report)
-
-PDFNotes
-
-### Water quality
-
-1.5 MB · Updated 2021-12-04
-
-[Open Water quality on Google Drive](https://drive.google.com/file/d/1XCwktjXiwrGC_4GsijYux3llvIstLAWJ/view)[Download Water quality](https://drive.google.com/uc?export=download&id=1XCwktjXiwrGC_4GsijYux3llvIstLAWJ)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XCwktjXiwrGC_4GsijYux3llvIstLAWJ#report)
-
-DOCNotes
-
-### Zoonoses extra notes 2021
-
-2.8 MB · Updated 2026-05-05
-
-[Open Zoonoses extra notes 2021 on Google Drive](https://drive.google.com/file/d/1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g/view)[Download Zoonoses extra notes 2021](https://drive.google.com/uc?export=download&id=1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g#report)
-
-## Books 1
-
-PDFBooks
-
-### Michael Thrusfield Veterinary Epidemiology
-
-16.2 MB · Updated 2021-11-10
-
-[Open Michael Thrusfield Veterinary Epidemiology on Google Drive](https://drive.google.com/file/d/1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM/view)[Download Michael Thrusfield Veterinary Epidemiology](https://drive.google.com/uc?export=download&id=1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM#report)
-
-## Practical manuals 2
-
-PPTPractical manuals
-
-### Epi Practical manual cover design 2021
-
-326 KB · Updated 2021-11-10
-
-[Open Epi Practical manual cover design 2021 on Google Drive](https://drive.google.com/file/d/1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0/view)[Download Epi Practical manual cover design 2021](https://drive.google.com/uc?export=download&id=1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0#report)
-
-PDFPractical manuals
-
-### Epi Practical manual-2021-converted
-
-930 KB · Updated 2021-11-10
-
-[Open Epi Practical manual-2021-converted on Google Drive](https://drive.google.com/file/d/1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD/view)[Download Epi Practical manual-2021-converted](https://drive.google.com/uc?export=download&id=1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD#report)
-
-## Other 21
-
-IMGOther
-
-### IMG-20210824-WA0004
-
-48 KB · Updated 2021-08-24
-
-[Open IMG-20210824-WA0004 on Google Drive](https://drive.google.com/file/d/1UT5nbjdget9dlw4hVEsDq117dDtF20OZ/view)[Download IMG-20210824-WA0004](https://drive.google.com/uc?export=download&id=1UT5nbjdget9dlw4hVEsDq117dDtF20OZ)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UT5nbjdget9dlw4hVEsDq117dDtF20OZ#report)
-
-IMGOther
-
-### IMG-20210824-WA0005
-
-56 KB · Updated 2021-08-24
-
-[Open IMG-20210824-WA0005 on Google Drive](https://drive.google.com/file/d/17NSVHMJrjuS8T9s7t1_5itykal4xrCVK/view)[Download IMG-20210824-WA0005](https://drive.google.com/uc?export=download&id=17NSVHMJrjuS8T9s7t1_5itykal4xrCVK)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17NSVHMJrjuS8T9s7t1_5itykal4xrCVK#report)
-
-IMGOther
-
-### IMG-20210824-WA0006
-
-48 KB · Updated 2021-08-24
-
-[Open IMG-20210824-WA0006 on Google Drive](https://drive.google.com/file/d/1HY3QnFFMjCFnSI7JJdFlvQZii0ti_dkJ/view)[Download IMG-20210824-WA0006](https://drive.google.com/uc?export=download&id=1HY3QnFFMjCFnSI7JJdFlvQZii0ti_dkJ)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HY3QnFFMjCFnSI7JJdFlvQZii0ti_dkJ#report)
-
-IMGOther
-
-### IMG-20210824-WA0007
-
-43 KB · Updated 2021-08-24
-
-[Open IMG-20210824-WA0007 on Google Drive](https://drive.google.com/file/d/140TF0-S9EIOQv28rrXQD9cXIEg_63sd7/view)[Download IMG-20210824-WA0007](https://drive.google.com/uc?export=download&id=140TF0-S9EIOQv28rrXQD9cXIEg_63sd7)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=140TF0-S9EIOQv28rrXQD9cXIEg_63sd7#report)
-
-IMGOther
-
-### IMG-20210914-WA0017
-
-60 KB · Updated 2021-09-14
-
-[Open IMG-20210914-WA0017 on Google Drive](https://drive.google.com/file/d/14FcZVlu6VuzP73SPJysiDuRVLJXGEPD1/view)[Download IMG-20210914-WA0017](https://drive.google.com/uc?export=download&id=14FcZVlu6VuzP73SPJysiDuRVLJXGEPD1)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14FcZVlu6VuzP73SPJysiDuRVLJXGEPD1#report)
-
-IMGOther
-
-### IMG-20211206-WA0018
-
-117 KB · Updated 2021-12-06
-
-[Open IMG-20211206-WA0018 on Google Drive](https://drive.google.com/file/d/1a_y2DSPuJu-sjQwgtgHqJJgPFrn1GjVi/view)[Download IMG-20211206-WA0018](https://drive.google.com/uc?export=download&id=1a_y2DSPuJu-sjQwgtgHqJJgPFrn1GjVi)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a_y2DSPuJu-sjQwgtgHqJJgPFrn1GjVi#report)
-
-IMGOther
-
-### IMG-20211215-WA0013
-
-132 KB · Updated 2021-12-15
-
-[Open IMG-20211215-WA0013 on Google Drive](https://drive.google.com/file/d/1bcj9pUBs_ZjOGVo1rQKC5DztnZmOQJBc/view)[Download IMG-20211215-WA0013](https://drive.google.com/uc?export=download&id=1bcj9pUBs_ZjOGVo1rQKC5DztnZmOQJBc)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bcj9pUBs_ZjOGVo1rQKC5DztnZmOQJBc#report)
-
-IMGOther
-
-### IMG-20211215-WA0014
-
-160 KB · Updated 2021-12-15
-
-[Open IMG-20211215-WA0014 on Google Drive](https://drive.google.com/file/d/1xDZ2vNVpVb3UXbTWXJYGdZy5ZVpbNfGH/view)[Download IMG-20211215-WA0014](https://drive.google.com/uc?export=download&id=1xDZ2vNVpVb3UXbTWXJYGdZy5ZVpbNfGH)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xDZ2vNVpVb3UXbTWXJYGdZy5ZVpbNfGH#report)
-
-IMGOther
-
-### IMG-20211215-WA0015
-
-167 KB · Updated 2021-12-15
-
-[Open IMG-20211215-WA0015 on Google Drive](https://drive.google.com/file/d/1LpIIJUEmFQjSo0HjgAtALe-2KFXMtZuU/view)[Download IMG-20211215-WA0015](https://drive.google.com/uc?export=download&id=1LpIIJUEmFQjSo0HjgAtALe-2KFXMtZuU)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LpIIJUEmFQjSo0HjgAtALe-2KFXMtZuU#report)
-
-IMGOther
-
-### IMG-20211215-WA0016
-
-156 KB · Updated 2021-12-15
-
-[Open IMG-20211215-WA0016 on Google Drive](https://drive.google.com/file/d/1e7ZZNV1Wb_1yo5TyLqhtCC-uNpj0VRVg/view)[Download IMG-20211215-WA0016](https://drive.google.com/uc?export=download&id=1e7ZZNV1Wb_1yo5TyLqhtCC-uNpj0VRVg)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1e7ZZNV1Wb_1yo5TyLqhtCC-uNpj0VRVg#report)
-
-IMGOther
-
-### IMG-20211215-WA0017
-
-141 KB · Updated 2021-12-15
-
-[Open IMG-20211215-WA0017 on Google Drive](https://drive.google.com/file/d/1tEllYobiet98iKbTlVI2yMKIeM66hBZa/view)[Download IMG-20211215-WA0017](https://drive.google.com/uc?export=download&id=1tEllYobiet98iKbTlVI2yMKIeM66hBZa)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tEllYobiet98iKbTlVI2yMKIeM66hBZa#report)
-
-IMGOther
-
-### IMG-20211215-WA0018
-
-168 KB · Updated 2021-12-15
-
-[Open IMG-20211215-WA0018 on Google Drive](https://drive.google.com/file/d/1hJ-kx4bAp7gW9yZ7_jOXYWVU4BbWx9RT/view)[Download IMG-20211215-WA0018](https://drive.google.com/uc?export=download&id=1hJ-kx4bAp7gW9yZ7_jOXYWVU4BbWx9RT)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hJ-kx4bAp7gW9yZ7_jOXYWVU4BbWx9RT#report)
-
-PDFOther
-
-### Meat borne disease
-
-644 KB · Updated 2021-11-10
-
-[Open Meat borne disease on Google Drive](https://drive.google.com/file/d/1DvNWsSu6zai-vewjm33YG6Z3KMhkumq6/view)[Download Meat borne disease](https://drive.google.com/uc?export=download&id=1DvNWsSu6zai-vewjm33YG6Z3KMhkumq6)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DvNWsSu6zai-vewjm33YG6Z3KMhkumq6#report)
-
-PPTOther
-
-### Meat-Speciation
-
-2.1 MB · Updated 2021-11-10
-
-[Open Meat-Speciation on Google Drive](https://drive.google.com/file/d/1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov/view)[Download Meat-Speciation](https://drive.google.com/uc?export=download&id=1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov#report)
-
-PDFOther
-
-### Public Health
-
-5.0 MB · Updated 2021-11-10
-
-[Open Public Health on Google Drive](https://drive.google.com/file/d/1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_/view)[Download Public Health](https://drive.google.com/uc?export=download&id=1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_#report)
-
-PDFOther
-
-### Public Health and Epidemiology
-
-37.1 MB · Updated 2021-11-10
-
-[Open Public Health and Epidemiology on Google Drive](https://drive.google.com/file/d/1y7ABH11dQkP4PeQGYwud_VNkYJQkwrs4/view)
+[PDF ](https://drive.google.com/file/d/1y7ABH11dQkP4PeQGYwud_VNkYJQkwrs4/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1y7ABH11dQkP4PeQGYwud_VNkYJQkwrs4#report)
 
-PDFOther
+PDF
+VPH BOARD1.4 MB[Open VPH BOARD](https://drive.google.com/file/d/110O6lVzsYTGVRcEYuW-1_lLD5frWHmxL/view)
 
-### Unit 1-2-Pathological conditions-transport of animals-CLASS
+Updated 2022-01-08 · 1.4 MB
 
-1.0 MB · Updated 2021-11-10
+[PDF ](https://drive.google.com/file/d/110O6lVzsYTGVRcEYuW-1_lLD5frWHmxL/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=110O6lVzsYTGVRcEYuW-1_lLD5frWHmxL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=110O6lVzsYTGVRcEYuW-1_lLD5frWHmxL#report)
 
-[Open Unit 1-2-Pathological conditions-transport of animals-CLASS on Google Drive](https://drive.google.com/file/d/1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G/view)[Download Unit 1-2-Pathological conditions-transport of animals-CLASS](https://drive.google.com/uc?export=download&id=1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G#report)
+## Slides
 
-PDFOther
+5
 
-### VPE First Internal With Answer
+PPT
+Bacteriology of Water5.9 MB[Open Bacteriology of Water](https://drive.google.com/file/d/1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci/view)
 
-643 KB · Updated 2021-11-10
+Updated 2018-11-08 · 5.9 MB
 
-[Open VPE First Internal With Answer on Google Drive](https://drive.google.com/file/d/1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB/view)[Download VPE First Internal With Answer](https://drive.google.com/uc?export=download&id=1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB#report)
+[PPT ](https://drive.google.com/file/d/1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci#report)
 
-PDFOther
+PPT
+Brucella4.8 MB[Open Brucella](https://drive.google.com/file/d/1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM/view)
 
-### VPH ans
+Updated 2021-11-10 · 4.8 MB
 
-13.9 MB · Updated 2022-02-04
+[PPT ](https://drive.google.com/file/d/1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM#report)
 
-[Open VPH ans on Google Drive](https://drive.google.com/file/d/1n6_cpbT_YIrFslZh3iX9mNzRWOi-OXHe/view)[Download VPH ans](https://drive.google.com/uc?export=download&id=1n6_cpbT_YIrFslZh3iX9mNzRWOi-OXHe)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1n6_cpbT_YIrFslZh3iX9mNzRWOi-OXHe#report)
+PPT
+Disaster Management2.1 MB[Open Disaster Management](https://drive.google.com/file/d/1lrHywirvF_DWknyFcjE-MKw-_Z8Q4rkg/view)
 
-PDFOther
+Updated 2025-01-08 · 2.1 MB
 
-### VPH BOARD
+[PPT ](https://drive.google.com/file/d/1lrHywirvF_DWknyFcjE-MKw-_Z8Q4rkg/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1lrHywirvF_DWknyFcjE-MKw-_Z8Q4rkg)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lrHywirvF_DWknyFcjE-MKw-_Z8Q4rkg#report)
 
-1.4 MB · Updated 2022-01-08
+PPT
+Meat-Speciation2.1 MB[Open Meat-Speciation](https://drive.google.com/file/d/1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov/view)
 
-[Open VPH BOARD on Google Drive](https://drive.google.com/file/d/110O6lVzsYTGVRcEYuW-1_lLD5frWHmxL/view)[Download VPH BOARD](https://drive.google.com/uc?export=download&id=110O6lVzsYTGVRcEYuW-1_lLD5frWHmxL)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=110O6lVzsYTGVRcEYuW-1_lLD5frWHmxL#report)
+Updated 2021-11-10 · 2.1 MB
 
-PDFOther
+[PPT ](https://drive.google.com/file/d/1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov#report)
 
-### vphe
+PPT
+Nuclear Hazards811 KB[Open Nuclear Hazards](https://drive.google.com/file/d/17jx43tGfS41lXW36pc_wa1o9x7cNKh6s/view)
 
-747 KB · Updated 2021-11-10
+Updated 2018-11-08 · 811 KB
 
-[Open vphe on Google Drive](https://drive.google.com/file/d/15elpkaqrmas7L9ElSJD_5wIzA23yfI9j/view)[Download vphe](https://drive.google.com/uc?export=download&id=15elpkaqrmas7L9ElSJD_5wIzA23yfI9j)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15elpkaqrmas7L9ElSJD_5wIzA23yfI9j#report)
+[PPT ](https://drive.google.com/file/d/17jx43tGfS41lXW36pc_wa1o9x7cNKh6s/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=17jx43tGfS41lXW36pc_wa1o9x7cNKh6s)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17jx43tGfS41lXW36pc_wa1o9x7cNKh6s#report)
 
-## Questions, answered
+## Images
 
-Where do these files open?
+1
 
-Files open in the supplied Google Drive collection. Availability and access settings are controlled by the file owner.
+IMG
+Photo set — Veterinary Public Health and Epidemiology — 12 images1.3 MB[Open Photo set — Veterinary Public Health and Epidemiology — 12 images](https://drive.google.com/drive/folders/1EkzDAN2NJyiqqBL3bhgGvBVwMynUKE8L)
 
-Why is Download missing on some files?
+Updated 2021-12-15 · 1.3 MB
 
-A direct Download action is shown only when a binary file has a known size below 25 MB. Larger files and files with unknown sizes use the Drive viewer.
+[IMG ](https://drive.google.com/drive/folders/1EkzDAN2NJyiqqBL3bhgGvBVwMynUKE8L)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1EkzDAN2NJyiqqBL3bhgGvBVwMynUKE8L#report)
 
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+## Extras
+
+5
+
+PDF
+Meat borne disease644 KB[Open Meat borne disease](https://drive.google.com/file/d/1DvNWsSu6zai-vewjm33YG6Z3KMhkumq6/view)
+
+Updated 2021-11-10 · 644 KB
+
+[PDF ](https://drive.google.com/file/d/1DvNWsSu6zai-vewjm33YG6Z3KMhkumq6/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1DvNWsSu6zai-vewjm33YG6Z3KMhkumq6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DvNWsSu6zai-vewjm33YG6Z3KMhkumq6#report)
+
+PDF
+Unit 1-2-Pathological conditions-transport of animals-CLASS1.0 MB[Open Unit 1-2-Pathological conditions-transport of animals-CLASS](https://drive.google.com/file/d/1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G/view)
+
+Updated 2021-11-10 · 1.0 MB
+
+[PDF ](https://drive.google.com/file/d/1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vKrocxiUGUHl9Bl3dRvsWHRQbgmnfJ7G#report)
+
+PDF
+VPE First Internal With Answer643 KB[Open VPE First Internal With Answer](https://drive.google.com/file/d/1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB/view)
+
+Updated 2021-11-10 · 643 KB
+
+[PDF ](https://drive.google.com/file/d/1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KtBk8TeMBME48jXAqwn3Wp-bk2woGXxB#report)
+
+PDF
+VPH ans13.9 MB[Open VPH ans](https://drive.google.com/file/d/1n6_cpbT_YIrFslZh3iX9mNzRWOi-OXHe/view)
+
+Updated 2022-02-04 · 13.9 MB
+
+[PDF ](https://drive.google.com/file/d/1n6_cpbT_YIrFslZh3iX9mNzRWOi-OXHe/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1n6_cpbT_YIrFslZh3iX9mNzRWOi-OXHe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1n6_cpbT_YIrFslZh3iX9mNzRWOi-OXHe#report)
+
+PDF
+vphe747 KB[Open vphe](https://drive.google.com/file/d/15elpkaqrmas7L9ElSJD_5wIzA23yfI9j/view)
+
+Updated 2021-11-10 · 747 KB
+
+[PDF ](https://drive.google.com/file/d/15elpkaqrmas7L9ElSJD_5wIzA23yfI9j/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=15elpkaqrmas7L9ElSJD_5wIzA23yfI9j)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15elpkaqrmas7L9ElSJD_5wIzA23yfI9j#report)
+
+No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+
+What to revise in this subject 
+
+- Zoonoses and One Health
+- Food safety and hygiene
+- Measures of disease frequency
+- Disease investigation and prevention
+
+Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+
+## Keep the connections.
+
+[Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/veterinary-pharmacology-and-toxicology/)[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/veterinary-parasitology/)[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/livestock-products-technology/)
+
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

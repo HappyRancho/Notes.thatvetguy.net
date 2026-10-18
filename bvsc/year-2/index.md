@@ -1,31 +1,61 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/2nd Year BVSc Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year — pick a subject.
 
-# 2nd Year BVSc Notes & Books
+# 2nd Year — pick a subject.
 
-Find 631 indexed files for 2nd Year BVSc & AH study. Choose a subject to browse notes, books, practical manuals and other material.
+Notes, books and practical material for 2nd Year BVSc & AH. Choose a subject to find your next read.
 
-Subjects marked studied: 0 of 50 of 5
+5 subjects · 326 resources
 
-- [Veterinary Biochemistry44 files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
-- [Veterinary Microbiology75 files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
-- [Veterinary Pathology268 files](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
-- [Animal Genetics and Breeding77 files](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
-- [Animal Nutrition31 files](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
-- [Unsorted136 files](https://notes.thatvetguy.net/bvsc/year-2/unsorted/)
+[44 resources
 
-## Books by subject
+## Veterinary Biochemistry
 
-- [Veterinary Microbiology books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
-- [Veterinary Pathology books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
-- [Animal Genetics and Breeding books](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
-- [Animal Nutrition books](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
+Extras 10 · Notes 26 · Objective 1 · Practical 6 · Slides 1
 
-## Questions, answered
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[74 resources
 
-How are subjects organised?
+## Veterinary Microbiology
 
-Subjects follow the existing four-year library structure. Your university syllabus remains the final reference for professional-year grouping.
+Extras 13 · Practical 21 · Books 4 · Notes 12 · Slides 21 · Objective 3
 
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[101 resources
+
+## Veterinary Pathology
+
+Books 3 · Slides 64 · Notes 17 · Extras 7 · Objective 2 · Practical 7 · Images 1
+
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[76 resources
+
+## Animal Genetics and Breeding
+
+Notes 14 · Slides 37 · Practical 15 · Extras 7 · Objective 3
+
+](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[30 resources
+
+## Animal Nutrition
+
+Notes 9 · Objective 2 · Books 3 · Practical 2 · Extras 8 · Slides 5 · Images 1
+
+](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+
+## A few extras.
+
+These resources don’t yet have a confirmed subject.
+
+### Extras
+
+1
+
+IMG
+Photo set — Year 2 revision — 136 images9.8 MB[Open Photo set — Year 2 revision — 136 images](https://drive.google.com/drive/folders/1udDFWQDlMiRVWpnho39SbhQIvZW9shqY)
+
+Updated 2020-01-27 · 9.8 MB
+
+[IMG ](https://drive.google.com/drive/folders/1udDFWQDlMiRVWpnho39SbhQIvZW9shqY)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1udDFWQDlMiRVWpnho39SbhQIvZW9shqY#report)
+
+Year grouping may vary by university. Check your syllabus.
+
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

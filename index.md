@@ -1,172 +1,81 @@
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-18 -->
 
-# Free academic resources, thoughtfully made for future vets.
+THE VET STUDENT’S OPEN SHELF
 
-Everything useful for veterinary study, organised in one place.
+# Vet school notes, sorted. Finally.
+
+Free BVSc & AH notes, books, PYQs and clinical references, organised by year.
 
 Search veterinary resources
+/
 
-Suggested resources
+Searching…
 
-Searching the library…
+↳ Search first. Panic later.
 
-No match yet. [Request a resource →](https://notes.thatvetguy.net/request-resource/)
+- 1,707resources
+- 19subjects
+- 4years
 
-Try [Pharmacology](https://notes.thatvetguy.net/search/#preset-pharmacology)[Haemonchus](https://notes.thatvetguy.net/search/#preset-haemonchus)[NSAIDs](https://notes.thatvetguy.net/search/#preset-nsaids)[Surgery books](https://notes.thatvetguy.net/search/#preset-surgery-books)
+BVSc NOTES & BOOKS
 
-Search first. Panic later.
+## Pick your year.
 
-[Notes](https://notes.thatvetguy.net/bvsc/)[PYQs](https://notes.thatvetguy.net/objective/#icar-pyq)[Tools](https://notes.thatvetguy.net/study-tools/)[Clinical](https://notes.thatvetguy.net/clinical/)
+Your syllabus. Your starting point.
+[BVSc & AH1st year3 subjects · 457 resources](https://notes.thatvetguy.net/bvsc/year-1/)[BVSc & AH2nd year5 subjects · 326 resources](https://notes.thatvetguy.net/bvsc/year-2/)[BVSc & AH3rd year7 subjects · 551 resources](https://notes.thatvetguy.net/bvsc/year-3/)[BVSc & AH4th year4 subjects · 373 resources](https://notes.thatvetguy.net/bvsc/year-4/)
 
-## BVSc Notes & Books
+↳ Four years, one stethoscope, zero free weekends.
 
-Subject-wise study material organised by professional year.
+A LITTLE HELP GOES A LONG WAY
 
-[All subjects ](https://notes.thatvetguy.net/bvsc/)
-
-[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
-
-Anatomy, physiology and the essentials of animal care.
-
-[01Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[02Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[03Livestock Production Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
-3 subjects · notes & books[Explore 1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-
-From cells and disease to nutrition and animal breeding.
-
-[01Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[02Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[03Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[04Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[05Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
-5 subjects · notes & books[Explore 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-
-Drugs, parasites, public health and production systems.
-
-[01Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[02Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[03Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[04Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[05Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[06Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[07Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
-7 subjects · notes & books[Explore 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-
-Medicine, surgery, reproduction and clinical practice.
-
-[01Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[02Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[03Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)[04Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
-4 subjects · notes & books[Explore 4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-
-Four years, one stethoscope, zero free weekends.
-
-## Objective Resources
-
-PYQs, subject-wise objective material and important veterinary objective books.
-
-Past papers repeat. So should your revision.
+## More ways to study.
 
 [
 
-### ICAR PYQ Question Bank
+### Objective Resources
 
-1 file · Google Drive
+Subject-wise questions, objective books & past papers.
 
-](https://notes.thatvetguy.net/objective/#icar-pyq)[
+](https://notes.thatvetguy.net/objective/)[
 
-### Subject-wise Objective Questions
+### Study Tools
 
-32 files · Google Drive
+AI guides, free apps & useful study habits.
 
-](https://notes.thatvetguy.net/objective/#subject-wise)[
+](https://notes.thatvetguy.net/study-tools/)[
 
-### Objective Books
+### Clinical Resources
 
-2 files · Google Drive
+Handbooks & pharmacology notes, within reach.
 
-](https://notes.thatvetguy.net/objective/#books)
+](https://notes.thatvetguy.net/clinical/)
 
-## Tips & Tools for Vet Study
+OUTSIDE THE TEXTBOOK
 
-Thoughtful tools and practical guides for the everyday work of learning.
+## Your corner of vet school.
 
-[A practical guide
+ SHORT NOTES
 
-### Use of AI  for Vet Study
-
-Practical ways to use AI for notes, research and presentations.
-
-AI can help with the notes. You still have to read them.
-
-Read the guide ](https://notes.thatvetguy.net/study-tools/#ai-guide)
-[
-
-### Useful Free Apps
-
-Useful tools without unnecessary subscriptions.
-
-](https://notes.thatvetguy.net/study-tools/#free-apps)[
-
-### Useful Study Tools
-
-Small, thoughtful tools for a smoother study day.
-
-](https://notes.thatvetguy.net/study-tools/#useful-tools)
-
-## Clinical Resources
-
-A place for trusted handbooks and practical references. Keep the essentials close.
-
-[
-
-### Handbooks
-
-5 files · Google Drive
-
-](https://notes.thatvetguy.net/clinical/#handbooks)[
-
-### Drug & Analgesic References
-
-38 files · Google Drive
-
-](https://notes.thatvetguy.net/clinical/#drug-index)[
-
-### Other Clinical Resources
-
-274 files · Google Drive
-
-](https://notes.thatvetguy.net/clinical/#other-resources)
-
-Check the dose. Then check it again. The patient can't.
-
-For the night before
-
-## Backbenchers Corner
+### Backbenchers Corner.
 
 Less to read. More to remember.
 
-Tomorrow’s exam. Today’s sudden interest in short notes.
+[Open Short Notes](https://t.me/vetshortnotesbytvg)
 
-Keep this one handy
+ JOB UPDATES
 
-A collection of concise veterinary short notes for objective questions and short answers.
+### Your next chapter.
 
-[Open Short Notes ](https://t.me/vetshortnotesbytvg) The short-notes collection on Telegram
+Veterinary opportunities, without the hunt.
 
-Beyond the classroom
+[Follow Job Updates](https://t.me/jobupdatesbytvg)
 
-## Veterinary opportunities,  without the hunt.
+↳ Tomorrow’s exam. Today’s sudden interest in short notes.
 
-Government, private, internship and veterinary job updates — gathered in one place.
+## Can’t find it?
 
-[Follow Job Updates ](https://t.me/jobupdatesbytvg)
+A note, book or topic. Just ask.
 
-Your next posting shouldn't depend on a forwarded WhatsApp message.
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-## Can’t find what you need?
-
-Request a note, book, PYQ or useful resource. Help shape the library.
-
-[Request Resource ](https://notes.thatvetguy.net/request-resource/)
-
-Can't find it? Ask. The library has an excellent memory.
-
-## Questions, answered
-
-Are the resources hosted here?
-
-Notes.ThatVetGuy organises links to credited external sources. Availability, downloads and access terms belong to each source.
-
-Where should I start?
-
-Choose your professional year in BVSc Notes & Books, or search for a subject, book or clinical reference.
-
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

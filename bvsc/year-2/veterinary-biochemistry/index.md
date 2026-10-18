@@ -1,433 +1,400 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/) / [2nd Year](https://notes.thatvetguy.net/bvsc/year-2/) / Veterinary Biochemistry
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Biochemistry
 
 # Veterinary Biochemistry
 
-Browse the indexed Veterinary Biochemistry files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
-44 files · 2nd Year
+44 resources · 2nd Year
 
-[Notes (27)](#notes)[Books (0)](#books)[Practical manuals (6)](#practical-manuals)[Other (11)](#other)
+Search this collection
 
-## Notes 27
+## Notes
 
-PDFNotes
+26
 
-### Acid Base disorders
+PDF
+Acid Base disorders1.1 MB[Open Acid Base disorders](https://drive.google.com/file/d/1ZepGiRkheL68ePFrlSEuN_7uXOV6iwJe/view)
 
-1.1 MB · Updated 2020-10-20
+Updated 2020-10-20 · 1.1 MB
 
-[Open Acid Base disorders on Google Drive](https://drive.google.com/file/d/1ZepGiRkheL68ePFrlSEuN_7uXOV6iwJe/view)[Download Acid Base disorders](https://drive.google.com/uc?export=download&id=1ZepGiRkheL68ePFrlSEuN_7uXOV6iwJe)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZepGiRkheL68ePFrlSEuN_7uXOV6iwJe#report)
+[PDF ](https://drive.google.com/file/d/1ZepGiRkheL68ePFrlSEuN_7uXOV6iwJe/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1ZepGiRkheL68ePFrlSEuN_7uXOV6iwJe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZepGiRkheL68ePFrlSEuN_7uXOV6iwJe#report)
 
-PDFNotes
+PDF
+B oxidation of FA1.1 MB[Open B oxidation of FA](https://drive.google.com/file/d/1-BaJcNSL1RzbgjuqFD0orpcp25Tg9Pdv/view)
 
-### B oxidation of FA
+Updated 2020-10-20 · 1.1 MB
 
-1.1 MB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1-BaJcNSL1RzbgjuqFD0orpcp25Tg9Pdv/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1-BaJcNSL1RzbgjuqFD0orpcp25Tg9Pdv)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-BaJcNSL1RzbgjuqFD0orpcp25Tg9Pdv#report)
 
-[Open B oxidation of FA on Google Drive](https://drive.google.com/file/d/1-BaJcNSL1RzbgjuqFD0orpcp25Tg9Pdv/view)[Download B oxidation of FA](https://drive.google.com/uc?export=download&id=1-BaJcNSL1RzbgjuqFD0orpcp25Tg9Pdv)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-BaJcNSL1RzbgjuqFD0orpcp25Tg9Pdv#report)
+PDF
+BC of Digestitive disorders711 KB[Open BC of Digestitive disorders](https://drive.google.com/file/d/1F9rwicbof8mgl9lgZZx75qbvfCsnFePX/view)
 
-PDFNotes
+Updated 2020-10-20 · 711 KB
 
-### BC of Digestitive disorders
+[PDF ](https://drive.google.com/file/d/1F9rwicbof8mgl9lgZZx75qbvfCsnFePX/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1F9rwicbof8mgl9lgZZx75qbvfCsnFePX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1F9rwicbof8mgl9lgZZx75qbvfCsnFePX#report)
 
-711 KB · Updated 2020-10-20
+PDF
+BC of Oxidative stress1.2 MB[Open BC of Oxidative stress](https://drive.google.com/file/d/16iXjEhJCFoIWGiyLcy--a-UuXyC-zbP9/view)
 
-[Open BC of Digestitive disorders on Google Drive](https://drive.google.com/file/d/1F9rwicbof8mgl9lgZZx75qbvfCsnFePX/view)[Download BC of Digestitive disorders](https://drive.google.com/uc?export=download&id=1F9rwicbof8mgl9lgZZx75qbvfCsnFePX)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1F9rwicbof8mgl9lgZZx75qbvfCsnFePX#report)
+Updated 2020-10-20 · 1.2 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/16iXjEhJCFoIWGiyLcy--a-UuXyC-zbP9/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=16iXjEhJCFoIWGiyLcy--a-UuXyC-zbP9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16iXjEhJCFoIWGiyLcy--a-UuXyC-zbP9#report)
 
-### BC of Oxidative stress
+PDF
+Biochemical tests CHO metabolism1.4 MB[Open Biochemical tests CHO metabolism](https://drive.google.com/file/d/1AIyMheNBmJamwfjexrr0xfg4vudezAWB/view)
 
-1.2 MB · Updated 2020-10-20
+Updated 2020-10-20 · 1.4 MB
 
-[Open BC of Oxidative stress on Google Drive](https://drive.google.com/file/d/16iXjEhJCFoIWGiyLcy--a-UuXyC-zbP9/view)[Download BC of Oxidative stress](https://drive.google.com/uc?export=download&id=16iXjEhJCFoIWGiyLcy--a-UuXyC-zbP9)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16iXjEhJCFoIWGiyLcy--a-UuXyC-zbP9#report)
+[PDF ](https://drive.google.com/file/d/1AIyMheNBmJamwfjexrr0xfg4vudezAWB/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1AIyMheNBmJamwfjexrr0xfg4vudezAWB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AIyMheNBmJamwfjexrr0xfg4vudezAWB#report)
 
-PDFNotes
+PDF
+Biotransformation760 KB[Open Biotransformation](https://drive.google.com/file/d/1l8m1opK7IL8Yisv38D-5Hx-6nZEYqkll/view)
 
-### Biochemical tests CHO metabolism
+Updated 2020-10-20 · 760 KB
 
-1.4 MB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1l8m1opK7IL8Yisv38D-5Hx-6nZEYqkll/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1l8m1opK7IL8Yisv38D-5Hx-6nZEYqkll)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1l8m1opK7IL8Yisv38D-5Hx-6nZEYqkll#report)
 
-[Open Biochemical tests CHO metabolism on Google Drive](https://drive.google.com/file/d/1AIyMheNBmJamwfjexrr0xfg4vudezAWB/view)[Download Biochemical tests CHO metabolism](https://drive.google.com/uc?export=download&id=1AIyMheNBmJamwfjexrr0xfg4vudezAWB)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AIyMheNBmJamwfjexrr0xfg4vudezAWB#report)
+PDF
+Bovine ketosis, Pregnancy Toxemia727 KB[Open Bovine ketosis, Pregnancy Toxemia](https://drive.google.com/file/d/1DxrtfEtr05ZWVwHWflBOXJ3tcJ8zfVu6/view)
 
-PDFNotes
+Updated 2020-10-20 · 727 KB
 
-### Biotransformation
+[PDF ](https://drive.google.com/file/d/1DxrtfEtr05ZWVwHWflBOXJ3tcJ8zfVu6/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1DxrtfEtr05ZWVwHWflBOXJ3tcJ8zfVu6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DxrtfEtr05ZWVwHWflBOXJ3tcJ8zfVu6#report)
 
-760 KB · Updated 2020-10-20
+PDF
+Clinical Enzymology774 KB[Open Clinical Enzymology](https://drive.google.com/file/d/1vRYQxIr5HXwAh3rJQEhCt1NMBu0Rz0Qp/view)
 
-[Open Biotransformation on Google Drive](https://drive.google.com/file/d/1l8m1opK7IL8Yisv38D-5Hx-6nZEYqkll/view)[Download Biotransformation](https://drive.google.com/uc?export=download&id=1l8m1opK7IL8Yisv38D-5Hx-6nZEYqkll)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1l8m1opK7IL8Yisv38D-5Hx-6nZEYqkll#report)
+Updated 2020-10-20 · 774 KB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1vRYQxIr5HXwAh3rJQEhCt1NMBu0Rz0Qp/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1vRYQxIr5HXwAh3rJQEhCt1NMBu0Rz0Qp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vRYQxIr5HXwAh3rJQEhCt1NMBu0Rz0Qp#report)
 
-### Bovine ketosis, Pregnancy Toxemia
+PDF
+Diabetes Mellitus2.0 MB[Open Diabetes Mellitus](https://drive.google.com/file/d/1MSGVxvX22zHaX6QrIJMFAKMvVG60YGmB/view)
 
-727 KB · Updated 2020-10-20
+Updated 2020-10-20 · 2.0 MB
 
-[Open Bovine ketosis, Pregnancy Toxemia on Google Drive](https://drive.google.com/file/d/1DxrtfEtr05ZWVwHWflBOXJ3tcJ8zfVu6/view)[Download Bovine ketosis, Pregnancy Toxemia](https://drive.google.com/uc?export=download&id=1DxrtfEtr05ZWVwHWflBOXJ3tcJ8zfVu6)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DxrtfEtr05ZWVwHWflBOXJ3tcJ8zfVu6#report)
+[PDF ](https://drive.google.com/file/d/1MSGVxvX22zHaX6QrIJMFAKMvVG60YGmB/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1MSGVxvX22zHaX6QrIJMFAKMvVG60YGmB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MSGVxvX22zHaX6QrIJMFAKMvVG60YGmB#report)
 
-PDFNotes
+PDF
+ETC, OP, Hormonal ctrl1.4 MB[Open ETC, OP, Hormonal ctrl](https://drive.google.com/file/d/1kseV5IN_8olq924iyTWBJ3ui1zwLdN_7/view)
 
-### Clinical Enzymology
+Updated 2020-10-20 · 1.4 MB
 
-774 KB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1kseV5IN_8olq924iyTWBJ3ui1zwLdN_7/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1kseV5IN_8olq924iyTWBJ3ui1zwLdN_7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kseV5IN_8olq924iyTWBJ3ui1zwLdN_7#report)
 
-[Open Clinical Enzymology on Google Drive](https://drive.google.com/file/d/1vRYQxIr5HXwAh3rJQEhCt1NMBu0Rz0Qp/view)[Download Clinical Enzymology](https://drive.google.com/uc?export=download&id=1vRYQxIr5HXwAh3rJQEhCt1NMBu0Rz0Qp)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vRYQxIr5HXwAh3rJQEhCt1NMBu0Rz0Qp#report)
+PDF
+FA synthesis1.5 MB[Open FA synthesis](https://drive.google.com/file/d/1z5NJwLV_5pyMwu-P94vGxGUxYLHX5LS9/view)
 
-PDFNotes
+Updated 2020-10-20 · 1.5 MB
 
-### Diabetes Mellitus
+[PDF ](https://drive.google.com/file/d/1z5NJwLV_5pyMwu-P94vGxGUxYLHX5LS9/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1z5NJwLV_5pyMwu-P94vGxGUxYLHX5LS9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z5NJwLV_5pyMwu-P94vGxGUxYLHX5LS9#report)
 
-2.0 MB · Updated 2020-10-20
+PDF
+FA synthesis rev1.9 MB[Open FA synthesis rev](https://drive.google.com/file/d/1KwC_96B6cltTc0MJsK8pY08MTKQ0tsjp/view)
 
-[Open Diabetes Mellitus on Google Drive](https://drive.google.com/file/d/1MSGVxvX22zHaX6QrIJMFAKMvVG60YGmB/view)[Download Diabetes Mellitus](https://drive.google.com/uc?export=download&id=1MSGVxvX22zHaX6QrIJMFAKMvVG60YGmB)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MSGVxvX22zHaX6QrIJMFAKMvVG60YGmB#report)
+Updated 2020-10-20 · 1.9 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1KwC_96B6cltTc0MJsK8pY08MTKQ0tsjp/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1KwC_96B6cltTc0MJsK8pY08MTKQ0tsjp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KwC_96B6cltTc0MJsK8pY08MTKQ0tsjp#report)
 
-### ETC, OP, Hormonal ctrl
+PDF
+Gluconeogenesis679 KB[Open Gluconeogenesis](https://drive.google.com/file/d/1BtsHEqPTwCX9x4s29rlcFGdU-BlhWnWH/view)
 
-1.4 MB · Updated 2020-10-20
+Updated 2020-10-20 · 679 KB
 
-[Open ETC, OP, Hormonal ctrl on Google Drive](https://drive.google.com/file/d/1kseV5IN_8olq924iyTWBJ3ui1zwLdN_7/view)[Download ETC, OP, Hormonal ctrl](https://drive.google.com/uc?export=download&id=1kseV5IN_8olq924iyTWBJ3ui1zwLdN_7)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kseV5IN_8olq924iyTWBJ3ui1zwLdN_7#report)
+[PDF ](https://drive.google.com/file/d/1BtsHEqPTwCX9x4s29rlcFGdU-BlhWnWH/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1BtsHEqPTwCX9x4s29rlcFGdU-BlhWnWH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BtsHEqPTwCX9x4s29rlcFGdU-BlhWnWH#report)
 
-PDFNotes
+PDF
+Glycogenesis, Glycogenolysis1.3 MB[Open Glycogenesis, Glycogenolysis](https://drive.google.com/file/d/1LUfcErkcSXJggWjLtv4qHiOzFw6RBfWA/view)
 
-### FA synthesis
+Updated 2020-10-20 · 1.3 MB
 
-1.5 MB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1LUfcErkcSXJggWjLtv4qHiOzFw6RBfWA/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1LUfcErkcSXJggWjLtv4qHiOzFw6RBfWA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LUfcErkcSXJggWjLtv4qHiOzFw6RBfWA#report)
 
-[Open FA synthesis on Google Drive](https://drive.google.com/file/d/1z5NJwLV_5pyMwu-P94vGxGUxYLHX5LS9/view)[Download FA synthesis](https://drive.google.com/uc?export=download&id=1z5NJwLV_5pyMwu-P94vGxGUxYLHX5LS9)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z5NJwLV_5pyMwu-P94vGxGUxYLHX5LS9#report)
+PDF
+HMP pathway935 KB[Open HMP pathway](https://drive.google.com/file/d/1y6zO8djb2jhrAg2HZD5AcJ-4n7d_ygXa/view)
 
-PDFNotes
+Updated 2020-10-20 · 935 KB
 
-### FA synthesis rev
+[PDF ](https://drive.google.com/file/d/1y6zO8djb2jhrAg2HZD5AcJ-4n7d_ygXa/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1y6zO8djb2jhrAg2HZD5AcJ-4n7d_ygXa)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1y6zO8djb2jhrAg2HZD5AcJ-4n7d_ygXa#report)
 
-1.9 MB · Updated 2020-10-20
+PDF
+Introduction to Protein Amino acid metabolism; Dr Vijay Anand Lecture handout4.7 MB[Open Introduction to Protein Amino acid metabolism; Dr Vijay Anand Lecture handout](https://drive.google.com/file/d/1bjBQK_TUNYsXpJcbD3Svc9V4GMhmD6wd/view)
 
-[Open FA synthesis rev on Google Drive](https://drive.google.com/file/d/1KwC_96B6cltTc0MJsK8pY08MTKQ0tsjp/view)[Download FA synthesis rev](https://drive.google.com/uc?export=download&id=1KwC_96B6cltTc0MJsK8pY08MTKQ0tsjp)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KwC_96B6cltTc0MJsK8pY08MTKQ0tsjp#report)
+Updated 2020-10-20 · 4.7 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1bjBQK_TUNYsXpJcbD3Svc9V4GMhmD6wd/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1bjBQK_TUNYsXpJcbD3Svc9V4GMhmD6wd)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bjBQK_TUNYsXpJcbD3Svc9V4GMhmD6wd#report)
 
-### Gluconeogenesis
+PDF
+Ketone bodies788 KB[Open Ketone bodies](https://drive.google.com/file/d/1fCHtU2JkLf4tf6s2gzyOnDxUiMUJ_fFA/view)
 
-679 KB · Updated 2020-10-20
+Updated 2020-10-20 · 788 KB
 
-[Open Gluconeogenesis on Google Drive](https://drive.google.com/file/d/1BtsHEqPTwCX9x4s29rlcFGdU-BlhWnWH/view)[Download Gluconeogenesis](https://drive.google.com/uc?export=download&id=1BtsHEqPTwCX9x4s29rlcFGdU-BlhWnWH)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BtsHEqPTwCX9x4s29rlcFGdU-BlhWnWH#report)
+[PDF ](https://drive.google.com/file/d/1fCHtU2JkLf4tf6s2gzyOnDxUiMUJ_fFA/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1fCHtU2JkLf4tf6s2gzyOnDxUiMUJ_fFA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fCHtU2JkLf4tf6s2gzyOnDxUiMUJ_fFA#report)
 
-PDFNotes
+PDF
+LFTs707 KB[Open LFTs](https://drive.google.com/file/d/14rZj0uQ-ZdGPmZDnaBHYnUVeOE_jHwCW/view)
 
-### Glycogenesis, Glycogenolysis
+Updated 2020-10-20 · 707 KB
 
-1.3 MB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/14rZj0uQ-ZdGPmZDnaBHYnUVeOE_jHwCW/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=14rZj0uQ-ZdGPmZDnaBHYnUVeOE_jHwCW)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14rZj0uQ-ZdGPmZDnaBHYnUVeOE_jHwCW#report)
 
-[Open Glycogenesis, Glycogenolysis on Google Drive](https://drive.google.com/file/d/1LUfcErkcSXJggWjLtv4qHiOzFw6RBfWA/view)[Download Glycogenesis, Glycogenolysis](https://drive.google.com/uc?export=download&id=1LUfcErkcSXJggWjLtv4qHiOzFw6RBfWA)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LUfcErkcSXJggWjLtv4qHiOzFw6RBfWA#report)
+PDF
+Lipid Disorders531 KB[Open Lipid Disorders](https://drive.google.com/file/d/1mnDrS-BAAjLtJPC-u9ubV-08L9Ee6yiM/view)
 
-PPTNotes
+Updated 2020-10-20 · 531 KB
 
-### Glycolysis, TCA Cycle
+[PDF ](https://drive.google.com/file/d/1mnDrS-BAAjLtJPC-u9ubV-08L9Ee6yiM/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1mnDrS-BAAjLtJPC-u9ubV-08L9Ee6yiM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mnDrS-BAAjLtJPC-u9ubV-08L9Ee6yiM#report)
 
-1.0 MB · Updated 2020-10-20
+PDF
+Nucleotide metabolism1.7 MB[Open Nucleotide metabolism](https://drive.google.com/file/d/1tLuxCe0GfatE_MvIwHSD4IljHutqD8UY/view)
 
-[Open Glycolysis, TCA Cycle on Google Drive](https://drive.google.com/file/d/1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP/view)[Download Glycolysis, TCA Cycle](https://drive.google.com/uc?export=download&id=1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP#report)
+Updated 2020-10-20 · 1.7 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1tLuxCe0GfatE_MvIwHSD4IljHutqD8UY/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1tLuxCe0GfatE_MvIwHSD4IljHutqD8UY)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tLuxCe0GfatE_MvIwHSD4IljHutqD8UY#report)
 
-### HMP pathway
+PDF
+Protein Disorders788 KB[Open Protein Disorders](https://drive.google.com/file/d/1FizIhFuNHvybFE6J95BMlD95ytoCsCdy/view)
 
-935 KB · Updated 2020-10-20
+Updated 2020-10-20 · 788 KB
 
-[Open HMP pathway on Google Drive](https://drive.google.com/file/d/1y6zO8djb2jhrAg2HZD5AcJ-4n7d_ygXa/view)[Download HMP pathway](https://drive.google.com/uc?export=download&id=1y6zO8djb2jhrAg2HZD5AcJ-4n7d_ygXa)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1y6zO8djb2jhrAg2HZD5AcJ-4n7d_ygXa#report)
+[PDF ](https://drive.google.com/file/d/1FizIhFuNHvybFE6J95BMlD95ytoCsCdy/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1FizIhFuNHvybFE6J95BMlD95ytoCsCdy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FizIhFuNHvybFE6J95BMlD95ytoCsCdy#report)
 
-PDFNotes
+PDF
+Renal function tests669 KB[Open Renal function tests](https://drive.google.com/file/d/1o9-28-VvBsXWsr8sXy_HRNIWaoHNJcgG/view)
 
-### Introduction to Protein Amino acid metabolism; Dr Vijay Anand Lecture handout
+Updated 2020-10-20 · 669 KB
 
-4.7 MB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1o9-28-VvBsXWsr8sXy_HRNIWaoHNJcgG/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1o9-28-VvBsXWsr8sXy_HRNIWaoHNJcgG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1o9-28-VvBsXWsr8sXy_HRNIWaoHNJcgG#report)
 
-[Open Introduction to Protein Amino acid metabolism; Dr Vijay Anand Lecture handout on Google Drive](https://drive.google.com/file/d/1bjBQK_TUNYsXpJcbD3Svc9V4GMhmD6wd/view)[Download Introduction to Protein Amino acid metabolism; Dr Vijay Anand Lecture handout](https://drive.google.com/uc?export=download&id=1bjBQK_TUNYsXpJcbD3Svc9V4GMhmD6wd)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bjBQK_TUNYsXpJcbD3Svc9V4GMhmD6wd#report)
+PDF
+Replication, Transcription, Translation; Lecture by Dr Vijay Anand6.6 MB[Open Replication, Transcription, Translation; Lecture by Dr Vijay Anand](https://drive.google.com/file/d/1TdWKMwcEf_mGB4djdTE0aqTEM9EcaRML/view)
 
-PDFNotes
+Updated 2020-10-20 · 6.6 MB
 
-### Ketone bodies
+[PDF ](https://drive.google.com/file/d/1TdWKMwcEf_mGB4djdTE0aqTEM9EcaRML/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1TdWKMwcEf_mGB4djdTE0aqTEM9EcaRML)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TdWKMwcEf_mGB4djdTE0aqTEM9EcaRML#report)
 
-788 KB · Updated 2020-10-20
+PDF
+Unit 1 LN VBC 2019-202.6 MB[Open Unit 1 LN VBC 2019-20](https://drive.google.com/file/d/1ylWOYeBHCezx9HSQJpD9rQdTWsIAZQ10/view)
 
-[Open Ketone bodies on Google Drive](https://drive.google.com/file/d/1fCHtU2JkLf4tf6s2gzyOnDxUiMUJ_fFA/view)[Download Ketone bodies](https://drive.google.com/uc?export=download&id=1fCHtU2JkLf4tf6s2gzyOnDxUiMUJ_fFA)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fCHtU2JkLf4tf6s2gzyOnDxUiMUJ_fFA#report)
+Updated 2020-10-20 · 2.6 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1ylWOYeBHCezx9HSQJpD9rQdTWsIAZQ10/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1ylWOYeBHCezx9HSQJpD9rQdTWsIAZQ10)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ylWOYeBHCezx9HSQJpD9rQdTWsIAZQ10#report)
 
-### LFTs
+PDF
+Unit 2 LN VBC 2019-204.2 MB[Open Unit 2 LN VBC 2019-20](https://drive.google.com/file/d/1P1Di0FgRwNDL6751djw5DJN1NI3OAEio/view)
 
-707 KB · Updated 2020-10-20
+Updated 2020-10-20 · 4.2 MB
 
-[Open LFTs on Google Drive](https://drive.google.com/file/d/14rZj0uQ-ZdGPmZDnaBHYnUVeOE_jHwCW/view)[Download LFTs](https://drive.google.com/uc?export=download&id=14rZj0uQ-ZdGPmZDnaBHYnUVeOE_jHwCW)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14rZj0uQ-ZdGPmZDnaBHYnUVeOE_jHwCW#report)
+[PDF ](https://drive.google.com/file/d/1P1Di0FgRwNDL6751djw5DJN1NI3OAEio/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1P1Di0FgRwNDL6751djw5DJN1NI3OAEio)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P1Di0FgRwNDL6751djw5DJN1NI3OAEio#report)
 
-PDFNotes
+PDF
+Unit 3 LN VBC 2019-202.0 MB[Open Unit 3 LN VBC 2019-20](https://drive.google.com/file/d/18ufHfFqg6Nq0U07UhHosfN5xsvB1Ombf/view)
 
-### Lipid Disorders
+Updated 2020-10-20 · 2.0 MB
 
-531 KB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/18ufHfFqg6Nq0U07UhHosfN5xsvB1Ombf/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=18ufHfFqg6Nq0U07UhHosfN5xsvB1Ombf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18ufHfFqg6Nq0U07UhHosfN5xsvB1Ombf#report)
 
-[Open Lipid Disorders on Google Drive](https://drive.google.com/file/d/1mnDrS-BAAjLtJPC-u9ubV-08L9Ee6yiM/view)[Download Lipid Disorders](https://drive.google.com/uc?export=download&id=1mnDrS-BAAjLtJPC-u9ubV-08L9Ee6yiM)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mnDrS-BAAjLtJPC-u9ubV-08L9Ee6yiM#report)
+## Practical
 
-PDFNotes
+6
 
-### Nucleotide metabolism
+PDF
+Biochemistry manual paper 1 - 2019-201.8 MB[Open Biochemistry manual paper 1 - 2019-20](https://drive.google.com/file/d/1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo/view)
 
-1.7 MB · Updated 2020-10-20
+Updated 2020-12-09 · 1.8 MB
 
-[Open Nucleotide metabolism on Google Drive](https://drive.google.com/file/d/1tLuxCe0GfatE_MvIwHSD4IljHutqD8UY/view)[Download Nucleotide metabolism](https://drive.google.com/uc?export=download&id=1tLuxCe0GfatE_MvIwHSD4IljHutqD8UY)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tLuxCe0GfatE_MvIwHSD4IljHutqD8UY#report)
+[PDF ](https://drive.google.com/file/d/1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo#report)
 
-PDFNotes
+PDF
+Biochemistry manual paper 2 - 2019-201.6 MB[Open Biochemistry manual paper 2 - 2019-20](https://drive.google.com/file/d/1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8/view)
 
-### Protein Disorders
+Updated 2020-12-09 · 1.6 MB
 
-788 KB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8#report)
 
-[Open Protein Disorders on Google Drive](https://drive.google.com/file/d/1FizIhFuNHvybFE6J95BMlD95ytoCsCdy/view)[Download Protein Disorders](https://drive.google.com/uc?export=download&id=1FizIhFuNHvybFE6J95BMlD95ytoCsCdy)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FizIhFuNHvybFE6J95BMlD95ytoCsCdy#report)
+PDF
+Calorimetry and Spectrophotometry767 KB[Open Calorimetry and Spectrophotometry](https://drive.google.com/file/d/1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL/view)
 
-PDFNotes
+Updated 2020-12-11 · 767 KB
 
-### Renal function tests
+[PDF ](https://drive.google.com/file/d/1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL#report)
 
-669 KB · Updated 2020-10-20
+PDF
+Estimation of Ascorbic acid, Lactose, Glycine884 KB[Open Estimation of Ascorbic acid, Lactose, Glycine](https://drive.google.com/file/d/118-Nyb1t_d01RkKAiKWT2zR4D50j4fho/view)
 
-[Open Renal function tests on Google Drive](https://drive.google.com/file/d/1o9-28-VvBsXWsr8sXy_HRNIWaoHNJcgG/view)[Download Renal function tests](https://drive.google.com/uc?export=download&id=1o9-28-VvBsXWsr8sXy_HRNIWaoHNJcgG)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1o9-28-VvBsXWsr8sXy_HRNIWaoHNJcgG#report)
+Updated 2020-12-30 · 884 KB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/118-Nyb1t_d01RkKAiKWT2zR4D50j4fho/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=118-Nyb1t_d01RkKAiKWT2zR4D50j4fho)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=118-Nyb1t_d01RkKAiKWT2zR4D50j4fho#report)
 
-### Replication, Transcription, Translation; Lecture by Dr Vijay Anand
+PDF
+Estimation of Ca, P, Mg868 KB[Open Estimation of Ca, P, Mg](https://drive.google.com/file/d/1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_/view)
 
-6.6 MB · Updated 2020-10-20
+Updated 2020-12-30 · 868 KB
 
-[Open Replication, Transcription, Translation; Lecture by Dr Vijay Anand on Google Drive](https://drive.google.com/file/d/1TdWKMwcEf_mGB4djdTE0aqTEM9EcaRML/view)[Download Replication, Transcription, Translation; Lecture by Dr Vijay Anand](https://drive.google.com/uc?export=download&id=1TdWKMwcEf_mGB4djdTE0aqTEM9EcaRML)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TdWKMwcEf_mGB4djdTE0aqTEM9EcaRML#report)
+[PDF ](https://drive.google.com/file/d/1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_#report)
 
-PDFNotes
+PDF
+Estimation of Glucose, Total protein, Albumin722 KB[Open Estimation of Glucose, Total protein, Albumin](https://drive.google.com/file/d/1e7QS4_MrDorPBaKkDstxjJkHL70647Pe/view)
 
-### Unit 1 LN VBC 2019-20
+Updated 2020-12-16 · 722 KB
 
-2.6 MB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1e7QS4_MrDorPBaKkDstxjJkHL70647Pe/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1e7QS4_MrDorPBaKkDstxjJkHL70647Pe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1e7QS4_MrDorPBaKkDstxjJkHL70647Pe#report)
 
-[Open Unit 1 LN VBC 2019-20 on Google Drive](https://drive.google.com/file/d/1ylWOYeBHCezx9HSQJpD9rQdTWsIAZQ10/view)[Download Unit 1 LN VBC 2019-20](https://drive.google.com/uc?export=download&id=1ylWOYeBHCezx9HSQJpD9rQdTWsIAZQ10)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ylWOYeBHCezx9HSQJpD9rQdTWsIAZQ10#report)
+## Objective
 
-PDFNotes
+1
 
-### Unit 2 LN VBC 2019-20
+PDF
+Biochemistry23.3 MB[Open Biochemistry](https://drive.google.com/file/d/1Pj6vIm5BPo_UNYr5mB_hhLExh3qIRGtb/view)
 
-4.2 MB · Updated 2020-10-20
+Updated 2019-12-14 · 23.3 MB
 
-[Open Unit 2 LN VBC 2019-20 on Google Drive](https://drive.google.com/file/d/1P1Di0FgRwNDL6751djw5DJN1NI3OAEio/view)[Download Unit 2 LN VBC 2019-20](https://drive.google.com/uc?export=download&id=1P1Di0FgRwNDL6751djw5DJN1NI3OAEio)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P1Di0FgRwNDL6751djw5DJN1NI3OAEio#report)
+[PDF ](https://drive.google.com/file/d/1Pj6vIm5BPo_UNYr5mB_hhLExh3qIRGtb/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1Pj6vIm5BPo_UNYr5mB_hhLExh3qIRGtb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Pj6vIm5BPo_UNYr5mB_hhLExh3qIRGtb#report)
 
-PDFNotes
+## Slides
 
-### Unit 3 LN VBC 2019-20
+1
 
-2.0 MB · Updated 2020-10-20
+PPT
+Glycolysis, TCA Cycle1.0 MB[Open Glycolysis, TCA Cycle](https://drive.google.com/file/d/1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP/view)
 
-[Open Unit 3 LN VBC 2019-20 on Google Drive](https://drive.google.com/file/d/18ufHfFqg6Nq0U07UhHosfN5xsvB1Ombf/view)[Download Unit 3 LN VBC 2019-20](https://drive.google.com/uc?export=download&id=18ufHfFqg6Nq0U07UhHosfN5xsvB1Ombf)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18ufHfFqg6Nq0U07UhHosfN5xsvB1Ombf#report)
+Updated 2020-10-20 · 1.0 MB
 
-## Books 0
+[PPT ](https://drive.google.com/file/d/1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP#report)
 
-No books indexed yet
+## Extras
 
-Nothing here yet. Even a calf needs a minute to stand.
+10
 
-[Request Resource](https://notes.thatvetguy.net/request-resource/)
+DOC
+19 VBC Paper 1 assignment topics19 KB[Open 19 VBC Paper 1 assignment topics](https://drive.google.com/file/d/16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N/view)
 
-## Practical manuals 6
+Updated 2020-12-11 · 19 KB
 
-PDFPractical manuals
+[DOC ](https://drive.google.com/file/d/16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N#report)
 
-### Biochemistry manual paper 1 - 2019-20
+DOC
+19 VBC Paper 2 assignment topics21 KB[Open 19 VBC Paper 2 assignment topics](https://drive.google.com/file/d/1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb/view)
 
-1.8 MB · Updated 2020-12-09
+Updated 2020-12-11 · 21 KB
 
-[Open Biochemistry manual paper 1 - 2019-20 on Google Drive](https://drive.google.com/file/d/1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo/view)[Download Biochemistry manual paper 1 - 2019-20](https://drive.google.com/uc?export=download&id=1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo#report)
+[DOC ](https://drive.google.com/file/d/1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb#report)
 
-PDFPractical manuals
+PDF
+Biochemistry Internal 2 Choose241 KB[Open Biochemistry Internal 2 Choose](https://drive.google.com/file/d/1N0acTdlR8Q8pX6CG-mWrWK8dy3eh4z5_/view)
 
-### Biochemistry manual paper 2 - 2019-20
+Updated 2020-11-09 · 241 KB
 
-1.6 MB · Updated 2020-12-09
+[PDF ](https://drive.google.com/file/d/1N0acTdlR8Q8pX6CG-mWrWK8dy3eh4z5_/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1N0acTdlR8Q8pX6CG-mWrWK8dy3eh4z5_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1N0acTdlR8Q8pX6CG-mWrWK8dy3eh4z5_#report)
 
-[Open Biochemistry manual paper 2 - 2019-20 on Google Drive](https://drive.google.com/file/d/1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8/view)[Download Biochemistry manual paper 2 - 2019-20](https://drive.google.com/uc?export=download&id=1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8#report)
+PDF
+Biochemistry Internal 2 with ans758 KB[Open Biochemistry Internal 2 with ans](https://drive.google.com/file/d/1anfj28x8IW5jMOj9x0nb9pcbIANndRA4/view)
 
-PDFPractical manuals
+Updated 2020-09-21 · 758 KB
 
-### Calorimetry and Spectrophotometry
+[PDF ](https://drive.google.com/file/d/1anfj28x8IW5jMOj9x0nb9pcbIANndRA4/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1anfj28x8IW5jMOj9x0nb9pcbIANndRA4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1anfj28x8IW5jMOj9x0nb9pcbIANndRA4#report)
 
-767 KB · Updated 2020-12-11
+PDF
+Biochemistry Internal 3 with ans430 KB[Open Biochemistry Internal 3 with ans](https://drive.google.com/file/d/1JwPh_92DksJckgGtF7Kp1fOzBn2OetG_/view)
 
-[Open Calorimetry and Spectrophotometry on Google Drive](https://drive.google.com/file/d/1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL/view)[Download Calorimetry and Spectrophotometry](https://drive.google.com/uc?export=download&id=1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL#report)
+Updated 2020-10-12 · 430 KB
 
-PDFPractical manuals
+[PDF ](https://drive.google.com/file/d/1JwPh_92DksJckgGtF7Kp1fOzBn2OetG_/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1JwPh_92DksJckgGtF7Kp1fOzBn2OetG_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JwPh_92DksJckgGtF7Kp1fOzBn2OetG_#report)
 
-### Estimation of Ascorbic acid, Lactose, Glycine
+PDF
+BVO18041 - Biochemistry Paper 14.2 MB[Open BVO18041 - Biochemistry Paper 1](https://drive.google.com/file/d/1KwtD1g8bKqlJRe_LjjMrVxOh8vh4o739/view)
 
-884 KB · Updated 2020-12-30
+Updated 2020-12-25 · 4.2 MB
 
-[Open Estimation of Ascorbic acid, Lactose, Glycine on Google Drive](https://drive.google.com/file/d/118-Nyb1t_d01RkKAiKWT2zR4D50j4fho/view)[Download Estimation of Ascorbic acid, Lactose, Glycine](https://drive.google.com/uc?export=download&id=118-Nyb1t_d01RkKAiKWT2zR4D50j4fho)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=118-Nyb1t_d01RkKAiKWT2zR4D50j4fho#report)
+[PDF ](https://drive.google.com/file/d/1KwtD1g8bKqlJRe_LjjMrVxOh8vh4o739/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1KwtD1g8bKqlJRe_LjjMrVxOh8vh4o739)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KwtD1g8bKqlJRe_LjjMrVxOh8vh4o739#report)
 
-PDFPractical manuals
+PDF
+BVO18041 - Biochemistry Paper 23.9 MB[Open BVO18041 - Biochemistry Paper 2](https://drive.google.com/file/d/1rNMopz3dqTWnABXvEg8vg96mysoUWjdX/view)
 
-### Estimation of Ca, P, Mg
+Updated 2020-12-25 · 3.9 MB
 
-868 KB · Updated 2020-12-30
+[PDF ](https://drive.google.com/file/d/1rNMopz3dqTWnABXvEg8vg96mysoUWjdX/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1rNMopz3dqTWnABXvEg8vg96mysoUWjdX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rNMopz3dqTWnABXvEg8vg96mysoUWjdX#report)
 
-[Open Estimation of Ca, P, Mg on Google Drive](https://drive.google.com/file/d/1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_/view)[Download Estimation of Ca, P, Mg](https://drive.google.com/uc?export=download&id=1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_#report)
+PDF
+BVO18041 - VBC PAPER 111.0 MB[Open BVO18041 - VBC PAPER 1](https://drive.google.com/file/d/1Pfm9a94TaszHsoyh2n0YQlgFvKluue6o/view)
 
-PDFPractical manuals
+Updated 2021-01-04 · 11.0 MB
 
-### Estimation of Glucose, Total protein, Albumin
+[PDF ](https://drive.google.com/file/d/1Pfm9a94TaszHsoyh2n0YQlgFvKluue6o/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1Pfm9a94TaszHsoyh2n0YQlgFvKluue6o)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Pfm9a94TaszHsoyh2n0YQlgFvKluue6o#report)
 
-722 KB · Updated 2020-12-16
+PDF
+VBC -VCI MSVE 2016 syllabus43 KB[Open VBC -VCI MSVE 2016 syllabus](https://drive.google.com/file/d/1L0MBsHEDvAB3a279SQHT3ux-hQFcZKER/view)
 
-[Open Estimation of Glucose, Total protein, Albumin on Google Drive](https://drive.google.com/file/d/1e7QS4_MrDorPBaKkDstxjJkHL70647Pe/view)[Download Estimation of Glucose, Total protein, Albumin](https://drive.google.com/uc?export=download&id=1e7QS4_MrDorPBaKkDstxjJkHL70647Pe)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1e7QS4_MrDorPBaKkDstxjJkHL70647Pe#report)
+Updated 2020-09-11 · 43 KB
 
-## Other 11
+[PDF ](https://drive.google.com/file/d/1L0MBsHEDvAB3a279SQHT3ux-hQFcZKER/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1L0MBsHEDvAB3a279SQHT3ux-hQFcZKER)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1L0MBsHEDvAB3a279SQHT3ux-hQFcZKER#report)
 
-DOCOther
+PDF
+Veterinary Biochemistry Mock Test 1188 KB[Open Veterinary Biochemistry Mock Test 1](https://drive.google.com/file/d/1yKsOi1IHztP5Z8QwwSMAvELn4u8izKAT/view)
 
-### 2018-19 VBC Paper 1 assignment topics
+Updated 2020-07-16 · 188 KB
 
-19 KB · Updated 2020-12-11
+[PDF ](https://drive.google.com/file/d/1yKsOi1IHztP5Z8QwwSMAvELn4u8izKAT/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1yKsOi1IHztP5Z8QwwSMAvELn4u8izKAT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yKsOi1IHztP5Z8QwwSMAvELn4u8izKAT#report)
 
-[Open 2018-19 VBC Paper 1 assignment topics on Google Drive](https://drive.google.com/file/d/16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N/view)[Download 2018-19 VBC Paper 1 assignment topics](https://drive.google.com/uc?export=download&id=16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N#report)
+No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
-DOCOther
+What to revise in this subject 
 
-### 2018-19 VBC Paper 2 assignment topics
+- Carbohydrate, lipid and protein metabolism
+- Enzymes and biological oxidation
+- Vitamins and minerals
+- Molecular biology and biochemical tests
 
-21 KB · Updated 2020-12-11
+Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
-[Open 2018-19 VBC Paper 2 assignment topics on Google Drive](https://drive.google.com/file/d/1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb/view)[Download 2018-19 VBC Paper 2 assignment topics](https://drive.google.com/uc?export=download&id=1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb#report)
+## Keep the connections.
 
-PDFOther
+[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)[Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/animal-genetics-and-breeding/)
 
-### Biochemistry
-
-23.3 MB · Updated 2019-12-14
-
-[Open Biochemistry on Google Drive](https://drive.google.com/file/d/1Pj6vIm5BPo_UNYr5mB_hhLExh3qIRGtb/view)[Download Biochemistry](https://drive.google.com/uc?export=download&id=1Pj6vIm5BPo_UNYr5mB_hhLExh3qIRGtb)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Pj6vIm5BPo_UNYr5mB_hhLExh3qIRGtb#report)
-
-PDFOther
-
-### Biochemistry Internal 2 Choose
-
-241 KB · Updated 2020-11-09
-
-[Open Biochemistry Internal 2 Choose on Google Drive](https://drive.google.com/file/d/1N0acTdlR8Q8pX6CG-mWrWK8dy3eh4z5_/view)[Download Biochemistry Internal 2 Choose](https://drive.google.com/uc?export=download&id=1N0acTdlR8Q8pX6CG-mWrWK8dy3eh4z5_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1N0acTdlR8Q8pX6CG-mWrWK8dy3eh4z5_#report)
-
-PDFOther
-
-### Biochemistry Internal 2 with ans
-
-758 KB · Updated 2020-09-21
-
-[Open Biochemistry Internal 2 with ans on Google Drive](https://drive.google.com/file/d/1anfj28x8IW5jMOj9x0nb9pcbIANndRA4/view)[Download Biochemistry Internal 2 with ans](https://drive.google.com/uc?export=download&id=1anfj28x8IW5jMOj9x0nb9pcbIANndRA4)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1anfj28x8IW5jMOj9x0nb9pcbIANndRA4#report)
-
-PDFOther
-
-### Biochemistry Internal 3 with ans
-
-430 KB · Updated 2020-10-12
-
-[Open Biochemistry Internal 3 with ans on Google Drive](https://drive.google.com/file/d/1JwPh_92DksJckgGtF7Kp1fOzBn2OetG_/view)[Download Biochemistry Internal 3 with ans](https://drive.google.com/uc?export=download&id=1JwPh_92DksJckgGtF7Kp1fOzBn2OetG_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JwPh_92DksJckgGtF7Kp1fOzBn2OetG_#report)
-
-PDFOther
-
-### BVO18041 - Biochemistry Paper 1
-
-4.2 MB · Updated 2020-12-25
-
-[Open BVO18041 - Biochemistry Paper 1 on Google Drive](https://drive.google.com/file/d/1KwtD1g8bKqlJRe_LjjMrVxOh8vh4o739/view)[Download BVO18041 - Biochemistry Paper 1](https://drive.google.com/uc?export=download&id=1KwtD1g8bKqlJRe_LjjMrVxOh8vh4o739)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KwtD1g8bKqlJRe_LjjMrVxOh8vh4o739#report)
-
-PDFOther
-
-### BVO18041 - Biochemistry Paper 2
-
-3.9 MB · Updated 2020-12-25
-
-[Open BVO18041 - Biochemistry Paper 2 on Google Drive](https://drive.google.com/file/d/1rNMopz3dqTWnABXvEg8vg96mysoUWjdX/view)[Download BVO18041 - Biochemistry Paper 2](https://drive.google.com/uc?export=download&id=1rNMopz3dqTWnABXvEg8vg96mysoUWjdX)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rNMopz3dqTWnABXvEg8vg96mysoUWjdX#report)
-
-PDFOther
-
-### BVO18041 - VBC PAPER 1
-
-11.0 MB · Updated 2021-01-04
-
-[Open BVO18041 - VBC PAPER 1 on Google Drive](https://drive.google.com/file/d/1Pfm9a94TaszHsoyh2n0YQlgFvKluue6o/view)[Download BVO18041 - VBC PAPER 1](https://drive.google.com/uc?export=download&id=1Pfm9a94TaszHsoyh2n0YQlgFvKluue6o)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Pfm9a94TaszHsoyh2n0YQlgFvKluue6o#report)
-
-PDFOther
-
-### VBC -VCI MSVE 2016 syllabus
-
-43 KB · Updated 2020-09-11
-
-[Open VBC -VCI MSVE 2016 syllabus on Google Drive](https://drive.google.com/file/d/1L0MBsHEDvAB3a279SQHT3ux-hQFcZKER/view)[Download VBC -VCI MSVE 2016 syllabus](https://drive.google.com/uc?export=download&id=1L0MBsHEDvAB3a279SQHT3ux-hQFcZKER)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1L0MBsHEDvAB3a279SQHT3ux-hQFcZKER#report)
-
-PDFOther
-
-### Veterinary Biochemistry Mock Test 1
-
-188 KB · Updated 2020-07-16
-
-[Open Veterinary Biochemistry Mock Test 1 on Google Drive](https://drive.google.com/file/d/1yKsOi1IHztP5Z8QwwSMAvELn4u8izKAT/view)[Download Veterinary Biochemistry Mock Test 1](https://drive.google.com/uc?export=download&id=1yKsOi1IHztP5Z8QwwSMAvELn4u8izKAT)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yKsOi1IHztP5Z8QwwSMAvELn4u8izKAT#report)
-
-## Questions, answered
-
-Where do these files open?
-
-Files open in the supplied Google Drive collection. Availability and access settings are controlled by the file owner.
-
-Why is Download missing on some files?
-
-A direct Download action is shown only when a binary file has a known size below 25 MB. Larger files and files with unknown sizes use the Drive viewer.
-
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

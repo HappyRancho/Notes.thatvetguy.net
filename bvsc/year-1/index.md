@@ -1,27 +1,33 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/1st Year BVSc Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/1st Year — pick a subject.
 
-# 1st Year BVSc Notes & Books
+# 1st Year — pick a subject.
 
-Find 698 indexed files for 1st Year BVSc & AH study. Choose a subject to browse notes, books, practical manuals and other material.
+Notes, books and practical material for 1st Year BVSc & AH. Choose a subject to find your next read.
 
-Subjects marked studied: 0 of 30 of 3
+3 subjects · 457 resources
 
-- [Veterinary Anatomy358 files](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
-- [Veterinary Physiology89 files](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
-- [Livestock Production Management251 files](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+[248 resources
 
-## Books by subject
+## Veterinary Anatomy
 
-- [Veterinary Anatomy books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
-- [Veterinary Physiology books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
-- [Livestock Production Management books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
+Images 12 · Slides 154 · Objective 49 · Practical 15 · Notes 7 · Extras 8 · Books 3
 
-## Questions, answered
+](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[82 resources
 
-How are subjects organised?
+## Veterinary Physiology
 
-Subjects follow the existing four-year library structure. Your university syllabus remains the final reference for professional-year grouping.
+Slides 55 · Extras 2 · Notes 9 · Objective 12 · Books 4
 
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[127 resources
+
+## Livestock Production Management
+
+Practical 55 · Slides 41 · Notes 22 · Extras 5 · Objective 2 · Images 1 · Books 1
+
+](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+
+Year grouping may vary by university. Check your syllabus.
+
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

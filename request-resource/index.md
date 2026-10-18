@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-18 -->
 
 [Home](https://notes.thatvetguy.net/)/Can’t find what you need?
 
@@ -6,27 +6,29 @@
 
 Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
 
-## Tell us what would help
+↳ Can't find it? Ask. The library has an excellent memory.
 
-Include the title or topic, subject, year and edition if relevant.
+## Tell us what would help.
+
+Include the topic, subject, year and edition if relevant.
 
 File ID, if reporting a file
 
-[Email your request](mailto:contact@thatvetguy.net?subject=Resource%20request)
+[Email your request ](mailto:contact@thatvetguy.net?subject=Resource%20request)
 
-You can also write directly to contact@thatvetguy.net. If your email app does not open, copy the address into your preferred email service.
+You can also copy contact@thatvetguy.net into your email app.
 
 ## Contact
 
 Send your question to contact@thatvetguy.net.
 
-## Contribute a resource
+## Contribute
 
-Send the original title, subject and source credit. Share only material you have permission to contribute.
+Send the title, subject and original source credit. Share only material you have permission to contribute.
 
 ## Report an error / takedown
 
-Include the file ID or page URL, the issue and your preferred contact details. For a takedown request, explain your connection to the material so it can be reviewed.
+Include the file ID or page URL, the issue and your contact details. For a takedown request, explain your connection to the material.
 
 ## Questions, answered
 
@@ -38,4 +40,4 @@ Can I contribute a resource?
 
 Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
 
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

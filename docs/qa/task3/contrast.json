@@ -1,0 +1,219 @@
+[
+  {
+    "theme": "light",
+    "foreground": "text",
+    "background": "paper",
+    "ratio": 15.42,
+    "minimum": 7
+  },
+  {
+    "theme": "light",
+    "foreground": "muted",
+    "background": "paper",
+    "ratio": 8.86,
+    "minimum": 4.5
+  },
+  {
+    "theme": "light",
+    "foreground": "border",
+    "background": "paper",
+    "ratio": 15.42,
+    "minimum": 3
+  },
+  {
+    "theme": "light",
+    "foreground": "text",
+    "background": "surface",
+    "ratio": 16.28,
+    "minimum": 7
+  },
+  {
+    "theme": "light",
+    "foreground": "muted",
+    "background": "surface",
+    "ratio": 9.35,
+    "minimum": 4.5
+  },
+  {
+    "theme": "light",
+    "foreground": "border",
+    "background": "surface",
+    "ratio": 16.28,
+    "minimum": 3
+  },
+  {
+    "theme": "dark",
+    "foreground": "text",
+    "background": "paper",
+    "ratio": 16.13,
+    "minimum": 7
+  },
+  {
+    "theme": "dark",
+    "foreground": "muted",
+    "background": "paper",
+    "ratio": 11.87,
+    "minimum": 4.5
+  },
+  {
+    "theme": "dark",
+    "foreground": "border",
+    "background": "paper",
+    "ratio": 5.58,
+    "minimum": 3
+  },
+  {
+    "theme": "dark",
+    "foreground": "text",
+    "background": "surface",
+    "ratio": 14.35,
+    "minimum": 7
+  },
+  {
+    "theme": "dark",
+    "foreground": "muted",
+    "background": "surface",
+    "ratio": 10.56,
+    "minimum": 4.5
+  },
+  {
+    "theme": "dark",
+    "foreground": "border",
+    "background": "surface",
+    "ratio": 4.96,
+    "minimum": 3
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker ink",
+    "background": "sun",
+    "ratio": 11.77,
+    "minimum": 7
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker secondary",
+    "background": "sun",
+    "ratio": 6.76,
+    "minimum": 4.5
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker border",
+    "background": "sun",
+    "ratio": 11.77,
+    "minimum": 3
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker ink",
+    "background": "coral",
+    "ratio": 7.87,
+    "minimum": 7
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker secondary",
+    "background": "coral",
+    "ratio": 4.52,
+    "minimum": 4.5
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker border",
+    "background": "coral",
+    "ratio": 7.87,
+    "minimum": 3
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker ink",
+    "background": "sky",
+    "ratio": 9.79,
+    "minimum": 7
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker secondary",
+    "background": "sky",
+    "ratio": 5.63,
+    "minimum": 4.5
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker border",
+    "background": "sky",
+    "ratio": 9.79,
+    "minimum": 3
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker ink",
+    "background": "mint",
+    "ratio": 11.34,
+    "minimum": 7
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker secondary",
+    "background": "mint",
+    "ratio": 6.52,
+    "minimum": 4.5
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker border",
+    "background": "mint",
+    "ratio": 11.34,
+    "minimum": 3
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker ink",
+    "background": "lime",
+    "ratio": 12.59,
+    "minimum": 7
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker secondary",
+    "background": "lime",
+    "ratio": 7.23,
+    "minimum": 4.5
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker border",
+    "background": "lime",
+    "ratio": 12.59,
+    "minimum": 3
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker ink",
+    "background": "telegram",
+    "ratio": 12.08,
+    "minimum": 7
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker secondary",
+    "background": "telegram",
+    "ratio": 6.94,
+    "minimum": 4.5
+  },
+  {
+    "theme": "both",
+    "foreground": "sticker border",
+    "background": "telegram",
+    "ratio": 12.08,
+    "minimum": 3
+  },
+  {
+    "theme": "both",
+    "foreground": "primary label",
+    "background": "primary button",
+    "ratio": 12.59,
+    "minimum": 7
+  }
+]

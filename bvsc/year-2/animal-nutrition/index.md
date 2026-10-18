@@ -1,310 +1,296 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-10-14 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/) / [2nd Year](https://notes.thatvetguy.net/bvsc/year-2/) / Animal Nutrition
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Nutrition
 
 # Animal Nutrition
 
-Browse the indexed Animal Nutrition files for 2nd Year BVSc & AH students. Files are grouped by their source folders, with original names, sizes and update dates where provided.
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
 
-31 files · 2nd Year
+30 resources · 2nd Year
 
-[Notes (14)](#notes)[Books (3)](#books)[Practical manuals (2)](#practical-manuals)[Other (12)](#other)
+Search this collection
 
-## Notes 14
+## Notes
 
-PDFNotes
+9
 
-### Animal breeding
+PDF
+Animal breeding4.6 MB[Open Animal breeding](https://drive.google.com/file/d/1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0/view)
 
-4.6 MB · Updated 2020-10-20
+Updated 2020-10-20 · 4.6 MB
 
-[Open Animal breeding on Google Drive](https://drive.google.com/file/d/1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0/view)[Download Animal breeding](https://drive.google.com/uc?export=download&id=1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0#report)
+[PDF ](https://drive.google.com/file/d/1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0#report)
 
-PDFNotes
+PDF
+ANN Paper I lecture notes1.7 MB[Open ANN Paper I lecture notes](https://drive.google.com/file/d/1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK/view)
 
-### ANN Paper I lecture notes
+Updated 2020-10-20 · 1.7 MB
 
-1.7 MB · Updated 2020-10-20
+[PDF ](https://drive.google.com/file/d/1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK#report)
 
-[Open ANN Paper I lecture notes on Google Drive](https://drive.google.com/file/d/1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK/view)[Download ANN Paper I lecture notes](https://drive.google.com/uc?export=download&id=1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK#report)
+PDF
+ANN Paper II lecture notes1.4 MB[Open ANN Paper II lecture notes](https://drive.google.com/file/d/1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE/view)
 
-PDFNotes
+Updated 2020-10-20 · 1.4 MB
 
-### ANN Paper II lecture notes
+[PDF ](https://drive.google.com/file/d/1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE#report)
 
-1.4 MB · Updated 2020-10-20
+DOC
+Feeding of Wild Captive Animals26 KB[Open Feeding of Wild Captive Animals](https://drive.google.com/file/d/1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB/view)
 
-[Open ANN Paper II lecture notes on Google Drive](https://drive.google.com/file/d/1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE/view)[Download ANN Paper II lecture notes](https://drive.google.com/uc?export=download&id=1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE#report)
+Updated 2020-07-02 · 26 KB
 
-PPTNotes
+[DOC ](https://drive.google.com/file/d/1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB#report)
 
-### Feeding Management of Laying Hens 07.04.2020
+DOC
+Feeding Pet of Animals30 KB[Open Feeding Pet of Animals](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)
 
-6.4 MB · Updated 2026-10-06
+Updated 2020-06-26 · 30 KB
 
-[Open Feeding Management of Laying Hens 07.04.2020 on Google Drive](https://drive.google.com/file/d/164NbP0n0ylRIAUAY4pyfonKDCw0SAclt/view)[Download Feeding Management of Laying Hens 07.04.2020](https://drive.google.com/uc?export=download&id=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt#report)
+[DOC ](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH#report)
 
-PPTNotes
+PDF
+Functions and Deficiencies of Vitamins and Minerals208 KB[Open Functions and Deficiencies of Vitamins and Minerals](https://drive.google.com/file/d/1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz/view)
 
-### Feeding management of pigs
+Updated 2020-05-12 · 208 KB
 
-3.7 MB · Updated 2020-05-12
+[PDF ](https://drive.google.com/file/d/1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz#report)
 
-[Open Feeding management of pigs on Google Drive](https://drive.google.com/file/d/1inejTwmm0gHTAxaDFEGqRnXApXmDSFum/view)[Download Feeding management of pigs](https://drive.google.com/uc?export=download&id=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum#report)
+PDF
+History of Animal Nutrition854 KB[Open History of Animal Nutrition](https://drive.google.com/file/d/1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2/view)
 
-PPTNotes
+Updated 2020-06-26 · 854 KB
 
-### Feeding of Broilers and Layers
+[PDF ](https://drive.google.com/file/d/1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2#report)
 
-3.6 MB · Updated 2020-10-20
+PDF
+Milk composition affecting factors444 KB[Open Milk composition affecting factors](https://drive.google.com/file/d/1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2/view)
 
-[Open Feeding of Broilers and Layers on Google Drive](https://drive.google.com/file/d/11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy/view)[Download Feeding of Broilers and Layers](https://drive.google.com/uc?export=download&id=11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy#report)
+Updated 2020-06-26 · 444 KB
 
-DOCNotes
+[PDF ](https://drive.google.com/file/d/1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2#report)
 
-### Feeding of Wild Captive Animals
+DOC
+Nutrient Requirement and Feeding of Pigs36 KB[Open Nutrient Requirement and Feeding of Pigs](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)
 
-26 KB · Updated 2020-07-02
+Updated 2020-05-12 · 36 KB
 
-[Open Feeding of Wild Captive Animals on Google Drive](https://drive.google.com/file/d/1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB/view)[Download Feeding of Wild Captive Animals](https://drive.google.com/uc?export=download&id=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB#report)
+[DOC ](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)
+[Download DOC](https://drive.google.com/uc?export=download&id=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i#report)
 
-DOCNotes
+## Books
 
-### Feeding Pet of Animals
+3
 
-30 KB · Updated 2020-06-26
+PDF
+Animal Nutrition, 7th edition3.2 MB[Open Animal Nutrition, 7th edition](https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view)
 
-[Open Feeding Pet of Animals on Google Drive](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)[Download Feeding Pet of Animals](https://drive.google.com/uc?export=download&id=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH#report)
+Updated 2019-12-04 · 3.2 MB
 
-PDFNotes
+[PDF ](https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r#report)
 
-### Functions and Deficiencies of Vitamins and Minerals
+PDF
+D V. REDDY part 120.3 MB[Open D V. REDDY part 1](https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view)
 
-208 KB · Updated 2020-05-12
+Updated 2020-06-26 · 20.3 MB
 
-[Open Functions and Deficiencies of Vitamins and Minerals on Google Drive](https://drive.google.com/file/d/1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz/view)[Download Functions and Deficiencies of Vitamins and Minerals](https://drive.google.com/uc?export=download&id=1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz#report)
+[PDF ](https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR#report)
 
-PDFNotes
+PDF
+D. V. REDDY part 29.0 MB[Open D. V. REDDY part 2](https://drive.google.com/file/d/1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe/view)
 
-### History of Animal Nutrition
+Updated 2020-06-26 · 9.0 MB
 
-854 KB · Updated 2020-06-26
+[PDF ](https://drive.google.com/file/d/1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe#report)
 
-[Open History of Animal Nutrition on Google Drive](https://drive.google.com/file/d/1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2/view)[Download History of Animal Nutrition](https://drive.google.com/uc?export=download&id=1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2#report)
+## Practical
 
-PDFNotes
+2
 
-### Milk composition affecting factors
+PPT
+ANN Paper I3.8 MB[Open ANN Paper I](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)
 
-444 KB · Updated 2020-06-26
+Updated 2021-01-21 · 3.8 MB
 
-[Open Milk composition affecting factors on Google Drive](https://drive.google.com/file/d/1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2/view)[Download Milk composition affecting factors](https://drive.google.com/uc?export=download&id=1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2#report)
+[PPT ](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM#report)
 
-PPTNotes
+PPT
+ANN Paper II2.7 MB[Open ANN Paper II](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)
 
-### NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL
+Updated 2021-01-21 · 2.7 MB
 
-6.4 MB · Updated 2020-04-16
+[PPT ](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R#report)
 
-[Open NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL on Google Drive](https://drive.google.com/file/d/1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq/view)[Download NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL](https://drive.google.com/uc?export=download&id=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq#report)
+## Objective
 
-DOCNotes
+2
 
-### Nutrient Requirement and Feeding of Pigs
+PDF
+Animal Nutrition 121.8 MB[Open Animal Nutrition 1](https://drive.google.com/file/d/1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV/view)
 
-36 KB · Updated 2020-05-12
+Updated 2019-12-14 · 21.8 MB
 
-[Open Nutrient Requirement and Feeding of Pigs on Google Drive](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)[Download Nutrient Requirement and Feeding of Pigs](https://drive.google.com/uc?export=download&id=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i#report)
+[PDF ](https://drive.google.com/file/d/1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV#report)
 
-PPTNotes
+PDF
+Animal Nutrition 227.4 MB[Open Animal Nutrition 2](https://drive.google.com/file/d/11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM/view)
 
-### Pet Animal Nutrition- Revised
+Updated 2019-07-17 · 27.4 MB
 
-3.6 MB · Updated 2020-10-20
-
-[Open Pet Animal Nutrition- Revised on Google Drive](https://drive.google.com/file/d/1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z/view)[Download Pet Animal Nutrition- Revised](https://drive.google.com/uc?export=download&id=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z#report)
-
-## Books 3
-
-PDFBooks
-
-### Animal Nutrition, 7th edition
-
-3.2 MB · Updated 2019-12-04
-
-[Open Animal Nutrition, 7th edition on Google Drive](https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view)[Download Animal Nutrition, 7th edition](https://drive.google.com/uc?export=download&id=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r#report)
-
-PDFBooks
-
-### D V. REDDY part 1
-
-20.3 MB · Updated 2020-06-26
-
-[Open D V. REDDY part 1 on Google Drive](https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view)[Download D V. REDDY part 1](https://drive.google.com/uc?export=download&id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR#report)
-
-PDFBooks
-
-### D. V. REDDY part 2
-
-9.0 MB · Updated 2020-06-26
-
-[Open D. V. REDDY part 2 on Google Drive](https://drive.google.com/file/d/1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe/view)[Download D. V. REDDY part 2](https://drive.google.com/uc?export=download&id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe#report)
-
-## Practical manuals 2
-
-PPTPractical manuals
-
-### ANN Paper I
-
-3.8 MB · Updated 2021-01-21
-
-[Open ANN Paper I on Google Drive](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)[Download ANN Paper I](https://drive.google.com/uc?export=download&id=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM#report)
-
-PPTPractical manuals
-
-### ANN Paper II
-
-2.7 MB · Updated 2021-01-21
-
-[Open ANN Paper II on Google Drive](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)[Download ANN Paper II](https://drive.google.com/uc?export=download&id=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R#report)
-
-## Other 12
-
-PDFOther
-
-### Animal Nutrition 1
-
-21.8 MB · Updated 2019-12-14
-
-[Open Animal Nutrition 1 on Google Drive](https://drive.google.com/file/d/1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV/view)[Download Animal Nutrition 1](https://drive.google.com/uc?export=download&id=1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV#report)
-
-PDFOther
-
-### Animal Nutrition 2
-
-27.4 MB · Updated 2019-07-17
-
-[Open Animal Nutrition 2 on Google Drive](https://drive.google.com/file/d/11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM/view)
+[PDF ](https://drive.google.com/file/d/11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM#report)
 
-PDFOther
+## Slides
 
-### ANN Paper I Assignments
+5
 
-92 KB · Updated 2020-12-15
+PPT
+Feeding Management of Laying Hens 07.04.2020NEW6.4 MB[Open Feeding Management of Laying Hens 07.04.2020](https://drive.google.com/file/d/164NbP0n0ylRIAUAY4pyfonKDCw0SAclt/view)
 
-[Open ANN Paper I Assignments on Google Drive](https://drive.google.com/file/d/1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3/view)[Download ANN Paper I Assignments](https://drive.google.com/uc?export=download&id=1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3#report)
+Updated 2026-10-06 · 6.4 MB
 
-PDFOther
+[PPT ](https://drive.google.com/file/d/164NbP0n0ylRIAUAY4pyfonKDCw0SAclt/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt#report)
 
-### ANN Paper II Assignments
+PPT
+Feeding management of pigs3.7 MB[Open Feeding management of pigs](https://drive.google.com/file/d/1inejTwmm0gHTAxaDFEGqRnXApXmDSFum/view)
 
-115 KB · Updated 2020-12-15
+Updated 2020-05-12 · 3.7 MB
 
-[Open ANN Paper II Assignments on Google Drive](https://drive.google.com/file/d/1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh/view)[Download ANN Paper II Assignments](https://drive.google.com/uc?export=download&id=1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh#report)
+[PPT ](https://drive.google.com/file/d/1inejTwmm0gHTAxaDFEGqRnXApXmDSFum/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum#report)
 
-PDFOther
+PPT
+Feeding of Broilers and Layers3.6 MB[Open Feeding of Broilers and Layers](https://drive.google.com/file/d/11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy/view)
 
-### BVO18041 - Nutrition Paper 1
+Updated 2020-10-20 · 3.6 MB
 
-10.2 MB · Updated 2020-12-25
+[PPT ](https://drive.google.com/file/d/11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy#report)
 
-[Open BVO18041 - Nutrition Paper 1 on Google Drive](https://drive.google.com/file/d/1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE/view)[Download BVO18041 - Nutrition Paper 1](https://drive.google.com/uc?export=download&id=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE#report)
+PPT
+NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL6.4 MB[Open NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL](https://drive.google.com/file/d/1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq/view)
 
-PDFOther
+Updated 2020-04-16 · 6.4 MB
 
-### BVO18041 - Nutrition Paper 2
+[PPT ](https://drive.google.com/file/d/1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq#report)
 
-11.1 MB · Updated 2020-12-25
+PPT
+Pet Animal Nutrition- Revised3.6 MB[Open Pet Animal Nutrition- Revised](https://drive.google.com/file/d/1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z/view)
 
-[Open BVO18041 - Nutrition Paper 2 on Google Drive](https://drive.google.com/file/d/1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL/view)[Download BVO18041 - Nutrition Paper 2](https://drive.google.com/uc?export=download&id=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL#report)
+Updated 2020-10-20 · 3.6 MB
 
-IMGOther
+[PPT ](https://drive.google.com/file/d/1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z#report)
 
-### IMG-20191114-WA0002
+## Images
 
-110 KB · Updated 2019-12-21
+1
 
-[Open IMG-20191114-WA0002 on Google Drive](https://drive.google.com/file/d/14q2q6G6zBU2DzEEz9PvOqkySn0U55Gvx/view)[Download IMG-20191114-WA0002](https://drive.google.com/uc?export=download&id=14q2q6G6zBU2DzEEz9PvOqkySn0U55Gvx)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14q2q6G6zBU2DzEEz9PvOqkySn0U55Gvx#report)
+IMG
+Photo set — Animal Nutrition — 2 images244 KB[Open Photo set — Animal Nutrition — 2 images](https://drive.google.com/drive/folders/1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk)
 
-IMGOther
+Updated 2019-12-21 · 244 KB
 
-### IMG-20191114-WA0003
+[IMG ](https://drive.google.com/drive/folders/1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk#report)
 
-134 KB · Updated 2019-12-21
+## Extras
 
-[Open IMG-20191114-WA0003 on Google Drive](https://drive.google.com/file/d/1FrmmBYxTlOci01gX5ccZFsS8H6HxQZO_/view)[Download IMG-20191114-WA0003](https://drive.google.com/uc?export=download&id=1FrmmBYxTlOci01gX5ccZFsS8H6HxQZO_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FrmmBYxTlOci01gX5ccZFsS8H6HxQZO_#report)
+8
 
-PDFOther
+PDF
+ANN Paper I Assignments92 KB[Open ANN Paper I Assignments](https://drive.google.com/file/d/1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3/view)
 
-### Nutrition Internal 2 Choose
+Updated 2020-12-15 · 92 KB
 
-250 KB · Updated 2020-11-04
+[PDF ](https://drive.google.com/file/d/1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3#report)
 
-[Open Nutrition Internal 2 Choose on Google Drive](https://drive.google.com/file/d/1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ/view)[Download Nutrition Internal 2 Choose](https://drive.google.com/uc?export=download&id=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ#report)
+PDF
+ANN Paper II Assignments115 KB[Open ANN Paper II Assignments](https://drive.google.com/file/d/1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh/view)
 
-PDFOther
+Updated 2020-12-15 · 115 KB
 
-### Nutrition Internal 2 Fillups
+[PDF ](https://drive.google.com/file/d/1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh#report)
 
-97 KB · Updated 2020-11-04
+PDF
+BVO18041 - Nutrition Paper 110.2 MB[Open BVO18041 - Nutrition Paper 1](https://drive.google.com/file/d/1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE/view)
 
-[Open Nutrition Internal 2 Fillups on Google Drive](https://drive.google.com/file/d/1nudzh1M0A_ngthDwh4548KG2vRMzg1t6/view)[Download Nutrition Internal 2 Fillups](https://drive.google.com/uc?export=download&id=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6#report)
+Updated 2020-12-25 · 10.2 MB
 
-PDFOther
+[PDF ](https://drive.google.com/file/d/1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE#report)
 
-### Nutrition Internal 2 with ans
+PDF
+BVO18041 - Nutrition Paper 211.1 MB[Open BVO18041 - Nutrition Paper 2](https://drive.google.com/file/d/1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL/view)
 
-876 KB · Updated 2020-09-23
+Updated 2020-12-25 · 11.1 MB
 
-[Open Nutrition Internal 2 with ans on Google Drive](https://drive.google.com/file/d/1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5/view)[Download Nutrition Internal 2 with ans](https://drive.google.com/uc?export=download&id=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5#report)
+[PDF ](https://drive.google.com/file/d/1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL#report)
 
-PDFOther
+PDF
+Nutrition Internal 2 Choose250 KB[Open Nutrition Internal 2 Choose](https://drive.google.com/file/d/1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ/view)
 
-### Nutrition Internal 3 with ans
+Updated 2020-11-04 · 250 KB
 
-337 KB · Updated 2020-10-16
+[PDF ](https://drive.google.com/file/d/1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ#report)
 
-[Open Nutrition Internal 3 with ans on Google Drive](https://drive.google.com/file/d/1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_/view)[Download Nutrition Internal 3 with ans](https://drive.google.com/uc?export=download&id=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_#report)
+PDF
+Nutrition Internal 2 Fillups97 KB[Open Nutrition Internal 2 Fillups](https://drive.google.com/file/d/1nudzh1M0A_ngthDwh4548KG2vRMzg1t6/view)
 
-## Questions, answered
+Updated 2020-11-04 · 97 KB
 
-Where do these files open?
+[PDF ](https://drive.google.com/file/d/1nudzh1M0A_ngthDwh4548KG2vRMzg1t6/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6#report)
 
-Files open in the supplied Google Drive collection. Availability and access settings are controlled by the file owner.
+PDF
+Nutrition Internal 2 with ans876 KB[Open Nutrition Internal 2 with ans](https://drive.google.com/file/d/1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5/view)
 
-Why is Download missing on some files?
+Updated 2020-09-23 · 876 KB
 
-A direct Download action is shown only when a binary file has a known size below 25 MB. Larger files and files with unknown sizes use the Drive viewer.
+[PDF ](https://drive.google.com/file/d/1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5#report)
 
-Last checked: 2026-10-14. This date records source review, not a guarantee of external file availability.
+PDF
+Nutrition Internal 3 with ans337 KB[Open Nutrition Internal 3 with ans](https://drive.google.com/file/d/1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_/view)
+
+Updated 2020-10-16 · 337 KB
+
+[PDF ](https://drive.google.com/file/d/1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_#report)
+
+No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+
+What to revise in this subject 
+
+- Feed evaluation and digestion
+- Energy and protein nutrition
+- Minerals and vitamins
+- Ration formulation and species feeding
+
+Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+
+## Keep the connections.
+
+[Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/veterinary-biochemistry/)[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/veterinary-microbiology/)[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/veterinary-pathology/)
+
+Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
