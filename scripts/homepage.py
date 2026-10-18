@@ -22,7 +22,7 @@ def art(name,box,cls='',source=None):
 def burst():return '<span class="rx-burst" aria-hidden="true"><i></i><i></i><i></i></span>'
 
 def header(path='/', home=True):
-    syringe='<span class="rx-letter-t"><span class="rx-syringe"><img src="/assets/home/syringe.webp" width="23" height="129" alt="" loading="'+('eager' if home else 'lazy')+'" decoding="async"></span></span>'
+    syringe='<span class="rx-letter-t"><span class="rx-syringe"><img src="/assets/home/syringe.webp" width="23" height="129" alt="" loading="eager" decoding="async"></span></span>' if home else ''
     logo='<span class="rx-wordmark" aria-hidden="true"><span class="rx-symbol">R<sub>x</sub></span><span class="rx-notes">No'+syringe+'es</span><span class="rx-by">by <b>thatvetguy</b></span></span>'
     nav=''.join(link(u,t+('' if path=='/' or not path.startswith(u) else '<span class="sr-only"> — current page</span>'),('nav-link'+(' current' if path.startswith(u) else ''))) for u,t in [('/bvsc/','Notes & Books'),('/objective/','Objective'),('/study-tools/','Study Tools'),('/clinical/','Clinical')])
     promise=('<h1 id="academic-resources">' if home else '<div class="rx-promise-title" role="heading" aria-level="2">')+'Free Veterinary<br>Academic Resources'+('</h1>' if home else '</div>')
