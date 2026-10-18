@@ -15,117 +15,57 @@ Search this collection
 9
 
 PDF
-Angiology
-
-Angiology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Angiology](https://drive.google.com/file/d/1GAJPkpC3FgntG136cAhq8mENzwllRAn9/view?usp=sharing)
+Angiology[Open Angiology](https://drive.google.com/file/d/1GAJPkpC3FgntG136cAhq8mENzwllRAn9/view?usp=sharing)
 
 PDF
-Applied Veterinary Anatomy
-
-Applied Veterinary Anatomy — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Applied Veterinary Anatomy](https://drive.google.com/file/d/1NrKdVUS6MIVDkTvWLr7m9n0DCI4WH5n7/view?usp=sharing)
+Applied Veterinary Anatomy[Open Applied Veterinary Anatomy](https://drive.google.com/file/d/1NrKdVUS6MIVDkTvWLr7m9n0DCI4WH5n7/view?usp=sharing)
 
 PDF
-Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes
-
-Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes](https://drive.google.com/file/d/1D00EDkZvngDqh8VULF053qkUJCheSg4_/view?usp=sharing)
+Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes[Open Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes](https://drive.google.com/file/d/1D00EDkZvngDqh8VULF053qkUJCheSg4_/view?usp=sharing)
 
 PDF
-Myology
-
-Myology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Myology](https://drive.google.com/file/d/1xqUJTxXYLTzqb5xRm5uDsdk3SUwaPXQ0/view?usp=sharing)
+Myology[Open Myology](https://drive.google.com/file/d/1xqUJTxXYLTzqb5xRm5uDsdk3SUwaPXQ0/view?usp=sharing)
 
 PDF
-Neurology
-
-Neurology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Neurology](https://drive.google.com/file/d/1X_OsEQsY7ficZk5Oq9djYVU8lJw7SErd/view?usp=sharing)
+Neurology[Open Neurology](https://drive.google.com/file/d/1X_OsEQsY7ficZk5Oq9djYVU8lJw7SErd/view?usp=sharing)
 
 PDF
-Organ of Special Senses Note
-
-Organ of Special Senses Note — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Organ of Special Senses Note](https://drive.google.com/file/d/1ccSkEH3ddWp67okEFIBj9HqgKA_2NJMd/view?usp=sharing)
+Organ of Special Senses Note[Open Organ of Special Senses Note](https://drive.google.com/file/d/1ccSkEH3ddWp67okEFIBj9HqgKA_2NJMd/view?usp=sharing)
 
 PDF
-Organs of Special Senses or Aesthesiology
-
-Organs of Special Senses or Aesthesiology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Organs of Special Senses or Aesthesiology](https://drive.google.com/file/d/1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI/view?usp=sharing)
+Organs of Special Senses or Aesthesiology[Open Organs of Special Senses or Aesthesiology](https://drive.google.com/file/d/1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI/view?usp=sharing)
 
 PDF
-Splanchnology
-
-Splanchnology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7/view?usp=sharing)
+Splanchnology[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7/view?usp=sharing)
 
 PDF
-Veterinary Anatomy Overall
-
-Veterinary Anatomy Overall — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
-
-[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
+Veterinary Anatomy Overall[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
 
 ## Unit 7 – Veterinary Histology
 
 3
 
 PDF
-Full Histology
-
-Full Histology — Veterinary Anatomy, Unit 7 – Veterinary Histology.
-
-[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
+Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
 
 PDF
-Lecture Notes on Histology
-
-Lecture Notes on Histology — Veterinary Anatomy, Unit 7 – Veterinary Histology.
-
-[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
+Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
 
 PDF
-Veterinary Histology Notes
-
-Veterinary Histology Notes — Veterinary Anatomy, Unit 7 – Veterinary Histology.
-
-[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
+Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
 
 ## Unit 8 – Veterinary Embryology
 
 3
 
 PDF
-Full Embryology
-
-Full Embryology — Veterinary Anatomy, Unit 8 – Veterinary Embryology.
-
-[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
+Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
 
 PDF
-Lecture Notes on Embryology
-
-Lecture Notes on Embryology — Veterinary Anatomy, Unit 8 – Veterinary Embryology.
-
-[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
+Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
 
 PDF
-Veterinary Embryology Notes
-
-Veterinary Embryology Notes — Veterinary Anatomy, Unit 8 – Veterinary Embryology.
-
-[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
+Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
