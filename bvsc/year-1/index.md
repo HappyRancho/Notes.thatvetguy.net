@@ -12,7 +12,7 @@ Notes, books and practical material for 1st Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Anatomy
 
-Images 12 · Slides 150 · Objective 49 · Practical 15 · Notes 7 · Extras 8 · Books 3
+Images 12 · Slides 150 · Objective 49 · Practical 15 · Notes 5 · Extras 8 · Books 5
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[82 resources
 
