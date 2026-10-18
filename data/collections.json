@@ -1,0 +1,170 @@
+{
+  "reviewed": "2026-10-18",
+  "resources": [
+    {
+      "id": "dhruv-desai",
+      "collection": "objective-notes",
+      "title": "Compiled Question Bank by Dhruv N Desai",
+      "url": "https://t.me/veterinary_objectives/2?single",
+      "description": "Compiled objective questions across veterinary subjects for focused revision.",
+      "icon": "paper",
+      "tone": "purple",
+      "source": "Telegram",
+      "sourceCredit": "Dhruv N Desai"
+    },
+    {
+      "id": "animal-science-refresher",
+      "collection": "objective-notes",
+      "title": "Animal Science Refresher",
+      "url": "https://t.me/veterinary_objectives/5",
+      "description": "A broad animal-science revision companion for reviewing core concepts.",
+      "icon": "brain",
+      "tone": "pink",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "review-veterinary-science",
+      "collection": "objective-notes",
+      "title": "Review of Veterinary Science",
+      "url": "https://t.me/veterinary_objectives/7",
+      "description": "Revisit veterinary subjects and consolidate key points before an exam.",
+      "icon": "book",
+      "tone": "peach",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "review-animal-science",
+      "collection": "objective-notes",
+      "title": "Review of Animal Science",
+      "url": "https://t.me/veterinary_objectives/8",
+      "description": "Review important animal-science topics alongside your syllabus and class notes.",
+      "icon": "chart",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "veterinary-capsule",
+      "collection": "objective-notes",
+      "title": "All in One Veterinary Capsule",
+      "url": "https://t.me/veterinary_objectives/3?single",
+      "description": "A compact veterinary revision resource for a final pass through key topics.",
+      "icon": "pill",
+      "tone": "sky",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "tanuvas-qbank",
+      "collection": "question-banks",
+      "title": "TANUVAS All-Subjects Question Bank",
+      "url": "https://t.me/veterinary_question_bank/3",
+      "description": "An all-subject question collection for practising veterinary objective questions.",
+      "icon": "paper",
+      "tone": "sky",
+      "source": "Telegram",
+      "sourceCredit": "TANUVAS"
+    },
+    {
+      "id": "ndri-qbank",
+      "collection": "question-banks",
+      "title": "NDRI Veterinary Question Bank",
+      "url": "https://t.me/veterinary_question_bank/6",
+      "description": "An additional question collection to work through during exam preparation.",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "NDRI"
+    },
+    {
+      "id": "vet-scorer",
+      "collection": "question-banks",
+      "title": "Vet Scorer 2022 — 1st Edition",
+      "url": "https://t.me/veterinary_question_bank/12",
+      "description": "A veterinary objective-practice resource; use this 2022 edition with current notes.",
+      "icon": "target",
+      "tone": "peach",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "kvafsu-qbank",
+      "collection": "question-banks",
+      "title": "KVAFSU Question Bank",
+      "url": "https://t.me/veterinary_question_bank/5",
+      "description": "Build a subject-wise practice routine with this veterinary question collection.",
+      "icon": "paper",
+      "tone": "purple",
+      "source": "Telegram",
+      "sourceCredit": "KVAFSU"
+    },
+    {
+      "id": "e-nanu-qbank",
+      "collection": "question-banks",
+      "title": "E. Nanu Veterinary Question Bank",
+      "url": "https://t.me/veterinary_question_bank/4",
+      "description": "Another veterinary question set for checking recall and identifying revision gaps.",
+      "icon": "book",
+      "tone": "pink",
+      "source": "Telegram",
+      "sourceCredit": "E. Nanu"
+    },
+    {
+      "id": "vendex",
+      "collection": "drug-index",
+      "title": "VENDEX: The Fundamental Veterinary Drug Index",
+      "url": "https://t.me/c/4430259212/3",
+      "description": "A veterinary drug-index reference to consult alongside current product information.",
+      "icon": "pill",
+      "tone": "sky",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "navsari-drug-index",
+      "collection": "drug-index",
+      "title": "Veterinary Drug Index by NAVSARI",
+      "url": "https://t.me/c/4430259212/4",
+      "description": "A veterinary drug-reference collection labelled NAVSARI.",
+      "icon": "paper",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "NAVSARI"
+    },
+    {
+      "id": "plumbs-handbook",
+      "collection": "drug-index",
+      "title": "Plumb’s Veterinary Drug Handbook",
+      "url": "https://t.me/c/4430259212/5",
+      "description": "A drug-handbook reference. Check the edition and species-specific guidance before use.",
+      "icon": "book",
+      "tone": "purple",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "wall-drug-dose",
+      "collection": "drug-index",
+      "title": "Drug Dose — Wall Reference",
+      "url": "https://t.me/c/4430259212/7",
+      "description": "A printable quick-reference sheet; verify every dose against current clinical guidance.",
+      "icon": "chart",
+      "tone": "peach",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "vaccination-schedule",
+      "collection": "drug-index",
+      "title": "Vaccination Schedule of All Animals",
+      "url": "https://t.me/c/4430259212/6",
+      "description": "A vaccination-schedule reference to compare with species, local guidance and product labels.",
+      "icon": "shield",
+      "tone": "yellow",
+      "source": "Telegram",
+      "sourceCredit": null
+    }
+  ]
+}

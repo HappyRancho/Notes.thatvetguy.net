@@ -52,7 +52,9 @@ for p,page in pages.items():
         if u.fragment and dest in pages:assert unquote(u.fragment) in pages[dest].ids,(p,'missing anchor',url)
 data=json.loads((ROOT/'data/resources.json').read_text());records=data['files'];raw=json.loads((ROOT/'data/drive_manifest.json').read_text());report=json.loads((ROOT/'data/duplicates-report.json').read_text());search=json.loads((ROOT/'search-index.json').read_text())
 rawids={f['id'] for f in raw};accounted=[]
-for r in records:accounted+=r['photoIds'] or [v['id'] for v in r['variants']];accounted+=r['duplicateIds']
+for r in records:
+    if r['url'].startswith('https://drive.google.com/'):
+        accounted+=r['photoIds'] or [v['id'] for v in r['variants']];accounted+=r['duplicateIds']
 assert set(accounted)==rawids and len(accounted)==len(rawids),'lost or multiply-owned original file'
 visible_records=[r for r in records if keep_complete_resource(r)]
 assert {r['id'] for r in search}=={r['id'] for r in visible_records},'search mismatch'
@@ -71,8 +73,13 @@ for y in data['years']:
     for s in y['subjects']:assert s['count']==sum(s['groups'].values())==len(s['resourceIds'])
 assert not any('icar-pyq' in r['collections'] for r in records),'Unverified ICAR PYQ'
 source=json.loads((ROOT/'data/vetbvsc-source.json').read_text())
-assert {r['id'] for r in records}=={r['id'] for r in source['notes']},'active catalogue must contain only reviewed source IDs'
-assert {r['url'] for r in records}=={r['url'] for r in source['notes']},'source URLs changed'
+curated=json.loads((ROOT/'data/collections.json').read_text())['resources']
+assert {r['id'] for r in records}=={r['id'] for r in source['notes']}|{'telegram-'+r['id'] for r in curated},'active catalogue contains an unreviewed ID'
+assert {r['url'] for r in records}=={r['url'] for r in source['notes']}|{r['url'] for r in curated},'source URLs changed'
+for p in pages:
+    for row in re.findall(r'<article class="file-row[^"]*"[^>]*>.*?</article>',p.read_text(),re.S):
+        assert row.count('<a ')==1 and '<button' not in row and '<details' not in row,(p,'resource must have exactly one Open action')
+        assert '<span class="open-label">Open</span>' in row
 assert all(r.get('unit') and r.get('sourcePage') for r in records),'missing source context'
 assert not any('icar-pyq' in r['collections'] for r in records if 'transfer of technology' in r['title'].lower())
 home=(ROOT/'index.html').read_text();assert all(x not in home for x in ['faq-list','Recently Added','quick-tiles'])

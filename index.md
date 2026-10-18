@@ -53,9 +53,10 @@ MCQs repeat. Your confidence doesn’t.
 
 [Objective Notes](https://notes.thatvetguy.net/objective/#books)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)
 
-[Objective Notes by Dhruv N DesaiComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Objective%20Notes%20by%20Dhruv%20N%20Desai)[Animal Science RefresherComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Animal%20Science%20Refresher)[Review of Animal ScienceComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Review%20of%20Animal%20Science)[Review of Veterinary ScienceComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Review%20of%20Veterinary%20Science)
+[Compiled Question Bank by Dhruv N DesaiOpen ](https://t.me/veterinary_objectives/2?single)[Animal Science RefresherOpen ](https://t.me/veterinary_objectives/5)[Review of Veterinary ScienceOpen ](https://t.me/veterinary_objectives/7)[Review of Animal ScienceOpen ](https://t.me/veterinary_objectives/8)[All in One Veterinary CapsuleOpen ](https://t.me/veterinary_objectives/3?single)
 
-[ICAR PYQ Question BankComing soon](https://notes.thatvetguy.net/objective/#icar-pyq)
+[TANUVAS All-Subjects Question BankOpen ](https://t.me/veterinary_question_bank/3)[NDRI Veterinary Question BankOpen ](https://t.me/veterinary_question_bank/6)[Vet Scorer 2022 — 1st EditionOpen ](https://t.me/veterinary_question_bank/12)[KVAFSU Question BankOpen ](https://t.me/veterinary_question_bank/5)[E. Nanu Veterinary Question BankOpen ](https://t.me/veterinary_question_bank/4)
+[Explore more ](https://notes.thatvetguy.net/objective/)
 
 ## Tools & Tips
 
@@ -75,11 +76,11 @@ Check the dose twice. The patient can’t leave a review.
 
 ### Handbooks Collection
 
-](https://notes.thatvetguy.net/clinical/handbooks/)[
+Open ](https://notes.thatvetguy.net/clinical/handbooks/)[
 
 ### Drug Index Collection
 
-](https://notes.thatvetguy.net/clinical/drug-index/)
+Open ](https://notes.thatvetguy.net/clinical/drug-index/)
 
 ## Backbenchers Corner
 

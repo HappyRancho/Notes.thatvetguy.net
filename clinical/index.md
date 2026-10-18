@@ -14,7 +14,11 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 
 [Browse the Handbooks Collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-## Drug & Pharmacology notes
+## Drug Index Collection
+
+[Open the Drug Index Collection ](https://notes.thatvetguy.net/clinical/drug-index/)
+
+### Pharmacology notes
 
 Start with these topics, then explore the full subject.
 

@@ -69,7 +69,7 @@
 .rx-inner .teaser > a > .icon-svg { margin:0; color:var(--rx-link); width:17px; }
 .rx-inner .format-icon { width:30px; height:34px; border-radius:8px; color:#101b43; background:#e8f6ff; font-size:9px; }
 .rx-inner .format-pdf { background:#fff2e8; }.rx-inner .format-doc { background:#e8f6ff; }.rx-inner .format-img { background:#eaf9f1; }
-.rx-inner .file-row { grid-template-columns:30px minmax(0,1fr) 48px 48px 48px; min-height:64px; gap:0; padding:6px 0; border-color:var(--hairline); }
+.rx-inner .file-row { grid-template-columns:30px minmax(0,1fr) 68px; min-height:64px; gap:0; padding:6px 0; border-color:var(--hairline); }
 .rx-inner .file-title { padding-inline:6px; color:var(--text); font-size:14px; line-height:1.3; }
 .rx-inner .file-title small { color:var(--muted); font-size:12px; }
 .rx-inner .file-open { min-width:48px; min-height:48px; color:var(--rx-link); font-size:13px; }
@@ -130,7 +130,7 @@
  .rx-inner .year-grid { grid-template-columns:repeat(4,minmax(0,1fr)); }
  .rx-inner .subject-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:9px; }
  .rx-inner .clinical-subjects { grid-template-columns:repeat(2,minmax(0,1fr)); }
- .rx-inner .file-row { grid-template-columns:30px minmax(0,1fr) 76px 48px 48px; }
+ .rx-inner .file-row { grid-template-columns:30px minmax(0,1fr) 76px; }
  .rx-inner .rx-page-title .rx-row-icon { width:42px; height:44px; flex-basis:42px; }
  .rx-inner .content-section > h2 { font-size:24px; }
 }
@@ -156,3 +156,19 @@
 .rx-inner .book-guide-card p{margin:6px 0 0;line-height:1.5;font-size:14px}
 .rx-inner .book-guide-card .book-author{font-weight:600;color:var(--muted)}
 @media(min-width:768px){.rx-inner .book-guide-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* One clear action per file, with the same compact drawer as the homepage. */
+.rx-inner .file-row{column-gap:8px;padding-block:8px;align-items:center}
+.rx-inner .file-title{padding-inline:0;min-width:0}
+.rx-inner .file-title>span{font-size:15px;-webkit-line-clamp:3}
+.rx-inner .file-open{display:inline-flex;gap:4px;align-items:center;justify-content:center;min-width:64px;height:48px;border-radius:11px;color:#fff;background:var(--rx-blue);font-size:13px;font-weight:600;text-decoration:none;transition:background 180ms ease-out,transform 150ms ease-out}
+.rx-inner .file-open:hover{background:var(--rx-blue-hover)}
+.rx-inner .file-open:active{transform:scale(.98)}
+.rx-inner .file-open .open-label{display:inline}
+.rx-inner .file-open .icon-svg{width:14px;height:14px}
+.rx-inner .collection-resource{align-items:start;padding-block:16px;min-height:104px}
+.rx-inner .collection-resource .format-icon{margin-top:3px}
+.rx-inner .collection-resource .file-title>span{font-weight:600;display:block;overflow:visible;-webkit-line-clamp:unset;line-height:1.4}
+.rx-inner .collection-resource .resource-description{margin:6px 0 0;font-size:14px;line-height:1.5;color:var(--muted);overflow-wrap:anywhere}
+.rx-inner .resource-source{display:block;margin-top:6px;color:var(--muted);font-size:12px}
+.rx-inner .rx-collection-page .file-list{margin-top:8px}

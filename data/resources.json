@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "lastInspected": "2026-10-18",
   "files": [
     {
@@ -25497,6 +25497,771 @@
       ],
       "collections": [],
       "new": false
+    },
+    {
+      "id": "telegram-dhruv-desai",
+      "collection": "objective-notes",
+      "title": "Compiled Question Bank by Dhruv N Desai",
+      "url": "https://t.me/veterinary_objectives/2?single",
+      "description": "Compiled objective questions across veterinary subjects for focused revision.",
+      "icon": "paper",
+      "tone": "purple",
+      "source": "Telegram",
+      "sourceCredit": "Dhruv N Desai",
+      "name": "Compiled Question Bank by Dhruv N Desai",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Objective Notes",
+      "subjectSlug": null,
+      "path": "objective-notes/Compiled Question Bank by Dhruv N Desai",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-dhruv-desai",
+          "name": "Compiled Question Bank by Dhruv N Desai",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_objectives/2?single",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-dhruv-desai",
+      "sourcePage": "https://t.me/veterinary_objectives/2?single",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "objective-notes"
+      ],
+      "keywords": [
+        "Compiled Question Bank by Dhruv N Desai",
+        "Compiled objective questions across veterinary subjects for focused revision."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-animal-science-refresher",
+      "collection": "objective-notes",
+      "title": "Animal Science Refresher",
+      "url": "https://t.me/veterinary_objectives/5",
+      "description": "A broad animal-science revision companion for reviewing core concepts.",
+      "icon": "brain",
+      "tone": "pink",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Animal Science Refresher",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Objective Notes",
+      "subjectSlug": null,
+      "path": "objective-notes/Animal Science Refresher",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-animal-science-refresher",
+          "name": "Animal Science Refresher",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_objectives/5",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-animal-science-refresher",
+      "sourcePage": "https://t.me/veterinary_objectives/5",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "objective-notes"
+      ],
+      "keywords": [
+        "Animal Science Refresher",
+        "A broad animal-science revision companion for reviewing core concepts."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-review-veterinary-science",
+      "collection": "objective-notes",
+      "title": "Review of Veterinary Science",
+      "url": "https://t.me/veterinary_objectives/7",
+      "description": "Revisit veterinary subjects and consolidate key points before an exam.",
+      "icon": "book",
+      "tone": "peach",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Review of Veterinary Science",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Objective Notes",
+      "subjectSlug": null,
+      "path": "objective-notes/Review of Veterinary Science",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-review-veterinary-science",
+          "name": "Review of Veterinary Science",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_objectives/7",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-review-veterinary-science",
+      "sourcePage": "https://t.me/veterinary_objectives/7",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "objective-notes"
+      ],
+      "keywords": [
+        "Review of Veterinary Science",
+        "Revisit veterinary subjects and consolidate key points before an exam."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-review-animal-science",
+      "collection": "objective-notes",
+      "title": "Review of Animal Science",
+      "url": "https://t.me/veterinary_objectives/8",
+      "description": "Review important animal-science topics alongside your syllabus and class notes.",
+      "icon": "chart",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Review of Animal Science",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Objective Notes",
+      "subjectSlug": null,
+      "path": "objective-notes/Review of Animal Science",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-review-animal-science",
+          "name": "Review of Animal Science",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_objectives/8",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-review-animal-science",
+      "sourcePage": "https://t.me/veterinary_objectives/8",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "objective-notes"
+      ],
+      "keywords": [
+        "Review of Animal Science",
+        "Review important animal-science topics alongside your syllabus and class notes."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-veterinary-capsule",
+      "collection": "objective-notes",
+      "title": "All in One Veterinary Capsule",
+      "url": "https://t.me/veterinary_objectives/3?single",
+      "description": "A compact veterinary revision resource for a final pass through key topics.",
+      "icon": "pill",
+      "tone": "sky",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "All in One Veterinary Capsule",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Objective Notes",
+      "subjectSlug": null,
+      "path": "objective-notes/All in One Veterinary Capsule",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-veterinary-capsule",
+          "name": "All in One Veterinary Capsule",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_objectives/3?single",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-veterinary-capsule",
+      "sourcePage": "https://t.me/veterinary_objectives/3?single",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "objective-notes"
+      ],
+      "keywords": [
+        "All in One Veterinary Capsule",
+        "A compact veterinary revision resource for a final pass through key topics."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-tanuvas-qbank",
+      "collection": "question-banks",
+      "title": "TANUVAS All-Subjects Question Bank",
+      "url": "https://t.me/veterinary_question_bank/3",
+      "description": "An all-subject question collection for practising veterinary objective questions.",
+      "icon": "paper",
+      "tone": "sky",
+      "source": "Telegram",
+      "sourceCredit": "TANUVAS",
+      "name": "TANUVAS All-Subjects Question Bank",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Question Banks",
+      "subjectSlug": null,
+      "path": "question-banks/TANUVAS All-Subjects Question Bank",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-tanuvas-qbank",
+          "name": "TANUVAS All-Subjects Question Bank",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_question_bank/3",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-tanuvas-qbank",
+      "sourcePage": "https://t.me/veterinary_question_bank/3",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "question-banks"
+      ],
+      "keywords": [
+        "TANUVAS All-Subjects Question Bank",
+        "An all-subject question collection for practising veterinary objective questions."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-ndri-qbank",
+      "collection": "question-banks",
+      "title": "NDRI Veterinary Question Bank",
+      "url": "https://t.me/veterinary_question_bank/6",
+      "description": "An additional question collection to work through during exam preparation.",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "NDRI",
+      "name": "NDRI Veterinary Question Bank",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Question Banks",
+      "subjectSlug": null,
+      "path": "question-banks/NDRI Veterinary Question Bank",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-ndri-qbank",
+          "name": "NDRI Veterinary Question Bank",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_question_bank/6",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-ndri-qbank",
+      "sourcePage": "https://t.me/veterinary_question_bank/6",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "question-banks"
+      ],
+      "keywords": [
+        "NDRI Veterinary Question Bank",
+        "An additional question collection to work through during exam preparation."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-vet-scorer",
+      "collection": "question-banks",
+      "title": "Vet Scorer 2022 — 1st Edition",
+      "url": "https://t.me/veterinary_question_bank/12",
+      "description": "A veterinary objective-practice resource; use this 2022 edition with current notes.",
+      "icon": "target",
+      "tone": "peach",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Vet Scorer 2022 — 1st Edition",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Question Banks",
+      "subjectSlug": null,
+      "path": "question-banks/Vet Scorer 2022 — 1st Edition",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-vet-scorer",
+          "name": "Vet Scorer 2022 — 1st Edition",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_question_bank/12",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-vet-scorer",
+      "sourcePage": "https://t.me/veterinary_question_bank/12",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "question-banks"
+      ],
+      "keywords": [
+        "Vet Scorer 2022 — 1st Edition",
+        "A veterinary objective-practice resource; use this 2022 edition with current notes."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-kvafsu-qbank",
+      "collection": "question-banks",
+      "title": "KVAFSU Question Bank",
+      "url": "https://t.me/veterinary_question_bank/5",
+      "description": "Build a subject-wise practice routine with this veterinary question collection.",
+      "icon": "paper",
+      "tone": "purple",
+      "source": "Telegram",
+      "sourceCredit": "KVAFSU",
+      "name": "KVAFSU Question Bank",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Question Banks",
+      "subjectSlug": null,
+      "path": "question-banks/KVAFSU Question Bank",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-kvafsu-qbank",
+          "name": "KVAFSU Question Bank",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_question_bank/5",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-kvafsu-qbank",
+      "sourcePage": "https://t.me/veterinary_question_bank/5",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "question-banks"
+      ],
+      "keywords": [
+        "KVAFSU Question Bank",
+        "Build a subject-wise practice routine with this veterinary question collection."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-e-nanu-qbank",
+      "collection": "question-banks",
+      "title": "E. Nanu Veterinary Question Bank",
+      "url": "https://t.me/veterinary_question_bank/4",
+      "description": "Another veterinary question set for checking recall and identifying revision gaps.",
+      "icon": "book",
+      "tone": "pink",
+      "source": "Telegram",
+      "sourceCredit": "E. Nanu",
+      "name": "E. Nanu Veterinary Question Bank",
+      "year": null,
+      "subject": "Veterinary Objective Resources",
+      "unit": "Question Banks",
+      "subjectSlug": null,
+      "path": "question-banks/E. Nanu Veterinary Question Bank",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-e-nanu-qbank",
+          "name": "E. Nanu Veterinary Question Bank",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/veterinary_question_bank/4",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Objective",
+      "page": "/objective/",
+      "permalink": "/objective/#file-telegram-e-nanu-qbank",
+      "sourcePage": "https://t.me/veterinary_question_bank/4",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "question-banks"
+      ],
+      "keywords": [
+        "E. Nanu Veterinary Question Bank",
+        "Another veterinary question set for checking recall and identifying revision gaps."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-vendex",
+      "collection": "drug-index",
+      "title": "VENDEX: The Fundamental Veterinary Drug Index",
+      "url": "https://t.me/c/4430259212/3",
+      "description": "A veterinary drug-index reference to consult alongside current product information.",
+      "icon": "pill",
+      "tone": "sky",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "VENDEX: The Fundamental Veterinary Drug Index",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Drug Index Collection",
+      "subjectSlug": null,
+      "path": "drug-index/VENDEX: The Fundamental Veterinary Drug Index",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-vendex",
+          "name": "VENDEX: The Fundamental Veterinary Drug Index",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/c/4430259212/3",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/drug-index/",
+      "permalink": "/clinical/drug-index/#file-telegram-vendex",
+      "sourcePage": "https://t.me/c/4430259212/3",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "drug-index"
+      ],
+      "keywords": [
+        "VENDEX: The Fundamental Veterinary Drug Index",
+        "A veterinary drug-index reference to consult alongside current product information."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-navsari-drug-index",
+      "collection": "drug-index",
+      "title": "Veterinary Drug Index by NAVSARI",
+      "url": "https://t.me/c/4430259212/4",
+      "description": "A veterinary drug-reference collection labelled NAVSARI.",
+      "icon": "paper",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "NAVSARI",
+      "name": "Veterinary Drug Index by NAVSARI",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Drug Index Collection",
+      "subjectSlug": null,
+      "path": "drug-index/Veterinary Drug Index by NAVSARI",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-navsari-drug-index",
+          "name": "Veterinary Drug Index by NAVSARI",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/c/4430259212/4",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/drug-index/",
+      "permalink": "/clinical/drug-index/#file-telegram-navsari-drug-index",
+      "sourcePage": "https://t.me/c/4430259212/4",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "drug-index"
+      ],
+      "keywords": [
+        "Veterinary Drug Index by NAVSARI",
+        "A veterinary drug-reference collection labelled NAVSARI."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-plumbs-handbook",
+      "collection": "drug-index",
+      "title": "Plumb’s Veterinary Drug Handbook",
+      "url": "https://t.me/c/4430259212/5",
+      "description": "A drug-handbook reference. Check the edition and species-specific guidance before use.",
+      "icon": "book",
+      "tone": "purple",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Plumb’s Veterinary Drug Handbook",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Drug Index Collection",
+      "subjectSlug": null,
+      "path": "drug-index/Plumb’s Veterinary Drug Handbook",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-plumbs-handbook",
+          "name": "Plumb’s Veterinary Drug Handbook",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/c/4430259212/5",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/drug-index/",
+      "permalink": "/clinical/drug-index/#file-telegram-plumbs-handbook",
+      "sourcePage": "https://t.me/c/4430259212/5",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "drug-index"
+      ],
+      "keywords": [
+        "Plumb’s Veterinary Drug Handbook",
+        "A drug-handbook reference. Check the edition and species-specific guidance before use."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-wall-drug-dose",
+      "collection": "drug-index",
+      "title": "Drug Dose — Wall Reference",
+      "url": "https://t.me/c/4430259212/7",
+      "description": "A printable quick-reference sheet; verify every dose against current clinical guidance.",
+      "icon": "chart",
+      "tone": "peach",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Drug Dose — Wall Reference",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Drug Index Collection",
+      "subjectSlug": null,
+      "path": "drug-index/Drug Dose — Wall Reference",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-wall-drug-dose",
+          "name": "Drug Dose — Wall Reference",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/c/4430259212/7",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/drug-index/",
+      "permalink": "/clinical/drug-index/#file-telegram-wall-drug-dose",
+      "sourcePage": "https://t.me/c/4430259212/7",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "drug-index"
+      ],
+      "keywords": [
+        "Drug Dose — Wall Reference",
+        "A printable quick-reference sheet; verify every dose against current clinical guidance."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-vaccination-schedule",
+      "collection": "drug-index",
+      "title": "Vaccination Schedule of All Animals",
+      "url": "https://t.me/c/4430259212/6",
+      "description": "A vaccination-schedule reference to compare with species, local guidance and product labels.",
+      "icon": "shield",
+      "tone": "yellow",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Vaccination Schedule of All Animals",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Drug Index Collection",
+      "subjectSlug": null,
+      "path": "drug-index/Vaccination Schedule of All Animals",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-vaccination-schedule",
+          "name": "Vaccination Schedule of All Animals",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/c/4430259212/6",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/drug-index/",
+      "permalink": "/clinical/drug-index/#file-telegram-vaccination-schedule",
+      "sourcePage": "https://t.me/c/4430259212/6",
+      "lastVerified": "2026-10-18",
+      "collections": [
+        "drug-index"
+      ],
+      "keywords": [
+        "Vaccination Schedule of All Animals",
+        "A vaccination-schedule reference to compare with species, local guidance and product labels."
+      ],
+      "new": false
     }
   ],
   "years": [
@@ -26225,7 +26990,8 @@
   ],
   "stats": {
     "rawFiles": 499,
-    "canonicalResources": 499,
+    "canonicalResources": 514,
+    "curatedResources": 15,
     "duplicatesHidden": 7,
     "imagesGrouped": 0
   },

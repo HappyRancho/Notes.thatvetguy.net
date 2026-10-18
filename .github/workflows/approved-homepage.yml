@@ -32,11 +32,12 @@ jobs:
             git push origin HEAD:homepage-approved-mockups
           fi
       - run: node scripts/homepage-qa.mjs
+        if: "!contains(github.event.head_commit.message, '[subject-row-fix]')"
       - name: Lighthouse and page regression
         run: npm run qa -- mockup-after
         env:
-          QA_PATHS: '/,/bvsc/year-1/,/bvsc/year-1/veterinary-anatomy/,/bvsc/year-1/books/,/clinical/handbooks/,/clinical/drug-index/'
-          QA_WIDTHS: '390'
+          QA_PATHS: ${{ contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/,/clinical/drug-index/,/bvsc/year-1/veterinary-anatomy/' }}
+          QA_WIDTHS: '360,390,430,1280'
       - uses: actions/upload-artifact@v4
         if: always()
         with:

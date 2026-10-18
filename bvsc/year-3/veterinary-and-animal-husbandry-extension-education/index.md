@@ -17,24 +17,8 @@ Search this collection
 PDF
 Livestock based Livelihood and their Evolution Note[Open Livestock based Livelihood and their Evolution Note](https://drive.google.com/file/d/1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5#report)
-
 PDF
 Livestock Based Livelihoods and Their Evolution[Open Livestock Based Livelihoods and Their Evolution](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL#report)
 
 ## Unit 2 – Extension Education and Development
 
@@ -43,46 +27,14 @@ Link source: VetBVSc. Original authorship remains with the document’s creator.
 PDF
 Extension Education and Development[Open Extension Education and Development](https://drive.google.com/file/d/18ydS53eeJomMPxTVthCRR9CJ0qa67NDT/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/18ydS53eeJomMPxTVthCRR9CJ0qa67NDT/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18ydS53eeJomMPxTVthCRR9CJ0qa67NDT#report)
-
 PDF
 Extension Education and Development Note[Open Extension Education and Development Note](https://drive.google.com/file/d/1RWkKcsWb3YRFgtr4wgNO-8K601kzZLAC/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1RWkKcsWb3YRFgtr4wgNO-8K601kzZLAC/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RWkKcsWb3YRFgtr4wgNO-8K601kzZLAC#report)
 
 PDF
 Rural Sociology in Veterinary Extension[Open Rural Sociology in Veterinary Extension](https://drive.google.com/file/d/1172LgIHoUjkGN-U1XdrigGVAzOTblyBw/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1172LgIHoUjkGN-U1XdrigGVAzOTblyBw/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1172LgIHoUjkGN-U1XdrigGVAzOTblyBw#report)
-
 PDF
 Rural Sociology in Veterinary Extension Note[Open Rural Sociology in Veterinary Extension Note](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8#report)
 
 ## Unit 4 – Transfer of Technology for Livestock Development
 
@@ -91,35 +43,11 @@ Link source: VetBVSc. Original authorship remains with the document’s creator.
 PDF
 Dairy Development Programme and Concept of Cooperation[Open Dairy Development Programme and Concept of Cooperation](https://drive.google.com/file/d/1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-#report)
-
 PDF
 Transfer of Technology for Livestock Development Overall Note[Open Transfer of Technology for Livestock Development Overall Note](https://drive.google.com/file/d/1Pk9RhxzqARriWz_fmMHX9qYxoI7E4Wmu/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1Pk9RhxzqARriWz_fmMHX9qYxoI7E4Wmu/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Pk9RhxzqARriWz_fmMHX9qYxoI7E4Wmu#report)
-
 PDF
-Transfer of Technology Projects of ICAR[Open Transfer of Technology Projects of ICAR](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
-
-Link source: VetBVSc. Document label: ICAR. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY#report)
+Transfer of Technology Projects of ICARICAR[Open Transfer of Technology Projects of ICAR](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
 
 ## Unit 5 – Communication and Extension Teaching Methods
 
@@ -128,24 +56,8 @@ Link source: VetBVSc. Document label: ICAR. Original authorship remains with the
 PDF
 Communication and Extension Teaching Methods[Open Communication and Extension Teaching Methods](https://drive.google.com/file/d/11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6#report)
-
 PDF
 Communication and Extension teaching methods Note[Open Communication and Extension teaching methods Note](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab#report)
 
 ## Unit 6 – Livestock Economics and Marketing
 
@@ -154,46 +66,14 @@ Link source: VetBVSc. Original authorship remains with the document’s creator.
 PDF
 Livestock Economics[Open Livestock Economics](https://drive.google.com/file/d/1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU#report)
-
 PDF
 Livestock Economics and Marketing Overall Note[Open Livestock Economics and Marketing Overall Note](https://drive.google.com/file/d/1xKpONKq2IP5m1j7wgz8cNSrZNCsBQq5b/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1xKpONKq2IP5m1j7wgz8cNSrZNCsBQq5b/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xKpONKq2IP5m1j7wgz8cNSrZNCsBQq5b#report)
 
 PDF
 Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and other Details[Open Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and other Details](https://drive.google.com/file/d/1_SjKPBRvaXH6S8cLCQvuITu2h_jrCvPB/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1_SjKPBRvaXH6S8cLCQvuITu2h_jrCvPB/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_SjKPBRvaXH6S8cLCQvuITu2h_jrCvPB#report)
-
 PDF
 Livestock Marketing- Concept, Structure and Classification[Open Livestock Marketing- Concept, Structure and Classification](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW#report)
 
 ## Unit 7 – Livestock Entrepreneurship
 
@@ -202,68 +82,20 @@ Link source: VetBVSc. Original authorship remains with the document’s creator.
 PDF
 Accounting – Personnel and Resource Management[Open Accounting – Personnel and Resource Management](https://drive.google.com/file/d/1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY#report)
-
 PDF
 Entrepreneurship Development Programmes Promoting Institute in India[Open Entrepreneurship Development Programmes Promoting Institute in India](https://drive.google.com/file/d/1NG6rc39XGlV76iivIG7iVpHAx34aq0nY/view)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1NG6rc39XGlV76iivIG7iVpHAx34aq0nY/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NG6rc39XGlV76iivIG7iVpHAx34aq0nY#report)
 
 PDF
 Financial Management, Statement Analysis and Capitalism[Open Financial Management, Statement Analysis and Capitalism](https://drive.google.com/file/d/1z9JpHSiKH-mmgL3IiYmNvm17Z8IvG4pP/view)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1z9JpHSiKH-mmgL3IiYmNvm17Z8IvG4pP/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z9JpHSiKH-mmgL3IiYmNvm17Z8IvG4pP#report)
-
 PDF
 Introduction, Theories and Forms of Entrepreneurship[Open Introduction, Theories and Forms of Entrepreneurship](https://drive.google.com/file/d/1MNhi4lwp-SR1sAlwD77X1nOknZTlIiyS/view)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1MNhi4lwp-SR1sAlwD77X1nOknZTlIiyS/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MNhi4lwp-SR1sAlwD77X1nOknZTlIiyS#report)
 
 PDF
 Livestock Entrepreneurship Overall Note[Open Livestock Entrepreneurship Overall Note](https://drive.google.com/file/d/1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6#report)
-
 PDF
 Project Appraisal and Capital Budgeting[Open Project Appraisal and Capital Budgeting](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO#report)
 
 ## Unit 8 – Information and Communication Technology
 
@@ -272,28 +104,12 @@ Link source: VetBVSc. Original authorship remains with the document’s creator.
 PDF
 Information and Communication Technology Note[Open Information and Communication Technology Note](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3#report)
-
 ## Unit 9 – Contemporary Issues in Livestock Enterprises
 
 1
 
 PDF
 Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livestock Enterprises](https://drive.google.com/file/d/12EAS1o4GHCpAvou4pASwrJD-_THHhGeX/view)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/12EAS1o4GHCpAvou4pASwrJD-_THHhGeX/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12EAS1o4GHCpAvou4pASwrJD-_THHhGeX#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

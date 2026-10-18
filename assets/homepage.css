@@ -52,10 +52,16 @@ html[data-ui=rx][data-theme=dark] .rx-heading-icon.mint{color:#8cd8bc}
 /* The prescription title is plain text on subpages; keep its original face. */
 .rx-promise-title{font-family:var(--rx-heading);font-weight:700;letter-spacing:-.025em;line-height:1.15}
 
-/* Real suitcase / prescription artwork, with accessible live labels. */
-.mockup-home .rx-real-clinical{position:relative;display:block;overflow:hidden;aspect-ratio:3/4;border-radius:14px;isolation:isolate}
-.mockup-home .rx-real-clinical>img{display:block;width:100%;height:100%;object-fit:cover}
-.mockup-home .rx-clinical-label{position:absolute;inset:60% 9% auto;margin:0;text-align:center;font:700 clamp(15px,3.9vw,28px)/1.12 var(--rx-heading);color:#fff;text-wrap:balance}
-.mockup-home .rx-real-clinical.yellow .rx-clinical-label{inset-block-start:38%;color:#101d49}
-.mockup-home .rx-clinical-open{position:absolute;inset:76% auto auto 50%;translate:-50% 0;display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:#d7edff;color:#12204a}
-.mockup-home .rx-clinical-open svg{width:25px;height:25px}
+.rx-resource-row .rx-row-label{font-size:14px;line-height:1.35}
+.rx-row-open{display:inline-flex;align-items:center;justify-content:center;gap:4px;flex:0 0 auto;min-height:48px;min-width:59px;padding:0 6px;border-radius:10px;background:var(--rx-blue);color:#fff;font-size:12px;font-weight:600}
+.rx-row-open .icon-svg{width:13px;height:13px}
+.rx-collection-footer{display:flex;justify-content:flex-end;margin-top:8px}
+.mockup-home .rx-clinical-icon-card{display:flex;flex-direction:column;align-items:center;justify-content:space-between;gap:8px;padding:18px 10px 12px;background:var(--rx-mint);color:#101b43;min-width:0;border:1px solid #d9ece5;aspect-ratio:3/4}
+.mockup-home .rx-clinical-icon-card.yellow{background:var(--rx-yellow);border-color:#efe4c6}
+.mockup-home .rx-clinical-icon-card h3{font:700 clamp(17px,4.5vw,26px)/1.2 var(--rx-heading);text-align:center;margin:0;text-wrap:balance;max-width:15ch}
+.mockup-home .rx-clinical-icon-card>img{display:block;width:100%;height:auto;max-height:170px;object-fit:contain;flex:1;min-height:0}
+.rx-clinical-cta{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:40px;padding:0 16px;border-radius:20px;background:#fff;color:#075eaf;font-size:14px;font-weight:600}
+.rx-clinical-cta .icon-svg{width:17px;height:17px}
+@media(min-width:768px){.rx-resource-row .rx-row-label{font-size:16px}.rx-clinical-icon-card>img{max-height:240px!important}}
+
+html:not(.js) .rx-inner .rx-panel[hidden],html:not(.js) .rx-objective .rx-panel[hidden]{display:block!important}

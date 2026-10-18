@@ -17,14 +17,6 @@ Search this collection
 PDF
 Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6#report)
-
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 

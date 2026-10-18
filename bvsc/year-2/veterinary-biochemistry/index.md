@@ -17,68 +17,20 @@ Search this collection
 PDF
 Biochemistry of Carbohydrates[Open Biochemistry of Carbohydrates](https://drive.google.com/file/d/15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY#report)
-
 PDF
 Biochemistry of Lipids[Open Biochemistry of Lipids](https://drive.google.com/file/d/1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b#report)
 
 PDF
 Biochemistry of Nucleic Acids[Open Biochemistry of Nucleic Acids](https://drive.google.com/file/d/1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO#report)
-
 PDF
 Biochemistry of Proteins and Amino Acids[Open Biochemistry of Proteins and Amino Acids](https://drive.google.com/file/d/15foXrXbJGZGzsMzQkZgeorpKcW-ocpLb/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/15foXrXbJGZGzsMzQkZgeorpKcW-ocpLb/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15foXrXbJGZGzsMzQkZgeorpKcW-ocpLb#report)
 
 PDF
 General Introduction of Biochemistry[Open General Introduction of Biochemistry](https://drive.google.com/file/d/13JYNN8lARuNJB9_vSwhTmuaVfqwrOGM2/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/13JYNN8lARuNJB9_vSwhTmuaVfqwrOGM2/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13JYNN8lARuNJB9_vSwhTmuaVfqwrOGM2#report)
-
 PDF
 General Veterinary Biochemistry Note[Open General Veterinary Biochemistry Note](https://drive.google.com/file/d/121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1#report)
 
 ## Unit 2 – Intermediary Metabolism
 
@@ -87,79 +39,23 @@ Link source: VetBVSc. Original authorship remains with the document’s creator.
 PDF
 Biochemistry of Enzymes[Open Biochemistry of Enzymes](https://drive.google.com/file/d/1oHaopQIuBlX76zrPaWD9Ao_PE6CWDo1t/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1oHaopQIuBlX76zrPaWD9Ao_PE6CWDo1t/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oHaopQIuBlX76zrPaWD9Ao_PE6CWDo1t#report)
-
 PDF
 Metabolism of Amino Acids or Proteins[Open Metabolism of Amino Acids or Proteins](https://drive.google.com/file/d/17ttyu1cbtE_SLdvA2o9cjaXb4I5HVH6P/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/17ttyu1cbtE_SLdvA2o9cjaXb4I5HVH6P/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17ttyu1cbtE_SLdvA2o9cjaXb4I5HVH6P#report)
 
 PDF
 Metabolism of Carbohydrates[Open Metabolism of Carbohydrates](https://drive.google.com/file/d/186XlXmmo3G6srjU0WS0eW0V57yp1f-rU/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/186XlXmmo3G6srjU0WS0eW0V57yp1f-rU/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=186XlXmmo3G6srjU0WS0eW0V57yp1f-rU#report)
-
 PDF
 Metabolism of Lipids[Open Metabolism of Lipids](https://drive.google.com/file/d/1mEuYXJNnzqh5dDJExNSkwyAAD8IuLrc3/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1mEuYXJNnzqh5dDJExNSkwyAAD8IuLrc3/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mEuYXJNnzqh5dDJExNSkwyAAD8IuLrc3#report)
 
 PDF
 Metabolism of Nucleic Acids[Open Metabolism of Nucleic Acids](https://drive.google.com/file/d/1UW7NppeCpKeIuqiCfuac9eJoNMORws5O/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1UW7NppeCpKeIuqiCfuac9eJoNMORws5O/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UW7NppeCpKeIuqiCfuac9eJoNMORws5O#report)
-
 PDF
 Regulation and Integration of Metabolism[Open Regulation and Integration of Metabolism](https://drive.google.com/file/d/1nZ4w0d1x2_4aTxqYvL-TzeamcX-4vx8q/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1nZ4w0d1x2_4aTxqYvL-TzeamcX-4vx8q/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nZ4w0d1x2_4aTxqYvL-TzeamcX-4vx8q#report)
-
 PDF
 Veterinary Intermediary Metabolism Note[Open Veterinary Intermediary Metabolism Note](https://drive.google.com/file/d/1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR#report)
 
 ## Unit 3 – Veterinary Analytical Biochemistry
 
@@ -168,90 +64,26 @@ Link source: VetBVSc. Original authorship remains with the document’s creator.
 PDF
 Biochemical basis of Fluid Therapy[Open Biochemical basis of Fluid Therapy](https://drive.google.com/file/d/1XVTCP7SHFbPP5eF-_Z_pvZFki35AS3ya/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1XVTCP7SHFbPP5eF-_Z_pvZFki35AS3ya/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XVTCP7SHFbPP5eF-_Z_pvZFki35AS3ya#report)
-
 PDF
 Biochemical Tests of Renal Function[Open Biochemical Tests of Renal Function](https://drive.google.com/file/d/1iJ2MJJdlLKFJRgvOfiTALpVvA3gwAl3D/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1iJ2MJJdlLKFJRgvOfiTALpVvA3gwAl3D/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iJ2MJJdlLKFJRgvOfiTALpVvA3gwAl3D#report)
 
 PDF
 Biochemistry of Digestive Disorders[Open Biochemistry of Digestive Disorders](https://drive.google.com/file/d/1iAwPF_w94djaWvrzqOFsRyFBMghIdJnN/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1iAwPF_w94djaWvrzqOFsRyFBMghIdJnN/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iAwPF_w94djaWvrzqOFsRyFBMghIdJnN#report)
-
 PDF
 Biochemistry of Oxidative Stress and Shock[Open Biochemistry of Oxidative Stress and Shock](https://drive.google.com/file/d/1MqdbvGuyymtuIhnY-s-OWcQtSKK1kTSK/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1MqdbvGuyymtuIhnY-s-OWcQtSKK1kTSK/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MqdbvGuyymtuIhnY-s-OWcQtSKK1kTSK#report)
 
 PDF
 Detoxification in the Body[Open Detoxification in the Body](https://drive.google.com/file/d/1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8#report)
-
 PDF
 Disorders of Carbohydrate Metabolism[Open Disorders of Carbohydrate Metabolism](https://drive.google.com/file/d/1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS#report)
 
 PDF
 Disturbances in Acid Base Balance[Open Disturbances in Acid Base Balance](https://drive.google.com/file/d/1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG/view?usp=sharing)
 
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG#report)
-
 PDF
 Liver Function Tests[Open Liver Function Tests](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
