@@ -1,6 +1,6 @@
 {
   "/": {
-    "summary": "Free academic resources, thoughtfully made for future vets. Find BVSc notes, books, PYQs, study tools and clinical references in one place.",
+    "summary": "Free academic resources, thoughtfully made for future vets. Find BVSc & AH notes, books, objective questions and clinical references by year.",
     "faq": [
       [
         "Are the resources hosted here?",
@@ -13,7 +13,7 @@
     ]
   },
   "/bvsc/": {
-    "summary": "Browse veterinary notes, books and practical material from the supplied Google Drive library, organised by four professional years. Choose a subject to see the actual indexed files and original revision guidance.",
+    "summary": "Free notes, books and practical material for all four BVSc & AH professional years. Choose your year, then your subject.",
     "faq": [
       [
         "Does this grouping match my university?",
@@ -26,7 +26,7 @@
     ]
   },
   "/objective/": {
-    "summary": "Find ICAR PYQs, objective questions and objective books identified by names in the supplied Drive library. If a collection has no matching indexed files, you can request material for it.",
+    "summary": "Subject-wise objective questions and books for BVSc & AH revision. Find a focused question pack or check the availability of ICAR past papers.",
     "faq": [
       [
         "Where are the objective resources sourced?",
@@ -48,7 +48,7 @@
     ]
   },
   "/clinical/": {
-    "summary": "Browse handbooks, drug-related files and clinical or pathology material identified in the supplied Drive library. These study resources do not replace clinical judgement or a current prescribing reference.",
+    "summary": "Veterinary handbooks and pharmacology notes for students preparing for clinical work. Start with a reference or explore Medicine, Surgery, Pathology and Pharmacology.",
     "faq": [
       [
         "Is this a complete clinical or drug reference?",
@@ -57,7 +57,7 @@
     ]
   },
   "/search/": {
-    "summary": "Search every indexed Drive file by title, subject, year or folder path. Veterinary students can also use the four static topic links below without JavaScript.",
+    "summary": "Find veterinary notes, books and practical material by topic, subject or year. Search the whole collection or start with a suggested topic.",
     "faq": [
       [
         "Can I browse without JavaScript?",
@@ -66,11 +66,15 @@
     ]
   },
   "/about/": {
-    "summary": "Notes.ThatVetGuy is a free academic library for BVSc & AH students, organised around the supplied Google Drive collections. Original revision outlines and on-site study guides help you choose what to read next.",
+    "summary": "Notes.ThatVetGuy is a free academic library for BVSc & AH students. Find notes, books and practical material by year, with study guides to help you choose what to read next.",
     "faq": [
       [
-        "Who writes the original guides?",
-        "Original site guides and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. External notes, books and references retain their source credit."
+        "Where do files open?",
+        "Resources open on Google Drive. Photo batches appear as one set, alternate formats share a row, and exact duplicates are hidden. Original authors retain credit."
+      ],
+      [
+        "Does the year grouping match my syllabus?",
+        "Year grouping may vary by university. Check your syllabus before planning revision."
       ]
     ]
   },

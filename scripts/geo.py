@@ -11,7 +11,7 @@ AUTHOR='Dr. Chirag Patidar'
 PAGES={}
 
 def faq_for(path):
-    return META.get(path,{}).get('faq',[])
+    return META.get(path,{}).get('faq',[])[:2] if path in ['/about/','/request-resource/'] else []
 
 def faq_html(path):
     pairs=faq_for(path)
@@ -100,7 +100,7 @@ def discovery(date,index):
     (ROOT/'robots.txt').write_text(''.join(f'User-agent: {b}\nAllow: /\n\n' for b in bots)+'Sitemap: '+BASE+'/sitemap.xml\n')
     indexed={p:d for p,d in PAGES.items() if p not in ['/search/','/404/']}
     (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE+p}</loc><lastmod>{d["lastmod"]}</lastmod></url>\n' for p,d in indexed.items())+'</urlset>\n')
-    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nA free academic directory primarily for BVSc & AH students. Original summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Files are indexed from the supplied Google Drive folders. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'; source file metadata was inspected from the supplied public folders; access settings can change.\n\n'
+    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nA free academic library for BVSc & AH students. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes, books and practical material are organised by professional year and subject. File links open on Google Drive. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
     mapping='## Sections and subject guides\n\n'+''.join(f'- [{d["title"]}]({BASE+p}): {d["description"]}\n  - Markdown: {BASE+p}index.md\n' for p,d in indexed.items())
     retrieval='\n## Machine retrieval\n\n- Full visible page content: '+BASE+'/llms-full.txt\n- Resource index: '+BASE+'/search-index.json\n- Sitemap: '+BASE+'/sitemap.xml\n- Search (noindex): '+BASE+'/search/\n\n## Community\n\n- Short notes: https://t.me/vetshortnotesbytvg\n- Jobs: https://t.me/jobupdatesbytvg\n- Requests and contact: '+BASE+'/request-resource/\n'
     (ROOT/'llms.txt').write_text(intro+mapping+retrieval)
