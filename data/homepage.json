@@ -1,26 +1,125 @@
 {
   "objectiveNotes": [
-    {"title":"Objective Notes by Dhruv N Desai","icon":"paper","tone":"purple","keywords":["dhruv","desai"]},
-    {"title":"Animal Science Refresher","icon":"brain","tone":"pink","keywords":["animal science refresher"]},
-    {"title":"Review of Animal Science","icon":"chart","tone":"mint","keywords":["review of animal science"]},
-    {"title":"Review of Veterinary Science","icon":"book","tone":"peach","keywords":["review of veterinary science"]}
+    {
+      "id": "dhruv-desai",
+      "title": "Compiled Question Bank by Dhruv N Desai",
+      "icon": "paper",
+      "tone": "purple",
+      "url": "https://t.me/veterinary_objectives/2?single"
+    },
+    {
+      "id": "animal-science-refresher",
+      "title": "Animal Science Refresher",
+      "icon": "brain",
+      "tone": "pink",
+      "url": "https://t.me/veterinary_objectives/5"
+    },
+    {
+      "id": "review-veterinary-science",
+      "title": "Review of Veterinary Science",
+      "icon": "book",
+      "tone": "peach",
+      "url": "https://t.me/veterinary_objectives/7"
+    },
+    {
+      "id": "review-animal-science",
+      "title": "Review of Animal Science",
+      "icon": "chart",
+      "tone": "mint",
+      "url": "https://t.me/veterinary_objectives/8"
+    },
+    {
+      "id": "veterinary-capsule",
+      "title": "All in One Veterinary Capsule",
+      "icon": "pill",
+      "tone": "sky",
+      "url": "https://t.me/veterinary_objectives/3?single"
+    }
   ],
   "tools": [
-    {"title":"Use of AI for Vet Study","icon":"spark","tone":"purple","url":"/study-tools/#ai-guide"},
-    {"title":"Useful Free Apps","icon":"phone","tone":"sky","url":"/study-tools/#free-apps"},
-    {"title":"Organise Your Study Material","icon":"book","tone":"mint","url":"/study-tools/#useful-tools"}
+    {
+      "title": "Use of AI for Vet Study",
+      "icon": "spark",
+      "tone": "purple",
+      "url": "/study-tools/#ai-guide"
+    },
+    {
+      "title": "Useful Free Apps",
+      "icon": "phone",
+      "tone": "sky",
+      "url": "/study-tools/#free-apps"
+    },
+    {
+      "title": "Organise Your Study Material",
+      "icon": "book",
+      "tone": "mint",
+      "url": "/study-tools/#useful-tools"
+    }
   ],
   "tips": [
-    {"title":"1st Year Roadmap","icon":"map","tone":"yellow","url":"/bvsc/year-1/#road-map"},
-    {"title":"2nd Year Roadmap","icon":"map","tone":"peach","url":"/bvsc/year-2/#road-map"},
-    {"title":"3rd Year Roadmap","icon":"map","tone":"sky","url":"/bvsc/year-3/#road-map"},
-    {"title":"4th Year Roadmap","icon":"map","tone":"mint","url":"/bvsc/year-4/#road-map"}
+    {
+      "title": "1st Year Roadmap",
+      "icon": "map",
+      "tone": "yellow",
+      "url": "/bvsc/year-1/#road-map"
+    },
+    {
+      "title": "2nd Year Roadmap",
+      "icon": "map",
+      "tone": "peach",
+      "url": "/bvsc/year-2/#road-map"
+    },
+    {
+      "title": "3rd Year Roadmap",
+      "icon": "map",
+      "tone": "sky",
+      "url": "/bvsc/year-3/#road-map"
+    },
+    {
+      "title": "4th Year Roadmap",
+      "icon": "map",
+      "tone": "mint",
+      "url": "/bvsc/year-4/#road-map"
+    }
   ],
   "roadmaps": {
-    "1":{"description":"Your guide to a strong start.","steps":["Keep your university syllabus beside your subject notes.","Connect Anatomy structures with Physiology functions; revise diagrams together.","Make a weekly space for Livestock Production Management and practical records."]},
-    "2":{"description":"Connect the foundations.","steps":["Use your syllabus to plan Biochemistry, Microbiology and Pathology together.","Keep Genetics and Nutrition calculations beside the worked examples in your notes.","Review practical observations alongside the related theory."]},
-    "3":{"description":"Bring the subjects together.","steps":["Build a subject checklist from your current university syllabus.","Connect Pharmacology and Parasitology topics with Public Health concepts.","Keep LPT, Extension, Clinical Practices and Farm Practices in your weekly plan."]},
-    "4":{"description":"From notes to clinical thinking.","steps":["Organise Medicine, Surgery and Gynaecology notes by your syllabus topics.","Connect each case discussion with the relevant subject notes and practical record.","Use current clinical guidance and supervision; study notes are not prescribing advice."]}
+    "1": {
+      "description": "Your guide to a strong start.",
+      "steps": [
+        "Keep your university syllabus beside your subject notes.",
+        "Connect Anatomy structures with Physiology functions; revise diagrams together.",
+        "Make a weekly space for Livestock Production Management and practical records."
+      ]
+    },
+    "2": {
+      "description": "Connect the foundations.",
+      "steps": [
+        "Use your syllabus to plan Biochemistry, Microbiology and Pathology together.",
+        "Keep Genetics and Nutrition calculations beside the worked examples in your notes.",
+        "Review practical observations alongside the related theory."
+      ]
+    },
+    "3": {
+      "description": "Bring the subjects together.",
+      "steps": [
+        "Build a subject checklist from your current university syllabus.",
+        "Connect Pharmacology and Parasitology topics with Public Health concepts.",
+        "Keep LPT, Extension, Clinical Practices and Farm Practices in your weekly plan."
+      ]
+    },
+    "4": {
+      "description": "From notes to clinical thinking.",
+      "steps": [
+        "Organise Medicine, Surgery and Gynaecology notes by your syllabus topics.",
+        "Connect each case discussion with the relevant subject notes and practical record.",
+        "Use current clinical guidance and supervision; study notes are not prescribing advice."
+      ]
+    }
   },
-  "chartIds":["1jqfABHLlw_gDbffe188k1-9QCcD2gK7f","1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N","1tMqWIPLPxMiYJHIeHEHk62O6DLc2PD-L","1eNJf0tPojv7FY3EQZXGtjl_g2VkIQlNs"]
+  "chartIds": [
+    "1jqfABHLlw_gDbffe188k1-9QCcD2gK7f",
+    "1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N",
+    "1tMqWIPLPxMiYJHIeHEHk62O6DLc2PD-L",
+    "1eNJf0tPojv7FY3EQZXGtjl_g2VkIQlNs"
+  ]
 }

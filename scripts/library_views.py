@@ -15,14 +15,10 @@ def empty(b,text='Coming soon'):
     return '<div class="empty-state"><strong>'+e(text)+'</strong><p>'+e(b.MICROCOPY['empty'][0])+'</p>'+b.link('/request-resource/','Request a resource '+b.icon('arrow'),'button secondary')+'</div>'
 def matching(b,category):return [r for r in b.RECORDS if category in r['collections'] and keep_complete_resource(r)]
 def file_card(b,r):
-    rid=r['id'];title=e(r['title']);original=e(r['name'],quote=True)
-    formats=''.join(b.link(v['url'],e(v['extension'])+' '+b.icon('external'),'format-link') for v in r['variants'])
-    download=''.join(b.link(v['download'],'Download '+e(v['format']),'text-link') for v in r['variants'] if v['download'])
-    updated='<time datetime="'+e(r['updated'],quote=True)+'">'+e(r['updated'][:10])+'</time>' if r['updated'] else 'Not provided'
-    credit='<p>Link source: VetBVSc.'+(' Document label: '+e(r['sourceCredit'])+'.' if r['sourceCredit'] else '')+' Original authorship remains with the document’s creator.</p>'
-    new='<span class="new-sticker">NEW</span>' if r['new'] else ''
+    title=e(r['title']);rid=r['id'];description='<p class="resource-description">'+e(r['description'])+'</p>' if r.get('collection') else ''
+    credit='<small class="resource-source">'+e(r.get('sourceCredit') or r['source'])+'</small>' if r.get('sourceCredit') else ''
     aliases=''.join('<span id="file-'+a+'" class="anchor-alias"></span>' for a in r['duplicateIds']+[v['id'] for v in r['variants'][1:]])
-    return aliases+'<article class="file-row" id="file-'+rid+'" data-resource-id="'+rid+'" data-kind="'+r['kind']+'" data-row-search="'+e(normal(r['title']+' '+r['path']),quote=True)+'"><span class="format-icon format-'+r['format'].lower()+'" aria-hidden="true">'+e(r['format'])+'</span><div class="file-title"><span title="'+original+'">'+title+'</span>'+new+'<small>'+size_label(r['size'])+'</small></div>'+b.link(r['url'],'<span class="open-label">Open</span>'+b.icon('external')+'<span class="sr-only"> '+title+'</span>','file-open')+'<button class="icon-button save-button js-only" type="button" data-bookmark="'+rid+'" aria-label="Save '+e(r['title'],quote=True)+'" aria-pressed="false">'+b.icon('book')+'</button><details class="file-details"><summary aria-label="Details and report for '+e(r['title'],quote=True)+'">'+b.icon('menu')+'</summary><div class="file-detail-body"><p>Link checked '+e(r['lastVerified'])+'</p><div class="format-links">'+formats+'</div>'+credit+'<div class="detail-links">'+download+b.link('/request-resource/?file='+rid+'#report','Report an error / takedown','text-link')+'</div></div></details></article>'
+    return aliases+'<article class="file-row'+(' collection-resource' if description else '')+'" id="file-'+rid+'" data-resource-id="'+rid+'" data-kind="'+r['kind']+'" data-row-search="'+e(normal(r['title']+' '+r['path']),quote=True)+'"><span class="format-icon format-'+r['format'].lower()+'" aria-hidden="true">'+e(r['format'])+'</span><div class="file-title"><span title="'+e(r['name'],quote=True)+'">'+title+'</span>'+description+credit+'</div>'+b.link(r['url'],'<span class="open-label">Open</span>'+b.icon('external')+'<span class="sr-only"> '+title+'</span>','file-open')+'</article>'
 def teaser(b,r):
     return '<div class="teaser" data-row-search="'+e(normal(r['title']+' '+(r['subject'] or '')+' '+r['path']),quote=True)+'">'+b.link(r['permalink'],'<span class="format-icon" aria-hidden="true">'+e(r['format'])+'</span><span><strong>'+e(r['title'])+'</strong><small>'+e(r['subject'] or 'Year '+str(r['year'])+' extras')+' · '+e(r['type'])+'</small></span>'+b.icon('arrow'))+'</div>'
 def chunks(b,rows,render=file_card,limit=30):
@@ -81,21 +77,17 @@ def guides(b):
         b.write_page(path,name,m['summary'],body,[(name+' resources',owner)])
 def collections(b):
     from homepage import tabs,panel
-    desc=b.geo.META['/objective/']['summary'];body=b.article_intro('Objective Resources',desc)
-    rows=matching(b,'objective-questions');subjects=sorted({r['subject'] for r in rows if r['subject']})
-    books=matching(b,'objective-books')
-    book_body='<section id="books"><h2>Objective Books</h2>'+(chunks(b,books,teaser) if books else empty(b,'Objective books are coming soon'))+'</section>'
-    bank_body='<section class="pyq-state" id="icar-pyq"><div><h2>ICAR PYQ Question Bank</h2><p>Coming soon. Know a paper we should add?</p></div>'+b.link('/request-resource/?collection=icar-pyq','Request a paper '+b.icon('arrow'),'text-link')+'</section>'
-    bank_body+='<section id="subject-wise"><h2>Subject-wise Objective Questions</h2><div class="filter-collection">'+controls(b,[(slug(s),s.replace('Veterinary ','')) for s in subjects],'objective',True)
-    if not subjects:bank_body+=empty(b,'Subject-wise objective notes are coming soon')
-    for i,s in enumerate(subjects):bank_body+=group(b,s,[r for r in rows if r['subject']==s],slug(s),i==0,teaser,3)
-    bank_body+='<p class="filter-empty" hidden>No resources match. '+b.link('/request-resource/','Request a resource')+'</p></div></section>'
-    body+='<section class="content-section" data-home-tabs>'+tabs('objective-page',[('Objective Notes','/objective/#books'),('Question Banks','/objective/#subject-wise')])+panel('objective-page',0,book_body)+panel('objective-page',1,bank_body)+'</section></div>'
-    b.write_page('/objective/','Objective Resources',desc,body,[(r['title'],r['permalink']) for r in rows+books])
+    desc=b.geo.META['/objective/']['summary'];body=b.article_intro('Objective & Competition Resources',desc)
+    books=matching(b,'objective-notes');banks=matching(b,'question-banks')
+    book_body='<section id="books"><h2 class="sr-only">Objective Notes</h2>'+chunks(b,books)+'</section>'
+    bank_body='<section id="subject-wise"><h2 class="sr-only">Question Banks</h2>'+chunks(b,banks)+'</section>'
+    body+='<p class="source-note">Choose a collection below. Each resource opens in Telegram.</p><section class="content-section rx-collection-page" data-home-tabs>'+tabs('objective-page',[('Objective Notes','/objective/#books'),('Question Banks','/objective/#subject-wise')])+panel('objective-page',0,book_body)+panel('objective-page',1,bank_body)+'</section>'
+    body+='<span id="icar-pyq" class="anchor-alias"></span></div>'
+    b.write_page('/objective/','Objective & Competition Resources',desc,body,[(r['title'],r['url']) for r in books+banks])
     desc=b.geo.META['/clinical/']['summary'];body=b.article_intro('Clinical Resources',desc)+'<p class="clinical-callout" role="note">For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.</p>'+b.section_aside('clinical')
     body+='<section class="content-section" id="handbooks"><h2>Handbooks</h2>'+b.link('/clinical/handbooks/','Browse the Handbooks Collection '+b.icon('arrow'),'button secondary')+'</section>'
     rows=[r for r in b.RECORDS if r['subject']=='Veterinary Pharmacology and Toxicology'];pharm='/bvsc/year-3/veterinary-pharmacology-and-toxicology/'
-    body+='<section class="content-section" id="drug-index"><h2>Drug & Pharmacology notes</h2><p>Start with these topics, then explore the full subject.</p><div class="file-list">'+''.join(teaser(b,r) for r in rows[:12])+'</div>'+b.link(pharm,'See all Pharmacology resources '+b.icon('arrow'),'button secondary')+'</section>'
+    body+='<section class="content-section" id="drug-index"><h2>Drug Index Collection</h2>'+b.link('/clinical/drug-index/','Open the Drug Index Collection '+b.icon('arrow'),'button secondary')+'<h3>Pharmacology notes</h3><p>Start with these topics, then explore the full subject.</p><div class="file-list">'+''.join(teaser(b,r) for r in rows[:12])+'</div>'+b.link(pharm,'See all Pharmacology resources '+b.icon('arrow'),'button secondary')+'</section>'
     body+='<section class="content-section" id="other-resources"><h2>Go straight to the subject.</h2><div class="clinical-subjects">'
     for y,name in [(2,'Veterinary Pathology'),(4,'Veterinary Medicine'),(4,'Veterinary Surgery and Radiology'),(3,'Veterinary Pharmacology and Toxicology')]:body+=b.link('/bvsc/year-'+str(y)+'/'+slug(name)+'/',b.icon('cross')+'<span>'+name+'</span>'+b.icon('arrow'),'subject-shortcut')
     body+='</div></section></div>'

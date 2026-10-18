@@ -67,16 +67,14 @@ def academics(b):
     return '<section class="rx-section rx-academics" id="notes" data-home-tabs>'+body+'</section>'
 
 def objectives(b):
-    ident='objective';body=heading('Objective &amp; Competition Resources',"MCQs repeat. Your confidence doesn’t.",'target','sky')+tabs(ident,[('Objective Notes','/objective/#books'),('Question Banks','/objective/#subject-wise')]);rows=''
-    for item in CONTENT['objectiveNotes']:
-        found=next((r for r in b.RECORDS if any(k in r['title'].lower() for k in item['keywords'])),None)
-        rows+=row(item['title'],found['permalink'],item['icon'],item['tone']) if found else missing(item['title'],item['icon'],item['tone'])
-    body+=panel(ident,0,'<div class="rx-row-drawer">'+rows+'</div>')
-    rows=''
-    for subject,title,ic,tone in [('Veterinary Anatomy','Anatomy Objective Questions','bone','peach'),('Veterinary Microbiology','Microbiology MCQs','microbe','mint'),('Veterinary Parasitology','Parasitology Objective Questions','paper','purple')]:
-        if any(r['subject']==subject and 'objective-questions' in r['collections'] for r in b.RECORDS):rows+=row(title,'/objective/#'+b.slug(subject),ic,tone)
-    rows+=row('ICAR PYQ Question Bank','/objective/#icar-pyq','paper','sky','Coming soon')
-    body+=panel(ident,1,'<div class="rx-row-drawer">'+rows+'</div>')
+    ident='objective';body=heading('Objective &amp; Competition Resources',"MCQs repeat. Your confidence doesn’t.",'target','sky')+tabs(ident,[('Objective Notes','/objective/#books'),('Question Banks','/objective/#subject-wise')])
+    for i,key in enumerate(['objective-notes','question-banks']):
+        rows=''
+        for r in [r for r in b.RECORDS if key in r['collections']]:
+            content='<span class="rx-row-icon '+r['tone']+'">'+icon(r['icon'])+'</span><span class="rx-row-label">'+e(r['title'])+'</span><span class="rx-row-open">Open '+icon('external')+'</span>'
+            rows+=link(r['url'],content,'rx-row rx-resource-row')
+        body+=panel(ident,i,'<div class="rx-row-drawer">'+rows+'</div>')
+    body+='<div class="rx-collection-footer">'+link('/objective/','Explore more '+icon('arrow'),'rx-explore')+'</div>'
     return '<section class="rx-section rx-objective" id="objective" data-home-tabs>'+body+'</section>'
 
 def tools():
@@ -88,8 +86,8 @@ def tools():
 
 def clinical():
     body='<header class="rx-clinical-heading"><div><h2>Clinical Resources</h2><svg class="rx-underline" viewBox="0 0 320 10" aria-hidden="true"><path d="M2 6Q12-2 22 6T42 6T62 6T82 6T102 6T122 6T142 6T162 6T182 6T202 6T222 6T242 6T262 6T282 6T302 6T318 6"/></svg></div><span>'+icon('stethoscope')+burst()+'</span><p class="rx-hand">Check the dose twice. The patient can’t leave a review.</p></header><div class="rx-clinical-grid">'
-    for title,url,asset,tone in [('Handbooks Collection','/clinical/handbooks/','doctor-suitcase','mint'),('Drug Index Collection','/clinical/drug-index/','rx-prescription','yellow')]:
-        body+=link(url,'<img src="/assets/home/'+asset+'.webp" width="384" height="512" alt="" loading="lazy" decoding="async"><h3 class="rx-clinical-label">'+title+'</h3><span class="rx-clinical-open" aria-hidden="true">'+icon('chevron')+'</span>','rx-clinical-card rx-real-clinical '+tone)
+    for title,url,asset,tone in [('Handbooks Collection','/clinical/handbooks/','handbook-case','mint'),('Drug Index Collection','/clinical/drug-index/','drug-prescription','yellow')]:
+        body+=link(url,'<h3>'+title+'</h3><img src="/assets/home/'+asset+'.svg" width="240" height="200" alt="" loading="lazy" decoding="async"><span class="rx-clinical-cta">Open '+icon('arrow')+'</span>','rx-clinical-card rx-clinical-icon-card '+tone)
     return '<section class="rx-section rx-clinical" id="clinical">'+body+'</div></section>'
 
 def backbench():
@@ -103,7 +101,7 @@ def involved():
     return '<section class="rx-section rx-involved" id="community">'+body+'</section>'
 
 def footer():
-    return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><div class="rx-footer-ecosystem"><nav aria-label="ThatVetGuy ecosystem">'+link('https://thatvetguy.net','ThatVetGuy')+'<span>Notes</span>'+link('https://blog.thatvetguy.net','Blog')+'</nav><button class="text-button js-only" data-dialog="personal-library">'+icon('book')+' Saved & recent</button></div><p class="footer-note">Files open on Google Drive. Credit remains with their original authors. © 2026 ThatVetGuy.</p></div></footer>'
+    return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><div class="rx-footer-ecosystem"><nav aria-label="ThatVetGuy ecosystem">'+link('https://thatvetguy.net','ThatVetGuy')+'<span>Notes</span>'+link('https://blog.thatvetguy.net','Blog')+'</nav><button class="text-button js-only" data-dialog="personal-library">'+icon('book')+' Saved & recent</button></div><p class="footer-note">Notes open on Google Drive; collection resources open in Telegram. Credit remains with their original authors. © 2026 ThatVetGuy.</p></div></footer>'
 
 def render(b):
     content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()
