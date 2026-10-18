@@ -31,50 +31,13 @@ def controls(b,kinds,ident='file',subjects=False):
     return '<div class="library-controls js-only"><label class="sr-only" for="'+ident+'-query">Search this collection</label><div class="inline-search">'+b.icon('search')+'<input id="'+ident+'-query" class="collection-query" type="search" placeholder="Search this '+('collection' if subjects else 'subject')+'…" autocomplete="off"></div><div class="filter-chips" aria-label="Filter resources">'+''.join('<button type="button" data-filter="'+k+'" aria-pressed="'+('true' if k=='all' else 'false')+'">'+t+'</button>' for k,t in filters)+'</div><p class="filter-status sr-only" role="status"></p></div>'
 def group(b,title,rows,ident,opened=False,render=file_card,level=2,filterkey=None):
     return '<details class="resource-group" id="'+ident+'" data-group="'+(filterkey or ident)+'"'+(' open' if opened else '')+'><summary><h'+str(level)+'>'+e(title)+'</h'+str(level)+'><span class="group-count">'+str(len(rows))+'</span>'+b.icon('arrow')+'</summary><div class="group-body">'+chunks(b,rows,render)+'</div></details>'
-def subject_page(b,y,s):
-    year=y['year'];name=s['name'];path='/bvsc/year-'+str(year)+'/'+s['slug']+'/'
-    rows=[b.CATALOGUE[r] for r in s['resourceIds'] if r in b.CATALOGUE and keep_complete_resource(b.CATALOGUE[r])];summary=b.SUBJECTS[name]['summary']
-    intro=name+' notes for BVSc & AH, organised by unit and topic. Choose a unit below, or search within this subject.'
-    body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(b.DATA['labels'][str(year)],'/bvsc/year-'+str(year)+'/')])
-    body+='<div class="subject-toolbar"><p>'+count(len(rows))+' · '+b.DATA['labels'][str(year)]+'</p><button type="button" class="studied-button js-only" data-studied="'+s['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></div>'
-    body+='<div class="filter-collection">'+controls(b,[(k,v) for k,v in KINDS.items() if k not in ['images','presentation'] and any(r['kind']==k for r in rows)])
-    first=True
-    units=sorted({r['unit'] for r in rows},key=lambda u:(int(re.search(r'\d+',u)[0]) if re.search(r'\d+',u) else 999,natural(u)))
-    for unit in units:
-        own=[r for r in rows if r['unit']==unit]
-        body+=group(b,unit,own,'unit-'+slug(unit),first,filterkey=own[0]['kind'] if len({r['kind'] for r in own})==1 else 'notes');first=False
-    if not rows:body+=empty(b)
-    body+='<p class="filter-empty" hidden>No resources match. '+b.link('/request-resource/','Request a resource')+'</p></div>'
-    body+='<details class="syllabus"><summary>What to revise in this subject '+b.icon('arrow')+'</summary><p>'+e(summary)+'</p><ul>'+''.join('<li>'+e(t)+'</li>' for t in b.SUBJECTS[name]['topics'])+'</ul><p>'+e(b.SUBJECTS[name]['studyTip'])+'</p></details>'
-    body+='<section class="related-section"><h2>Keep the connections.</h2><div class="related-links">'+''.join(b.link('/bvsc/'+slug(n)+'/',e(n)+b.icon('arrow')) for n in b.SUBJECTS[name]['related'])+'</div></section></div>'
-    b.write_page(path,name+' · '+b.DATA['labels'][str(year)],summary,body,[(r['title'],r['url']) for r in rows])
 def overview(b):
-    desc=b.geo.META['/bvsc/']['summary'];body=b.article_intro('BVSc Notes & Books',desc)+year_tiles(b)+'<p class="source-note">Year grouping may vary by university. Check your syllabus. Notes are arranged by subject, then unit. Book recommendations are listed separately for each year.</p></div>'
+    desc='BVSc & AH books, topic-wise notes and study roadmaps, organised by professional year. Choose your year to find everything together, subject by subject.'
+    body=b.article_intro('BVSc Notes & Books',desc)+year_tiles(b)+'<p class="source-note">Year grouping may vary by university. Check your syllabus.</p></div>'
     b.write_page('/bvsc/','BVSc Notes & Books',desc,body,[(b.DATA['labels'][str(y['year'])],'/bvsc/year-'+str(y['year'])+'/') for y in b.LIBRARY['years']])
-    for y in b.LIBRARY['years']:
-        year=y['year'];path='/bvsc/year-'+str(year)+'/'
-        desc=f'Unit-wise notes and subject reading guides for {b.DATA["labels"][str(year)]} BVSc & AH. Choose a subject to find your next read.'
-        body=b.article_intro(b.DATA['labels'][str(year)]+' Resources',desc,[('BVSc','/bvsc/')])
-        body+='<p class="collection-meta">'+str(len(y['subjects']))+' subjects · '+count(y['count'])+'</p><div class="subject-grid year-'+str(year)+'">'
-        for s in y['subjects']:
-            chips=' · '.join(KINDS[k]+' '+str(v) for k,v in s['groups'].items())
-            from homepage import subject_icon
-            ic,tone=subject_icon(s['name'])
-            content='<span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><span><h2>'+e(s['name'])+'</h2><p class="kind-counts">'+(count(s['count'],'note')+' · '+str(len({b.CATALOGUE[r]['unit'] for r in s['resourceIds']}))+' units' if chips else 'Coming soon')+'</p></span>'+b.icon('chevron')
-            body+=b.link(path+s['slug']+'/',content,'subject-card') if s['count'] else '<article class="subject-card unavailable" aria-label="'+e(s['name'])+' — coming soon">'+content+'</article>'
-            subject_page(b,y,s)
-        body+='</div>'+b.link(path+'books/','Best Books for '+b.DATA['labels'][str(year)]+' '+b.icon('book'),'button secondary')
-        if y['extras']:
-            body+='<section class="extras-section" id="extras"><h2>A few extras.</h2><p>These resources don’t yet have a confirmed subject.</p>'+group(b,'Extras', [b.CATALOGUE[r] for r in y['extras']], 'year-extras',False,level=3)+'</section>'
-        from homepage import CONTENT
-        body+='<details class="syllabus" id="road-map"><summary>'+e(b.DATA['labels'][str(year)])+' Road Map '+b.icon('map')+'</summary><ol class="topic-list">'+''.join('<li>'+e(step)+'</li>' for step in CONTENT['roadmaps'][str(year)]['steps'])+'</ol></details>'
-        body+='<p class="source-note">Year grouping may vary by university. Check your syllabus.</p></div>'
-        b.write_page(path,b.DATA['labels'][str(year)]+' BVSc Notes & Books',desc,body,[(s['name'],path+s['slug']+'/') for s in y['subjects']])
-def guides(b):
-    for name,m in b.SUBJECTS.items():
-        path='/bvsc/'+slug(name)+'/';owner='/bvsc/year-'+str(m['year'])+'/'+slug(name)+'/'
-        body=b.article_intro(name,m['summary'],[('BVSc','/bvsc/')])+b.link(owner,'Read '+e(name)+' resources '+b.icon('arrow'),'button')+'<section class="content-section"><h2>Your revision outline</h2><ul class="topic-list">'+''.join('<li>'+e(t)+'</li>' for t in m['topics'])+'</ul><p>'+e(m['studyTip'])+'</p></section></div>'
-        b.write_page(path,name,m['summary'],body,[(name+' resources',owner)])
+    from year_hubs import render
+    render(b)
+
 def collections(b):
     from homepage import tabs,panel
     from collection_cards import intro,cards
@@ -87,10 +50,10 @@ def collections(b):
     b.write_page('/objective/','Objective & Competition Resources',desc,body,[(r['title'],r['url']) for r in books+banks])
     desc=b.geo.META['/clinical/']['summary'];body=b.article_intro('Clinical Resources',desc)+'<p class="clinical-callout" role="note">For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.</p>'+b.section_aside('clinical')
     body+='<section class="content-section" id="handbooks"><h2>Handbooks</h2>'+b.link('/clinical/handbooks/','Browse the Handbooks Collection '+b.icon('arrow'),'button secondary')+'</section>'
-    rows=[r for r in b.RECORDS if r['subject']=='Veterinary Pharmacology and Toxicology'];pharm='/bvsc/year-3/veterinary-pharmacology-and-toxicology/'
+    rows=[r for r in b.RECORDS if r['subject']=='Veterinary Pharmacology and Toxicology'];pharm='/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology'
     body+='<section class="content-section" id="drug-index"><h2>Drug Index Collection</h2>'+b.link('/clinical/drug-index/','Open the Drug Index Collection '+b.icon('arrow'),'button secondary')+'<h3>Pharmacology notes</h3><p>Start with these topics, then explore the full subject.</p><div class="file-list">'+''.join(teaser(b,r) for r in rows[:12])+'</div>'+b.link(pharm,'See all Pharmacology resources '+b.icon('arrow'),'button secondary')+'</section>'
     body+='<section class="content-section" id="other-resources"><h2>Go straight to the subject.</h2><div class="clinical-subjects">'
-    for y,name in [(2,'Veterinary Pathology'),(4,'Veterinary Medicine'),(4,'Veterinary Surgery and Radiology'),(3,'Veterinary Pharmacology and Toxicology')]:body+=b.link('/bvsc/year-'+str(y)+'/'+slug(name)+'/',b.icon('cross')+'<span>'+name+'</span>'+b.icon('arrow'),'subject-shortcut')
+    for y,name in [(2,'Veterinary Pathology'),(4,'Veterinary Medicine'),(4,'Veterinary Surgery and Radiology'),(3,'Veterinary Pharmacology and Toxicology')]:body+=b.link('/bvsc/year-'+str(y)+'/#'+slug(name),b.icon('cross')+'<span>'+name+'</span>'+b.icon('arrow'),'subject-shortcut')
     body+='</div></section></div>'
     b.write_page('/clinical/','Clinical Resources',desc,body,[(r['title'],r['permalink']) for r in matching(b,'handbooks')+rows[:12]])
 def tools(b):
@@ -118,6 +81,6 @@ def other(b):
         rows=find_preset(t,search_records);body+=group(b,t,rows,'preset-'+a,False,teaser,3) if rows else '<details class="resource-group" id="preset-'+a+'"><summary><h3>'+t+'</h3><span class="group-count">0</span></summary>'+empty(b,'No resources for this topic yet')+'</details>'
     b.write_page('/search/','Search Veterinary Resources',b.geo.META['/search/']['summary'],body+'</section></div>',noindex=True)
 def render(b):
-    overview(b);guides(b);collections(b);tools(b);other(b)
+    overview(b);collections(b);tools(b);other(b)
     from book_guides import render as book_render
     book_render(b)
