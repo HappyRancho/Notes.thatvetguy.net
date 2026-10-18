@@ -56,6 +56,12 @@ Updated 2020-01-27 · 9.8 MB
 [Images ](https://drive.google.com/drive/folders/1udDFWQDlMiRVWpnho39SbhQIvZW9shqY)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1udDFWQDlMiRVWpnho39SbhQIvZW9shqY#report)
 
+2nd Year Road Map 
+
+- Use your syllabus to plan Biochemistry, Microbiology and Pathology together.
+- Keep Genetics and Nutrition calculations beside the worked examples in your notes.
+- Review practical observations alongside the related theory.
+
 Year grouping may vary by university. Check your syllabus.
 
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

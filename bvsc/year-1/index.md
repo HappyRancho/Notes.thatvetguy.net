@@ -28,6 +28,12 @@ Practical 55 · Slides 41 · Notes 22 · Extras 5 · Objective 2 · Images 1 · 
 
 ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
+1st Year Road Map 
+
+- Keep your university syllabus beside your subject notes.
+- Connect Anatomy structures with Physiology functions; revise diagrams together.
+- Make a weekly space for Livestock Production Management and practical records.
+
 Year grouping may vary by university. Check your syllabus.
 
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

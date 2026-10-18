@@ -68,4 +68,31 @@ Try Year / Subject / Notes or Books. A useful filename saves a surprising amount
 
 Record the author, edition, species and date where relevant. A saved file still needs context.
 
+## Charts & Tables
+
+Study charts and statistical tables from the subject collections.
+
+[PPTPedegree ChartLivestock Production Management · Slides](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1jqfABHLlw_gDbffe188k1-9QCcD2gK7f)
+[DOCDistribution TablesAnimal Genetics and Breeding · Practical](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N)
+[PDFF-tableAnimal Genetics and Breeding · Note](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1tMqWIPLPxMiYJHIeHEHk62O6DLc2PD-L)
+[PDFt (Student's) tableAnimal Genetics and Breeding · Note](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1eNJf0tPojv7FY3EQZXGtjl_g2VkIQlNs)
+
+## Templates & Formats
+
+Copy these simple outlines into your own document. Adapt practical records to your department’s required format.
+
+### One-topic revision note
+
+Topic · Definition · Key points · Labelled diagram · Common confusions · Source and page.
+
+### Practical record outline
+
+Date · Title · Aim · Materials · Method · Observations · Result · Precautions · Reference.
+
+## Useful Links
+
+Go straight to the part of the library you need.
+
+[BVSc notes and books](https://notes.thatvetguy.net/bvsc/)[Objective questions and books](https://notes.thatvetguy.net/objective/)[Clinical handbooks and references](https://notes.thatvetguy.net/clinical/)
+
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

@@ -106,6 +106,12 @@ Updated 2022-09-26 · 2.4 MB
 [PDF ](https://drive.google.com/file/d/1ym0is2skylb4qdffl62nzaIbm7GJ5lcv/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1ym0is2skylb4qdffl62nzaIbm7GJ5lcv)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ym0is2skylb4qdffl62nzaIbm7GJ5lcv#report)
 
+4th Year Road Map 
+
+- Organise Medicine, Surgery and Gynaecology notes by your syllabus topics.
+- Connect each case discussion with the relevant subject notes and practical record.
+- Use current clinical guidance and supervision; study notes are not prescribing advice.
+
 Year grouping may vary by university. Check your syllabus.
 
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

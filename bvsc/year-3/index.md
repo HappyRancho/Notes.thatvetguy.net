@@ -52,6 +52,12 @@ Extras 1 · Slides 1 · Images 1
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
+3rd Year Road Map 
+
+- Build a subject checklist from your current university syllabus.
+- Connect Pharmacology and Parasitology topics with Public Health concepts.
+- Keep LPT, Extension, Clinical Practices and Farm Practices in your weekly plan.
+
 Year grouping may vary by university. Check your syllabus.
 
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

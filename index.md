@@ -1,81 +1,118 @@
 <!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-18 -->
 
-THE VET STUDENT’S OPEN SHELF
-
-# Vet school notes, sorted. Finally.
-
-Free BVSc & AH notes, books, PYQs and clinical references, organised by year.
-
 Search veterinary resources
-/
 
 Searching…
 
-↳ Search first. Panic later.
+Find your resource
 
-- 1,698resources
-- 19subjects
-- 4years
+[Search all resources](https://notes.thatvetguy.net/search/)[Notes & Books](https://notes.thatvetguy.net/bvsc/)[Objective & Question Banks](https://notes.thatvetguy.net/objective/)[Clinical Resources](https://notes.thatvetguy.net/clinical/)
 
-BVSc NOTES & BOOKS
+## BVSc & AH Resources
 
-## Pick your year.
+Four years. Infinite syllabus. Character development included.
 
-Your syllabus. Your starting point.
-[BVSc & AH1st year3 subjects · 453 resources](https://notes.thatvetguy.net/bvsc/year-1/)[BVSc & AH2nd year5 subjects · 325 resources](https://notes.thatvetguy.net/bvsc/year-2/)[BVSc & AH3rd year7 subjects · 549 resources](https://notes.thatvetguy.net/bvsc/year-3/)[BVSc & AH4th year4 subjects · 371 resources](https://notes.thatvetguy.net/bvsc/year-4/)
+[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 
-↳ Four years, one stethoscope, zero free weekends.
+[Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[Livestock Production & Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-A LITTLE HELP GOES A LONG WAY
+### 1st Year Road Map
 
-## More ways to study.
+Your guide to a strong start.
+
+[View Road Map ](https://notes.thatvetguy.net/bvsc/year-1/#road-map)
+3 subjects · notes & books[Explore 1st Year ](https://notes.thatvetguy.net/bvsc/year-1/)
+
+[Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+
+### 2nd Year Road Map
+
+Connect the foundations.
+
+[View Road Map ](https://notes.thatvetguy.net/bvsc/year-2/#road-map)
+5 subjects · notes & books[Explore 2nd Year ](https://notes.thatvetguy.net/bvsc/year-2/)
+
+[Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+
+### 3rd Year Road Map
+
+Bring the subjects together.
+
+[View Road Map ](https://notes.thatvetguy.net/bvsc/year-3/#road-map)
+7 subjects · notes & books[Explore 3rd Year ](https://notes.thatvetguy.net/bvsc/year-3/)
+
+[Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+Veterinary Clinical Practices IIComing soon
+
+### 4th Year Road Map
+
+From notes to clinical thinking.
+
+[View Road Map ](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
+4 subjects · notes & books[Explore 4th Year ](https://notes.thatvetguy.net/bvsc/year-4/)
+
+## Objective & Competition Resources
+
+MCQs repeat. Your confidence doesn’t.
+
+[Objective Notes](https://notes.thatvetguy.net/objective/#books)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)
+
+[Objective Notes by Dhruv N DesaiComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Objective%20Notes%20by%20Dhruv%20N%20Desai)[Animal Science RefresherComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Animal%20Science%20Refresher)[Review of Animal ScienceComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Review%20of%20Animal%20Science)[Review of Veterinary ScienceComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Review%20of%20Veterinary%20Science)
+
+[Anatomy Objective Questions](https://notes.thatvetguy.net/objective/#veterinary-anatomy)[Microbiology MCQs](https://notes.thatvetguy.net/objective/#veterinary-microbiology)[Parasitology Objective Questions](https://notes.thatvetguy.net/objective/#veterinary-parasitology)[ICAR PYQ Question BankComing soon](https://notes.thatvetguy.net/objective/#icar-pyq)
+
+## Tools & Tips
+
+Study smart. Because suffering manually is outdated.
+
+[Tools](https://notes.thatvetguy.net/study-tools/#charts-tables)[Tips](https://notes.thatvetguy.net/study-tools/#ai-guide)
+
+[CalculatorsComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Calculators)[Charts & Tables](https://notes.thatvetguy.net/study-tools/#charts-tables)[Templates & Formats](https://notes.thatvetguy.net/study-tools/#templates-formats)[Useful Links](https://notes.thatvetguy.net/study-tools/#useful-links)
+
+[Use of AI for Vet Study](https://notes.thatvetguy.net/study-tools/#ai-guide)[Useful Free Apps](https://notes.thatvetguy.net/study-tools/#free-apps)[Organise Your Study Material](https://notes.thatvetguy.net/study-tools/#useful-tools)
+
+## Clinical Resources
+
+Check the dose twice. The patient can’t leave a review.
 
 [
 
-### Objective Resources
+### Handbooks Collection
 
-Subject-wise questions, objective books & past papers.
+](https://notes.thatvetguy.net/clinical/#handbooks)[
 
-](https://notes.thatvetguy.net/objective/)[
+### Drug Index Collection
 
-### Study Tools
+](https://notes.thatvetguy.net/clinical/#drug-index)
 
-AI guides, free apps & useful study habits.
+## Backbenchers Corner
 
-](https://notes.thatvetguy.net/study-tools/)[
+For when the exam is tomorrow and the motivation arrived today.
 
-### Clinical Resources
+### Concise Last Minute Revision Notes
 
-Handbooks & pharmacology notes, within reach.
+Short notes, high-yield topics and more on our Telegram channel.
 
-](https://notes.thatvetguy.net/clinical/)
+[View Notes](https://t.me/vetshortnotesbytvg)
 
-OUTSIDE THE TEXTBOOK
+## Get Involved
 
-## Your corner of vet school.
+Because your next note shouldn’t depend on a forwarded PDF.
 
- SHORT NOTES
+[
 
-### Backbenchers Corner.
+### Vet Job Updates
 
-Less to read. More to remember.
+Join the Telegram group for opportunities.
 
-[Open Short Notes](https://t.me/vetshortnotesbytvg)
+](https://t.me/jobupdatesbytvg)[
 
- JOB UPDATES
+### Request Resources
 
-### Your next chapter.
+Can’t find a resource? Ask for it.
 
-Veterinary opportunities, without the hunt.
+](https://notes.thatvetguy.net/request-resource/)
 
-[Follow Job Updates](https://t.me/jobupdatesbytvg)
-
-↳ Tomorrow’s exam. Today’s sudden interest in short notes.
-
-## Can’t find it?
-
-A note, book or topic. Just ask.
-
-[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+Students today. Better vets tomorrow.
 
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
