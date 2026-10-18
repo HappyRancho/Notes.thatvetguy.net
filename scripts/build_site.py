@@ -49,6 +49,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     preload='balsamiq'
     page_header=homepage.header(path,home)
     page_footer=homepage.footer()
+    font_preload='' if home else '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>'
     page_search=''
     html=f'''<!doctype html><html lang="en" data-ui="rx"><head>
 <meta charset="utf-8"><meta name="site-build" content="{VERSION}"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -58,7 +59,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
 <link rel="canonical" href="{BASE+path}"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Notes.ThatVetGuy — Vet school notes, sorted.">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}">
-<link rel="stylesheet" href="/assets/site.css?v={VERSION}">{extra_assets}<link rel="preload" href="/assets/fonts/{preload}-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v={VERSION}">{extra_assets}<link rel="preload" href="/assets/fonts/{preload}-latin.woff2" as="font" type="font/woff2" crossorigin>{font_preload}
 <script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>
 </head><body class="mockup-home{' rx-inner' if not home else ''}">{page_header}<main id="main">{page_search}{body}<div class="container page-checked">Last checked: <time datetime="{date}">{date}</time></div></main>{page_footer}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
