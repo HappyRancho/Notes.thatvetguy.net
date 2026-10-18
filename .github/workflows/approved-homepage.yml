@@ -32,16 +32,19 @@ jobs:
             git push origin HEAD:homepage-approved-mockups
           fi
       - run: node scripts/homepage-qa.mjs
-        if: "!contains(github.event.head_commit.message, '[subject-row-fix]')"
+        if: "!contains(github.event.head_commit.message, '[subject-row-fix]') && !contains(github.event.head_commit.message, '[collection-cards]')"
+      - run: node scripts/collection-cards-qa.mjs
+        if: contains(github.event.head_commit.message, '[collection-cards]')
       - name: Lighthouse and page regression
         run: npm run qa -- mockup-after
         env:
-          QA_PATHS: ${{ contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/,/clinical/drug-index/,/bvsc/year-1/veterinary-anatomy/' }}
+          QA_PATHS: ${{ contains(github.event.head_commit.message, '[collection-cards]') && '/objective/,/clinical/drug-index/' || contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/,/clinical/drug-index/,/bvsc/year-1/veterinary-anatomy/' }}
           QA_WIDTHS: '360,390,430,1280'
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: approved-homepage
           path: |
+            docs/qa/collection-cards/
             docs/qa/mockup-homepage/
             docs/qa/task3/mockup-after/

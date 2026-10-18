@@ -77,11 +77,12 @@ def guides(b):
         b.write_page(path,name,m['summary'],body,[(name+' resources',owner)])
 def collections(b):
     from homepage import tabs,panel
-    desc=b.geo.META['/objective/']['summary'];body=b.article_intro('Objective & Competition Resources',desc)
+    from collection_cards import intro,cards
+    desc=b.geo.META['/objective/']['summary'];body=intro(b,'Objective & Competition Resources',desc)
     books=matching(b,'objective-notes');banks=matching(b,'question-banks')
-    book_body='<section id="books"><h2 class="sr-only">Objective Notes</h2>'+chunks(b,books)+'</section>'
-    bank_body='<section id="subject-wise"><h2 class="sr-only">Question Banks</h2>'+chunks(b,banks)+'</section>'
-    body+='<p class="source-note">Choose a collection below. Each resource opens in Telegram.</p><section class="content-section rx-collection-page" data-home-tabs>'+tabs('objective-page',[('Objective Notes','/objective/#books'),('Question Banks','/objective/#subject-wise')])+panel('objective-page',0,book_body)+panel('objective-page',1,bank_body)+'</section>'
+    book_body='<section id="books"><h2 class="sr-only">Objective Notes</h2>'+cards(b,books)+'</section>'
+    bank_body='<section id="subject-wise"><h2 class="sr-only">Question Banks</h2>'+cards(b,banks)+'</section>'
+    body+='<p class="source-note">Choose a collection below. Each resource opens in Telegram.</p><section class="content-section rx-collection-page" data-home-tabs>'+tabs('objective-page',[(b.icon('book')+'<span>Objective Notes</span>','/objective/#books'),(b.icon('paper')+'<span>Question Banks</span>','/objective/#subject-wise')])+panel('objective-page',0,book_body)+panel('objective-page',1,bank_body)+'</section>'
     body+='<span id="icar-pyq" class="anchor-alias"></span></div>'
     b.write_page('/objective/','Objective & Competition Resources',desc,body,[(r['title'],r['url']) for r in books+banks])
     desc=b.geo.META['/clinical/']['summary'];body=b.article_intro('Clinical Resources',desc)+'<p class="clinical-callout" role="note">For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.</p>'+b.section_aside('clinical')
