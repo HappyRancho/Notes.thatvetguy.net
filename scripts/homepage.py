@@ -20,7 +20,7 @@ def art(name,box,cls='',source=None):
 def burst():return '<span class="rx-burst" aria-hidden="true"><i></i><i></i><i></i></span>'
 
 def header():
-    syringe=art('prescription',(144,140,23,129),'rx-syringe')
+    syringe='<span class="rx-letter-t">'+art('prescription',(144,140,23,129),'rx-syringe')+'</span>'
     logo='<span class="rx-wordmark" aria-hidden="true"><span class="rx-symbol">R<sub>x</sub></span><span class="rx-notes">No'+syringe+'es</span><span class="rx-by">by <b>thatvetguy</b></span></span>'
     nav=''.join(link(u,t) for u,t in [('/bvsc/','Notes & Books'),('/objective/','Objective'),('/study-tools/','Study Tools'),('/clinical/','Clinical')])
     return '<a class="skip-link" href="#main">Skip to content</a><header class="rx-header container"><div class="rx-paper"><span class="rx-tape" aria-hidden="true"></span><a href="/" class="rx-brand" aria-label="Rx Notes by ThatVetGuy — Home">'+logo+'</a><div class="rx-promise"><h1 id="academic-resources">Free Veterinary<br>Academic Resources</h1><p>Thoughtfully organised for <mark>future vets.</mark></p></div><button class="icon-button rx-menu js-only" type="button" data-dialog="more-sheet" aria-controls="more-sheet" aria-expanded="false" aria-label="Open menu">'+icon('menu')+'</button><span class="rx-paper-paw" aria-hidden="true">'+icon('paw')+'</span><nav class="rx-desktop-nav" aria-label="Main">'+nav+'</nav></div></header>'
@@ -103,5 +103,7 @@ def footer():
     return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><div class="rx-footer-ecosystem"><nav aria-label="ThatVetGuy ecosystem">'+link('https://thatvetguy.net','ThatVetGuy')+'<span>Notes</span>'+link('https://blog.thatvetguy.net','Blog')+'</nav><button class="text-button js-only" data-dialog="personal-library">'+icon('book')+' Saved & recent</button></div><p class="footer-note">Files open on Google Drive. Credit remains with their original authors. © 2026 ThatVetGuy.</p></div></footer>'
 
 def render(b):
-    body='<div class="container rx-home">'+search()+'<div class="rx-content">'+academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()+'</div></div>'
-    b.write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',b.geo.META['/']['summary'],body,home=True)
+    content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()
+    body='<div class="container rx-home">'+search()+'<div class="rx-content">'+content+'</div></div>'
+    mirror='<h1>Free Veterinary Academic Resources</h1><p>Thoughtfully organised for future vets.</p>'+content
+    b.write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',b.geo.META['/']['summary'],body,home=True,mirror_body=mirror)

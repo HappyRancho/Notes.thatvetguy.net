@@ -21,10 +21,10 @@ def article_intro(title,description,crumbs=None):
     breadcrumb=link('/','Home')+''.join('<span aria-hidden="true">/</span>'+link(u,escape(n)) for n,u in crumbs)
     return '<div class="container reading-page"><nav class="breadcrumbs" aria-label="Breadcrumb">'+breadcrumb+'<span aria-hidden="true">/</span><span>'+escape(title)+'</span></nav><header class="reading-header"><h1>'+escape(title)+'</h1><p>'+escape(description)+'</p></header>'
 def search_form(page=False):return site_shell.search(sys.modules[__name__],page)
-def write_page(path,title,description,body,items=None,home=False,noindex=False):
+def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None):
     body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
     modified=json.loads((ROOT/'data/curation.json').read_text())['reviewed']
-    geo.register(path,title,description,body,modified);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
+    geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433') if home else ('#FFF8EC','#0F1714')
     extra_assets=(f'<link rel="stylesheet" href="/assets/homepage.css?v={VERSION}"><script src="/assets/homepage.js?v={VERSION}" defer></script>') if home else ''
