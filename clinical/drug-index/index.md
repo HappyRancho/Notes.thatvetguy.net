@@ -10,40 +10,55 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 
 ## Drug references & schedules
 
-PDF
-VENDEX: The Fundamental Veterinary Drug Index
+#1
+
+### VENDEX: The Fundamental Veterinary Drug Index
 
 A veterinary drug-index reference to consult alongside current product information.
 
-[Open VENDEX: The Fundamental Veterinary Drug Index](https://t.me/c/4430259212/3)
+Telegram
 
-PDF
-Veterinary Drug Index by NAVSARI
+[Open Book: VENDEX: The Fundamental Veterinary Drug Index](https://t.me/c/4430259212/3)
+
+#2
+
+### Veterinary Drug Index by NAVSARI
 
 A veterinary drug-reference collection labelled NAVSARI.
 
-NAVSARI[Open Veterinary Drug Index by NAVSARI](https://t.me/c/4430259212/4)
+NAVSARI
 
-PDF
-Plumb’s Veterinary Drug Handbook
+[Open Book: Veterinary Drug Index by NAVSARI](https://t.me/c/4430259212/4)
+
+#3
+
+### Plumb’s Veterinary Drug Handbook
 
 A drug-handbook reference. Check the edition and species-specific guidance before use.
 
-[Open Plumb’s Veterinary Drug Handbook](https://t.me/c/4430259212/5)
+Telegram
 
-PDF
-Drug Dose — Wall Reference
+[Open Book: Plumb’s Veterinary Drug Handbook](https://t.me/c/4430259212/5)
+
+#4
+
+### Drug Dose — Wall Reference
 
 A printable quick-reference sheet; verify every dose against current clinical guidance.
 
-[Open Drug Dose — Wall Reference](https://t.me/c/4430259212/7)
+Telegram
 
-PDF
-Vaccination Schedule of All Animals
+[Open Book: Drug Dose — Wall Reference](https://t.me/c/4430259212/7)
+
+#5
+
+### Vaccination Schedule of All Animals
 
 A vaccination-schedule reference to compare with species, local guidance and product labels.
 
-[Open Vaccination Schedule of All Animals](https://t.me/c/4430259212/6)
+Telegram
+
+[Open Book: Vaccination Schedule of All Animals](https://t.me/c/4430259212/6)
 
 These links open a private Telegram collection. You need access to that collection to view its posts.
 
