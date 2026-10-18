@@ -46,7 +46,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     light,dark=('#eaf8ff','#112433')
     extra_assets=f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
     if path in ['/objective/','/clinical/drug-index/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
-    if re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
+    if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
     preload='balsamiq'
     page_header=homepage.header(path,home)
@@ -63,7 +63,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}">
 <link rel="stylesheet" href="/assets/site.css?v={VERSION}">{extra_assets}<link rel="preload" href="/assets/fonts/{preload}-latin.woff2" as="font" type="font/woff2" crossorigin>{font_preload}
 <script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>
-</head><body class="mockup-home{' rx-inner' if not home else ''}">{page_header}<main id="main">{page_search}{body}<div class="container page-checked">Last checked: <time datetime="{date}">{date}</time></div></main>{page_footer}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
+</head><body class="mockup-home{' rx-inner' if not home else ''}{' rx-academic' if path.startswith('/bvsc/') else ''}">{page_header}<main id="main">{page_search}{body}<div class="container page-checked">Last checked: <time datetime="{date}">{date}</time></div></main>{page_footer}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
 def discovery():
     index=[]
