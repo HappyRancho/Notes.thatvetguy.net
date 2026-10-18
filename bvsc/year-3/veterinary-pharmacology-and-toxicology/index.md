@@ -15,321 +15,213 @@ Search this collection
 5
 
 PDF
-Factors modifying Drug effect and Dosage[Open Factors modifying Drug effect and Dosage](https://drive.google.com/file/d/1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9/view)
+Factors modifying Drug effect and Dosage
 
-Link checked 2026-10-18
+Factors modifying Drug effect and Dosage — Veterinary Pharmacology and Toxicology, Unit 1 – General Pharmacology.
 
-[PDF ](https://drive.google.com/file/d/1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9#report)
+[Open Factors modifying Drug effect and Dosage](https://drive.google.com/file/d/1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9/view)
 
 PDF
-General Pharmacology Introduction[Open General Pharmacology Introduction](https://drive.google.com/file/d/1q4bdnC-rttiPMMyMbhf35ErKHy_SzGeT/view)
+General Pharmacology Introduction
 
-Link checked 2026-10-18
+General Pharmacology Introduction — Veterinary Pharmacology and Toxicology, Unit 1 – General Pharmacology.
 
-[PDF ](https://drive.google.com/file/d/1q4bdnC-rttiPMMyMbhf35ErKHy_SzGeT/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q4bdnC-rttiPMMyMbhf35ErKHy_SzGeT#report)
+[Open General Pharmacology Introduction](https://drive.google.com/file/d/1q4bdnC-rttiPMMyMbhf35ErKHy_SzGeT/view)
 
 PDF
-General Pharmacology Note[Open General Pharmacology Note](https://drive.google.com/file/d/11XmEsBUWnEGqALvnKU8tTTl-NSCz4LgA/view?usp=sharing)
+General Pharmacology Note
 
-Link checked 2026-10-18
+General Pharmacology Note — Veterinary Pharmacology and Toxicology, Unit 1 – General Pharmacology.
 
-[PDF ](https://drive.google.com/file/d/11XmEsBUWnEGqALvnKU8tTTl-NSCz4LgA/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11XmEsBUWnEGqALvnKU8tTTl-NSCz4LgA#report)
+[Open General Pharmacology Note](https://drive.google.com/file/d/11XmEsBUWnEGqALvnKU8tTTl-NSCz4LgA/view?usp=sharing)
 
 PDF
-Pharmacodynamics[Open Pharmacodynamics](https://drive.google.com/file/d/1UXt4V4WrRVh8Gx9zCuIbf4bujusggr0S/view)
+Pharmacodynamics
 
-Link checked 2026-10-18
+Pharmacodynamics — Veterinary Pharmacology and Toxicology, Unit 1 – General Pharmacology.
 
-[PDF ](https://drive.google.com/file/d/1UXt4V4WrRVh8Gx9zCuIbf4bujusggr0S/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UXt4V4WrRVh8Gx9zCuIbf4bujusggr0S#report)
+[Open Pharmacodynamics](https://drive.google.com/file/d/1UXt4V4WrRVh8Gx9zCuIbf4bujusggr0S/view)
 
 PDF
-Pharmacokinetics[Open Pharmacokinetics](https://drive.google.com/file/d/19t5npwxtScJNrAZlK_ArYtIxtMTVssXN/view)
+Pharmacokinetics
 
-Link checked 2026-10-18
+Pharmacokinetics — Veterinary Pharmacology and Toxicology, Unit 1 – General Pharmacology.
 
-[PDF ](https://drive.google.com/file/d/19t5npwxtScJNrAZlK_ArYtIxtMTVssXN/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19t5npwxtScJNrAZlK_ArYtIxtMTVssXN#report)
+[Open Pharmacokinetics](https://drive.google.com/file/d/19t5npwxtScJNrAZlK_ArYtIxtMTVssXN/view)
 
 ## Unit 2 – Drugs Acting on Autonomic Nervous System
 
 4
 
 PDF
-Autacoids[Open Autacoids](https://drive.google.com/file/d/1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ/view)
+Autacoids
 
-Link checked 2026-10-18
+Autacoids — Veterinary Pharmacology and Toxicology, Unit 2 – Drugs Acting on Autonomic Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ#report)
+[Open Autacoids](https://drive.google.com/file/d/1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ/view)
 
 PDF
-Drugs Acting on ANS Note[Open Drugs Acting on ANS Note](https://drive.google.com/file/d/1HYkpdfCtZ-f_xUtq88BPzqmWokf9eC9i/view?usp=sharing)
+Drugs Acting on ANS Note
 
-Link checked 2026-10-18
+Drugs Acting on ANS Note — Veterinary Pharmacology and Toxicology, Unit 2 – Drugs Acting on Autonomic Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1HYkpdfCtZ-f_xUtq88BPzqmWokf9eC9i/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HYkpdfCtZ-f_xUtq88BPzqmWokf9eC9i#report)
+[Open Drugs Acting on ANS Note](https://drive.google.com/file/d/1HYkpdfCtZ-f_xUtq88BPzqmWokf9eC9i/view?usp=sharing)
 
 PDF
-Drugs acting on Autonomic Nervous System[Open Drugs acting on Autonomic Nervous System](https://drive.google.com/file/d/1VNcfppaa7YyTXWy6Dqt__K3Rf_2pSAsY/view)
+Drugs acting on Autonomic Nervous System
 
-Link checked 2026-10-18
+Drugs acting on Autonomic Nervous System — Veterinary Pharmacology and Toxicology, Unit 2 – Drugs Acting on Autonomic Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1VNcfppaa7YyTXWy6Dqt__K3Rf_2pSAsY/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VNcfppaa7YyTXWy6Dqt__K3Rf_2pSAsY#report)
+[Open Drugs acting on Autonomic Nervous System](https://drive.google.com/file/d/1VNcfppaa7YyTXWy6Dqt__K3Rf_2pSAsY/view)
 
 PDF
-Drugs Acting on Autonomic Nervous System Note[Open Drugs Acting on Autonomic Nervous System Note](https://drive.google.com/file/d/1WngNRKbPOJ6PoucchwftteGhfkCV7Orf/view?usp=sharing)
+Drugs Acting on Autonomic Nervous System Note
 
-Link checked 2026-10-18
+Drugs Acting on Autonomic Nervous System Note — Veterinary Pharmacology and Toxicology, Unit 2 – Drugs Acting on Autonomic Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1WngNRKbPOJ6PoucchwftteGhfkCV7Orf/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WngNRKbPOJ6PoucchwftteGhfkCV7Orf#report)
+[Open Drugs Acting on Autonomic Nervous System Note](https://drive.google.com/file/d/1WngNRKbPOJ6PoucchwftteGhfkCV7Orf/view?usp=sharing)
 
 ## Unit 3 – Drugs Acting on Central Nervous System
 
 9
 
 PDF
-Analeptics and other CNS Stimulants[Open Analeptics and other CNS Stimulants](https://drive.google.com/file/d/1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i/view)
+Analeptics and other CNS Stimulants
 
-Link checked 2026-10-18
+Analeptics and other CNS Stimulants — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i#report)
+[Open Analeptics and other CNS Stimulants](https://drive.google.com/file/d/1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i/view)
 
 PDF
-Drugs Acting on Central Nervous System (CNS) Note[Open Drugs Acting on Central Nervous System (CNS) Note](https://drive.google.com/file/d/16MeShxNxmC3rxhwSlRnk4efycFjplHqh/view?usp=sharing)
+Drugs Acting on Central Nervous System (CNS) Note
 
-Link checked 2026-10-18
+Drugs Acting on Central Nervous System (CNS) Note — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/16MeShxNxmC3rxhwSlRnk4efycFjplHqh/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16MeShxNxmC3rxhwSlRnk4efycFjplHqh#report)
+[Open Drugs Acting on Central Nervous System (CNS) Note](https://drive.google.com/file/d/16MeShxNxmC3rxhwSlRnk4efycFjplHqh/view?usp=sharing)
 
 PDF
-History, Mechanism and Stages of Anaesthesia[Open History, Mechanism and Stages of Anaesthesia](https://drive.google.com/file/d/1JRzK1TBW8enbryTfX6cSvTMhNMfzX_XO/view)
+History, Mechanism and Stages of Anaesthesia
 
-Link checked 2026-10-18
+History, Mechanism and Stages of Anaesthesia — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1JRzK1TBW8enbryTfX6cSvTMhNMfzX_XO/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JRzK1TBW8enbryTfX6cSvTMhNMfzX_XO#report)
+[Open History, Mechanism and Stages of Anaesthesia](https://drive.google.com/file/d/1JRzK1TBW8enbryTfX6cSvTMhNMfzX_XO/view)
 
 PDF
-Hypnotics and Sedatives[Open Hypnotics and Sedatives](https://drive.google.com/file/d/1jA4wS1FFu55p4Pwh_jgB-x92Rr1_yUK3/view)
+Hypnotics and Sedatives
 
-Link checked 2026-10-18
+Hypnotics and Sedatives — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1jA4wS1FFu55p4Pwh_jgB-x92Rr1_yUK3/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jA4wS1FFu55p4Pwh_jgB-x92Rr1_yUK3#report)
+[Open Hypnotics and Sedatives](https://drive.google.com/file/d/1jA4wS1FFu55p4Pwh_jgB-x92Rr1_yUK3/view)
 
 PDF
-Inhalant, Intravenous and Dissociative Anaesthetics[Open Inhalant, Intravenous and Dissociative Anaesthetics](https://drive.google.com/file/d/1okpXwPr1bdhZeR5rY96a3_eTtHRnWi4U/view)
+Inhalant, Intravenous and Dissociative Anaesthetics
 
-Link checked 2026-10-18
+Inhalant, Intravenous and Dissociative Anaesthetics — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1okpXwPr1bdhZeR5rY96a3_eTtHRnWi4U/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1okpXwPr1bdhZeR5rY96a3_eTtHRnWi4U#report)
+[Open Inhalant, Intravenous and Dissociative Anaesthetics](https://drive.google.com/file/d/1okpXwPr1bdhZeR5rY96a3_eTtHRnWi4U/view)
 
 PDF
-Local Anaesthetics[Open Local Anaesthetics](https://drive.google.com/file/d/1MpWCDmTZpYV5H7ByzvHcsUJZ8tSN5sdb/view)
+Local Anaesthetics
 
-Link checked 2026-10-18
+Local Anaesthetics — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1MpWCDmTZpYV5H7ByzvHcsUJZ8tSN5sdb/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MpWCDmTZpYV5H7ByzvHcsUJZ8tSN5sdb#report)
+[Open Local Anaesthetics](https://drive.google.com/file/d/1MpWCDmTZpYV5H7ByzvHcsUJZ8tSN5sdb/view)
 
 PDF
-Neuromuscular Blocking Agents or Muscle Relaxants[Open Neuromuscular Blocking Agents or Muscle Relaxants](https://drive.google.com/file/d/1c7G9t6L07efQTrCHgnLqmZWFQ7z_21cy/view)
+Neuromuscular Blocking Agents or Muscle Relaxants
 
-Link checked 2026-10-18
+Neuromuscular Blocking Agents or Muscle Relaxants — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1c7G9t6L07efQTrCHgnLqmZWFQ7z_21cy/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1c7G9t6L07efQTrCHgnLqmZWFQ7z_21cy#report)
+[Open Neuromuscular Blocking Agents or Muscle Relaxants](https://drive.google.com/file/d/1c7G9t6L07efQTrCHgnLqmZWFQ7z_21cy/view)
 
 PDF
-Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs[Open Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs](https://drive.google.com/file/d/1yhfgIW-O_Re1_4DONkf3HLvGk9tK924l/view)
+Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs
 
-Link checked 2026-10-18
+Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1yhfgIW-O_Re1_4DONkf3HLvGk9tK924l/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yhfgIW-O_Re1_4DONkf3HLvGk9tK924l#report)
+[Open Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs](https://drive.google.com/file/d/1yhfgIW-O_Re1_4DONkf3HLvGk9tK924l/view)
 
 PDF
-Psychotropic Drugs or Psycho Pharmacological Agents[Open Psychotropic Drugs or Psycho Pharmacological Agents](https://drive.google.com/file/d/1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY/view)
+Psychotropic Drugs or Psycho Pharmacological Agents
 
-Link checked 2026-10-18
+Psychotropic Drugs or Psycho Pharmacological Agents — Veterinary Pharmacology and Toxicology, Unit 3 – Drugs Acting on Central Nervous System.
 
-[PDF ](https://drive.google.com/file/d/1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY#report)
+[Open Psychotropic Drugs or Psycho Pharmacological Agents](https://drive.google.com/file/d/1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY/view)
 
 ## Unit 4 – Drugs Acting on Different Body Systems
 
 5
 
 PDF
-Drugs acting on Cardiovascular System[Open Drugs acting on Cardiovascular System](https://drive.google.com/file/d/1n5bNtxYSesqZ8cD2IVPJ0obrWK4GSJ8C/view?usp=sharing)
+Drugs acting on Cardiovascular System
 
-Link checked 2026-10-18
+Drugs acting on Cardiovascular System — Veterinary Pharmacology and Toxicology, Unit 4 – Drugs Acting on Different Body Systems.
 
-[PDF ](https://drive.google.com/file/d/1n5bNtxYSesqZ8cD2IVPJ0obrWK4GSJ8C/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1n5bNtxYSesqZ8cD2IVPJ0obrWK4GSJ8C#report)
+[Open Drugs acting on Cardiovascular System](https://drive.google.com/file/d/1n5bNtxYSesqZ8cD2IVPJ0obrWK4GSJ8C/view?usp=sharing)
 
 PDF
-Drugs acting on Digestive System[Open Drugs acting on Digestive System](https://drive.google.com/file/d/1NNtsUCsEkYCwuhM0oAfD8PXNSjKjkOH3/view?usp=sharing)
+Drugs acting on Digestive System
 
-Link checked 2026-10-18
+Drugs acting on Digestive System — Veterinary Pharmacology and Toxicology, Unit 4 – Drugs Acting on Different Body Systems.
 
-[PDF ](https://drive.google.com/file/d/1NNtsUCsEkYCwuhM0oAfD8PXNSjKjkOH3/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NNtsUCsEkYCwuhM0oAfD8PXNSjKjkOH3#report)
+[Open Drugs acting on Digestive System](https://drive.google.com/file/d/1NNtsUCsEkYCwuhM0oAfD8PXNSjKjkOH3/view?usp=sharing)
 
 PDF
-Drugs acting on Respiratory System[Open Drugs acting on Respiratory System](https://drive.google.com/file/d/1nBPWJt5SPhUdgrNuL8K8K4-3Sh1wGw3s/view?usp=sharing)
+Drugs acting on Respiratory System
 
-Link checked 2026-10-18
+Drugs acting on Respiratory System — Veterinary Pharmacology and Toxicology, Unit 4 – Drugs Acting on Different Body Systems.
 
-[PDF ](https://drive.google.com/file/d/1nBPWJt5SPhUdgrNuL8K8K4-3Sh1wGw3s/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nBPWJt5SPhUdgrNuL8K8K4-3Sh1wGw3s#report)
+[Open Drugs acting on Respiratory System](https://drive.google.com/file/d/1nBPWJt5SPhUdgrNuL8K8K4-3Sh1wGw3s/view?usp=sharing)
 
 PDF
-Drugs acting on Skin and Mucous Membranes[Open Drugs acting on Skin and Mucous Membranes](https://drive.google.com/file/d/1faw90Mo63GJa_xuCIqN5I6zK4JnBogrS/view?usp=sharing)
+Drugs acting on Skin and Mucous Membranes
 
-Link checked 2026-10-18
+Drugs acting on Skin and Mucous Membranes — Veterinary Pharmacology and Toxicology, Unit 4 – Drugs Acting on Different Body Systems.
 
-[PDF ](https://drive.google.com/file/d/1faw90Mo63GJa_xuCIqN5I6zK4JnBogrS/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1faw90Mo63GJa_xuCIqN5I6zK4JnBogrS#report)
+[Open Drugs acting on Skin and Mucous Membranes](https://drive.google.com/file/d/1faw90Mo63GJa_xuCIqN5I6zK4JnBogrS/view?usp=sharing)
 
 PDF
-Drugs acting on Urogenital System[Open Drugs acting on Urogenital System](https://drive.google.com/file/d/1TLP1Fb_y6JhHnSkh-E0uNL61c4lXyzrW/view?usp=sharing)
+Drugs acting on Urogenital System
 
-Link checked 2026-10-18
+Drugs acting on Urogenital System — Veterinary Pharmacology and Toxicology, Unit 4 – Drugs Acting on Different Body Systems.
 
-[PDF ](https://drive.google.com/file/d/1TLP1Fb_y6JhHnSkh-E0uNL61c4lXyzrW/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TLP1Fb_y6JhHnSkh-E0uNL61c4lXyzrW#report)
+[Open Drugs acting on Urogenital System](https://drive.google.com/file/d/1TLP1Fb_y6JhHnSkh-E0uNL61c4lXyzrW/view?usp=sharing)
 
 ## Unit 5 – Veterinary Chemotherapy
 
 2
 
 PDF
-Veterinary Chemotherapy[Open Veterinary Chemotherapy](https://drive.google.com/file/d/1rKLo-enn3y1_EndqEdWnXM773-7pTLlz/view?usp=sharing)
+Veterinary Chemotherapy
 
-Link checked 2026-10-18
+Veterinary Chemotherapy — Veterinary Pharmacology and Toxicology, Unit 5 – Veterinary Chemotherapy.
 
-[PDF ](https://drive.google.com/file/d/1rKLo-enn3y1_EndqEdWnXM773-7pTLlz/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rKLo-enn3y1_EndqEdWnXM773-7pTLlz#report)
+[Open Veterinary Chemotherapy](https://drive.google.com/file/d/1rKLo-enn3y1_EndqEdWnXM773-7pTLlz/view?usp=sharing)
 
 PDF
-Veterinary Chemotherapy Note[Open Veterinary Chemotherapy Note](https://drive.google.com/file/d/1x0btw5V5JU18SfjQflWu0Z3_45nT4agC/view?usp=sharing)
+Veterinary Chemotherapy Note
 
-Link checked 2026-10-18
+Veterinary Chemotherapy Note — Veterinary Pharmacology and Toxicology, Unit 5 – Veterinary Chemotherapy.
 
-[PDF ](https://drive.google.com/file/d/1x0btw5V5JU18SfjQflWu0Z3_45nT4agC/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1x0btw5V5JU18SfjQflWu0Z3_45nT4agC#report)
+[Open Veterinary Chemotherapy Note](https://drive.google.com/file/d/1x0btw5V5JU18SfjQflWu0Z3_45nT4agC/view?usp=sharing)
 
 ## Unit 6 – Veterinary Toxicology
 
 2
 
 PDF
-Veterinary Toxicology[Open Veterinary Toxicology](https://drive.google.com/file/d/1MSf3Em3drGbth-qhpMenQly6ARAGOvRr/view?usp=sharing)
+Veterinary Toxicology
 
-Link checked 2026-10-18
+Veterinary Toxicology — Veterinary Pharmacology and Toxicology, Unit 6 – Veterinary Toxicology.
 
-[PDF ](https://drive.google.com/file/d/1MSf3Em3drGbth-qhpMenQly6ARAGOvRr/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MSf3Em3drGbth-qhpMenQly6ARAGOvRr#report)
+[Open Veterinary Toxicology](https://drive.google.com/file/d/1MSf3Em3drGbth-qhpMenQly6ARAGOvRr/view?usp=sharing)
 
 PDF
-Veterinary Toxicology Note[Open Veterinary Toxicology Note](https://drive.google.com/file/d/1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu/view?usp=sharing)
+Veterinary Toxicology Note
 
-Link checked 2026-10-18
+Veterinary Toxicology Note — Veterinary Pharmacology and Toxicology, Unit 6 – Veterinary Toxicology.
 
-[PDF ](https://drive.google.com/file/d/1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu#report)
+[Open Veterinary Toxicology Note](https://drive.google.com/file/d/1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

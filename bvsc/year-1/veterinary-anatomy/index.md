@@ -15,177 +15,117 @@ Search this collection
 9
 
 PDF
-Angiology[Open Angiology](https://drive.google.com/file/d/1GAJPkpC3FgntG136cAhq8mENzwllRAn9/view?usp=sharing)
+Angiology
 
-Link checked 2026-10-18
+Angiology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1GAJPkpC3FgntG136cAhq8mENzwllRAn9/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GAJPkpC3FgntG136cAhq8mENzwllRAn9#report)
+[Open Angiology](https://drive.google.com/file/d/1GAJPkpC3FgntG136cAhq8mENzwllRAn9/view?usp=sharing)
 
 PDF
-Applied Veterinary Anatomy[Open Applied Veterinary Anatomy](https://drive.google.com/file/d/1NrKdVUS6MIVDkTvWLr7m9n0DCI4WH5n7/view?usp=sharing)
+Applied Veterinary Anatomy
 
-Link checked 2026-10-18
+Applied Veterinary Anatomy — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1NrKdVUS6MIVDkTvWLr7m9n0DCI4WH5n7/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NrKdVUS6MIVDkTvWLr7m9n0DCI4WH5n7#report)
+[Open Applied Veterinary Anatomy](https://drive.google.com/file/d/1NrKdVUS6MIVDkTvWLr7m9n0DCI4WH5n7/view?usp=sharing)
 
 PDF
-Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes[Open Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes](https://drive.google.com/file/d/1D00EDkZvngDqh8VULF053qkUJCheSg4_/view?usp=sharing)
+Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes
 
-Link checked 2026-10-18
+Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1D00EDkZvngDqh8VULF053qkUJCheSg4_/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1D00EDkZvngDqh8VULF053qkUJCheSg4_#report)
+[Open Introduction, Branches, Terms of Anatomy and Study of Anatomical Planes](https://drive.google.com/file/d/1D00EDkZvngDqh8VULF053qkUJCheSg4_/view?usp=sharing)
 
 PDF
-Myology[Open Myology](https://drive.google.com/file/d/1xqUJTxXYLTzqb5xRm5uDsdk3SUwaPXQ0/view?usp=sharing)
+Myology
 
-Link checked 2026-10-18
+Myology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1xqUJTxXYLTzqb5xRm5uDsdk3SUwaPXQ0/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xqUJTxXYLTzqb5xRm5uDsdk3SUwaPXQ0#report)
+[Open Myology](https://drive.google.com/file/d/1xqUJTxXYLTzqb5xRm5uDsdk3SUwaPXQ0/view?usp=sharing)
 
 PDF
-Neurology[Open Neurology](https://drive.google.com/file/d/1X_OsEQsY7ficZk5Oq9djYVU8lJw7SErd/view?usp=sharing)
+Neurology
 
-Link checked 2026-10-18
+Neurology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1X_OsEQsY7ficZk5Oq9djYVU8lJw7SErd/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1X_OsEQsY7ficZk5Oq9djYVU8lJw7SErd#report)
+[Open Neurology](https://drive.google.com/file/d/1X_OsEQsY7ficZk5Oq9djYVU8lJw7SErd/view?usp=sharing)
 
 PDF
-Organ of Special Senses Note[Open Organ of Special Senses Note](https://drive.google.com/file/d/1ccSkEH3ddWp67okEFIBj9HqgKA_2NJMd/view?usp=sharing)
+Organ of Special Senses Note
 
-Link checked 2026-10-18
+Organ of Special Senses Note — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1ccSkEH3ddWp67okEFIBj9HqgKA_2NJMd/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ccSkEH3ddWp67okEFIBj9HqgKA_2NJMd#report)
+[Open Organ of Special Senses Note](https://drive.google.com/file/d/1ccSkEH3ddWp67okEFIBj9HqgKA_2NJMd/view?usp=sharing)
 
 PDF
-Organs of Special Senses or Aesthesiology[Open Organs of Special Senses or Aesthesiology](https://drive.google.com/file/d/1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI/view?usp=sharing)
+Organs of Special Senses or Aesthesiology
 
-Link checked 2026-10-18
+Organs of Special Senses or Aesthesiology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI#report)
+[Open Organs of Special Senses or Aesthesiology](https://drive.google.com/file/d/1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI/view?usp=sharing)
 
 PDF
-Splanchnology[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7/view?usp=sharing)
+Splanchnology
 
-Link checked 2026-10-18
+Splanchnology — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7#report)
+[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7/view?usp=sharing)
 
 PDF
-Veterinary Anatomy Overall[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
+Veterinary Anatomy Overall
 
-Link checked 2026-10-18
+Veterinary Anatomy Overall — Veterinary Anatomy, Units 1–6 – Gross and Applied Anatomy.
 
-[PDF ](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise#report)
+[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
 
 ## Unit 7 – Veterinary Histology
 
 3
 
 PDF
-Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
+Full Histology
 
-Link checked 2026-10-18
+Full Histology — Veterinary Anatomy, Unit 7 – Veterinary Histology.
 
-[PDF ](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P6FkelJcdHlcjNgA7R261foED4na_0Xb#report)
+[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
 
 PDF
-Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
+Lecture Notes on Histology
 
-Link checked 2026-10-18
+Lecture Notes on Histology — Veterinary Anatomy, Unit 7 – Veterinary Histology.
 
-[PDF ](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B#report)
+[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
 
 PDF
-Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
+Veterinary Histology Notes
 
-Link checked 2026-10-18
+Veterinary Histology Notes — Veterinary Anatomy, Unit 7 – Veterinary Histology.
 
-[PDF ](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3#report)
+[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
 
 ## Unit 8 – Veterinary Embryology
 
 3
 
 PDF
-Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
+Full Embryology
 
-Link checked 2026-10-18
+Full Embryology — Veterinary Anatomy, Unit 8 – Veterinary Embryology.
 
-[PDF ](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT#report)
+[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
 
 PDF
-Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
+Lecture Notes on Embryology
 
-Link checked 2026-10-18
+Lecture Notes on Embryology — Veterinary Anatomy, Unit 8 – Veterinary Embryology.
 
-[PDF ](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl#report)
+[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
 
 PDF
-Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
+Veterinary Embryology Notes
 
-Link checked 2026-10-18
+Veterinary Embryology Notes — Veterinary Anatomy, Unit 8 – Veterinary Embryology.
 
-[PDF ](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk#report)
+[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

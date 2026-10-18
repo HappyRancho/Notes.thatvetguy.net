@@ -15,15 +15,11 @@ Search this collection
 1
 
 PDF
-Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
+Veterinary Clinical Practices
 
-Link checked 2026-10-18
+Veterinary Clinical Practices — Veterinary Clinical Practices I, Subject notes.
 
-[PDF ](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6#report)
+[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

@@ -15,15 +15,11 @@ Search this collection
 1
 
 PDF
-Livestock Farm Practices[Open Livestock Farm Practices](https://drive.google.com/file/d/1cbm37Z7iAyVmuJZ0CJ3wxXI9pShZYHsy/view?usp=sharing)
+Livestock Farm Practices
 
-Link checked 2026-10-18
+Livestock Farm Practices — Livestock Farm Practices, Subject notes.
 
-[PDF ](https://drive.google.com/file/d/1cbm37Z7iAyVmuJZ0CJ3wxXI9pShZYHsy/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cbm37Z7iAyVmuJZ0CJ3wxXI9pShZYHsy#report)
+[Open Livestock Farm Practices](https://drive.google.com/file/d/1cbm37Z7iAyVmuJZ0CJ3wxXI9pShZYHsy/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

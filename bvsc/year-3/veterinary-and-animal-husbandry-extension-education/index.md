@@ -15,285 +15,193 @@ Search this collection
 2
 
 PDF
-Livestock based Livelihood and their Evolution Note[Open Livestock based Livelihood and their Evolution Note](https://drive.google.com/file/d/1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5/view?usp=sharing)
+Livestock based Livelihood and their Evolution Note
 
-Link checked 2026-10-18
+Livestock based Livelihood and their Evolution Note — Veterinary and Animal Husbandry Extension Education, Unit 1 – Livestock Based Livelihoods and Their Evolution.
 
-[PDF ](https://drive.google.com/file/d/1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5#report)
+[Open Livestock based Livelihood and their Evolution Note](https://drive.google.com/file/d/1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5/view?usp=sharing)
 
 PDF
-Livestock Based Livelihoods and Their Evolution[Open Livestock Based Livelihoods and Their Evolution](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
+Livestock Based Livelihoods and Their Evolution
 
-Link checked 2026-10-18
+Livestock Based Livelihoods and Their Evolution — Veterinary and Animal Husbandry Extension Education, Unit 1 – Livestock Based Livelihoods and Their Evolution.
 
-[PDF ](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL#report)
+[Open Livestock Based Livelihoods and Their Evolution](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
 
 ## Unit 2 – Extension Education and Development
 
 4
 
 PDF
-Extension Education and Development[Open Extension Education and Development](https://drive.google.com/file/d/18ydS53eeJomMPxTVthCRR9CJ0qa67NDT/view)
+Extension Education and Development
 
-Link checked 2026-10-18
+Extension Education and Development — Veterinary and Animal Husbandry Extension Education, Unit 2 – Extension Education and Development.
 
-[PDF ](https://drive.google.com/file/d/18ydS53eeJomMPxTVthCRR9CJ0qa67NDT/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18ydS53eeJomMPxTVthCRR9CJ0qa67NDT#report)
+[Open Extension Education and Development](https://drive.google.com/file/d/18ydS53eeJomMPxTVthCRR9CJ0qa67NDT/view)
 
 PDF
-Extension Education and Development Note[Open Extension Education and Development Note](https://drive.google.com/file/d/1RWkKcsWb3YRFgtr4wgNO-8K601kzZLAC/view?usp=sharing)
+Extension Education and Development Note
 
-Link checked 2026-10-18
+Extension Education and Development Note — Veterinary and Animal Husbandry Extension Education, Unit 2 – Extension Education and Development.
 
-[PDF ](https://drive.google.com/file/d/1RWkKcsWb3YRFgtr4wgNO-8K601kzZLAC/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RWkKcsWb3YRFgtr4wgNO-8K601kzZLAC#report)
+[Open Extension Education and Development Note](https://drive.google.com/file/d/1RWkKcsWb3YRFgtr4wgNO-8K601kzZLAC/view?usp=sharing)
 
 PDF
-Rural Sociology in Veterinary Extension[Open Rural Sociology in Veterinary Extension](https://drive.google.com/file/d/1172LgIHoUjkGN-U1XdrigGVAzOTblyBw/view)
+Rural Sociology in Veterinary Extension
 
-Link checked 2026-10-18
+Rural Sociology in Veterinary Extension — Veterinary and Animal Husbandry Extension Education, Unit 2 – Extension Education and Development.
 
-[PDF ](https://drive.google.com/file/d/1172LgIHoUjkGN-U1XdrigGVAzOTblyBw/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1172LgIHoUjkGN-U1XdrigGVAzOTblyBw#report)
+[Open Rural Sociology in Veterinary Extension](https://drive.google.com/file/d/1172LgIHoUjkGN-U1XdrigGVAzOTblyBw/view)
 
 PDF
-Rural Sociology in Veterinary Extension Note[Open Rural Sociology in Veterinary Extension Note](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
+Rural Sociology in Veterinary Extension Note
 
-Link checked 2026-10-18
+Rural Sociology in Veterinary Extension Note — Veterinary and Animal Husbandry Extension Education, Unit 2 – Extension Education and Development.
 
-[PDF ](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8#report)
+[Open Rural Sociology in Veterinary Extension Note](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
 
 ## Unit 4 – Transfer of Technology for Livestock Development
 
 3
 
 PDF
-Dairy Development Programme and Concept of Cooperation[Open Dairy Development Programme and Concept of Cooperation](https://drive.google.com/file/d/1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-/view)
+Dairy Development Programme and Concept of Cooperation
 
-Link checked 2026-10-18
+Dairy Development Programme and Concept of Cooperation — Veterinary and Animal Husbandry Extension Education, Unit 4 – Transfer of Technology for Livestock Development.
 
-[PDF ](https://drive.google.com/file/d/1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-#report)
+[Open Dairy Development Programme and Concept of Cooperation](https://drive.google.com/file/d/1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-/view)
 
 PDF
-Transfer of Technology for Livestock Development Overall Note[Open Transfer of Technology for Livestock Development Overall Note](https://drive.google.com/file/d/1Pk9RhxzqARriWz_fmMHX9qYxoI7E4Wmu/view?usp=sharing)
+Transfer of Technology for Livestock Development Overall Note
 
-Link checked 2026-10-18
+Transfer of Technology for Livestock Development Overall Note — Veterinary and Animal Husbandry Extension Education, Unit 4 – Transfer of Technology for Livestock Development.
 
-[PDF ](https://drive.google.com/file/d/1Pk9RhxzqARriWz_fmMHX9qYxoI7E4Wmu/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Pk9RhxzqARriWz_fmMHX9qYxoI7E4Wmu#report)
+[Open Transfer of Technology for Livestock Development Overall Note](https://drive.google.com/file/d/1Pk9RhxzqARriWz_fmMHX9qYxoI7E4Wmu/view?usp=sharing)
 
 PDF
-Transfer of Technology Projects of ICAR[Open Transfer of Technology Projects of ICAR](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
+Transfer of Technology Projects of ICAR
 
-Link checked 2026-10-18
+Transfer of Technology Projects of ICAR — Veterinary and Animal Husbandry Extension Education, Unit 4 – Transfer of Technology for Livestock Development.
 
-[PDF ](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
-
-Link source: VetBVSc. Document label: ICAR. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY#report)
+ICAR[Open Transfer of Technology Projects of ICAR](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
 
 ## Unit 5 – Communication and Extension Teaching Methods
 
 2
 
 PDF
-Communication and Extension Teaching Methods[Open Communication and Extension Teaching Methods](https://drive.google.com/file/d/11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6/view)
+Communication and Extension Teaching Methods
 
-Link checked 2026-10-18
+Communication and Extension Teaching Methods — Veterinary and Animal Husbandry Extension Education, Unit 5 – Communication and Extension Teaching Methods.
 
-[PDF ](https://drive.google.com/file/d/11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6#report)
+[Open Communication and Extension Teaching Methods](https://drive.google.com/file/d/11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6/view)
 
 PDF
-Communication and Extension teaching methods Note[Open Communication and Extension teaching methods Note](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
+Communication and Extension teaching methods Note
 
-Link checked 2026-10-18
+Communication and Extension teaching methods Note — Veterinary and Animal Husbandry Extension Education, Unit 5 – Communication and Extension Teaching Methods.
 
-[PDF ](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab#report)
+[Open Communication and Extension teaching methods Note](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
 
 ## Unit 6 – Livestock Economics and Marketing
 
 4
 
 PDF
-Livestock Economics[Open Livestock Economics](https://drive.google.com/file/d/1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU/view)
+Livestock Economics
 
-Link checked 2026-10-18
+Livestock Economics — Veterinary and Animal Husbandry Extension Education, Unit 6 – Livestock Economics and Marketing.
 
-[PDF ](https://drive.google.com/file/d/1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU#report)
+[Open Livestock Economics](https://drive.google.com/file/d/1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU/view)
 
 PDF
-Livestock Economics and Marketing Overall Note[Open Livestock Economics and Marketing Overall Note](https://drive.google.com/file/d/1xKpONKq2IP5m1j7wgz8cNSrZNCsBQq5b/view?usp=sharing)
+Livestock Economics and Marketing Overall Note
 
-Link checked 2026-10-18
+Livestock Economics and Marketing Overall Note — Veterinary and Animal Husbandry Extension Education, Unit 6 – Livestock Economics and Marketing.
 
-[PDF ](https://drive.google.com/file/d/1xKpONKq2IP5m1j7wgz8cNSrZNCsBQq5b/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xKpONKq2IP5m1j7wgz8cNSrZNCsBQq5b#report)
+[Open Livestock Economics and Marketing Overall Note](https://drive.google.com/file/d/1xKpONKq2IP5m1j7wgz8cNSrZNCsBQq5b/view?usp=sharing)
 
 PDF
-Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and other Details[Open Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and other Details](https://drive.google.com/file/d/1_SjKPBRvaXH6S8cLCQvuITu2h_jrCvPB/view)
+Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and other Details
 
-Link checked 2026-10-18
+Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and other Details — Veterinary and Animal Husbandry Extension Education, Unit 6 – Livestock Economics and Marketing.
 
-[PDF ](https://drive.google.com/file/d/1_SjKPBRvaXH6S8cLCQvuITu2h_jrCvPB/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_SjKPBRvaXH6S8cLCQvuITu2h_jrCvPB#report)
+[Open Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and other Details](https://drive.google.com/file/d/1_SjKPBRvaXH6S8cLCQvuITu2h_jrCvPB/view)
 
 PDF
-Livestock Marketing- Concept, Structure and Classification[Open Livestock Marketing- Concept, Structure and Classification](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
+Livestock Marketing- Concept, Structure and Classification
 
-Link checked 2026-10-18
+Livestock Marketing- Concept, Structure and Classification — Veterinary and Animal Husbandry Extension Education, Unit 6 – Livestock Economics and Marketing.
 
-[PDF ](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW#report)
+[Open Livestock Marketing- Concept, Structure and Classification](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
 
 ## Unit 7 – Livestock Entrepreneurship
 
 6
 
 PDF
-Accounting – Personnel and Resource Management[Open Accounting – Personnel and Resource Management](https://drive.google.com/file/d/1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY/view)
+Accounting – Personnel and Resource Management
 
-Link checked 2026-10-18
+Accounting – Personnel and Resource Management — Veterinary and Animal Husbandry Extension Education, Unit 7 – Livestock Entrepreneurship.
 
-[PDF ](https://drive.google.com/file/d/1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY#report)
+[Open Accounting – Personnel and Resource Management](https://drive.google.com/file/d/1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY/view)
 
 PDF
-Entrepreneurship Development Programmes Promoting Institute in India[Open Entrepreneurship Development Programmes Promoting Institute in India](https://drive.google.com/file/d/1NG6rc39XGlV76iivIG7iVpHAx34aq0nY/view)
+Entrepreneurship Development Programmes Promoting Institute in India
 
-Link checked 2026-10-18
+Entrepreneurship Development Programmes Promoting Institute in India — Veterinary and Animal Husbandry Extension Education, Unit 7 – Livestock Entrepreneurship.
 
-[PDF ](https://drive.google.com/file/d/1NG6rc39XGlV76iivIG7iVpHAx34aq0nY/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NG6rc39XGlV76iivIG7iVpHAx34aq0nY#report)
+[Open Entrepreneurship Development Programmes Promoting Institute in India](https://drive.google.com/file/d/1NG6rc39XGlV76iivIG7iVpHAx34aq0nY/view)
 
 PDF
-Financial Management, Statement Analysis and Capitalism[Open Financial Management, Statement Analysis and Capitalism](https://drive.google.com/file/d/1z9JpHSiKH-mmgL3IiYmNvm17Z8IvG4pP/view)
+Financial Management, Statement Analysis and Capitalism
 
-Link checked 2026-10-18
+Financial Management, Statement Analysis and Capitalism — Veterinary and Animal Husbandry Extension Education, Unit 7 – Livestock Entrepreneurship.
 
-[PDF ](https://drive.google.com/file/d/1z9JpHSiKH-mmgL3IiYmNvm17Z8IvG4pP/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z9JpHSiKH-mmgL3IiYmNvm17Z8IvG4pP#report)
+[Open Financial Management, Statement Analysis and Capitalism](https://drive.google.com/file/d/1z9JpHSiKH-mmgL3IiYmNvm17Z8IvG4pP/view)
 
 PDF
-Introduction, Theories and Forms of Entrepreneurship[Open Introduction, Theories and Forms of Entrepreneurship](https://drive.google.com/file/d/1MNhi4lwp-SR1sAlwD77X1nOknZTlIiyS/view)
+Introduction, Theories and Forms of Entrepreneurship
 
-Link checked 2026-10-18
+Introduction, Theories and Forms of Entrepreneurship — Veterinary and Animal Husbandry Extension Education, Unit 7 – Livestock Entrepreneurship.
 
-[PDF ](https://drive.google.com/file/d/1MNhi4lwp-SR1sAlwD77X1nOknZTlIiyS/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MNhi4lwp-SR1sAlwD77X1nOknZTlIiyS#report)
+[Open Introduction, Theories and Forms of Entrepreneurship](https://drive.google.com/file/d/1MNhi4lwp-SR1sAlwD77X1nOknZTlIiyS/view)
 
 PDF
-Livestock Entrepreneurship Overall Note[Open Livestock Entrepreneurship Overall Note](https://drive.google.com/file/d/1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6/view?usp=sharing)
+Livestock Entrepreneurship Overall Note
 
-Link checked 2026-10-18
+Livestock Entrepreneurship Overall Note — Veterinary and Animal Husbandry Extension Education, Unit 7 – Livestock Entrepreneurship.
 
-[PDF ](https://drive.google.com/file/d/1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6#report)
+[Open Livestock Entrepreneurship Overall Note](https://drive.google.com/file/d/1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6/view?usp=sharing)
 
 PDF
-Project Appraisal and Capital Budgeting[Open Project Appraisal and Capital Budgeting](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
+Project Appraisal and Capital Budgeting
 
-Link checked 2026-10-18
+Project Appraisal and Capital Budgeting — Veterinary and Animal Husbandry Extension Education, Unit 7 – Livestock Entrepreneurship.
 
-[PDF ](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO#report)
+[Open Project Appraisal and Capital Budgeting](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
 
 ## Unit 8 – Information and Communication Technology
 
 1
 
 PDF
-Information and Communication Technology Note[Open Information and Communication Technology Note](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
+Information and Communication Technology Note
 
-Link checked 2026-10-18
+Information and Communication Technology Note — Veterinary and Animal Husbandry Extension Education, Unit 8 – Information and Communication Technology.
 
-[PDF ](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3#report)
+[Open Information and Communication Technology Note](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
 
 ## Unit 9 – Contemporary Issues in Livestock Enterprises
 
 1
 
 PDF
-Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livestock Enterprises](https://drive.google.com/file/d/12EAS1o4GHCpAvou4pASwrJD-_THHhGeX/view)
+Contemporary Issues in Livestock Enterprises
 
-Link checked 2026-10-18
+Contemporary Issues in Livestock Enterprises — Veterinary and Animal Husbandry Extension Education, Unit 9 – Contemporary Issues in Livestock Enterprises.
 
-[PDF ](https://drive.google.com/file/d/12EAS1o4GHCpAvou4pASwrJD-_THHhGeX/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12EAS1o4GHCpAvou4pASwrJD-_THHhGeX#report)
+[Open Contemporary Issues in Livestock Enterprises](https://drive.google.com/file/d/12EAS1o4GHCpAvou4pASwrJD-_THHhGeX/view)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

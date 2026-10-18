@@ -15,243 +15,159 @@ Search this collection
 6
 
 PDF
-Biochemistry of Carbohydrates[Open Biochemistry of Carbohydrates](https://drive.google.com/file/d/15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY/view?usp=sharing)
+Biochemistry of Carbohydrates
 
-Link checked 2026-10-18
+Biochemistry of Carbohydrates — Veterinary Biochemistry, Unit 1 – General Veterinary Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY#report)
+[Open Biochemistry of Carbohydrates](https://drive.google.com/file/d/15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY/view?usp=sharing)
 
 PDF
-Biochemistry of Lipids[Open Biochemistry of Lipids](https://drive.google.com/file/d/1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b/view?usp=sharing)
+Biochemistry of Lipids
 
-Link checked 2026-10-18
+Biochemistry of Lipids — Veterinary Biochemistry, Unit 1 – General Veterinary Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b#report)
+[Open Biochemistry of Lipids](https://drive.google.com/file/d/1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b/view?usp=sharing)
 
 PDF
-Biochemistry of Nucleic Acids[Open Biochemistry of Nucleic Acids](https://drive.google.com/file/d/1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO/view?usp=sharing)
+Biochemistry of Nucleic Acids
 
-Link checked 2026-10-18
+Biochemistry of Nucleic Acids — Veterinary Biochemistry, Unit 1 – General Veterinary Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO#report)
+[Open Biochemistry of Nucleic Acids](https://drive.google.com/file/d/1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO/view?usp=sharing)
 
 PDF
-Biochemistry of Proteins and Amino Acids[Open Biochemistry of Proteins and Amino Acids](https://drive.google.com/file/d/15foXrXbJGZGzsMzQkZgeorpKcW-ocpLb/view?usp=sharing)
+Biochemistry of Proteins and Amino Acids
 
-Link checked 2026-10-18
+Biochemistry of Proteins and Amino Acids — Veterinary Biochemistry, Unit 1 – General Veterinary Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/15foXrXbJGZGzsMzQkZgeorpKcW-ocpLb/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15foXrXbJGZGzsMzQkZgeorpKcW-ocpLb#report)
+[Open Biochemistry of Proteins and Amino Acids](https://drive.google.com/file/d/15foXrXbJGZGzsMzQkZgeorpKcW-ocpLb/view?usp=sharing)
 
 PDF
-General Introduction of Biochemistry[Open General Introduction of Biochemistry](https://drive.google.com/file/d/13JYNN8lARuNJB9_vSwhTmuaVfqwrOGM2/view?usp=sharing)
+General Introduction of Biochemistry
 
-Link checked 2026-10-18
+General Introduction of Biochemistry — Veterinary Biochemistry, Unit 1 – General Veterinary Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/13JYNN8lARuNJB9_vSwhTmuaVfqwrOGM2/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13JYNN8lARuNJB9_vSwhTmuaVfqwrOGM2#report)
+[Open General Introduction of Biochemistry](https://drive.google.com/file/d/13JYNN8lARuNJB9_vSwhTmuaVfqwrOGM2/view?usp=sharing)
 
 PDF
-General Veterinary Biochemistry Note[Open General Veterinary Biochemistry Note](https://drive.google.com/file/d/121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1/view?usp=sharing)
+General Veterinary Biochemistry Note
 
-Link checked 2026-10-18
+General Veterinary Biochemistry Note — Veterinary Biochemistry, Unit 1 – General Veterinary Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1#report)
+[Open General Veterinary Biochemistry Note](https://drive.google.com/file/d/121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1/view?usp=sharing)
 
 ## Unit 2 – Intermediary Metabolism
 
 7
 
 PDF
-Biochemistry of Enzymes[Open Biochemistry of Enzymes](https://drive.google.com/file/d/1oHaopQIuBlX76zrPaWD9Ao_PE6CWDo1t/view?usp=sharing)
+Biochemistry of Enzymes
 
-Link checked 2026-10-18
+Biochemistry of Enzymes — Veterinary Biochemistry, Unit 2 – Intermediary Metabolism.
 
-[PDF ](https://drive.google.com/file/d/1oHaopQIuBlX76zrPaWD9Ao_PE6CWDo1t/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oHaopQIuBlX76zrPaWD9Ao_PE6CWDo1t#report)
+[Open Biochemistry of Enzymes](https://drive.google.com/file/d/1oHaopQIuBlX76zrPaWD9Ao_PE6CWDo1t/view?usp=sharing)
 
 PDF
-Metabolism of Amino Acids or Proteins[Open Metabolism of Amino Acids or Proteins](https://drive.google.com/file/d/17ttyu1cbtE_SLdvA2o9cjaXb4I5HVH6P/view?usp=sharing)
+Metabolism of Amino Acids or Proteins
 
-Link checked 2026-10-18
+Metabolism of Amino Acids or Proteins — Veterinary Biochemistry, Unit 2 – Intermediary Metabolism.
 
-[PDF ](https://drive.google.com/file/d/17ttyu1cbtE_SLdvA2o9cjaXb4I5HVH6P/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17ttyu1cbtE_SLdvA2o9cjaXb4I5HVH6P#report)
+[Open Metabolism of Amino Acids or Proteins](https://drive.google.com/file/d/17ttyu1cbtE_SLdvA2o9cjaXb4I5HVH6P/view?usp=sharing)
 
 PDF
-Metabolism of Carbohydrates[Open Metabolism of Carbohydrates](https://drive.google.com/file/d/186XlXmmo3G6srjU0WS0eW0V57yp1f-rU/view?usp=sharing)
+Metabolism of Carbohydrates
 
-Link checked 2026-10-18
+Metabolism of Carbohydrates — Veterinary Biochemistry, Unit 2 – Intermediary Metabolism.
 
-[PDF ](https://drive.google.com/file/d/186XlXmmo3G6srjU0WS0eW0V57yp1f-rU/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=186XlXmmo3G6srjU0WS0eW0V57yp1f-rU#report)
+[Open Metabolism of Carbohydrates](https://drive.google.com/file/d/186XlXmmo3G6srjU0WS0eW0V57yp1f-rU/view?usp=sharing)
 
 PDF
-Metabolism of Lipids[Open Metabolism of Lipids](https://drive.google.com/file/d/1mEuYXJNnzqh5dDJExNSkwyAAD8IuLrc3/view?usp=sharing)
+Metabolism of Lipids
 
-Link checked 2026-10-18
+Metabolism of Lipids — Veterinary Biochemistry, Unit 2 – Intermediary Metabolism.
 
-[PDF ](https://drive.google.com/file/d/1mEuYXJNnzqh5dDJExNSkwyAAD8IuLrc3/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mEuYXJNnzqh5dDJExNSkwyAAD8IuLrc3#report)
+[Open Metabolism of Lipids](https://drive.google.com/file/d/1mEuYXJNnzqh5dDJExNSkwyAAD8IuLrc3/view?usp=sharing)
 
 PDF
-Metabolism of Nucleic Acids[Open Metabolism of Nucleic Acids](https://drive.google.com/file/d/1UW7NppeCpKeIuqiCfuac9eJoNMORws5O/view?usp=sharing)
+Metabolism of Nucleic Acids
 
-Link checked 2026-10-18
+Metabolism of Nucleic Acids — Veterinary Biochemistry, Unit 2 – Intermediary Metabolism.
 
-[PDF ](https://drive.google.com/file/d/1UW7NppeCpKeIuqiCfuac9eJoNMORws5O/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UW7NppeCpKeIuqiCfuac9eJoNMORws5O#report)
+[Open Metabolism of Nucleic Acids](https://drive.google.com/file/d/1UW7NppeCpKeIuqiCfuac9eJoNMORws5O/view?usp=sharing)
 
 PDF
-Regulation and Integration of Metabolism[Open Regulation and Integration of Metabolism](https://drive.google.com/file/d/1nZ4w0d1x2_4aTxqYvL-TzeamcX-4vx8q/view?usp=sharing)
+Regulation and Integration of Metabolism
 
-Link checked 2026-10-18
+Regulation and Integration of Metabolism — Veterinary Biochemistry, Unit 2 – Intermediary Metabolism.
 
-[PDF ](https://drive.google.com/file/d/1nZ4w0d1x2_4aTxqYvL-TzeamcX-4vx8q/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nZ4w0d1x2_4aTxqYvL-TzeamcX-4vx8q#report)
+[Open Regulation and Integration of Metabolism](https://drive.google.com/file/d/1nZ4w0d1x2_4aTxqYvL-TzeamcX-4vx8q/view?usp=sharing)
 
 PDF
-Veterinary Intermediary Metabolism Note[Open Veterinary Intermediary Metabolism Note](https://drive.google.com/file/d/1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR/view?usp=sharing)
+Veterinary Intermediary Metabolism Note
 
-Link checked 2026-10-18
+Veterinary Intermediary Metabolism Note — Veterinary Biochemistry, Unit 2 – Intermediary Metabolism.
 
-[PDF ](https://drive.google.com/file/d/1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR#report)
+[Open Veterinary Intermediary Metabolism Note](https://drive.google.com/file/d/1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR/view?usp=sharing)
 
 ## Unit 3 – Veterinary Analytical Biochemistry
 
 8
 
 PDF
-Biochemical basis of Fluid Therapy[Open Biochemical basis of Fluid Therapy](https://drive.google.com/file/d/1XVTCP7SHFbPP5eF-_Z_pvZFki35AS3ya/view?usp=sharing)
+Biochemical basis of Fluid Therapy
 
-Link checked 2026-10-18
+Biochemical basis of Fluid Therapy — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1XVTCP7SHFbPP5eF-_Z_pvZFki35AS3ya/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XVTCP7SHFbPP5eF-_Z_pvZFki35AS3ya#report)
+[Open Biochemical basis of Fluid Therapy](https://drive.google.com/file/d/1XVTCP7SHFbPP5eF-_Z_pvZFki35AS3ya/view?usp=sharing)
 
 PDF
-Biochemical Tests of Renal Function[Open Biochemical Tests of Renal Function](https://drive.google.com/file/d/1iJ2MJJdlLKFJRgvOfiTALpVvA3gwAl3D/view?usp=sharing)
+Biochemical Tests of Renal Function
 
-Link checked 2026-10-18
+Biochemical Tests of Renal Function — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1iJ2MJJdlLKFJRgvOfiTALpVvA3gwAl3D/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iJ2MJJdlLKFJRgvOfiTALpVvA3gwAl3D#report)
+[Open Biochemical Tests of Renal Function](https://drive.google.com/file/d/1iJ2MJJdlLKFJRgvOfiTALpVvA3gwAl3D/view?usp=sharing)
 
 PDF
-Biochemistry of Digestive Disorders[Open Biochemistry of Digestive Disorders](https://drive.google.com/file/d/1iAwPF_w94djaWvrzqOFsRyFBMghIdJnN/view?usp=sharing)
+Biochemistry of Digestive Disorders
 
-Link checked 2026-10-18
+Biochemistry of Digestive Disorders — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1iAwPF_w94djaWvrzqOFsRyFBMghIdJnN/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iAwPF_w94djaWvrzqOFsRyFBMghIdJnN#report)
+[Open Biochemistry of Digestive Disorders](https://drive.google.com/file/d/1iAwPF_w94djaWvrzqOFsRyFBMghIdJnN/view?usp=sharing)
 
 PDF
-Biochemistry of Oxidative Stress and Shock[Open Biochemistry of Oxidative Stress and Shock](https://drive.google.com/file/d/1MqdbvGuyymtuIhnY-s-OWcQtSKK1kTSK/view?usp=sharing)
+Biochemistry of Oxidative Stress and Shock
 
-Link checked 2026-10-18
+Biochemistry of Oxidative Stress and Shock — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1MqdbvGuyymtuIhnY-s-OWcQtSKK1kTSK/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MqdbvGuyymtuIhnY-s-OWcQtSKK1kTSK#report)
+[Open Biochemistry of Oxidative Stress and Shock](https://drive.google.com/file/d/1MqdbvGuyymtuIhnY-s-OWcQtSKK1kTSK/view?usp=sharing)
 
 PDF
-Detoxification in the Body[Open Detoxification in the Body](https://drive.google.com/file/d/1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8/view?usp=sharing)
+Detoxification in the Body
 
-Link checked 2026-10-18
+Detoxification in the Body — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8#report)
+[Open Detoxification in the Body](https://drive.google.com/file/d/1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8/view?usp=sharing)
 
 PDF
-Disorders of Carbohydrate Metabolism[Open Disorders of Carbohydrate Metabolism](https://drive.google.com/file/d/1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS/view?usp=sharing)
+Disorders of Carbohydrate Metabolism
 
-Link checked 2026-10-18
+Disorders of Carbohydrate Metabolism — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS#report)
+[Open Disorders of Carbohydrate Metabolism](https://drive.google.com/file/d/1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS/view?usp=sharing)
 
 PDF
-Disturbances in Acid Base Balance[Open Disturbances in Acid Base Balance](https://drive.google.com/file/d/1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG/view?usp=sharing)
+Disturbances in Acid Base Balance
 
-Link checked 2026-10-18
+Disturbances in Acid Base Balance — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG#report)
+[Open Disturbances in Acid Base Balance](https://drive.google.com/file/d/1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG/view?usp=sharing)
 
 PDF
-Liver Function Tests[Open Liver Function Tests](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
+Liver Function Tests
 
-Link checked 2026-10-18
+Liver Function Tests — Veterinary Biochemistry, Unit 3 – Veterinary Analytical Biochemistry.
 
-[PDF ](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb#report)
+[Open Liver Function Tests](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

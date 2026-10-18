@@ -15,537 +15,349 @@ Search this collection
 5
 
 PDF
-General Parasitology – Types of Parasites, Hosts, Vectors and Animal associations or Relationships[Open General Parasitology – Types of Parasites, Hosts, Vectors and Animal associations or Relationships](https://drive.google.com/file/d/10_zxvjAdbkJ8ots_sjK4S2aFJxAX4dK9/view)
+General Parasitology – Types of Parasites, Hosts, Vectors and Animal associations or Relationships
 
-Link checked 2026-10-18
+General Parasitology – Types of Parasites, Hosts, Vectors and Animal associations or Relationships — Veterinary Parasitology, Unit 1 – General Veterinary Parasitology.
 
-[PDF ](https://drive.google.com/file/d/10_zxvjAdbkJ8ots_sjK4S2aFJxAX4dK9/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10_zxvjAdbkJ8ots_sjK4S2aFJxAX4dK9#report)
+[Open General Parasitology – Types of Parasites, Hosts, Vectors and Animal associations or Relationships](https://drive.google.com/file/d/10_zxvjAdbkJ8ots_sjK4S2aFJxAX4dK9/view)
 
 PDF
-Harmful effects of Parasites including Tissue Reactions[Open Harmful effects of Parasites including Tissue Reactions](https://drive.google.com/file/d/1nBmXiERmNFbJAMvgWJiDqs7OWrJhSRLF/view)
+Harmful effects of Parasites including Tissue Reactions
 
-Link checked 2026-10-18
+Harmful effects of Parasites including Tissue Reactions — Veterinary Parasitology, Unit 1 – General Veterinary Parasitology.
 
-[PDF ](https://drive.google.com/file/d/1nBmXiERmNFbJAMvgWJiDqs7OWrJhSRLF/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nBmXiERmNFbJAMvgWJiDqs7OWrJhSRLF#report)
+[Open Harmful effects of Parasites including Tissue Reactions](https://drive.google.com/file/d/1nBmXiERmNFbJAMvgWJiDqs7OWrJhSRLF/view)
 
 PDF
-Immunity against Parasitic Infections or Infestations[Open Immunity against Parasitic Infections or Infestations](https://drive.google.com/file/d/1-bx-xkJFUG98Q1HE7PqE4nsXgCdpCbSN/view)
+Immunity against Parasitic Infections or Infestations
 
-Link checked 2026-10-18
+Immunity against Parasitic Infections or Infestations — Veterinary Parasitology, Unit 1 – General Veterinary Parasitology.
 
-[PDF ](https://drive.google.com/file/d/1-bx-xkJFUG98Q1HE7PqE4nsXgCdpCbSN/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-bx-xkJFUG98Q1HE7PqE4nsXgCdpCbSN#report)
+[Open Immunity against Parasitic Infections or Infestations](https://drive.google.com/file/d/1-bx-xkJFUG98Q1HE7PqE4nsXgCdpCbSN/view)
 
 PDF
-Modes of Transmission and Methods of Dissemination of Parasites[Open Modes of Transmission and Methods of Dissemination of Parasites](https://drive.google.com/file/d/10CB_DulF3SDajpwqlqGYNg6uQiGoWfZo/view)
+Modes of Transmission and Methods of Dissemination of Parasites
 
-Link checked 2026-10-18
+Modes of Transmission and Methods of Dissemination of Parasites — Veterinary Parasitology, Unit 1 – General Veterinary Parasitology.
 
-[PDF ](https://drive.google.com/file/d/10CB_DulF3SDajpwqlqGYNg6uQiGoWfZo/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10CB_DulF3SDajpwqlqGYNg6uQiGoWfZo#report)
+[Open Modes of Transmission and Methods of Dissemination of Parasites](https://drive.google.com/file/d/10CB_DulF3SDajpwqlqGYNg6uQiGoWfZo/view)
 
 PDF
-Nomenclature of Parasites and Parasitic Diseases[Open Nomenclature of Parasites and Parasitic Diseases](https://drive.google.com/file/d/1O9QbkzcKu1CxUNjqhQx_cahZyFvsxm7W/view)
+Nomenclature of Parasites and Parasitic Diseases
 
-Link checked 2026-10-18
+Nomenclature of Parasites and Parasitic Diseases — Veterinary Parasitology, Unit 1 – General Veterinary Parasitology.
 
-[PDF ](https://drive.google.com/file/d/1O9QbkzcKu1CxUNjqhQx_cahZyFvsxm7W/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1O9QbkzcKu1CxUNjqhQx_cahZyFvsxm7W#report)
+[Open Nomenclature of Parasites and Parasitic Diseases](https://drive.google.com/file/d/1O9QbkzcKu1CxUNjqhQx_cahZyFvsxm7W/view)
 
 ## Unit 2 – Trematodes and Cestodes of Veterinary Importance
 
 6
 
 PDF
-Blood Fluke – Nasal and Visceral Schistosomosis and Cercarial Dermatitis[Open Blood Fluke – Nasal and Visceral Schistosomosis and Cercarial Dermatitis](https://drive.google.com/file/d/13pjGEtgMGjSPVVwjFfjqu125UG5FnCVc/view)
+Blood Fluke – Nasal and Visceral Schistosomosis and Cercarial Dermatitis
 
-Link checked 2026-10-18
+Blood Fluke – Nasal and Visceral Schistosomosis and Cercarial Dermatitis — Veterinary Parasitology, Unit 2 – Trematodes and Cestodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/13pjGEtgMGjSPVVwjFfjqu125UG5FnCVc/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13pjGEtgMGjSPVVwjFfjqu125UG5FnCVc#report)
+[Open Blood Fluke – Nasal and Visceral Schistosomosis and Cercarial Dermatitis](https://drive.google.com/file/d/13pjGEtgMGjSPVVwjFfjqu125UG5FnCVc/view)
 
 PDF
-Cestodes of Veterinary Importance[Open Cestodes of Veterinary Importance](https://drive.google.com/file/d/1jrppJqVBReIQXLEvpPbF2DYGYKl75tiu/view?usp=sharing)
+Cestodes of Veterinary Importance
 
-Link checked 2026-10-18
+Cestodes of Veterinary Importance — Veterinary Parasitology, Unit 2 – Trematodes and Cestodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1jrppJqVBReIQXLEvpPbF2DYGYKl75tiu/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jrppJqVBReIQXLEvpPbF2DYGYKl75tiu#report)
+[Open Cestodes of Veterinary Importance](https://drive.google.com/file/d/1jrppJqVBReIQXLEvpPbF2DYGYKl75tiu/view?usp=sharing)
 
 PDF
-Liver Fluke and Intestinal Fluke[Open Liver Fluke and Intestinal Fluke](https://drive.google.com/file/d/14zVWuYcf5BNgpgKyaVW0_suKF-Yyr9Z1/view)
+Liver Fluke and Intestinal Fluke
 
-Link checked 2026-10-18
+Liver Fluke and Intestinal Fluke — Veterinary Parasitology, Unit 2 – Trematodes and Cestodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/14zVWuYcf5BNgpgKyaVW0_suKF-Yyr9Z1/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14zVWuYcf5BNgpgKyaVW0_suKF-Yyr9Z1#report)
+[Open Liver Fluke and Intestinal Fluke](https://drive.google.com/file/d/14zVWuYcf5BNgpgKyaVW0_suKF-Yyr9Z1/view)
 
 PDF
-Paragonimus, Prosthogonimus and Echinostomes[Open Paragonimus, Prosthogonimus and Echinostomes](https://drive.google.com/file/d/1PXO6vIr4obCiL-wgl9ct9sO3K8TXX7tV/view)
+Paragonimus, Prosthogonimus and Echinostomes
 
-Link checked 2026-10-18
+Paragonimus, Prosthogonimus and Echinostomes — Veterinary Parasitology, Unit 2 – Trematodes and Cestodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1PXO6vIr4obCiL-wgl9ct9sO3K8TXX7tV/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PXO6vIr4obCiL-wgl9ct9sO3K8TXX7tV#report)
+[Open Paragonimus, Prosthogonimus and Echinostomes](https://drive.google.com/file/d/1PXO6vIr4obCiL-wgl9ct9sO3K8TXX7tV/view)
 
 PDF
-Paramphistomes – Rumen Fluke[Open Paramphistomes – Rumen Fluke](https://drive.google.com/file/d/1WOuNCkRu6FXZ093mIBs8aGRqDoKo-BxA/view)
+Paramphistomes – Rumen Fluke
 
-Link checked 2026-10-18
+Paramphistomes – Rumen Fluke — Veterinary Parasitology, Unit 2 – Trematodes and Cestodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1WOuNCkRu6FXZ093mIBs8aGRqDoKo-BxA/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WOuNCkRu6FXZ093mIBs8aGRqDoKo-BxA#report)
+[Open Paramphistomes – Rumen Fluke](https://drive.google.com/file/d/1WOuNCkRu6FXZ093mIBs8aGRqDoKo-BxA/view)
 
 PDF
-Trematodes (Fluke) – Introduction, Classification and General Life cycle[Open Trematodes (Fluke) – Introduction, Classification and General Life cycle](https://drive.google.com/file/d/1wYn9i2QwcY5Ra_OcePRNxDd3O1AfU5wG/view)
+Trematodes (Fluke) – Introduction, Classification and General Life cycle
 
-Link checked 2026-10-18
+Trematodes (Fluke) – Introduction, Classification and General Life cycle — Veterinary Parasitology, Unit 2 – Trematodes and Cestodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1wYn9i2QwcY5Ra_OcePRNxDd3O1AfU5wG/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wYn9i2QwcY5Ra_OcePRNxDd3O1AfU5wG#report)
+[Open Trematodes (Fluke) – Introduction, Classification and General Life cycle](https://drive.google.com/file/d/1wYn9i2QwcY5Ra_OcePRNxDd3O1AfU5wG/view)
 
 ## Unit 3 – Nematodes of Veterinary Importance
 
 12
 
 PDF
-Ananthocephala (Macrocanthorhynchus)[Open Ananthocephala (Macrocanthorhynchus)](https://drive.google.com/file/d/1TrSIq8yOKJP5P6ahmmhh6f2iNB98fDzy/view?usp=sharing)
+Ananthocephala (Macrocanthorhynchus)
 
-Link checked 2026-10-18
+Ananthocephala (Macrocanthorhynchus) — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1TrSIq8yOKJP5P6ahmmhh6f2iNB98fDzy/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TrSIq8yOKJP5P6ahmmhh6f2iNB98fDzy#report)
+[Open Ananthocephala (Macrocanthorhynchus)](https://drive.google.com/file/d/1TrSIq8yOKJP5P6ahmmhh6f2iNB98fDzy/view?usp=sharing)
 
 PDF
-Ascaris, Parascaris, Toxocara, Toxascaris, Ascaridia, Heterakis and Oxyuris[Open Ascaris, Parascaris, Toxocara, Toxascaris, Ascaridia, Heterakis and Oxyuris](https://drive.google.com/file/d/1kPqI_h78uLBvAJ01YlhbR-2AxrzQKdRG/view?usp=sharing)
+Ascaris, Parascaris, Toxocara, Toxascaris, Ascaridia, Heterakis and Oxyuris
 
-Link checked 2026-10-18
+Ascaris, Parascaris, Toxocara, Toxascaris, Ascaridia, Heterakis and Oxyuris — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1kPqI_h78uLBvAJ01YlhbR-2AxrzQKdRG/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kPqI_h78uLBvAJ01YlhbR-2AxrzQKdRG#report)
+[Open Ascaris, Parascaris, Toxocara, Toxascaris, Ascaridia, Heterakis and Oxyuris](https://drive.google.com/file/d/1kPqI_h78uLBvAJ01YlhbR-2AxrzQKdRG/view?usp=sharing)
 
 PDF
-Dirofilaria, Parafilaria, Onchocerca, Setaria and Stephanofilaria[Open Dirofilaria, Parafilaria, Onchocerca, Setaria and Stephanofilaria](https://drive.google.com/file/d/10MiDgSFu4rtNSwOYlPvgAyfXqlX3_0QA/view?usp=sharing)
+Dirofilaria, Parafilaria, Onchocerca, Setaria and Stephanofilaria
 
-Link checked 2026-10-18
+Dirofilaria, Parafilaria, Onchocerca, Setaria and Stephanofilaria — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/10MiDgSFu4rtNSwOYlPvgAyfXqlX3_0QA/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10MiDgSFu4rtNSwOYlPvgAyfXqlX3_0QA#report)
+[Open Dirofilaria, Parafilaria, Onchocerca, Setaria and Stephanofilaria](https://drive.google.com/file/d/10MiDgSFu4rtNSwOYlPvgAyfXqlX3_0QA/view?usp=sharing)
 
 PDF
-Guinea worm (Dracunculus), Trichinella, Trichuris and Capillaria[Open Guinea worm (Dracunculus), Trichinella, Trichuris and Capillaria](https://drive.google.com/file/d/1IUPuZhQB44ePnaFMELHGLlrERrf4_ZkR/view?usp=sharing)
+Guinea worm (Dracunculus), Trichinella, Trichuris and Capillaria
 
-Link checked 2026-10-18
+Guinea worm (Dracunculus), Trichinella, Trichuris and Capillaria — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1IUPuZhQB44ePnaFMELHGLlrERrf4_ZkR/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IUPuZhQB44ePnaFMELHGLlrERrf4_ZkR#report)
+[Open Guinea worm (Dracunculus), Trichinella, Trichuris and Capillaria](https://drive.google.com/file/d/1IUPuZhQB44ePnaFMELHGLlrERrf4_ZkR/view?usp=sharing)
 
 PDF
-Habronema, Draschia, Thelazia, Spirocerca, Gongylonema, Physaloptera and Gnathostoma[Open Habronema, Draschia, Thelazia, Spirocerca, Gongylonema, Physaloptera and Gnathostoma](https://drive.google.com/file/d/1HXjXtXr3Kfoi-BmZoj2_tbgELigAl4mu/view?usp=sharing)
+Habronema, Draschia, Thelazia, Spirocerca, Gongylonema, Physaloptera and Gnathostoma
 
-Link checked 2026-10-18
+Habronema, Draschia, Thelazia, Spirocerca, Gongylonema, Physaloptera and Gnathostoma — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1HXjXtXr3Kfoi-BmZoj2_tbgELigAl4mu/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HXjXtXr3Kfoi-BmZoj2_tbgELigAl4mu#report)
+[Open Habronema, Draschia, Thelazia, Spirocerca, Gongylonema, Physaloptera and Gnathostoma](https://drive.google.com/file/d/1HXjXtXr3Kfoi-BmZoj2_tbgELigAl4mu/view?usp=sharing)
 
 PDF
-Hook worms – Ancylostoma and Bunostomum[Open Hook worms – Ancylostoma and Bunostomum](https://drive.google.com/file/d/1btXEeKMNtpobi5TPiGYQIteEAZ8po5Dk/view?usp=sharing)
+Hook worms – Ancylostoma and Bunostomum
 
-Link checked 2026-10-18
+Hook worms – Ancylostoma and Bunostomum — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1btXEeKMNtpobi5TPiGYQIteEAZ8po5Dk/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1btXEeKMNtpobi5TPiGYQIteEAZ8po5Dk#report)
+[Open Hook worms – Ancylostoma and Bunostomum](https://drive.google.com/file/d/1btXEeKMNtpobi5TPiGYQIteEAZ8po5Dk/view?usp=sharing)
 
 PDF
-Kidney worms – Stephanurus and Dioctophyma[Open Kidney worms – Stephanurus and Dioctophyma](https://drive.google.com/file/d/1XNA4WM2rv6UBeQ_uUV7lVFDotA3gpF_d/view?usp=sharing)
+Kidney worms – Stephanurus and Dioctophyma
 
-Link checked 2026-10-18
+Kidney worms – Stephanurus and Dioctophyma — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1XNA4WM2rv6UBeQ_uUV7lVFDotA3gpF_d/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XNA4WM2rv6UBeQ_uUV7lVFDotA3gpF_d#report)
+[Open Kidney worms – Stephanurus and Dioctophyma](https://drive.google.com/file/d/1XNA4WM2rv6UBeQ_uUV7lVFDotA3gpF_d/view?usp=sharing)
 
 PDF
-Lung worms – Dictyocaulus, Muellerius, Protostrongylus and Metastrongylus[Open Lung worms – Dictyocaulus, Muellerius, Protostrongylus and Metastrongylus](https://drive.google.com/file/d/1wHDBPpaXMvCikr0eb18bkOkfcm-dUapE/view?usp=sharing)
+Lung worms – Dictyocaulus, Muellerius, Protostrongylus and Metastrongylus
 
-Link checked 2026-10-18
+Lung worms – Dictyocaulus, Muellerius, Protostrongylus and Metastrongylus — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1wHDBPpaXMvCikr0eb18bkOkfcm-dUapE/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wHDBPpaXMvCikr0eb18bkOkfcm-dUapE#report)
+[Open Lung worms – Dictyocaulus, Muellerius, Protostrongylus and Metastrongylus](https://drive.google.com/file/d/1wHDBPpaXMvCikr0eb18bkOkfcm-dUapE/view?usp=sharing)
 
 PDF
-Nematodes – Introduction, Classification and General Life cycle[Open Nematodes – Introduction, Classification and General Life cycle](https://drive.google.com/file/d/14xfPjw2gDghFDnlSyC3a6BOoM84qGB-H/view?usp=sharing)
+Nematodes – Introduction, Classification and General Life cycle
 
-Link checked 2026-10-18
+Nematodes – Introduction, Classification and General Life cycle — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/14xfPjw2gDghFDnlSyC3a6BOoM84qGB-H/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14xfPjw2gDghFDnlSyC3a6BOoM84qGB-H#report)
+[Open Nematodes – Introduction, Classification and General Life cycle](https://drive.google.com/file/d/14xfPjw2gDghFDnlSyC3a6BOoM84qGB-H/view?usp=sharing)
 
 PDF
-Strongyloides, Strongylus, Chabertia, Syngamus and Oesophagostomum[Open Strongyloides, Strongylus, Chabertia, Syngamus and Oesophagostomum](https://drive.google.com/file/d/1sRz5PkuLRvFOdoojvkcfOeoo_eEDUxOP/view?usp=sharing)
+Strongyloides, Strongylus, Chabertia, Syngamus and Oesophagostomum
 
-Link checked 2026-10-18
+Strongyloides, Strongylus, Chabertia, Syngamus and Oesophagostomum — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1sRz5PkuLRvFOdoojvkcfOeoo_eEDUxOP/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sRz5PkuLRvFOdoojvkcfOeoo_eEDUxOP#report)
+[Open Strongyloides, Strongylus, Chabertia, Syngamus and Oesophagostomum](https://drive.google.com/file/d/1sRz5PkuLRvFOdoojvkcfOeoo_eEDUxOP/view?usp=sharing)
 
 PDF
-Study of Anthelmintic Resistance and its types[Open Study of Anthelmintic Resistance and its types](https://drive.google.com/file/d/1JhOJKuKXB6ksArZ3NFhwenAjRdD400Du/view?usp=sharing)
+Study of Anthelmintic Resistance and its types
 
-Link checked 2026-10-18
+Study of Anthelmintic Resistance and its types — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1JhOJKuKXB6ksArZ3NFhwenAjRdD400Du/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JhOJKuKXB6ksArZ3NFhwenAjRdD400Du#report)
+[Open Study of Anthelmintic Resistance and its types](https://drive.google.com/file/d/1JhOJKuKXB6ksArZ3NFhwenAjRdD400Du/view?usp=sharing)
 
 PDF
-Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus[Open Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus](https://drive.google.com/file/d/1q8UZWX-_cJFryIrtOBVGIlI_BxN5t_74/view?usp=sharing)
+Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus
 
-Link checked 2026-10-18
+Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus — Veterinary Parasitology, Unit 3 – Nematodes of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1q8UZWX-_cJFryIrtOBVGIlI_BxN5t_74/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q8UZWX-_cJFryIrtOBVGIlI_BxN5t_74#report)
+[Open Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus](https://drive.google.com/file/d/1q8UZWX-_cJFryIrtOBVGIlI_BxN5t_74/view?usp=sharing)
 
 ## Unit 4 – Arthropods of Veterinary Importance
 
 10
 
 PDF
-Arachnids – Soft Ticks, Hard Ticks and Mites[Open Arachnids – Soft Ticks, Hard Ticks and Mites](https://drive.google.com/file/d/1XVUUQft3rxvJLYj-ZOKVjyPpNwDGHm7v/view?usp=sharing)
+Arachnids – Soft Ticks, Hard Ticks and Mites
 
-Link checked 2026-10-18
+Arachnids – Soft Ticks, Hard Ticks and Mites — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1XVUUQft3rxvJLYj-ZOKVjyPpNwDGHm7v/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XVUUQft3rxvJLYj-ZOKVjyPpNwDGHm7v#report)
+[Open Arachnids – Soft Ticks, Hard Ticks and Mites](https://drive.google.com/file/d/1XVUUQft3rxvJLYj-ZOKVjyPpNwDGHm7v/view?usp=sharing)
 
 PDF
-Arthropods of Veterinary Importance Overall Note[Open Arthropods of Veterinary Importance Overall Note](https://drive.google.com/file/d/1-En8v_lUj_Ns97znpx4C209DiINXZ4zu/view?usp=sharing)
+Arthropods of Veterinary Importance Overall Note
 
-Link checked 2026-10-18
+Arthropods of Veterinary Importance Overall Note — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1-En8v_lUj_Ns97znpx4C209DiINXZ4zu/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-En8v_lUj_Ns97znpx4C209DiINXZ4zu#report)
+[Open Arthropods of Veterinary Importance Overall Note](https://drive.google.com/file/d/1-En8v_lUj_Ns97znpx4C209DiINXZ4zu/view?usp=sharing)
 
 PDF
-Biting midges (Culicoides), Black flies (Simulium), Sandflies (Phlebotomus), and Mosquitoes (Culex, Anopheles and Aedes)[Open Biting midges (Culicoides), Black flies (Simulium), Sandflies (Phlebotomus), and Mosquitoes (Culex, Anopheles and Aedes)](https://drive.google.com/file/d/1_F_Jjg-339GxbCK1IkkIPP6Av5A-vdlD/view?usp=sharing)
+Biting midges (Culicoides), Black flies (Simulium), Sandflies (Phlebotomus), and Mosquitoes (Culex, Anopheles and Aedes)
 
-Link checked 2026-10-18
+Biting midges (Culicoides), Black flies (Simulium), Sandflies (Phlebotomus), and Mosquitoes (Culex, Anopheles and Aedes) — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1_F_Jjg-339GxbCK1IkkIPP6Av5A-vdlD/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_F_Jjg-339GxbCK1IkkIPP6Av5A-vdlD#report)
+[Open Biting midges (Culicoides), Black flies (Simulium), Sandflies (Phlebotomus), and Mosquitoes (Culex, Anopheles and Aedes)](https://drive.google.com/file/d/1_F_Jjg-339GxbCK1IkkIPP6Av5A-vdlD/view?usp=sharing)
 
 PDF
-Fleas – Ctenocephalides, Echidnophaga, Xenopsylla, Pulex[Open Fleas – Ctenocephalides, Echidnophaga, Xenopsylla, Pulex](https://drive.google.com/file/d/1yeua6WBTMhQ1VXMDxKffg4-Ojib0crfp/view?usp=sharing)
+Fleas – Ctenocephalides, Echidnophaga, Xenopsylla, Pulex
 
-Link checked 2026-10-18
+Fleas – Ctenocephalides, Echidnophaga, Xenopsylla, Pulex — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1yeua6WBTMhQ1VXMDxKffg4-Ojib0crfp/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yeua6WBTMhQ1VXMDxKffg4-Ojib0crfp#report)
+[Open Fleas – Ctenocephalides, Echidnophaga, Xenopsylla, Pulex](https://drive.google.com/file/d/1yeua6WBTMhQ1VXMDxKffg4-Ojib0crfp/view?usp=sharing)
 
 PDF
-General Entomology[Open General Entomology](https://drive.google.com/file/d/1mRCPLFvsoOuSILlBZifyvNdtPcVJnLx7/view?usp=sharing)
+General Entomology
 
-Link checked 2026-10-18
+General Entomology — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1mRCPLFvsoOuSILlBZifyvNdtPcVJnLx7/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mRCPLFvsoOuSILlBZifyvNdtPcVJnLx7#report)
+[Open General Entomology](https://drive.google.com/file/d/1mRCPLFvsoOuSILlBZifyvNdtPcVJnLx7/view?usp=sharing)
 
 PDF
-Hippobosca, Melophagus and Pseudolynchia[Open Hippobosca, Melophagus and Pseudolynchia](https://drive.google.com/file/d/14TXgtPSalRYP4MncIGzpRbCtSo7FBCKI/view?usp=sharing)
+Hippobosca, Melophagus and Pseudolynchia
 
-Link checked 2026-10-18
+Hippobosca, Melophagus and Pseudolynchia — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/14TXgtPSalRYP4MncIGzpRbCtSo7FBCKI/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14TXgtPSalRYP4MncIGzpRbCtSo7FBCKI#report)
+[Open Hippobosca, Melophagus and Pseudolynchia](https://drive.google.com/file/d/14TXgtPSalRYP4MncIGzpRbCtSo7FBCKI/view?usp=sharing)
 
 PDF
-Horse flies (Tabanus), Musca, Stomoxys and Bugs (Cimex)[Open Horse flies (Tabanus), Musca, Stomoxys and Bugs (Cimex)](https://drive.google.com/file/d/1tItHA9Bw_dp_UkQ2cnjh6Thc6RwRylwL/view?usp=sharing)
+Horse flies (Tabanus), Musca, Stomoxys and Bugs (Cimex)
 
-Link checked 2026-10-18
+Horse flies (Tabanus), Musca, Stomoxys and Bugs (Cimex) — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1tItHA9Bw_dp_UkQ2cnjh6Thc6RwRylwL/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tItHA9Bw_dp_UkQ2cnjh6Thc6RwRylwL#report)
+[Open Horse flies (Tabanus), Musca, Stomoxys and Bugs (Cimex)](https://drive.google.com/file/d/1tItHA9Bw_dp_UkQ2cnjh6Thc6RwRylwL/view?usp=sharing)
 
 PDF
-Lice – Haematopinus, Linognathus, Trichodectes, Damalinia, Menopon, Lipeurus, Menacanthus and Heterodoxus[Open Lice – Haematopinus, Linognathus, Trichodectes, Damalinia, Menopon, Lipeurus, Menacanthus and Heterodoxus](https://drive.google.com/file/d/1t9SNvl8W6iOuo0iL83vTLUP-udgiO_q0/view?usp=sharing)
+Lice – Haematopinus, Linognathus, Trichodectes, Damalinia, Menopon, Lipeurus, Menacanthus and Heterodoxus
 
-Link checked 2026-10-18
+Lice – Haematopinus, Linognathus, Trichodectes, Damalinia, Menopon, Lipeurus, Menacanthus and Heterodoxus — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1t9SNvl8W6iOuo0iL83vTLUP-udgiO_q0/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1t9SNvl8W6iOuo0iL83vTLUP-udgiO_q0#report)
+[Open Lice – Haematopinus, Linognathus, Trichodectes, Damalinia, Menopon, Lipeurus, Menacanthus and Heterodoxus](https://drive.google.com/file/d/1t9SNvl8W6iOuo0iL83vTLUP-udgiO_q0/view?usp=sharing)
 
 PDF
-Study of Insecticide or Acaricide Resistance[Open Study of Insecticide or Acaricide Resistance](https://drive.google.com/file/d/1u4O12GL5ec9ZyCqk4HbYT6Q8Z7rIaFca/view?usp=sharing)
+Study of Insecticide or Acaricide Resistance
 
-Link checked 2026-10-18
+Study of Insecticide or Acaricide Resistance — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1u4O12GL5ec9ZyCqk4HbYT6Q8Z7rIaFca/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1u4O12GL5ec9ZyCqk4HbYT6Q8Z7rIaFca#report)
+[Open Study of Insecticide or Acaricide Resistance](https://drive.google.com/file/d/1u4O12GL5ec9ZyCqk4HbYT6Q8Z7rIaFca/view?usp=sharing)
 
 PDF
-Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis[Open Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis](https://drive.google.com/file/d/1oL_iDGuszMSoCKiDTA5ZnR-bzgAUo0d9/view?usp=sharing)
+Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis
 
-Link checked 2026-10-18
+Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis — Veterinary Parasitology, Unit 4 – Arthropods of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1oL_iDGuszMSoCKiDTA5ZnR-bzgAUo0d9/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oL_iDGuszMSoCKiDTA5ZnR-bzgAUo0d9#report)
+[Open Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis](https://drive.google.com/file/d/1oL_iDGuszMSoCKiDTA5ZnR-bzgAUo0d9/view?usp=sharing)
 
 ## Unit 5 – Protozoa of Veterinary Importance
 
 14
 
 PDF
-Anaplasma and Ehrlichia[Open Anaplasma and Ehrlichia](https://drive.google.com/file/d/1mT-ChzrAmmqKzYvSOTOMYRUR2SZtt7ek/view?usp=sharing)
+Anaplasma and Ehrlichia
 
-Link checked 2026-10-18
+Anaplasma and Ehrlichia — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1mT-ChzrAmmqKzYvSOTOMYRUR2SZtt7ek/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mT-ChzrAmmqKzYvSOTOMYRUR2SZtt7ek#report)
+[Open Anaplasma and Ehrlichia](https://drive.google.com/file/d/1mT-ChzrAmmqKzYvSOTOMYRUR2SZtt7ek/view?usp=sharing)
 
 PDF
-Coccidia and Coccidiosis of Poultry and Domestic Animals[Open Coccidia and Coccidiosis of Poultry and Domestic Animals](https://drive.google.com/file/d/1yEP8e9cx7RzVCtylapZbSxH3LE0vqRuD/view?usp=sharing)
+Coccidia and Coccidiosis of Poultry and Domestic Animals
 
-Link checked 2026-10-18
+Coccidia and Coccidiosis of Poultry and Domestic Animals — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1yEP8e9cx7RzVCtylapZbSxH3LE0vqRuD/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yEP8e9cx7RzVCtylapZbSxH3LE0vqRuD#report)
+[Open Coccidia and Coccidiosis of Poultry and Domestic Animals](https://drive.google.com/file/d/1yEP8e9cx7RzVCtylapZbSxH3LE0vqRuD/view?usp=sharing)
 
 PDF
-Cyst forming coccidia (Toxoplasma, Sarcocystis and Neospora caninum) and Cryptosporidium[Open Cyst forming coccidia (Toxoplasma, Sarcocystis and Neospora caninum) and Cryptosporidium](https://drive.google.com/file/d/13oKPGyzsmEDeFsmfWnCqscgGs_oAp5FE/view?usp=sharing)
+Cyst forming coccidia (Toxoplasma, Sarcocystis and Neospora caninum) and Cryptosporidium
 
-Link checked 2026-10-18
+Cyst forming coccidia (Toxoplasma, Sarcocystis and Neospora caninum) and Cryptosporidium — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/13oKPGyzsmEDeFsmfWnCqscgGs_oAp5FE/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13oKPGyzsmEDeFsmfWnCqscgGs_oAp5FE#report)
+[Open Cyst forming coccidia (Toxoplasma, Sarcocystis and Neospora caninum) and Cryptosporidium](https://drive.google.com/file/d/13oKPGyzsmEDeFsmfWnCqscgGs_oAp5FE/view?usp=sharing)
 
 PDF
-Entamoeba, Giardia and Balantidium[Open Entamoeba, Giardia and Balantidium](https://drive.google.com/file/d/1LVDKjJmwB7wLjAFxIs7HoylcUE-yve6q/view?usp=sharing)
+Entamoeba, Giardia and Balantidium
 
-Link checked 2026-10-18
+Entamoeba, Giardia and Balantidium — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1LVDKjJmwB7wLjAFxIs7HoylcUE-yve6q/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LVDKjJmwB7wLjAFxIs7HoylcUE-yve6q#report)
+[Open Entamoeba, Giardia and Balantidium](https://drive.google.com/file/d/1LVDKjJmwB7wLjAFxIs7HoylcUE-yve6q/view?usp=sharing)
 
 PDF
-General Characters of Protozoa[Open General Characters of Protozoa](https://drive.google.com/file/d/1JNlXCSek7Si7OAbUOw7kv-gH3aeqqUYm/view?usp=sharing)
+General Characters of Protozoa
 
-Link checked 2026-10-18
+General Characters of Protozoa — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1JNlXCSek7Si7OAbUOw7kv-gH3aeqqUYm/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JNlXCSek7Si7OAbUOw7kv-gH3aeqqUYm#report)
+[Open General Characters of Protozoa](https://drive.google.com/file/d/1JNlXCSek7Si7OAbUOw7kv-gH3aeqqUYm/view?usp=sharing)
 
 PDF
-Histomonas (Black head in turkeys)[Open Histomonas (Black head in turkeys)](https://drive.google.com/file/d/1GDsHU3SIJfXYnsvM1Kwk7TYncBXoPXll/view?usp=sharing)
+Histomonas (Black head in turkeys)
 
-Link checked 2026-10-18
+Histomonas (Black head in turkeys) — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1GDsHU3SIJfXYnsvM1Kwk7TYncBXoPXll/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GDsHU3SIJfXYnsvM1Kwk7TYncBXoPXll#report)
+[Open Histomonas (Black head in turkeys)](https://drive.google.com/file/d/1GDsHU3SIJfXYnsvM1Kwk7TYncBXoPXll/view?usp=sharing)
 
 PDF
-Leishmania (Visceral and Cutaneous Leishmaniosis)[Open Leishmania (Visceral and Cutaneous Leishmaniosis)](https://drive.google.com/file/d/1BdMpvfIGwb06oMuHUJGXBAnyZDcKHGD8/view?usp=sharing)
+Leishmania (Visceral and Cutaneous Leishmaniosis)
 
-Link checked 2026-10-18
+Leishmania (Visceral and Cutaneous Leishmaniosis) — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1BdMpvfIGwb06oMuHUJGXBAnyZDcKHGD8/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BdMpvfIGwb06oMuHUJGXBAnyZDcKHGD8#report)
+[Open Leishmania (Visceral and Cutaneous Leishmaniosis)](https://drive.google.com/file/d/1BdMpvfIGwb06oMuHUJGXBAnyZDcKHGD8/view?usp=sharing)
 
 PDF
-Malarial Parasites – Plasmodium, Haemoproteus and Leucocytozoon[Open Malarial Parasites – Plasmodium, Haemoproteus and Leucocytozoon](https://drive.google.com/file/d/1sTbDNV_2DIyLKnmW_fqHbzL7o-YzoT9Z/view?usp=sharing)
+Malarial Parasites – Plasmodium, Haemoproteus and Leucocytozoon
 
-Link checked 2026-10-18
+Malarial Parasites – Plasmodium, Haemoproteus and Leucocytozoon — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1sTbDNV_2DIyLKnmW_fqHbzL7o-YzoT9Z/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sTbDNV_2DIyLKnmW_fqHbzL7o-YzoT9Z#report)
+[Open Malarial Parasites – Plasmodium, Haemoproteus and Leucocytozoon](https://drive.google.com/file/d/1sTbDNV_2DIyLKnmW_fqHbzL7o-YzoT9Z/view?usp=sharing)
 
 PDF
-Piroplasms (Babesia, Theileria) and Hepatozoon[Open Piroplasms (Babesia, Theileria) and Hepatozoon](https://drive.google.com/file/d/1DjiJvMxSHGdi5TwjOmBC5aybZ2TRAFjv/view?usp=sharing)
+Piroplasms (Babesia, Theileria) and Hepatozoon
 
-Link checked 2026-10-18
+Piroplasms (Babesia, Theileria) and Hepatozoon — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1DjiJvMxSHGdi5TwjOmBC5aybZ2TRAFjv/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DjiJvMxSHGdi5TwjOmBC5aybZ2TRAFjv#report)
+[Open Piroplasms (Babesia, Theileria) and Hepatozoon](https://drive.google.com/file/d/1DjiJvMxSHGdi5TwjOmBC5aybZ2TRAFjv/view?usp=sharing)
 
 PDF
-Protozoa of Veterinary Importance Overall Note[Open Protozoa of Veterinary Importance Overall Note](https://drive.google.com/file/d/1hnPX7yejyA5AvnKL5NR2zxQnjhMLzHCv/view?usp=sharing)
+Protozoa of Veterinary Importance Overall Note
 
-Link checked 2026-10-18
+Protozoa of Veterinary Importance Overall Note — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1hnPX7yejyA5AvnKL5NR2zxQnjhMLzHCv/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hnPX7yejyA5AvnKL5NR2zxQnjhMLzHCv#report)
+[Open Protozoa of Veterinary Importance Overall Note](https://drive.google.com/file/d/1hnPX7yejyA5AvnKL5NR2zxQnjhMLzHCv/view?usp=sharing)
 
 PDF
-Trichomonas (Bovine and Avian Trichomonosis)[Open Trichomonas (Bovine and Avian Trichomonosis)](https://drive.google.com/file/d/1KkuQ3zk6ZJcmmVVbh-ErKgk4RwGIXZbj/view?usp=sharing)
+Trichomonas (Bovine and Avian Trichomonosis)
 
-Link checked 2026-10-18
+Trichomonas (Bovine and Avian Trichomonosis) — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1KkuQ3zk6ZJcmmVVbh-ErKgk4RwGIXZbj/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KkuQ3zk6ZJcmmVVbh-ErKgk4RwGIXZbj#report)
+[Open Trichomonas (Bovine and Avian Trichomonosis)](https://drive.google.com/file/d/1KkuQ3zk6ZJcmmVVbh-ErKgk4RwGIXZbj/view?usp=sharing)
 
 PDF
-Trypanosoma[Open Trypanosoma](https://drive.google.com/file/d/1ASO8cl3rBGItKZniGfMYDk04S4xoAIhR/view?usp=sharing)
+Trypanosoma
 
-Link checked 2026-10-18
+Trypanosoma — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1ASO8cl3rBGItKZniGfMYDk04S4xoAIhR/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ASO8cl3rBGItKZniGfMYDk04S4xoAIhR#report)
+[Open Trypanosoma](https://drive.google.com/file/d/1ASO8cl3rBGItKZniGfMYDk04S4xoAIhR/view?usp=sharing)
 
 PDF
-Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni[Open Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni](https://drive.google.com/file/d/1CZI5OUbNThzh0WUKwWY7DFYSFxTyudfn/view?usp=sharing)
+Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni
 
-Link checked 2026-10-18
+Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1CZI5OUbNThzh0WUKwWY7DFYSFxTyudfn/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1CZI5OUbNThzh0WUKwWY7DFYSFxTyudfn#report)
+[Open Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni](https://drive.google.com/file/d/1CZI5OUbNThzh0WUKwWY7DFYSFxTyudfn/view?usp=sharing)
 
 PDF
-Veterinary Protozoology Note by TANUVAS[Open Veterinary Protozoology Note by TANUVAS](https://drive.google.com/file/d/1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k/view?usp=sharing)
+Veterinary Protozoology Note by TANUVAS
 
-Link checked 2026-10-18
+Veterinary Protozoology Note by TANUVAS — Veterinary Parasitology, Unit 5 – Protozoa of Veterinary Importance.
 
-[PDF ](https://drive.google.com/file/d/1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k/view?usp=sharing)
-
-Link source: VetBVSc. Document label: TANUVAS. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k#report)
+TANUVAS[Open Veterinary Protozoology Note by TANUVAS](https://drive.google.com/file/d/1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

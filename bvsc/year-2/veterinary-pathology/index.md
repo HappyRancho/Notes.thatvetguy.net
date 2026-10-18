@@ -15,552 +15,360 @@ Search this collection
 10
 
 PDF
-Causes of Disease or Etiology[Open Causes of Disease or Etiology](https://drive.google.com/file/d/12qH_M5E9iEUuN554pPOjrm-jDwd-pjUP/view)
+Causes of Disease or Etiology
 
-Link checked 2026-10-18
+Causes of Disease or Etiology — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/12qH_M5E9iEUuN554pPOjrm-jDwd-pjUP/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12qH_M5E9iEUuN554pPOjrm-jDwd-pjUP#report)
+[Open Causes of Disease or Etiology](https://drive.google.com/file/d/12qH_M5E9iEUuN554pPOjrm-jDwd-pjUP/view)
 
 PDF
-Glycogen overload, Amyloidosis and Fatty Changes[Open Glycogen overload, Amyloidosis and Fatty Changes](https://drive.google.com/file/d/1LspljoGHHw1AiFnX1pDYjRbOmKDLF7dC/view)
+Glycogen overload, Amyloidosis and Fatty Changes
 
-Link checked 2026-10-18
+Glycogen overload, Amyloidosis and Fatty Changes — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1LspljoGHHw1AiFnX1pDYjRbOmKDLF7dC/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LspljoGHHw1AiFnX1pDYjRbOmKDLF7dC#report)
+[Open Glycogen overload, Amyloidosis and Fatty Changes](https://drive.google.com/file/d/1LspljoGHHw1AiFnX1pDYjRbOmKDLF7dC/view)
 
 PDF
-Haemodynamic Disorders[Open Haemodynamic Disorders](https://drive.google.com/file/d/1ke3NI7JH8jgcR6ZeUeOaXZLt1XX1sL5k/view)
+Haemodynamic Disorders
 
-Link checked 2026-10-18
+Haemodynamic Disorders — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1ke3NI7JH8jgcR6ZeUeOaXZLt1XX1sL5k/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ke3NI7JH8jgcR6ZeUeOaXZLt1XX1sL5k#report)
+[Open Haemodynamic Disorders](https://drive.google.com/file/d/1ke3NI7JH8jgcR6ZeUeOaXZLt1XX1sL5k/view)
 
 PDF
-Immunopathology – Immunodeficiency, Hypersensitivity and Autoimmunity[Open Immunopathology – Immunodeficiency, Hypersensitivity and Autoimmunity](https://drive.google.com/file/d/1gEy2E1qg6quhpp8Z-v8D6Za8TVzl8CcI/view)
+Immunopathology – Immunodeficiency, Hypersensitivity and Autoimmunity
 
-Link checked 2026-10-18
+Immunopathology – Immunodeficiency, Hypersensitivity and Autoimmunity — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1gEy2E1qg6quhpp8Z-v8D6Za8TVzl8CcI/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gEy2E1qg6quhpp8Z-v8D6Za8TVzl8CcI#report)
+[Open Immunopathology – Immunodeficiency, Hypersensitivity and Autoimmunity](https://drive.google.com/file/d/1gEy2E1qg6quhpp8Z-v8D6Za8TVzl8CcI/view)
 
 PDF
-Inflammation Terminologies[Open Inflammation Terminologies](https://drive.google.com/file/d/1txs5z8CGKIXxg463yVpxmxvclH3HH4iT/view?usp=sharing)
+Inflammation Terminologies
 
-Link checked 2026-10-18
+Inflammation Terminologies — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1txs5z8CGKIXxg463yVpxmxvclH3HH4iT/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1txs5z8CGKIXxg463yVpxmxvclH3HH4iT#report)
+[Open Inflammation Terminologies](https://drive.google.com/file/d/1txs5z8CGKIXxg463yVpxmxvclH3HH4iT/view?usp=sharing)
 
 PDF
-Inflammation – Classification, Mediators, Various Cell Types and their Functions[Open Inflammation – Classification, Mediators, Various Cell Types and their Functions](https://drive.google.com/file/d/1RVCHjUgz8wSy4UxUwjgNsfJgP5_JJzhx/view)
+Inflammation – Classification, Mediators, Various Cell Types and their Functions
 
-Link checked 2026-10-18
+Inflammation – Classification, Mediators, Various Cell Types and their Functions — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1RVCHjUgz8wSy4UxUwjgNsfJgP5_JJzhx/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RVCHjUgz8wSy4UxUwjgNsfJgP5_JJzhx#report)
+[Open Inflammation – Classification, Mediators, Various Cell Types and their Functions](https://drive.google.com/file/d/1RVCHjUgz8wSy4UxUwjgNsfJgP5_JJzhx/view)
 
 PDF
-Necrosis, Gangrene and Post Mortem Changes[Open Necrosis, Gangrene and Post Mortem Changes](https://drive.google.com/file/d/1C1RZrTrtjPTdnYIb21WZPgy9R22CLOV0/view)
+Necrosis, Gangrene and Post Mortem Changes
 
-Link checked 2026-10-18
+Necrosis, Gangrene and Post Mortem Changes — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1C1RZrTrtjPTdnYIb21WZPgy9R22CLOV0/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1C1RZrTrtjPTdnYIb21WZPgy9R22CLOV0#report)
+[Open Necrosis, Gangrene and Post Mortem Changes](https://drive.google.com/file/d/1C1RZrTrtjPTdnYIb21WZPgy9R22CLOV0/view)
 
 PDF
-Photosensitization and Disturbances in Growth[Open Photosensitization and Disturbances in Growth](https://drive.google.com/file/d/1lciFqXhKKr8NmZ0F--tcJi7NqY4yuM91/view)
+Photosensitization and Disturbances in Growth
 
-Link checked 2026-10-18
+Photosensitization and Disturbances in Growth — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1lciFqXhKKr8NmZ0F--tcJi7NqY4yuM91/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lciFqXhKKr8NmZ0F--tcJi7NqY4yuM91#report)
+[Open Photosensitization and Disturbances in Growth](https://drive.google.com/file/d/1lciFqXhKKr8NmZ0F--tcJi7NqY4yuM91/view)
 
 PDF
-Pigmentations and Calcification[Open Pigmentations and Calcification](https://drive.google.com/file/d/1654_EFy7nz35uy4TY7Z5yOzKUEcRivBB/view)
+Pigmentations and Calcification
 
-Link checked 2026-10-18
+Pigmentations and Calcification — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1654_EFy7nz35uy4TY7Z5yOzKUEcRivBB/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1654_EFy7nz35uy4TY7Z5yOzKUEcRivBB#report)
+[Open Pigmentations and Calcification](https://drive.google.com/file/d/1654_EFy7nz35uy4TY7Z5yOzKUEcRivBB/view)
 
 PDF
-Wound Healing including Growth Factors[Open Wound Healing including Growth Factors](https://drive.google.com/file/d/13-JlmRCEUMssX6gp0u3pAKFx-DAnzg9I/view)
+Wound Healing including Growth Factors
 
-Link checked 2026-10-18
+Wound Healing including Growth Factors — Veterinary Pathology, Unit 1 – General Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/13-JlmRCEUMssX6gp0u3pAKFx-DAnzg9I/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13-JlmRCEUMssX6gp0u3pAKFx-DAnzg9I#report)
+[Open Wound Healing including Growth Factors](https://drive.google.com/file/d/13-JlmRCEUMssX6gp0u3pAKFx-DAnzg9I/view)
 
 ## Unit 2 – Systemic Veterinary Pathology
 
 12
 
 PDF
-Pathology of Cardiovascular System[Open Pathology of Cardiovascular System](https://drive.google.com/file/d/1J_6IwfzXz2KOBwndR1ObLLO-Se8FD0t-/view)
+Pathology of Cardiovascular System
 
-Link checked 2026-10-18
+Pathology of Cardiovascular System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1J_6IwfzXz2KOBwndR1ObLLO-Se8FD0t-/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1J_6IwfzXz2KOBwndR1ObLLO-Se8FD0t-#report)
+[Open Pathology of Cardiovascular System](https://drive.google.com/file/d/1J_6IwfzXz2KOBwndR1ObLLO-Se8FD0t-/view)
 
 PDF
-Pathology of Digestive System[Open Pathology of Digestive System](https://drive.google.com/file/d/1qofzUFmhZ1w-qtRfJ1YfaDJXvbUujAiu/view)
+Pathology of Digestive System
 
-Link checked 2026-10-18
+Pathology of Digestive System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1qofzUFmhZ1w-qtRfJ1YfaDJXvbUujAiu/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qofzUFmhZ1w-qtRfJ1YfaDJXvbUujAiu#report)
+[Open Pathology of Digestive System](https://drive.google.com/file/d/1qofzUFmhZ1w-qtRfJ1YfaDJXvbUujAiu/view)
 
 PDF
-Pathology of Ear and Eye[Open Pathology of Ear and Eye](https://drive.google.com/file/d/1q899oMCoUVFLdgYQGTGo9S_IghJ1kYKm/view)
+Pathology of Ear and Eye
 
-Link checked 2026-10-18
+Pathology of Ear and Eye — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1q899oMCoUVFLdgYQGTGo9S_IghJ1kYKm/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q899oMCoUVFLdgYQGTGo9S_IghJ1kYKm#report)
+[Open Pathology of Ear and Eye](https://drive.google.com/file/d/1q899oMCoUVFLdgYQGTGo9S_IghJ1kYKm/view)
 
 PDF
-Pathology of Endocrine Systems[Open Pathology of Endocrine Systems](https://drive.google.com/file/d/1VBA_n2wI3_GW-qSLRWkIXB1AMrjMv2gn/view)
+Pathology of Endocrine Systems
 
-Link checked 2026-10-18
+Pathology of Endocrine Systems — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1VBA_n2wI3_GW-qSLRWkIXB1AMrjMv2gn/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VBA_n2wI3_GW-qSLRWkIXB1AMrjMv2gn#report)
+[Open Pathology of Endocrine Systems](https://drive.google.com/file/d/1VBA_n2wI3_GW-qSLRWkIXB1AMrjMv2gn/view)
 
 PDF
-Pathology of Haematopoietic System[Open Pathology of Haematopoietic System](https://drive.google.com/file/d/1n08InvEQvRwd_3bJ5XwyTW11g2bt9j1N/view)
+Pathology of Haematopoietic System
 
-Link checked 2026-10-18
+Pathology of Haematopoietic System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1n08InvEQvRwd_3bJ5XwyTW11g2bt9j1N/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1n08InvEQvRwd_3bJ5XwyTW11g2bt9j1N#report)
+[Open Pathology of Haematopoietic System](https://drive.google.com/file/d/1n08InvEQvRwd_3bJ5XwyTW11g2bt9j1N/view)
 
 PDF
-Pathology of Lymphoid System[Open Pathology of Lymphoid System](https://drive.google.com/file/d/1oWi6ni0ALyE6QvkZr5U0Mje7qKu8_Q1E/view)
+Pathology of Lymphoid System
 
-Link checked 2026-10-18
+Pathology of Lymphoid System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1oWi6ni0ALyE6QvkZr5U0Mje7qKu8_Q1E/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oWi6ni0ALyE6QvkZr5U0Mje7qKu8_Q1E#report)
+[Open Pathology of Lymphoid System](https://drive.google.com/file/d/1oWi6ni0ALyE6QvkZr5U0Mje7qKu8_Q1E/view)
 
 PDF
-Pathology of Musculoskeletal System[Open Pathology of Musculoskeletal System](https://drive.google.com/file/d/1ZAiLhdxGWqD-v3jY9ciWHO3A0x68MOVk/view)
+Pathology of Musculoskeletal System
 
-Link checked 2026-10-18
+Pathology of Musculoskeletal System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1ZAiLhdxGWqD-v3jY9ciWHO3A0x68MOVk/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZAiLhdxGWqD-v3jY9ciWHO3A0x68MOVk#report)
+[Open Pathology of Musculoskeletal System](https://drive.google.com/file/d/1ZAiLhdxGWqD-v3jY9ciWHO3A0x68MOVk/view)
 
 PDF
-Pathology of Nervous System[Open Pathology of Nervous System](https://drive.google.com/file/d/16uz5i8vqI9ekt-IgVAWWxzClsfoxOHnh/view)
+Pathology of Nervous System
 
-Link checked 2026-10-18
+Pathology of Nervous System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/16uz5i8vqI9ekt-IgVAWWxzClsfoxOHnh/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16uz5i8vqI9ekt-IgVAWWxzClsfoxOHnh#report)
+[Open Pathology of Nervous System](https://drive.google.com/file/d/16uz5i8vqI9ekt-IgVAWWxzClsfoxOHnh/view)
 
 PDF
-Pathology of Reproductive System[Open Pathology of Reproductive System](https://drive.google.com/file/d/1vcWvGpz62cXw08zCKCDqMqoKbLCjynDj/view)
+Pathology of Reproductive System
 
-Link checked 2026-10-18
+Pathology of Reproductive System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1vcWvGpz62cXw08zCKCDqMqoKbLCjynDj/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vcWvGpz62cXw08zCKCDqMqoKbLCjynDj#report)
+[Open Pathology of Reproductive System](https://drive.google.com/file/d/1vcWvGpz62cXw08zCKCDqMqoKbLCjynDj/view)
 
 PDF
-Pathology of Respiratory System[Open Pathology of Respiratory System](https://drive.google.com/file/d/1MPPiRaiKQ_9Lx6vmc5RDIHanhtgQkZW0/view)
+Pathology of Respiratory System
 
-Link checked 2026-10-18
+Pathology of Respiratory System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1MPPiRaiKQ_9Lx6vmc5RDIHanhtgQkZW0/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MPPiRaiKQ_9Lx6vmc5RDIHanhtgQkZW0#report)
+[Open Pathology of Respiratory System](https://drive.google.com/file/d/1MPPiRaiKQ_9Lx6vmc5RDIHanhtgQkZW0/view)
 
 PDF
-Pathology of Skin and Appendages[Open Pathology of Skin and Appendages](https://drive.google.com/file/d/1oWWr5wQJjsqdolHP2AJjbj-_qqJhe3xP/view)
+Pathology of Skin and Appendages
 
-Link checked 2026-10-18
+Pathology of Skin and Appendages — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1oWWr5wQJjsqdolHP2AJjbj-_qqJhe3xP/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oWWr5wQJjsqdolHP2AJjbj-_qqJhe3xP#report)
+[Open Pathology of Skin and Appendages](https://drive.google.com/file/d/1oWWr5wQJjsqdolHP2AJjbj-_qqJhe3xP/view)
 
 PDF
-Pathology of Urinary System[Open Pathology of Urinary System](https://drive.google.com/file/d/1vejNW1hNB6cs85MtLty_laCHunUyIHP0/view)
+Pathology of Urinary System
 
-Link checked 2026-10-18
+Pathology of Urinary System — Veterinary Pathology, Unit 2 – Systemic Veterinary Pathology.
 
-[PDF ](https://drive.google.com/file/d/1vejNW1hNB6cs85MtLty_laCHunUyIHP0/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vejNW1hNB6cs85MtLty_laCHunUyIHP0#report)
+[Open Pathology of Urinary System](https://drive.google.com/file/d/1vejNW1hNB6cs85MtLty_laCHunUyIHP0/view)
 
 ## Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy
 
 10
 
 PDF
-Animal Oncology Note[Open Animal Oncology Note](https://drive.google.com/file/d/1D7PklFw14WQM4AnH7wqO3dMRR5UXjqC7/view?usp=sharing)
+Animal Oncology Note
 
-Link checked 2026-10-18
+Animal Oncology Note — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/1D7PklFw14WQM4AnH7wqO3dMRR5UXjqC7/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1D7PklFw14WQM4AnH7wqO3dMRR5UXjqC7#report)
+[Open Animal Oncology Note](https://drive.google.com/file/d/1D7PklFw14WQM4AnH7wqO3dMRR5UXjqC7/view?usp=sharing)
 
 PDF
-Animal Oncology – Neoplasm[Open Animal Oncology – Neoplasm](https://drive.google.com/file/d/1tm7kKBYROOUNyx8urzxm-5TtbPCWW8js/view)
+Animal Oncology – Neoplasm
 
-Link checked 2026-10-18
+Animal Oncology – Neoplasm — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/1tm7kKBYROOUNyx8urzxm-5TtbPCWW8js/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tm7kKBYROOUNyx8urzxm-5TtbPCWW8js#report)
+[Open Animal Oncology – Neoplasm](https://drive.google.com/file/d/1tm7kKBYROOUNyx8urzxm-5TtbPCWW8js/view)
 
 PDF
-Examination of Blood, Serum and Bone Marrow[Open Examination of Blood, Serum and Bone Marrow](https://drive.google.com/file/d/14l6t5QTnBLgl4GvMD0GrunBM-Xgxn8jX/view?usp=sharing)
+Examination of Blood, Serum and Bone Marrow
 
-Link checked 2026-10-18
+Examination of Blood, Serum and Bone Marrow — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/14l6t5QTnBLgl4GvMD0GrunBM-Xgxn8jX/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14l6t5QTnBLgl4GvMD0GrunBM-Xgxn8jX#report)
+[Open Examination of Blood, Serum and Bone Marrow](https://drive.google.com/file/d/14l6t5QTnBLgl4GvMD0GrunBM-Xgxn8jX/view?usp=sharing)
 
 PDF
-Examination of Cerebrospinal Fluid (CSF)[Open Examination of Cerebrospinal Fluid (CSF)](https://drive.google.com/file/d/1hol4qGw_Inpc03rlT3j_mh-jgaAUcEkh/view?usp=sharing)
+Examination of Cerebrospinal Fluid (CSF)
 
-Link checked 2026-10-18
+Examination of Cerebrospinal Fluid (CSF) — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/1hol4qGw_Inpc03rlT3j_mh-jgaAUcEkh/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hol4qGw_Inpc03rlT3j_mh-jgaAUcEkh#report)
+[Open Examination of Cerebrospinal Fluid (CSF)](https://drive.google.com/file/d/1hol4qGw_Inpc03rlT3j_mh-jgaAUcEkh/view?usp=sharing)
 
 PDF
-Examination of Semen[Open Examination of Semen](https://drive.google.com/file/d/19Yq0XvGhyJ5AuFICkscD8vuPwscozziT/view?usp=sharing)
+Examination of Semen
 
-Link checked 2026-10-18
+Examination of Semen — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/19Yq0XvGhyJ5AuFICkscD8vuPwscozziT/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19Yq0XvGhyJ5AuFICkscD8vuPwscozziT#report)
+[Open Examination of Semen](https://drive.google.com/file/d/19Yq0XvGhyJ5AuFICkscD8vuPwscozziT/view?usp=sharing)
 
 PDF
-Examination of Skin Scrapings[Open Examination of Skin Scrapings](https://drive.google.com/file/d/15kN7PicAPAOU2JCzNF3aBSVmL_S4OHkC/view?usp=sharing)
+Examination of Skin Scrapings
 
-Link checked 2026-10-18
+Examination of Skin Scrapings — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/15kN7PicAPAOU2JCzNF3aBSVmL_S4OHkC/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15kN7PicAPAOU2JCzNF3aBSVmL_S4OHkC#report)
+[Open Examination of Skin Scrapings](https://drive.google.com/file/d/15kN7PicAPAOU2JCzNF3aBSVmL_S4OHkC/view?usp=sharing)
 
 PDF
-Examination of Synovial fluid[Open Examination of Synovial fluid](https://drive.google.com/file/d/1Tl3Pc3D1DkXcsN6xHmULqldtzsjmCyEa/view?usp=sharing)
+Examination of Synovial fluid
 
-Link checked 2026-10-18
+Examination of Synovial fluid — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/1Tl3Pc3D1DkXcsN6xHmULqldtzsjmCyEa/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Tl3Pc3D1DkXcsN6xHmULqldtzsjmCyEa#report)
+[Open Examination of Synovial fluid](https://drive.google.com/file/d/1Tl3Pc3D1DkXcsN6xHmULqldtzsjmCyEa/view?usp=sharing)
 
 PDF
-Examination of Urine and Feces[Open Examination of Urine and Feces](https://drive.google.com/file/d/1QCKRTuhJRs2Oj6hDcrVKXFzcehaIR05U/view?usp=sharing)
+Examination of Urine and Feces
 
-Link checked 2026-10-18
+Examination of Urine and Feces — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/1QCKRTuhJRs2Oj6hDcrVKXFzcehaIR05U/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QCKRTuhJRs2Oj6hDcrVKXFzcehaIR05U#report)
+[Open Examination of Urine and Feces](https://drive.google.com/file/d/1QCKRTuhJRs2Oj6hDcrVKXFzcehaIR05U/view?usp=sharing)
 
 PDF
-Microbiological Examination of Clinical Specimens[Open Microbiological Examination of Clinical Specimens](https://drive.google.com/file/d/1S7qW25p7u-k1lvyi2mLIToU6cXnAMOWH/view?usp=sharing)
+Microbiological Examination of Clinical Specimens
 
-Link checked 2026-10-18
+Microbiological Examination of Clinical Specimens — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/1S7qW25p7u-k1lvyi2mLIToU6cXnAMOWH/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S7qW25p7u-k1lvyi2mLIToU6cXnAMOWH#report)
+[Open Microbiological Examination of Clinical Specimens](https://drive.google.com/file/d/1S7qW25p7u-k1lvyi2mLIToU6cXnAMOWH/view?usp=sharing)
 
 PDF
-Necropsy (Post Mortem Examination) Note[Open Necropsy (Post Mortem Examination) Note](https://drive.google.com/file/d/16nSz6y1Wnlnn2dZPdkRX6ZqD7WIhWi4G/view?usp=sharing)
+Necropsy (Post Mortem Examination) Note
 
-Link checked 2026-10-18
+Necropsy (Post Mortem Examination) Note — Veterinary Pathology, Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy.
 
-[PDF ](https://drive.google.com/file/d/16nSz6y1Wnlnn2dZPdkRX6ZqD7WIhWi4G/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16nSz6y1Wnlnn2dZPdkRX6ZqD7WIhWi4G#report)
+[Open Necropsy (Post Mortem Examination) Note](https://drive.google.com/file/d/16nSz6y1Wnlnn2dZPdkRX6ZqD7WIhWi4G/view?usp=sharing)
 
 ## Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals
 
 8
 
 PDF
-Pathology of Bacterial Infection[Open Pathology of Bacterial Infection](https://drive.google.com/file/d/1m28FqCdMAkj-cg0Xn8xFWtaW5VZWZiID/view)
+Pathology of Bacterial Infection
 
-Link checked 2026-10-18
+Pathology of Bacterial Infection — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1m28FqCdMAkj-cg0Xn8xFWtaW5VZWZiID/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m28FqCdMAkj-cg0Xn8xFWtaW5VZWZiID#report)
+[Open Pathology of Bacterial Infection](https://drive.google.com/file/d/1m28FqCdMAkj-cg0Xn8xFWtaW5VZWZiID/view)
 
 PDF
-Pathology of Mineral Toxicities[Open Pathology of Mineral Toxicities](https://drive.google.com/file/d/1iFqJ8DKoXNLOfXqevEdaN2JarjdRyJX3/view)
+Pathology of Mineral Toxicities
 
-Link checked 2026-10-18
+Pathology of Mineral Toxicities — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1iFqJ8DKoXNLOfXqevEdaN2JarjdRyJX3/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iFqJ8DKoXNLOfXqevEdaN2JarjdRyJX3#report)
+[Open Pathology of Mineral Toxicities](https://drive.google.com/file/d/1iFqJ8DKoXNLOfXqevEdaN2JarjdRyJX3/view)
 
 PDF
-Pathology of Mycoplasmal, Rickettsial and Chlamydial Infection[Open Pathology of Mycoplasmal, Rickettsial and Chlamydial Infection](https://drive.google.com/file/d/1v7gY_kJzz-tuZ25QSS1_vAm1FQgnL0rF/view)
+Pathology of Mycoplasmal, Rickettsial and Chlamydial Infection
 
-Link checked 2026-10-18
+Pathology of Mycoplasmal, Rickettsial and Chlamydial Infection — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1v7gY_kJzz-tuZ25QSS1_vAm1FQgnL0rF/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1v7gY_kJzz-tuZ25QSS1_vAm1FQgnL0rF#report)
+[Open Pathology of Mycoplasmal, Rickettsial and Chlamydial Infection](https://drive.google.com/file/d/1v7gY_kJzz-tuZ25QSS1_vAm1FQgnL0rF/view)
 
 PDF
-Pathology of Mycotic Infection[Open Pathology of Mycotic Infection](https://drive.google.com/file/d/1Vz2kDpSZiq1MyW8M_VrSADE31gVrNYfa/view)
+Pathology of Mycotic Infection
 
-Link checked 2026-10-18
+Pathology of Mycotic Infection — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1Vz2kDpSZiq1MyW8M_VrSADE31gVrNYfa/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Vz2kDpSZiq1MyW8M_VrSADE31gVrNYfa#report)
+[Open Pathology of Mycotic Infection](https://drive.google.com/file/d/1Vz2kDpSZiq1MyW8M_VrSADE31gVrNYfa/view)
 
 PDF
-Pathology of Nutritional Imbalances[Open Pathology of Nutritional Imbalances](https://drive.google.com/file/d/1Yk74myjUArkRaypyJ2KBhZq-IR5YVzFh/view)
+Pathology of Nutritional Imbalances
 
-Link checked 2026-10-18
+Pathology of Nutritional Imbalances — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1Yk74myjUArkRaypyJ2KBhZq-IR5YVzFh/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Yk74myjUArkRaypyJ2KBhZq-IR5YVzFh#report)
+[Open Pathology of Nutritional Imbalances](https://drive.google.com/file/d/1Yk74myjUArkRaypyJ2KBhZq-IR5YVzFh/view)
 
 PDF
-Pathology of Parasitic Infection[Open Pathology of Parasitic Infection](https://drive.google.com/file/d/1sIjzv-I-EWfWWDhWjBnCTE6mkABTjJ1p/view)
+Pathology of Parasitic Infection
 
-Link checked 2026-10-18
+Pathology of Parasitic Infection — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1sIjzv-I-EWfWWDhWjBnCTE6mkABTjJ1p/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sIjzv-I-EWfWWDhWjBnCTE6mkABTjJ1p#report)
+[Open Pathology of Parasitic Infection](https://drive.google.com/file/d/1sIjzv-I-EWfWWDhWjBnCTE6mkABTjJ1p/view)
 
 PDF
-Pathology of Viral and Prion Diseases[Open Pathology of Viral and Prion Diseases](https://drive.google.com/file/d/1o8xsQp45I6g63fnRIjFEF446KeSLVIzP/view)
+Pathology of Viral and Prion Diseases
 
-Link checked 2026-10-18
+Pathology of Viral and Prion Diseases — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1o8xsQp45I6g63fnRIjFEF446KeSLVIzP/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1o8xsQp45I6g63fnRIjFEF446KeSLVIzP#report)
+[Open Pathology of Viral and Prion Diseases](https://drive.google.com/file/d/1o8xsQp45I6g63fnRIjFEF446KeSLVIzP/view)
 
 PDF
-Pathology of Viral Diseases by KVAFSU[Open Pathology of Viral Diseases by KVAFSU](https://drive.google.com/file/d/1d1NoquFaJGHxPPgxJNi1phiDh4cH3hCO/view?usp=sharing)
+Pathology of Viral Diseases by KVAFSU
 
-Link checked 2026-10-18
+Pathology of Viral Diseases by KVAFSU — Veterinary Pathology, Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals.
 
-[PDF ](https://drive.google.com/file/d/1d1NoquFaJGHxPPgxJNi1phiDh4cH3hCO/view?usp=sharing)
-
-Link source: VetBVSc. Document label: KVAFSU. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1d1NoquFaJGHxPPgxJNi1phiDh4cH3hCO#report)
+KVAFSU[Open Pathology of Viral Diseases by KVAFSU](https://drive.google.com/file/d/1d1NoquFaJGHxPPgxJNi1phiDh4cH3hCO/view?usp=sharing)
 
 ## Unit 5 – Avian Pathology
 
 6
 
 PDF
-Avian Pathology of Bacterial Diseases[Open Avian Pathology of Bacterial Diseases](https://drive.google.com/file/d/1JIWx6e_zt7HhLvMMEGXjTxo4LZZPZzFC/view)
+Avian Pathology of Bacterial Diseases
 
-Link checked 2026-10-18
+Avian Pathology of Bacterial Diseases — Veterinary Pathology, Unit 5 – Avian Pathology.
 
-[PDF ](https://drive.google.com/file/d/1JIWx6e_zt7HhLvMMEGXjTxo4LZZPZzFC/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JIWx6e_zt7HhLvMMEGXjTxo4LZZPZzFC#report)
+[Open Avian Pathology of Bacterial Diseases](https://drive.google.com/file/d/1JIWx6e_zt7HhLvMMEGXjTxo4LZZPZzFC/view)
 
 PDF
-Avian Pathology of Fungal Diseases[Open Avian Pathology of Fungal Diseases](https://drive.google.com/file/d/1TdM7KzF0GPhfTEKCfRXKtz3oLvrt-nI7/view)
+Avian Pathology of Fungal Diseases
 
-Link checked 2026-10-18
+Avian Pathology of Fungal Diseases — Veterinary Pathology, Unit 5 – Avian Pathology.
 
-[PDF ](https://drive.google.com/file/d/1TdM7KzF0GPhfTEKCfRXKtz3oLvrt-nI7/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TdM7KzF0GPhfTEKCfRXKtz3oLvrt-nI7#report)
+[Open Avian Pathology of Fungal Diseases](https://drive.google.com/file/d/1TdM7KzF0GPhfTEKCfRXKtz3oLvrt-nI7/view)
 
 PDF
-Avian Pathology of Mycoplasmal and Chlamydial Diseases[Open Avian Pathology of Mycoplasmal and Chlamydial Diseases](https://drive.google.com/file/d/1koC_OvipLQgTQq4pDKMOXZSLB557KlDs/view)
+Avian Pathology of Mycoplasmal and Chlamydial Diseases
 
-Link checked 2026-10-18
+Avian Pathology of Mycoplasmal and Chlamydial Diseases — Veterinary Pathology, Unit 5 – Avian Pathology.
 
-[PDF ](https://drive.google.com/file/d/1koC_OvipLQgTQq4pDKMOXZSLB557KlDs/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1koC_OvipLQgTQq4pDKMOXZSLB557KlDs#report)
+[Open Avian Pathology of Mycoplasmal and Chlamydial Diseases](https://drive.google.com/file/d/1koC_OvipLQgTQq4pDKMOXZSLB557KlDs/view)
 
 PDF
-Avian Pathology of Nutritional Imbalances[Open Avian Pathology of Nutritional Imbalances](https://drive.google.com/file/d/1rs9y55PZIW2EfD5bXqA9powy5-Sqy1SZ/view)
+Avian Pathology of Nutritional Imbalances
 
-Link checked 2026-10-18
+Avian Pathology of Nutritional Imbalances — Veterinary Pathology, Unit 5 – Avian Pathology.
 
-[PDF ](https://drive.google.com/file/d/1rs9y55PZIW2EfD5bXqA9powy5-Sqy1SZ/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rs9y55PZIW2EfD5bXqA9powy5-Sqy1SZ#report)
+[Open Avian Pathology of Nutritional Imbalances](https://drive.google.com/file/d/1rs9y55PZIW2EfD5bXqA9powy5-Sqy1SZ/view)
 
 PDF
-Avian Pathology of Parasitic Diseases[Open Avian Pathology of Parasitic Diseases](https://drive.google.com/file/d/18dMEUhdMlhgDh7xNpqwMgRriEyhjicOd/view)
+Avian Pathology of Parasitic Diseases
 
-Link checked 2026-10-18
+Avian Pathology of Parasitic Diseases — Veterinary Pathology, Unit 5 – Avian Pathology.
 
-[PDF ](https://drive.google.com/file/d/18dMEUhdMlhgDh7xNpqwMgRriEyhjicOd/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18dMEUhdMlhgDh7xNpqwMgRriEyhjicOd#report)
+[Open Avian Pathology of Parasitic Diseases](https://drive.google.com/file/d/18dMEUhdMlhgDh7xNpqwMgRriEyhjicOd/view)
 
 PDF
-Avian Pathology of Viral Diseases[Open Avian Pathology of Viral Diseases](https://drive.google.com/file/d/1qXR72fmDHTDJF6OookkhY1RYfR42TiNA/view)
+Avian Pathology of Viral Diseases
 
-Link checked 2026-10-18
+Avian Pathology of Viral Diseases — Veterinary Pathology, Unit 5 – Avian Pathology.
 
-[PDF ](https://drive.google.com/file/d/1qXR72fmDHTDJF6OookkhY1RYfR42TiNA/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qXR72fmDHTDJF6OookkhY1RYfR42TiNA#report)
+[Open Avian Pathology of Viral Diseases](https://drive.google.com/file/d/1qXR72fmDHTDJF6OookkhY1RYfR42TiNA/view)
 
 ## Unit 6 – Pathology of Diseases of Laboratory and Wild Animals
 
 2
 
 PDF
-Pathology of Diseases of Laboratory and Wild Animals[Open Pathology of Diseases of Laboratory and Wild Animals](https://drive.google.com/file/d/1UaPagZbp-7nxLzWKtAqMI0mkn95ZjwlF/view)
+Pathology of Diseases of Laboratory and Wild Animals
 
-Link checked 2026-10-18
+Pathology of Diseases of Laboratory and Wild Animals — Veterinary Pathology, Unit 6 – Pathology of Diseases of Laboratory and Wild Animals.
 
-[PDF ](https://drive.google.com/file/d/1UaPagZbp-7nxLzWKtAqMI0mkn95ZjwlF/view)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UaPagZbp-7nxLzWKtAqMI0mkn95ZjwlF#report)
+[Open Pathology of Diseases of Laboratory and Wild Animals](https://drive.google.com/file/d/1UaPagZbp-7nxLzWKtAqMI0mkn95ZjwlF/view)
 
 PDF
-Pathology of Diseases of Laboratory Animals[Open Pathology of Diseases of Laboratory Animals](https://drive.google.com/file/d/1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL/view?usp=sharing)
+Pathology of Diseases of Laboratory Animals
 
-Link checked 2026-10-18
+Pathology of Diseases of Laboratory Animals — Veterinary Pathology, Unit 6 – Pathology of Diseases of Laboratory and Wild Animals.
 
-[PDF ](https://drive.google.com/file/d/1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL#report)
+[Open Pathology of Diseases of Laboratory Animals](https://drive.google.com/file/d/1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL/view?usp=sharing)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
