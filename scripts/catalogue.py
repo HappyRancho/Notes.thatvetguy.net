@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 import json, re, unicodedata
 from drive_manifest import load_manifest
 ROOT=Path(__file__).resolve().parent.parent
-KINDS={'notes':'Notes','books':'Books','practical':'Practical','objective':'Objective','presentation':'Slides','images':'Photo sets','other':'Extras'}
+KINDS={'notes':'Notes','books':'Books','practical':'Practical','objective':'Objective','presentation':'Slides','images':'Images','other':'Extras'}
 GROUPS=list(KINDS.values())
 CAMERA=re.compile(r'^(?:IMG[-_]|PXL_|DSC[_-]|Screenshot)',re.I)
 EXT=re.compile(r'\.(pdf|docx?|pptx?|xlsx?|jpe?g|png|gif|webp|bmp|txt|zip|rar|mp4|mkv|avi|mp3|epub|rtf)$',re.I)

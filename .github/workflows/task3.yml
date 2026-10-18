@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: study-clinic-${{ github.ref }}
+  group: study-clinic-${{ github.sha }}
   cancel-in-progress: true
 jobs:
   after:
@@ -44,7 +44,7 @@ jobs:
           name: task3-after
           path: docs/qa/task3/
   before:
-    if: "!contains(github.event.head_commit.message, '[generated]')"
+    if: "contains(github.event.head_commit.message, 'restrained transitions') || contains(github.event.head_commit.message, '[baseline]')"
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:

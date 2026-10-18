@@ -15,6 +15,10 @@ for name,folder,filename,axes in SOURCES:
     base='https://raw.githubusercontent.com/google/fonts/main/ofl/'+folder+'/'
     with urlopen(Request(base+quote(filename),headers={'User-Agent':'NotesThatVetGuy-build'}),timeout=30) as r:raw=r.read()
     font=instantiateVariableFont(TTFont(BytesIO(raw)),axes,inplace=True)
+    # Instancing can synthesise spacing glyphs without gvar entries. They are static.
+    if 'gvar' in font:
+        for glyph in font.getGlyphOrder():
+            if glyph not in font['gvar'].variations:font['gvar'].variations[glyph]=[]
     options=subset.Options();options.flavor='woff2';options.layout_features=['kern','liga','calt'];options.name_IDs=[1,2,3,4,5,6];options.recalc_bounds=True
     sub=subset.Subsetter(options=options);sub.populate(unicodes=list(range(32,256))+list(range(0x2000,0x2070))+[0x2192,0x2197,0x21b3]);sub.subset(font)
     font.flavor='woff2';font.save(dest)

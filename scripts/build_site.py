@@ -23,8 +23,9 @@ def article_intro(title,description,crumbs=None):
 def search_form(page=False):return site_shell.search(sys.modules[__name__],page)
 def write_page(path,title,description,body,items=None,home=False,noindex=False):
     body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
-    geo.register(path,title,description,body,date);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
-    schema=geo.structured(path,title,description,items,home,body,RECORDS,date)
+    modified=json.loads((ROOT/'data/curation.json').read_text())['reviewed']
+    geo.register(path,title,description,body,modified);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
+    schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     html=f'''<!doctype html><html lang="en"><head>
 <meta charset="utf-8"><meta name="site-build" content="{VERSION}"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
