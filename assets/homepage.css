@@ -1,5 +1,5 @@
 /* The approved Rx homepage. Scoped so existing resource pages keep their UI. */
-@font-face{font-family:'Balsamiq';src:url('/assets/fonts/balsamiq-latin.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:'Balsamiq';src:url('/assets/fonts/balsamiq-latin.woff2') format('woff2');font-weight:700;font-style:normal;font-display:optional}
 html[data-ui=rx]{--paper:#eaf8ff;--surface:#fff;--text:#101b43;--muted:#475571;--line:#cbd7e7;--hairline:#e6edf4;--rx-blue:#0769ce;--rx-blue-hover:#0558ae;--rx-tab:#eef6fb;--rx-field:#f2f5fb;--rx-mint:#eaf9f1;--rx-yellow:#fff8df;--rx-peach:#fff2e8;--rx-purple:#f2eafe;--rx-pink:#fff0f4;--rx-sky:#e8f6ff;--rx-shadow:0 4px 20px #69b3d413;--rx-heading:'Balsamiq','Bricolage',sans-serif;--rx-radius:20px;--rx-gap:20px;color-scheme:light}
 html[data-ui=rx][data-theme=dark]{--paper:#112433;--surface:#192f42;--text:#f0f6ff;--muted:#c5d6e8;--line:#8098ad;--hairline:#385267;--rx-blue:#0769ce;--rx-blue-hover:#0558ae;--rx-tab:#243e53;--rx-field:#21394e;--rx-shadow:0 4px 20px #0002;color-scheme:dark}
 @media(prefers-color-scheme:dark){html[data-ui=rx]:not([data-theme=light]){--paper:#112433;--surface:#192f42;--text:#f0f6ff;--muted:#c5d6e8;--line:#8098ad;--hairline:#385267;--rx-tab:#243e53;--rx-field:#21394e;--rx-shadow:0 4px 20px #0002;color-scheme:dark}}
