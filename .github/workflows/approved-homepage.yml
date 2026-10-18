@@ -35,7 +35,7 @@ jobs:
       - name: Lighthouse and page regression
         run: npm run qa -- mockup-after
         env:
-          QA_PATHS: '/,/bvsc/year-1/,/study-tools/,/request-resource/'
+          QA_PATHS: '/,/bvsc/year-1/,/bvsc/year-1/veterinary-anatomy/,/bvsc/year-1/books/,/clinical/handbooks/,/clinical/drug-index/'
           QA_WIDTHS: '390'
       - uses: actions/upload-artifact@v4
         if: always()

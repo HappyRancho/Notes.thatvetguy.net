@@ -1,6 +1,7 @@
 """One job per page: years, subjects, then bounded file groups."""
 from html import escape as e
 from collections import Counter
+import re
 from library import KINDS,natural,slug,normal
 from site_shell import year_tiles
 
@@ -42,7 +43,7 @@ def subject_page(b,y,s):
     body+='<div class="subject-toolbar"><p>'+count(len(rows))+' · '+b.DATA['labels'][str(year)]+'</p><button type="button" class="studied-button js-only" data-studied="'+s['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></div>'
     body+='<div class="filter-collection">'+controls(b,[(k,v) for k,v in KINDS.items() if k not in ['images','presentation'] and any(r['kind']==k for r in rows)])
     first=True
-    units=sorted({r['unit'] for r in rows},key=natural)
+    units=sorted({r['unit'] for r in rows},key=lambda u:(int(re.search(r'\d+',u)[0]) if re.search(r'\d+',u) else 999,natural(u)))
     for unit in units:
         own=[r for r in rows if r['unit']==unit]
         body+=group(b,unit,own,'unit-'+slug(unit),first,filterkey=own[0]['kind'] if len({r['kind'] for r in own})==1 else 'notes');first=False

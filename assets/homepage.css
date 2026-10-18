@@ -55,7 +55,7 @@ html[data-ui=rx][data-theme=dark] .rx-heading-icon.mint{color:#8cd8bc}
 /* Real suitcase / prescription artwork, with accessible live labels. */
 .mockup-home .rx-real-clinical{position:relative;display:block;overflow:hidden;aspect-ratio:3/4;border-radius:14px;isolation:isolate}
 .mockup-home .rx-real-clinical>img{display:block;width:100%;height:100%;object-fit:cover}
-.mockup-home .rx-clinical-label{position:absolute;inset:51% 9% auto;margin:0;text-align:center;font:700 clamp(15px,3.9vw,28px)/1.12 var(--rx-heading);color:#fff;text-wrap:balance}
-.mockup-home .rx-real-clinical.yellow .rx-clinical-label{inset-block-start:43%;color:#101d49}
+.mockup-home .rx-clinical-label{position:absolute;inset:60% 9% auto;margin:0;text-align:center;font:700 clamp(15px,3.9vw,28px)/1.12 var(--rx-heading);color:#fff;text-wrap:balance}
+.mockup-home .rx-real-clinical.yellow .rx-clinical-label{inset-block-start:38%;color:#101d49}
 .mockup-home .rx-clinical-open{position:absolute;inset:76% auto auto 50%;translate:-50% 0;display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:#d7edff;color:#12204a}
 .mockup-home .rx-clinical-open svg{width:25px;height:25px}
