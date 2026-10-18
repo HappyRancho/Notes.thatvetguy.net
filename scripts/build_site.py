@@ -4,7 +4,7 @@ from html import escape
 import hashlib,json,re,sys,os
 from library import build_library,slug
 from ui import icon,link
-import geo,site_shell,library_pages
+import geo,site_shell,library_pages,homepage
 ROOT=Path(__file__).resolve().parent.parent
 LIBRARY=build_library(refresh=bool(os.getenv('DRIVE_API_KEY')))
 RECORDS=LIBRARY['files'];CATALOGUE={r['id']:r for r in RECORDS}
@@ -26,17 +26,22 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
     modified=json.loads((ROOT/'data/curation.json').read_text())['reviewed']
     geo.register(path,title,description,body,modified);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
-    html=f'''<!doctype html><html lang="en"><head>
+    light,dark=('#eaf8ff','#112433') if home else ('#FFF8EC','#0F1714')
+    extra_assets=(f'<link rel="stylesheet" href="/assets/homepage.css?v={VERSION}"><script src="/assets/homepage.js?v={VERSION}" defer></script>') if home else ''
+    preload='balsamiq' if home else 'bricolage'
+    page_header=homepage.header() if home else site_shell.header(path)
+    page_footer=homepage.footer() if home else site_shell.footer(sys.modules[__name__])
+    html=f'''<!doctype html><html lang="en"{' data-ui="rx"' if home else ''}><head>
 <meta charset="utf-8"><meta name="site-build" content="{VERSION}"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
-<meta name="theme-color" content="#FFF8EC" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0F1714" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="{light}" media="(prefers-color-scheme: light)"><meta name="theme-color" content="{dark}" media="(prefers-color-scheme: dark)">
 <script src="/assets/theme.js?v={VERSION}"></script><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
 <link rel="canonical" href="{BASE+path}"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Notes.ThatVetGuy — Vet school notes, sorted.">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}">
-<link rel="stylesheet" href="/assets/site.css?v={VERSION}"><link rel="preload" href="/assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v={VERSION}">{extra_assets}<link rel="preload" href="/assets/fonts/{preload}-latin.woff2" as="font" type="font/woff2" crossorigin>
 <script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>
-</head><body>{site_shell.header(path)}<main id="main">{body}<div class="container page-checked">Last checked: <time datetime="{date}">{date}</time></div></main>{site_shell.footer(sys.modules[__name__])}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
+</head><body{' class="mockup-home"' if home else ''}>{page_header}<main id="main">{body}<div class="container page-checked">Last checked: <time datetime="{date}">{date}</time></div></main>{page_footer}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
 def discovery():
     index=[]
@@ -53,7 +58,7 @@ def discovery():
     lines+=['/bvsc/year-'+str(y)+'/unsorted/ /bvsc/year-'+str(y)+'/#extras 301' for y in [2,4]]
     redirects.write_text('\n'.join(lines)+'\n');(ROOT/'.nojekyll').touch()
 def run():
-    b=sys.modules[__name__];site_shell.home(b);library_pages.render(b)
+    b=sys.modules[__name__];homepage.render(b);library_pages.render(b)
     body=article_intro(MICROCOPY['404'][0],'Try a subject or search for the resource you need.')+link('/bvsc/','Back to the notes '+icon('arrow'),'button')+'</div>'
     write_page('/404/','Page not found','Find your way back to veterinary notes, books and study resources.',body,noindex=True)
     (ROOT/'404.html').write_text((ROOT/'404/index.html').read_text());discovery()

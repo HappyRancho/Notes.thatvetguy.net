@@ -68,14 +68,15 @@ assert not any('icar-pyq' in r['collections'] for r in records),'Unverified ICAR
 assert len([r for r in records if r['title']=='Toxicology Objectives'])==1
 assert next(r for r in records if r['title'].lower()=='micro mcq')['kind']=='objective'
 assert not any('drug-index' in r['collections'] for r in records if r['id'] in ['1B7aVgkhm3eEoEVK1PrquHqa2WuWXQPeE','1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2'])
-home=(ROOT/'index.html').read_text();assert all(x not in home for x in ['year-panel','year-tabs','faq-list','Recently Added','quick-tiles'])
+home=(ROOT/'index.html').read_text();assert all(x not in home for x in ['faq-list','Recently Added','quick-tiles'])
+assert home.count('role="tablist"')==3 and 'BVSc &amp; AH Resources' in home
 assert 'content="noindex,follow"' in (ROOT/'search/index.html').read_text()
 xml=ET.parse(ROOT/'sitemap.xml');ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
 assert len(xml.findall('s:url',ns))==sum('content="noindex,follow"' not in p.read_text() for p in pages)
 assert all(el.find('s:lastmod',ns) is not None for el in xml.findall('s:url',ns))
 assert all((ROOT/x).exists() for x in ['llms.txt','llms-full.txt','robots.txt','search-index.json'])
-runtime=sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['theme.js','logic.js','site.js','motion.js']);assert runtime<60_000
-payload=runtime+len(gzip.compress(home.encode()))+len(gzip.compress((ROOT/'assets/site.css').read_bytes()));assert payload<150_000
+runtime=sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['theme.js','logic.js','site.js','motion.js','homepage.js']);assert runtime<60_000
+payload=runtime+len(gzip.compress(home.encode()))+sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['site.css','homepage.css']);assert payload<150_000
 spec=importlib.util.spec_from_file_location('policy',ROOT/'scripts/check-link-policy.py');policy=importlib.util.module_from_spec(spec);spec.loader.exec_module(policy);policy.check_policy()
 out=ROOT/'docs/qa/task3';out.mkdir(parents=True,exist_ok=True)
 (out/'counts.json').write_text(json.dumps({'years':data['years'],'cleanup':report,'homeGzipBytes':payload,'jsGzipBytes':runtime},indent=2)+'\n')

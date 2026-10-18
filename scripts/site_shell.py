@@ -11,11 +11,14 @@ def header(path):
 
 def navigation(path):
     links=''
-    for url,title,ic in [('/','Home','paw'),('/bvsc/','Notes','book'),('/objective/','Objective','check'),('/search/','Search','search')]:
+    home=path=='/'
+    for url,title,ic in [('/','Home','home' if home else 'paw'),('/bvsc/','Notes','paper' if home else 'book'),('/objective/','Objective','cap' if home else 'check'),('/search/','Search','search')]:
         active=' aria-current="page"' if (path==url or url!="/" and path.startswith(url)) else ''
         links+=f'<a href="{url}"{active}>'+icon(ic)+'<span>'+title+'</span></a>'
     more=[('/about/','About'),('/request-resource/','Request Resource'),('/request-resource/#contribute','Contribute'),('/request-resource/#report','Report an error'),('https://t.me/vetshortnotesbytvg','Short notes on Telegram'),('https://t.me/jobupdatesbytvg','Job updates on Telegram')]
-    return '<nav class="bottom-nav" aria-label="Mobile">'+links+'<button type="button" class="js-only" data-dialog="more-sheet" aria-controls="more-sheet" aria-expanded="false">'+icon('menu')+'<span>More</span></button><a class="nojs-only" href="/about/">About</a></nav><dialog id="more-sheet" class="sheet" aria-labelledby="more-title"><div class="dialog-head"><div id="more-title" class="dialog-title">A little more.</div><button class="icon-button" data-close aria-label="Close menu">'+icon('close')+'</button></div><nav class="more-links" aria-label="Community and information">'+''.join(link(u,t+icon('arrow')) for u,t in more)+'</nav></dialog>'
+    if home:more=[('/study-tools/','Tools & Tips'),('/clinical/','Clinical Resources')]+more
+    theme='<div class="rx-theme-option"><span>Light / dark appearance</span><button class="icon-button theme-toggle js-only" type="button" aria-label="Switch to dark theme" aria-pressed="false"><span aria-hidden="true">◐</span></button></div>' if home else ''
+    return '<nav class="bottom-nav" aria-label="Mobile">'+links+'<button type="button" class="js-only" data-dialog="more-sheet" aria-controls="more-sheet" aria-expanded="false">'+icon('menu')+'<span>More</span></button><a class="nojs-only" href="/about/">About</a></nav><dialog id="more-sheet" class="sheet" aria-labelledby="more-title"><div class="dialog-head"><div id="more-title" class="dialog-title">A little more.</div><button class="icon-button" data-close aria-label="Close menu">'+icon('close')+'</button></div><nav class="more-links" aria-label="Community and information">'+''.join(link(u,t+icon('arrow')) for u,t in more)+'</nav>'+theme+'</dialog>'
 
 def palette():
     return '<dialog id="command-palette" class="sheet command-dialog" aria-labelledby="command-title"><div class="dialog-head"><div id="command-title" class="dialog-title">Find your next read.</div><button class="icon-button" data-close aria-label="Close search">'+icon('close')+'</button></div><label class="sr-only" for="command-search">Search all resources</label><input id="command-search" type="search" placeholder="Subject, note, book…" autocomplete="off"><p class="search-loading" hidden>Searching…</p><ul id="command-results" class="suggestion-list"></ul><p id="command-status" role="status"></p></dialog><dialog id="personal-library" class="sheet" aria-label="Saved and recently opened resources"><div class="dialog-head"><div class="dialog-title">Your study shelf</div><button class="icon-button" data-close aria-label="Close study shelf">'+icon('close')+'</button></div><div id="personal-content"></div></dialog>'
@@ -34,16 +37,5 @@ def year_tiles(b):
     return '<div class="year-grid">'+tiles+'</div>'
 
 def home(b):
-    subjects=sum(len(y['subjects']) for y in b.LIBRARY['years']);resources=len(b.RECORDS);years=len(b.LIBRARY['years'])
-    stats=''.join(f'<li><strong data-count="{n}">{n:,}</strong><span>{title}</span></li>' for n,title in [(resources,'resources'),(subjects,'subjects'),(years,'years')])
-    body='<section class="hero container"><p class="eyebrow">THE VET STUDENT’S OPEN SHELF</p><h1>Vet school notes,<br>sorted. <mark>Finally.</mark></h1><p class="hero-copy">Free BVSc & AH notes, books, PYQs and clinical references, organised by year.</p>'+search(b)+b.section_aside('search')+'<ul class="live-stats" aria-label="Library at a glance">'+stats+'</ul></section>'
-    body+='<section class="section container" id="notes"><div class="section-heading"><div><p class="eyebrow">BVSc NOTES & BOOKS</p><h2>Pick your year.</h2></div><span class="section-caption">Your syllabus. Your starting point.</span></div>'+year_tiles(b)+b.section_aside('bvsc')+'</section>'
-    body+='<section class="section container" id="study"><div class="section-heading"><div><p class="eyebrow">A LITTLE HELP GOES A LONG WAY</p><h2>More ways to study.</h2></div></div><div class="study-bento">'
-    for cls,ic,url,title,desc in [('objective-tile','check','/objective/','Objective Resources','Subject-wise questions, objective books & past papers.'),('tools-tile','spark','/study-tools/','Study Tools','AI guides, free apps & useful study habits.'),('clinical-tile','cross','/clinical/','Clinical Resources','Handbooks & pharmacology notes, within reach.')]:
-        body+=link(url,'<span class="icon-chip">'+icon(ic)+'</span><div><h3>'+title+'</h3><p>'+desc+'</p></div>'+icon('arrow'), 'sticker bento-tile '+cls)
-    body+='</div></section>'
-    body+='<section class="section container" id="community"><div class="section-heading"><div><p class="eyebrow">OUTSIDE THE TEXTBOOK</p><h2>Your corner of vet school.</h2></div></div><div class="telegram-duo"><article class="sticker backbench" id="backbench"><span class="small-label">'+icon('telegram')+' SHORT NOTES</span><h3>Backbenchers<br>Corner.</h3><p>Less to read.<br>More to remember.</p>'+link('https://t.me/vetshortnotesbytvg','<span>Open Short Notes</span>','button')+'</article><article class="sticker jobs" id="telegram-updates"><span class="small-label">'+icon('telegram')+' JOB UPDATES</span><h3>Your next<br>chapter.</h3><p>Veterinary opportunities, without the hunt.</p>'+link('https://t.me/jobupdatesbytvg','<span>Follow Job Updates</span>','button')+'</article></div>'+b.section_aside('backbench')+'</section>'
-    body+='<section class="container request-strip" id="request"><h2>Can’t find it?</h2><p>A note, book or topic. Just ask.</p>'+link('/request-resource/','Request a resource '+icon('arrow'),'text-link')+'</section>'
-    divider='<svg class="ecg-divider" viewBox="0 0 1120 12" preserveAspectRatio="none" aria-hidden="true"><path d="M0 6H540l4-4 5 8 5-4h566" vector-effect="non-scaling-stroke"/></svg>'
-    body=body.replace('<div class="section-heading">',divider+'<div class="section-heading">')
-    b.write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',b.geo.META['/']['summary'],body,home=True)
+    from homepage import render
+    render(b)

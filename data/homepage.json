@@ -1,0 +1,26 @@
+{
+  "objectiveNotes": [
+    {"title":"Objective Notes by Dhruv N Desai","icon":"paper","tone":"purple","keywords":["dhruv","desai"]},
+    {"title":"Animal Science Refresher","icon":"brain","tone":"pink","keywords":["animal science refresher"]},
+    {"title":"Review of Animal Science","icon":"chart","tone":"mint","keywords":["review of animal science"]},
+    {"title":"Review of Veterinary Science","icon":"book","tone":"peach","keywords":["review of veterinary science"]}
+  ],
+  "tools": [
+    {"title":"Calculators","icon":"calculator","tone":"sky","available":false},
+    {"title":"Charts & Tables","icon":"chart","tone":"mint","url":"/study-tools/#charts-tables"},
+    {"title":"Templates & Formats","icon":"paper","tone":"purple","url":"/study-tools/#templates-formats"},
+    {"title":"Useful Links","icon":"chain","tone":"yellow","url":"/study-tools/#useful-links"}
+  ],
+  "tips": [
+    {"title":"Use of AI for Vet Study","icon":"spark","tone":"purple","url":"/study-tools/#ai-guide"},
+    {"title":"Useful Free Apps","icon":"phone","tone":"sky","url":"/study-tools/#free-apps"},
+    {"title":"Organise Your Study Material","icon":"book","tone":"mint","url":"/study-tools/#useful-tools"}
+  ],
+  "roadmaps": {
+    "1":{"description":"Your guide to a strong start.","steps":["Keep your university syllabus beside your subject notes.","Connect Anatomy structures with Physiology functions; revise diagrams together.","Make a weekly space for Livestock Production Management and practical records."]},
+    "2":{"description":"Connect the foundations.","steps":["Use your syllabus to plan Biochemistry, Microbiology and Pathology together.","Keep Genetics and Nutrition calculations beside the worked examples in your notes.","Review practical observations alongside the related theory."]},
+    "3":{"description":"Bring the subjects together.","steps":["Build a subject checklist from your current university syllabus.","Connect Pharmacology and Parasitology topics with Public Health concepts.","Keep LPT, Extension, Clinical Practices and Farm Practices in your weekly plan."]},
+    "4":{"description":"From notes to clinical thinking.","steps":["Organise Medicine, Surgery and Gynaecology notes by your syllabus topics.","Connect each case discussion with the relevant subject notes and practical record.","Use current clinical guidance and supervision; study notes are not prescribing advice."]}
+  },
+  "chartIds":["1jqfABHLlw_gDbffe188k1-9QCcD2gK7f","1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N","1tMqWIPLPxMiYJHIeHEHk62O6DLc2PD-L","1eNJf0tPojv7FY3EQZXGtjl_g2VkIQlNs"]
+}

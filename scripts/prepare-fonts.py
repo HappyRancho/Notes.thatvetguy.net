@@ -8,14 +8,14 @@ from fontTools.ttLib import TTFont
 from fontTools.varLib.instancer import instantiateVariableFont
 from fontTools import subset
 ROOT=Path(__file__).resolve().parent.parent;OUT=ROOT/'assets/fonts';OUT.mkdir(exist_ok=True)
-SOURCES=[('bricolage','bricolagegrotesque','BricolageGrotesque[opsz,wdth,wght].ttf',{'opsz':32,'wdth':100,'wght':(700,800)}),('inter','inter','Inter[opsz,wght].ttf',{'opsz':14,'wght':(400,600)}),('caveat','caveat','Caveat[wght].ttf',{'wght':500})]
+SOURCES=[('bricolage','bricolagegrotesque','BricolageGrotesque[opsz,wdth,wght].ttf',{'opsz':32,'wdth':100,'wght':(700,800)}),('inter','inter','Inter[opsz,wght].ttf',{'opsz':14,'wght':(400,600)}),('caveat','caveat','Caveat[wght].ttf',{'wght':500}),('balsamiq','balsamiqsans','BalsamiqSans-Bold.ttf',{})]
 for name,folder,filename,axes in SOURCES:
     dest=OUT/(name+'-latin.woff2')
     if dest.exists():
         font=TTFont(dest);font.flavor=None;font.save('/tmp/'+name+'-social.ttf');continue
     base='https://raw.githubusercontent.com/google/fonts/main/ofl/'+folder+'/'
     with urlopen(Request(base+quote(filename),headers={'User-Agent':'NotesThatVetGuy-build'}),timeout=30) as r:raw=r.read()
-    font=instantiateVariableFont(TTFont(BytesIO(raw)),axes,inplace=True)
+    font=instantiateVariableFont(TTFont(BytesIO(raw)),axes,inplace=True) if axes else TTFont(BytesIO(raw))
     # Instancing can synthesise spacing glyphs without gvar entries. They are static.
     if 'gvar' in font:
         for glyph in font.getGlyphOrder():

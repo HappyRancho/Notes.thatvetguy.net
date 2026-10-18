@@ -1,0 +1,46 @@
+name: Approved homepage QA
+on:
+  push:
+    branches: [homepage-approved-mockups]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  verify:
+    if: "!contains(github.event.head_commit.message, '[generated]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: pip install fonttools brotli pillow
+      - run: python3 scripts/prepare-fonts.py
+      - run: npm install && npx playwright install --with-deps chromium
+      - run: npm run build && npm run check
+      - name: Render approved homepage
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html index.md 404.html 404/ bvsc/ objective/ clinical/ study-tools/ search/ about/ request-resource/ assets/fonts/ data/resources.json data/catalogue.json data/duplicates-report.json assets/catalogue.json search-index.json build-info.json robots.txt sitemap.xml llms.txt llms-full.txt docs/qa/task3/counts.json docs/qa/task3/contrast.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Homepage — render approved mockup UI and retrieval pages [generated]'
+            git push origin HEAD:homepage-approved-mockups
+          fi
+      - run: node scripts/homepage-qa.mjs
+      - name: Lighthouse and page regression
+        run: npm run qa -- mockup-after
+        env:
+          QA_PATHS: '/,/bvsc/year-1/,/study-tools/,/request-resource/'
+          QA_WIDTHS: '390'
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: approved-homepage
+          path: |
+            docs/qa/mockup-homepage/
+            docs/qa/task3/mockup-after/
