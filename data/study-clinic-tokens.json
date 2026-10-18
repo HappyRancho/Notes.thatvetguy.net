@@ -1,0 +1,5 @@
+{
+  "light": {"paper":"#FFF8EC","surface":"#FFFFFF","text":"#14231F","muted":"#3A4A45","line":"#14231F"},
+  "dark": {"paper":"#0F1714","surface":"#17231E","text":"#F4F1E8","muted":"#C9D3CD","line":"#86918A"},
+  "stickers": {"sun":"#FFD84D","coral":"#FF9A7A","sky":"#8FD0FF","mint":"#9BE8B8","lime":"#C8F169","telegram":"#BFE3FA","ink":"#14231F","secondary":"#3A4A45"}
+}
