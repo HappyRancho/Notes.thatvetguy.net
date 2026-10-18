@@ -1,0 +1,1432 @@
+[
+  {
+    "year": 2,
+    "id": "12WNUVTXyjCDLLqhCUfZ12eCetQhKihte",
+    "path": ""
+  },
+  {
+    "year": 1,
+    "id": "18FGhR7f03vR1gXpkVwkuTYOx6c-Xk1a3",
+    "path": ""
+  },
+  {
+    "year": 2,
+    "id": "1cRhOSH0xD8cryf6mY-cbLfz2Vf-aWaWc",
+    "path": "Animal Nutrition"
+  },
+  {
+    "year": 2,
+    "id": "1jd9dfA3ArGCoaU9ORwkatzxHF9jFRWOO",
+    "path": "Annual Board Assignments"
+  },
+  {
+    "year": 1,
+    "id": "1r2qJgdGpBkmq9RwqYGAeW89b0wabJF_2",
+    "path": "Anatomy"
+  },
+  {
+    "year": 2,
+    "id": "1Lp0fsV38xwmTKrwHyxUq1HtUrnxTLnUr",
+    "path": "Biochemistry"
+  },
+  {
+    "year": 1,
+    "id": "1POzb3aJVLKCMSK8OPD9d3-oEV7xHQLsU",
+    "path": "Board Questions"
+  },
+  {
+    "year": 2,
+    "id": "1BArStTxvSiMBSjmWvnlSnSRmHJ5c_Z_F",
+    "path": "Board Questions"
+  },
+  {
+    "year": 2,
+    "id": "1Qr38FE2ah53DT49jIj8gtf1rNYI0eYNQ",
+    "path": "Genetics"
+  },
+  {
+    "year": 2,
+    "id": "1U6ISFfdGQezmTeTHxVVO0khZf80c1BeG",
+    "path": "Internals and Tests"
+  },
+  {
+    "year": 1,
+    "id": "1CmBzwoIWmMfs_rHdkNMlwbkxQAR7U7Yq",
+    "path": "LPM"
+  },
+  {
+    "year": 2,
+    "id": "1xmGeqj9k8xBfv6sN0JHkw7WZHKkewhH_",
+    "path": "Microbiology"
+  },
+  {
+    "year": 1,
+    "id": "1Ofbc7qtMUL-j22JHukQzF0LP72svbgT3",
+    "path": "Physiology"
+  },
+  {
+    "year": 2,
+    "id": "1udDFWQDlMiRVWpnho39SbhQIvZW9shqY",
+    "path": "One Mark Questions"
+  },
+  {
+    "year": 1,
+    "id": "127uMut-ZmcQWt-Xa4Rxp4bTkv6G7q_5-",
+    "path": "Anatomy/Books"
+  },
+  {
+    "year": 2,
+    "id": "1mjhzZbInHzoEnpzVZRn7Xw85LUDsrOVm",
+    "path": "Pathology"
+  },
+  {
+    "year": 2,
+    "id": "14b90GHm2nK6xYofNdCVNN9lTU56MN8B8",
+    "path": "Animal Nutrition/Books"
+  },
+  {
+    "year": 1,
+    "id": "1D7O46JsCtNvgVHrdXUnMGk12nUCQxVrO",
+    "path": "Anatomy/Lecture Notes"
+  },
+  {
+    "year": 2,
+    "id": "1Vbo95mT2QT-HblWiOGQ5GbwY9E9uK-lX",
+    "path": "Animal Nutrition/Lecture Notes"
+  },
+  {
+    "year": 1,
+    "id": "1HcKWc1n5e52nPE02gY5tXWHn9izNQtpx",
+    "path": "Anatomy/Media"
+  },
+  {
+    "year": 2,
+    "id": "1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk",
+    "path": "Animal Nutrition/Media"
+  },
+  {
+    "year": 1,
+    "id": "17Ucrl6O8AWr49B7z4fhVmsvsNamBhx4E",
+    "path": "Anatomy/Notes"
+  },
+  {
+    "year": 2,
+    "id": "1eG1gLKOryPTIwuYSdbGpCxadmVRuMJFo",
+    "path": "Animal Nutrition/PPT and PDF"
+  },
+  {
+    "year": 2,
+    "id": "1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+    "path": "Animal Nutrition/Practical Lecture"
+  },
+  {
+    "year": 1,
+    "id": "1j5-90KkCyEGjDteXF1JUY4c8a3zJuvpY",
+    "path": "Anatomy/Objectives"
+  },
+  {
+    "year": 2,
+    "id": "1Y-3_-guplxmfsFZ1rdrb89uz5zrftKDY",
+    "path": "Biochemistry/Lecture Notes"
+  },
+  {
+    "year": 1,
+    "id": "1-Je-lsvfw8NEHzV-TCwyjNWQOc5nw6Rs",
+    "path": "Anatomy/PPTs"
+  },
+  {
+    "year": 2,
+    "id": "1h08q4f7B3B7cU2ya70grYwpQW9YsKA0v",
+    "path": "Biochemistry/PPT and PDF"
+  },
+  {
+    "year": 1,
+    "id": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "path": "Anatomy/Practicals"
+  },
+  {
+    "year": 2,
+    "id": "12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "path": "Biochemistry/Practicals"
+  },
+  {
+    "year": 2,
+    "id": "1WlPMoV3qKx7f4_sG_N1vqSuzgk4SIVqL",
+    "path": "Genetics/Books"
+  },
+  {
+    "year": 2,
+    "id": "1Fs57pXtf6CGiyizqgyYnVrntc2cJ9T1M",
+    "path": "Genetics/Internals"
+  },
+  {
+    "year": 2,
+    "id": "19yUu0igfav0G3--28-Y0QSeNGEqmMCK3",
+    "path": "Genetics/Lecture Notes"
+  },
+  {
+    "year": 2,
+    "id": "13SMuMtL-nh1eaonrrrpJkCaDpoSR0tgN",
+    "path": "Genetics/PPT and PDF"
+  },
+  {
+    "year": 2,
+    "id": "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "path": "Genetics/Practicals"
+  },
+  {
+    "year": 2,
+    "id": "19vvohiYDWRUriuNqC2NzoN1uCVTF86l6",
+    "path": "Internals and Tests/Internal 2"
+  },
+  {
+    "year": 2,
+    "id": "13fLG30OA9sdObj5FxUyB4NMdN6BS87un",
+    "path": "Internals and Tests/Internal 3"
+  },
+  {
+    "year": 2,
+    "id": "1NTfn-ESdp9a1dI2oJWVT5paiTT1ZiMON",
+    "path": "Internals and Tests/Mock tests"
+  },
+  {
+    "year": 2,
+    "id": "1ZVzbgL4n6Zfg37Ro6kXe85YUlWOWGEPg",
+    "path": "Microbiology/Books"
+  },
+  {
+    "year": 2,
+    "id": "1SaVblS3q3LnGTdzEPYBo98V7q0ZQC4JN",
+    "path": "Microbiology/Lecture Notes"
+  },
+  {
+    "year": 2,
+    "id": "1ovL5foiu2hoCNw5aTym-xbrm_7EKlC2q",
+    "path": "Microbiology/Media"
+  },
+  {
+    "year": 2,
+    "id": "1bg2FRIiW_RmXIk3k7bzFQieJaA_sH0gg",
+    "path": "Microbiology/Notes"
+  },
+  {
+    "year": 1,
+    "id": "1HaNdDLsJx0ffDaBf9lOi1aojiDX7TSKr",
+    "path": "Anatomy/Question Papers"
+  },
+  {
+    "year": 2,
+    "id": "1jgq2i7rFIkf42J8ATmIlOh8KNhclyhU6",
+    "path": "Microbiology/PPT"
+  },
+  {
+    "year": 2,
+    "id": "1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "path": "Microbiology/Practicals"
+  },
+  {
+    "year": 2,
+    "id": "15Tu56BIonkl7-ypnn_AdEcMtvSRCw37C",
+    "path": "Pathology/Books"
+  },
+  {
+    "year": 2,
+    "id": "1PSspOonuwaxPtajrIL84vnOWB3nLOg2I",
+    "path": "Pathology/Media"
+  },
+  {
+    "year": 2,
+    "id": "1fsjJ5kBagGbFaiwILgxp-TLQcRmMYuQr",
+    "path": "Pathology/Notes"
+  },
+  {
+    "year": 2,
+    "id": "1pKR46WttNDYsYkhdicqPDbFDaBVoQe2N",
+    "path": "Pathology/PPT and PDF"
+  },
+  {
+    "year": 2,
+    "id": "1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "path": "Pathology/Practicals"
+  },
+  {
+    "year": 2,
+    "id": "1FzLsi-ot9j4jhuoFG1K5-A75zwdnSArc",
+    "path": "Animal Nutrition/PPT and PDF/Unit 1"
+  },
+  {
+    "year": 2,
+    "id": "1bmM802sOb0dIR-U7b6s17qIF6M_r9ELo",
+    "path": "Animal Nutrition/PPT and PDF/Unit 3"
+  },
+  {
+    "year": 2,
+    "id": "1FweeWEXCnnPTMvJFkoMvJJoHkRvuXuDl",
+    "path": "Animal Nutrition/PPT and PDF/Unit 4"
+  },
+  {
+    "year": 1,
+    "id": "1CE9J80wNOW7OB2ZUkU2qeCkL6CCML9GW",
+    "path": "LPM/Books"
+  },
+  {
+    "year": 2,
+    "id": "1Pdn83IXDlE8BXKylAiLfke27BdC3vQNw",
+    "path": "Biochemistry/PPT and PDF/Unit 2"
+  },
+  {
+    "year": 1,
+    "id": "1OzBH4X_EkuC-PjNNVnQoHpTNqmWhRgyk",
+    "path": "LPM/Internals"
+  },
+  {
+    "year": 2,
+    "id": "1uppeRPRDcJBgXAma3_sArBzO6y3asljc",
+    "path": "Biochemistry/PPT and PDF/Unit 3"
+  },
+  {
+    "year": 1,
+    "id": "1q3R8-RRHD5WYrDzGL_Db7a55qfN2RMEr",
+    "path": "LPM/Notes"
+  },
+  {
+    "year": 2,
+    "id": "1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+    "path": "Biochemistry/Practicals/Manual"
+  },
+  {
+    "year": 1,
+    "id": "1L0kLh9tg-twyLOI_iKLtAy-fLBkNRZWk",
+    "path": "LPM/PPTs"
+  },
+  {
+    "year": 2,
+    "id": "1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+    "path": "Biochemistry/Practicals/Practical Lecture"
+  },
+  {
+    "year": 1,
+    "id": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "path": "LPM/Practicals"
+  },
+  {
+    "year": 2,
+    "id": "1aU4kv0_PY1__xj_Qdakb0Bj0ajz5bNa0",
+    "path": "Genetics/PPT and PDF/Unit 1"
+  },
+  {
+    "year": 1,
+    "id": "1BKuOtcu9DBuhXllw64Ngw3K8l8Pjf-YC",
+    "path": "LPM/Previous QP"
+  },
+  {
+    "year": 2,
+    "id": "1kLOAE4pWoz8_Ba1D5EKwdDGKpJHqXNqi",
+    "path": "Genetics/PPT and PDF/Unit 2"
+  },
+  {
+    "year": 2,
+    "id": "1eNaEnKyiQ3QHHUSHw_T15sRZ43mceKHX",
+    "path": "Genetics/PPT and PDF/Unit 3"
+  },
+  {
+    "year": 1,
+    "id": "17NDuWouSuOKqSWzrWDRZ6dst3GtyyjBf",
+    "path": "LPM/Record"
+  },
+  {
+    "year": 2,
+    "id": "1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+    "path": "Genetics/Practicals/Practical Lecture"
+  },
+  {
+    "year": 1,
+    "id": "1G54fPrmCS3ujnr-7oWImpRK5Di7QI-Oa",
+    "path": "Physiology/Books"
+  },
+  {
+    "year": 2,
+    "id": "1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+    "path": "Genetics/Practicals/Practical Manual"
+  },
+  {
+    "year": 2,
+    "id": "1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+    "path": "Genetics/Practicals/Works"
+  },
+  {
+    "year": 1,
+    "id": "1PFRdu8Mj4EI11D7TDjt3dtpho7cAchub",
+    "path": "Physiology/Lecture Notes"
+  },
+  {
+    "year": 2,
+    "id": "1aiYn6wfiN_J-BzaRQK8Kpr12nGqtLHkl",
+    "path": "Microbiology/Media/SDS"
+  },
+  {
+    "year": 1,
+    "id": "1i7dvf0XmTkIL0xrwrg-44qWINarog0pT",
+    "path": "Physiology/Media"
+  },
+  {
+    "year": 2,
+    "id": "1rg8RZy7W0uTJ1QEiTHYnGuK_sOj8qPhk",
+    "path": "Microbiology/PPT/Bacteriology"
+  },
+  {
+    "year": 1,
+    "id": "1c_DYfYGS8jABIs9JxoH-8i09r3hYAwfx",
+    "path": "Physiology/Notes"
+  },
+  {
+    "year": 2,
+    "id": "1Inpr5F-E5tGOqm1R58qJHI4Vjf5Cb_Ri",
+    "path": "Microbiology/PPT/Mycology"
+  },
+  {
+    "year": 2,
+    "id": "1QUOVG2_ZVPQtyVthhvwR7aMKmqH58EAT",
+    "path": "Microbiology/PPT/Virology"
+  },
+  {
+    "year": 1,
+    "id": "1KwFXSmKmlo5os9nCibLVUFspm6JJ3Ulo",
+    "path": "Physiology/Objectives"
+  },
+  {
+    "year": 2,
+    "id": "13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+    "path": "Microbiology/Practicals/Practical Lecture"
+  },
+  {
+    "year": 1,
+    "id": "1f0_915Ift3_HZTAPAzlVAJ34_hPIQYdA",
+    "path": "Physiology/PPTs"
+  },
+  {
+    "year": 2,
+    "id": "1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+    "path": "Microbiology/Practicals/Practical Manual"
+  },
+  {
+    "year": 2,
+    "id": "1yVcsuq_NKpAs7kI4t93YpogxKK1l8Hcp",
+    "path": "Pathology/Media/Pics"
+  },
+  {
+    "year": 1,
+    "id": "1U1Do1mKmypSY7iMjU0xnNqYIfJkgKKq6",
+    "path": "Anatomy/Media/Angiology"
+  },
+  {
+    "year": 2,
+    "id": "1JFeLYQxY3udCKDfChjRyTRtE6E3F6O6e",
+    "path": "Pathology/PPT and PDF/Avian Pathology"
+  },
+  {
+    "year": 1,
+    "id": "1f9JbeK4mT8892ZKwMXnQ-MLAjcNZ5sUS",
+    "path": "Anatomy/Media/Embryology"
+  },
+  {
+    "year": 1,
+    "id": "1NcMQh2x_B-EmA_ZeXC8aWWak0zn-OTfh",
+    "path": "Anatomy/Media/Others"
+  },
+  {
+    "year": 1,
+    "id": "1q5UFFPnGngP8hXi9B0JifVNDPU-HRzkk",
+    "path": "Anatomy/PPTs/Aesthesiology"
+  },
+  {
+    "year": 2,
+    "id": "1H7uLvF9yAnCTf0tCWSyx0s7TXD2K9cLn",
+    "path": "Pathology/PPT and PDF/Clinical Pathology"
+  },
+  {
+    "year": 1,
+    "id": "17YftO-kKsGUs3l3K7oKUGEf42lF6UOhY",
+    "path": "Anatomy/PPTs/Angiology"
+  },
+  {
+    "year": 2,
+    "id": "1IhoJk9VqrF3sVP6ymieG5hShS0ARPF0c",
+    "path": "Pathology/PPT and PDF/General Pathology"
+  },
+  {
+    "year": 2,
+    "id": "1FDElmOhh5LuCR0NLE8YAas6Okoee7Uif",
+    "path": "Pathology/PPT and PDF/Lab Animal Pathology"
+  },
+  {
+    "year": 1,
+    "id": "1eGfKQBq1O5I7lXDoyVPzwanG1N32NVe1",
+    "path": "Anatomy/PPTs/Embryology"
+  },
+  {
+    "year": 2,
+    "id": "1q4ovb8oa0h8oacnSDa5jQHJD-YKX0qkD",
+    "path": "Pathology/PPT and PDF/Necropsy"
+  },
+  {
+    "year": 2,
+    "id": "1nhAtHL4IlsN_TFzGiYKsPZdg3uKCgqsF",
+    "path": "Pathology/PPT and PDF/Neoplasm"
+  },
+  {
+    "year": 2,
+    "id": "1ehH8B2YGNc3d6opVJ5y6tF4RQF4psej1",
+    "path": "Pathology/PPT and PDF/Special Pathology"
+  },
+  {
+    "year": 1,
+    "id": "1E8bTWITA9NAR35cHbQryH5kLmdlfIGo6",
+    "path": "Anatomy/PPTs/Histology"
+  },
+  {
+    "year": 2,
+    "id": "1N2jmMYYO0Crkya_Q1SljObUDSrmsUVsf",
+    "path": "Pathology/PPT and PDF/Systemic Pathology"
+  },
+  {
+    "year": 2,
+    "id": "19YXCWq1CGtUJIXoanfSC_6YAUJ8JkS4F",
+    "path": "Pathology/PPT and PDF/Wild Animal Pathology"
+  },
+  {
+    "year": 1,
+    "id": "1KvuATSzHCzF2VT5bpcsa-zJEtqEBhDXL",
+    "path": "Anatomy/PPTs/Myology"
+  },
+  {
+    "year": 2,
+    "id": "12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+    "path": "Pathology/Practicals/Practical Lecture"
+  },
+  {
+    "year": 1,
+    "id": "1KIwwScNu98QodcfNp8CUgbORdLKWovhd",
+    "path": "Anatomy/PPTs/Neurology"
+  },
+  {
+    "year": 2,
+    "id": "1A6rxLP0tVZJPELHMb47h1HrD81ERXsH1",
+    "path": "Pathology/PPT and PDF/Special Pathology/Bacterial Diseases"
+  },
+  {
+    "year": 1,
+    "id": "1Uy4lSyxb0Zbd5NEO9r9TTcdzSHXSzVlx",
+    "path": "Anatomy/PPTs/Osteology"
+  },
+  {
+    "year": 2,
+    "id": "1Eaq2bWTIneKTcduYw-NGWbQ1uzXtovio",
+    "path": "Pathology/PPT and PDF/Special Pathology/Fungal Diseases"
+  },
+  {
+    "year": 1,
+    "id": "1sgVPjOXRc-klsWydMNnmf9EjWRVmUk00",
+    "path": "Anatomy/PPTs/Splanchnology"
+  },
+  {
+    "year": 2,
+    "id": "1RWAwDRZDPGmdGKTt5a7jM-tb6uSSf35N",
+    "path": "Pathology/PPT and PDF/Special Pathology/Viral diseases"
+  },
+  {
+    "year": 2,
+    "id": "1Gp9ZH__d4DqnI2OPskMxCp-0XPt_D_SW",
+    "path": "Pathology/PPT and PDF/Systemic Pathology/Cardiovascular system"
+  },
+  {
+    "year": 1,
+    "id": "1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+    "path": "Anatomy/Practicals/PPTs"
+  },
+  {
+    "year": 2,
+    "id": "17FN0hbpKMcr7IlHEOEEEQh5ecmA6usIA",
+    "path": "Pathology/PPT and PDF/Systemic Pathology/Digestive system"
+  },
+  {
+    "year": 1,
+    "id": "1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+    "path": "Anatomy/Practicals/Practical Exams"
+  },
+  {
+    "year": 2,
+    "id": "1RgbiUe0mfuIlZbOEfVbevS5JHyIlMsJM",
+    "path": "Pathology/PPT and PDF/Systemic Pathology/Reproductive system"
+  },
+  {
+    "year": 1,
+    "id": "1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+    "path": "Anatomy/Practicals/Spotters"
+  },
+  {
+    "year": 1,
+    "id": "18ZlMiJ8WwGxbBwo3UhP_iQDtoFathnbG",
+    "path": "LPM/Notes/Cattle and Buffalo"
+  },
+  {
+    "year": 3,
+    "id": "1u1HaIPxbTPI7tlu6iVt6T0gh5H4oNDFS",
+    "path": ""
+  },
+  {
+    "year": 1,
+    "id": "1zBiNZFD6_AySv_6jeok_A89eGNgQ9IkA",
+    "path": "LPM/Notes/Fodder"
+  },
+  {
+    "year": 3,
+    "id": "1gswKmepcvQZtavlsbE1ZzjMqbkFUqY7P",
+    "path": "Animal Husbandry and Extension"
+  },
+  {
+    "year": 1,
+    "id": "1AMQ7opnuI0_X_Nef7Ny4HmsTf1OcfNuV",
+    "path": "LPM/Notes/Lab Animals"
+  },
+  {
+    "year": 1,
+    "id": "1HOckjm3jwkLXampJF3iCHWC3a8_L2pS7",
+    "path": "LPM/Notes/Poultry"
+  },
+  {
+    "year": 3,
+    "id": "1-hTf8lSqyETorDsWIH_J2mfNQRk7VjAy",
+    "path": "Board Questions"
+  },
+  {
+    "year": 1,
+    "id": "1UboNb1JDDJhmz--q7-dMUUA4CfqK_TCS",
+    "path": "LPM/Notes/Sheep and Goat"
+  },
+  {
+    "year": 3,
+    "id": "1QHMv6YnCDx2jBhcHxBqaZku90GBtvczi",
+    "path": "Internals"
+  },
+  {
+    "year": 1,
+    "id": "1YvLgaWnEopNcKc75Kc28O5TKs1WU8RcY",
+    "path": "LPM/PPTs/Fodder"
+  },
+  {
+    "year": 3,
+    "id": "1TitOCESUDN7T_FnGkoe9wGQhafLYbzSC",
+    "path": "LFP"
+  },
+  {
+    "year": 1,
+    "id": "1ziV8LN-bjZIyRksPr2a663ifnU3auKvu",
+    "path": "LPM/PPTs/Lab Animals"
+  },
+  {
+    "year": 1,
+    "id": "1u3bbHM6dLx27DkouI6pPMH1-xHoQ1Au2",
+    "path": "LPM/PPTs/Pet Animals"
+  },
+  {
+    "year": 3,
+    "id": "1iy4dtpyGEZJBGkQrzTtR5VvuYYx50fpn",
+    "path": "Livestock Products Technology (LPT)"
+  },
+  {
+    "year": 1,
+    "id": "18sU4I5MlrXtG1c7me1bh8Y2mkxaz-oC2",
+    "path": "LPM/PPTs/Pig"
+  },
+  {
+    "year": 1,
+    "id": "10tOkOcug-4T7lPp--Ke0ZU9w51EIVoTp",
+    "path": "LPM/PPTs/Poultry"
+  },
+  {
+    "year": 1,
+    "id": "1QciXmXpY8bn0ejSMzJqJxGaSVDa9Ojgv",
+    "path": "LPM/PPTs/Sheep and Goat"
+  },
+  {
+    "year": 3,
+    "id": "1BsmbZjo7f9yg-ZfWQyLC_afrbIG0V5zP",
+    "path": "Parasitology"
+  },
+  {
+    "year": 1,
+    "id": "1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+    "path": "LPM/Practicals/Charts"
+  },
+  {
+    "year": 3,
+    "id": "1aP4UAzohuPoLDT-IUy8QJmgp9WfhdQXP",
+    "path": "Pharmacology"
+  },
+  {
+    "year": 1,
+    "id": "126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+    "path": "LPM/Practicals/Kennel Club of India"
+  },
+  {
+    "year": 3,
+    "id": "1CBb85dK6Th6WNqDA4bf3RQHvF0QRRuBd",
+    "path": "Public Health & Epidemiology"
+  },
+  {
+    "year": 1,
+    "id": "1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+    "path": "LPM/Practicals/Spotters"
+  },
+  {
+    "year": 3,
+    "id": "1WZLOm6g9OMKZ-_z5CYNR0jyC22mMJvU1",
+    "path": "Ward"
+  },
+  {
+    "year": 1,
+    "id": "1o3cdiEdc1dacSCJ-tkzZTFl9aZdOqNOL",
+    "path": "Physiology/PPTs/Cardiovascular System"
+  },
+  {
+    "year": 1,
+    "id": "1JwC_sMhCeLfMAQQr-5p1ZeSmaWBcyWAT",
+    "path": "Physiology/PPTs/Digestive System"
+  },
+  {
+    "year": 3,
+    "id": "1LrB7RJKNkhtbAoUBiIS9Uarq6fPmfu6R",
+    "path": "Animal Husbandry and Extension/Books"
+  },
+  {
+    "year": 1,
+    "id": "1vm_Gg9UzFBytuJ1bQYVS_f7_AEYfu83m",
+    "path": "Physiology/PPTs/Endocrinology"
+  },
+  {
+    "year": 3,
+    "id": "15H63PMj4M7zsSupclHlmAJ0YOCLxiCoY",
+    "path": "Animal Husbandry and Extension/Lecture Notes"
+  },
+  {
+    "year": 1,
+    "id": "1gmpq7feZjPftZqJrAjnjFXJZ2U4x249S",
+    "path": "Physiology/PPTs/Muscloskeletal System"
+  },
+  {
+    "year": 3,
+    "id": "1ATgF25xvukYq4bJuP66_DeiUS-W9VDGL",
+    "path": "Animal Husbandry and Extension/Media Extension"
+  },
+  {
+    "year": 1,
+    "id": "1G3ao1Kffzee38a7O1487x0m-Moi-qJOM",
+    "path": "Physiology/PPTs/Nervous System"
+  },
+  {
+    "year": 1,
+    "id": "1FLvVL2f1YJYvNi6bM9dFzFs2XmFb24Hw",
+    "path": "Physiology/PPTs/Reproductive System"
+  },
+  {
+    "year": 3,
+    "id": "104hsnb6oZCRpNFIyv260oVRn45eIiaTD",
+    "path": "Animal Husbandry and Extension/Notes"
+  },
+  {
+    "year": 1,
+    "id": "1vqXlDecpy3RGOaxf6BaHStIZrM5H7ChO",
+    "path": "Physiology/PPTs/Respiratory System"
+  },
+  {
+    "year": 3,
+    "id": "1ebZs6opsF6G5iIg6QvyvwPFnKuNxduw5",
+    "path": "Animal Husbandry and Extension/Others"
+  },
+  {
+    "year": 1,
+    "id": "1aIwWu0j9UdjqOs5JUVlugxvydqd4cOxq",
+    "path": "Physiology/PPTs/Special Senses"
+  },
+  {
+    "year": 1,
+    "id": "1lsHp3VQInyMlLWv5PtolNQ_BBn0xSkr_",
+    "path": "Physiology/PPTs/Urinary System"
+  },
+  {
+    "year": 1,
+    "id": "1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+    "path": "Anatomy/Practicals/Spotters/Histology Photos"
+  },
+  {
+    "year": 3,
+    "id": "1BrdZNK3Ug7f3KfZgryfIB0svuWabKXLX",
+    "path": "Animal Husbandry and Extension/PPT & PDF"
+  },
+  {
+    "year": 3,
+    "id": "1-uJQ_NqpsgfKhPYklyKQw-bflZewA0Rz",
+    "path": "Board Questions/Subjective"
+  },
+  {
+    "year": 1,
+    "id": "1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+    "path": "LPM/Practicals/Spotters/Photos"
+  },
+  {
+    "year": 3,
+    "id": "1pRagL5Ybi-nsc7e-KZwcIjlfJwPCpe1m",
+    "path": "Internals/First Internal"
+  },
+  {
+    "year": 4,
+    "id": "11z4OHfm9OCQvpfekbgOMQGwHj2E5hva5",
+    "path": ""
+  },
+  {
+    "year": 3,
+    "id": "13EznFsiCjZNaw6F1selgZd7riyfI84sv",
+    "path": "LFP/Media LFP"
+  },
+  {
+    "year": 4,
+    "id": "1H4s0e9T9c8W4wKje407tmc8Y4El8BSW1",
+    "path": "Medicine"
+  },
+  {
+    "year": 3,
+    "id": "1ZqcSDUNpZC1JujsB0TD9BYxyLyEkGREz",
+    "path": "Livestock Products Technology (LPT)/Assignments"
+  },
+  {
+    "year": 3,
+    "id": "1g45_98EICdI0q_GczAOoQCsYcRO1ZTMx",
+    "path": "Livestock Products Technology (LPT)/Books"
+  },
+  {
+    "year": 4,
+    "id": "1gv4-6FCnT5K-F-C1t1a7Pj-Ebbu1K_zW",
+    "path": "OG"
+  },
+  {
+    "year": 3,
+    "id": "1AjucitgBDdmpCU8-QpqbTCCHwtP4Sdmh",
+    "path": "Livestock Products Technology (LPT)/Lecture Notes"
+  },
+  {
+    "year": 4,
+    "id": "1Vxq1DlyFt2joyrL56FXjPibZzQobcKru",
+    "path": "Question Papers"
+  },
+  {
+    "year": 4,
+    "id": "1juVNFLv0S0UMq056KlzSchcIKsMMX-Bn",
+    "path": "Surgery"
+  },
+  {
+    "year": 3,
+    "id": "1ctrkSuBYFMJFokWeWcZ4MU2wdy4hisdr",
+    "path": "Livestock Products Technology (LPT)/Media LPT"
+  },
+  {
+    "year": 3,
+    "id": "1sPPZW2tKa96U31rdePT3KCc44Z3W_CPc",
+    "path": "Livestock Products Technology (LPT)/Notes"
+  },
+  {
+    "year": 4,
+    "id": "1GykRb7EWrNaNA3ypk3sHMblD72dg11Kt",
+    "path": "Medicine/Books"
+  },
+  {
+    "year": 3,
+    "id": "1dAJi80aBvhrtUJT8KZeQ8pEIL4Aj8ofp",
+    "path": "Livestock Products Technology (LPT)/Others"
+  },
+  {
+    "year": 3,
+    "id": "1b_H59_enj-7-kmOWdokksngQGS5QCKnH",
+    "path": "Livestock Products Technology (LPT)/PPT & PDF"
+  },
+  {
+    "year": 3,
+    "id": "1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+    "path": "Livestock Products Technology (LPT)/Practicals"
+  },
+  {
+    "year": 4,
+    "id": "1--NVAefPkHohIyE1BffUwrHyd-DQbIcX",
+    "path": "Medicine/Lecture Notes"
+  },
+  {
+    "year": 3,
+    "id": "1szbqDenRoVtbp9Y-y4ini81gyFqk4vkZ",
+    "path": "Parasitology/Books"
+  },
+  {
+    "year": 4,
+    "id": "1XZzcO0j1LJpDYjScYef-98xl04oLmcPf",
+    "path": "Medicine/Media Medicine"
+  },
+  {
+    "year": 3,
+    "id": "1b09e4-Qt4W1xcC2sDSYXZHsIkgjqnQg-",
+    "path": "Parasitology/Lecture Notes"
+  },
+  {
+    "year": 4,
+    "id": "1dY_01lmlIJ6H69Uc_RqJrneZ5syRW7fs",
+    "path": "Medicine/Notes"
+  },
+  {
+    "year": 3,
+    "id": "1WpY6XVCu4g-NM_wWDhU2q5WfRw4-hpOe",
+    "path": "Parasitology/Media Parasitology"
+  },
+  {
+    "year": 4,
+    "id": "1-fodt49L7KGG5rMdQZ6W8AMWriqBxIGg",
+    "path": "Medicine/Others"
+  },
+  {
+    "year": 4,
+    "id": "1HbikkNnD0HNoJ-ks5PltffM5y-AZFRLO",
+    "path": "Medicine/PPT & PDFs"
+  },
+  {
+    "year": 3,
+    "id": "1qKqfl3ETv5vUa-laEMMvaB_OG0KddJHc",
+    "path": "Parasitology/Notes"
+  },
+  {
+    "year": 4,
+    "id": "1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "path": "Medicine/Practicals"
+  },
+  {
+    "year": 3,
+    "id": "1l4FhrqRVOxOtgBDY0V5valwWPGDx273v",
+    "path": "Parasitology/Others"
+  },
+  {
+    "year": 4,
+    "id": "1dmFwqXeSX6-1lAVzN63qIrOJX1KSNtxR",
+    "path": "Medicine/Wildlife"
+  },
+  {
+    "year": 3,
+    "id": "1_0KYIAbQCP4tuQhuv_cU0agZ6L3Y03t_",
+    "path": "Parasitology/PPT & PDF"
+  },
+  {
+    "year": 4,
+    "id": "1SRKrWB9SFDOzQtDawFGdHCvA9p7E7ER7",
+    "path": "OG/Books"
+  },
+  {
+    "year": 3,
+    "id": "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "path": "Parasitology/Practicals"
+  },
+  {
+    "year": 3,
+    "id": "1oJepHs2Yj7vKAs__xlROVsq3jYLUE63s",
+    "path": "Parasitology/Question Papers"
+  },
+  {
+    "year": 3,
+    "id": "1J9H50LMzdBrjtjxN5U0rCDeNOKLJg962",
+    "path": "Pharmacology/Books"
+  },
+  {
+    "year": 4,
+    "id": "1VLguRH4HRHhfaEHPvOawIvC3vA_Jw_13",
+    "path": "OG/Lecture Notes"
+  },
+  {
+    "year": 3,
+    "id": "1han63KdyuYkZIVO8BDdb2FDag4nce7sA",
+    "path": "Pharmacology/Lecture Slides"
+  },
+  {
+    "year": 4,
+    "id": "1skVQlc5Rgw78U9tbr59FsLdKQya9MRFR",
+    "path": "OG/Media OG"
+  },
+  {
+    "year": 4,
+    "id": "17zCkQvOGmybXofvJuu0o6IoPFvQQzkgg",
+    "path": "OG/Notes"
+  },
+  {
+    "year": 3,
+    "id": "1KofjLCy_ntOPCZjGD5f3MA8HAryUBp4N",
+    "path": "Pharmacology/Media Pharmacology"
+  },
+  {
+    "year": 4,
+    "id": "187NKXc9xsTX1-MKL25XNB7IwhfnOZTiu",
+    "path": "OG/Others"
+  },
+  {
+    "year": 3,
+    "id": "1avw7lnKxTuclzohMc1zttsuf4-RVNTJj",
+    "path": "Pharmacology/Notes"
+  },
+  {
+    "year": 4,
+    "id": "1gKNgvelnYhhrB7tB6nCJaAdOWWwHUS1j",
+    "path": "OG/PPT & PDFs"
+  },
+  {
+    "year": 3,
+    "id": "1oI3C5DkVwqyTVUCeai6EIv4sT9VGJVzT",
+    "path": "Pharmacology/Others"
+  },
+  {
+    "year": 4,
+    "id": "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "path": "OG/Practicals"
+  },
+  {
+    "year": 4,
+    "id": "1P-l_mt-7_LSaowECLhAeEHMa0si6yt_I",
+    "path": "Surgery/Books"
+  },
+  {
+    "year": 3,
+    "id": "1guBDxh6FF_21dyYNvrhUMnxb5a14R9z3",
+    "path": "Pharmacology/PPT & PDF"
+  },
+  {
+    "year": 3,
+    "id": "18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+    "path": "Pharmacology/Practicals"
+  },
+  {
+    "year": 4,
+    "id": "1P6VRyD9kEQKapRZR3jyC3xVcVJO9J65t",
+    "path": "Surgery/Lecture Notes"
+  },
+  {
+    "year": 3,
+    "id": "1PJ9sUCi3feDioNLM6DT3biIvl3Quf3oC",
+    "path": "Public Health & Epidemiology/Books"
+  },
+  {
+    "year": 4,
+    "id": "1IRM5IVr0SugIq-n05dh8F63lBjg_R89c",
+    "path": "Surgery/Media Surgery"
+  },
+  {
+    "year": 4,
+    "id": "14M7XRG8I5-8-5DdKCOhm9WA-ZyDeQUmE",
+    "path": "Surgery/Notes"
+  },
+  {
+    "year": 3,
+    "id": "16Lzg2xJAAx4oA1nC32sCvT68UYMkdpXA",
+    "path": "Public Health & Epidemiology/Lecture Notes"
+  },
+  {
+    "year": 4,
+    "id": "1PvPsrZ8AVc0Wn9FubqHc3FVUlKwVUhow",
+    "path": "Surgery/Others"
+  },
+  {
+    "year": 3,
+    "id": "1EkzDAN2NJyiqqBL3bhgGvBVwMynUKE8L",
+    "path": "Public Health & Epidemiology/Media Public Health"
+  },
+  {
+    "year": 4,
+    "id": "1BCuJPXEtPBWW5nNNJVvDApRSKZlt4zp9",
+    "path": "Surgery/PPTs"
+  },
+  {
+    "year": 3,
+    "id": "1K3l9qUeWQOpEcWO5RehKBzZi8IE_LwWQ",
+    "path": "Public Health & Epidemiology/Notes"
+  },
+  {
+    "year": 4,
+    "id": "1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "path": "Surgery/Practicals"
+  },
+  {
+    "year": 3,
+    "id": "1MYqyGLXUiS8YI_CkOF3rhumGnMci74Z2",
+    "path": "Public Health & Epidemiology/Others"
+  },
+  {
+    "year": 4,
+    "id": "1wz5i4bLp9Ac3gtHscPUJC7HrQodLqVkM",
+    "path": "Medicine/Media Medicine/Spotters Medicine"
+  },
+  {
+    "year": 3,
+    "id": "1d8d5ndnqSOA4kt34vC4oNCU77BiW4Dss",
+    "path": "Public Health & Epidemiology/PPT & PDF"
+  },
+  {
+    "year": 4,
+    "id": "1d5jyQCrCq-WdhaYfuSkZJMIr76ZE76N1",
+    "path": "Medicine/PPT & PDFs/Animal ethics"
+  },
+  {
+    "year": 3,
+    "id": "1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+    "path": "Public Health & Epidemiology/Practicals"
+  },
+  {
+    "year": 4,
+    "id": "1RrnJtvAmSsnvOJyJnE2VfdzmNJw3RW6N",
+    "path": "Medicine/PPT & PDFs/Bacterial diseases"
+  },
+  {
+    "year": 3,
+    "id": "17EqZOQs-w7AvhXSnuX5V0vpWdCREwd1o",
+    "path": "Public Health & Epidemiology/Question Papers"
+  },
+  {
+    "year": 4,
+    "id": "1Ytwq-_nvOI9BLCbNZhqxwOAjneeabyd5",
+    "path": "Medicine/PPT & PDFs/General medicine"
+  },
+  {
+    "year": 3,
+    "id": "1XHPK6sZUHxfXekUBfLfm4REe4TJP2u-o",
+    "path": "Ward/Media Ward"
+  },
+  {
+    "year": 4,
+    "id": "1wmB3B0yfD17CS2Yv4f0iQI2a8jDQJHnZ",
+    "path": "Medicine/PPT & PDFs/Metabolic & Deficiency disorders"
+  },
+  {
+    "year": 3,
+    "id": "1dkDRWEmRMOpxzkejVAXB98dXTSSYGFO3",
+    "path": "Animal Husbandry and Extension/Others/Works"
+  },
+  {
+    "year": 3,
+    "id": "14gHoCfvVT9TvKHs7Z1-75NddPFPdq-P8",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 2"
+  },
+  {
+    "year": 3,
+    "id": "10vpaUDlFeepcH8V95wsMYBLutkSOKeB1",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 3"
+  },
+  {
+    "year": 3,
+    "id": "1g7CIdeu7EqI2xinuTANnR6JdjV8dqN0v",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 4"
+  },
+  {
+    "year": 3,
+    "id": "1GzUi1b6N89OZtchwBRN1npVz6gsoCio0",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 5"
+  },
+  {
+    "year": 3,
+    "id": "1YuLfO43IYnzfYo913wBB_PPGEfYE-IcD",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 6"
+  },
+  {
+    "year": 4,
+    "id": "1bNDs8xjFVGc4dnDFgYEWwIwbk-QflM1h",
+    "path": "Medicine/PPT & PDFs/Others"
+  },
+  {
+    "year": 3,
+    "id": "1ONBB4bbMJ5TQ66MjqcCCa3gznMiAqk0_",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 7"
+  },
+  {
+    "year": 3,
+    "id": "1PMKvSk5cEb0bNggVrvLbL8FhR30tihIf",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 8"
+  },
+  {
+    "year": 3,
+    "id": "1IZOKihduYoFGuvl-q0ASySqgP9bjo1F7",
+    "path": "Animal Husbandry and Extension/PPT & PDF/Unit 9"
+  },
+  {
+    "year": 4,
+    "id": "1KmdgjalfE6y8vh4FClZunNPvUId2ty1W",
+    "path": "Medicine/PPT & PDFs/Systemic diseases"
+  },
+  {
+    "year": 4,
+    "id": "1oF_-aI-PvJ7V2SYVG71SRUcFs4uDexNf",
+    "path": "Medicine/PPT & PDFs/Viral and parasitic diseases"
+  },
+  {
+    "year": 4,
+    "id": "1w8gNcWDjs1tJU8H6E_Lxp3QAPeR4wTye",
+    "path": "Medicine/PPT & PDFs/Wildlife"
+  },
+  {
+    "year": 4,
+    "id": "1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+    "path": "Medicine/Practicals/Manual"
+  },
+  {
+    "year": 3,
+    "id": "1EMvrBD387hEnCZofq-Uhv9ctWNRiOeOb",
+    "path": "Livestock Products Technology (LPT)/Lecture Notes/Meat Science"
+  },
+  {
+    "year": 4,
+    "id": "1HQzA5nCfy5HkfXTV3eGwVIDrdKqB-fSg",
+    "path": "Medicine/Wildlife/GRZIMEK"
+  },
+  {
+    "year": 3,
+    "id": "1sT2YRmp9lY6rgwQqxvi29t6cUkc8O1dE",
+    "path": "Livestock Products Technology (LPT)/PPT & PDF/Meat Science"
+  },
+  {
+    "year": 4,
+    "id": "1ArfRZA8pLwnjce87kkYPYWnwO9U6dy_e",
+    "path": "OG/Lecture Notes/Andrology"
+  },
+  {
+    "year": 3,
+    "id": "1irurauimLNj6-474t2henAdaBHhQn0q-",
+    "path": "Livestock Products Technology (LPT)/PPT & PDF/Milk & Milk products"
+  },
+  {
+    "year": 4,
+    "id": "1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+    "path": "OG/Practicals/Manual"
+  },
+  {
+    "year": 3,
+    "id": "1us8_qrd9EJDhvp8YqXx9xJCYr4ug4qyQ",
+    "path": "Livestock Products Technology (LPT)/PPT & PDF/Wool"
+  },
+  {
+    "year": 4,
+    "id": "1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+    "path": "OG/Practicals/OG record"
+  },
+  {
+    "year": 4,
+    "id": "14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+    "path": "OG/Practicals/PPT"
+  },
+  {
+    "year": 3,
+    "id": "1M65aq51lJzpMgNGiCaRBjxGHhzr3bmBI",
+    "path": "Parasitology/Others/Works"
+  },
+  {
+    "year": 3,
+    "id": "15e-NVr9SJKy9NnTpAcOUNhwmmB_DR8Kw",
+    "path": "Parasitology/PPT & PDF/Arthropods"
+  },
+  {
+    "year": 3,
+    "id": "1d-3PzHi51NHVX2lb5ElxkJgig4KrK6FP",
+    "path": "Parasitology/PPT & PDF/Cestodes"
+  },
+  {
+    "year": 3,
+    "id": "1FHZIkJ4wcfa9fBBtmFCeEWyD8-ierZxa",
+    "path": "Parasitology/PPT & PDF/Entomology"
+  },
+  {
+    "year": 4,
+    "id": "1edaA6feCbfOj5IPSewO1v5MkzattRL_0",
+    "path": "Surgery/Media Surgery/Instruments"
+  },
+  {
+    "year": 3,
+    "id": "1bWmhUTo9u1WhTElrBcFzn2FC9STJVoC0",
+    "path": "Parasitology/PPT & PDF/General"
+  },
+  {
+    "year": 4,
+    "id": "1XAETGWk86KuD45eyV03AP1k8J5hG-8FE",
+    "path": "Surgery/Media Surgery/Orthopedic instruments"
+  },
+  {
+    "year": 3,
+    "id": "1ha8I5Jn0gxyTHtr7pEAXJ0hMqAGaXxGB",
+    "path": "Parasitology/PPT & PDF/Nematodes"
+  },
+  {
+    "year": 4,
+    "id": "16OSuXzX8U_C_AhU4_YLWRI5Y4zoZEX7P",
+    "path": "Surgery/PPTs/Anaesthesiology"
+  },
+  {
+    "year": 3,
+    "id": "1xyGcnG0-J0jLXz0soCZfUVlEoCWtW70e",
+    "path": "Parasitology/PPT & PDF/Protozoology"
+  },
+  {
+    "year": 4,
+    "id": "1LktVheEMGPzxrhgMKstw5o0eB1mSuF3Y",
+    "path": "Surgery/PPTs/Lameness"
+  },
+  {
+    "year": 3,
+    "id": "1bnI-k97jf_JSF8mbkHRX4XjsyhG_sDnG",
+    "path": "Parasitology/PPT & PDF/Trematodes"
+  },
+  {
+    "year": 4,
+    "id": "1pmZiSsRD7wo2sEfq6-eqC4T_0_GHkSuv",
+    "path": "Surgery/PPTs/Orthopedics"
+  },
+  {
+    "year": 3,
+    "id": "16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+    "path": "Parasitology/Practicals/Parasitology Spotters Paper 1"
+  },
+  {
+    "year": 4,
+    "id": "1w0mxZmwRP6IdL7qJsfJ3wUERgku0NUcf",
+    "path": "Surgery/PPTs/Presentations"
+  },
+  {
+    "year": 3,
+    "id": "1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+    "path": "Parasitology/Practicals/PPT"
+  },
+  {
+    "year": 4,
+    "id": "1yG8WinEUOzEtVvNVvqxjxg7CDznhisqD",
+    "path": "Surgery/PPTs/Radiology"
+  },
+  {
+    "year": 4,
+    "id": "1V0XOx1wN-3IQbeutI4Uug5-3n67eg-BK",
+    "path": "Surgery/PPTs/Regional Surgery"
+  },
+  {
+    "year": 4,
+    "id": "17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+    "path": "Surgery/Practicals/Manual"
+  },
+  {
+    "year": 3,
+    "id": "1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+    "path": "Parasitology/Practicals/Spotters"
+  },
+  {
+    "year": 4,
+    "id": "1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+    "path": "Medicine/Practicals/Manual/Wild Animal"
+  },
+  {
+    "year": 4,
+    "id": "17t2oTpdqjPLlvp2ZFUTm511HGEnyktSN",
+    "path": "Surgery/PPTs/Regional Surgery/Regional Surgery I"
+  },
+  {
+    "year": 3,
+    "id": "10c4glunYVay14D5JyGttVyeaciJR_H-Y",
+    "path": "Pharmacology/Others/1 mark"
+  },
+  {
+    "year": 3,
+    "id": "1ConFPD5e5rQ3IcnluVACEr09ZKEuv7KL",
+    "path": "Pharmacology/PPT & PDF/Autacoids and Anti-inflammatory"
+  },
+  {
+    "year": 4,
+    "id": "1L_MPgY6J0KMIi6q5L_B27F0yeYMdnvXV",
+    "path": "Surgery/PPTs/Regional Surgery/Regional Surgery II"
+  },
+  {
+    "year": 3,
+    "id": "19eTEsefcWXqErDuGCNqrp0uifDjBJsxz",
+    "path": "Pharmacology/PPT & PDF/Autonomic Nervous System"
+  },
+  {
+    "year": 3,
+    "id": "1VSj4itYRTeQs_QV0FY5jHieeRw8-rZk5",
+    "path": "Pharmacology/PPT & PDF/Cardiovascular System"
+  },
+  {
+    "year": 3,
+    "id": "1P2lu0oGDY5QD-kw4Cl37p34TxGCmsWRo",
+    "path": "Pharmacology/PPT & PDF/Central Nervous System"
+  },
+  {
+    "year": 3,
+    "id": "11moK1_Wj_tk2bc11EMCJbMUdnKoNh7lg",
+    "path": "Pharmacology/PPT & PDF/Chemotherapy"
+  },
+  {
+    "year": 3,
+    "id": "1pSF4JSLHFYud3xHc72apHOvOt5W7YO4-",
+    "path": "Pharmacology/PPT & PDF/Digestive System"
+  },
+  {
+    "year": 3,
+    "id": "1-dEt1GR4_07CRDZHm0mCTvL3J3QI_LaY",
+    "path": "Pharmacology/PPT & PDF/General Pharmacology"
+  },
+  {
+    "year": 3,
+    "id": "1oyaQi-ubbXlgvP6_hM3r5WtKrGBIZLVP",
+    "path": "Pharmacology/PPT & PDF/Renal System"
+  },
+  {
+    "year": 3,
+    "id": "1qp0CHgdT8uNgtHlfUS7zDeroxEb5vnS0",
+    "path": "Pharmacology/PPT & PDF/Reproductive System"
+  },
+  {
+    "year": 3,
+    "id": "1pj6d4R4CsfmQZzHj-0rvRG-e4g1_nsPo",
+    "path": "Pharmacology/PPT & PDF/Respiratory System"
+  },
+  {
+    "year": 3,
+    "id": "1YOsZAQkzygv8qvRbM-SS44LZmwdDl4Ex",
+    "path": "Pharmacology/PPT & PDF/Skin"
+  },
+  {
+    "year": 3,
+    "id": "1T8_ZhOIuss4RY51nY0snfS8FHoEqR3ut",
+    "path": "Pharmacology/PPT & PDF/Toxicology"
+  },
+  {
+    "year": 3,
+    "id": "1rjxKAe1qKCp43wGppbDUYuVlhiYOXCts",
+    "path": "Pharmacology/PPT & PDF/Vascular System"
+  },
+  {
+    "year": 3,
+    "id": "1VVjUcgBOMR8pWmR-GoduIyNGVVfOisTQ",
+    "path": "Public Health & Epidemiology/PPT & PDF/Unit-1 Public Health and Food Safety"
+  },
+  {
+    "year": 3,
+    "id": "1hS742DtXsTJCokH5t9K2xFFx5_4-VvOn",
+    "path": "Public Health & Epidemiology/PPT & PDF/Unit-4 Environmental Hygiene"
+  },
+  {
+    "year": 3,
+    "id": "1KGZ24eUEi4T7QMKC5Fqgb9dcv5qT9xKN",
+    "path": "Public Health & Epidemiology/PPT & PDF/Zoonosis"
+  },
+  {
+    "year": 3,
+    "id": "1BeSmxQWYampR0Gx3VYa4lxBMwMOC_vzW",
+    "path": "Animal Husbandry and Extension/Others/Works/Media"
+  },
+  {
+    "year": 3,
+    "id": "1xhPzR4_kCq5gPiQGh3G1OUPP7ZCpnKzo",
+    "path": "Pharmacology/PPT & PDF/General Pharmacology/Scanned"
+  }
+]
