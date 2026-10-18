@@ -1,56 +1,130 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Resources
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Books & Notes
 
-# 3rd Year Resources
+# 3rd Year Books & Notes
 
-Unit-wise notes and subject reading guides for 3rd Year BVSc & AH. Choose a subject to find your next read.
+3rd Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
 
-7 subjects · 180 resources
+7 subjects · 180 notes
 
-[
+Books are reading recommendations. Choose your department’s prescribed edition.
 
 ## Veterinary Pharmacology and Toxicology
 
-27 notes · 6 units
+27 notes
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[
+### Books
+
+- 
+Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
+- Revisit General pharmacology and pharmacokinetics, Systemic pharmacology, then test your recall without the notes.
+
+Main character energy. Side quest: finish Pharmacology.
 
 ## Veterinary Parasitology
 
-47 notes · 5 units
+47 notes
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[
+### Books
+
+- 
+Veterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. Wall (4th edition)
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-parasitology)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
+- Revisit Helminthology, Veterinary protozoology, then test your recall without the notes.
 
 ## Veterinary Public Health and Epidemiology
 
-35 notes · 4 units
+35 notes
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[
+### Books
+
+- 
+Veterinary EpidemiologyMichael Thrusfield and Robert Christley
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-public-health-and-epidemiology)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+- Revisit Zoonoses and One Health, Food safety and hygiene, then test your recall without the notes.
 
 ## Livestock Products Technology
 
-46 notes · 4 units
+46 notes
 
-](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[
+### Books
+
+- 
+Outlines of Dairy TechnologySukumar De
+- 
+Meat and Meat Products TechnologyB. D. Sharma
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-products-technology)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
+- Revisit Milk processing and dairy products, Meat science and meat products, then test your recall without the notes.
 
 ## Veterinary and Animal Husbandry Extension Education
 
-23 notes · 8 units
+23 notes
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[
+### Books
+
+- 
+Textbook of Animal Husbandry and Livestock ExtensionP. Mathialagan
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-and-animal-husbandry-extension-education)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Match the communication method to the audience and explain how you would assess whether the advice was understood.
+- Revisit Extension principles and teaching methods, Rural sociology and communication, then test your recall without the notes.
 
 ## Veterinary Clinical Practices I
 
-1 note · 1 units
+1 note
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[
+### Books
+
+No book recommendation listed yet. Check your department’s prescribed practical manual.
+
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-clinical-practices-i)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
+- Revisit History taking and clinical examination, Animal handling and hospital routines, then test your recall without the notes.
 
 ## Livestock Farm Practices
 
-1 note · 1 units
+1 note
 
-](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)[Best Books for 3rd Year ](https://notes.thatvetguy.net/bvsc/year-3/books/)
+### Books
+
+No book recommendation listed yet. Check your department’s prescribed practical manual.
+
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-farm-practices)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
+- Revisit Routine animal care and handling, Feeding and housing observations, then test your recall without the notes.
 
 3rd Year Road Map 
 
