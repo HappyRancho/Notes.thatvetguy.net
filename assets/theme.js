@@ -1,2 +1,2 @@
-/* Runs before CSS: avoid a wrong-theme flash, tolerate disabled storage. */
-(()=>{const root=document.documentElement;root.classList.add('js','js-pending');let saved;try{saved=localStorage.getItem('tvg-theme')}catch{}const dark=matchMedia('(prefers-color-scheme: dark)').matches;if(saved==='light'||saved==='dark')root.dataset.theme=saved;const active=saved==='light'||saved==='dark'?saved:dark?'dark':'light';document.querySelectorAll('meta[name="theme-color"]').forEach(meta=>{meta.content=active==='dark'?'#14110d':'#fffaf2';meta.removeAttribute('media')})})();
+/* Apply a saved preference before first paint; leave both media metadata tags intact. */
+(()=>{document.documentElement.classList.add('js');try{const value=localStorage.getItem('tvg-theme');if(['light','dark'].includes(value))document.documentElement.dataset.theme=value}catch{}})();

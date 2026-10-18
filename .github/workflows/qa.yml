@@ -1,5 +1,9 @@
 name: Site QA
-on: [push, pull_request, workflow_dispatch]
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
 concurrency:
   group: site-qa-${{ github.ref }}
   cancel-in-progress: true

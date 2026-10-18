@@ -1,0 +1,77 @@
+name: Study Clinic QA and static output
+on:
+  push:
+    branches: [task3-study-clinic]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: study-clinic-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  after:
+    if: "!contains(github.event.head_commit.message, '[generated]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install fonttools brotli pillow
+      - run: python3 scripts/prepare-fonts.py && python3 scripts/social-cards.py
+      - run: npm install && npx playwright install --with-deps chromium
+      - run: npm run build && npm run check
+      - name: Commit reproducible output to review branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html index.md 404.html 404/ bvsc/ objective/ clinical/ study-tools/ search/ about/ request-resource/ assets/fonts/ assets/social/ data/resources.json data/catalogue.json data/duplicates-report.json assets/catalogue.json search-index.json build-info.json robots.txt sitemap.xml llms.txt llms-full.txt _redirects docs/qa/task3/contrast.json docs/qa/task3/counts.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Task 3 — render cleaned catalogue, pages and self-hosted fonts [generated]'
+            git push origin HEAD:task3-study-clinic
+          fi
+      - run: npm run qa -- after
+      - name: Diagnose production hosts
+        if: always()
+        run: python3 scripts/task3-hosting.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: task3-after
+          path: docs/qa/task3/
+  before:
+    if: "!contains(github.event.head_commit.message, '[generated]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install && npx playwright install --with-deps chromium
+      - run: git worktree add /tmp/notes-task3-before da59182a57232e5fba1eb98e9899d63b1a77eac3
+      - run: npm run qa -- before
+        env:
+          QA_ROOT: /tmp/notes-task3-before
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: task3-before
+          path: docs/qa/task3/before/
+
+  hosting:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/task3-hosting.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: task3-hosting
+          path: docs/qa/task3/hosting.json
