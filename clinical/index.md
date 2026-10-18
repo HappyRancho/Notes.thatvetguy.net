@@ -12,20 +12,24 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 
 ## Handbooks
 
-[PDFHandbook of Veterinary Pharmacology-Walter H. Hsu-Wiley BlackwellVeterinary Pharmacology and Toxicology · Handbook](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE)
-[PDFClinical Handbook on Canine Dermatology 3rd EditionVeterinary Medicine · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot)
-[PDFColor handbook of Skin Diseases of Dog and CatVeterinary Medicine · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5)
-[PDFHandbook on Wild and Zoo AnimalsVeterinary Medicine · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1sp9r_CT4Y2PP2EsrLQOrHEigGgKwoPP1)
-[PDFBrinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsVeterinary Surgery and Radiology · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj)
+[Browse the Handbooks Collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
 ## Drug & Pharmacology notes
 
 Start with these topics, then explore the full subject.
 
-[DOCLocal Anaesthesia Class 33Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1WqO1ilvw_8WjpaVfc6JtIF2d-ogXccEX)
-[DOCOpioid Analagesics Class 32Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1HGx-CGVVBzGf_wtjJaOUJ2QKRECrDQWW)
-[DOCPsychotropic drugs Class 30Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1E6Z96_2fSRI0V2gBqUmL7PHyIkdomoMT)
-[DOCSkeletal Muscle Relaxants Class 34Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1rZRR7mQVe--My9kPvplzSZkBiZaQaI5H)[See all Pharmacology resources ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+[PDFFactors modifying Drug effect and DosageVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9)
+[PDFGeneral Pharmacology IntroductionVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1q4bdnC-rttiPMMyMbhf35ErKHy_SzGeT)
+[PDFGeneral Pharmacology NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-11XmEsBUWnEGqALvnKU8tTTl-NSCz4LgA)
+[PDFPharmacodynamicsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1UXt4V4WrRVh8Gx9zCuIbf4bujusggr0S)
+[PDFPharmacokineticsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-19t5npwxtScJNrAZlK_ArYtIxtMTVssXN)
+[PDFAutacoidsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ)
+[PDFDrugs Acting on ANS NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1HYkpdfCtZ-f_xUtq88BPzqmWokf9eC9i)
+[PDFDrugs acting on Autonomic Nervous SystemVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1VNcfppaa7YyTXWy6Dqt__K3Rf_2pSAsY)
+[PDFDrugs Acting on Autonomic Nervous System NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1WngNRKbPOJ6PoucchwftteGhfkCV7Orf)
+[PDFAnaleptics and other CNS StimulantsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i)
+[PDFDrugs Acting on Central Nervous System (CNS) NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-16MeShxNxmC3rxhwSlRnk4efycFjplHqh)
+[PDFHistory, Mechanism and Stages of AnaesthesiaVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1JRzK1TBW8enbryTfX6cSvTMhNMfzX_XO)[See all Pharmacology resources ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
 ## Go straight to the subject.
 

@@ -6,7 +6,7 @@ A free academic library for BVSc & AH students. Site summaries: Dr. Chirag Patid
 
 Main website: https://thatvetguy.net
 Author: Dr. Chirag Patidar
-Last source review: 2026-10-14. File access settings can change.
+Last source review: 2026-10-18. File access settings can change.
 
 ## Sections and subject guides
 
@@ -20,7 +20,7 @@ Last source review: 2026-10-14. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/index.md
 - [Livestock Production Management · 1st Year](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/): Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/index.md
-- [1st Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-1/): Notes, books and practical material for 1st Year BVSc & AH. Choose a subject to find your next read.
+- [1st Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-1/): Unit-wise notes and subject reading guides for 1st Year BVSc & AH. Choose a subject to find your next read.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/index.md
 - [Veterinary Biochemistry · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/): Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/index.md
@@ -32,7 +32,7 @@ Last source review: 2026-10-14. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/index.md
 - [Animal Nutrition · 2nd Year](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/): Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/index.md
-- [2nd Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-2/): Notes, books and practical material for 2nd Year BVSc & AH. Choose a subject to find your next read.
+- [2nd Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-2/): Unit-wise notes and subject reading guides for 2nd Year BVSc & AH. Choose a subject to find your next read.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/index.md
 - [Veterinary Pharmacology and Toxicology · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/): Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/index.md
@@ -48,7 +48,7 @@ Last source review: 2026-10-14. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/index.md
 - [Livestock Farm Practices · 3rd Year](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/): Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/index.md
-- [3rd Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-3/): Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to find your next read.
+- [3rd Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-3/): Unit-wise notes and subject reading guides for 3rd Year BVSc & AH. Choose a subject to find your next read.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/index.md
 - [Veterinary Medicine · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/): Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/index.md
@@ -58,7 +58,7 @@ Last source review: 2026-10-14. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/index.md
 - [Veterinary Clinical Practices II · 4th Year](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/): Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/index.md
-- [4th Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-4/): Notes, books and practical material for 4th Year BVSc & AH. Choose a subject to find your next read.
+- [4th Year BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/year-4/): Unit-wise notes and subject reading guides for 4th Year BVSc & AH. Choose a subject to find your next read.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/index.md
 - [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/veterinary-anatomy/): Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
   - Markdown: https://notes.thatvetguy.net/bvsc/veterinary-anatomy/index.md
@@ -108,6 +108,18 @@ Last source review: 2026-10-14. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/about/index.md
 - [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
   - Markdown: https://notes.thatvetguy.net/request-resource/index.md
+- [Best Books for 1st Year BVSc & AH](https://notes.thatvetguy.net/bvsc/year-1/books/): A focused book list for 1st Year BVSc & AH, organised by subject. Start with one core text, then use a reference for difficult topics.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-1/books/index.md
+- [Best Books for 2nd Year BVSc & AH](https://notes.thatvetguy.net/bvsc/year-2/books/): A focused book list for 2nd Year BVSc & AH, organised by subject. Start with one core text, then use a reference for difficult topics.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/books/index.md
+- [Best Books for 3rd Year BVSc & AH](https://notes.thatvetguy.net/bvsc/year-3/books/): A focused book list for 3rd Year BVSc & AH, organised by subject. Start with one core text, then use a reference for difficult topics.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/books/index.md
+- [Best Books for 4th Year BVSc & AH](https://notes.thatvetguy.net/bvsc/year-4/books/): A focused book list for 4th Year BVSc & AH, organised by subject. Start with one core text, then use a reference for difficult topics.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/books/index.md
+- [Handbooks Collection](https://notes.thatvetguy.net/clinical/handbooks/): Veterinary handbook material in one place for BVSc & AH students. Check the original edition and use clinical references alongside supervised training.
+  - Markdown: https://notes.thatvetguy.net/clinical/handbooks/index.md
+- [Drug & Pharmacology Notes](https://notes.thatvetguy.net/clinical/drug-index/): Veterinary pharmacology notes arranged by topic for BVSc & AH study. These are learning notes, not a prescribing formulary or a substitute for current product information.
+  - Markdown: https://notes.thatvetguy.net/clinical/drug-index/index.md
 
 ## Machine retrieval
 

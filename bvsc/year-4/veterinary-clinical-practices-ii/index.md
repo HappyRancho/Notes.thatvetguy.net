@@ -4,7 +4,7 @@
 
 # Veterinary Clinical Practices II
 
-Veterinary Clinical Practices II notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
+Veterinary Clinical Practices II notes for BVSc & AH, organised by unit and topic. Choose a unit below, or search within this subject.
 
 0 resources · 4th Year
 

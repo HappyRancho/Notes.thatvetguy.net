@@ -4,53 +4,53 @@
 
 # 3rd Year Resources
 
-Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to find your next read.
+Unit-wise notes and subject reading guides for 3rd Year BVSc & AH. Choose a subject to find your next read.
 
-7 subjects · 262 resources
+7 subjects · 180 resources
 
 [
 
 ## Veterinary Pharmacology and Toxicology
 
-54 resources · notes & books
+27 notes · 6 units
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[
 
 ## Veterinary Parasitology
 
-41 resources · notes & books
+47 notes · 5 units
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[
 
 ## Veterinary Public Health and Epidemiology
 
-25 resources · notes & books
+35 notes · 4 units
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[
 
 ## Livestock Products Technology
 
-63 resources · notes & books
+46 notes · 4 units
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[
 
 ## Veterinary and Animal Husbandry Extension Education
 
-75 resources · notes & books
+23 notes · 8 units
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[
 
 ## Veterinary Clinical Practices I
 
-2 resources · notes & books
+1 note · 1 units
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[
 
 ## Livestock Farm Practices
 
-2 resources · notes & books
+1 note · 1 units
 
-](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)[Best Books for 3rd Year ](https://notes.thatvetguy.net/bvsc/year-3/books/)
 
 3rd Year Road Map 
 

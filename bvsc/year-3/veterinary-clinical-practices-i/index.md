@@ -4,35 +4,26 @@
 
 # Veterinary Clinical Practices I
 
-Veterinary Clinical Practices I notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
+Veterinary Clinical Practices I notes for BVSc & AH, organised by unit and topic. Choose a unit below, or search within this subject.
 
-2 resources · 3rd Year
+1 resource · 3rd Year
 
 Search this collection
 
-## Images
-
-1
-
-IMG
-Photo set — Veterinary Clinical Practices I — 43 images4.0 MB[Open Photo set — Veterinary Clinical Practices I — 43 images](https://drive.google.com/drive/folders/1XHPK6sZUHxfXekUBfLfm4REe4TJP2u-o)
-
-Updated 2022-03-05 · 4.0 MB
-
-[Images ](https://drive.google.com/drive/folders/1XHPK6sZUHxfXekUBfLfm4REe4TJP2u-o)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1XHPK6sZUHxfXekUBfLfm4REe4TJP2u-o#report)
-
-## Extras
+## Subject notes
 
 1
 
 PDF
-History Taking VCP (12-4-21)137 KB[Open History Taking VCP (12-4-21)](https://drive.google.com/file/d/1djExKGyR__7TrwidlMRoxMypz6D3CYwf/view)
+Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
-Updated 2021-11-10 · 137 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1djExKGyR__7TrwidlMRoxMypz6D3CYwf/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1djExKGyR__7TrwidlMRoxMypz6D3CYwf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1djExKGyR__7TrwidlMRoxMypz6D3CYwf#report)
+[PDF ](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
