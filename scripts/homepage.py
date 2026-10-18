@@ -22,10 +22,10 @@ def art(name,box,cls='',source=None):
 def burst():return '<span class="rx-burst" aria-hidden="true"><i></i><i></i><i></i></span>'
 
 def header(path='/', home=True):
-    syringe='<span class="rx-letter-t"><span class="rx-syringe"><img src="/assets/home/syringe.webp" width="23" height="129" alt="" loading="eager" decoding="async"></span></span>' if home else ''
+    syringe='<span class="rx-letter-t"><span class="rx-syringe"><img src="/assets/home/syringe.webp" width="23" height="129" alt="" loading="eager" decoding="async"></span></span>'
     logo='<span class="rx-wordmark" aria-hidden="true"><span class="rx-symbol">R<sub>x</sub></span><span class="rx-notes">No'+syringe+'es</span><span class="rx-by">by <b>thatvetguy</b></span></span>'
-    nav=''.join(link(u,t+('' if path=='/' or not path.startswith(u) else '<span class="sr-only"> — current page</span>'),('nav-link'+(' current' if path.startswith(u) else ''))) for u,t in [('/bvsc/','Notes & Books'),('/objective/','Objective'),('/study-tools/','Study Tools'),('/clinical/','Clinical')])
-    promise=('<h1 id="academic-resources">' if home else '<div class="rx-promise-title" role="heading" aria-level="2">')+'Free Veterinary<br>Academic Resources'+('</h1>' if home else '</div>')
+    nav=''.join('<a href="'+u+'" class="nav-link"'+(' aria-current="page"' if path.startswith(u) else '')+'>'+t+'</a>' for u,t in [('/bvsc/','Notes & Books'),('/objective/','Objective'),('/study-tools/','Study Tools'),('/clinical/','Clinical')])
+    promise=('<h1 id="academic-resources">' if home else '<div class="rx-promise-title">')+'Free Veterinary<br>Academic Resources'+('</h1>' if home else '</div>')
     return '<a class="skip-link" href="#main">Skip to content</a><header class="rx-header container"><div class="rx-paper"><span class="rx-tape" aria-hidden="true"></span><a href="/" class="rx-brand" aria-label="Rx Notes by ThatVetGuy — Home">'+logo+'</a><div class="rx-promise">'+promise+'<p>Thoughtfully organised for <mark>future vets.</mark></p></div><button class="icon-button rx-menu js-only" type="button" data-dialog="more-sheet" aria-controls="more-sheet" aria-expanded="false" aria-label="Open menu">'+icon('menu')+'</button><span class="rx-paper-paw" aria-hidden="true">'+icon('paw')+'</span><nav class="rx-desktop-nav" aria-label="Main">'+nav+'</nav></div></header>'
 
 def search():

@@ -12,12 +12,12 @@ def header(path):
 def navigation(path):
     links=''
     home=path=='/'
-    for url,title,ic in [('/','Home','home' if home else 'paw'),('/bvsc/','Notes','paper' if home else 'book'),('/objective/','Objective','cap' if home else 'check'),('/search/','Search','search')]:
+    for url,title,ic in [('/','Home','home'),('/bvsc/','Notes','paper'),('/objective/','Objective','cap'),('/search/','Search','search')]:
         active=' aria-current="page"' if (path==url or url!="/" and path.startswith(url)) else ''
         links+=f'<a href="{url}"{active}>'+icon(ic)+'<span>'+title+'</span></a>'
     more=[('/about/','About'),('/request-resource/','Request Resource'),('/request-resource/#contribute','Contribute'),('/request-resource/#report','Report an error'),('https://t.me/vetshortnotesbytvg','Short notes on Telegram'),('https://t.me/jobupdatesbytvg','Job updates on Telegram')]
-    if home:more=[('/study-tools/','Tools & Tips'),('/clinical/','Clinical Resources')]+more
-    theme='<div class="rx-theme-option"><span>Light / dark appearance</span><button class="icon-button theme-toggle js-only" type="button" aria-label="Switch to dark theme" aria-pressed="false"><span aria-hidden="true">◐</span></button></div>' if home else ''
+    more=[('/study-tools/','Tools & Tips'),('/clinical/','Clinical Resources')]+more
+    theme='<div class="rx-theme-option"><span>Light / dark appearance</span><button class="icon-button theme-toggle js-only" type="button" aria-label="Switch to dark theme" aria-pressed="false"><span aria-hidden="true">◐</span></button></div>'
     return '<nav class="bottom-nav" aria-label="Mobile">'+links+'<button type="button" class="js-only" data-dialog="more-sheet" aria-controls="more-sheet" aria-expanded="false">'+icon('menu')+'<span>More</span></button><a class="nojs-only" href="/about/">About</a></nav><dialog id="more-sheet" class="sheet" aria-labelledby="more-title"><div class="dialog-head"><div id="more-title" class="dialog-title">A little more.</div><button class="icon-button" data-close aria-label="Close menu">'+icon('close')+'</button></div><nav class="more-links" aria-label="Community and information">'+''.join(link(u,t+icon('arrow')) for u,t in more)+'</nav>'+theme+'</dialog>'
 
 def palette():
@@ -31,9 +31,9 @@ def search(b,page=False):
 
 def year_tiles(b):
     tiles=''
-    for y in b.LIBRARY['years']:
-        n=y['year'];subjects=len(y['subjects']);count=y['count']
-        tiles+=link('/bvsc/year-'+str(n)+'/',f'<span class="year-top"><span class="year-caption">BVSc & AH</span>{icon("arrow")}</span><strong class="year-numeral">{n}<span>{["st","nd","rd","th"][n-1]} year</span></strong><span class="year-meta">{subjects} subjects <span aria-hidden="true">·</span> {count:,} resources</span>',f'sticker year-tile year-{n}')
+    for y,tone in zip(b.LIBRARY['years'],['yellow','peach','sky','mint']):
+        n=y['year'];label=b.DATA['labels'][str(n)]
+        tiles+=link('/bvsc/year-'+str(n)+'/', '<span class="year-top"><span class="rx-row-icon '+tone+'">'+str(n)+'</span>'+icon('chevron')+'</span><strong class="year-numeral">'+label+'</strong><span class="year-meta">'+str(len(y['subjects']))+' subjects · '+format(y['count'],',')+' resources</span>', 'year-tile')
     return '<div class="year-grid">'+tiles+'</div>'
 
 def home(b):

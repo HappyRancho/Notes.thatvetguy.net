@@ -23,7 +23,7 @@ def size_label(n):
     return f'{n/1_000_000:.1f} MB' if n>=1_000_000 else f'{n/1000:.0f} KB'
 def empty(b,text='Coming soon'):
     return '<div class="empty-state"><strong>'+e(text)+'</strong><p>'+e(b.MICROCOPY['empty'][0])+'</p>'+b.link('/request-resource/','Request a resource '+b.icon('arrow'),'button secondary')+'</div>'
-def matching(b,category):return [r for r in b.RECORDS if category in r['collections']]
+def matching(b,category):return [r for r in b.RECORDS if category in r['collections'] and keep_complete_resource(r)]
 def file_card(b,r):
     rid=r['id'];title=e(r['title']);original=e(r['name'],quote=True)
     formats=''.join(b.link(v['url'],e(v['extension'])+' '+b.icon('external'),'format-link') for v in r['variants'])
@@ -51,7 +51,7 @@ def subject_page(b,y,s):
     intro=name+' notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.'
     body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(b.DATA['labels'][str(year)],'/bvsc/year-'+str(year)+'/')])
     body+='<div class="subject-toolbar"><p>'+count(len(rows))+' · '+b.DATA['labels'][str(year)]+'</p><button type="button" class="studied-button js-only" data-studied="'+s['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></div>'
-    body+='<div class="filter-collection">'+controls(b,[(k,v) for k,v in KINDS.items() if k!='images'])
+    body+='<div class="filter-collection">'+controls(b,[(k,v) for k,v in KINDS.items() if k not in ['images','presentation'] and any(r['kind']==k for r in rows)])
     first=True
     for kind,title in KINDS.items():
         if kind=='presentation':continue
@@ -73,7 +73,9 @@ def overview(b):
         body+='<p class="collection-meta">'+str(len(y['subjects']))+' subjects · '+count(y['count'])+'</p><div class="subject-grid year-'+str(year)+'">'
         for s in y['subjects']:
             chips=' · '.join(KINDS[k]+' '+str(v) for k,v in s['groups'].items())
-            content='<span class="subject-top">'+b.icon('book')+'<span>'+count(s['count'])+'</span></span><h2>'+e(s['name'])+'</h2><p class="kind-counts">'+(chips or 'Coming soon')+'</p>'+b.icon('arrow')
+            from homepage import subject_icon
+            ic,tone=subject_icon(s['name'])
+            content='<span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><span><h2>'+e(s['name'])+'</h2><p class="kind-counts">'+(count(s['count'])+' · '+chips if chips else 'Coming soon')+'</p></span>'+b.icon('chevron')
             body+=b.link(path+s['slug']+'/',content,'subject-card') if s['count'] else '<article class="subject-card unavailable" aria-label="'+e(s['name'])+' — coming soon">'+content+'</article>'
             subject_page(b,y,s)
         body+='</div>'
@@ -89,14 +91,17 @@ def guides(b):
         body=b.article_intro(name,m['summary'],[('BVSc','/bvsc/')])+b.link(owner,'Read '+e(name)+' resources '+b.icon('arrow'),'button')+'<section class="content-section"><h2>Your revision outline</h2><ul class="topic-list">'+''.join('<li>'+e(t)+'</li>' for t in m['topics'])+'</ul><p>'+e(m['studyTip'])+'</p></section></div>'
         b.write_page(path,name,m['summary'],body,[(name+' resources',owner)])
 def collections(b):
-    desc=b.geo.META['/objective/']['summary'];body=b.article_intro('Objective Resources',desc)+b.section_aside('objective')
-    body+='<section class="content-section pyq-state" id="icar-pyq"><div><h2>ICAR PYQ Question Bank</h2><p>Coming soon. Know a paper we should add?</p></div>'+b.link('/request-resource/?collection=icar-pyq','Request a paper '+b.icon('arrow'),'text-link')+'</section>'
+    from homepage import tabs,panel
+    desc=b.geo.META['/objective/']['summary'];body=b.article_intro('Objective Resources',desc)
     rows=matching(b,'objective-questions');subjects=sorted({r['subject'] for r in rows if r['subject']})
-    body+='<section class="content-section" id="subject-wise"><h2>Subject-wise Objective Questions</h2><p>Choose a subject. Keep your revision focused.</p><div class="filter-collection">'+controls(b,[(slug(s),s.replace('Veterinary ','')) for s in subjects],'objective',True)
-    for i,s in enumerate(subjects):body+=group(b,s,[r for r in rows if r['subject']==s],slug(s),i==0,teaser,3)
-    body+='<p class="filter-empty" hidden>No resources match. '+b.link('/request-resource/','Request a resource')+'</p></div></section>'
-    body+='<section class="content-section" id="books"><h2>Objective Books</h2>'+chunks(b,matching(b,'objective-books'),teaser)+'</section></div>'
-    b.write_page('/objective/','Objective Resources',desc,body,[(r['title'],r['permalink']) for r in rows+matching(b,'objective-books')])
+    books=matching(b,'objective-books')
+    book_body='<section id="books"><h2>Objective Books</h2>'+chunks(b,books,teaser)+'</section>'
+    bank_body='<section class="pyq-state" id="icar-pyq"><div><h2>ICAR PYQ Question Bank</h2><p>Coming soon. Know a paper we should add?</p></div>'+b.link('/request-resource/?collection=icar-pyq','Request a paper '+b.icon('arrow'),'text-link')+'</section>'
+    bank_body+='<section id="subject-wise"><h2>Subject-wise Objective Questions</h2><div class="filter-collection">'+controls(b,[(slug(s),s.replace('Veterinary ','')) for s in subjects],'objective',True)
+    for i,s in enumerate(subjects):bank_body+=group(b,s,[r for r in rows if r['subject']==s],slug(s),i==0,teaser,3)
+    bank_body+='<p class="filter-empty" hidden>No resources match. '+b.link('/request-resource/','Request a resource')+'</p></div></section>'
+    body+='<section class="content-section" data-home-tabs>'+tabs('objective-page',[('Objective Notes','/objective/#books'),('Question Banks','/objective/#subject-wise')])+panel('objective-page',0,book_body)+panel('objective-page',1,bank_body)+'</section></div>'
+    b.write_page('/objective/','Objective Resources',desc,body,[(r['title'],r['permalink']) for r in rows+books])
     desc=b.geo.META['/clinical/']['summary'];body=b.article_intro('Clinical Resources',desc)+'<p class="clinical-callout" role="note">For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.</p>'+b.section_aside('clinical')
     body+='<section class="content-section" id="handbooks"><h2>Handbooks</h2>'+chunks(b,matching(b,'handbooks'),teaser)+'</section>'
     rows=[r for r in matching(b,'drug-index') if keep_complete_resource(r)];pharm='/bvsc/year-3/veterinary-pharmacology-and-toxicology/'
@@ -108,12 +113,15 @@ def collections(b):
 def tools(b):
     body=b.article_intro('Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'])
     guides=[('ai-guide','Use of AI for Vet Study',[('Start with your outline','Ask AI to organise a topic list or suggest a presentation structure. Compare the result with your syllabus and original notes.'),('Check before you learn','Verify veterinary facts and citations. A fluent answer can still be wrong; AI output is not a prescribing reference.'),('Make the explanation yours','Explain the topic without looking at the answer. Rewrite it in your own words and credit your sources.')]),('free-apps','Useful Free Apps',[('Zotero','Keep reading references together. Check each citation against its original source.'),('LibreOffice','Prepare notes, tables and presentations. Keep an editable copy as well as a PDF.'),('Your PDF reader','Use bookmarks, annotations and text search. Keep essential reading in a clearly named offline folder.')]),('useful-tools','Useful Study Tools',[('A document scanner','Scan only material you have permission to copy. Check every page for legibility before sharing.'),('A simple folder system','Try Year / Subject / Notes or Books. A useful filename saves a surprising amount of searching.'),('A reference checklist','Record the author, edition, species and date where relevant. A saved file still needs context.')])]
-    body+='<span id="tools" class="anchor-alias"></span>'
-    for key,title,steps in guides:
-        body+='<section class="content-section guide-section" id="'+key+'"><h2>'+title+'</h2>'+ (b.section_aside('tools') if key=='ai-guide' else '')+'<ol class="guide-steps">'+''.join('<li><h3>'+e(t)+'</h3><p>'+e(d)+'</p></li>' for t,d in steps)+'</ol></section>'
-    from homepage import CONTENT
-    body+='<section class="content-section" id="tips"><h2>Tips</h2><p>Four simple roadmaps for moving through the professional years.</p><div class="related-links">'+''.join(b.link('/bvsc/year-'+str(y)+'/#road-map',CONTENT['tips'][y-1]['title']+b.icon('map')) for y in range(1,5))+'</div></section>'
-    b.write_page('/study-tools/','Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'],body+'</div>',[(t,b.ROUTES[k]) for k,t,_ in guides])
+    from homepage import CONTENT,tabs,panel,row
+    tool_rows='<span id="tools" class="anchor-alias"></span>'
+    for i,(key,title,steps) in enumerate(guides):
+        ic,tone=[('spark','purple'),('phone','mint'),('book','peach')][i]
+        tool_rows+='<details class="guide-section" id="'+key+'"'+(' open' if i==0 else '')+'><summary><span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><h2>'+title+'</h2>'+b.icon('chevron')+'</summary><div class="group-body"><ol class="guide-steps">'+''.join('<li><h3>'+e(t)+'</h3><p>'+e(d)+'</p></li>' for t,d in steps)+'</ol></div></details>'
+    tip_rows='<section id="tips"><h2 class="sr-only">Year Roadmaps</h2><div class="rx-row-drawer">'+''.join(row(CONTENT['tips'][y-1]['title'],'/bvsc/year-'+str(y)+'/#road-map','map',['yellow','peach','sky','mint'][y-1]) for y in range(1,5))+'</div></section>'
+    body+='<section class="content-section" data-home-tabs>'+tabs('study-page',[('Tools','/study-tools/#tools'),('Tips','/study-tools/#tips')])+panel('study-page',0,tool_rows)+panel('study-page',1,tip_rows)+'</section></div>'
+    b.write_page('/study-tools/','Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'],body,[(t,b.ROUTES[k]) for k,t,_ in guides])
+
 def other(b):
     body=b.article_intro('About Notes.ThatVetGuy',b.geo.META['/about/']['summary'])+'<section class="content-section prose"><h2>A useful place to start.</h2><p>Pick your professional year, find a subject and get to the reading. Notes.ThatVetGuy brings notes, books and practical material together for veterinary students.</p><h2>People behind the pages</h2><p>Site guidance and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. Linked materials retain their original authorship. Inclusion does not imply medical review or ownership.</p><h2>Help the next student</h2><p>A missing topic, a broken file or a credit that needs correcting: tell us so the library can get better.</p>'+b.link('/request-resource/','Request or report a resource '+b.icon('arrow'),'button secondary')+'</section></div>'
     b.write_page('/about/','About Notes.ThatVetGuy',b.geo.META['/about/']['summary'],body)
