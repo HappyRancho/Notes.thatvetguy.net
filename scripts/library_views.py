@@ -15,7 +15,7 @@ def empty(b,text='Coming soon'):
     return '<div class="empty-state"><strong>'+e(text)+'</strong><p>'+e(b.MICROCOPY['empty'][0])+'</p>'+b.link('/request-resource/','Request a resource '+b.icon('arrow'),'button secondary')+'</div>'
 def matching(b,category):return [r for r in b.RECORDS if category in r['collections'] and keep_complete_resource(r)]
 def file_card(b,r):
-    title=e(r['title']);rid=r['id'];description='<p class="resource-description">'+e(r['description'])+'</p>' if r.get('collection') else ''
+    title=e(r['title']);rid=r['id'];description='<p class="resource-description">'+e(r['description'])+'</p>' if r['source']=='Telegram' else ''
     credit='<small class="resource-source">'+e(r.get('sourceCredit') or r['source'])+'</small>' if r.get('sourceCredit') else ''
     aliases=''.join('<span id="file-'+a+'" class="anchor-alias"></span>' for a in r['duplicateIds']+[v['id'] for v in r['variants'][1:]])
     return aliases+'<article class="file-row'+(' collection-resource' if description else '')+'" id="file-'+rid+'" data-resource-id="'+rid+'" data-kind="'+r['kind']+'" data-row-search="'+e(normal(r['title']+' '+r['path']),quote=True)+'"><span class="format-icon format-'+r['format'].lower()+'" aria-hidden="true">'+e(r['format'])+'</span><div class="file-title"><span title="'+e(r['name'],quote=True)+'">'+title+'</span>'+description+credit+'</div>'+b.link(r['url'],'<span class="open-label">Open</span>'+b.icon('external')+'<span class="sr-only"> '+title+'</span>','file-open')+'</article>'
