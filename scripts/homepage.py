@@ -79,7 +79,7 @@ def objectives(b):
     return '<section class="rx-section rx-objective" id="objective" data-home-tabs>'+body+'</section>'
 
 def tools():
-    body=heading('Tools &amp; Tips','Study smart. Because suffering manually is outdated.','bulb','yellow')+tabs('tools',[('Tools','/study-tools/#charts-tables'),('Tips','/study-tools/#ai-guide')])
+    body=heading('Tools &amp; Tips','Study smart. Because suffering manually is outdated.','bulb','yellow')+tabs('tools',[('Tools','/study-tools/#tools'),('Tips','/study-tools/#tips')])
     for i,key in enumerate(['tools','tips']):
         rows=''.join(row(r['title'],r['url'],r['icon'],r['tone']) if r.get('url') else missing(r['title'],r['icon'],r['tone']) for r in CONTENT[key])
         body+=panel('tools',i,'<div class="rx-row-drawer">'+rows+'</div>')
