@@ -1,8 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year — pick a subject.
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Resources
 
-# 3rd Year — pick a subject.
+# 3rd Year Resources
 
 Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to find your next read.
 
@@ -12,43 +12,43 @@ Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Pharmacology and Toxicology
 
-54 resources · Practical 5 · Extras 25 · Images 6 · Notes 10 · Objective 3 · Books 5
+54 resources · notes & books
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[
 
 ## Veterinary Parasitology
 
-41 resources · Practical 5 · Extras 11 · Notes 15 · Objective 4 · Images 5 · Books 1
+41 resources · notes & books
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[
 
 ## Veterinary Public Health and Epidemiology
 
-25 resources · Practical 2 · Extras 5 · Images 1 · Notes 13 · Objective 3 · Books 1
+25 resources · notes & books
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[
 
 ## Livestock Products Technology
 
-63 resources · Practical 2 · Extras 18 · Notes 35 · Objective 2 · Images 1 · Books 5
+63 resources · notes & books
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[
 
 ## Veterinary and Animal Husbandry Extension Education
 
-75 resources · Extras 30 · Images 28 · Objective 2 · Notes 13 · Books 2
+75 resources · notes & books
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[
 
 ## Veterinary Clinical Practices I
 
-2 resources · Extras 1 · Images 1
+2 resources · notes & books
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[
 
 ## Livestock Farm Practices
 
-2 resources · Extras 1 · Images 1
+2 resources · notes & books
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
