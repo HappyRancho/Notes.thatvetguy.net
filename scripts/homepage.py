@@ -15,12 +15,14 @@ CONTENT=json.loads((ROOT/'data/homepage.json').read_text())
 def art(name,box,cls='',source=None):
     x,y,w,h=box
     loading='eager' if name=='prescription' else 'lazy'
-    return f'<span class="rx-art {cls}" style="aspect-ratio:{w}/{h};--art-w:{720/w*100:.5f}%;--art-x:{-x/w*100:.5f}%;--art-y:{-y/h*100:.5f}%" aria-hidden="true"><img src="/assets/home/{source or name}.jpg" width="720" height="1280" alt="" loading="{loading}" decoding="async"></span>'
+    asset=source or name
+    ext='webp' if asset in ('clinical','community') else 'jpg'
+    return f'<span class="rx-art {cls}" style="aspect-ratio:{w}/{h};--art-w:{720/w*100:.5f}%;--art-x:{-x/w*100:.5f}%;--art-y:{-y/h*100:.5f}%" aria-hidden="true"><img src="/assets/home/{asset}.{ext}" width="720" height="1280" alt="" loading="{loading}" decoding="async"></span>'
 
 def burst():return '<span class="rx-burst" aria-hidden="true"><i></i><i></i><i></i></span>'
 
 def header():
-    syringe='<span class="rx-letter-t">'+art('prescription',(144,140,23,129),'rx-syringe')+'</span>'
+    syringe='<span class="rx-letter-t"><span class="rx-syringe"><img src="/assets/home/syringe.webp" width="23" height="129" alt="" loading="eager" decoding="async"></span></span>'
     logo='<span class="rx-wordmark" aria-hidden="true"><span class="rx-symbol">R<sub>x</sub></span><span class="rx-notes">No'+syringe+'es</span><span class="rx-by">by <b>thatvetguy</b></span></span>'
     nav=''.join(link(u,t) for u,t in [('/bvsc/','Notes & Books'),('/objective/','Objective'),('/study-tools/','Study Tools'),('/clinical/','Clinical')])
     return '<a class="skip-link" href="#main">Skip to content</a><header class="rx-header container"><div class="rx-paper"><span class="rx-tape" aria-hidden="true"></span><a href="/" class="rx-brand" aria-label="Rx Notes by ThatVetGuy — Home">'+logo+'</a><div class="rx-promise"><h1 id="academic-resources">Free Veterinary<br>Academic Resources</h1><p>Thoughtfully organised for <mark>future vets.</mark></p></div><button class="icon-button rx-menu js-only" type="button" data-dialog="more-sheet" aria-controls="more-sheet" aria-expanded="false" aria-label="Open menu">'+icon('menu')+'</button><span class="rx-paper-paw" aria-hidden="true">'+icon('paw')+'</span><nav class="rx-desktop-nav" aria-label="Main">'+nav+'</nav></div></header>'
