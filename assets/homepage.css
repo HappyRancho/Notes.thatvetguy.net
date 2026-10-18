@@ -48,3 +48,6 @@ html[data-ui=rx][data-theme=dark] .rx-heading-icon.mint{color:#8cd8bc}
 @media(max-width:599px){.rx-year-drawer{min-height:246px}}
 @media(max-width:599px){.rx-academics .rx-panel{min-height:320px}}
 @media(max-width:374px){.rx-academics .rx-section-heading{height:112px}}
+
+/* The prescription title is plain text on subpages; keep its original face. */
+.rx-promise-title{font-family:var(--rx-heading);font-weight:700;letter-spacing:-.025em;line-height:1.15}

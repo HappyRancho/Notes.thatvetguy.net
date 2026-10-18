@@ -69,13 +69,13 @@ def overview(b):
     for y in b.LIBRARY['years']:
         year=y['year'];path='/bvsc/year-'+str(year)+'/'
         desc=f'Notes, books and practical material for {b.DATA["labels"][str(year)]} BVSc & AH. Choose a subject to find your next read.'
-        body=b.article_intro(b.DATA['labels'][str(year)]+' — pick a subject.',desc,[('BVSc','/bvsc/')])
+        body=b.article_intro(b.DATA['labels'][str(year)]+' Resources',desc,[('BVSc','/bvsc/')])
         body+='<p class="collection-meta">'+str(len(y['subjects']))+' subjects · '+count(y['count'])+'</p><div class="subject-grid year-'+str(year)+'">'
         for s in y['subjects']:
             chips=' · '.join(KINDS[k]+' '+str(v) for k,v in s['groups'].items())
             from homepage import subject_icon
             ic,tone=subject_icon(s['name'])
-            content='<span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><span><h2>'+e(s['name'])+'</h2><p class="kind-counts">'+(count(s['count'])+' · '+chips if chips else 'Coming soon')+'</p></span>'+b.icon('chevron')
+            content='<span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><span><h2>'+e(s['name'])+'</h2><p class="kind-counts">'+(count(s['count'])+' · notes &amp; books' if chips else 'Coming soon')+'</p></span>'+b.icon('chevron')
             body+=b.link(path+s['slug']+'/',content,'subject-card') if s['count'] else '<article class="subject-card unavailable" aria-label="'+e(s['name'])+' — coming soon">'+content+'</article>'
             subject_page(b,y,s)
         body+='</div>'
