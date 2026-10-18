@@ -10,80 +10,6 @@ Veterinary Anatomy notes for BVSc & AH, organised by unit and topic. Choose a un
 
 Search this collection
 
-## Unit 7 – Veterinary Histology
-
-3
-
-PDF
-Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P6FkelJcdHlcjNgA7R261foED4na_0Xb#report)
-
-PDF
-Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B#report)
-
-PDF
-Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3#report)
-
-## Unit 8 – Veterinary Embryology
-
-3
-
-PDF
-Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT#report)
-
-PDF
-Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl#report)
-
-PDF
-Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk#report)
-
 ## Units 1–6 – Gross and Applied Anatomy
 
 9
@@ -186,6 +112,80 @@ Link checked 2026-10-18
 Link source: VetBVSc. Original authorship remains with the document’s creator.
 
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise#report)
+
+## Unit 7 – Veterinary Histology
+
+3
+
+PDF
+Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P6FkelJcdHlcjNgA7R261foED4na_0Xb#report)
+
+PDF
+Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B#report)
+
+PDF
+Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3#report)
+
+## Unit 8 – Veterinary Embryology
+
+3
+
+PDF
+Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT#report)
+
+PDF
+Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl#report)
+
+PDF
+Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

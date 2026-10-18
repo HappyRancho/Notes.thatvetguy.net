@@ -10,54 +10,6 @@ Veterinary Surgery and Radiology notes for BVSc & AH, organised by unit and topi
 
 Search this collection
 
-## Additional subject notes
-
-4
-
-PDF
-Surgical Instruments VCP (S)[Open Surgical Instruments VCP (S)](https://drive.google.com/file/d/1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU#report)
-
-PDF
-Veterinary Surgical Instruments[Open Veterinary Surgical Instruments](https://drive.google.com/file/d/12hseXIppM1376EIQjbyZsRT6XSrijM7l/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/12hseXIppM1376EIQjbyZsRT6XSrijM7l/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12hseXIppM1376EIQjbyZsRT6XSrijM7l#report)
-
-PDF
-Veterinary Ultrasonography (USG)[Open Veterinary Ultrasonography (USG)](https://drive.google.com/file/d/1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB#report)
-
-PDF
-Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/file/d/1um601lvkyKJDKQqhoJ59aEyO1knB2iRX/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1um601lvkyKJDKQqhoJ59aEyO1knB2iRX/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1um601lvkyKJDKQqhoJ59aEyO1knB2iRX#report)
-
 ## Unit 1 – Veterinary General Surgery
 
 1
@@ -290,6 +242,54 @@ Link checked 2026-10-18
 Link source: VetBVSc. Document label: TANUVAS. Original authorship remains with the document’s creator.
 
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UCcfQK4ebhIQikk2exqcXxJCcCd1raO_#report)
+
+## Additional subject notes
+
+4
+
+PDF
+Surgical Instruments VCP (S)[Open Surgical Instruments VCP (S)](https://drive.google.com/file/d/1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU#report)
+
+PDF
+Veterinary Surgical Instruments[Open Veterinary Surgical Instruments](https://drive.google.com/file/d/12hseXIppM1376EIQjbyZsRT6XSrijM7l/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/12hseXIppM1376EIQjbyZsRT6XSrijM7l/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12hseXIppM1376EIQjbyZsRT6XSrijM7l#report)
+
+PDF
+Veterinary Ultrasonography (USG)[Open Veterinary Ultrasonography (USG)](https://drive.google.com/file/d/1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB#report)
+
+PDF
+Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/file/d/1um601lvkyKJDKQqhoJ59aEyO1knB2iRX/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1um601lvkyKJDKQqhoJ59aEyO1knB2iRX/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1um601lvkyKJDKQqhoJ59aEyO1knB2iRX#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

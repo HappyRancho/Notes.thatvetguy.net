@@ -10,43 +10,6 @@ Veterinary Medicine notes for BVSc & AH, organised by unit and topic. Choose a u
 
 Search this collection
 
-## Additional subject notes
-
-3
-
-PDF
-All Diseases of Elephant[Open All Diseases of Elephant](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ#report)
-
-PDF
-Different Biological Parameters of Animals[Open Different Biological Parameters of Animals](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH#report)
-
-PDF
-List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary (PVM)](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU#report)
-
 ## Unit 1 – General
 
 2
@@ -294,6 +257,43 @@ Link checked 2026-10-18
 Link source: VetBVSc. Document label: KVASU. Original authorship remains with the document’s creator.
 
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1v-NH4PsLAmh2euiUMUSWjwN0AdlUBu3e#report)
+
+## Additional subject notes
+
+3
+
+PDF
+All Diseases of Elephant[Open All Diseases of Elephant](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ#report)
+
+PDF
+Different Biological Parameters of Animals[Open Different Biological Parameters of Animals](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH#report)
+
+PDF
+List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary (PVM)](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

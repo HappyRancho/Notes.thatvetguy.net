@@ -10,32 +10,6 @@ Veterinary Physiology notes for BVSc & AH, organised by unit and topic. Choose a
 
 Search this collection
 
-## Additional subject notes
-
-2
-
-PDF
-Veterinary Physiology Note by KVASU[Open Veterinary Physiology Note by KVASU](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
-
-Link source: VetBVSc. Document label: KVASU. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR#report)
-
-PDF
-Veterinary Physiology Note by TANUVAS[Open Veterinary Physiology Note by TANUVAS](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
-
-Link source: VetBVSc. Document label: TANUVAS. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cOJOgFeO95LLwXiUOWKclIZghjYNevNV#report)
-
 ## Unit 1 – Blood, Cardiovascular, Nervous and Muscular Systems
 
 4
@@ -172,6 +146,32 @@ Link checked 2026-10-18
 Link source: VetBVSc. Original authorship remains with the document’s creator.
 
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ji7mcCxsitxUa8sAh0uc3rt38Z_fzlQb#report)
+
+## Additional subject notes
+
+2
+
+PDF
+Veterinary Physiology Note by KVASU[Open Veterinary Physiology Note by KVASU](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
+
+Link source: VetBVSc. Document label: KVASU. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR#report)
+
+PDF
+Veterinary Physiology Note by TANUVAS[Open Veterinary Physiology Note by TANUVAS](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
+
+Link source: VetBVSc. Document label: TANUVAS. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cOJOgFeO95LLwXiUOWKclIZghjYNevNV#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

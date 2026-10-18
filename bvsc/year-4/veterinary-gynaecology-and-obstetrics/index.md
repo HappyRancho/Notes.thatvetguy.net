@@ -10,76 +10,6 @@ Veterinary Gynaecology and Obstetrics notes for BVSc & AH, organised by unit and
 
 Search this collection
 
-## Additional subject notes
-
-6
-
-PDF
-Caesarean Section in Farm Animals[Open Caesarean Section in Farm Animals](https://drive.google.com/file/d/1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B#report)
-
-PDF
-Different Parts of Female Reproductive System[Open Different Parts of Female Reproductive System](https://drive.google.com/file/d/17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V#report)
-
-PDF
-Dystocia[Open Dystocia](https://drive.google.com/file/d/1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9#report)
-
-PDF
-Pregnancy Diagnosis and Artificial Insemination Note by Vet Study[Open Pregnancy Diagnosis and Artificial Insemination Note by Vet Study](https://drive.google.com/file/d/1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy#report)
-
-PDF
-Veterinary Gynaecology and Obstetrics Note by H.M. Barot[Open Veterinary Gynaecology and Obstetrics Note by H.M. Barot](https://drive.google.com/file/d/11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR#report)
-
-PDF
-Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google.com/file/d/1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H/view?usp=sharing)
-
-Link checked 2026-10-18
-
-[PDF ](https://drive.google.com/file/d/1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H/view?usp=sharing)
-
-Link source: VetBVSc. Original authorship remains with the document’s creator.
-
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H#report)
-
 ## Unit 1 – Veterinary Gynaecology
 
 3
@@ -168,6 +98,76 @@ Link checked 2026-10-18
 Link source: VetBVSc. Document label: KVASU. Original authorship remains with the document’s creator.
 
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ef69on82Q3UzeyQgpsEDsqRtcSsWy5lk#report)
+
+## Additional subject notes
+
+6
+
+PDF
+Caesarean Section in Farm Animals[Open Caesarean Section in Farm Animals](https://drive.google.com/file/d/1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B#report)
+
+PDF
+Different Parts of Female Reproductive System[Open Different Parts of Female Reproductive System](https://drive.google.com/file/d/17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V#report)
+
+PDF
+Dystocia[Open Dystocia](https://drive.google.com/file/d/1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9#report)
+
+PDF
+Pregnancy Diagnosis and Artificial Insemination Note by Vet Study[Open Pregnancy Diagnosis and Artificial Insemination Note by Vet Study](https://drive.google.com/file/d/1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy#report)
+
+PDF
+Veterinary Gynaecology and Obstetrics Note by H.M. Barot[Open Veterinary Gynaecology and Obstetrics Note by H.M. Barot](https://drive.google.com/file/d/11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR#report)
+
+PDF
+Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google.com/file/d/1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
