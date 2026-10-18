@@ -12,31 +12,31 @@ Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Pharmacology and Toxicology
 
-Images 6 · Books 5 · Extras 25 · Notes 10 · Objective 3 · Practical 5
+Objective 3 · Practical 5 · Extras 25 · Books 5 · Notes 10 · Images 6
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[41 resources
 
 ## Veterinary Parasitology
 
-Images 5 · Books 1 · Extras 11 · Notes 15 · Objective 4 · Practical 5
+Objective 4 · Practical 5 · Extras 11 · Books 1 · Notes 15 · Images 5
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[25 resources
 
 ## Veterinary Public Health and Epidemiology
 
-Books 1 · Images 1 · Notes 13 · Extras 5 · Objective 3 · Practical 2
+Objective 3 · Practical 2 · Extras 5 · Books 1 · Notes 13 · Images 1
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[63 resources
 
 ## Livestock Products Technology
 
-Books 5 · Images 1 · Extras 18 · Notes 35 · Objective 2 · Practical 2
+Objective 2 · Practical 2 · Extras 18 · Books 5 · Notes 35 · Images 1
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[75 resources
 
 ## Veterinary and Animal Husbandry Extension Education
 
-Books 2 · Images 28 · Extras 30 · Notes 13 · Objective 2
+Objective 2 · Extras 30 · Books 2 · Notes 13 · Images 28
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[2 resources
 
