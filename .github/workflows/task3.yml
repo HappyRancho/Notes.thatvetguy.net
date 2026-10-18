@@ -56,14 +56,15 @@ jobs:
           node-version: '22'
       - run: npm install && npx playwright install --with-deps chromium
       - run: git worktree add /tmp/notes-task3-before da59182a57232e5fba1eb98e9899d63b1a77eac3
-      - run: npm run qa -- before
+      - run: npm run qa -- before-performance
         env:
           QA_ROOT: /tmp/notes-task3-before
+          QA_LIGHTHOUSE_ONLY: '1'
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: task3-before
-          path: docs/qa/task3/before/
+          path: docs/qa/task3/before-performance/
 
   hosting:
     runs-on: ubuntu-latest

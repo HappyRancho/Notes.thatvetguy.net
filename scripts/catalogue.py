@@ -74,17 +74,18 @@ def build_library(refresh=False):
     merged=[];bytitle={}
     for r in records:
         key=(r['year'],r['subject'],normal(r['title']));prior=bytitle.get(key)
-        if prior and r['format'] not in {v['format'] for v in prior['variants']}:
-            prior['variants'].append({k:r[k] for k in ['id','name','mime','size','updated','url','format']});prior['duplicateIds']+=r['duplicateIds'];merges.append({'id':r['id'],'into':prior['id'],'format':r['format']})
+        extension=r['name'].rsplit('.',1)[-1].upper()
+        if prior and extension not in {v['extension'] for v in prior['variants']}:
+            prior['variants'].append(dict({k:r[k] for k in ['id','name','mime','size','updated','url','format']},extension=extension));prior['duplicateIds']+=r['duplicateIds'];merges.append({'id':r['id'],'into':prior['id'],'format':extension})
         else:
-            r['variants']=[{k:r[k] for k in ['id','name','mime','size','updated','url','format']}];merged.append(r);bytitle.setdefault(key,r)
+            r['variants']=[dict({k:r[k] for k in ['id','name','mime','size','updated','url','format']},extension=extension)];merged.append(r);bytitle.setdefault(key,r)
     photo_report=[]
     for (year,path),files in photos.items():
         subject,method=subject_for(files[0],m);folder=folders.get((year,path))
         if not folder:raise ValueError('Missing photo-folder provenance: '+path)
         title='Photo set — '+(subject or 'Year '+str(year)+' revision')+' — '+str(len(files))+' images'
         r=dict(year=year,path=path,id='photos-'+folder,name=title,title=title,mime='image/*',size=sum(f['size'] or 0 for f in files),updated=max(f['updated'] or '' for f in files),url='https://drive.google.com/drive/folders/'+folder,subject=subject,subjectSlug=slug(subject) if subject else None,kind='images',group=KINDS['images'],format='IMG',mapping=method,photoIds=[f['id'] for f in files],duplicateIds=[],variants=[])
-        r['variants']=[{k:r[k] for k in ['id','name','mime','size','updated','url','format']}];merged.append(r)
+        r['variants']=[dict({k:r[k] for k in ['id','name','mime','size','updated','url','format']},extension='Images')];merged.append(r)
         photo_report.append({'year':year,'subject':subject,'folder':path,'url':r['url'],'count':len(files)})
     for r in merged:
         r['type']={'notes':'Note','books':'Book','practical':'Practical','objective':'Objective','presentation':'Slides','images':'Photo set','other':'Resource'}[r['kind']]

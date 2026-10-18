@@ -81,13 +81,16 @@ def structured(path,title,description,items,home,body,records,date):
     if not home:
         crumbs=[('Home','/')]
         if path.startswith('/bvsc/') and path!='/bvsc/':crumbs.append(('BVSc Notes & Books','/bvsc/'))
+        year=re.match(r'/bvsc/(year-([1-4]))/[^/]+/',path)
+        if year:crumbs.append(('Year '+year[2],'/bvsc/'+year[1]+'/'))
         crumbs.append((title,path))
         graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]})
     pairs=faq_for(path)
     if pairs:graph.append({'@type':'FAQPage','@id':BASE+path+'#faq','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in pairs]})
     for r in records:
         if not r['url'] or escape(r['url'],quote=True) not in body:continue
-        graph.append({'@type':'LearningResource','@id':BASE+'/#resource-'+r['id'],'name':r['title'],'url':r['url'],'description':r['description'],'learningResourceType':r['type'],'educationalLevel':'BVSc & AH','teaches':r['subject'] or 'Veterinary study and reference skills','inLanguage':'en','encodingFormat':r['mime'],'isBasedOn':{'@type':'WebPage','url':r['url']},**({'creditText':r['sourceCredit']} if r.get('sourceCredit') else {}),**({'dateModified':r['updated']} if r.get('updated') else {})})
+        for variant in r['variants']:
+            graph.append({'@type':'LearningResource','@id':BASE+'/#resource-'+variant['id'],'name':r['title'],'url':variant['url'],'description':r['description'],'learningResourceType':r['type'],'educationalLevel':'BVSc & AH','teaches':r['subject'] or 'Veterinary study','inLanguage':'en','encodingFormat':variant['mime'],'isBasedOn':{'@type':'WebPage','url':variant['url']},**({'creditText':r['sourceCredit']} if r.get('sourceCredit') else {}),**({'dateModified':variant['updated']} if variant.get('updated') else {})})
     return json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')
 
 def social(path):

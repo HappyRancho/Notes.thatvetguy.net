@@ -13,7 +13,7 @@ def empty(b,text='Coming soon'):
 def matching(b,category):return [r for r in b.RECORDS if category in r['collections']]
 def file_card(b,r):
     rid=r['id'];title=e(r['title']);original=e(r['name'],quote=True)
-    formats=''.join(b.link(v['url'],e(v['format'])+' '+b.icon('external'),'format-link') for v in r['variants'])
+    formats=''.join(b.link(v['url'],e(v['extension'])+' '+b.icon('external'),'format-link') for v in r['variants'])
     download=''.join(b.link(v['download'],'Download '+e(v['format']),'text-link') for v in r['variants'] if v['download'])
     updated='<time datetime="'+e(r['updated'],quote=True)+'">'+e(r['updated'][:10])+'</time>' if r['updated'] else 'Unknown'
     credit='<p>Source credit: '+e(r['sourceCredit'])+'</p>' if r['sourceCredit'] else ''
@@ -35,7 +35,8 @@ def group(b,title,rows,ident,opened=False,render=file_card,level=2,filterkey=Non
 def subject_page(b,y,s):
     year=y['year'];name=s['name'];path='/bvsc/year-'+str(year)+'/'+s['slug']+'/'
     rows=[b.CATALOGUE[r] for r in s['resourceIds']];summary=b.SUBJECTS[name]['summary']
-    body=b.article_intro(name,summary,[('BVSc','/bvsc/'),(b.DATA['labels'][str(year)],'/bvsc/year-'+str(year)+'/')])
+    intro=name+' notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.'
+    body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(b.DATA['labels'][str(year)],'/bvsc/year-'+str(year)+'/')])
     body+='<div class="subject-toolbar"><p>'+count(len(rows))+' · '+b.DATA['labels'][str(year)]+'</p><button type="button" class="studied-button js-only" data-studied="'+s['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></div>'
     body+='<div class="filter-collection">'+controls(b,[(k,v) for k,v in KINDS.items() if k!='images'])
     first=True
@@ -45,7 +46,7 @@ def subject_page(b,y,s):
         body+=group(b,title,own,slug(title),first,filterkey='other' if kind=='images' else kind);first=False
     if not rows:body+=empty(b)
     body+='<p class="filter-empty" hidden>No resources match. '+b.link('/request-resource/','Request a resource')+'</p></div>'
-    body+='<details class="syllabus"><summary>What to revise in this subject '+b.icon('arrow')+'</summary><ul>'+''.join('<li>'+e(t)+'</li>' for t in b.SUBJECTS[name]['topics'])+'</ul><p>'+e(b.SUBJECTS[name]['studyTip'])+'</p></details>'
+    body+='<details class="syllabus"><summary>What to revise in this subject '+b.icon('arrow')+'</summary><p>'+e(summary)+'</p><ul>'+''.join('<li>'+e(t)+'</li>' for t in b.SUBJECTS[name]['topics'])+'</ul><p>'+e(b.SUBJECTS[name]['studyTip'])+'</p></details>'
     body+='<section class="related-section"><h2>Keep the connections.</h2><div class="related-links">'+''.join(b.link('/bvsc/'+slug(n)+'/',e(n)+b.icon('arrow')) for n in b.SUBJECTS[name]['related'])+'</div></section></div>'
     b.write_page(path,name+' · '+b.DATA['labels'][str(year)],summary,body,[(r['title'],r['url']) for r in rows])
 def overview(b):
@@ -73,7 +74,7 @@ def guides(b):
         b.write_page(path,name,m['summary'],body,[(name+' resources',owner)])
 def collections(b):
     desc=b.geo.META['/objective/']['summary'];body=b.article_intro('Objective Resources',desc)+b.section_aside('objective')
-    body+='<section class="content-section" id="icar-pyq"><h2>ICAR PYQ Question Bank</h2><p>Past ICAR entrance papers, when available.</p>'+empty(b,'ICAR papers — coming soon')+'</section>'
+    body+='<section class="content-section pyq-state" id="icar-pyq"><div><h2>ICAR PYQ Question Bank</h2><p>Coming soon. Know a paper we should add?</p></div>'+b.link('/request-resource/?collection=icar-pyq','Request a paper '+b.icon('arrow'),'text-link')+'</section>'
     rows=matching(b,'objective-questions');subjects=sorted({r['subject'] for r in rows if r['subject']})
     body+='<section class="content-section" id="subject-wise"><h2>Subject-wise Objective Questions</h2><p>Choose a subject. Keep your revision focused.</p><div class="filter-collection">'+controls(b,[(slug(s),s.replace('Veterinary ','')) for s in subjects],'objective',True)
     for i,s in enumerate(subjects):body+=group(b,s,[r for r in rows if r['subject']==s],slug(s),i==0,teaser,3)

@@ -33,3 +33,5 @@
 @media(prefers-reduced-motion:reduce){.reveal-pending{opacity:1;transform:none}.filter-marker{display:none}.has-marker button[aria-pressed=true]{background:var(--lime);border-color:var(--ink)}::view-transition-old(root),::view-transition-new(root){animation:none!important}.resource-group::details-content,.syllabus::details-content{transition:none}}
 
 html{scrollbar-gutter:stable}html:has(dialog[open]){overflow:hidden}
+
+.subject-toolbar{display:grid;grid-template-columns:minmax(0,1fr) auto}.subject-toolbar>p{min-width:0;line-height:1.4}.studied-button{white-space:nowrap}h2,h3{text-wrap:balance}.pyq-state{display:flex;align-items:center;justify-content:space-between;gap:var(--space-4);flex-wrap:wrap;padding:var(--space-5);border:1px dashed var(--line);border-radius:var(--radius-sm)}.pyq-state h2{font-size:22px}.pyq-state p{font-size:var(--small);color:var(--muted);margin-top:var(--space-2)}.pyq-state+.content-section{margin-top:var(--space-8)}
