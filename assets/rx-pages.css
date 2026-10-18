@@ -149,3 +149,10 @@
 
 /* Parent breadcrumbs already identify the route; the H1 names this page. */
 .rx-inner .breadcrumbs > span:last-child{display:none}
+
+.rx-inner .book-guide-list{display:grid;gap:12px;margin:16px 0}
+.rx-inner .book-guide-card{display:grid;grid-template-columns:40px minmax(0,1fr);gap:12px;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:14px}
+.rx-inner .book-guide-card h3{font:700 18px/1.25 var(--rx-heading);margin:0 0 6px}
+.rx-inner .book-guide-card p{margin:6px 0 0;line-height:1.5;font-size:14px}
+.rx-inner .book-guide-card .book-author{font-weight:600;color:var(--muted)}
+@media(min-width:768px){.rx-inner .book-guide-list{grid-template-columns:repeat(2,minmax(0,1fr))}}

@@ -88,8 +88,8 @@ def tools():
 
 def clinical():
     body='<header class="rx-clinical-heading"><div><h2>Clinical Resources</h2><svg class="rx-underline" viewBox="0 0 320 10" aria-hidden="true"><path d="M2 6Q12-2 22 6T42 6T62 6T82 6T102 6T122 6T142 6T162 6T182 6T202 6T222 6T242 6T262 6T282 6T302 6T318 6"/></svg></div><span>'+icon('stethoscope')+burst()+'</span><p class="rx-hand">Check the dose twice. The patient can’t leave a review.</p></header><div class="rx-clinical-grid">'
-    for title,url,box in [('Handbooks Collection','/clinical/#handbooks',(36,577,331,470)),('Drug Index Collection','/clinical/#drug-index',(374,577,315,470))]:
-        body+=link(url,art('clinical',box,'rx-clinical-art')+'<h3 class="sr-only">'+title+'</h3>','rx-clinical-card')
+    for title,url,asset,tone in [('Handbooks Collection','/clinical/handbooks/','doctor-suitcase','mint'),('Drug Index Collection','/clinical/drug-index/','rx-prescription','yellow')]:
+        body+=link(url,'<img src="/assets/home/'+asset+'.webp" width="384" height="512" alt="" loading="lazy" decoding="async"><h3 class="rx-clinical-label">'+title+'</h3><span class="rx-clinical-open" aria-hidden="true">'+icon('chevron')+'</span>','rx-clinical-card rx-real-clinical '+tone)
     return '<section class="rx-section rx-clinical" id="clinical">'+body+'</div></section>'
 
 def backbench():
