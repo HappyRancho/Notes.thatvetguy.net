@@ -112,9 +112,10 @@ Show 19 more 19 remaining
 
 ### Veterinary Surgery and Radiology
 
-1
+2
 
 [PDF500 MCQ of Surgery & RadiologyVeterinary Surgery and Radiology · Objective](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1a1uRaOzSKQ4GgWY3R9Fl1b84aCCt_2nl)
+[PDFvar one mark 2Veterinary Surgery and Radiology · Objective](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

@@ -1763,10 +1763,10 @@
         {
           "name": "Veterinary Surgery and Radiology",
           "slug": "veterinary-surgery-and-radiology",
-          "count": 143,
+          "count": 144,
           "groups": {
             "practical": 18,
-            "objective": 8,
+            "objective": 9,
             "presentation": 76,
             "books": 8,
             "other": 13,
@@ -1907,6 +1907,7 @@
             "119W4Pu1WpwIu1FD3ZheXvqsDn3Usl7QZ",
             "1XXUr4iVI2cbUyhCIiIsr-na9Qlu2N_pv",
             "18-Iu0Rc8ruVWjAUl97_473q1DueCKDDZ",
+            "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
             "1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1",
             "1jKrg6bfxcGWDKGCpfEbj2D-9hInzRLNO",
             "1kPfafP9E7frMdumLZnq4FNOx0zVPCOZs",
@@ -2007,7 +2008,6 @@
         "1cCjRsAG9oTFysgaSv74AORrctyOAVtkf",
         "1r6moeL6ZOxdMHgpmtMuV_cSeSh8DSlT6",
         "1YwUkP-lYlStOvMtgWXcSE5tZw76KZNtW",
-        "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
         "1YEfRXibZlDDa7rFuQkEf36beZNfvs7ZI",
         "1ym0is2skylb4qdffl62nzaIbm7GJ5lcv"
       ],
@@ -2621,6 +2621,13 @@
         "title": "Transfer of technology - ICAR projects",
         "kind": "presentation",
         "reason": "Extension education presentation, not an entrance examination paper."
+      },
+      {
+        "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+        "title": "var one mark 2",
+        "subject": "Veterinary Surgery and Radiology",
+        "kind": "objective",
+        "reason": "Same normalised title and byte size as 1hk80c8lL9o6nZKjlZOeu9H4B5PUn0RuY in Surgery/Others; duplicate folder establishes the subject."
       }
     ],
     "extras": [
@@ -2667,12 +2674,6 @@
         "path": "Question Papers/Scan 31 Aug 22 \u00b7 08\u00b740\u00b753.pdf"
       },
       {
-        "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
-        "year": 4,
-        "title": "var one mark 2",
-        "path": "Question Papers/var one mark 2.pdf"
-      },
-      {
         "id": "1YEfRXibZlDDa7rFuQkEf36beZNfvs7ZI",
         "year": 4,
         "title": "vet Questions",
@@ -2686,6 +2687,6 @@
       }
     ]
   },
-  "homeGzipBytes": 18463,
-  "jsGzipBytes": 6723
+  "homeGzipBytes": 18719,
+  "jsGzipBytes": 6963
 }

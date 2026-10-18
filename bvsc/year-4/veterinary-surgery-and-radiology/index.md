@@ -6,7 +6,7 @@
 
 Veterinary Surgery and Radiology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-143 resources · 4th Year
+144 resources · 4th Year
 
 Search this collection
 
@@ -328,7 +328,7 @@ Updated 2023-07-10 · 6.9 MB
 
 ## Objective
 
-8
+9
 
 PDF
 500 MCQ of Surgery & Radiology181 KB[Open 500 MCQ of Surgery & Radiology](https://drive.google.com/file/d/1a1uRaOzSKQ4GgWY3R9Fl1b84aCCt_2nl/view)
@@ -369,6 +369,14 @@ Updated 2022-11-29 · 17.5 MB
 
 [PDF ](https://drive.google.com/file/d/1j4tuSBIu_pRghz8A64wjgmGN1oddxFbp/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1j4tuSBIu_pRghz8A64wjgmGN1oddxFbp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1j4tuSBIu_pRghz8A64wjgmGN1oddxFbp#report)
+
+PDF
+var one mark 22.9 MB[Open var one mark 2](https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view)
+
+Updated 2022-11-29 · 2.9 MB
+
+[PDF ](https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view)
+[Download PDF](https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of#report)
 
 PDF
 vsr7.7 MB[Open vsr](https://drive.google.com/file/d/1o-FMsaqqatp6ITtyQfPMuSIlS4DxeZZn/view)

@@ -14,11 +14,11 @@ Notes, books and practical material for 4th Year BVSc & AH. Choose a subject to 
 
 Notes 44 · Slides 69 · Extras 19 · Practical 9 · Books 17 · Objective 3 · Images 2
 
-](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[143 resources
+](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[144 resources
 
 ## Veterinary Surgery and Radiology
 
-Practical 18 · Objective 8 · Slides 76 · Books 8 · Extras 13 · Notes 12 · Images 8
+Practical 18 · Objective 9 · Slides 76 · Books 8 · Extras 13 · Notes 12 · Images 8
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[56 resources
 
@@ -40,7 +40,7 @@ These resources don’t yet have a confirmed subject.
 
 ### Extras
 
-9
+8
 
 PDF
 Board question paper8.2 MB[Open Board question paper](https://drive.google.com/file/d/1DBGhjon8Jq1PEDAJ1mHIYdYx8cj9ITxf/view)
@@ -89,14 +89,6 @@ Updated 2022-11-29 · 15.0 MB
 
 [PDF ](https://drive.google.com/file/d/1YwUkP-lYlStOvMtgWXcSE5tZw76KZNtW/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1YwUkP-lYlStOvMtgWXcSE5tZw76KZNtW)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YwUkP-lYlStOvMtgWXcSE5tZw76KZNtW#report)
-
-PDF
-var one mark 22.9 MB[Open var one mark 2](https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view)
-
-Updated 2022-11-29 · 2.9 MB
-
-[PDF ](https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of#report)
 
 PDF
 vet Questions11.1 MB[Open vet Questions](https://drive.google.com/file/d/1YEfRXibZlDDa7rFuQkEf36beZNfvs7ZI/view)

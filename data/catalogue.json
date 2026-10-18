@@ -74230,6 +74230,53 @@
   },
   {
     "year": 4,
+    "path": "Question Papers/var one mark 2.pdf",
+    "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+    "name": "var one mark 2.pdf",
+    "mime": "application/pdf",
+    "size": 2919083,
+    "updated": "2022-11-29T11:54:47Z",
+    "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
+    "title": "var one mark 2",
+    "subject": "Veterinary Surgery and Radiology",
+    "subjectSlug": "veterinary-surgery-and-radiology",
+    "kind": "objective",
+    "group": "Objective",
+    "format": "PDF",
+    "mapping": "needs subject review",
+    "duplicateIds": [
+      "1hk80c8lL9o6nZKjlZOeu9H4B5PUn0RuY"
+    ],
+    "photoIds": [],
+    "variants": [
+      {
+        "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+        "name": "var one mark 2.pdf",
+        "mime": "application/pdf",
+        "size": 2919083,
+        "updated": "2022-11-29T11:54:47Z",
+        "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
+        "format": "PDF",
+        "extension": "PDF",
+        "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of"
+      }
+    ],
+    "type": "Objective",
+    "page": "/bvsc/year-4/veterinary-surgery-and-radiology/",
+    "permalink": "/bvsc/year-4/veterinary-surgery-and-radiology/#file-1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+    "source": "Google Drive",
+    "sourceCredit": null,
+    "lastVerified": "2026-10-14",
+    "description": "Objective · Veterinary Surgery and Radiology",
+    "keywords": "Question Papers/var one mark 2.pdf",
+    "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+    "collections": [
+      "objective-questions"
+    ],
+    "new": false
+  },
+  {
+    "year": 4,
     "path": "Surgery/Practicals/Manual/VCP Surgery.pdf",
     "id": "1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1",
     "name": "VCP Surgery.pdf",
@@ -74915,51 +74962,6 @@
     "description": "Objective · Year 4 extras",
     "keywords": "Question Papers/Scan 31 Aug 22 · 08·40·53.pdf",
     "download": "https://drive.google.com/uc?export=download&id=1YwUkP-lYlStOvMtgWXcSE5tZw76KZNtW",
-    "collections": [],
-    "new": false
-  },
-  {
-    "year": 4,
-    "path": "Question Papers/var one mark 2.pdf",
-    "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
-    "name": "var one mark 2.pdf",
-    "mime": "application/pdf",
-    "size": 2919083,
-    "updated": "2022-11-29T11:54:47Z",
-    "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
-    "title": "var one mark 2",
-    "subject": null,
-    "subjectSlug": null,
-    "kind": "objective",
-    "group": "Objective",
-    "format": "PDF",
-    "mapping": "needs subject review",
-    "duplicateIds": [
-      "1hk80c8lL9o6nZKjlZOeu9H4B5PUn0RuY"
-    ],
-    "photoIds": [],
-    "variants": [
-      {
-        "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
-        "name": "var one mark 2.pdf",
-        "mime": "application/pdf",
-        "size": 2919083,
-        "updated": "2022-11-29T11:54:47Z",
-        "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
-        "format": "PDF",
-        "extension": "PDF",
-        "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of"
-      }
-    ],
-    "type": "Objective",
-    "page": "/bvsc/year-4/",
-    "permalink": "/bvsc/year-4/#file-1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
-    "source": "Google Drive",
-    "sourceCredit": null,
-    "lastVerified": "2026-10-14",
-    "description": "Objective · Year 4 extras",
-    "keywords": "Question Papers/var one mark 2.pdf",
-    "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
     "collections": [],
     "new": false
   },

@@ -74233,6 +74233,53 @@
     },
     {
       "year": 4,
+      "path": "Question Papers/var one mark 2.pdf",
+      "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+      "name": "var one mark 2.pdf",
+      "mime": "application/pdf",
+      "size": 2919083,
+      "updated": "2022-11-29T11:54:47Z",
+      "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
+      "title": "var one mark 2",
+      "subject": "Veterinary Surgery and Radiology",
+      "subjectSlug": "veterinary-surgery-and-radiology",
+      "kind": "objective",
+      "group": "Objective",
+      "format": "PDF",
+      "mapping": "needs subject review",
+      "duplicateIds": [
+        "1hk80c8lL9o6nZKjlZOeu9H4B5PUn0RuY"
+      ],
+      "photoIds": [],
+      "variants": [
+        {
+          "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+          "name": "var one mark 2.pdf",
+          "mime": "application/pdf",
+          "size": 2919083,
+          "updated": "2022-11-29T11:54:47Z",
+          "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of"
+        }
+      ],
+      "type": "Objective",
+      "page": "/bvsc/year-4/veterinary-surgery-and-radiology/",
+      "permalink": "/bvsc/year-4/veterinary-surgery-and-radiology/#file-1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+      "source": "Google Drive",
+      "sourceCredit": null,
+      "lastVerified": "2026-10-14",
+      "description": "Objective · Veterinary Surgery and Radiology",
+      "keywords": "Question Papers/var one mark 2.pdf",
+      "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
+      "collections": [
+        "objective-questions"
+      ],
+      "new": false
+    },
+    {
+      "year": 4,
       "path": "Surgery/Practicals/Manual/VCP Surgery.pdf",
       "id": "1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1",
       "name": "VCP Surgery.pdf",
@@ -74918,51 +74965,6 @@
       "description": "Objective · Year 4 extras",
       "keywords": "Question Papers/Scan 31 Aug 22 · 08·40·53.pdf",
       "download": "https://drive.google.com/uc?export=download&id=1YwUkP-lYlStOvMtgWXcSE5tZw76KZNtW",
-      "collections": [],
-      "new": false
-    },
-    {
-      "year": 4,
-      "path": "Question Papers/var one mark 2.pdf",
-      "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
-      "name": "var one mark 2.pdf",
-      "mime": "application/pdf",
-      "size": 2919083,
-      "updated": "2022-11-29T11:54:47Z",
-      "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
-      "title": "var one mark 2",
-      "subject": null,
-      "subjectSlug": null,
-      "kind": "objective",
-      "group": "Objective",
-      "format": "PDF",
-      "mapping": "needs subject review",
-      "duplicateIds": [
-        "1hk80c8lL9o6nZKjlZOeu9H4B5PUn0RuY"
-      ],
-      "photoIds": [],
-      "variants": [
-        {
-          "id": "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
-          "name": "var one mark 2.pdf",
-          "mime": "application/pdf",
-          "size": 2919083,
-          "updated": "2022-11-29T11:54:47Z",
-          "url": "https://drive.google.com/file/d/1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of/view",
-          "format": "PDF",
-          "extension": "PDF",
-          "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of"
-        }
-      ],
-      "type": "Objective",
-      "page": "/bvsc/year-4/",
-      "permalink": "/bvsc/year-4/#file-1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
-      "source": "Google Drive",
-      "sourceCredit": null,
-      "lastVerified": "2026-10-14",
-      "description": "Objective · Year 4 extras",
-      "keywords": "Question Papers/var one mark 2.pdf",
-      "download": "https://drive.google.com/uc?export=download&id=1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
       "collections": [],
       "new": false
     },
@@ -76817,10 +76819,10 @@
         {
           "name": "Veterinary Surgery and Radiology",
           "slug": "veterinary-surgery-and-radiology",
-          "count": 143,
+          "count": 144,
           "groups": {
             "practical": 18,
-            "objective": 8,
+            "objective": 9,
             "presentation": 76,
             "books": 8,
             "other": 13,
@@ -76961,6 +76963,7 @@
             "119W4Pu1WpwIu1FD3ZheXvqsDn3Usl7QZ",
             "1XXUr4iVI2cbUyhCIiIsr-na9Qlu2N_pv",
             "18-Iu0Rc8ruVWjAUl97_473q1DueCKDDZ",
+            "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
             "1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1",
             "1jKrg6bfxcGWDKGCpfEbj2D-9hInzRLNO",
             "1kPfafP9E7frMdumLZnq4FNOx0zVPCOZs",
@@ -77061,7 +77064,6 @@
         "1cCjRsAG9oTFysgaSv74AORrctyOAVtkf",
         "1r6moeL6ZOxdMHgpmtMuV_cSeSh8DSlT6",
         "1YwUkP-lYlStOvMtgWXcSE5tZw76KZNtW",
-        "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of",
         "1YEfRXibZlDDa7rFuQkEf36beZNfvs7ZI",
         "1ym0is2skylb4qdffl62nzaIbm7GJ5lcv"
       ],
