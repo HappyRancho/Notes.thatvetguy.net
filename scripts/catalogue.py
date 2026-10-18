@@ -15,7 +15,7 @@ def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 def natural(s):return [int(p) if p.isdigit() else p.lower() for p in re.split(r'(\d+)',s)]
 def clean_title(name):
     title=EXT.sub('',name).replace('_',' ')
-    title=re.sub(r'^\s*(?:\d+[.)\-]\s*|\d+\s+-\s*)','',title)
+    title=re.sub(r'^\s*(?:\d{1,3}[.)\-]\s*|\d{1,3}\s+-\s*)','',title)
     title=re.sub(r'\s*(?:\(\d+\)|[-–]\s*final|\bcopy(?: of)?\b)\s*',' ',title,flags=re.I)
     title=re.sub('antihyperetensive','antihypertensive',title,flags=re.I)
     title=re.sub(r'vasodilators(?=antihypertensive)','Vasodilators ',title,flags=re.I)
@@ -81,7 +81,7 @@ def build_library(refresh=False):
             r['variants']=[dict({k:r[k] for k in ['id','name','mime','size','updated','url','format']},extension=extension)];merged.append(r);bytitle.setdefault(key,r)
     photo_report=[]
     for (year,path),files in photos.items():
-        subject,method=subject_for(files[0],m);folder=folders.get((year,path))
+        subject,method=subject_for(files[0],m);folder=folders.get((year,path)) or files[0].get('parentId')
         if not folder:raise ValueError('Missing photo-folder provenance: '+path)
         title='Photo set — '+(subject or 'Year '+str(year)+' revision')+' — '+str(len(files))+' images'
         r=dict(year=year,path=path,id='photos-'+folder,name=title,title=title,mime='image/*',size=sum(f['size'] or 0 for f in files),updated=max(f['updated'] or '' for f in files),url='https://drive.google.com/drive/folders/'+folder,subject=subject,subjectSlug=slug(subject) if subject else None,kind='images',group=KINDS['images'],format='IMG',mapping=method,photoIds=[f['id'] for f in files],duplicateIds=[],variants=[])
@@ -90,11 +90,13 @@ def build_library(refresh=False):
     for r in merged:
         r['type']={'notes':'Note','books':'Book','practical':'Practical','objective':'Objective','presentation':'Slides','images':'Photo set','other':'Resource'}[r['kind']]
         r['page']='/bvsc/year-'+str(r['year'])+'/'+(r['subjectSlug']+'/' if r['subjectSlug'] else '')
-        r['permalink']=r['page']+'#file-'+r['id'];r['source']='Google Drive';r['sourceCredit']=m['fileOverrides'].get(r['id'],{}).get('sourceCredit')
+        r['permalink']=r['page']+'#file-'+r['id'];r['source']='Google Drive';r['sourceCredit']=m['fileOverrides'].get(r['id'],{}).get('sourceCredit') or r.get('sourceCredit')
         r['lastVerified']=m['lastInspected'];r['description']=r['group']+' · '+(r['subject'] or 'Year '+str(r['year'])+' extras');r['keywords']=r['path']
         for v in r['variants']:v['download']='https://drive.google.com/uc?export=download&id='+v['id'] if not r['photoIds'] and isinstance(v['size'],int) and v['size']<25_000_000 and not v['mime'].startswith('application/vnd.google-apps.') else None
         r['download']=r['variants'][0]['download'];allids={v['id'] for v in r['variants']}|set(r['duplicateIds'])
         r['collections']=[name for name,col in c['collections'].items() if allids&set(col['include']) and not allids&set(col['exclude'])]
+        if 'handbooks' in r['collections']:r['type']='Handbook'
+        elif r['kind']=='images' and not r['photoIds']:r['type']='Image'
         r['new']=bool(r['updated'] and 0 <= (datetime.now(timezone.utc)-datetime.fromisoformat(r['updated'].replace('Z','+00:00'))).days <=30)
     merged.sort(key=lambda r:(r['year'],natural(r['subject'] or 'zz'),natural(r['title'])))
     years=[]

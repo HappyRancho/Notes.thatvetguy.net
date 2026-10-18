@@ -11,7 +11,8 @@ ROOT=Path(__file__).resolve().parent.parent;OUT=ROOT/'assets/fonts';OUT.mkdir(ex
 SOURCES=[('bricolage','bricolagegrotesque','BricolageGrotesque[opsz,wdth,wght].ttf',{'opsz':32,'wdth':100,'wght':(700,800)}),('inter','inter','Inter[opsz,wght].ttf',{'opsz':14,'wght':(400,600)}),('caveat','caveat','Caveat[wght].ttf',{'wght':500})]
 for name,folder,filename,axes in SOURCES:
     dest=OUT/(name+'-latin.woff2')
-    if dest.exists():continue
+    if dest.exists():
+        font=TTFont(dest);font.flavor=None;font.save('/tmp/'+name+'-social.ttf');continue
     base='https://raw.githubusercontent.com/google/fonts/main/ofl/'+folder+'/'
     with urlopen(Request(base+quote(filename),headers={'User-Agent':'NotesThatVetGuy-build'}),timeout=30) as r:raw=r.read()
     font=instantiateVariableFont(TTFont(BytesIO(raw)),axes,inplace=True)

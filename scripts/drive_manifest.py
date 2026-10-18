@@ -37,7 +37,7 @@ def import_api(key,request=None):
    seen.add(folder)
    for f in list_children(folder,key,request):
     if f['mimeType']==FOLDER_MIME:queue.append((f['id'],path+[f['name']]));continue
-    records.append({'year':year,'path':'/'.join(path+[f['name']]),'id':f['id'],'name':f['name'],'mime':f['mimeType'],'size':int(f['size']) if f.get('size') is not None else None,'updated':f.get('modifiedTime'),'url':f.get('webViewLink') or 'https://drive.google.com/file/d/'+f['id']+'/view'})
+    records.append({'year':year,'path':'/'.join(path+[f['name']]),'parentId':folder,'id':f['id'],'name':f['name'],'mime':f['mimeType'],'size':int(f['size']) if f.get('size') is not None else None,'updated':f.get('modifiedTime'),'url':f.get('webViewLink') or 'https://drive.google.com/file/d/'+f['id']+'/view'})
  return records
 def validate(records):
  if not isinstance(records,list):raise ValueError('Manifest must be a JSON array')

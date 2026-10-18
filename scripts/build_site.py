@@ -1,12 +1,12 @@
 """Static renderer. Source data stays independent of presentation."""
 from pathlib import Path
 from html import escape
-import hashlib,json,re,sys
+import hashlib,json,re,sys,os
 from library import build_library,slug
 from ui import icon,link
 import geo,site_shell,library_pages
 ROOT=Path(__file__).resolve().parent.parent
-LIBRARY=build_library()
+LIBRARY=build_library(refresh=bool(os.getenv('DRIVE_API_KEY')))
 RECORDS=LIBRARY['files'];CATALOGUE={r['id']:r for r in RECORDS}
 DATA=json.loads((ROOT/'data/site-content.json').read_text())
 SUBJECTS=json.loads((ROOT/'data/subjects.json').read_text())
