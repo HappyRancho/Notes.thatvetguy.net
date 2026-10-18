@@ -4,7 +4,7 @@
 
 # Veterinary Clinical Practices I
 
-Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
+Veterinary Clinical Practices I notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 2 resources · 3rd Year
 
@@ -19,7 +19,7 @@ Photo set — Veterinary Clinical Practices I — 43 images4.0 MB[Open Photo set
 
 Updated 2022-03-05 · 4.0 MB
 
-[IMG ](https://drive.google.com/drive/folders/1XHPK6sZUHxfXekUBfLfm4REe4TJP2u-o)
+[Images ](https://drive.google.com/drive/folders/1XHPK6sZUHxfXekUBfLfm4REe4TJP2u-o)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1XHPK6sZUHxfXekUBfLfm4REe4TJP2u-o#report)
 
 ## Extras
@@ -37,6 +37,8 @@ Updated 2021-11-10 · 137 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
 
 - History taking and clinical examination
 - Animal handling and hospital routines

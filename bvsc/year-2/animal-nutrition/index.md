@@ -4,7 +4,7 @@
 
 # Animal Nutrition
 
-Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+Animal Nutrition notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 30 resources · 2nd Year
 
@@ -43,7 +43,7 @@ Feeding of Wild Captive Animals26 KB[Open Feeding of Wild Captive Animals](https
 
 Updated 2020-07-02 · 26 KB
 
-[DOC ](https://drive.google.com/file/d/1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB/view)
+[DOCX ](https://drive.google.com/file/d/1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB#report)
 
 DOC
@@ -51,7 +51,7 @@ Feeding Pet of Animals30 KB[Open Feeding Pet of Animals](https://drive.google.co
 
 Updated 2020-06-26 · 30 KB
 
-[DOC ](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)
+[DOCX ](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH#report)
 
 PDF
@@ -83,7 +83,7 @@ Nutrient Requirement and Feeding of Pigs36 KB[Open Nutrient Requirement and Feed
 
 Updated 2020-05-12 · 36 KB
 
-[DOC ](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)
+[DOCX ](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i#report)
 
 ## Books
@@ -123,7 +123,7 @@ ANN Paper I3.8 MB[Open ANN Paper I](https://drive.google.com/file/d/1lBPRs28cCOx
 
 Updated 2021-01-21 · 3.8 MB
 
-[PPT ](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)
+[PPTX ](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM#report)
 
 PPT
@@ -131,7 +131,7 @@ ANN Paper II2.7 MB[Open ANN Paper II](https://drive.google.com/file/d/1ETIEh_N1t
 
 Updated 2021-01-21 · 2.7 MB
 
-[PPT ](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)
+[PPTX ](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R#report)
 
 ## Objective
@@ -163,7 +163,7 @@ Feeding Management of Laying Hens 07.04.2020NEW6.4 MB[Open Feeding Management of
 
 Updated 2026-10-06 · 6.4 MB
 
-[PPT ](https://drive.google.com/file/d/164NbP0n0ylRIAUAY4pyfonKDCw0SAclt/view)
+[PPTX ](https://drive.google.com/file/d/164NbP0n0ylRIAUAY4pyfonKDCw0SAclt/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt#report)
 
 PPT
@@ -171,7 +171,7 @@ Feeding management of pigs3.7 MB[Open Feeding management of pigs](https://drive.
 
 Updated 2020-05-12 · 3.7 MB
 
-[PPT ](https://drive.google.com/file/d/1inejTwmm0gHTAxaDFEGqRnXApXmDSFum/view)
+[PPTX ](https://drive.google.com/file/d/1inejTwmm0gHTAxaDFEGqRnXApXmDSFum/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum#report)
 
 PPT
@@ -187,7 +187,7 @@ NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL6.4 MB[Open NPN compounds -Dr.C.Kat
 
 Updated 2020-04-16 · 6.4 MB
 
-[PPT ](https://drive.google.com/file/d/1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq/view)
+[PPTX ](https://drive.google.com/file/d/1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq#report)
 
 PPT
@@ -195,7 +195,7 @@ Pet Animal Nutrition- Revised3.6 MB[Open Pet Animal Nutrition- Revised](https://
 
 Updated 2020-10-20 · 3.6 MB
 
-[PPT ](https://drive.google.com/file/d/1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z/view)
+[PPTX ](https://drive.google.com/file/d/1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z#report)
 
 ## Images
@@ -207,7 +207,7 @@ Photo set — Animal Nutrition — 2 images244 KB[Open Photo set — Animal Nutr
 
 Updated 2019-12-21 · 244 KB
 
-[IMG ](https://drive.google.com/drive/folders/1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk)
+[Images ](https://drive.google.com/drive/folders/1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk#report)
 
 ## Extras
@@ -281,6 +281,8 @@ Updated 2020-10-16 · 337 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
 
 - Feed evaluation and digestion
 - Energy and protein nutrition

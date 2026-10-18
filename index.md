@@ -13,7 +13,7 @@ Searching…
 
 ↳ Search first. Panic later.
 
-- 1,707resources
+- 1,698resources
 - 19subjects
 - 4years
 
@@ -22,7 +22,7 @@ BVSc NOTES & BOOKS
 ## Pick your year.
 
 Your syllabus. Your starting point.
-[BVSc & AH1st year3 subjects · 457 resources](https://notes.thatvetguy.net/bvsc/year-1/)[BVSc & AH2nd year5 subjects · 326 resources](https://notes.thatvetguy.net/bvsc/year-2/)[BVSc & AH3rd year7 subjects · 551 resources](https://notes.thatvetguy.net/bvsc/year-3/)[BVSc & AH4th year4 subjects · 373 resources](https://notes.thatvetguy.net/bvsc/year-4/)
+[BVSc & AH1st year3 subjects · 453 resources](https://notes.thatvetguy.net/bvsc/year-1/)[BVSc & AH2nd year5 subjects · 325 resources](https://notes.thatvetguy.net/bvsc/year-2/)[BVSc & AH3rd year7 subjects · 549 resources](https://notes.thatvetguy.net/bvsc/year-3/)[BVSc & AH4th year4 subjects · 371 resources](https://notes.thatvetguy.net/bvsc/year-4/)
 
 ↳ Four years, one stethoscope, zero free weekends.
 

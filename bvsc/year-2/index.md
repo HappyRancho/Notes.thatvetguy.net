@@ -6,7 +6,7 @@
 
 Notes, books and practical material for 2nd Year BVSc & AH. Choose a subject to find your next read.
 
-5 subjects · 326 resources
+5 subjects · 325 resources
 
 [44 resources
 
@@ -26,11 +26,11 @@ Extras 13 · Practical 21 · Books 4 · Notes 12 · Slides 21 · Objective 3
 
 Books 3 · Slides 64 · Notes 17 · Extras 7 · Objective 2 · Practical 7 · Images 1
 
-](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[76 resources
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[75 resources
 
 ## Animal Genetics and Breeding
 
-Notes 14 · Slides 37 · Practical 15 · Extras 7 · Objective 3
+Notes 14 · Slides 36 · Practical 15 · Extras 7 · Objective 3
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[30 resources
 
@@ -53,7 +53,7 @@ Photo set — Year 2 revision — 136 images9.8 MB[Open Photo set — Year 2 rev
 
 Updated 2020-01-27 · 9.8 MB
 
-[IMG ](https://drive.google.com/drive/folders/1udDFWQDlMiRVWpnho39SbhQIvZW9shqY)
+[Images ](https://drive.google.com/drive/folders/1udDFWQDlMiRVWpnho39SbhQIvZW9shqY)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1udDFWQDlMiRVWpnho39SbhQIvZW9shqY#report)
 
 Year grouping may vary by university. Check your syllabus.

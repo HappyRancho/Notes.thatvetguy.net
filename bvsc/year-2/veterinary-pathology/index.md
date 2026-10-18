@@ -4,7 +4,7 @@
 
 # Veterinary Pathology
 
-Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
+Veterinary Pathology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 101 resources · 2nd Year
 
@@ -19,7 +19,7 @@ Avian2.0 MB[Open Avian](https://drive.google.com/file/d/1LlV-tdCiUtA3SKU4el49rHr
 
 Updated 2020-10-20 · 2.0 MB
 
-[DOC ](https://drive.google.com/file/d/1LlV-tdCiUtA3SKU4el49rHrvSRcXZBs9/view)
+[DOCX ](https://drive.google.com/file/d/1LlV-tdCiUtA3SKU4el49rHrvSRcXZBs9/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1LlV-tdCiUtA3SKU4el49rHrvSRcXZBs9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LlV-tdCiUtA3SKU4el49rHrvSRcXZBs9#report)
 
 DOC
@@ -27,7 +27,7 @@ Avian Pathology4.9 MB[Open Avian Pathology](https://drive.google.com/file/d/1MpM
 
 Updated 2025-01-08 · 4.9 MB
 
-[DOC ](https://drive.google.com/file/d/1MpMbszaxJnmF_IxjHZoPwWxO-HBDE3hY/view)[PPT ](https://drive.google.com/file/d/1JJlGHSu2HAL9tCFByBoguASJJc041TVB/view)
+[DOCX ](https://drive.google.com/file/d/1MpMbszaxJnmF_IxjHZoPwWxO-HBDE3hY/view)[PPTX ](https://drive.google.com/file/d/1JJlGHSu2HAL9tCFByBoguASJJc041TVB/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1MpMbszaxJnmF_IxjHZoPwWxO-HBDE3hY)[Download PPT](https://drive.google.com/uc?export=download&id=1JJlGHSu2HAL9tCFByBoguASJJc041TVB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MpMbszaxJnmF_IxjHZoPwWxO-HBDE3hY#report)
 
 PDF
@@ -35,7 +35,7 @@ Avian spirochaetosis, TB, Chamydiosis2.1 MB[Open Avian spirochaetosis, TB, Chamy
 
 Updated 2020-10-20 · 2.1 MB
 
-[PDF ](https://drive.google.com/file/d/1dAdzrr5cgKYVWofF2xpyvJpo1yBnk2R5/view)[PPT ](https://drive.google.com/file/d/15XeI9_2jMdMN8EPmxjEHS58JTcJ7hlco/view)
+[PDF ](https://drive.google.com/file/d/1dAdzrr5cgKYVWofF2xpyvJpo1yBnk2R5/view)[PPTX ](https://drive.google.com/file/d/15XeI9_2jMdMN8EPmxjEHS58JTcJ7hlco/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1dAdzrr5cgKYVWofF2xpyvJpo1yBnk2R5)[Download PPT](https://drive.google.com/uc?export=download&id=15XeI9_2jMdMN8EPmxjEHS58JTcJ7hlco)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dAdzrr5cgKYVWofF2xpyvJpo1yBnk2R5#report)
 
 PDF
@@ -59,7 +59,7 @@ FC, CRD, IC2.1 MB[Open FC, CRD, IC](https://drive.google.com/file/d/1AUB-T_sZQly
 
 Updated 2020-10-20 · 2.1 MB
 
-[PDF ](https://drive.google.com/file/d/1AUB-T_sZQlyWMZd1NuH90bsxPYXyqJsY/view)[PPT ](https://drive.google.com/file/d/1gO9c5zSWyBueCW8V2i1fYM9JDN8a88It/view)
+[PDF ](https://drive.google.com/file/d/1AUB-T_sZQlyWMZd1NuH90bsxPYXyqJsY/view)[PPTX ](https://drive.google.com/file/d/1gO9c5zSWyBueCW8V2i1fYM9JDN8a88It/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1AUB-T_sZQlyWMZd1NuH90bsxPYXyqJsY)[Download PPT](https://drive.google.com/uc?export=download&id=1gO9c5zSWyBueCW8V2i1fYM9JDN8a88It)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AUB-T_sZQlyWMZd1NuH90bsxPYXyqJsY#report)
 
 PDF
@@ -67,7 +67,7 @@ Fungal diseases2.2 MB[Open Fungal diseases](https://drive.google.com/file/d/1vfB
 
 Updated 2020-10-20 · 2.2 MB
 
-[PDF ](https://drive.google.com/file/d/1vfBsVXqPg5Mq0gs1YTV244RYcVzXxtJM/view)[PPT ](https://drive.google.com/file/d/1lXP93tIUfCDl_Om2MWY8Vzvq0BwiiKPi/view)
+[PDF ](https://drive.google.com/file/d/1vfBsVXqPg5Mq0gs1YTV244RYcVzXxtJM/view)[PPTX ](https://drive.google.com/file/d/1lXP93tIUfCDl_Om2MWY8Vzvq0BwiiKPi/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1vfBsVXqPg5Mq0gs1YTV244RYcVzXxtJM)[Download PPT](https://drive.google.com/uc?export=download&id=1lXP93tIUfCDl_Om2MWY8Vzvq0BwiiKPi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vfBsVXqPg5Mq0gs1YTV244RYcVzXxtJM#report)
 
 PDF
@@ -123,7 +123,7 @@ Theory-CVS3.0 MB[Open Theory-CVS](https://drive.google.com/file/d/1-HeTDOv4bnWAY
 
 Updated 2020-10-20 · 3.0 MB
 
-[DOC ](https://drive.google.com/file/d/1-HeTDOv4bnWAY-gASvNzmzno1MIxJsQ7/view)
+[DOCX ](https://drive.google.com/file/d/1-HeTDOv4bnWAY-gASvNzmzno1MIxJsQ7/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1-HeTDOv4bnWAY-gASvNzmzno1MIxJsQ7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-HeTDOv4bnWAY-gASvNzmzno1MIxJsQ7#report)
 
 PDF
@@ -195,7 +195,7 @@ Knizocytes48 KB[Open Knizocytes](https://drive.google.com/file/d/1khunm9ZJ2aHVds
 
 Updated 2022-03-23 · 48 KB
 
-[PPT ](https://drive.google.com/file/d/1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw/view)
+[PPTX ](https://drive.google.com/file/d/1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw#report)
 
 PPT
@@ -203,7 +203,7 @@ Pappenheimer Bodies59 KB[Open Pappenheimer Bodies](https://drive.google.com/file
 
 Updated 2022-03-23 · 59 KB
 
-[PPT ](https://drive.google.com/file/d/10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp/view)
+[PPTX ](https://drive.google.com/file/d/10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp#report)
 
 PPT
@@ -211,7 +211,7 @@ Revision Paper 122.7 MB[Open Revision Paper 1](https://drive.google.com/file/d/1
 
 Updated 2020-12-30 · 22.7 MB
 
-[PPT ](https://drive.google.com/file/d/18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45/view)
+[PPTX ](https://drive.google.com/file/d/18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45#report)
 
 PPT
@@ -219,7 +219,7 @@ Revision Paper II39.6 MB[Open Revision Paper II](https://drive.google.com/file/d
 
 Updated 2021-01-02 · 39.6 MB
 
-[PPT ](https://drive.google.com/file/d/17puIdVeeV55yFgDGkYGrV-xk6kCrJROA/view)
+[PPTX ](https://drive.google.com/file/d/17puIdVeeV55yFgDGkYGrV-xk6kCrJROA/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17puIdVeeV55yFgDGkYGrV-xk6kCrJROA#report)
 
 PPT
@@ -227,7 +227,7 @@ Special Pathology -Part II25.7 MB[Open Special Pathology -Part II](https://drive
 
 Updated 2020-12-18 · 25.7 MB
 
-[PPT ](https://drive.google.com/file/d/12-hJ8akVl_5pRhIzki4y6siJih_-_XbX/view)
+[PPTX ](https://drive.google.com/file/d/12-hJ8akVl_5pRhIzki4y6siJih_-_XbX/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12-hJ8akVl_5pRhIzki4y6siJih_-_XbX#report)
 
 PPT
@@ -235,7 +235,7 @@ Stomatocytes65 KB[Open Stomatocytes](https://drive.google.com/file/d/1-wLW2i1OPy
 
 Updated 2022-03-23 · 65 KB
 
-[PPT ](https://drive.google.com/file/d/1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV/view)
+[PPTX ](https://drive.google.com/file/d/1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV#report)
 
 ## Objective
@@ -283,7 +283,7 @@ Avian Clostridial disease15.7 MB[Open Avian Clostridial disease](https://drive.g
 
 Updated 2020-10-20 · 15.7 MB
 
-[PPT ](https://drive.google.com/file/d/15YjtoopWs5TEjcoEtaigymnjFB-X1J5S/view)[PDF ](https://drive.google.com/file/d/1tiTmQ4MCEl2rf2cY4yTwhxRZvlDCviFZ/view)
+[PPTX ](https://drive.google.com/file/d/15YjtoopWs5TEjcoEtaigymnjFB-X1J5S/view)[PDF ](https://drive.google.com/file/d/1tiTmQ4MCEl2rf2cY4yTwhxRZvlDCviFZ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=15YjtoopWs5TEjcoEtaigymnjFB-X1J5S)[Download PDF](https://drive.google.com/uc?export=download&id=1tiTmQ4MCEl2rf2cY4yTwhxRZvlDCviFZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15YjtoopWs5TEjcoEtaigymnjFB-X1J5S#report)
 
 PPT
@@ -323,7 +323,7 @@ CD, parvo4.1 MB[Open CD, parvo](https://drive.google.com/file/d/1s8x1Z4ktR8kSKgD
 
 Updated 2026-09-13 · 4.1 MB
 
-[PPT ](https://drive.google.com/file/d/1s8x1Z4ktR8kSKgDF_piWqOjLyvCjPyJU/view)
+[PPTX ](https://drive.google.com/file/d/1s8x1Z4ktR8kSKgDF_piWqOjLyvCjPyJU/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1s8x1Z4ktR8kSKgDF_piWqOjLyvCjPyJU)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1s8x1Z4ktR8kSKgDF_piWqOjLyvCjPyJU#report)
 
 PPT
@@ -339,7 +339,7 @@ CIA, AN, Reo virus-Corrected6.1 MB[Open CIA, AN, Reo virus-Corrected](https://dr
 
 Updated 2020-10-20 · 6.1 MB
 
-[PPT ](https://drive.google.com/file/d/1pfekI1UGlaVZ20lUx76N2b3jmijJds4U/view)
+[PPTX ](https://drive.google.com/file/d/1pfekI1UGlaVZ20lUx76N2b3jmijJds4U/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1pfekI1UGlaVZ20lUx76N2b3jmijJds4U)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pfekI1UGlaVZ20lUx76N2b3jmijJds4U#report)
 
 PPT
@@ -347,7 +347,7 @@ Classification of Tumours 117.3 MB[Open Classification of Tumours 1](https://dri
 
 Updated 2020-10-20 · 17.3 MB
 
-[PPT ](https://drive.google.com/file/d/1jUZgq3gRYWc3Y-w5Y_4TX13_u4xnmTOo/view)
+[PPTX ](https://drive.google.com/file/d/1jUZgq3gRYWc3Y-w5Y_4TX13_u4xnmTOo/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1jUZgq3gRYWc3Y-w5Y_4TX13_u4xnmTOo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jUZgq3gRYWc3Y-w5Y_4TX13_u4xnmTOo#report)
 
 PPT
@@ -355,7 +355,7 @@ Classification of Tumours 2 final16.6 MB[Open Classification of Tumours 2 final]
 
 Updated 2020-10-20 · 16.6 MB
 
-[PPT ](https://drive.google.com/file/d/1mEZ3_1t4jogd3mhcrGqi6EcktkmUF07g/view)
+[PPTX ](https://drive.google.com/file/d/1mEZ3_1t4jogd3mhcrGqi6EcktkmUF07g/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1mEZ3_1t4jogd3mhcrGqi6EcktkmUF07g)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mEZ3_1t4jogd3mhcrGqi6EcktkmUF07g#report)
 
 PPT
@@ -387,7 +387,7 @@ Degeneration3.6 MB[Open Degeneration](https://drive.google.com/file/d/1m1vId3O8M
 
 Updated 2020-10-20 · 3.6 MB
 
-[PPT ](https://drive.google.com/file/d/1m1vId3O8M9KzUNeGPERT9ucUOSJN_F9g/view)
+[PPTX ](https://drive.google.com/file/d/1m1vId3O8M9KzUNeGPERT9ucUOSJN_F9g/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1m1vId3O8M9KzUNeGPERT9ucUOSJN_F9g)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m1vId3O8M9KzUNeGPERT9ucUOSJN_F9g#report)
 
 PPT
@@ -395,7 +395,7 @@ EEM, VS5.6 MB[Open EEM, VS](https://drive.google.com/file/d/15ADboxEWtHbNVM0P1J2
 
 Updated 2020-10-20 · 5.6 MB
 
-[PPT ](https://drive.google.com/file/d/15ADboxEWtHbNVM0P1J2fwt6-MAC8qulB/view)
+[PPTX ](https://drive.google.com/file/d/15ADboxEWtHbNVM0P1J2fwt6-MAC8qulB/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=15ADboxEWtHbNVM0P1J2fwt6-MAC8qulB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15ADboxEWtHbNVM0P1J2fwt6-MAC8qulB#report)
 
 PPT
@@ -403,7 +403,7 @@ EIA, AHS, EI, ERP14.1 MB[Open EIA, AHS, EI, ERP](https://drive.google.com/file/d
 
 Updated 2020-10-20 · 14.1 MB
 
-[PPT ](https://drive.google.com/file/d/1mlPCd32Jad-GJKkbO4Jqxr9qEcNRc4NP/view)
+[PPTX ](https://drive.google.com/file/d/1mlPCd32Jad-GJKkbO4Jqxr9qEcNRc4NP/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1mlPCd32Jad-GJKkbO4Jqxr9qEcNRc4NP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mlPCd32Jad-GJKkbO4Jqxr9qEcNRc4NP#report)
 
 PPT
@@ -411,7 +411,7 @@ Eye16.7 MB[Open Eye](https://drive.google.com/file/d/1IRgT0hlUrocXJ7n1db4qU4vl10
 
 Updated 2020-10-20 · 16.7 MB
 
-[PPT ](https://drive.google.com/file/d/1IRgT0hlUrocXJ7n1db4qU4vl101k63BG/view)
+[PPTX ](https://drive.google.com/file/d/1IRgT0hlUrocXJ7n1db4qU4vl101k63BG/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1IRgT0hlUrocXJ7n1db4qU4vl101k63BG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IRgT0hlUrocXJ7n1db4qU4vl101k63BG#report)
 
 PPT
@@ -419,7 +419,7 @@ Fatty change lysosomal storage disease2.3 MB[Open Fatty change lysosomal storage
 
 Updated 2020-10-20 · 2.3 MB
 
-[PPT ](https://drive.google.com/file/d/18RnfG-TNfoKRnsGUlvM6ZsvweioNmHv8/view)
+[PPTX ](https://drive.google.com/file/d/18RnfG-TNfoKRnsGUlvM6ZsvweioNmHv8/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=18RnfG-TNfoKRnsGUlvM6ZsvweioNmHv8)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18RnfG-TNfoKRnsGUlvM6ZsvweioNmHv8#report)
 
 PPT
@@ -427,7 +427,7 @@ FMD, RP, MCF40.7 MB[Open FMD, RP, MCF](https://drive.google.com/file/d/1hVRd7Siq
 
 Updated 2020-10-20 · 40.7 MB
 
-[PPT ](https://drive.google.com/file/d/1hVRd7SiqcWQZ4tzEDRLkrj7oGlO-nKMq/view)
+[PPTX ](https://drive.google.com/file/d/1hVRd7SiqcWQZ4tzEDRLkrj7oGlO-nKMq/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hVRd7SiqcWQZ4tzEDRLkrj7oGlO-nKMq#report)
 
 PPT
@@ -443,7 +443,7 @@ Gout625 KB[Open Gout](https://drive.google.com/file/d/18bo5IqaVPHgtaV8T7i5PW4Y2B
 
 Updated 2020-10-20 · 625 KB
 
-[PPT ](https://drive.google.com/file/d/18bo5IqaVPHgtaV8T7i5PW4Y2Bm5k2a4U/view)
+[PPTX ](https://drive.google.com/file/d/18bo5IqaVPHgtaV8T7i5PW4Y2Bm5k2a4U/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=18bo5IqaVPHgtaV8T7i5PW4Y2Bm5k2a4U)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18bo5IqaVPHgtaV8T7i5PW4Y2Bm5k2a4U#report)
 
 PPT
@@ -451,7 +451,7 @@ Haematopoietic system12.5 MB[Open Haematopoietic system](https://drive.google.co
 
 Updated 2020-10-20 · 12.5 MB
 
-[PPT ](https://drive.google.com/file/d/1j3TDF-NQ5k_65_oN_2AJbW-Pzk9UAeF6/view)
+[PPTX ](https://drive.google.com/file/d/1j3TDF-NQ5k_65_oN_2AJbW-Pzk9UAeF6/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1j3TDF-NQ5k_65_oN_2AJbW-Pzk9UAeF6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1j3TDF-NQ5k_65_oN_2AJbW-Pzk9UAeF6#report)
 
 PPT
@@ -475,7 +475,7 @@ HG, TGE, SI8.0 MB[Open HG, TGE, SI](https://drive.google.com/file/d/1kB2VkGiFXqh
 
 Updated 2020-10-20 · 8.0 MB
 
-[PPT ](https://drive.google.com/file/d/1kB2VkGiFXqh0o0idFubLcVGUPctEk2fJ/view)
+[PPTX ](https://drive.google.com/file/d/1kB2VkGiFXqh0o0idFubLcVGUPctEk2fJ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1kB2VkGiFXqh0o0idFubLcVGUPctEk2fJ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kB2VkGiFXqh0o0idFubLcVGUPctEk2fJ#report)
 
 PPT
@@ -499,7 +499,7 @@ Hypersensitivity914 KB[Open Hypersensitivity](https://drive.google.com/file/d/1a
 
 Updated 2020-10-20 · 914 KB
 
-[PPT ](https://drive.google.com/file/d/1aJioA1k2BmlNulnjVAyw60RyN4aZrsdZ/view)
+[PPTX ](https://drive.google.com/file/d/1aJioA1k2BmlNulnjVAyw60RyN4aZrsdZ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1aJioA1k2BmlNulnjVAyw60RyN4aZrsdZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1aJioA1k2BmlNulnjVAyw60RyN4aZrsdZ#report)
 
 Show 30 more 34 remaining
@@ -509,7 +509,7 @@ Jaundice4.7 MB[Open Jaundice](https://drive.google.com/file/d/1G6oOXFQ2Xk2jgk9Om
 
 Updated 2020-10-20 · 4.7 MB
 
-[PPT ](https://drive.google.com/file/d/1G6oOXFQ2Xk2jgk9OmwDSZNzBuuUBoa1X/view)
+[PPTX ](https://drive.google.com/file/d/1G6oOXFQ2Xk2jgk9OmwDSZNzBuuUBoa1X/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1G6oOXFQ2Xk2jgk9OmwDSZNzBuuUBoa1X)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1G6oOXFQ2Xk2jgk9OmwDSZNzBuuUBoa1X#report)
 
 PPT
@@ -517,7 +517,7 @@ Ketosis pregnancy toxemia2.3 MB[Open Ketosis pregnancy toxemia](https://drive.go
 
 Updated 2020-10-20 · 2.3 MB
 
-[PPT ](https://drive.google.com/file/d/1Z2w96fmvU_cjzaCYt5g54O1Ejo78iWKz/view)
+[PPTX ](https://drive.google.com/file/d/1Z2w96fmvU_cjzaCYt5g54O1Ejo78iWKz/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Z2w96fmvU_cjzaCYt5g54O1Ejo78iWKz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Z2w96fmvU_cjzaCYt5g54O1Ejo78iWKz#report)
 
 PPT
@@ -525,7 +525,7 @@ Lab Animal 12.8 MB[Open Lab Animal 1](https://drive.google.com/file/d/18-GVJePHb
 
 Updated 2020-10-20 · 2.8 MB
 
-[PPT ](https://drive.google.com/file/d/18-GVJePHb1YNUW7ZWUI8Dj65zTNesw-Q/view)
+[PPTX ](https://drive.google.com/file/d/18-GVJePHb1YNUW7ZWUI8Dj65zTNesw-Q/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=18-GVJePHb1YNUW7ZWUI8Dj65zTNesw-Q)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18-GVJePHb1YNUW7ZWUI8Dj65zTNesw-Q#report)
 
 PPT
@@ -533,7 +533,7 @@ Lab Animal 25.0 MB[Open Lab Animal 2](https://drive.google.com/file/d/18hn6ahTD4
 
 Updated 2020-10-20 · 5.0 MB
 
-[PPT ](https://drive.google.com/file/d/18hn6ahTD4r9jiS9BtaWS0En14g4xW2mL/view)
+[PPTX ](https://drive.google.com/file/d/18hn6ahTD4r9jiS9BtaWS0En14g4xW2mL/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=18hn6ahTD4r9jiS9BtaWS0En14g4xW2mL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18hn6ahTD4r9jiS9BtaWS0En14g4xW2mL#report)
 
 PPT
@@ -541,7 +541,7 @@ Lab Animal 35.1 MB[Open Lab Animal 3](https://drive.google.com/file/d/1Fz-b2ALZ6
 
 Updated 2020-10-20 · 5.1 MB
 
-[PPT ](https://drive.google.com/file/d/1Fz-b2ALZ6RyrqYU4AaAYUFx03KzXlFEX/view)
+[PPTX ](https://drive.google.com/file/d/1Fz-b2ALZ6RyrqYU4AaAYUFx03KzXlFEX/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Fz-b2ALZ6RyrqYU4AaAYUFx03KzXlFEX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Fz-b2ALZ6RyrqYU4AaAYUFx03KzXlFEX#report)
 
 PPT
@@ -557,7 +557,7 @@ Lecture 1 GIT24.5 MB[Open Lecture 1 GIT](https://drive.google.com/file/d/1dej8jb
 
 Updated 2020-10-20 · 24.5 MB
 
-[PPT ](https://drive.google.com/file/d/1dej8jbEZ-f-Oz1qaQj6HvtfFrukLjit7/view)
+[PPTX ](https://drive.google.com/file/d/1dej8jbEZ-f-Oz1qaQj6HvtfFrukLjit7/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1dej8jbEZ-f-Oz1qaQj6HvtfFrukLjit7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dej8jbEZ-f-Oz1qaQj6HvtfFrukLjit7#report)
 
 PPT
@@ -565,7 +565,7 @@ Lecture 2 GIT14.8 MB[Open Lecture 2 GIT](https://drive.google.com/file/d/1g2mzOu
 
 Updated 2020-10-20 · 14.8 MB
 
-[PPT ](https://drive.google.com/file/d/1g2mzOuGxVuSCyIWjpDqEcaQMkd3Sl7m2/view)
+[PPTX ](https://drive.google.com/file/d/1g2mzOuGxVuSCyIWjpDqEcaQMkd3Sl7m2/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1g2mzOuGxVuSCyIWjpDqEcaQMkd3Sl7m2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g2mzOuGxVuSCyIWjpDqEcaQMkd3Sl7m2#report)
 
 PPT
@@ -573,7 +573,7 @@ Lecture 3 GIT16.3 MB[Open Lecture 3 GIT](https://drive.google.com/file/d/1EvbQ1e
 
 Updated 2020-10-20 · 16.3 MB
 
-[PPT ](https://drive.google.com/file/d/1EvbQ1e7BXBIn76p-cPoSxytu6h1XQo7f/view)
+[PPTX ](https://drive.google.com/file/d/1EvbQ1e7BXBIn76p-cPoSxytu6h1XQo7f/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1EvbQ1e7BXBIn76p-cPoSxytu6h1XQo7f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EvbQ1e7BXBIn76p-cPoSxytu6h1XQo7f#report)
 
 PPT
@@ -581,7 +581,7 @@ Mastitis11.2 MB[Open Mastitis](https://drive.google.com/file/d/1cPFy470wYyr-miIn
 
 Updated 2020-10-20 · 11.2 MB
 
-[PPT ](https://drive.google.com/file/d/1cPFy470wYyr-miInN2uonHJebFwHLeQo/view)
+[PPTX ](https://drive.google.com/file/d/1cPFy470wYyr-miInN2uonHJebFwHLeQo/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1cPFy470wYyr-miInN2uonHJebFwHLeQo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cPFy470wYyr-miInN2uonHJebFwHLeQo#report)
 
 PPT
@@ -589,7 +589,7 @@ Metabolic diseases final5.2 MB[Open Metabolic diseases final](https://drive.goog
 
 Updated 2020-10-20 · 5.2 MB
 
-[PPT ](https://drive.google.com/file/d/1wzf_0878YKmO9G_L0IVRgKFqThvyaWmD/view)
+[PPTX ](https://drive.google.com/file/d/1wzf_0878YKmO9G_L0IVRgKFqThvyaWmD/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1wzf_0878YKmO9G_L0IVRgKFqThvyaWmD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wzf_0878YKmO9G_L0IVRgKFqThvyaWmD#report)
 
 PPT
@@ -597,7 +597,7 @@ Miscellaneous diseases5.9 MB[Open Miscellaneous diseases](https://drive.google.c
 
 Updated 2020-10-20 · 5.9 MB
 
-[PPT ](https://drive.google.com/file/d/113rLZ3ec4rFAGEVAhTnMUkS38BXXZUV6/view)
+[PPTX ](https://drive.google.com/file/d/113rLZ3ec4rFAGEVAhTnMUkS38BXXZUV6/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=113rLZ3ec4rFAGEVAhTnMUkS38BXXZUV6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=113rLZ3ec4rFAGEVAhTnMUkS38BXXZUV6#report)
 
 PPT
@@ -629,7 +629,7 @@ Nutrional disease II14.6 MB[Open Nutrional disease II](https://drive.google.com/
 
 Updated 2020-10-20 · 14.6 MB
 
-[PPT ](https://drive.google.com/file/d/12fHFFqi2uIkGu0m8Udvn6RLhbOGcNLUu/view)
+[PPTX ](https://drive.google.com/file/d/12fHFFqi2uIkGu0m8Udvn6RLhbOGcNLUu/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12fHFFqi2uIkGu0m8Udvn6RLhbOGcNLUu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12fHFFqi2uIkGu0m8Udvn6RLhbOGcNLUu#report)
 
 PPT
@@ -637,7 +637,7 @@ Nutritional disease I10.3 MB[Open Nutritional disease I](https://drive.google.co
 
 Updated 2020-10-20 · 10.3 MB
 
-[PPT ](https://drive.google.com/file/d/181gxv3JJjKee4JEvTfIUQ5pjwRdXnCbb/view)
+[PPTX ](https://drive.google.com/file/d/181gxv3JJjKee4JEvTfIUQ5pjwRdXnCbb/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=181gxv3JJjKee4JEvTfIUQ5pjwRdXnCbb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=181gxv3JJjKee4JEvTfIUQ5pjwRdXnCbb#report)
 
 PPT
@@ -653,7 +653,7 @@ Parasitic disease II18.2 MB[Open Parasitic disease II](https://drive.google.com/
 
 Updated 2020-10-20 · 18.2 MB
 
-[PPT ](https://drive.google.com/file/d/16wSzGdcEYll6Ws8r9JB1xTH9wAt6QdFc/view)
+[PPTX ](https://drive.google.com/file/d/16wSzGdcEYll6Ws8r9JB1xTH9wAt6QdFc/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=16wSzGdcEYll6Ws8r9JB1xTH9wAt6QdFc)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16wSzGdcEYll6Ws8r9JB1xTH9wAt6QdFc#report)
 
 PPT
@@ -661,7 +661,7 @@ Parasitic diseases I11.6 MB[Open Parasitic diseases I](https://drive.google.com/
 
 Updated 2020-10-20 · 11.6 MB
 
-[PPT ](https://drive.google.com/file/d/1g1G9_7LlXoSvXOw-MTRPrU9x1cJ8nYFR/view)
+[PPTX ](https://drive.google.com/file/d/1g1G9_7LlXoSvXOw-MTRPrU9x1cJ8nYFR/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1g1G9_7LlXoSvXOw-MTRPrU9x1cJ8nYFR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g1G9_7LlXoSvXOw-MTRPrU9x1cJ8nYFR#report)
 
 PPT
@@ -669,7 +669,7 @@ Photosensitisation1.9 MB[Open Photosensitisation](https://drive.google.com/file/
 
 Updated 2020-10-20 · 1.9 MB
 
-[PPT ](https://drive.google.com/file/d/1WjOcvVLiOfEnpRTfJMlcOCLSYlie7Qs-/view)
+[PPTX ](https://drive.google.com/file/d/1WjOcvVLiOfEnpRTfJMlcOCLSYlie7Qs-/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1WjOcvVLiOfEnpRTfJMlcOCLSYlie7Qs-)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WjOcvVLiOfEnpRTfJMlcOCLSYlie7Qs-#report)
 
 PPT
@@ -677,7 +677,7 @@ Protozoal diseases33.8 MB[Open Protozoal diseases](https://drive.google.com/file
 
 Updated 2024-11-27 · 33.8 MB
 
-[PPT ](https://drive.google.com/file/d/1YrL_MuS5Kigqncs_ygj21ZrTOd0JGmm_/view)
+[PPTX ](https://drive.google.com/file/d/1YrL_MuS5Kigqncs_ygj21ZrTOd0JGmm_/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YrL_MuS5Kigqncs_ygj21ZrTOd0JGmm_#report)
 
 PPT
@@ -701,7 +701,7 @@ Rota and corona viral diseases8.9 MB[Open Rota and corona viral diseases](https:
 
 Updated 2020-10-20 · 8.9 MB
 
-[PPT ](https://drive.google.com/file/d/1gwaEeBO6TacpHzgX-ZL0tHlcckI562k5/view)
+[PPTX ](https://drive.google.com/file/d/1gwaEeBO6TacpHzgX-ZL0tHlcckI562k5/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1gwaEeBO6TacpHzgX-ZL0tHlcckI562k5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gwaEeBO6TacpHzgX-ZL0tHlcckI562k5#report)
 
 PPT
@@ -709,7 +709,7 @@ Swine Erysipelas, Leptospira, Listeria, Salmonella18.2 MB[Open Swine Erysipelas,
 
 Updated 2020-10-20 · 18.2 MB
 
-[PPT ](https://drive.google.com/file/d/15Jd1oULc-nN3vYWCkEoHX1y99_O2qD8c/view)
+[PPTX ](https://drive.google.com/file/d/15Jd1oULc-nN3vYWCkEoHX1y99_O2qD8c/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=15Jd1oULc-nN3vYWCkEoHX1y99_O2qD8c)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15Jd1oULc-nN3vYWCkEoHX1y99_O2qD8c#report)
 
 PPT
@@ -725,7 +725,7 @@ The Reproductive system34.8 MB[Open The Reproductive system](https://drive.googl
 
 Updated 2020-10-20 · 34.8 MB
 
-[PPT ](https://drive.google.com/file/d/1ZkC7TLPJ6YZZbvs9L1kdRYHy7YAEGtTP/view)
+[PPTX ](https://drive.google.com/file/d/1ZkC7TLPJ6YZZbvs9L1kdRYHy7YAEGtTP/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZkC7TLPJ6YZZbvs9L1kdRYHy7YAEGtTP#report)
 
 PPT
@@ -733,7 +733,7 @@ The Reproductive system -129.3 MB[Open The Reproductive system -1](https://drive
 
 Updated 2020-10-20 · 29.3 MB
 
-[PPT ](https://drive.google.com/file/d/1p5L6SoRlVrKxynht9BZEZ1N7jZrrymkA/view)
+[PPTX ](https://drive.google.com/file/d/1p5L6SoRlVrKxynht9BZEZ1N7jZrrymkA/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1p5L6SoRlVrKxynht9BZEZ1N7jZrrymkA#report)
 
 PPT
@@ -759,7 +759,7 @@ Wildlife 19.0 MB[Open Wildlife 1](https://drive.google.com/file/d/1wBhDf8MKn7H2s
 
 Updated 2020-10-20 · 9.0 MB
 
-[PPT ](https://drive.google.com/file/d/1wBhDf8MKn7H2sO33588x-uuxHIh5LxGE/view)
+[PPTX ](https://drive.google.com/file/d/1wBhDf8MKn7H2sO33588x-uuxHIh5LxGE/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1wBhDf8MKn7H2sO33588x-uuxHIh5LxGE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wBhDf8MKn7H2sO33588x-uuxHIh5LxGE#report)
 
 PPT
@@ -767,7 +767,7 @@ Wildlife 24.2 MB[Open Wildlife 2](https://drive.google.com/file/d/1gCX3lZCo2x3b8
 
 Updated 2020-10-20 · 4.2 MB
 
-[PPT ](https://drive.google.com/file/d/1gCX3lZCo2x3b8icEnZZR8fOjc8eGYQdK/view)
+[PPTX ](https://drive.google.com/file/d/1gCX3lZCo2x3b8icEnZZR8fOjc8eGYQdK/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1gCX3lZCo2x3b8icEnZZR8fOjc8eGYQdK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gCX3lZCo2x3b8icEnZZR8fOjc8eGYQdK#report)
 
 PPT
@@ -775,7 +775,7 @@ Wildlife 32.5 MB[Open Wildlife 3](https://drive.google.com/file/d/1AnF6k2_RKZze2
 
 Updated 2020-10-20 · 2.5 MB
 
-[PPT ](https://drive.google.com/file/d/1AnF6k2_RKZze2xmHfq9Tz1n1nqg0Yoqu/view)
+[PPTX ](https://drive.google.com/file/d/1AnF6k2_RKZze2xmHfq9Tz1n1nqg0Yoqu/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1AnF6k2_RKZze2xmHfq9Tz1n1nqg0Yoqu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AnF6k2_RKZze2xmHfq9Tz1n1nqg0Yoqu#report)
 
 ## Images
@@ -787,7 +787,7 @@ Photo set — Veterinary Pathology — 162 images12.2 MB[Open Photo set — Vete
 
 Updated 2019-12-04 · 12.2 MB
 
-[IMG ](https://drive.google.com/drive/folders/1yVcsuq_NKpAs7kI4t93YpogxKK1l8Hcp)
+[Images ](https://drive.google.com/drive/folders/1yVcsuq_NKpAs7kI4t93YpogxKK1l8Hcp)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1yVcsuq_NKpAs7kI4t93YpogxKK1l8Hcp#report)
 
 ## Extras
@@ -807,7 +807,7 @@ Inflammation200 KB[Open Inflammation](https://drive.google.com/file/d/1nLgZq2O5f
 
 Updated 2021-01-12 · 200 KB
 
-[PDF ](https://drive.google.com/file/d/1nLgZq2O5fYwYgFhE45hn5E4LZuNx-FmN/view)[PPT ](https://drive.google.com/file/d/1qJE1YCqDErBEiVzGkPHt6ODoYx_FQj5W/view)
+[PDF ](https://drive.google.com/file/d/1nLgZq2O5fYwYgFhE45hn5E4LZuNx-FmN/view)[PPTX ](https://drive.google.com/file/d/1qJE1YCqDErBEiVzGkPHt6ODoYx_FQj5W/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1nLgZq2O5fYwYgFhE45hn5E4LZuNx-FmN)[Download PPT](https://drive.google.com/uc?export=download&id=1qJE1YCqDErBEiVzGkPHt6ODoYx_FQj5W)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nLgZq2O5fYwYgFhE45hn5E4LZuNx-FmN#report)
 
 PDF
@@ -853,6 +853,8 @@ Updated 2020-07-17 · 332 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
 
 - Cell injury and inflammation
 - Circulatory disturbances

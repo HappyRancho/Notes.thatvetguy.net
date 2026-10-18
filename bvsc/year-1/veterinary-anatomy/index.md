@@ -4,9 +4,9 @@
 
 # Veterinary Anatomy
 
-Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
+Veterinary Anatomy notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-248 resources · 1st Year
+244 resources · 1st Year
 
 Search this collection
 
@@ -19,7 +19,7 @@ Biomechanics30 KB[Open Biomechanics](https://drive.google.com/file/d/1_bPx_NNiWo
 
 Updated 2018-11-08 · 30 KB
 
-[DOC ](https://drive.google.com/file/d/1_bPx_NNiWoWTIMweqmLtZftJj0-Bms28/view)
+[DOCX ](https://drive.google.com/file/d/1_bPx_NNiWoWTIMweqmLtZftJj0-Bms28/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1_bPx_NNiWoWTIMweqmLtZftJj0-Bms28)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_bPx_NNiWoWTIMweqmLtZftJj0-Bms28#report)
 
 PDF
@@ -195,7 +195,7 @@ Introduction to Museum Techniques3.6 MB[Open Introduction to Museum Techniques](
 
 Updated 2018-11-08 · 3.6 MB
 
-[PPT ](https://drive.google.com/file/d/12nd7P1dtgWW_rj68tAAARNj8-wynInZg/view)
+[PPTX ](https://drive.google.com/file/d/12nd7P1dtgWW_rj68tAAARNj8-wynInZg/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12nd7P1dtgWW_rj68tAAARNj8-wynInZg)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12nd7P1dtgWW_rj68tAAARNj8-wynInZg#report)
 
 PPT
@@ -203,7 +203,7 @@ Remote Delievery System and Rescue of Wild Animals12.0 MB[Open Remote Delievery 
 
 Updated 2018-11-08 · 12.0 MB
 
-[PPT ](https://drive.google.com/file/d/1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw/view)
+[PPTX ](https://drive.google.com/file/d/1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw#report)
 
 PDF
@@ -295,7 +295,7 @@ Figures for Lecture Notes3.1 MB[Open Figures for Lecture Notes](https://drive.go
 
 Updated 2018-11-08 · 3.1 MB
 
-[DOC ](https://drive.google.com/file/d/1XZeQvHvZEiaSDL_Uibvj__k976EcfH9R/view)
+[DOCX ](https://drive.google.com/file/d/1XZeQvHvZEiaSDL_Uibvj__k976EcfH9R/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1XZeQvHvZEiaSDL_Uibvj__k976EcfH9R)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XZeQvHvZEiaSDL_Uibvj__k976EcfH9R#report)
 
 DOC
@@ -303,7 +303,7 @@ Genital System49 KB[Open Genital System](https://drive.google.com/file/d/1L4LJDa
 
 Updated 2019-12-04 · 49 KB
 
-[DOC ](https://drive.google.com/file/d/1L4LJDazcRiLrnDGvnrVb9CBqT_1gV2zz/view)[PPT ](https://drive.google.com/file/d/1l7wF0RWibWwo-RtkpNsSBr81dqrQBQaZ/view)
+[DOC ](https://drive.google.com/file/d/1L4LJDazcRiLrnDGvnrVb9CBqT_1gV2zz/view)[PPTX ](https://drive.google.com/file/d/1l7wF0RWibWwo-RtkpNsSBr81dqrQBQaZ/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1L4LJDazcRiLrnDGvnrVb9CBqT_1gV2zz)[Download PPT](https://drive.google.com/uc?export=download&id=1l7wF0RWibWwo-RtkpNsSBr81dqrQBQaZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1L4LJDazcRiLrnDGvnrVb9CBqT_1gV2zz#report)
 
 DOC
@@ -311,7 +311,7 @@ Gross Anatomy 1 QP 2016-1732 KB[Open Gross Anatomy 1 QP 2016-17](https://drive.g
 
 Updated 2022-03-24 · 32 KB
 
-[DOC ](https://drive.google.com/file/d/1RQDKrNAU7KKAIlU7K2_xfYVt2czY1svp/view)
+[DOCX ](https://drive.google.com/file/d/1RQDKrNAU7KKAIlU7K2_xfYVt2czY1svp/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1RQDKrNAU7KKAIlU7K2_xfYVt2czY1svp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RQDKrNAU7KKAIlU7K2_xfYVt2czY1svp#report)
 
 DOC
@@ -319,7 +319,7 @@ Gross Anatomy 2013 Ans44 KB[Open Gross Anatomy 2013 Ans](https://drive.google.co
 
 Updated 2022-03-24 · 44 KB
 
-[DOC ](https://drive.google.com/file/d/1NaT3hODS6TxXm8DneTjNVI0lbaDVtFo2/view)
+[DOCX ](https://drive.google.com/file/d/1NaT3hODS6TxXm8DneTjNVI0lbaDVtFo2/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1NaT3hODS6TxXm8DneTjNVI0lbaDVtFo2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NaT3hODS6TxXm8DneTjNVI0lbaDVtFo2#report)
 
 DOC
@@ -327,7 +327,7 @@ Gross Anatomy 2014 Ans50 KB[Open Gross Anatomy 2014 Ans](https://drive.google.co
 
 Updated 2022-03-24 · 50 KB
 
-[DOC ](https://drive.google.com/file/d/1Eufm5st-v9tD6JUHAqmHp27I8RO6Xt3K/view)
+[DOCX ](https://drive.google.com/file/d/1Eufm5st-v9tD6JUHAqmHp27I8RO6Xt3K/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1Eufm5st-v9tD6JUHAqmHp27I8RO6Xt3K)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Eufm5st-v9tD6JUHAqmHp27I8RO6Xt3K#report)
 
 DOC
@@ -343,7 +343,7 @@ Gross Anatomy I QP 201732 KB[Open Gross Anatomy I QP 2017](https://drive.google.
 
 Updated 2025-01-03 · 32 KB
 
-[DOC ](https://drive.google.com/file/d/1hanYqgZOefG0C0q7OyZYv2LZBX7sXVBx/view)
+[DOCX ](https://drive.google.com/file/d/1hanYqgZOefG0C0q7OyZYv2LZBX7sXVBx/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1hanYqgZOefG0C0q7OyZYv2LZBX7sXVBx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hanYqgZOefG0C0q7OyZYv2LZBX7sXVBx#report)
 
 DOC
@@ -351,7 +351,7 @@ Gross Anatomy II 2013 Ans44 KB[Open Gross Anatomy II 2013 Ans](https://drive.goo
 
 Updated 2022-03-24 · 44 KB
 
-[DOC ](https://drive.google.com/file/d/13I_ruu8sjMdJigHGx3YNu9CJh0wsGABk/view)
+[DOCX ](https://drive.google.com/file/d/13I_ruu8sjMdJigHGx3YNu9CJh0wsGABk/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=13I_ruu8sjMdJigHGx3YNu9CJh0wsGABk)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13I_ruu8sjMdJigHGx3YNu9CJh0wsGABk#report)
 
 DOC
@@ -359,7 +359,7 @@ Gross Anatomy II 2014 Ans50 KB[Open Gross Anatomy II 2014 Ans](https://drive.goo
 
 Updated 2022-03-24 · 50 KB
 
-[DOC ](https://drive.google.com/file/d/19x_SulB1Rq7t6ui5pmDSkFIOnHoakaOF/view)
+[DOCX ](https://drive.google.com/file/d/19x_SulB1Rq7t6ui5pmDSkFIOnHoakaOF/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=19x_SulB1Rq7t6ui5pmDSkFIOnHoakaOF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19x_SulB1Rq7t6ui5pmDSkFIOnHoakaOF#report)
 
 DOC
@@ -367,7 +367,7 @@ Gross Anatomy II 2017 Ans49 KB[Open Gross Anatomy II 2017 Ans](https://drive.goo
 
 Updated 2022-03-24 · 49 KB
 
-[DOC ](https://drive.google.com/file/d/1O9HKEa79x6N8Xcf13Dt4TrdBGJEsPKA7/view)
+[DOCX ](https://drive.google.com/file/d/1O9HKEa79x6N8Xcf13Dt4TrdBGJEsPKA7/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1O9HKEa79x6N8Xcf13Dt4TrdBGJEsPKA7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1O9HKEa79x6N8Xcf13Dt4TrdBGJEsPKA7#report)
 
 DOC
@@ -439,7 +439,7 @@ Gross Anatomy Quiz17 KB[Open Gross Anatomy Quiz](https://drive.google.com/file/d
 
 Updated 2018-11-08 · 17 KB
 
-[DOC ](https://drive.google.com/file/d/1wTnYSwsCMBahEp_N5PEqlJPbEo-OvPmu/view)
+[DOCX ](https://drive.google.com/file/d/1wTnYSwsCMBahEp_N5PEqlJPbEo-OvPmu/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1wTnYSwsCMBahEp_N5PEqlJPbEo-OvPmu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wTnYSwsCMBahEp_N5PEqlJPbEo-OvPmu#report)
 
 DOC
@@ -463,7 +463,7 @@ Histology and Embryology QP 2016-1730 KB[Open Histology and Embryology QP 2016-1
 
 Updated 2022-03-24 · 30 KB
 
-[DOC ](https://drive.google.com/file/d/1GRG2KvzTYmyLmCd3pEZe_GQJr7NM4IG3/view)
+[DOCX ](https://drive.google.com/file/d/1GRG2KvzTYmyLmCd3pEZe_GQJr7NM4IG3/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1GRG2KvzTYmyLmCd3pEZe_GQJr7NM4IG3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GRG2KvzTYmyLmCd3pEZe_GQJr7NM4IG3#report)
 
 Show 19 more 19 remaining
@@ -497,7 +497,7 @@ Monthly Test 2014-1551 KB[Open Monthly Test 2014-15](https://drive.google.com/fi
 
 Updated 2018-11-08 · 51 KB
 
-[DOC ](https://drive.google.com/file/d/18bvEm_AbYlgZndA7SFbEzaEwk074WhrJ/view)
+[DOCX ](https://drive.google.com/file/d/18bvEm_AbYlgZndA7SFbEzaEwk074WhrJ/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=18bvEm_AbYlgZndA7SFbEzaEwk074WhrJ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18bvEm_AbYlgZndA7SFbEzaEwk074WhrJ#report)
 
 DOC
@@ -569,7 +569,7 @@ Respiratory System37 KB[Open Respiratory System](https://drive.google.com/file/d
 
 Updated 2019-12-04 · 37 KB
 
-[DOC ](https://drive.google.com/file/d/15kHjpKvrrRvdhRbBE92snwYvWhj7ISj6/view)[PPT ](https://drive.google.com/file/d/1UrWOgN30nOXOSYtkEdhuW3Mv8-n4b39N/view)
+[DOC ](https://drive.google.com/file/d/15kHjpKvrrRvdhRbBE92snwYvWhj7ISj6/view)[PPTX ](https://drive.google.com/file/d/1UrWOgN30nOXOSYtkEdhuW3Mv8-n4b39N/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=15kHjpKvrrRvdhRbBE92snwYvWhj7ISj6)[Download PPT](https://drive.google.com/uc?export=download&id=1UrWOgN30nOXOSYtkEdhuW3Mv8-n4b39N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15kHjpKvrrRvdhRbBE92snwYvWhj7ISj6#report)
 
 DOC
@@ -585,7 +585,7 @@ Splanchnology and Applied Anatomy 2016 Ans36 KB[Open Splanchnology and Applied A
 
 Updated 2022-03-24 · 36 KB
 
-[DOC ](https://drive.google.com/file/d/1vEFSL1G280vjQWmtCB8vt96hsAFEwhqa/view)
+[DOCX ](https://drive.google.com/file/d/1vEFSL1G280vjQWmtCB8vt96hsAFEwhqa/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1vEFSL1G280vjQWmtCB8vt96hsAFEwhqa)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vEFSL1G280vjQWmtCB8vt96hsAFEwhqa#report)
 
 DOC
@@ -601,7 +601,7 @@ Splanchnology and Applied Anatomy QP 201833 KB[Open Splanchnology and Applied An
 
 Updated 2022-03-24 · 33 KB
 
-[DOC ](https://drive.google.com/file/d/1a5Wvo19pLft24vJBBo2Kw9WsFoEfVqxn/view)
+[DOCX ](https://drive.google.com/file/d/1a5Wvo19pLft24vJBBo2Kw9WsFoEfVqxn/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1a5Wvo19pLft24vJBBo2Kw9WsFoEfVqxn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a5Wvo19pLft24vJBBo2Kw9WsFoEfVqxn#report)
 
 DOC
@@ -622,7 +622,7 @@ Updated 2018-11-08 · 96 KB
 
 ## Slides
 
-154
+150
 
 PPT
 Abdominal cavity & Peritoneum2.1 MB[Open Abdominal cavity & Peritoneum](https://drive.google.com/file/d/13hVdoHkoiAgqKFBNnbqXAW3nLulkr3kG/view)
@@ -661,7 +661,7 @@ Ascultation, Percussion and Palpation153 KB[Open Ascultation, Percussion and Pal
 
 Updated 2018-11-08 · 153 KB
 
-[PPT ](https://drive.google.com/file/d/1E6mQ69FVuTVCbAtrQkB0eL34_ZZ29w_T/view)
+[PPTX ](https://drive.google.com/file/d/1E6mQ69FVuTVCbAtrQkB0eL34_ZZ29w_T/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1E6mQ69FVuTVCbAtrQkB0eL34_ZZ29w_T)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1E6mQ69FVuTVCbAtrQkB0eL34_ZZ29w_T#report)
 
 PPT
@@ -789,7 +789,7 @@ Classification of Skeleton168 KB[Open Classification of Skeleton](https://drive.
 
 Updated 2018-11-08 · 168 KB
 
-[PPT ](https://drive.google.com/file/d/1zYY9LCPNHK4ovtQ7llSjG5kMLlb_rzs_/view)
+[PPTX ](https://drive.google.com/file/d/1zYY9LCPNHK4ovtQ7llSjG5kMLlb_rzs_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1zYY9LCPNHK4ovtQ7llSjG5kMLlb_rzs_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1zYY9LCPNHK4ovtQ7llSjG5kMLlb_rzs_#report)
 
 PPT
@@ -805,7 +805,7 @@ Common Carotid Artery977 KB[Open Common Carotid Artery](https://drive.google.com
 
 Updated 2018-11-08 · 977 KB
 
-[PPT ](https://drive.google.com/file/d/1w7erz8VKdkTRRYmWtU9ZS6iXUV3d1yTn/view)
+[PPTX ](https://drive.google.com/file/d/1w7erz8VKdkTRRYmWtU9ZS6iXUV3d1yTn/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1w7erz8VKdkTRRYmWtU9ZS6iXUV3d1yTn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1w7erz8VKdkTRRYmWtU9ZS6iXUV3d1yTn#report)
 
 PPT
@@ -845,7 +845,7 @@ Developemnt of Face3.9 MB[Open Developemnt of Face](https://drive.google.com/fil
 
 Updated 2018-11-08 · 3.9 MB
 
-[PPT ](https://drive.google.com/file/d/1tPKDJqNVTH5Uti3xTbNu7jD33hdqSDBr/view)
+[PPTX ](https://drive.google.com/file/d/1tPKDJqNVTH5Uti3xTbNu7jD33hdqSDBr/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1tPKDJqNVTH5Uti3xTbNu7jD33hdqSDBr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tPKDJqNVTH5Uti3xTbNu7jD33hdqSDBr#report)
 
 PPT
@@ -853,7 +853,7 @@ Development of Arteries656 KB[Open Development of Arteries](https://drive.google
 
 Updated 2018-11-08 · 656 KB
 
-[PPT ](https://drive.google.com/file/d/1rKRkRiPNEMSI7lFp6gqtXbx6ScxdEEt-/view)
+[PPTX ](https://drive.google.com/file/d/1rKRkRiPNEMSI7lFp6gqtXbx6ScxdEEt-/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1rKRkRiPNEMSI7lFp6gqtXbx6ScxdEEt-)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rKRkRiPNEMSI7lFp6gqtXbx6ScxdEEt-#report)
 
 PPT
@@ -864,7 +864,7 @@ Updated 2018-11-08 · 203 KB
 [PPT ](https://drive.google.com/file/d/1ByZbICZiK4FtOHqx_gSVlcVoSrfPvR1t/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ByZbICZiK4FtOHqx_gSVlcVoSrfPvR1t)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ByZbICZiK4FtOHqx_gSVlcVoSrfPvR1t#report)
 
-Show 30 more 124 remaining
+Show 30 more 120 remaining
 
 PPT
 Domestication953 KB[Open Domestication](https://drive.google.com/file/d/1mEVZVQJnmD_JwYmlldP4EcrPj0vuHjt4/view)
@@ -895,7 +895,7 @@ Embr teeth and tongue197 KB[Open Embr teeth and tongue](https://drive.google.com
 
 Updated 2018-11-08 · 197 KB
 
-[PPT ](https://drive.google.com/file/d/1GXewAOJ-9sfie2_rbcY6Pm_P3DFKCqWT/view)
+[PPTX ](https://drive.google.com/file/d/1GXewAOJ-9sfie2_rbcY6Pm_P3DFKCqWT/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1GXewAOJ-9sfie2_rbcY6Pm_P3DFKCqWT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GXewAOJ-9sfie2_rbcY6Pm_P3DFKCqWT#report)
 
 PPT
@@ -959,7 +959,7 @@ Fate of Branchial Arch77 KB[Open Fate of Branchial Arch](https://drive.google.co
 
 Updated 2018-11-08 · 77 KB
 
-[PPT ](https://drive.google.com/file/d/1q7GbUkM3BfVkqnK_CejqhBQ2b0bRu15J/view)
+[PPTX ](https://drive.google.com/file/d/1q7GbUkM3BfVkqnK_CejqhBQ2b0bRu15J/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1q7GbUkM3BfVkqnK_CejqhBQ2b0bRu15J)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q7GbUkM3BfVkqnK_CejqhBQ2b0bRu15J#report)
 
 PPT
@@ -1031,7 +1031,7 @@ Forelimb Joints172 KB[Open Forelimb Joints](https://drive.google.com/file/d/1NUh
 
 Updated 2022-03-23 · 172 KB
 
-[PPT ](https://drive.google.com/file/d/1NUhFlooiCO8AHVYnYl5C1h9blhMcDeVF/view)
+[PPTX ](https://drive.google.com/file/d/1NUhFlooiCO8AHVYnYl5C1h9blhMcDeVF/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1NUhFlooiCO8AHVYnYl5C1h9blhMcDeVF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NUhFlooiCO8AHVYnYl5C1h9blhMcDeVF#report)
 
 PPT
@@ -1071,7 +1071,7 @@ Haemopoiesis41 KB[Open Haemopoiesis](https://drive.google.com/file/d/1_PEeNxCuCO
 
 Updated 2018-11-08 · 41 KB
 
-[PPT ](https://drive.google.com/file/d/1_PEeNxCuCOpWJqr-n6PRH-pSS_oBiEB6/view)
+[PPTX ](https://drive.google.com/file/d/1_PEeNxCuCOpWJqr-n6PRH-pSS_oBiEB6/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1_PEeNxCuCOpWJqr-n6PRH-pSS_oBiEB6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_PEeNxCuCOpWJqr-n6PRH-pSS_oBiEB6#report)
 
 PPT
@@ -1095,7 +1095,7 @@ Heart1.4 MB[Open Heart](https://drive.google.com/file/d/1hV-4DX8mTqseG00PFZiEhgs
 
 Updated 2018-11-08 · 1.4 MB
 
-[PPT ](https://drive.google.com/file/d/1hV-4DX8mTqseG00PFZiEhgsVLnEHxFmf/view)
+[PPTX ](https://drive.google.com/file/d/1hV-4DX8mTqseG00PFZiEhgsVLnEHxFmf/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1hV-4DX8mTqseG00PFZiEhgsVLnEHxFmf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hV-4DX8mTqseG00PFZiEhgsVLnEHxFmf#report)
 
 PPT
@@ -1103,10 +1103,10 @@ Heart882 KB[Open Heart](https://drive.google.com/file/d/1aR8zeYHKA1DnIYT-keqw3ZK
 
 Updated 2018-11-08 · 882 KB
 
-[PPT ](https://drive.google.com/file/d/1aR8zeYHKA1DnIYT-keqw3ZKjTnZ2bnjO/view)
+[PPTX ](https://drive.google.com/file/d/1aR8zeYHKA1DnIYT-keqw3ZKjTnZ2bnjO/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1aR8zeYHKA1DnIYT-keqw3ZKjTnZ2bnjO)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1aR8zeYHKA1DnIYT-keqw3ZKjTnZ2bnjO#report)
 
-Show 30 more 94 remaining
+Show 30 more 90 remaining
 
 PPT
 Hind Brain 24.5 MB[Open Hind Brain 2](https://drive.google.com/file/d/127sJFcy-FK3WpeqISZIwVQwi7D4JaZqL/view)
@@ -1137,7 +1137,7 @@ Hindlimb Joints145 KB[Open Hindlimb Joints](https://drive.google.com/file/d/1Abc
 
 Updated 2022-03-24 · 145 KB
 
-[PPT ](https://drive.google.com/file/d/1AbclO_Lv7C2TlFl-IlXN79FOFhN2b4Id/view)
+[PPTX ](https://drive.google.com/file/d/1AbclO_Lv7C2TlFl-IlXN79FOFhN2b4Id/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1AbclO_Lv7C2TlFl-IlXN79FOFhN2b4Id)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AbclO_Lv7C2TlFl-IlXN79FOFhN2b4Id#report)
 
 PPT
@@ -1145,7 +1145,7 @@ Histological Techniques45 KB[Open Histological Techniques](https://drive.google.
 
 Updated 2019-12-04 · 45 KB
 
-[PPT ](https://drive.google.com/file/d/1zmbcP9PMM7cnyJOGp8wX4Lkt_Lnx2eWo/view)
+[PPTX ](https://drive.google.com/file/d/1zmbcP9PMM7cnyJOGp8wX4Lkt_Lnx2eWo/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1zmbcP9PMM7cnyJOGp8wX4Lkt_Lnx2eWo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1zmbcP9PMM7cnyJOGp8wX4Lkt_Lnx2eWo#report)
 
 PPT
@@ -1153,7 +1153,7 @@ History of Animal Breeding3.9 MB[Open History of Animal Breeding](https://drive.
 
 Updated 2019-12-04 · 3.9 MB
 
-[PPT ](https://drive.google.com/file/d/1JL1QLzbxTUAp8ca-7H-7rrdFbfz8Q4cB/view)
+[PPTX ](https://drive.google.com/file/d/1JL1QLzbxTUAp8ca-7H-7rrdFbfz8Q4cB/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1JL1QLzbxTUAp8ca-7H-7rrdFbfz8Q4cB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JL1QLzbxTUAp8ca-7H-7rrdFbfz8Q4cB#report)
 
 PPT
@@ -1169,16 +1169,8 @@ Intestine1.4 MB[Open Intestine](https://drive.google.com/file/d/1V766WhpvZQX7HO6
 
 Updated 2018-11-08 · 1.4 MB
 
-[PPT ](https://drive.google.com/file/d/1V766WhpvZQX7HO6qoDQusownhHBSGnFH/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1V766WhpvZQX7HO6qoDQusownhHBSGnFH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1V766WhpvZQX7HO6qoDQusownhHBSGnFH#report)
-
-PPT
-Intestine3.3 MB[Open Intestine](https://drive.google.com/file/d/132oQGFRl0AQtSI9RPh6_aHS_fgBh_lWn/view)
-
-Updated 2019-12-04 · 3.3 MB
-
-[PPT ](https://drive.google.com/file/d/132oQGFRl0AQtSI9RPh6_aHS_fgBh_lWn/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=132oQGFRl0AQtSI9RPh6_aHS_fgBh_lWn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=132oQGFRl0AQtSI9RPh6_aHS_fgBh_lWn#report)
+[PPTX ](https://drive.google.com/file/d/1V766WhpvZQX7HO6qoDQusownhHBSGnFH/view)[PPT ](https://drive.google.com/file/d/132oQGFRl0AQtSI9RPh6_aHS_fgBh_lWn/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1V766WhpvZQX7HO6qoDQusownhHBSGnFH)[Download PPT](https://drive.google.com/uc?export=download&id=132oQGFRl0AQtSI9RPh6_aHS_fgBh_lWn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1V766WhpvZQX7HO6qoDQusownhHBSGnFH#report)
 
 PPT
 Intestine 2104 KB[Open Intestine 2](https://drive.google.com/file/d/1V0PzLo02PWPKbt9qR0nviwYYNhOB8l0N/view)
@@ -1225,7 +1217,7 @@ Introduction TANUVAS142 KB[Open Introduction TANUVAS](https://drive.google.com/f
 
 Updated 2018-11-08 · 142 KB
 
-[PPT ](https://drive.google.com/file/d/1mMyNSDddXrXHDhPHSlI_hdYdhV6kn1Z_/view)
+[PPTX ](https://drive.google.com/file/d/1mMyNSDddXrXHDhPHSlI_hdYdhV6kn1Z_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1mMyNSDddXrXHDhPHSlI_hdYdhV6kn1Z_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mMyNSDddXrXHDhPHSlI_hdYdhV6kn1Z_#report)
 
 PPT
@@ -1241,7 +1233,7 @@ Liver and Gall bladder52 KB[Open Liver and Gall bladder](https://drive.google.co
 
 Updated 2018-11-08 · 52 KB
 
-[PPT ](https://drive.google.com/file/d/1RUkJFxej_rG0esKagZ2T-D4-2MpjAS5W/view)
+[PPTX ](https://drive.google.com/file/d/1RUkJFxej_rG0esKagZ2T-D4-2MpjAS5W/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1RUkJFxej_rG0esKagZ2T-D4-2MpjAS5W)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RUkJFxej_rG0esKagZ2T-D4-2MpjAS5W#report)
 
 PPT
@@ -1345,10 +1337,8 @@ Muscles and Blood Supply of Forelimb10.9 MB[Open Muscles and Blood Supply of For
 
 Updated 2019-12-04 · 10.9 MB
 
-[PPT ](https://drive.google.com/file/d/1nfdiSQ1yo282mR_ZGhFqJMnpkr_9ClmK/view)
+[PPTX ](https://drive.google.com/file/d/1nfdiSQ1yo282mR_ZGhFqJMnpkr_9ClmK/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1nfdiSQ1yo282mR_ZGhFqJMnpkr_9ClmK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nfdiSQ1yo282mR_ZGhFqJMnpkr_9ClmK#report)
-
-Show 30 more 64 remaining
 
 PPT
 Muscles of Back, Loin and Tail2.5 MB[Open Muscles of Back, Loin and Tail](https://drive.google.com/file/d/13TPoMNZKMYtOZbp2Ci6RnNRRU4-Wu1Hp/view)
@@ -1357,6 +1347,8 @@ Updated 2019-12-04 · 2.5 MB
 
 [PPT ](https://drive.google.com/file/d/13TPoMNZKMYtOZbp2Ci6RnNRRU4-Wu1Hp/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=13TPoMNZKMYtOZbp2Ci6RnNRRU4-Wu1Hp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13TPoMNZKMYtOZbp2Ci6RnNRRU4-Wu1Hp#report)
+
+Show 30 more 60 remaining
 
 PPT
 Muscles of Eyeball and Mastication1.5 MB[Open Muscles of Eyeball and Mastication](https://drive.google.com/file/d/1CTNCr-TZ3BBBiEoCBBRrhK1qPxHrPPEM/view)
@@ -1371,16 +1363,8 @@ Muscles of Forelimb2.2 MB[Open Muscles of Forelimb](https://drive.google.com/fil
 
 Updated 2022-03-23 · 2.2 MB
 
-[PPT ](https://drive.google.com/file/d/173sOb6iAXQfKVWGP2c4r--aGerTvpykL/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=173sOb6iAXQfKVWGP2c4r--aGerTvpykL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=173sOb6iAXQfKVWGP2c4r--aGerTvpykL#report)
-
-PPT
-Muscles of Forelimb7.1 MB[Open Muscles of Forelimb](https://drive.google.com/file/d/1QLTMq8oUOKu8cpeqVUjldCjEjyzFEtbe/view)
-
-Updated 2018-11-08 · 7.1 MB
-
-[PPT ](https://drive.google.com/file/d/1QLTMq8oUOKu8cpeqVUjldCjEjyzFEtbe/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1QLTMq8oUOKu8cpeqVUjldCjEjyzFEtbe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QLTMq8oUOKu8cpeqVUjldCjEjyzFEtbe#report)
+[PPT ](https://drive.google.com/file/d/173sOb6iAXQfKVWGP2c4r--aGerTvpykL/view)[PPTX ](https://drive.google.com/file/d/1QLTMq8oUOKu8cpeqVUjldCjEjyzFEtbe/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=173sOb6iAXQfKVWGP2c4r--aGerTvpykL)[Download PPT](https://drive.google.com/uc?export=download&id=1QLTMq8oUOKu8cpeqVUjldCjEjyzFEtbe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=173sOb6iAXQfKVWGP2c4r--aGerTvpykL#report)
 
 PPT
 Muscles of Head1.3 MB[Open Muscles of Head](https://drive.google.com/file/d/1fgR1im1nCDuKov82PwaBq81cRKlSYbk9/view)
@@ -1395,7 +1379,7 @@ Muscles of Hindlimb6.9 MB[Open Muscles of Hindlimb](https://drive.google.com/fil
 
 Updated 2018-11-08 · 6.9 MB
 
-[PPT ](https://drive.google.com/file/d/1aBm9FxCwR4-PxZlZde9z6yaEqU8TaHyu/view)
+[PPTX ](https://drive.google.com/file/d/1aBm9FxCwR4-PxZlZde9z6yaEqU8TaHyu/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1aBm9FxCwR4-PxZlZde9z6yaEqU8TaHyu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1aBm9FxCwR4-PxZlZde9z6yaEqU8TaHyu#report)
 
 PPT
@@ -1467,7 +1451,7 @@ Nerve supply to Forelimb142 KB[Open Nerve supply to Forelimb](https://drive.goog
 
 Updated 2018-11-08 · 142 KB
 
-[PPT ](https://drive.google.com/file/d/10OPe2GRL5Q2kJJXUEVK5rQQaZW3LeGGL/view)
+[PPTX ](https://drive.google.com/file/d/10OPe2GRL5Q2kJJXUEVK5rQQaZW3LeGGL/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=10OPe2GRL5Q2kJJXUEVK5rQQaZW3LeGGL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10OPe2GRL5Q2kJJXUEVK5rQQaZW3LeGGL#report)
 
 PPT
@@ -1475,7 +1459,7 @@ Nerve supply to limbs220 KB[Open Nerve supply to limbs](https://drive.google.com
 
 Updated 2019-12-04 · 220 KB
 
-[PPT ](https://drive.google.com/file/d/1mU1eItAS5AUCcNfzK9HEjpEz4qRFH8j2/view)
+[PPTX ](https://drive.google.com/file/d/1mU1eItAS5AUCcNfzK9HEjpEz4qRFH8j2/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1mU1eItAS5AUCcNfzK9HEjpEz4qRFH8j2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mU1eItAS5AUCcNfzK9HEjpEz4qRFH8j2#report)
 
 PPT
@@ -1483,23 +1467,15 @@ Nervous System60 KB[Open Nervous System](https://drive.google.com/file/d/1qsHJZA
 
 Updated 2018-11-08 · 60 KB
 
-[PPT ](https://drive.google.com/file/d/1qsHJZAcIXF7x4-ImWsZ9RFh6bEN2gCy4/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1qsHJZAcIXF7x4-ImWsZ9RFh6bEN2gCy4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qsHJZAcIXF7x4-ImWsZ9RFh6bEN2gCy4#report)
-
-PPT
-Nervous System213 KB[Open Nervous System](https://drive.google.com/file/d/1ueE_mTkSUOqTWgmOcj-nnBtKTgeyvyZq/view)
-
-Updated 2019-12-04 · 213 KB
-
-[PPT ](https://drive.google.com/file/d/1ueE_mTkSUOqTWgmOcj-nnBtKTgeyvyZq/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1ueE_mTkSUOqTWgmOcj-nnBtKTgeyvyZq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ueE_mTkSUOqTWgmOcj-nnBtKTgeyvyZq#report)
+[PPTX ](https://drive.google.com/file/d/1qsHJZAcIXF7x4-ImWsZ9RFh6bEN2gCy4/view)[PPT ](https://drive.google.com/file/d/1ueE_mTkSUOqTWgmOcj-nnBtKTgeyvyZq/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1qsHJZAcIXF7x4-ImWsZ9RFh6bEN2gCy4)[Download PPT](https://drive.google.com/uc?export=download&id=1ueE_mTkSUOqTWgmOcj-nnBtKTgeyvyZq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qsHJZAcIXF7x4-ImWsZ9RFh6bEN2gCy4#report)
 
 PPT
 Nervous Tissue432 KB[Open Nervous Tissue](https://drive.google.com/file/d/1_HxG3dgMkNSDuVw3slXENwJh0CNnNXor/view)
 
 Updated 2019-12-04 · 432 KB
 
-[PPT ](https://drive.google.com/file/d/1_HxG3dgMkNSDuVw3slXENwJh0CNnNXor/view)
+[PPTX ](https://drive.google.com/file/d/1_HxG3dgMkNSDuVw3slXENwJh0CNnNXor/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1_HxG3dgMkNSDuVw3slXENwJh0CNnNXor)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_HxG3dgMkNSDuVw3slXENwJh0CNnNXor#report)
 
 PPT
@@ -1515,7 +1491,7 @@ Oesophagus332 KB[Open Oesophagus](https://drive.google.com/file/d/13WjVDfAyJYQ6-
 
 Updated 2019-12-04 · 332 KB
 
-[PPT ](https://drive.google.com/file/d/13WjVDfAyJYQ6-NJifJmH1c0mt0M2gCEL/view)
+[PPTX ](https://drive.google.com/file/d/13WjVDfAyJYQ6-NJifJmH1c0mt0M2gCEL/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=13WjVDfAyJYQ6-NJifJmH1c0mt0M2gCEL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13WjVDfAyJYQ6-NJifJmH1c0mt0M2gCEL#report)
 
 PPT
@@ -1523,7 +1499,7 @@ Oesophagus and Stomach3.7 MB[Open Oesophagus and Stomach](https://drive.google.c
 
 Updated 2018-11-08 · 3.7 MB
 
-[PPT ](https://drive.google.com/file/d/1wTuTZTTtUk7BeYC9HRS3K1pB7XRNRyBf/view)
+[PPTX ](https://drive.google.com/file/d/1wTuTZTTtUk7BeYC9HRS3K1pB7XRNRyBf/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1wTuTZTTtUk7BeYC9HRS3K1pB7XRNRyBf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wTuTZTTtUk7BeYC9HRS3K1pB7XRNRyBf#report)
 
 PPT
@@ -1579,7 +1555,7 @@ Pituitary Gland872 KB[Open Pituitary Gland](https://drive.google.com/file/d/1t3D
 
 Updated 2018-11-08 · 872 KB
 
-[PPT ](https://drive.google.com/file/d/1t3DnusdJ82ytYoq-PSjEL0I5GgmrTWoL/view)
+[PPTX ](https://drive.google.com/file/d/1t3DnusdJ82ytYoq-PSjEL0I5GgmrTWoL/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1t3DnusdJ82ytYoq-PSjEL0I5GgmrTWoL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1t3DnusdJ82ytYoq-PSjEL0I5GgmrTWoL#report)
 
 PPT
@@ -1590,14 +1566,12 @@ Updated 2019-12-04 · 1.6 MB
 [PPT ](https://drive.google.com/file/d/1LgNdxIRjkolas15_xgvIZgg05pdsc0Ho/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1LgNdxIRjkolas15_xgvIZgg05pdsc0Ho)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LgNdxIRjkolas15_xgvIZgg05pdsc0Ho#report)
 
-Show 30 more 34 remaining
-
 PPT
 Receptors and Ganglia1.6 MB[Open Receptors and Ganglia](https://drive.google.com/file/d/1PoJ1eUtSG0kWutMgLqaI3kSzjY8kuyMS/view)
 
 Updated 2019-12-04 · 1.6 MB
 
-[PPT ](https://drive.google.com/file/d/1PoJ1eUtSG0kWutMgLqaI3kSzjY8kuyMS/view)
+[PPTX ](https://drive.google.com/file/d/1PoJ1eUtSG0kWutMgLqaI3kSzjY8kuyMS/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1PoJ1eUtSG0kWutMgLqaI3kSzjY8kuyMS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PoJ1eUtSG0kWutMgLqaI3kSzjY8kuyMS#report)
 
 PPT
@@ -1605,7 +1579,7 @@ Respiratory System55 KB[Open Respiratory System](https://drive.google.com/file/d
 
 Updated 2019-12-04 · 55 KB
 
-[PPT ](https://drive.google.com/file/d/1xg9d8DMzoFTa6UIxdFTjIlARnH_hNqiV/view)
+[PPTX ](https://drive.google.com/file/d/1xg9d8DMzoFTa6UIxdFTjIlARnH_hNqiV/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1xg9d8DMzoFTa6UIxdFTjIlARnH_hNqiV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xg9d8DMzoFTa6UIxdFTjIlARnH_hNqiV#report)
 
 PPT
@@ -1615,6 +1589,8 @@ Updated 2019-12-04 · 738 KB
 
 [PPT ](https://drive.google.com/file/d/1g1UL_BNfeM2AaD3S68h8WLRKGc8JpFoG/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1g1UL_BNfeM2AaD3S68h8WLRKGc8JpFoG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g1UL_BNfeM2AaD3S68h8WLRKGc8JpFoG#report)
+
+Show 30 more 30 remaining
 
 PPT
 Salivary Glands538 KB[Open Salivary Glands](https://drive.google.com/file/d/1itphyNmgYdBQ8kqbCShXDL-m4cAtznJy/view)
@@ -1629,7 +1605,7 @@ Scapula and Humerus156 KB[Open Scapula and Humerus](https://drive.google.com/fil
 
 Updated 2022-03-23 · 156 KB
 
-[PPT ](https://drive.google.com/file/d/1VbldwCUt_oIAChMb0shlq9Pep9mtxfYr/view)
+[PPTX ](https://drive.google.com/file/d/1VbldwCUt_oIAChMb0shlq9Pep9mtxfYr/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1VbldwCUt_oIAChMb0shlq9Pep9mtxfYr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VbldwCUt_oIAChMb0shlq9Pep9mtxfYr#report)
 
 PPT
@@ -1637,7 +1613,7 @@ Sense Organs52 KB[Open Sense Organs](https://drive.google.com/file/d/1dAtCU-kWXd
 
 Updated 2018-11-08 · 52 KB
 
-[PPT ](https://drive.google.com/file/d/1dAtCU-kWXdQBDsYj03kyAK9-7nowlLQF/view)
+[PPTX ](https://drive.google.com/file/d/1dAtCU-kWXdQBDsYj03kyAK9-7nowlLQF/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1dAtCU-kWXdQBDsYj03kyAK9-7nowlLQF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dAtCU-kWXdQBDsYj03kyAK9-7nowlLQF#report)
 
 PPT
@@ -1653,7 +1629,7 @@ Skull of animals287 KB[Open Skull of animals](https://drive.google.com/file/d/1S
 
 Updated 2019-12-04 · 287 KB
 
-[PPT ](https://drive.google.com/file/d/1S97g1684Ukaq0DuBMYv3_-3Lhx5WlMZu/view)
+[PPTX ](https://drive.google.com/file/d/1S97g1684Ukaq0DuBMYv3_-3Lhx5WlMZu/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1S97g1684Ukaq0DuBMYv3_-3Lhx5WlMZu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S97g1684Ukaq0DuBMYv3_-3Lhx5WlMZu#report)
 
 PPT
@@ -1669,16 +1645,8 @@ Spinal Nerves330 KB[Open Spinal Nerves](https://drive.google.com/file/d/1r3ATg0k
 
 Updated 2018-11-08 · 330 KB
 
-[PPT ](https://drive.google.com/file/d/1r3ATg0k8_qDC93tqBWFk424AfMe5ETfV/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1r3ATg0k8_qDC93tqBWFk424AfMe5ETfV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r3ATg0k8_qDC93tqBWFk424AfMe5ETfV#report)
-
-PPT
-Spinal Nerves759 KB[Open Spinal Nerves](https://drive.google.com/file/d/1MJi4XwlqzIyyfVF-bRmGZTmfmDbTSvk9/view)
-
-Updated 2019-12-04 · 759 KB
-
-[PPT ](https://drive.google.com/file/d/1MJi4XwlqzIyyfVF-bRmGZTmfmDbTSvk9/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1MJi4XwlqzIyyfVF-bRmGZTmfmDbTSvk9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MJi4XwlqzIyyfVF-bRmGZTmfmDbTSvk9#report)
+[PPT ](https://drive.google.com/file/d/1r3ATg0k8_qDC93tqBWFk424AfMe5ETfV/view)[PPTX ](https://drive.google.com/file/d/1MJi4XwlqzIyyfVF-bRmGZTmfmDbTSvk9/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1r3ATg0k8_qDC93tqBWFk424AfMe5ETfV)[Download PPT](https://drive.google.com/uc?export=download&id=1MJi4XwlqzIyyfVF-bRmGZTmfmDbTSvk9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r3ATg0k8_qDC93tqBWFk424AfMe5ETfV#report)
 
 PPT
 Spinal Nerves TANUVAS488 KB[Open Spinal Nerves TANUVAS](https://drive.google.com/file/d/1Fj8MQ39mBBQ5v1FDxIcPGdzw_y95YsIL/view)
@@ -1741,7 +1709,7 @@ Structure and Functions of Cornea561 KB[Open Structure and Functions of Cornea](
 
 Updated 2022-03-23 · 561 KB
 
-[PPT ](https://drive.google.com/file/d/1PInG09OYgF5KPsGnzdP7PGMkkqgJeaLR/view)
+[PPTX ](https://drive.google.com/file/d/1PInG09OYgF5KPsGnzdP7PGMkkqgJeaLR/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1PInG09OYgF5KPsGnzdP7PGMkkqgJeaLR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PInG09OYgF5KPsGnzdP7PGMkkqgJeaLR#report)
 
 PPT
@@ -1789,7 +1757,7 @@ Tongue630 KB[Open Tongue](https://drive.google.com/file/d/1oN8t4J_KRUPiMLLQwQ1m0
 
 Updated 2019-12-04 · 630 KB
 
-[PPT ](https://drive.google.com/file/d/1oN8t4J_KRUPiMLLQwQ1m0B4f7Jw6VihM/view)
+[PPTX ](https://drive.google.com/file/d/1oN8t4J_KRUPiMLLQwQ1m0B4f7Jw6VihM/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1oN8t4J_KRUPiMLLQwQ1m0B4f7Jw6VihM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oN8t4J_KRUPiMLLQwQ1m0B4f7Jw6VihM#report)
 
 PPT
@@ -1797,7 +1765,7 @@ Tongue 2354 KB[Open Tongue 2](https://drive.google.com/file/d/19bhkRDrfdms37upF6
 
 Updated 2019-12-04 · 354 KB
 
-[PPT ](https://drive.google.com/file/d/19bhkRDrfdms37upF6XuXPpW5X1TQGeG2/view)
+[PPTX ](https://drive.google.com/file/d/19bhkRDrfdms37upF6XuXPpW5X1TQGeG2/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=19bhkRDrfdms37upF6XuXPpW5X1TQGeG2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19bhkRDrfdms37upF6XuXPpW5X1TQGeG2#report)
 
 PPT
@@ -1813,7 +1781,7 @@ Urinary organs and Adrenal Gland2.6 MB[Open Urinary organs and Adrenal Gland](ht
 
 Updated 2018-11-08 · 2.6 MB
 
-[PPT ](https://drive.google.com/file/d/1gdHINAgoHFOsdHGyXE9krbS71Vdkoks0/view)
+[PPTX ](https://drive.google.com/file/d/1gdHINAgoHFOsdHGyXE9krbS71Vdkoks0/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1gdHINAgoHFOsdHGyXE9krbS71Vdkoks0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gdHINAgoHFOsdHGyXE9krbS71Vdkoks0#report)
 
 PPT
@@ -1829,10 +1797,8 @@ Veins41 KB[Open Veins](https://drive.google.com/file/d/1K1jFOEuWZZL1OWXlkIKc4MdZ
 
 Updated 2018-11-08 · 41 KB
 
-[PPT ](https://drive.google.com/file/d/1K1jFOEuWZZL1OWXlkIKc4MdZ0Uv7oYn_/view)
+[PPTX ](https://drive.google.com/file/d/1K1jFOEuWZZL1OWXlkIKc4MdZ0Uv7oYn_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1K1jFOEuWZZL1OWXlkIKc4MdZ0Uv7oYn_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1K1jFOEuWZZL1OWXlkIKc4MdZ0Uv7oYn_#report)
-
-Show 4 more 4 remaining
 
 PPT
 Venous and Lymphatics583 KB[Open Venous and Lymphatics](https://drive.google.com/file/d/1QGBWMw0nog31FqMKy0htLjfg7AIFnFAN/view)
@@ -1875,7 +1841,7 @@ IMG
 
 Updated 2018-11-08 · 197 KB
 
-[IMG ](https://drive.google.com/file/d/1gd9S61b9QHgItkHNX6gUkK-i1xTLi0oP/view)
+[JPG ](https://drive.google.com/file/d/1gd9S61b9QHgItkHNX6gUkK-i1xTLi0oP/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1gd9S61b9QHgItkHNX6gUkK-i1xTLi0oP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gd9S61b9QHgItkHNX6gUkK-i1xTLi0oP#report)
 
 IMG
@@ -1883,7 +1849,7 @@ IMG
 
 Updated 2018-11-08 · 163 KB
 
-[IMG ](https://drive.google.com/file/d/1gfEqVkCk2WRELenTgp3C2dtaCuu9OEkE/view)
+[JPG ](https://drive.google.com/file/d/1gfEqVkCk2WRELenTgp3C2dtaCuu9OEkE/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1gfEqVkCk2WRELenTgp3C2dtaCuu9OEkE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gfEqVkCk2WRELenTgp3C2dtaCuu9OEkE#report)
 
 IMG
@@ -1891,7 +1857,7 @@ IMG
 
 Updated 2018-11-08 · 157 KB
 
-[IMG ](https://drive.google.com/file/d/1MjuMVJ1xytbp0rpvHVPBs4AYCOd4dTPL/view)
+[JPG ](https://drive.google.com/file/d/1MjuMVJ1xytbp0rpvHVPBs4AYCOd4dTPL/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1MjuMVJ1xytbp0rpvHVPBs4AYCOd4dTPL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MjuMVJ1xytbp0rpvHVPBs4AYCOd4dTPL#report)
 
 IMG
@@ -1899,7 +1865,7 @@ A814F19B115 KB[Open A814F19B](https://drive.google.com/file/d/1pxH83n9uqOtp2bICg
 
 Updated 2018-11-08 · 115 KB
 
-[IMG ](https://drive.google.com/file/d/1pxH83n9uqOtp2bICgXMuuMXK6VXxhjdb/view)
+[JPG ](https://drive.google.com/file/d/1pxH83n9uqOtp2bICgXMuuMXK6VXxhjdb/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1pxH83n9uqOtp2bICgXMuuMXK6VXxhjdb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pxH83n9uqOtp2bICgXMuuMXK6VXxhjdb#report)
 
 IMG
@@ -1907,7 +1873,7 @@ ANS176 KB[Open ANS](https://drive.google.com/file/d/11g8DXeg1w9F6pKssIw0uI5iMgAA
 
 Updated 2018-11-08 · 176 KB
 
-[IMG ](https://drive.google.com/file/d/11g8DXeg1w9F6pKssIw0uI5iMgAA7O8Fm/view)
+[JPG ](https://drive.google.com/file/d/11g8DXeg1w9F6pKssIw0uI5iMgAA7O8Fm/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=11g8DXeg1w9F6pKssIw0uI5iMgAA7O8Fm)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11g8DXeg1w9F6pKssIw0uI5iMgAA7O8Fm#report)
 
 IMG
@@ -1915,7 +1881,7 @@ ANS labelled310 KB[Open ANS labelled](https://drive.google.com/file/d/1U7nsCrpMS
 
 Updated 2018-11-08 · 310 KB
 
-[IMG ](https://drive.google.com/file/d/1U7nsCrpMSoW06I8QmZKADflK6pF6zt8Y/view)
+[JPG ](https://drive.google.com/file/d/1U7nsCrpMSoW06I8QmZKADflK6pF6zt8Y/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1U7nsCrpMSoW06I8QmZKADflK6pF6zt8Y)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1U7nsCrpMSoW06I8QmZKADflK6pF6zt8Y#report)
 
 IMG
@@ -1923,7 +1889,7 @@ FACE MUSCLES14 KB[Open FACE MUSCLES](https://drive.google.com/file/d/1D1HO67BTD4
 
 Updated 2018-11-08 · 14 KB
 
-[IMG ](https://drive.google.com/file/d/1D1HO67BTD4cx4KlBm5Gg63dmDt_MWlCx/view)
+[PNG ](https://drive.google.com/file/d/1D1HO67BTD4cx4KlBm5Gg63dmDt_MWlCx/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1D1HO67BTD4cx4KlBm5Gg63dmDt_MWlCx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1D1HO67BTD4cx4KlBm5Gg63dmDt_MWlCx#report)
 
 IMG
@@ -1931,7 +1897,7 @@ Photo set — Veterinary Anatomy — 6 images29.8 MB[Open Photo set — Veterina
 
 Updated 2018-12-09 · 29.8 MB
 
-[IMG ](https://drive.google.com/drive/folders/1NcMQh2x_B-EmA_ZeXC8aWWak0zn-OTfh)
+[Images ](https://drive.google.com/drive/folders/1NcMQh2x_B-EmA_ZeXC8aWWak0zn-OTfh)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1NcMQh2x_B-EmA_ZeXC8aWWak0zn-OTfh#report)
 
 IMG
@@ -1939,7 +1905,7 @@ Photo set — Veterinary Anatomy — 99 images43.4 MB[Open Photo set — Veterin
 
 Updated 2019-12-04 · 43.4 MB
 
-[IMG ](https://drive.google.com/drive/folders/1XdlktLbLh3awA46eFrYfvKwgWRl-OVED)
+[Images ](https://drive.google.com/drive/folders/1XdlktLbLh3awA46eFrYfvKwgWRl-OVED)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1XdlktLbLh3awA46eFrYfvKwgWRl-OVED#report)
 
 IMG
@@ -1947,7 +1913,7 @@ Spinal cord350 KB[Open Spinal cord](https://drive.google.com/file/d/1Ccu56jn4Nmb
 
 Updated 2018-11-08 · 350 KB
 
-[IMG ](https://drive.google.com/file/d/1Ccu56jn4Nmbum8-jFfQw1FGu95DRqcmL/view)[PPT ](https://drive.google.com/file/d/1yBX8jp5UR0vjrgdO3tccRgls3lKVhQZH/view)
+[JPG ](https://drive.google.com/file/d/1Ccu56jn4Nmbum8-jFfQw1FGu95DRqcmL/view)[PPT ](https://drive.google.com/file/d/1yBX8jp5UR0vjrgdO3tccRgls3lKVhQZH/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1Ccu56jn4Nmbum8-jFfQw1FGu95DRqcmL)[Download PPT](https://drive.google.com/uc?export=download&id=1yBX8jp5UR0vjrgdO3tccRgls3lKVhQZH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ccu56jn4Nmbum8-jFfQw1FGu95DRqcmL#report)
 
 IMG
@@ -1955,7 +1921,7 @@ Vagus150 KB[Open Vagus](https://drive.google.com/file/d/1--0CZnJNUAFZqb9TPBslym1
 
 Updated 2018-11-08 · 150 KB
 
-[IMG ](https://drive.google.com/file/d/1--0CZnJNUAFZqb9TPBslym1BvXpbK9gK/view)
+[JPG ](https://drive.google.com/file/d/1--0CZnJNUAFZqb9TPBslym1BvXpbK9gK/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1--0CZnJNUAFZqb9TPBslym1BvXpbK9gK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1--0CZnJNUAFZqb9TPBslym1BvXpbK9gK#report)
 
 IMG
@@ -1963,7 +1929,7 @@ Vagus labelled280 KB[Open Vagus labelled](https://drive.google.com/file/d/1qHN35
 
 Updated 2018-11-08 · 280 KB
 
-[IMG ](https://drive.google.com/file/d/1qHN3517_OD_3Fc3uiXSTHbHlZlGlekZd/view)
+[JPG ](https://drive.google.com/file/d/1qHN3517_OD_3Fc3uiXSTHbHlZlGlekZd/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1qHN3517_OD_3Fc3uiXSTHbHlZlGlekZd)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qHN3517_OD_3Fc3uiXSTHbHlZlGlekZd#report)
 
 ## Extras
@@ -1975,7 +1941,7 @@ Cleavage and Blastocyst Formation5.2 MB[Open Cleavage and Blastocyst Formation](
 
 Updated 2019-07-20 · 5.2 MB
 
-[FILE ](https://drive.google.com/file/d/1mUu2Uda9qV3fJMc-zkXyO6I9QREpKTej/view)
+[MP4 ](https://drive.google.com/file/d/1mUu2Uda9qV3fJMc-zkXyO6I9QREpKTej/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1mUu2Uda9qV3fJMc-zkXyO6I9QREpKTej)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mUu2Uda9qV3fJMc-zkXyO6I9QREpKTej#report)
 
 PDF
@@ -1999,7 +1965,7 @@ Fertilization (Conception)24.2 MB[Open Fertilization (Conception)](https://drive
 
 Updated 2019-07-20 · 24.2 MB
 
-[FILE ](https://drive.google.com/file/d/159F2OvLq9UzqCvDOAaTj12YLp8o3tsKb/view)
+[MP4 ](https://drive.google.com/file/d/159F2OvLq9UzqCvDOAaTj12YLp8o3tsKb/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=159F2OvLq9UzqCvDOAaTj12YLp8o3tsKb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=159F2OvLq9UzqCvDOAaTj12YLp8o3tsKb#report)
 
 FILE
@@ -2007,7 +1973,7 @@ Foetal Circulation39.2 MB[Open Foetal Circulation](https://drive.google.com/file
 
 Updated 2019-07-20 · 39.2 MB
 
-[FILE ](https://drive.google.com/file/d/1-XJOW77mbL3BvETqkiN0OvRpqVX78Pd8/view)[PPT ](https://drive.google.com/file/d/1BNsiknuGZpqqcnauI0ostuGwjVV0LPL9/view)
+[MP4 ](https://drive.google.com/file/d/1-XJOW77mbL3BvETqkiN0OvRpqVX78Pd8/view)[PPTX ](https://drive.google.com/file/d/1BNsiknuGZpqqcnauI0ostuGwjVV0LPL9/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1BNsiknuGZpqqcnauI0ostuGwjVV0LPL9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-XJOW77mbL3BvETqkiN0OvRpqVX78Pd8#report)
 
 FILE
@@ -2015,7 +1981,7 @@ Gastrulation7.2 MB[Open Gastrulation](https://drive.google.com/file/d/1CDGpZRSrp
 
 Updated 2019-07-20 · 7.2 MB
 
-[FILE ](https://drive.google.com/file/d/1CDGpZRSrp3mVff81zmD9EYWTychPqFiE/view)[PPT ](https://drive.google.com/file/d/1bsf0jkemUJHXL1WiuiwRCD6rucbqjHZr/view)
+[MP4 ](https://drive.google.com/file/d/1CDGpZRSrp3mVff81zmD9EYWTychPqFiE/view)[PPT ](https://drive.google.com/file/d/1bsf0jkemUJHXL1WiuiwRCD6rucbqjHZr/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1CDGpZRSrp3mVff81zmD9EYWTychPqFiE)[Download PPT](https://drive.google.com/uc?export=download&id=1bsf0jkemUJHXL1WiuiwRCD6rucbqjHZr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1CDGpZRSrp3mVff81zmD9EYWTychPqFiE#report)
 
 FILE
@@ -2023,7 +1989,7 @@ Implantation7.0 MB[Open Implantation](https://drive.google.com/file/d/1MDzrHmxp4
 
 Updated 2018-11-08 · 7.0 MB
 
-[FILE ](https://drive.google.com/file/d/1MDzrHmxp4Ck8QzRBFUegJiruqQrfx6ER/view)
+[MP4 ](https://drive.google.com/file/d/1MDzrHmxp4Ck8QzRBFUegJiruqQrfx6ER/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1MDzrHmxp4Ck8QzRBFUegJiruqQrfx6ER)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MDzrHmxp4Ck8QzRBFUegJiruqQrfx6ER#report)
 
 PDF
@@ -2037,6 +2003,8 @@ Updated 2019-12-04 · 591 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
 - Osteology and arthrology
 - Myology and visceral anatomy

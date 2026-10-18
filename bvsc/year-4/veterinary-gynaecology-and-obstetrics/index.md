@@ -4,7 +4,7 @@
 
 # Veterinary Gynaecology and Obstetrics
 
-Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+Veterinary Gynaecology and Obstetrics notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 56 resources · 4th Year
 
@@ -19,7 +19,7 @@ Andrology notes2.9 MB[Open Andrology notes](https://drive.google.com/file/d/1Uw4
 
 Updated 2023-02-21 · 2.9 MB
 
-[DOC ](https://drive.google.com/file/d/1Uw4dS_DkbphLoZA9FKLsqfIl1wrXHr_r/view)
+[DOCX ](https://drive.google.com/file/d/1Uw4dS_DkbphLoZA9FKLsqfIl1wrXHr_r/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1Uw4dS_DkbphLoZA9FKLsqfIl1wrXHr_r)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Uw4dS_DkbphLoZA9FKLsqfIl1wrXHr_r#report)
 
 DOC
@@ -27,7 +27,7 @@ Andrology VGO 51110.6 MB[Open Andrology VGO 511](https://drive.google.com/file/d
 
 Updated 2021-09-02 · 10.6 MB
 
-[DOC ](https://drive.google.com/file/d/1C1R3Ka_XOZPBQpgV0NRFodtNrHhWsPpG/view)
+[DOCX ](https://drive.google.com/file/d/1C1R3Ka_XOZPBQpgV0NRFodtNrHhWsPpG/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1C1R3Ka_XOZPBQpgV0NRFodtNrHhWsPpG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1C1R3Ka_XOZPBQpgV0NRFodtNrHhWsPpG#report)
 
 DOC
@@ -35,7 +35,7 @@ Diseases of Accessory Sex Glands24 KB[Open Diseases of Accessory Sex Glands](htt
 
 Updated 2023-03-22 · 24 KB
 
-[DOC ](https://drive.google.com/file/d/1UDwKxnEUHZXsuaa7uKvzZ7IUppnltD90/view)
+[DOCX ](https://drive.google.com/file/d/1UDwKxnEUHZXsuaa7uKvzZ7IUppnltD90/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1UDwKxnEUHZXsuaa7uKvzZ7IUppnltD90)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UDwKxnEUHZXsuaa7uKvzZ7IUppnltD90#report)
 
 PDF
@@ -67,7 +67,7 @@ Infertility133 KB[Open Infertility](https://drive.google.com/file/d/1jagUT_OjfNE
 
 Updated 2022-08-23 · 133 KB
 
-[DOC ](https://drive.google.com/file/d/1jagUT_OjfNEJNUjc6zca58eQiy5ybB1Q/view)
+[DOCX ](https://drive.google.com/file/d/1jagUT_OjfNEJNUjc6zca58eQiy5ybB1Q/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1jagUT_OjfNEJNUjc6zca58eQiy5ybB1Q)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jagUT_OjfNEJNUjc6zca58eQiy5ybB1Q#report)
 
 PDF
@@ -91,7 +91,7 @@ Puberty, Sexual maturity and Endocrinology151 KB[Open Puberty, Sexual maturity a
 
 Updated 2023-03-22 · 151 KB
 
-[DOC ](https://drive.google.com/file/d/1d_WHaiB56EP-CkhtcZ4kiFZUgkuw3DnP/view)
+[DOCX ](https://drive.google.com/file/d/1d_WHaiB56EP-CkhtcZ4kiFZUgkuw3DnP/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1d_WHaiB56EP-CkhtcZ4kiFZUgkuw3DnP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1d_WHaiB56EP-CkhtcZ4kiFZUgkuw3DnP#report)
 
 PDF
@@ -211,7 +211,7 @@ DOC
 
 Updated 2023-04-17 · 64 KB
 
-[DOC ](https://drive.google.com/file/d/1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP/view)
+[DOCX ](https://drive.google.com/file/d/1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP#report)
 
 DOC
@@ -219,7 +219,7 @@ DOC
 
 Updated 2023-04-17 · 26 KB
 
-[DOC ](https://drive.google.com/file/d/1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y/view)
+[DOCX ](https://drive.google.com/file/d/1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y#report)
 
 DOC
@@ -227,7 +227,7 @@ DOC
 
 Updated 2023-04-17 · 15 KB
 
-[DOC ](https://drive.google.com/file/d/13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa/view)
+[DOCX ](https://drive.google.com/file/d/13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa#report)
 
 DOC
@@ -235,7 +235,7 @@ DOC
 
 Updated 2023-04-17 · 13.9 MB
 
-[DOC ](https://drive.google.com/file/d/12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG/view)
+[DOCX ](https://drive.google.com/file/d/12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG#report)
 
 PDF
@@ -331,7 +331,7 @@ Selection of bulls2.7 MB[Open Selection of bulls](https://drive.google.com/file/
 
 Updated 2023-02-27 · 2.7 MB
 
-[PPT ](https://drive.google.com/file/d/1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX/view)
+[PPTX ](https://drive.google.com/file/d/1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX#report)
 
 DOC
@@ -339,7 +339,7 @@ Source11.4 MB[Open Source](https://drive.google.com/file/d/1juJL5LClD8VpaWNRL0Z_
 
 Updated 2023-02-04 · 11.4 MB
 
-[DOC ](https://drive.google.com/file/d/1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx/view)
+[DOCX ](https://drive.google.com/file/d/1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx#report)
 
 ## Objective
@@ -387,7 +387,7 @@ Determination of Canine Estrus Cycle4.5 MB[Open Determination of Canine Estrus C
 
 Updated 2026-08-10 · 4.5 MB
 
-[PPT ](https://drive.google.com/file/d/1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f/view)
+[PPTX ](https://drive.google.com/file/d/1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f#report)
 
 PPT
@@ -395,7 +395,7 @@ ESTROUS SYNCHRONIZATION2.0 MB[Open ESTROUS SYNCHRONIZATION](https://drive.google
 
 Updated 2021-09-16 · 2.0 MB
 
-[PPT ](https://drive.google.com/file/d/1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz/view)
+[PPTX ](https://drive.google.com/file/d/1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz#report)
 
 PPT
@@ -403,7 +403,7 @@ EUP, VH & PPRR4.0 MB[Open EUP, VH & PPRR](https://drive.google.com/file/d/15prTB
 
 Updated 2023-01-26 · 4.0 MB
 
-[PPT ](https://drive.google.com/file/d/15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ/view)
+[PPTX ](https://drive.google.com/file/d/15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ#report)
 
 PPT
@@ -411,7 +411,7 @@ Obstetrical Instruments and their use in Veterinary Obstetrics1.2 MB[Open Obstet
 
 Updated 2022-04-05 · 1.2 MB
 
-[PPT ](https://drive.google.com/file/d/195zmIe6Gy9nUT1NIBozB_t47ipa53lho/view)
+[PPTX ](https://drive.google.com/file/d/195zmIe6Gy9nUT1NIBozB_t47ipa53lho/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=195zmIe6Gy9nUT1NIBozB_t47ipa53lho)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=195zmIe6Gy9nUT1NIBozB_t47ipa53lho#report)
 
 PPT
@@ -419,7 +419,7 @@ Silent Estrous and its Management183 KB[Open Silent Estrous and its Management](
 
 Updated 2022-04-05 · 183 KB
 
-[PPT ](https://drive.google.com/file/d/1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo/view)
+[PPTX ](https://drive.google.com/file/d/1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo#report)
 
 ## Images
@@ -431,7 +431,7 @@ Photo set — Veterinary Gynaecology and Obstetrics — 31 images1.6 MB[Open Pho
 
 Updated 2023-07-14 · 1.6 MB
 
-[IMG ](https://drive.google.com/drive/folders/1skVQlc5Rgw78U9tbr59FsLdKQya9MRFR)
+[Images ](https://drive.google.com/drive/folders/1skVQlc5Rgw78U9tbr59FsLdKQya9MRFR)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1skVQlc5Rgw78U9tbr59FsLdKQya9MRFR#report)
 
 ## Extras
@@ -489,6 +489,8 @@ Updated 2023-07-04 · 4.6 MB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
 
 - Reproductive cycles and breeding
 - Infertility and reproductive disorders

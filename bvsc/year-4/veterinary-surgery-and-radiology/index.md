@@ -4,9 +4,9 @@
 
 # Veterinary Surgery and Radiology
 
-Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+Veterinary Surgery and Radiology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-145 resources · 4th Year
+143 resources · 4th Year
 
 Search this collection
 
@@ -43,7 +43,7 @@ EYE2.7 MB[Open EYE](https://drive.google.com/file/d/12OBioI1nJJ1ONoZ9h5rCBA3884p
 
 Updated 2023-01-03 · 2.7 MB
 
-[DOC ](https://drive.google.com/file/d/12OBioI1nJJ1ONoZ9h5rCBA3884pPRJQ4/view)
+[DOCX ](https://drive.google.com/file/d/12OBioI1nJJ1ONoZ9h5rCBA3884pPRJQ4/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=12OBioI1nJJ1ONoZ9h5rCBA3884pPRJQ4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12OBioI1nJJ1ONoZ9h5rCBA3884pPRJQ4#report)
 
 DOC
@@ -51,7 +51,7 @@ General SurgeryNEW226 KB[Open General Surgery](https://drive.google.com/file/d/1
 
 Updated 2026-09-17 · 226 KB
 
-[DOC ](https://drive.google.com/file/d/1a4OQwPJnWATbfd9nOYBF2wkOzYvzv7Ix/view)[PDF ](https://drive.google.com/file/d/1Jo7w_OsZNP52EXPOG1_8RngVfyWDJZUx/view)
+[DOCX ](https://drive.google.com/file/d/1a4OQwPJnWATbfd9nOYBF2wkOzYvzv7Ix/view)[PDF ](https://drive.google.com/file/d/1Jo7w_OsZNP52EXPOG1_8RngVfyWDJZUx/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1a4OQwPJnWATbfd9nOYBF2wkOzYvzv7Ix)[Download PDF](https://drive.google.com/uc?export=download&id=1Jo7w_OsZNP52EXPOG1_8RngVfyWDJZUx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a4OQwPJnWATbfd9nOYBF2wkOzYvzv7Ix#report)
 
 PDF
@@ -67,7 +67,7 @@ General Surgery TVC279 KB[Open General Surgery TVC](https://drive.google.com/fil
 
 Updated 2021-07-05 · 279 KB
 
-[DOC ](https://drive.google.com/file/d/1HOHhpGTp2WLJmCcaWES4PIggtrJfI6t8/view)
+[DOCX ](https://drive.google.com/file/d/1HOHhpGTp2WLJmCcaWES4PIggtrJfI6t8/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1HOHhpGTp2WLJmCcaWES4PIggtrJfI6t8)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HOHhpGTp2WLJmCcaWES4PIggtrJfI6t8#report)
 
 PDF
@@ -99,7 +99,7 @@ Regional Surgery I8.9 MB[Open Regional Surgery I](https://drive.google.com/file/
 
 Updated 2021-06-15 · 8.9 MB
 
-[DOC ](https://drive.google.com/file/d/1q-WH0EOY9v4TYyDxdTtbf8B7T5FViaaN/view)
+[DOCX ](https://drive.google.com/file/d/1q-WH0EOY9v4TYyDxdTtbf8B7T5FViaaN/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1q-WH0EOY9v4TYyDxdTtbf8B7T5FViaaN)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q-WH0EOY9v4TYyDxdTtbf8B7T5FViaaN#report)
 
 PDF
@@ -396,14 +396,14 @@ Updated 2022-11-29 · 5.6 MB
 
 ## Slides
 
-78
+76
 
 PPT
 Abomasal Displacement37.4 MB[Open Abomasal Displacement](https://drive.google.com/file/d/1kX5Qa6L5rgfYpZN8gnXR2H2nDvvx4S4x/view)
 
 Updated 2023-03-28 · 37.4 MB
 
-[PPT ](https://drive.google.com/file/d/1kX5Qa6L5rgfYpZN8gnXR2H2nDvvx4S4x/view)
+[PPTX ](https://drive.google.com/file/d/1kX5Qa6L5rgfYpZN8gnXR2H2nDvvx4S4x/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kX5Qa6L5rgfYpZN8gnXR2H2nDvvx4S4x#report)
 
 PPT
@@ -419,7 +419,7 @@ Affections of Eye 15.9 MB[Open Affections of Eye 1](https://drive.google.com/fil
 
 Updated 2023-04-21 · 5.9 MB
 
-[PPT ](https://drive.google.com/file/d/1Ou6-q2UXi7cPTBQ_ElnmkftQjr--q6cZ/view)
+[PPTX ](https://drive.google.com/file/d/1Ou6-q2UXi7cPTBQ_ElnmkftQjr--q6cZ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Ou6-q2UXi7cPTBQ_ElnmkftQjr--q6cZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ou6-q2UXi7cPTBQ_ElnmkftQjr--q6cZ#report)
 
 PPT
@@ -427,7 +427,7 @@ Affections of Eye 2724 KB[Open Affections of Eye 2](https://drive.google.com/fil
 
 Updated 2023-01-03 · 724 KB
 
-[PPT ](https://drive.google.com/file/d/1d_QxilgmF-JU0AR6XB4Kt452_wdHI-Pk/view)
+[PPTX ](https://drive.google.com/file/d/1d_QxilgmF-JU0AR6XB4Kt452_wdHI-Pk/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1d_QxilgmF-JU0AR6XB4Kt452_wdHI-Pk)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1d_QxilgmF-JU0AR6XB4Kt452_wdHI-Pk#report)
 
 PPT
@@ -435,7 +435,7 @@ Affections of horn3.3 MB[Open Affections of horn](https://drive.google.com/file/
 
 Updated 2022-11-16 · 3.3 MB
 
-[PPT ](https://drive.google.com/file/d/1yNbCKh5OwJDPhNRBdYjTg2WPywNrJt3N/view)
+[PPTX ](https://drive.google.com/file/d/1yNbCKh5OwJDPhNRBdYjTg2WPywNrJt3N/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1yNbCKh5OwJDPhNRBdYjTg2WPywNrJt3N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yNbCKh5OwJDPhNRBdYjTg2WPywNrJt3N#report)
 
 PPT
@@ -443,7 +443,7 @@ Affections of Horn1.5 MB[Open Affections of Horn](https://drive.google.com/file/
 
 Updated 2023-03-06 · 1.5 MB
 
-[PPT ](https://drive.google.com/file/d/1r9tNpmnO00xlI66XiX--tws4mzYjJq9p/view)
+[PPTX ](https://drive.google.com/file/d/1r9tNpmnO00xlI66XiX--tws4mzYjJq9p/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1r9tNpmnO00xlI66XiX--tws4mzYjJq9p)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r9tNpmnO00xlI66XiX--tws4mzYjJq9p#report)
 
 PPT
@@ -451,7 +451,7 @@ Affections of Liver and Spleen667 KB[Open Affections of Liver and Spleen](https:
 
 Updated 2023-03-06 · 667 KB
 
-[PPT ](https://drive.google.com/file/d/1IC55XC5G8fLd9ySi5-1Ngbxz7QxQ8M27/view)
+[PPTX ](https://drive.google.com/file/d/1IC55XC5G8fLd9ySi5-1Ngbxz7QxQ8M27/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1IC55XC5G8fLd9ySi5-1Ngbxz7QxQ8M27)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IC55XC5G8fLd9ySi5-1Ngbxz7QxQ8M27#report)
 
 PPT
@@ -459,7 +459,7 @@ Affections of Neck2.9 MB[Open Affections of Neck](https://drive.google.com/file/
 
 Updated 2023-03-06 · 2.9 MB
 
-[PPT ](https://drive.google.com/file/d/14kfhE8KFzaGis3HTCzM_AzOiATl5k8Vp/view)
+[PPTX ](https://drive.google.com/file/d/14kfhE8KFzaGis3HTCzM_AzOiATl5k8Vp/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=14kfhE8KFzaGis3HTCzM_AzOiATl5k8Vp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14kfhE8KFzaGis3HTCzM_AzOiATl5k8Vp#report)
 
 PPT
@@ -467,7 +467,7 @@ Affections of Salivary Gland1.1 MB[Open Affections of Salivary Gland](https://dr
 
 Updated 2023-03-06 · 1.1 MB
 
-[PPT ](https://drive.google.com/file/d/17nWn2i9pdaaM35h94nnwj0plGrUfceox/view)
+[PPTX ](https://drive.google.com/file/d/17nWn2i9pdaaM35h94nnwj0plGrUfceox/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=17nWn2i9pdaaM35h94nnwj0plGrUfceox)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17nWn2i9pdaaM35h94nnwj0plGrUfceox#report)
 
 PPT
@@ -475,7 +475,7 @@ Affections of Teeth2.1 MB[Open Affections of Teeth](https://drive.google.com/fil
 
 Updated 2026-02-06 · 2.1 MB
 
-[PPT ](https://drive.google.com/file/d/1zQsvxu_qEuJFltuULbb0G0iGW1pmzOjf/view)
+[PPTX ](https://drive.google.com/file/d/1zQsvxu_qEuJFltuULbb0G0iGW1pmzOjf/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1zQsvxu_qEuJFltuULbb0G0iGW1pmzOjf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1zQsvxu_qEuJFltuULbb0G0iGW1pmzOjf#report)
 
 PPT
@@ -483,7 +483,7 @@ Affections of Urinary System7.6 MB[Open Affections of Urinary System](https://dr
 
 Updated 2023-03-30 · 7.6 MB
 
-[PPT ](https://drive.google.com/file/d/1MtL_jLYz9ZWTq1QBQYLzaGugDOzvVPXK/view)
+[PPTX ](https://drive.google.com/file/d/1MtL_jLYz9ZWTq1QBQYLzaGugDOzvVPXK/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1MtL_jLYz9ZWTq1QBQYLzaGugDOzvVPXK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MtL_jLYz9ZWTq1QBQYLzaGugDOzvVPXK#report)
 
 PPT
@@ -491,7 +491,7 @@ Affections of Urinary System Part 2772 KB[Open Affections of Urinary System Part
 
 Updated 2023-03-30 · 772 KB
 
-[PPT ](https://drive.google.com/file/d/1ncmFi625Q5za8LPZTfSpzU4jbOdy9Gww/view)
+[PPTX ](https://drive.google.com/file/d/1ncmFi625Q5za8LPZTfSpzU4jbOdy9Gww/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ncmFi625Q5za8LPZTfSpzU4jbOdy9Gww)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ncmFi625Q5za8LPZTfSpzU4jbOdy9Gww#report)
 
 PPT
@@ -499,7 +499,7 @@ C-section in dogs320 KB[Open C-section in dogs](https://drive.google.com/file/d/
 
 Updated 2022-04-23 · 320 KB
 
-[PPT ](https://drive.google.com/file/d/1teKoZ8RxugZFYpNQhYoUCKlK7BlOhY4F/view)
+[PPTX ](https://drive.google.com/file/d/1teKoZ8RxugZFYpNQhYoUCKlK7BlOhY4F/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1teKoZ8RxugZFYpNQhYoUCKlK7BlOhY4F)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1teKoZ8RxugZFYpNQhYoUCKlK7BlOhY4F#report)
 
 PPT
@@ -507,7 +507,7 @@ Canine Mammary Tumor974 KB[Open Canine Mammary Tumor](https://drive.google.com/f
 
 Updated 2023-04-02 · 974 KB
 
-[PPT ](https://drive.google.com/file/d/1emFJbgyVd2X1CPlQ5Ndc-MTOXfSfk-rL/view)
+[PPTX ](https://drive.google.com/file/d/1emFJbgyVd2X1CPlQ5Ndc-MTOXfSfk-rL/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1emFJbgyVd2X1CPlQ5Ndc-MTOXfSfk-rL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1emFJbgyVd2X1CPlQ5Ndc-MTOXfSfk-rL#report)
 
 PPT
@@ -515,7 +515,7 @@ Castration4.0 MB[Open Castration](https://drive.google.com/file/d/1VQWv2gYRVAHvK
 
 Updated 2022-10-16 · 4.0 MB
 
-[PPT ](https://drive.google.com/file/d/1VQWv2gYRVAHvK-smHRL23TLEVCGv06EG/view)
+[PPTX ](https://drive.google.com/file/d/1VQWv2gYRVAHvK-smHRL23TLEVCGv06EG/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1VQWv2gYRVAHvK-smHRL23TLEVCGv06EG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VQWv2gYRVAHvK-smHRL23TLEVCGv06EG#report)
 
 PPT
@@ -523,7 +523,7 @@ Castration and Preparation of Teaser Bull4.1 MB[Open Castration and Preparation 
 
 Updated 2023-04-02 · 4.1 MB
 
-[PPT ](https://drive.google.com/file/d/1VRfrUwm2kaGH_6azM214KAu2BkufUJ85/view)
+[PPTX ](https://drive.google.com/file/d/1VRfrUwm2kaGH_6azM214KAu2BkufUJ85/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1VRfrUwm2kaGH_6azM214KAu2BkufUJ85)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VRfrUwm2kaGH_6azM214KAu2BkufUJ85#report)
 
 PPT
@@ -531,7 +531,7 @@ Cleft palate8.2 MB[Open Cleft palate](https://drive.google.com/file/d/1g1tNyrYaV
 
 Updated 2022-02-11 · 8.2 MB
 
-[PPT ](https://drive.google.com/file/d/1g1tNyrYaVuSqiC1cdH-Jvljxy1pLG5kS/view)
+[PPTX ](https://drive.google.com/file/d/1g1tNyrYaVuSqiC1cdH-Jvljxy1pLG5kS/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1g1tNyrYaVuSqiC1cdH-Jvljxy1pLG5kS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g1tNyrYaVuSqiC1cdH-Jvljxy1pLG5kS#report)
 
 PPT
@@ -539,7 +539,7 @@ Conformation of Fore limb63.5 MB[Open Conformation of Fore limb](https://drive.g
 
 Updated 2023-06-13 · 63.5 MB
 
-[PPT ](https://drive.google.com/file/d/1kHGTALpG0Wvw-q1-5qy-clxmOik1_e24/view)
+[PPTX ](https://drive.google.com/file/d/1kHGTALpG0Wvw-q1-5qy-clxmOik1_e24/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kHGTALpG0Wvw-q1-5qy-clxmOik1_e24#report)
 
 PPT
@@ -547,7 +547,7 @@ Conformation of forelimb1.6 MB[Open Conformation of forelimb](https://drive.goog
 
 Updated 2023-06-13 · 1.6 MB
 
-[PPT ](https://drive.google.com/file/d/11jK_BaZxHVlNZ6m5xY45eFwB12OwBo7-/view)
+[PPTX ](https://drive.google.com/file/d/11jK_BaZxHVlNZ6m5xY45eFwB12OwBo7-/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=11jK_BaZxHVlNZ6m5xY45eFwB12OwBo7-)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11jK_BaZxHVlNZ6m5xY45eFwB12OwBo7-#report)
 
 PPT
@@ -555,7 +555,7 @@ Conformation of Hind limb2.7 MB[Open Conformation of Hind limb](https://drive.go
 
 Updated 2023-06-13 · 2.7 MB
 
-[PPT ](https://drive.google.com/file/d/1YCEtC_S4JZwPvq5e5WSjO_bQqSHAciNF/view)
+[PPTX ](https://drive.google.com/file/d/1YCEtC_S4JZwPvq5e5WSjO_bQqSHAciNF/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1YCEtC_S4JZwPvq5e5WSjO_bQqSHAciNF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YCEtC_S4JZwPvq5e5WSjO_bQqSHAciNF#report)
 
 PPT
@@ -563,7 +563,7 @@ Contrast Radiography of GI12.0 MB[Open Contrast Radiography of GI](https://drive
 
 Updated 2022-12-01 · 12.0 MB
 
-[PPT ](https://drive.google.com/file/d/11C8bGxUm9dJ-ObC3pmlZHdFJG_ouy_od/view)
+[PPTX ](https://drive.google.com/file/d/11C8bGxUm9dJ-ObC3pmlZHdFJG_ouy_od/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=11C8bGxUm9dJ-ObC3pmlZHdFJG_ouy_od)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11C8bGxUm9dJ-ObC3pmlZHdFJG_ouy_od#report)
 
 PPT
@@ -579,7 +579,7 @@ Cruciate Ligament Rupture10.9 MB[Open Cruciate Ligament Rupture](https://drive.g
 
 Updated 2023-06-22 · 10.9 MB
 
-[PPT ](https://drive.google.com/file/d/1gFfNibl6PZxkDGdV9OkCqYYKC0ASEN1m/view)
+[PPTX ](https://drive.google.com/file/d/1gFfNibl6PZxkDGdV9OkCqYYKC0ASEN1m/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1gFfNibl6PZxkDGdV9OkCqYYKC0ASEN1m)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gFfNibl6PZxkDGdV9OkCqYYKC0ASEN1m#report)
 
 PPT
@@ -587,7 +587,7 @@ Cruciate ligament rupture in dogs4.7 MB[Open Cruciate ligament rupture in dogs](
 
 Updated 2023-06-22 · 4.7 MB
 
-[PPT ](https://drive.google.com/file/d/1llVc7q8ILtJ9xjkIH2V1zocs4VEqjS01/view)
+[PPTX ](https://drive.google.com/file/d/1llVc7q8ILtJ9xjkIH2V1zocs4VEqjS01/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1llVc7q8ILtJ9xjkIH2V1zocs4VEqjS01)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1llVc7q8ILtJ9xjkIH2V1zocs4VEqjS01#report)
 
 PPT
@@ -595,7 +595,7 @@ Diagnostic Imaging Final697 KB[Open Diagnostic Imaging Final](https://drive.goog
 
 Updated 2023-03-06 · 697 KB
 
-[PPT ](https://drive.google.com/file/d/16L5Y_MKPKN2X3KQmlQn1ZzremTs7N0rn/view)
+[PPTX ](https://drive.google.com/file/d/16L5Y_MKPKN2X3KQmlQn1ZzremTs7N0rn/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=16L5Y_MKPKN2X3KQmlQn1ZzremTs7N0rn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16L5Y_MKPKN2X3KQmlQn1ZzremTs7N0rn#report)
 
 PPT
@@ -611,7 +611,7 @@ Diaphramatic Hernia16.3 MB[Open Diaphramatic Hernia](https://drive.google.com/fi
 
 Updated 2023-03-26 · 16.3 MB
 
-[PPT ](https://drive.google.com/file/d/1adjgm8TiY-t9oMTajcaqG8p4Pg09bQDP/view)
+[PPTX ](https://drive.google.com/file/d/1adjgm8TiY-t9oMTajcaqG8p4Pg09bQDP/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1adjgm8TiY-t9oMTajcaqG8p4Pg09bQDP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1adjgm8TiY-t9oMTajcaqG8p4Pg09bQDP#report)
 
 PPT
@@ -619,7 +619,7 @@ EQUINE LAMENESS 29.2 MB[Open EQUINE LAMENESS 2](https://drive.google.com/file/d/
 
 Updated 2023-04-20 · 9.2 MB
 
-[PPT ](https://drive.google.com/file/d/11nQCvnL02DhWOxJhx-2m6Pje-rnvXQdc/view)
+[PPTX ](https://drive.google.com/file/d/11nQCvnL02DhWOxJhx-2m6Pje-rnvXQdc/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=11nQCvnL02DhWOxJhx-2m6Pje-rnvXQdc)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11nQCvnL02DhWOxJhx-2m6Pje-rnvXQdc#report)
 
 PPT
@@ -635,17 +635,17 @@ External Coaptation Technique6.0 MB[Open External Coaptation Technique](https://
 
 Updated 2023-01-26 · 6.0 MB
 
-[PPT ](https://drive.google.com/file/d/1ye4XStWGQ2DUzWjg_E5dTA5D9m4Km0ZA/view)
+[PPTX ](https://drive.google.com/file/d/1ye4XStWGQ2DUzWjg_E5dTA5D9m4Km0ZA/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ye4XStWGQ2DUzWjg_E5dTA5D9m4Km0ZA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ye4XStWGQ2DUzWjg_E5dTA5D9m4Km0ZA#report)
 
-Show 30 more 48 remaining
+Show 30 more 46 remaining
 
 PPT
 Fracture3.0 MB[Open Fracture](https://drive.google.com/file/d/1jziTfwvn1Yeld61N-sZAVKWiUrdWKLTC/view)
 
 Updated 2023-03-28 · 3.0 MB
 
-[PPT ](https://drive.google.com/file/d/1jziTfwvn1Yeld61N-sZAVKWiUrdWKLTC/view)
+[PPTX ](https://drive.google.com/file/d/1jziTfwvn1Yeld61N-sZAVKWiUrdWKLTC/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1jziTfwvn1Yeld61N-sZAVKWiUrdWKLTC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jziTfwvn1Yeld61N-sZAVKWiUrdWKLTC#report)
 
 PPT
@@ -653,7 +653,7 @@ Fracture-12.6 MB[Open Fracture-1](https://drive.google.com/file/d/1vAgxFRXJ_Jdzs
 
 Updated 2026-09-04 · 2.6 MB
 
-[PPT ](https://drive.google.com/file/d/1vAgxFRXJ_JdzsMAMG1I7rbcd9CzLQAVU/view)
+[PPTX ](https://drive.google.com/file/d/1vAgxFRXJ_JdzsMAMG1I7rbcd9CzLQAVU/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1vAgxFRXJ_JdzsMAMG1I7rbcd9CzLQAVU)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vAgxFRXJ_JdzsMAMG1I7rbcd9CzLQAVU#report)
 
 PPT
@@ -661,7 +661,7 @@ Fracture-21.8 MB[Open Fracture-2](https://drive.google.com/file/d/1Ih0OlWjApVSx4
 
 Updated 2023-03-30 · 1.8 MB
 
-[PPT ](https://drive.google.com/file/d/1Ih0OlWjApVSx4wgxSqHAY5AxcRpgvYld/view)
+[PPTX ](https://drive.google.com/file/d/1Ih0OlWjApVSx4wgxSqHAY5AxcRpgvYld/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Ih0OlWjApVSx4wgxSqHAY5AxcRpgvYld)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ih0OlWjApVSx4wgxSqHAY5AxcRpgvYld#report)
 
 PPT
@@ -669,7 +669,7 @@ Gastric Dilatation And Volvulus6.9 MB[Open Gastric Dilatation And Volvulus](http
 
 Updated 2023-03-26 · 6.9 MB
 
-[PPT ](https://drive.google.com/file/d/1D2zp7TFVmVXXm49UKFhRhBtuQlcwdTA7/view)
+[PPTX ](https://drive.google.com/file/d/1D2zp7TFVmVXXm49UKFhRhBtuQlcwdTA7/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1D2zp7TFVmVXXm49UKFhRhBtuQlcwdTA7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1D2zp7TFVmVXXm49UKFhRhBtuQlcwdTA7#report)
 
 PPT
@@ -677,7 +677,7 @@ GDV6.3 MB[Open GDV](https://drive.google.com/file/d/1uO0RaI0yiZvZmSroracZIeo5xul
 
 Updated 2023-03-28 · 6.3 MB
 
-[PPT ](https://drive.google.com/file/d/1uO0RaI0yiZvZmSroracZIeo5xulZPlJj/view)
+[PPTX ](https://drive.google.com/file/d/1uO0RaI0yiZvZmSroracZIeo5xulZPlJj/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1uO0RaI0yiZvZmSroracZIeo5xulZPlJj)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1uO0RaI0yiZvZmSroracZIeo5xulZPlJj#report)
 
 PPT
@@ -693,7 +693,7 @@ Guttural Pouch Affections1.9 MB[Open Guttural Pouch Affections](https://drive.go
 
 Updated 2023-03-26 · 1.9 MB
 
-[PPT ](https://drive.google.com/file/d/1YNj4MDAJdbLoTPM3KHFH5GxVIM2mzm9H/view)
+[PPTX ](https://drive.google.com/file/d/1YNj4MDAJdbLoTPM3KHFH5GxVIM2mzm9H/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1YNj4MDAJdbLoTPM3KHFH5GxVIM2mzm9H)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YNj4MDAJdbLoTPM3KHFH5GxVIM2mzm9H#report)
 
 PPT
@@ -701,7 +701,7 @@ Guttural Pouch Affections In Equine4.2 MB[Open Guttural Pouch Affections In Equi
 
 Updated 2023-06-23 · 4.2 MB
 
-[PPT ](https://drive.google.com/file/d/13X3bWMsHPLH0DcEMmdUj9m_VpipiGcis/view)
+[PPTX ](https://drive.google.com/file/d/13X3bWMsHPLH0DcEMmdUj9m_VpipiGcis/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=13X3bWMsHPLH0DcEMmdUj9m_VpipiGcis)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13X3bWMsHPLH0DcEMmdUj9m_VpipiGcis#report)
 
 PPT
@@ -709,23 +709,15 @@ Hernia14.2 MB[Open Hernia](https://drive.google.com/file/d/1lR6l3ohFQNhcGP3dGQvM
 
 Updated 2025-02-01 · 14.2 MB
 
-[PPT ](https://drive.google.com/file/d/1lR6l3ohFQNhcGP3dGQvMwxkFhtTfi75T/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1lR6l3ohFQNhcGP3dGQvMwxkFhtTfi75T)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lR6l3ohFQNhcGP3dGQvMwxkFhtTfi75T#report)
-
-PPT
-Hernia3.3 MB[Open Hernia](https://drive.google.com/file/d/11c9mxu08pwQ6-PMzHis8UKgFBBEJwcn7/view)
-
-Updated 2023-03-14 · 3.3 MB
-
-[PPT ](https://drive.google.com/file/d/11c9mxu08pwQ6-PMzHis8UKgFBBEJwcn7/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=11c9mxu08pwQ6-PMzHis8UKgFBBEJwcn7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11c9mxu08pwQ6-PMzHis8UKgFBBEJwcn7#report)
+[PPT ](https://drive.google.com/file/d/1lR6l3ohFQNhcGP3dGQvMwxkFhtTfi75T/view)[PPTX ](https://drive.google.com/file/d/11c9mxu08pwQ6-PMzHis8UKgFBBEJwcn7/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1lR6l3ohFQNhcGP3dGQvMwxkFhtTfi75T)[Download PPT](https://drive.google.com/uc?export=download&id=11c9mxu08pwQ6-PMzHis8UKgFBBEJwcn7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lR6l3ohFQNhcGP3dGQvMwxkFhtTfi75T#report)
 
 PPT
 Horn Affections2.5 MB[Open Horn Affections](https://drive.google.com/file/d/1nUMlpyesPuXMQlhQrUjPBx0dUxC5uQ9p/view)
 
 Updated 2026-08-10 · 2.5 MB
 
-[PPT ](https://drive.google.com/file/d/1nUMlpyesPuXMQlhQrUjPBx0dUxC5uQ9p/view)
+[PPTX ](https://drive.google.com/file/d/1nUMlpyesPuXMQlhQrUjPBx0dUxC5uQ9p/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1nUMlpyesPuXMQlhQrUjPBx0dUxC5uQ9p)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nUMlpyesPuXMQlhQrUjPBx0dUxC5uQ9p#report)
 
 PPT
@@ -733,23 +725,15 @@ Intestinal obstruction2.7 MB[Open Intestinal obstruction](https://drive.google.c
 
 Updated 2023-03-26 · 2.7 MB
 
-[PPT ](https://drive.google.com/file/d/1_-BPeBW1FTf16i4H5BKK_qkgu4jBWY0_/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1_-BPeBW1FTf16i4H5BKK_qkgu4jBWY0_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_-BPeBW1FTf16i4H5BKK_qkgu4jBWY0_#report)
-
-PPT
-Intestinal Obstruction5.9 MB[Open Intestinal Obstruction](https://drive.google.com/file/d/1CMEQ_GNPLixMVtCPbsV230Mxs2U5GW-s/view)
-
-Updated 2023-03-28 · 5.9 MB
-
-[PPT ](https://drive.google.com/file/d/1CMEQ_GNPLixMVtCPbsV230Mxs2U5GW-s/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1CMEQ_GNPLixMVtCPbsV230Mxs2U5GW-s)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1CMEQ_GNPLixMVtCPbsV230Mxs2U5GW-s#report)
+[PPTX ](https://drive.google.com/file/d/1_-BPeBW1FTf16i4H5BKK_qkgu4jBWY0_/view)[PPT ](https://drive.google.com/file/d/1CMEQ_GNPLixMVtCPbsV230Mxs2U5GW-s/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1_-BPeBW1FTf16i4H5BKK_qkgu4jBWY0_)[Download PPT](https://drive.google.com/uc?export=download&id=1CMEQ_GNPLixMVtCPbsV230Mxs2U5GW-s)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_-BPeBW1FTf16i4H5BKK_qkgu4jBWY0_#report)
 
 PPT
 Intestinal surgery280 KB[Open Intestinal surgery](https://drive.google.com/file/d/11eMOCzzxwxpwoDZwFG7lxXOYX0Z_NsAC/view)
 
 Updated 2023-06-26 · 280 KB
 
-[PPT ](https://drive.google.com/file/d/11eMOCzzxwxpwoDZwFG7lxXOYX0Z_NsAC/view)
+[PPTX ](https://drive.google.com/file/d/11eMOCzzxwxpwoDZwFG7lxXOYX0Z_NsAC/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=11eMOCzzxwxpwoDZwFG7lxXOYX0Z_NsAC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11eMOCzzxwxpwoDZwFG7lxXOYX0Z_NsAC#report)
 
 PPT
@@ -765,7 +749,7 @@ Intusucception In Cattle71 KB[Open Intusucception In Cattle](https://drive.googl
 
 Updated 2022-11-08 · 71 KB
 
-[PPT ](https://drive.google.com/file/d/1MBSgKD2_hesJz0NbgtNuyghIYQvO2JM3/view)
+[PPTX ](https://drive.google.com/file/d/1MBSgKD2_hesJz0NbgtNuyghIYQvO2JM3/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1MBSgKD2_hesJz0NbgtNuyghIYQvO2JM3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MBSgKD2_hesJz0NbgtNuyghIYQvO2JM3#report)
 
 PPT
@@ -773,7 +757,7 @@ Laminitis7.6 MB[Open Laminitis](https://drive.google.com/file/d/1c58q0kpdxyLf6FI
 
 Updated 2023-02-15 · 7.6 MB
 
-[PPT ](https://drive.google.com/file/d/1c58q0kpdxyLf6FIa96CugORy0YUrqNKG/view)
+[PPTX ](https://drive.google.com/file/d/1c58q0kpdxyLf6FIa96CugORy0YUrqNKG/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1c58q0kpdxyLf6FIa96CugORy0YUrqNKG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1c58q0kpdxyLf6FIa96CugORy0YUrqNKG#report)
 
 PPT
@@ -789,7 +773,7 @@ Laryngeal hemiplegia547 KB[Open Laryngeal hemiplegia](https://drive.google.com/f
 
 Updated 2022-09-29 · 547 KB
 
-[PPT ](https://drive.google.com/file/d/1fMWuuGMMuvTgbQxyE6Lo21tyTrahpXiR/view)
+[PPTX ](https://drive.google.com/file/d/1fMWuuGMMuvTgbQxyE6Lo21tyTrahpXiR/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1fMWuuGMMuvTgbQxyE6Lo21tyTrahpXiR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fMWuuGMMuvTgbQxyE6Lo21tyTrahpXiR#report)
 
 PPT
@@ -797,7 +781,7 @@ Local Anaesthesia and Nerve Block8.6 MB[Open Local Anaesthesia and Nerve Block](
 
 Updated 2022-12-04 · 8.6 MB
 
-[PPT ](https://drive.google.com/file/d/1z_klRZY9PUuKQihjSk1JfHURoRb0cTPO/view)
+[PPTX ](https://drive.google.com/file/d/1z_klRZY9PUuKQihjSk1JfHURoRb0cTPO/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1z_klRZY9PUuKQihjSk1JfHURoRb0cTPO)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z_klRZY9PUuKQihjSk1JfHURoRb0cTPO#report)
 
 PPT
@@ -805,7 +789,7 @@ Maggot Infestation In Dog6.0 MB[Open Maggot Infestation In Dog](https://drive.go
 
 Updated 2022-11-04 · 6.0 MB
 
-[PPT ](https://drive.google.com/file/d/1cWhBDgD2VsBpF91uaPmwMeG_HTIJ75dQ/view)
+[PPTX ](https://drive.google.com/file/d/1cWhBDgD2VsBpF91uaPmwMeG_HTIJ75dQ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1cWhBDgD2VsBpF91uaPmwMeG_HTIJ75dQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cWhBDgD2VsBpF91uaPmwMeG_HTIJ75dQ#report)
 
 PPT
@@ -813,7 +797,7 @@ Opthalmological Examination of Eye5.0 MB[Open Opthalmological Examination of Eye
 
 Updated 2023-03-26 · 5.0 MB
 
-[PPT ](https://drive.google.com/file/d/19s05VkpZ_RkJDwPlBCfCj4-wSpFn1XNX/view)
+[PPTX ](https://drive.google.com/file/d/19s05VkpZ_RkJDwPlBCfCj4-wSpFn1XNX/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=19s05VkpZ_RkJDwPlBCfCj4-wSpFn1XNX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19s05VkpZ_RkJDwPlBCfCj4-wSpFn1XNX#report)
 
 PPT
@@ -821,7 +805,7 @@ Otitis Externa In A Rottweiler6.0 MB[Open Otitis Externa In A Rottweiler](https:
 
 Updated 2022-10-16 · 6.0 MB
 
-[PPT ](https://drive.google.com/file/d/13xBQSQCfODFntV8Q-Le1KKqogYbOzUSD/view)
+[PPTX ](https://drive.google.com/file/d/13xBQSQCfODFntV8Q-Le1KKqogYbOzUSD/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=13xBQSQCfODFntV8Q-Le1KKqogYbOzUSD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13xBQSQCfODFntV8Q-Le1KKqogYbOzUSD#report)
 
 PPT
@@ -829,7 +813,7 @@ Otitis Externa in Canine342 KB[Open Otitis Externa in Canine](https://drive.goog
 
 Updated 2022-11-01 · 342 KB
 
-[PPT ](https://drive.google.com/file/d/1z0EYxLWkA4NrfT9EiUSoHv8XKMk5b-gS/view)
+[PPTX ](https://drive.google.com/file/d/1z0EYxLWkA4NrfT9EiUSoHv8XKMk5b-gS/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1z0EYxLWkA4NrfT9EiUSoHv8XKMk5b-gS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z0EYxLWkA4NrfT9EiUSoHv8XKMk5b-gS#report)
 
 PPT
@@ -837,7 +821,7 @@ Parts Of X-Ray Machine and Production of X-Ray1.5 MB[Open Parts Of X-Ray Machine
 
 Updated 2022-12-01 · 1.5 MB
 
-[PPT ](https://drive.google.com/file/d/1vj2prFJZOMpAedDHqUkSb1y4ZkL8bFIs/view)
+[PPTX ](https://drive.google.com/file/d/1vj2prFJZOMpAedDHqUkSb1y4ZkL8bFIs/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1vj2prFJZOMpAedDHqUkSb1y4ZkL8bFIs)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vj2prFJZOMpAedDHqUkSb1y4ZkL8bFIs#report)
 
 PPT
@@ -845,7 +829,7 @@ PARTS OF X-RAY MACHINE-AND PRODUCTION OF X-RAY1.5 MB[Open PARTS OF X-RAY MACHINE
 
 Updated 2022-11-10 · 1.5 MB
 
-[PPT ](https://drive.google.com/file/d/12-kQUm9o9yYZTFEMsDWzSfOUeqidk8P4/view)
+[PPTX ](https://drive.google.com/file/d/12-kQUm9o9yYZTFEMsDWzSfOUeqidk8P4/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12-kQUm9o9yYZTFEMsDWzSfOUeqidk8P4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12-kQUm9o9yYZTFEMsDWzSfOUeqidk8P4#report)
 
 PPT
@@ -853,7 +837,7 @@ Premedication668 KB[Open Premedication](https://drive.google.com/file/d/1YFSSEKY
 
 Updated 2022-12-01 · 668 KB
 
-[PPT ](https://drive.google.com/file/d/1YFSSEKYoy_K4AGlt3U0e1MUr0WvmYtsK/view)
+[PPTX ](https://drive.google.com/file/d/1YFSSEKYoy_K4AGlt3U0e1MUr0WvmYtsK/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1YFSSEKYoy_K4AGlt3U0e1MUr0WvmYtsK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YFSSEKYoy_K4AGlt3U0e1MUr0WvmYtsK#report)
 
 PPT
@@ -861,7 +845,7 @@ Premedication670 KB[Open Premedication](https://drive.google.com/file/d/1mhct7kz
 
 Updated 2022-11-23 · 670 KB
 
-[PPT ](https://drive.google.com/file/d/1mhct7kz5G9DfVJFOsRbFhDZK_-bnLKX_/view)
+[PPTX ](https://drive.google.com/file/d/1mhct7kz5G9DfVJFOsRbFhDZK_-bnLKX_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1mhct7kz5G9DfVJFOsRbFhDZK_-bnLKX_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mhct7kz5G9DfVJFOsRbFhDZK_-bnLKX_#report)
 
 PPT
@@ -877,17 +861,15 @@ Production of X rays2.1 MB[Open Production of X rays](https://drive.google.com/f
 
 Updated 2023-06-24 · 2.1 MB
 
-[PPT ](https://drive.google.com/file/d/1xYpFtlUNSBS_HD0m-z_niqbo34u2b37h/view)
+[PPTX ](https://drive.google.com/file/d/1xYpFtlUNSBS_HD0m-z_niqbo34u2b37h/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1xYpFtlUNSBS_HD0m-z_niqbo34u2b37h)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xYpFtlUNSBS_HD0m-z_niqbo34u2b37h#report)
-
-Show 18 more 18 remaining
 
 PPT
 Pyloric Obstruction2.3 MB[Open Pyloric Obstruction](https://drive.google.com/file/d/15Y5uHyNxF1VdN4azatq69efL4J2J3oPE/view)
 
 Updated 2023-03-26 · 2.3 MB
 
-[PPT ](https://drive.google.com/file/d/15Y5uHyNxF1VdN4azatq69efL4J2J3oPE/view)
+[PPTX ](https://drive.google.com/file/d/15Y5uHyNxF1VdN4azatq69efL4J2J3oPE/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=15Y5uHyNxF1VdN4azatq69efL4J2J3oPE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15Y5uHyNxF1VdN4azatq69efL4J2J3oPE#report)
 
 PPT
@@ -895,15 +877,17 @@ Pyometra In Bitches8.8 MB[Open Pyometra In Bitches](https://drive.google.com/fil
 
 Updated 2023-03-26 · 8.8 MB
 
-[PPT ](https://drive.google.com/file/d/1RoLwyTS11otOwHUR22qOvEezJ4KxpwW4/view)
+[PPTX ](https://drive.google.com/file/d/1RoLwyTS11otOwHUR22qOvEezJ4KxpwW4/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1RoLwyTS11otOwHUR22qOvEezJ4KxpwW4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RoLwyTS11otOwHUR22qOvEezJ4KxpwW4#report)
+
+Show 16 more 16 remaining
 
 PPT
 Qualities Of X-ray341 KB[Open Qualities Of X-ray](https://drive.google.com/file/d/1fmCEyjxnoBpewgTAMEdD5aNyMB4x2xyy/view)
 
 Updated 2022-12-01 · 341 KB
 
-[PPT ](https://drive.google.com/file/d/1fmCEyjxnoBpewgTAMEdD5aNyMB4x2xyy/view)
+[PPTX ](https://drive.google.com/file/d/1fmCEyjxnoBpewgTAMEdD5aNyMB4x2xyy/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1fmCEyjxnoBpewgTAMEdD5aNyMB4x2xyy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fmCEyjxnoBpewgTAMEdD5aNyMB4x2xyy#report)
 
 PPT
@@ -911,7 +895,7 @@ Rumenotomy945 KB[Open Rumenotomy](https://drive.google.com/file/d/1hB15WRaLMCCT2
 
 Updated 2023-04-02 · 945 KB
 
-[PPT ](https://drive.google.com/file/d/1hB15WRaLMCCT2aQE3NGQ9pU1qESCXWYs/view)
+[PPTX ](https://drive.google.com/file/d/1hB15WRaLMCCT2aQE3NGQ9pU1qESCXWYs/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1hB15WRaLMCCT2aQE3NGQ9pU1qESCXWYs)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hB15WRaLMCCT2aQE3NGQ9pU1qESCXWYs#report)
 
 PPT
@@ -919,7 +903,7 @@ Spiral Communited Fracture of tibia and fibula2.6 MB[Open Spiral Communited Frac
 
 Updated 2022-10-31 · 2.6 MB
 
-[PPT ](https://drive.google.com/file/d/1MktRcLpDw4s-pzBoNhdeqxMczdedj6TQ/view)
+[PPTX ](https://drive.google.com/file/d/1MktRcLpDw4s-pzBoNhdeqxMczdedj6TQ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1MktRcLpDw4s-pzBoNhdeqxMczdedj6TQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MktRcLpDw4s-pzBoNhdeqxMczdedj6TQ#report)
 
 PPT
@@ -927,7 +911,7 @@ Surgery of Ear8.9 MB[Open Surgery of Ear](https://drive.google.com/file/d/12U7Cy
 
 Updated 2023-03-06 · 8.9 MB
 
-[PPT ](https://drive.google.com/file/d/12U7CyaMlg_5IhuJwsQf1kNIgUFlRnEfa/view)
+[PPTX ](https://drive.google.com/file/d/12U7CyaMlg_5IhuJwsQf1kNIgUFlRnEfa/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12U7CyaMlg_5IhuJwsQf1kNIgUFlRnEfa)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12U7CyaMlg_5IhuJwsQf1kNIgUFlRnEfa#report)
 
 PPT
@@ -935,7 +919,7 @@ Surgery of Oral Cavity1.6 MB[Open Surgery of Oral Cavity](https://drive.google.c
 
 Updated 2023-03-06 · 1.6 MB
 
-[PPT ](https://drive.google.com/file/d/1YOd_rLQGVyuXx-7oVGFVziX0byUr2N9E/view)
+[PPTX ](https://drive.google.com/file/d/1YOd_rLQGVyuXx-7oVGFVziX0byUr2N9E/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1YOd_rLQGVyuXx-7oVGFVziX0byUr2N9E)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YOd_rLQGVyuXx-7oVGFVziX0byUr2N9E#report)
 
 PPT
@@ -943,7 +927,7 @@ Surgery of Thorax2.7 MB[Open Surgery of Thorax](https://drive.google.com/file/d/
 
 Updated 2023-03-06 · 2.7 MB
 
-[PPT ](https://drive.google.com/file/d/1bBR6UaOI_5YCqGK2aOXuD2JfJA6jtm3R/view)
+[PPTX ](https://drive.google.com/file/d/1bBR6UaOI_5YCqGK2aOXuD2JfJA6jtm3R/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1bBR6UaOI_5YCqGK2aOXuD2JfJA6jtm3R)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bBR6UaOI_5YCqGK2aOXuD2JfJA6jtm3R#report)
 
 PPT
@@ -951,7 +935,7 @@ Surgical Affections of Stomach6.7 MB[Open Surgical Affections of Stomach](https:
 
 Updated 2023-03-06 · 6.7 MB
 
-[PPT ](https://drive.google.com/file/d/1Az8A26pmXaAlnU2saeqmVdJDw4TNlhGW/view)
+[PPTX ](https://drive.google.com/file/d/1Az8A26pmXaAlnU2saeqmVdJDw4TNlhGW/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Az8A26pmXaAlnU2saeqmVdJDw4TNlhGW)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Az8A26pmXaAlnU2saeqmVdJDw4TNlhGW#report)
 
 PPT
@@ -959,7 +943,7 @@ Surgical affections of the stomach canies and felines617 KB[Open Surgical affect
 
 Updated 2023-03-06 · 617 KB
 
-[PPT ](https://drive.google.com/file/d/1g0Yw8H4dpwtMv6dF43P5DJMdOTI97Y1g/view)
+[PPTX ](https://drive.google.com/file/d/1g0Yw8H4dpwtMv6dF43P5DJMdOTI97Y1g/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1g0Yw8H4dpwtMv6dF43P5DJMdOTI97Y1g)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g0Yw8H4dpwtMv6dF43P5DJMdOTI97Y1g#report)
 
 PPT
@@ -967,7 +951,7 @@ Suture Materials1.3 MB[Open Suture Materials](https://drive.google.com/file/d/1E
 
 Updated 2022-11-20 · 1.3 MB
 
-[PPT ](https://drive.google.com/file/d/1EtP6puZMtQgcsv8Yr1TZdpx1kIKM2OlA/view)
+[PPTX ](https://drive.google.com/file/d/1EtP6puZMtQgcsv8Yr1TZdpx1kIKM2OlA/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1EtP6puZMtQgcsv8Yr1TZdpx1kIKM2OlA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EtP6puZMtQgcsv8Yr1TZdpx1kIKM2OlA#report)
 
 PPT
@@ -975,7 +959,7 @@ Tail amputation900 KB[Open Tail amputation](https://drive.google.com/file/d/1hFC
 
 Updated 2026-08-04 · 900 KB
 
-[PPT ](https://drive.google.com/file/d/1hFCR_yVTPuDoz-E5XEcAO12fWbvqdHzV/view)
+[PPTX ](https://drive.google.com/file/d/1hFCR_yVTPuDoz-E5XEcAO12fWbvqdHzV/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1hFCR_yVTPuDoz-E5XEcAO12fWbvqdHzV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hFCR_yVTPuDoz-E5XEcAO12fWbvqdHzV#report)
 
 PPT
@@ -999,7 +983,7 @@ TVT in dog1.5 MB[Open TVT in dog](https://drive.google.com/file/d/1GWoZfqH4JAas8
 
 Updated 2022-11-14 · 1.5 MB
 
-[PPT ](https://drive.google.com/file/d/1GWoZfqH4JAas8JKPeeH5GQPj-J1OCPpi/view)
+[PPTX ](https://drive.google.com/file/d/1GWoZfqH4JAas8JKPeeH5GQPj-J1OCPpi/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1GWoZfqH4JAas8JKPeeH5GQPj-J1OCPpi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GWoZfqH4JAas8JKPeeH5GQPj-J1OCPpi#report)
 
 PPT
@@ -1007,7 +991,7 @@ Urolithiasis2.5 MB[Open Urolithiasis](https://drive.google.com/file/d/1XXUr4iVI2
 
 Updated 2023-06-23 · 2.5 MB
 
-[PPT ](https://drive.google.com/file/d/1XXUr4iVI2cbUyhCIiIsr-na9Qlu2N_pv/view)
+[PPTX ](https://drive.google.com/file/d/1XXUr4iVI2cbUyhCIiIsr-na9Qlu2N_pv/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1XXUr4iVI2cbUyhCIiIsr-na9Qlu2N_pv)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XXUr4iVI2cbUyhCIiIsr-na9Qlu2N_pv#report)
 
 PPT
@@ -1023,7 +1007,7 @@ Yoke Gall622 KB[Open Yoke Gall](https://drive.google.com/file/d/1xPfpbHWwn_IALCD
 
 Updated 2022-12-28 · 622 KB
 
-[PPT ](https://drive.google.com/file/d/1xPfpbHWwn_IALCDLIM2zixLrPhG3b1S0/view)
+[PPTX ](https://drive.google.com/file/d/1xPfpbHWwn_IALCDLIM2zixLrPhG3b1S0/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1xPfpbHWwn_IALCDLIM2zixLrPhG3b1S0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xPfpbHWwn_IALCDLIM2zixLrPhG3b1S0#report)
 
 ## Images
@@ -1035,7 +1019,7 @@ IMG202212271455552.4 MB[Open IMG20221227145555](https://drive.google.com/file/d/
 
 Updated 2022-12-27 · 2.4 MB
 
-[IMG ](https://drive.google.com/file/d/1OVeBjnokDmQe8nGJzkJSOM23sm3VIFYE/view)
+[JPG ](https://drive.google.com/file/d/1OVeBjnokDmQe8nGJzkJSOM23sm3VIFYE/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1OVeBjnokDmQe8nGJzkJSOM23sm3VIFYE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1OVeBjnokDmQe8nGJzkJSOM23sm3VIFYE#report)
 
 IMG
@@ -1043,7 +1027,7 @@ IMG202212271456032.1 MB[Open IMG20221227145603](https://drive.google.com/file/d/
 
 Updated 2022-12-27 · 2.1 MB
 
-[IMG ](https://drive.google.com/file/d/1SX86m6vidFu18SKwK5K6YIYqU9LUKzuD/view)
+[JPG ](https://drive.google.com/file/d/1SX86m6vidFu18SKwK5K6YIYqU9LUKzuD/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1SX86m6vidFu18SKwK5K6YIYqU9LUKzuD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1SX86m6vidFu18SKwK5K6YIYqU9LUKzuD#report)
 
 IMG
@@ -1051,7 +1035,7 @@ IMG202212271506082.2 MB[Open IMG20221227150608](https://drive.google.com/file/d/
 
 Updated 2022-12-27 · 2.2 MB
 
-[IMG ](https://drive.google.com/file/d/1ws9tif95I3uN5sZyX9YOmVoM0RrANdfO/view)
+[JPG ](https://drive.google.com/file/d/1ws9tif95I3uN5sZyX9YOmVoM0RrANdfO/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1ws9tif95I3uN5sZyX9YOmVoM0RrANdfO)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ws9tif95I3uN5sZyX9YOmVoM0RrANdfO#report)
 
 IMG
@@ -1059,7 +1043,7 @@ IMG202301041638511.7 MB[Open IMG20230104163851](https://drive.google.com/file/d/
 
 Updated 2023-01-04 · 1.7 MB
 
-[IMG ](https://drive.google.com/file/d/1woqCD8oozTuyRkVN_aPaZ67APgu0us2b/view)
+[JPG ](https://drive.google.com/file/d/1woqCD8oozTuyRkVN_aPaZ67APgu0us2b/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1woqCD8oozTuyRkVN_aPaZ67APgu0us2b)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1woqCD8oozTuyRkVN_aPaZ67APgu0us2b#report)
 
 IMG
@@ -1067,7 +1051,7 @@ IMG202301122213172.2 MB[Open IMG20230112221317](https://drive.google.com/file/d/
 
 Updated 2023-01-12 · 2.2 MB
 
-[IMG ](https://drive.google.com/file/d/12x3gEW463cK52XUrWZmNweRVHoDUV-ZC/view)
+[JPG ](https://drive.google.com/file/d/12x3gEW463cK52XUrWZmNweRVHoDUV-ZC/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=12x3gEW463cK52XUrWZmNweRVHoDUV-ZC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12x3gEW463cK52XUrWZmNweRVHoDUV-ZC#report)
 
 IMG
@@ -1075,7 +1059,7 @@ Photo set — Veterinary Surgery and Radiology — 8 images23.0 MB[Open Photo se
 
 Updated 2023-06-26 · 23.0 MB
 
-[IMG ](https://drive.google.com/drive/folders/1IRM5IVr0SugIq-n05dh8F63lBjg_R89c)
+[Images ](https://drive.google.com/drive/folders/1IRM5IVr0SugIq-n05dh8F63lBjg_R89c)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1IRM5IVr0SugIq-n05dh8F63lBjg_R89c#report)
 
 IMG
@@ -1083,7 +1067,7 @@ Photo set — Veterinary Surgery and Radiology — 28 images2.0 MB[Open Photo se
 
 Updated 2023-03-23 · 2.0 MB
 
-[IMG ](https://drive.google.com/drive/folders/1XAETGWk86KuD45eyV03AP1k8J5hG-8FE)
+[Images ](https://drive.google.com/drive/folders/1XAETGWk86KuD45eyV03AP1k8J5hG-8FE)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1XAETGWk86KuD45eyV03AP1k8J5hG-8FE#report)
 
 IMG
@@ -1091,7 +1075,7 @@ Photo set — Veterinary Surgery and Radiology — 152 images6.6 MB[Open Photo s
 
 Updated 2023-07-17 · 6.6 MB
 
-[IMG ](https://drive.google.com/drive/folders/1edaA6feCbfOj5IPSewO1v5MkzattRL_0)
+[Images ](https://drive.google.com/drive/folders/1edaA6feCbfOj5IPSewO1v5MkzattRL_0)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1edaA6feCbfOj5IPSewO1v5MkzattRL_0#report)
 
 ## Extras
@@ -1119,7 +1103,7 @@ hip dysplasia6.2 MB[Open hip dysplasia](https://drive.google.com/file/d/1jtaW9mt
 
 Updated 2023-06-22 · 6.2 MB
 
-[PDF ](https://drive.google.com/file/d/1jtaW9mt7rcOFuBHYEAdpd2A6FHdHL_qc/view)[PPT ](https://drive.google.com/file/d/1h4LqujaxXGmNipokjutdYWuoSqG-x7lB/view)
+[PDF ](https://drive.google.com/file/d/1jtaW9mt7rcOFuBHYEAdpd2A6FHdHL_qc/view)[PPTX ](https://drive.google.com/file/d/1h4LqujaxXGmNipokjutdYWuoSqG-x7lB/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1jtaW9mt7rcOFuBHYEAdpd2A6FHdHL_qc)[Download PPT](https://drive.google.com/uc?export=download&id=1h4LqujaxXGmNipokjutdYWuoSqG-x7lB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jtaW9mt7rcOFuBHYEAdpd2A6FHdHL_qc#report)
 
 PDF
@@ -1205,6 +1189,8 @@ Updated 2022-09-22 · 329 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
 
 - Asepsis and surgical principles
 - Anaesthesiology and pain management

@@ -4,7 +4,7 @@
 
 # Veterinary Clinical Practices II
 
-Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
+Veterinary Clinical Practices II notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 0 resources · 4th Year
 
@@ -19,6 +19,8 @@ Nothing here yet. Even a calf needs a minute to stand.
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
 
 - Clinical examination and diagnostic planning
 - Medical and surgical case discussions

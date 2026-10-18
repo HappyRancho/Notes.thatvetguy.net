@@ -4,9 +4,9 @@
 
 # Animal Genetics and Breeding
 
-Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
+Animal Genetics and Breeding notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-76 resources · 2nd Year
+75 resources · 2nd Year
 
 Search this collection
 
@@ -75,7 +75,7 @@ Examples - Mean deviation235 KB[Open Examples - Mean deviation](https://drive.go
 
 Updated 2019-12-10 · 235 KB
 
-[DOC ](https://drive.google.com/file/d/1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w/view)
+[DOCX ](https://drive.google.com/file/d/1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w#report)
 
 PDF
@@ -115,7 +115,7 @@ Two way ANOVA32 KB[Open Two way ANOVA](https://drive.google.com/file/d/1R519dSNN
 
 Updated 2019-12-10 · 32 KB
 
-[DOC ](https://drive.google.com/file/d/1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi/view)
+[DOCX ](https://drive.google.com/file/d/1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi#report)
 
 DOC
@@ -123,7 +123,7 @@ Z and t test Formula757 KB[Open Z and t test Formula](https://drive.google.com/f
 
 Updated 2019-12-10 · 757 KB
 
-[DOC ](https://drive.google.com/file/d/17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc/view)
+[DOCX ](https://drive.google.com/file/d/17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc#report)
 
 ## Practical
@@ -143,7 +143,7 @@ Design of Experiments- RBD-Ex No 1217 KB[Open Design of Experiments- RBD-Ex No 1
 
 Updated 2022-03-24 · 17 KB
 
-[DOC ](https://drive.google.com/file/d/1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr/view)
+[DOCX ](https://drive.google.com/file/d/1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr#report)
 
 DOC
@@ -151,7 +151,7 @@ Distribution Tables32 KB[Open Distribution Tables](https://drive.google.com/file
 
 Updated 2022-03-24 · 32 KB
 
-[DOC ](https://drive.google.com/file/d/1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N/view)
+[DOCX ](https://drive.google.com/file/d/1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N#report)
 
 PDF
@@ -175,7 +175,7 @@ Inbreeding coefficient197 KB[Open Inbreeding coefficient](https://drive.google.c
 
 Updated 2020-12-30 · 197 KB
 
-[PPT ](https://drive.google.com/file/d/1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne/view)
+[PPTX ](https://drive.google.com/file/d/1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne#report)
 
 PPT
@@ -183,7 +183,7 @@ Migration and Selection86 KB[Open Migration and Selection](https://drive.google.
 
 Updated 2020-12-11 · 86 KB
 
-[PPT ](https://drive.google.com/file/d/1YDp0qo6YDWo0Q10asLunklWWTbogOgOb/view)
+[PPTX ](https://drive.google.com/file/d/1YDp0qo6YDWo0Q10asLunklWWTbogOgOb/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1YDp0qo6YDWo0Q10asLunklWWTbogOgOb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YDp0qo6YDWo0Q10asLunklWWTbogOgOb#report)
 
 DOC
@@ -191,7 +191,7 @@ Probability and Normal Distribution - Ex No 1314 KB[Open Probability and Normal 
 
 Updated 2022-03-24 · 14 KB
 
-[DOC ](https://drive.google.com/file/d/1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB/view)
+[DOCX ](https://drive.google.com/file/d/1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB#report)
 
 PPT
@@ -223,7 +223,7 @@ SNK PPT RESUME50 KB[Open SNK PPT RESUME](https://drive.google.com/file/d/1CU9h2W
 
 Updated 2020-01-26 · 50 KB
 
-[PPT ](https://drive.google.com/file/d/1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f/view)
+[PPTX ](https://drive.google.com/file/d/1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f#report)
 
 DOC
@@ -231,7 +231,7 @@ SNK RESUME25 KB[Open SNK RESUME](https://drive.google.com/file/d/1m2NA8-BUNenptG
 
 Updated 2020-01-26 · 25 KB
 
-[DOC ](https://drive.google.com/file/d/1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV/view)
+[DOCX ](https://drive.google.com/file/d/1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV#report)
 
 DOC
@@ -239,7 +239,7 @@ Test of Significance - 'F' Test - Ex No 1117 KB[Open Test of Significance - 'F' 
 
 Updated 2022-03-24 · 17 KB
 
-[DOC ](https://drive.google.com/file/d/14QLB01sBCBgd16i07rRW8M7LnOTt3LKL/view)
+[DOCX ](https://drive.google.com/file/d/14QLB01sBCBgd16i07rRW8M7LnOTt3LKL/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=14QLB01sBCBgd16i07rRW8M7LnOTt3LKL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14QLB01sBCBgd16i07rRW8M7LnOTt3LKL#report)
 
 DOC
@@ -247,7 +247,7 @@ Test of Significance - Chi Square Test - Ex No 1016 KB[Open Test of Significance
 
 Updated 2022-03-24 · 16 KB
 
-[DOC ](https://drive.google.com/file/d/1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f/view)
+[DOCX ](https://drive.google.com/file/d/1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f#report)
 
 ## Objective
@@ -280,14 +280,14 @@ Updated 2019-07-17 · 26.9 MB
 
 ## Slides
 
-37
+36
 
 PPT
 Applications HWE and factors affecting HWE887 KB[Open Applications HWE and factors affecting HWE](https://drive.google.com/file/d/1A76rx73KeXzmLY680_JG90rCY4x8F3BK/view)
 
 Updated 2020-09-09 · 887 KB
 
-[PPT ](https://drive.google.com/file/d/1A76rx73KeXzmLY680_JG90rCY4x8F3BK/view)
+[PPTX ](https://drive.google.com/file/d/1A76rx73KeXzmLY680_JG90rCY4x8F3BK/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1A76rx73KeXzmLY680_JG90rCY4x8F3BK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1A76rx73KeXzmLY680_JG90rCY4x8F3BK#report)
 
 PPT
@@ -295,7 +295,7 @@ Class Quiz 2018-19 Batch Final215 KB[Open Class Quiz 2018-19 Batch Final](https:
 
 Updated 2019-12-28 · 215 KB
 
-[PPT ](https://drive.google.com/file/d/1pTVP336cIgWA6EATwVuBQZfbCSwIK8dZ/view)
+[PPTX ](https://drive.google.com/file/d/1pTVP336cIgWA6EATwVuBQZfbCSwIK8dZ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1pTVP336cIgWA6EATwVuBQZfbCSwIK8dZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pTVP336cIgWA6EATwVuBQZfbCSwIK8dZ#report)
 
 PPT
@@ -303,7 +303,7 @@ Genetic correlation, phenotypic correlations and Genotype-Environment interactio
 
 Updated 2020-06-26 · 4.6 MB
 
-[PPT ](https://drive.google.com/file/d/126hWI46dPAZDJvZYyB9-RwClOFZRuz-_/view)
+[PPTX ](https://drive.google.com/file/d/126hWI46dPAZDJvZYyB9-RwClOFZRuz-_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=126hWI46dPAZDJvZYyB9-RwClOFZRuz-_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=126hWI46dPAZDJvZYyB9-RwClOFZRuz-_#report)
 
 PPT
@@ -311,23 +311,15 @@ Heritability10.0 MB[Open Heritability](https://drive.google.com/file/d/1_WsjoSZm
 
 Updated 2020-10-20 · 10.0 MB
 
-[PPT ](https://drive.google.com/file/d/1_WsjoSZmdjSW0rDZjfon8mhQ4lRWmhvX/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1_WsjoSZmdjSW0rDZjfon8mhQ4lRWmhvX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_WsjoSZmdjSW0rDZjfon8mhQ4lRWmhvX#report)
-
-PPT
-Heritability223 KB[Open Heritability](https://drive.google.com/file/d/1XhLlx96IUE0xTnhGYvqEmnvo7xW1o60i/view)
-
-Updated 2018-11-08 · 223 KB
-
-[PPT ](https://drive.google.com/file/d/1XhLlx96IUE0xTnhGYvqEmnvo7xW1o60i/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1XhLlx96IUE0xTnhGYvqEmnvo7xW1o60i)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XhLlx96IUE0xTnhGYvqEmnvo7xW1o60i#report)
+[PPT ](https://drive.google.com/file/d/1_WsjoSZmdjSW0rDZjfon8mhQ4lRWmhvX/view)[PPTX ](https://drive.google.com/file/d/1XhLlx96IUE0xTnhGYvqEmnvo7xW1o60i/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1_WsjoSZmdjSW0rDZjfon8mhQ4lRWmhvX)[Download PPT](https://drive.google.com/uc?export=download&id=1XhLlx96IUE0xTnhGYvqEmnvo7xW1o60i)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_WsjoSZmdjSW0rDZjfon8mhQ4lRWmhvX#report)
 
 PPT
 Heritability 2902 KB[Open Heritability 2](https://drive.google.com/file/d/1bKVusrJg3VPm_znohG0YndZvsT3G0S2U/view)
 
 Updated 2018-11-08 · 902 KB
 
-[PPT ](https://drive.google.com/file/d/1bKVusrJg3VPm_znohG0YndZvsT3G0S2U/view)
+[PPTX ](https://drive.google.com/file/d/1bKVusrJg3VPm_znohG0YndZvsT3G0S2U/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1bKVusrJg3VPm_znohG0YndZvsT3G0S2U)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bKVusrJg3VPm_znohG0YndZvsT3G0S2U#report)
 
 PPT
@@ -343,7 +335,7 @@ Introduction421 KB[Open Introduction](https://drive.google.com/file/d/1ThIUOpVj1
 
 Updated 2018-11-08 · 421 KB
 
-[PPT ](https://drive.google.com/file/d/1ThIUOpVj1Ruv-y7dWdFfSf4WOCZp3NXi/view)
+[PPTX ](https://drive.google.com/file/d/1ThIUOpVj1Ruv-y7dWdFfSf4WOCZp3NXi/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ThIUOpVj1Ruv-y7dWdFfSf4WOCZp3NXi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ThIUOpVj1Ruv-y7dWdFfSf4WOCZp3NXi#report)
 
 PPT
@@ -351,7 +343,7 @@ Lecture 2 Biostatistics62 KB[Open Lecture 2 Biostatistics](https://drive.google.
 
 Updated 2019-12-10 · 62 KB
 
-[PPT ](https://drive.google.com/file/d/11EePTpjvL4PZD-4qsOFNS55zQvf2igdZ/view)
+[PPTX ](https://drive.google.com/file/d/11EePTpjvL4PZD-4qsOFNS55zQvf2igdZ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=11EePTpjvL4PZD-4qsOFNS55zQvf2igdZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11EePTpjvL4PZD-4qsOFNS55zQvf2igdZ#report)
 
 PPT
@@ -359,7 +351,7 @@ Lecture 3 Data Collection and Compilation1.3 MB[Open Lecture 3 Data Collection a
 
 Updated 2019-12-10 · 1.3 MB
 
-[PPT ](https://drive.google.com/file/d/1c6g43STKI3_rDAADPfnQqOSL-g_UBl67/view)
+[PPTX ](https://drive.google.com/file/d/1c6g43STKI3_rDAADPfnQqOSL-g_UBl67/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1c6g43STKI3_rDAADPfnQqOSL-g_UBl67)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1c6g43STKI3_rDAADPfnQqOSL-g_UBl67#report)
 
 PPT
@@ -367,7 +359,7 @@ Lecture 4 Presentation2.6 MB[Open Lecture 4 Presentation](https://drive.google.c
 
 Updated 2019-12-04 · 2.6 MB
 
-[PPT ](https://drive.google.com/file/d/1NIZBmhp1j7mP4fnLnT3m92wOP_68E9Vw/view)
+[PPTX ](https://drive.google.com/file/d/1NIZBmhp1j7mP4fnLnT3m92wOP_68E9Vw/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1NIZBmhp1j7mP4fnLnT3m92wOP_68E9Vw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NIZBmhp1j7mP4fnLnT3m92wOP_68E9Vw#report)
 
 PPT
@@ -375,7 +367,7 @@ Lecture 5 Frequency Distribution2.2 MB[Open Lecture 5 Frequency Distribution](ht
 
 Updated 2019-12-04 · 2.2 MB
 
-[PPT ](https://drive.google.com/file/d/1SGYilDU_nWuVnw1ylxg7EnyxJssqpFEZ/view)
+[PPTX ](https://drive.google.com/file/d/1SGYilDU_nWuVnw1ylxg7EnyxJssqpFEZ/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1SGYilDU_nWuVnw1ylxg7EnyxJssqpFEZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1SGYilDU_nWuVnw1ylxg7EnyxJssqpFEZ#report)
 
 PPT
@@ -383,7 +375,7 @@ Lecture 6 Data - Variable2.6 MB[Open Lecture 6 Data - Variable](https://drive.go
 
 Updated 2019-12-04 · 2.6 MB
 
-[PPT ](https://drive.google.com/file/d/1HTxp8eiv__rejEa6GJsFOdVJiq4jTrN-/view)
+[PPTX ](https://drive.google.com/file/d/1HTxp8eiv__rejEa6GJsFOdVJiq4jTrN-/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1HTxp8eiv__rejEa6GJsFOdVJiq4jTrN-)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HTxp8eiv__rejEa6GJsFOdVJiq4jTrN-#report)
 
 PPT
@@ -391,7 +383,7 @@ Lecture 7 Analysis2.1 MB[Open Lecture 7 Analysis](https://drive.google.com/file/
 
 Updated 2019-12-10 · 2.1 MB
 
-[PPT ](https://drive.google.com/file/d/1XfuDV6hjqyHzqcac7zzvJ889gPjt8YPF/view)
+[PPTX ](https://drive.google.com/file/d/1XfuDV6hjqyHzqcac7zzvJ889gPjt8YPF/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1XfuDV6hjqyHzqcac7zzvJ889gPjt8YPF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XfuDV6hjqyHzqcac7zzvJ889gPjt8YPF#report)
 
 PPT
@@ -407,7 +399,7 @@ Lecture 10 Variable and its Relationship2.8 MB[Open Lecture 10 Variable and its 
 
 Updated 2019-12-10 · 2.8 MB
 
-[PPT ](https://drive.google.com/file/d/1BOG1zEWMpmk6PuXz7MUb4VmKf0d8Itn8/view)
+[PPTX ](https://drive.google.com/file/d/1BOG1zEWMpmk6PuXz7MUb4VmKf0d8Itn8/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1BOG1zEWMpmk6PuXz7MUb4VmKf0d8Itn8)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BOG1zEWMpmk6PuXz7MUb4VmKf0d8Itn8#report)
 
 PPT
@@ -415,7 +407,7 @@ Lecture 11 Probability2.5 MB[Open Lecture 11 Probability](https://drive.google.c
 
 Updated 2019-12-10 · 2.5 MB
 
-[PPT ](https://drive.google.com/file/d/1j88b577_ajtGFtaQTxe1r1fD4h3AGs6v/view)
+[PPTX ](https://drive.google.com/file/d/1j88b577_ajtGFtaQTxe1r1fD4h3AGs6v/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1j88b577_ajtGFtaQTxe1r1fD4h3AGs6v)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1j88b577_ajtGFtaQTxe1r1fD4h3AGs6v#report)
 
 PPT
@@ -423,7 +415,7 @@ Lecture 12 Permutation and Combination663 KB[Open Lecture 12 Permutation and Com
 
 Updated 2019-12-10 · 663 KB
 
-[PPT ](https://drive.google.com/file/d/1iUhtVMNAxO2xfQRLJW9Bpssmil_9C5Df/view)
+[PPTX ](https://drive.google.com/file/d/1iUhtVMNAxO2xfQRLJW9Bpssmil_9C5Df/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1iUhtVMNAxO2xfQRLJW9Bpssmil_9C5Df)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iUhtVMNAxO2xfQRLJW9Bpssmil_9C5Df#report)
 
 PPT
@@ -431,7 +423,7 @@ Lecture 13 Probability Distribution784 KB[Open Lecture 13 Probability Distributi
 
 Updated 2019-12-10 · 784 KB
 
-[PPT ](https://drive.google.com/file/d/1URuO8f6kTA-wVxC_n4qZP_p48QSTdcok/view)
+[PPTX ](https://drive.google.com/file/d/1URuO8f6kTA-wVxC_n4qZP_p48QSTdcok/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1URuO8f6kTA-wVxC_n4qZP_p48QSTdcok)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1URuO8f6kTA-wVxC_n4qZP_p48QSTdcok#report)
 
 PPT
@@ -439,7 +431,7 @@ Lecture 14 Normal Distribution Curve1.3 MB[Open Lecture 14 Normal Distribution C
 
 Updated 2019-12-10 · 1.3 MB
 
-[PPT ](https://drive.google.com/file/d/12OpgBhEWoXUznucxuvmmV58izBMiGa6X/view)
+[PPTX ](https://drive.google.com/file/d/12OpgBhEWoXUznucxuvmmV58izBMiGa6X/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12OpgBhEWoXUznucxuvmmV58izBMiGa6X)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12OpgBhEWoXUznucxuvmmV58izBMiGa6X#report)
 
 PPT
@@ -447,7 +439,7 @@ Lecture 16 Inferential Statistics1.5 MB[Open Lecture 16 Inferential Statistics](
 
 Updated 2019-12-10 · 1.5 MB
 
-[PPT ](https://drive.google.com/file/d/1IL6R8zbLYb-yIVS3V2HnATku-4f_l2Se/view)
+[PPTX ](https://drive.google.com/file/d/1IL6R8zbLYb-yIVS3V2HnATku-4f_l2Se/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1IL6R8zbLYb-yIVS3V2HnATku-4f_l2Se)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IL6R8zbLYb-yIVS3V2HnATku-4f_l2Se#report)
 
 PPT
@@ -455,7 +447,7 @@ Lecture 17 Hypothesis Testing2.0 MB[Open Lecture 17 Hypothesis Testing](https://
 
 Updated 2019-12-10 · 2.0 MB
 
-[PPT ](https://drive.google.com/file/d/1eanc-0hxCjPGj49CUdDXWsI7MQdWZzNt/view)
+[PPTX ](https://drive.google.com/file/d/1eanc-0hxCjPGj49CUdDXWsI7MQdWZzNt/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1eanc-0hxCjPGj49CUdDXWsI7MQdWZzNt)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1eanc-0hxCjPGj49CUdDXWsI7MQdWZzNt#report)
 
 PPT
@@ -463,7 +455,7 @@ Lecture 18 F Test703 KB[Open Lecture 18 F Test](https://drive.google.com/file/d/
 
 Updated 2019-12-10 · 703 KB
 
-[PPT ](https://drive.google.com/file/d/1TBRiEoGci2FWRejWdhHBugdRa8R2NC_L/view)
+[PPTX ](https://drive.google.com/file/d/1TBRiEoGci2FWRejWdhHBugdRa8R2NC_L/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1TBRiEoGci2FWRejWdhHBugdRa8R2NC_L)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TBRiEoGci2FWRejWdhHBugdRa8R2NC_L#report)
 
 PPT
@@ -471,7 +463,7 @@ Lecture 19 ANOVA3.1 MB[Open Lecture 19 ANOVA](https://drive.google.com/file/d/1X
 
 Updated 2019-12-10 · 3.1 MB
 
-[PPT ](https://drive.google.com/file/d/1XWevFwRX_8rAJxUTNu0Y4tCRW4VHtlwo/view)
+[PPTX ](https://drive.google.com/file/d/1XWevFwRX_8rAJxUTNu0Y4tCRW4VHtlwo/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1XWevFwRX_8rAJxUTNu0Y4tCRW4VHtlwo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XWevFwRX_8rAJxUTNu0Y4tCRW4VHtlwo#report)
 
 PPT
@@ -479,7 +471,7 @@ Lecture 20 Chi-Square Test2.0 MB[Open Lecture 20 Chi-Square Test](https://drive.
 
 Updated 2019-12-10 · 2.0 MB
 
-[PPT ](https://drive.google.com/file/d/1ydYyckXbxzNq3EnbRXLrtAN0-97S0Ybj/view)
+[PPTX ](https://drive.google.com/file/d/1ydYyckXbxzNq3EnbRXLrtAN0-97S0Ybj/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ydYyckXbxzNq3EnbRXLrtAN0-97S0Ybj)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ydYyckXbxzNq3EnbRXLrtAN0-97S0Ybj#report)
 
 PPT
@@ -487,7 +479,7 @@ Lecture 21 Moments, Skewness and Kurtosis2.1 MB[Open Lecture 21 Moments, Skewnes
 
 Updated 2019-12-10 · 2.1 MB
 
-[PPT ](https://drive.google.com/file/d/1v167xiDhvZSmO0210Y44NugC05k2XDoA/view)
+[PPTX ](https://drive.google.com/file/d/1v167xiDhvZSmO0210Y44NugC05k2XDoA/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1v167xiDhvZSmO0210Y44NugC05k2XDoA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1v167xiDhvZSmO0210Y44NugC05k2XDoA#report)
 
 PPT
@@ -495,7 +487,7 @@ Lecture 22 Design of Experiments2.6 MB[Open Lecture 22 Design of Experiments](ht
 
 Updated 2019-12-10 · 2.6 MB
 
-[PPT ](https://drive.google.com/file/d/13sJexeKnpnUwWtpih6e4ATCXw6XAmxw2/view)
+[PPTX ](https://drive.google.com/file/d/13sJexeKnpnUwWtpih6e4ATCXw6XAmxw2/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=13sJexeKnpnUwWtpih6e4ATCXw6XAmxw2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13sJexeKnpnUwWtpih6e4ATCXw6XAmxw2#report)
 
 PPT
@@ -503,7 +495,7 @@ Lecture 236.8 MB[Open Lecture 23](https://drive.google.com/file/d/1BkYyGoFqGf7ep
 
 Updated 2019-12-28 · 6.8 MB
 
-[PPT ](https://drive.google.com/file/d/1BkYyGoFqGf7ep1_SRPFgXMnemOGx5BbX/view)
+[PPTX ](https://drive.google.com/file/d/1BkYyGoFqGf7ep1_SRPFgXMnemOGx5BbX/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1BkYyGoFqGf7ep1_SRPFgXMnemOGx5BbX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BkYyGoFqGf7ep1_SRPFgXMnemOGx5BbX#report)
 
 PPT
@@ -511,7 +503,7 @@ Lecture 23 & 2410.2 MB[Open Lecture 23 & 24](https://drive.google.com/file/d/1F4
 
 Updated 2019-12-28 · 10.2 MB
 
-[PPT ](https://drive.google.com/file/d/1F4j3JPIX8C68AmdHKKsmkfi8m9dAMock/view)
+[PPTX ](https://drive.google.com/file/d/1F4j3JPIX8C68AmdHKKsmkfi8m9dAMock/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1F4j3JPIX8C68AmdHKKsmkfi8m9dAMock)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1F4j3JPIX8C68AmdHKKsmkfi8m9dAMock#report)
 
 PPT
@@ -522,22 +514,22 @@ Updated 2019-12-28 · 14.9 MB
 [PPT ](https://drive.google.com/file/d/11_LbizlO80TjjDYSi5QadIHZM5VnQp-e/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=11_LbizlO80TjjDYSi5QadIHZM5VnQp-e)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11_LbizlO80TjjDYSi5QadIHZM5VnQp-e#report)
 
-Show 7 more 7 remaining
-
 PPT
 Lecture 23, 24, 25 & 26 Computer15.3 MB[Open Lecture 23, 24, 25 & 26 Computer](https://drive.google.com/file/d/1FR_UbJ4CsuunxeErhvIMocwG48qSWDYC/view)
 
 Updated 2019-12-28 · 15.3 MB
 
-[PPT ](https://drive.google.com/file/d/1FR_UbJ4CsuunxeErhvIMocwG48qSWDYC/view)
+[PPTX ](https://drive.google.com/file/d/1FR_UbJ4CsuunxeErhvIMocwG48qSWDYC/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1FR_UbJ4CsuunxeErhvIMocwG48qSWDYC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FR_UbJ4CsuunxeErhvIMocwG48qSWDYC#report)
+
+Show 6 more 6 remaining
 
 PPT
 Nucleus breeding scheme17.0 MB[Open Nucleus breeding scheme](https://drive.google.com/file/d/1xSW1GOar0CAGUfTPedMBjQ80CeQC0W8b/view)
 
 Updated 2020-08-18 · 17.0 MB
 
-[PPT ](https://drive.google.com/file/d/1xSW1GOar0CAGUfTPedMBjQ80CeQC0W8b/view)
+[PPTX ](https://drive.google.com/file/d/1xSW1GOar0CAGUfTPedMBjQ80CeQC0W8b/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1xSW1GOar0CAGUfTPedMBjQ80CeQC0W8b)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xSW1GOar0CAGUfTPedMBjQ80CeQC0W8b#report)
 
 PPT
@@ -545,7 +537,7 @@ Repeatability351 KB[Open Repeatability](https://drive.google.com/file/d/1GEfITDV
 
 Updated 2018-11-08 · 351 KB
 
-[PPT ](https://drive.google.com/file/d/1GEfITDVgyaFmylVl0qrucvPY5o7T-Kw8/view)
+[PPTX ](https://drive.google.com/file/d/1GEfITDVgyaFmylVl0qrucvPY5o7T-Kw8/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1GEfITDVgyaFmylVl0qrucvPY5o7T-Kw8)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GEfITDVgyaFmylVl0qrucvPY5o7T-Kw8#report)
 
 PPT
@@ -553,7 +545,7 @@ Synthetic breeds and Breeding policy - 27.07.2020738 KB[Open Synthetic breeds an
 
 Updated 2020-10-20 · 738 KB
 
-[PPT ](https://drive.google.com/file/d/1SWAg7W094E-w6L3Lkt_91voaEpu5d5K7/view)
+[PPTX ](https://drive.google.com/file/d/1SWAg7W094E-w6L3Lkt_91voaEpu5d5K7/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1SWAg7W094E-w6L3Lkt_91voaEpu5d5K7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1SWAg7W094E-w6L3Lkt_91voaEpu5d5K7#report)
 
 PPT
@@ -561,7 +553,7 @@ Values and Means95 KB[Open Values and Means](https://drive.google.com/file/d/1Uk
 
 Updated 2018-11-08 · 95 KB
 
-[PPT ](https://drive.google.com/file/d/1UkxeLV3c48U1LVvj7zTmRKrptLsLmGDc/view)
+[PPTX ](https://drive.google.com/file/d/1UkxeLV3c48U1LVvj7zTmRKrptLsLmGDc/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1UkxeLV3c48U1LVvj7zTmRKrptLsLmGDc)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UkxeLV3c48U1LVvj7zTmRKrptLsLmGDc#report)
 
 PPT
@@ -577,7 +569,7 @@ Variance Components223 KB[Open Variance Components](https://drive.google.com/fil
 
 Updated 2018-11-08 · 223 KB
 
-[PPT ](https://drive.google.com/file/d/1srPPa8GYIJZU7uvVIg7BwoygCu-GMVqz/view)
+[PPTX ](https://drive.google.com/file/d/1srPPa8GYIJZU7uvVIg7BwoygCu-GMVqz/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1srPPa8GYIJZU7uvVIg7BwoygCu-GMVqz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1srPPa8GYIJZU7uvVIg7BwoygCu-GMVqz#report)
 
 ## Extras
@@ -643,6 +635,8 @@ Updated 2020-01-31 · 719 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 
 - Mendelian and molecular genetics
 - Population and quantitative genetics

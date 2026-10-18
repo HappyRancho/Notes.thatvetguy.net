@@ -4,7 +4,7 @@
 
 # Veterinary Public Health and Epidemiology
 
-Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+Veterinary Public Health and Epidemiology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 64 resources · 3rd Year
 
@@ -123,7 +123,7 @@ Epi lecture notes 2021 content page129 KB[Open Epi lecture notes 2021 content pa
 
 Updated 2021-11-10 · 129 KB
 
-[DOC ](https://drive.google.com/file/d/107rhUrzR9JH6o6hL_EJv27_fpkin3t8_/view)
+[DOCX ](https://drive.google.com/file/d/107rhUrzR9JH6o6hL_EJv27_fpkin3t8_/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=107rhUrzR9JH6o6hL_EJv27_fpkin3t8_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=107rhUrzR9JH6o6hL_EJv27_fpkin3t8_#report)
 
 PDF
@@ -139,7 +139,7 @@ Epidemiology lecture notes 20214.3 MB[Open Epidemiology lecture notes 2021](http
 
 Updated 2021-11-10 · 4.3 MB
 
-[DOC ](https://drive.google.com/file/d/1tu-smZBEaymtpHm5poM6twMuob22vKYU/view)
+[DOCX ](https://drive.google.com/file/d/1tu-smZBEaymtpHm5poM6twMuob22vKYU/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1tu-smZBEaymtpHm5poM6twMuob22vKYU)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tu-smZBEaymtpHm5poM6twMuob22vKYU#report)
 
 PDF
@@ -357,7 +357,7 @@ UNIT IV - environment and env. hygiene theory notes - 202012.2 MB[Open UNIT IV -
 
 Updated 2026-07-19 · 12.2 MB
 
-[DOC ](https://drive.google.com/file/d/1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe/view)
+[DOCX ](https://drive.google.com/file/d/1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dF24gzPL6SqeOp85_wOqrh0C9p9NKREe#report)
 
 PDF
@@ -373,7 +373,7 @@ VPH Unit 1 -meat part-notes1.8 MB[Open VPH Unit 1 -meat part-notes](https://driv
 
 Updated 2022-01-11 · 1.8 MB
 
-[DOC ](https://drive.google.com/file/d/1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C/view)
+[DOCX ](https://drive.google.com/file/d/1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IlF8NA4kAPqf63pdlZJ7TkpAUHvZ1h5C#report)
 
 PDF
@@ -389,7 +389,7 @@ Zoonoses extra notes 20212.8 MB[Open Zoonoses extra notes 2021](https://drive.go
 
 Updated 2026-05-05 · 2.8 MB
 
-[DOC ](https://drive.google.com/file/d/1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g/view)
+[DOCX ](https://drive.google.com/file/d/1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1c7z6BrMvD2FPCqwR36_tWD6gvYOfQM1g#report)
 
 ## Books
@@ -413,7 +413,7 @@ Epi Practical manual cover design 2021326 KB[Open Epi Practical manual cover des
 
 Updated 2021-11-10 · 326 KB
 
-[PPT ](https://drive.google.com/file/d/1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0/view)
+[PPTX ](https://drive.google.com/file/d/1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0#report)
 
 PDF
@@ -461,7 +461,7 @@ Bacteriology of Water5.9 MB[Open Bacteriology of Water](https://drive.google.com
 
 Updated 2018-11-08 · 5.9 MB
 
-[PPT ](https://drive.google.com/file/d/1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci/view)
+[PPTX ](https://drive.google.com/file/d/1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jBeZ0XZM-j3j_j8uqDqvAsDZFg3uvRci#report)
 
 PPT
@@ -469,7 +469,7 @@ Brucella4.8 MB[Open Brucella](https://drive.google.com/file/d/1su1z58jY5B5SBWT3B
 
 Updated 2021-11-10 · 4.8 MB
 
-[PPT ](https://drive.google.com/file/d/1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM/view)
+[PPTX ](https://drive.google.com/file/d/1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1su1z58jY5B5SBWT3BRuL2mZayjM6d2MM#report)
 
 PPT
@@ -485,7 +485,7 @@ Meat-Speciation2.1 MB[Open Meat-Speciation](https://drive.google.com/file/d/1Vf6
 
 Updated 2021-11-10 · 2.1 MB
 
-[PPT ](https://drive.google.com/file/d/1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov/view)
+[PPTX ](https://drive.google.com/file/d/1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Vf6aA_EAzntgB3M9s1yNr74ttaOpNvov#report)
 
 PPT
@@ -493,7 +493,7 @@ Nuclear Hazards811 KB[Open Nuclear Hazards](https://drive.google.com/file/d/17jx
 
 Updated 2018-11-08 · 811 KB
 
-[PPT ](https://drive.google.com/file/d/17jx43tGfS41lXW36pc_wa1o9x7cNKh6s/view)
+[PPTX ](https://drive.google.com/file/d/17jx43tGfS41lXW36pc_wa1o9x7cNKh6s/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=17jx43tGfS41lXW36pc_wa1o9x7cNKh6s)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17jx43tGfS41lXW36pc_wa1o9x7cNKh6s#report)
 
 ## Images
@@ -505,7 +505,7 @@ Photo set — Veterinary Public Health and Epidemiology — 12 images1.3 MB[Open
 
 Updated 2021-12-15 · 1.3 MB
 
-[IMG ](https://drive.google.com/drive/folders/1EkzDAN2NJyiqqBL3bhgGvBVwMynUKE8L)
+[Images ](https://drive.google.com/drive/folders/1EkzDAN2NJyiqqBL3bhgGvBVwMynUKE8L)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1EkzDAN2NJyiqqBL3bhgGvBVwMynUKE8L#report)
 
 ## Extras
@@ -555,6 +555,8 @@ Updated 2021-11-10 · 747 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
 
 - Zoonoses and One Health
 - Food safety and hygiene

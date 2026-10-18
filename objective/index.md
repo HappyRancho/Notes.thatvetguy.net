@@ -10,13 +10,9 @@ Subject-wise objective questions and books for BVSc & AH revision. Find a focuse
 
 ## ICAR PYQ Question Bank
 
-Past ICAR entrance papers, when available.
+Coming soon. Know a paper we should add?
 
-ICAR papers — coming soon
-
-Nothing here yet. Even a calf needs a minute to stand.
-
-[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+[Request a paper ](https://notes.thatvetguy.net/request-resource/?collection=icar-pyq)
 
 ## Subject-wise Objective Questions
 

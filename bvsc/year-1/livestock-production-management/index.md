@@ -4,7 +4,7 @@
 
 # Livestock Production Management
 
-Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
+Livestock Production Management notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 127 resources · 1st Year
 
@@ -19,7 +19,7 @@ Agronomical practices for production of leguminous fodders18 KB[Open Agronomical
 
 Updated 2022-03-24 · 18 KB
 
-[DOC ](https://drive.google.com/file/d/12TWyZ_ZIj5xDdSfQRW-vPKr3XQV9OsHh/view)
+[DOCX ](https://drive.google.com/file/d/12TWyZ_ZIj5xDdSfQRW-vPKr3XQV9OsHh/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=12TWyZ_ZIj5xDdSfQRW-vPKr3XQV9OsHh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12TWyZ_ZIj5xDdSfQRW-vPKr3XQV9OsHh#report)
 
 DOC
@@ -27,7 +27,7 @@ Agronomical practices for production of Non - Leguminous fodder31 KB[Open Agrono
 
 Updated 2022-03-24 · 31 KB
 
-[DOC ](https://drive.google.com/file/d/1miibwlRqNA1UsXD3_iCpOHMC7_B-nXFM/view)
+[DOCX ](https://drive.google.com/file/d/1miibwlRqNA1UsXD3_iCpOHMC7_B-nXFM/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1miibwlRqNA1UsXD3_iCpOHMC7_B-nXFM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1miibwlRqNA1UsXD3_iCpOHMC7_B-nXFM#report)
 
 DOC
@@ -35,7 +35,7 @@ Agronomical practices for production of Tree fodders22 KB[Open Agronomical pract
 
 Updated 2022-03-24 · 22 KB
 
-[DOC ](https://drive.google.com/file/d/1MMg8Vmq1mjaw9xyzLN1VbRy6vXfFSuC4/view)
+[DOCX ](https://drive.google.com/file/d/1MMg8Vmq1mjaw9xyzLN1VbRy6vXfFSuC4/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1MMg8Vmq1mjaw9xyzLN1VbRy6vXfFSuC4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MMg8Vmq1mjaw9xyzLN1VbRy6vXfFSuC4#report)
 
 PDF
@@ -51,7 +51,7 @@ Breeds18 KB[Open Breeds](https://drive.google.com/file/d/1gAp1_M9FM_YBnEUs4atPnv
 
 Updated 2019-12-04 · 18 KB
 
-[DOC ](https://drive.google.com/file/d/1gAp1_M9FM_YBnEUs4atPnvmzMGmy62gB/view)
+[DOCX ](https://drive.google.com/file/d/1gAp1_M9FM_YBnEUs4atPnvmzMGmy62gB/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1gAp1_M9FM_YBnEUs4atPnvmzMGmy62gB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gAp1_M9FM_YBnEUs4atPnvmzMGmy62gB#report)
 
 PDF
@@ -83,7 +83,7 @@ Diversified Poultry production and current concepts in Poultry management and ma
 
 Updated 2019-12-04 · 947 KB
 
-[DOC ](https://drive.google.com/file/d/114kFsxu82v6v7ea_pcaTUgbyb4jNKoqV/view)
+[DOCX ](https://drive.google.com/file/d/114kFsxu82v6v7ea_pcaTUgbyb4jNKoqV/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=114kFsxu82v6v7ea_pcaTUgbyb4jNKoqV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=114kFsxu82v6v7ea_pcaTUgbyb4jNKoqV#report)
 
 PDF
@@ -99,7 +99,7 @@ Importance of Fodder and Grassland28 KB[Open Importance of Fodder and Grassland]
 
 Updated 2022-03-24 · 28 KB
 
-[DOC ](https://drive.google.com/file/d/1JYEUft7rsPxT9--oOPDcajDVEO1wOfVN/view)
+[DOCX ](https://drive.google.com/file/d/1JYEUft7rsPxT9--oOPDcajDVEO1wOfVN/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1JYEUft7rsPxT9--oOPDcajDVEO1wOfVN)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JYEUft7rsPxT9--oOPDcajDVEO1wOfVN#report)
 
 DOC
@@ -107,7 +107,7 @@ Introduction and Classification of Fodders27 KB[Open Introduction and Classifica
 
 Updated 2022-03-24 · 27 KB
 
-[DOC ](https://drive.google.com/file/d/1wM2hsG-a7TR0pBVrJHBBSJEtRcXTSUa5/view)
+[DOCX ](https://drive.google.com/file/d/1wM2hsG-a7TR0pBVrJHBBSJEtRcXTSUa5/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1wM2hsG-a7TR0pBVrJHBBSJEtRcXTSUa5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wM2hsG-a7TR0pBVrJHBBSJEtRcXTSUa5#report)
 
 DOC
@@ -115,7 +115,7 @@ Irrigation and Drainage21 KB[Open Irrigation and Drainage](https://drive.google.
 
 Updated 2022-03-24 · 21 KB
 
-[DOC ](https://drive.google.com/file/d/1mjLe6LZbnAWMX1A1kvg4_RvaHfrORlZT/view)
+[DOCX ](https://drive.google.com/file/d/1mjLe6LZbnAWMX1A1kvg4_RvaHfrORlZT/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1mjLe6LZbnAWMX1A1kvg4_RvaHfrORlZT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mjLe6LZbnAWMX1A1kvg4_RvaHfrORlZT#report)
 
 DOC
@@ -123,7 +123,7 @@ Poultry1.6 MB[Open Poultry](https://drive.google.com/file/d/1OQiKJ3OLh4-HIK-DZEB
 
 Updated 2019-12-04 · 1.6 MB
 
-[DOC ](https://drive.google.com/file/d/1OQiKJ3OLh4-HIK-DZEB9Kjo_SxnNt7h9/view)
+[DOCX ](https://drive.google.com/file/d/1OQiKJ3OLh4-HIK-DZEB9Kjo_SxnNt7h9/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1OQiKJ3OLh4-HIK-DZEB9Kjo_SxnNt7h9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1OQiKJ3OLh4-HIK-DZEB9Kjo_SxnNt7h9#report)
 
 DOC
@@ -131,7 +131,7 @@ Recycling of Farm Wastes380 KB[Open Recycling of Farm Wastes](https://drive.goog
 
 Updated 2022-03-24 · 380 KB
 
-[DOC ](https://drive.google.com/file/d/19aOIHoKT5K_YIxr7Fbyu2urpxZk-Seuu/view)
+[DOCX ](https://drive.google.com/file/d/19aOIHoKT5K_YIxr7Fbyu2urpxZk-Seuu/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=19aOIHoKT5K_YIxr7Fbyu2urpxZk-Seuu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19aOIHoKT5K_YIxr7Fbyu2urpxZk-Seuu#report)
 
 PDF
@@ -147,7 +147,7 @@ Scarcity of fodders36 KB[Open Scarcity of fodders](https://drive.google.com/file
 
 Updated 2022-03-24 · 36 KB
 
-[DOC ](https://drive.google.com/file/d/1H2_5O2-9aMqKw3TMS6OojApAZDsrZZ3I/view)
+[DOCX ](https://drive.google.com/file/d/1H2_5O2-9aMqKw3TMS6OojApAZDsrZZ3I/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1H2_5O2-9aMqKw3TMS6OojApAZDsrZZ3I)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1H2_5O2-9aMqKw3TMS6OojApAZDsrZZ3I#report)
 
 DOC
@@ -155,7 +155,7 @@ Sheep and Goat4.4 MB[Open Sheep and Goat](https://drive.google.com/file/d/11Fmkk
 
 Updated 2026-02-22 · 4.4 MB
 
-[DOC ](https://drive.google.com/file/d/11Fmkk2z42yOAGwWlMN75eVOMq3jGa8kh/view)
+[DOCX ](https://drive.google.com/file/d/11Fmkk2z42yOAGwWlMN75eVOMq3jGa8kh/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=11Fmkk2z42yOAGwWlMN75eVOMq3jGa8kh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11Fmkk2z42yOAGwWlMN75eVOMq3jGa8kh#report)
 
 DOC
@@ -163,7 +163,7 @@ Silage27 KB[Open Silage](https://drive.google.com/file/d/1g-WF71ae4VWIaHRuLTtpJ1
 
 Updated 2022-03-24 · 27 KB
 
-[DOC ](https://drive.google.com/file/d/1g-WF71ae4VWIaHRuLTtpJ1Lhsl23Ttsd/view)
+[DOCX ](https://drive.google.com/file/d/1g-WF71ae4VWIaHRuLTtpJ1Lhsl23Ttsd/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1g-WF71ae4VWIaHRuLTtpJ1Lhsl23Ttsd)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g-WF71ae4VWIaHRuLTtpJ1Lhsl23Ttsd#report)
 
 PDF
@@ -179,7 +179,7 @@ Soil and Moisture Conservation25 KB[Open Soil and Moisture Conservation](https:/
 
 Updated 2022-03-24 · 25 KB
 
-[DOC ](https://drive.google.com/file/d/1YPGkSTsskMjfub4VlytTI9Uf0kZC6OWL/view)
+[DOCX ](https://drive.google.com/file/d/1YPGkSTsskMjfub4VlytTI9Uf0kZC6OWL/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1YPGkSTsskMjfub4VlytTI9Uf0kZC6OWL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YPGkSTsskMjfub4VlytTI9Uf0kZC6OWL#report)
 
 DOC
@@ -187,7 +187,7 @@ Structure for Storage of Feeds and Fodders22 KB[Open Structure for Storage of Fe
 
 Updated 2022-03-24 · 22 KB
 
-[DOC ](https://drive.google.com/file/d/1N3aH6awxAO7Y3xVC7yuwr9-sUWQuXbvo/view)
+[DOCX ](https://drive.google.com/file/d/1N3aH6awxAO7Y3xVC7yuwr9-sUWQuXbvo/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1N3aH6awxAO7Y3xVC7yuwr9-sUWQuXbvo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1N3aH6awxAO7Y3xVC7yuwr9-sUWQuXbvo#report)
 
 ## Books
@@ -211,7 +211,7 @@ IMG
 
 Updated 2019-12-04 · 11 KB
 
-[IMG ](https://drive.google.com/file/d/12UOQ_14R9kxj75pOiNalpDKfqMztYdXb/view)
+[JPG ](https://drive.google.com/file/d/12UOQ_14R9kxj75pOiNalpDKfqMztYdXb/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=12UOQ_14R9kxj75pOiNalpDKfqMztYdXb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12UOQ_14R9kxj75pOiNalpDKfqMztYdXb#report)
 
 IMG
@@ -219,7 +219,7 @@ IMG
 
 Updated 2019-12-04 · 13 KB
 
-[IMG ](https://drive.google.com/file/d/1OazAuI_pHxfJ7c8P88z5CEhRSrd3p8yV/view)
+[JPG ](https://drive.google.com/file/d/1OazAuI_pHxfJ7c8P88z5CEhRSrd3p8yV/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1OazAuI_pHxfJ7c8P88z5CEhRSrd3p8yV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1OazAuI_pHxfJ7c8P88z5CEhRSrd3p8yV#report)
 
 IMG
@@ -227,7 +227,7 @@ IMG
 
 Updated 2019-12-04 · 16 KB
 
-[IMG ](https://drive.google.com/file/d/1DesSpNIhjt6QL4_xFdvNudc9RzSAsTMD/view)
+[JPG ](https://drive.google.com/file/d/1DesSpNIhjt6QL4_xFdvNudc9RzSAsTMD/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1DesSpNIhjt6QL4_xFdvNudc9RzSAsTMD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DesSpNIhjt6QL4_xFdvNudc9RzSAsTMD#report)
 
 IMG
@@ -235,7 +235,7 @@ IMG
 
 Updated 2019-12-04 · 21 KB
 
-[IMG ](https://drive.google.com/file/d/1zoUMwmJoEhtJRvS97QWJ7AEHaMAhbZTK/view)
+[JPG ](https://drive.google.com/file/d/1zoUMwmJoEhtJRvS97QWJ7AEHaMAhbZTK/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1zoUMwmJoEhtJRvS97QWJ7AEHaMAhbZTK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1zoUMwmJoEhtJRvS97QWJ7AEHaMAhbZTK#report)
 
 IMG
@@ -243,7 +243,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1fqLZSVggD_bZ5MV2nbO7spwhKKqiRcaz/view)
+[JPG ](https://drive.google.com/file/d/1fqLZSVggD_bZ5MV2nbO7spwhKKqiRcaz/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1fqLZSVggD_bZ5MV2nbO7spwhKKqiRcaz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fqLZSVggD_bZ5MV2nbO7spwhKKqiRcaz#report)
 
 IMG
@@ -251,7 +251,7 @@ IMG
 
 Updated 2019-12-04 · 13 KB
 
-[IMG ](https://drive.google.com/file/d/1xXbK-RU6K0kxaPKOaIPtLiBA4YnR-NA7/view)
+[JPG ](https://drive.google.com/file/d/1xXbK-RU6K0kxaPKOaIPtLiBA4YnR-NA7/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1xXbK-RU6K0kxaPKOaIPtLiBA4YnR-NA7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xXbK-RU6K0kxaPKOaIPtLiBA4YnR-NA7#report)
 
 IMG
@@ -259,7 +259,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1jKGJVTZkfk1Zn0ef6YJLFrSVFJ9nsaGd/view)
+[JPG ](https://drive.google.com/file/d/1jKGJVTZkfk1Zn0ef6YJLFrSVFJ9nsaGd/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1jKGJVTZkfk1Zn0ef6YJLFrSVFJ9nsaGd)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jKGJVTZkfk1Zn0ef6YJLFrSVFJ9nsaGd#report)
 
 IMG
@@ -267,7 +267,7 @@ IMG
 
 Updated 2019-12-04 · 18 KB
 
-[IMG ](https://drive.google.com/file/d/13MT9Hy3M6_nDVmmgWegubhRUUbdG1Wb1/view)
+[JPG ](https://drive.google.com/file/d/13MT9Hy3M6_nDVmmgWegubhRUUbdG1Wb1/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=13MT9Hy3M6_nDVmmgWegubhRUUbdG1Wb1)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13MT9Hy3M6_nDVmmgWegubhRUUbdG1Wb1#report)
 
 IMG
@@ -275,7 +275,7 @@ IMG
 
 Updated 2019-12-04 · 14 KB
 
-[IMG ](https://drive.google.com/file/d/1DGHXOFrT75UEkSI5W7CCQ88Al7sNcQkx/view)
+[JPG ](https://drive.google.com/file/d/1DGHXOFrT75UEkSI5W7CCQ88Al7sNcQkx/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1DGHXOFrT75UEkSI5W7CCQ88Al7sNcQkx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DGHXOFrT75UEkSI5W7CCQ88Al7sNcQkx#report)
 
 IMG
@@ -283,7 +283,7 @@ IMG
 
 Updated 2019-12-04 · 14 KB
 
-[IMG ](https://drive.google.com/file/d/15kk8N07EE6XV-W-9BTyPv4QIDqUHZx1P/view)
+[JPG ](https://drive.google.com/file/d/15kk8N07EE6XV-W-9BTyPv4QIDqUHZx1P/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=15kk8N07EE6XV-W-9BTyPv4QIDqUHZx1P)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15kk8N07EE6XV-W-9BTyPv4QIDqUHZx1P#report)
 
 IMG
@@ -291,7 +291,7 @@ IMG
 
 Updated 2019-12-04 · 13 KB
 
-[IMG ](https://drive.google.com/file/d/1DAcZ2Fc-AgVkdh9v7ZaS67WzTwFO4vqV/view)
+[JPG ](https://drive.google.com/file/d/1DAcZ2Fc-AgVkdh9v7ZaS67WzTwFO4vqV/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1DAcZ2Fc-AgVkdh9v7ZaS67WzTwFO4vqV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DAcZ2Fc-AgVkdh9v7ZaS67WzTwFO4vqV#report)
 
 IMG
@@ -299,7 +299,7 @@ IMG
 
 Updated 2019-12-04 · 13 KB
 
-[IMG ](https://drive.google.com/file/d/10KxOTk7pIM7poxl9A633Jp2Eh6dXm9qG/view)
+[JPG ](https://drive.google.com/file/d/10KxOTk7pIM7poxl9A633Jp2Eh6dXm9qG/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=10KxOTk7pIM7poxl9A633Jp2Eh6dXm9qG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10KxOTk7pIM7poxl9A633Jp2Eh6dXm9qG#report)
 
 IMG
@@ -307,7 +307,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/13UQbeAFxgMRIjKyKHB3AJDNQUaV9XcX3/view)
+[JPG ](https://drive.google.com/file/d/13UQbeAFxgMRIjKyKHB3AJDNQUaV9XcX3/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=13UQbeAFxgMRIjKyKHB3AJDNQUaV9XcX3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13UQbeAFxgMRIjKyKHB3AJDNQUaV9XcX3#report)
 
 IMG
@@ -315,7 +315,7 @@ IMG
 
 Updated 2019-12-04 · 13 KB
 
-[IMG ](https://drive.google.com/file/d/1wm1Zru3_J8JhORSWk3LdnWrNDLYxsMYV/view)
+[JPG ](https://drive.google.com/file/d/1wm1Zru3_J8JhORSWk3LdnWrNDLYxsMYV/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1wm1Zru3_J8JhORSWk3LdnWrNDLYxsMYV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wm1Zru3_J8JhORSWk3LdnWrNDLYxsMYV#report)
 
 IMG
@@ -323,7 +323,7 @@ IMG
 
 Updated 2019-12-04 · 16 KB
 
-[IMG ](https://drive.google.com/file/d/1oGcMd3SJHfPiD_sDasFNNks8sxspvvZK/view)
+[JPG ](https://drive.google.com/file/d/1oGcMd3SJHfPiD_sDasFNNks8sxspvvZK/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1oGcMd3SJHfPiD_sDasFNNks8sxspvvZK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oGcMd3SJHfPiD_sDasFNNks8sxspvvZK#report)
 
 IMG
@@ -331,7 +331,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1g1SqfacYdHUQ_vdyp4RcuDX8pg7R7Zww/view)
+[JPG ](https://drive.google.com/file/d/1g1SqfacYdHUQ_vdyp4RcuDX8pg7R7Zww/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1g1SqfacYdHUQ_vdyp4RcuDX8pg7R7Zww)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g1SqfacYdHUQ_vdyp4RcuDX8pg7R7Zww#report)
 
 IMG
@@ -339,7 +339,7 @@ IMG
 
 Updated 2019-12-04 · 14 KB
 
-[IMG ](https://drive.google.com/file/d/1DHcjR7vXYlSix34IAaKwfaRWxWfgP2lh/view)
+[JPG ](https://drive.google.com/file/d/1DHcjR7vXYlSix34IAaKwfaRWxWfgP2lh/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1DHcjR7vXYlSix34IAaKwfaRWxWfgP2lh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DHcjR7vXYlSix34IAaKwfaRWxWfgP2lh#report)
 
 IMG
@@ -347,7 +347,7 @@ IMG
 
 Updated 2019-12-04 · 13 KB
 
-[IMG ](https://drive.google.com/file/d/1XxWYkUQSJpmtmdd84dWN0guw1RpvUb5o/view)
+[JPG ](https://drive.google.com/file/d/1XxWYkUQSJpmtmdd84dWN0guw1RpvUb5o/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1XxWYkUQSJpmtmdd84dWN0guw1RpvUb5o)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XxWYkUQSJpmtmdd84dWN0guw1RpvUb5o#report)
 
 IMG
@@ -355,7 +355,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1OefnthKtouOCCAlTFPBRIIiHNsIcBrLR/view)
+[JPG ](https://drive.google.com/file/d/1OefnthKtouOCCAlTFPBRIIiHNsIcBrLR/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1OefnthKtouOCCAlTFPBRIIiHNsIcBrLR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1OefnthKtouOCCAlTFPBRIIiHNsIcBrLR#report)
 
 IMG
@@ -363,7 +363,7 @@ IMG
 
 Updated 2019-12-04 · 14 KB
 
-[IMG ](https://drive.google.com/file/d/14YDSYCivCRr46qUJ6qdtvYRvvJz4GLq6/view)
+[JPG ](https://drive.google.com/file/d/14YDSYCivCRr46qUJ6qdtvYRvvJz4GLq6/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=14YDSYCivCRr46qUJ6qdtvYRvvJz4GLq6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14YDSYCivCRr46qUJ6qdtvYRvvJz4GLq6#report)
 
 IMG
@@ -371,7 +371,7 @@ IMG
 
 Updated 2019-12-04 · 12 KB
 
-[IMG ](https://drive.google.com/file/d/1_6ByR9xvSHh2jBtg3Nf5KERWfLd0-4EI/view)
+[JPG ](https://drive.google.com/file/d/1_6ByR9xvSHh2jBtg3Nf5KERWfLd0-4EI/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1_6ByR9xvSHh2jBtg3Nf5KERWfLd0-4EI)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_6ByR9xvSHh2jBtg3Nf5KERWfLd0-4EI#report)
 
 IMG
@@ -379,7 +379,7 @@ IMG
 
 Updated 2019-12-04 · 12 KB
 
-[IMG ](https://drive.google.com/file/d/1dNtrhNt3D2IX9INVL4kVlxOCDvM-qpoj/view)
+[JPG ](https://drive.google.com/file/d/1dNtrhNt3D2IX9INVL4kVlxOCDvM-qpoj/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1dNtrhNt3D2IX9INVL4kVlxOCDvM-qpoj)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dNtrhNt3D2IX9INVL4kVlxOCDvM-qpoj#report)
 
 IMG
@@ -387,7 +387,7 @@ IMG
 
 Updated 2019-12-04 · 14 KB
 
-[IMG ](https://drive.google.com/file/d/1X2XU8U0ZOBvr6JPO9bEA_mRjjyGpxc-0/view)
+[JPG ](https://drive.google.com/file/d/1X2XU8U0ZOBvr6JPO9bEA_mRjjyGpxc-0/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1X2XU8U0ZOBvr6JPO9bEA_mRjjyGpxc-0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1X2XU8U0ZOBvr6JPO9bEA_mRjjyGpxc-0#report)
 
 IMG
@@ -395,7 +395,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/15lGJzKLXuwn1Y58FplQ6DPQ8IRVV6eH_/view)
+[JPG ](https://drive.google.com/file/d/15lGJzKLXuwn1Y58FplQ6DPQ8IRVV6eH_/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=15lGJzKLXuwn1Y58FplQ6DPQ8IRVV6eH_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15lGJzKLXuwn1Y58FplQ6DPQ8IRVV6eH_#report)
 
 IMG
@@ -403,7 +403,7 @@ IMG
 
 Updated 2019-12-04 · 18 KB
 
-[IMG ](https://drive.google.com/file/d/1AarhEhralU0DpQ6hz9rIGDHKmQGiC9Ba/view)
+[JPG ](https://drive.google.com/file/d/1AarhEhralU0DpQ6hz9rIGDHKmQGiC9Ba/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1AarhEhralU0DpQ6hz9rIGDHKmQGiC9Ba)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AarhEhralU0DpQ6hz9rIGDHKmQGiC9Ba#report)
 
 IMG
@@ -411,7 +411,7 @@ IMG
 
 Updated 2019-12-04 · 13 KB
 
-[IMG ](https://drive.google.com/file/d/14pVT3D_t9Q-4wAhfOhJ5fGE3MdORLSIB/view)
+[JPG ](https://drive.google.com/file/d/14pVT3D_t9Q-4wAhfOhJ5fGE3MdORLSIB/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=14pVT3D_t9Q-4wAhfOhJ5fGE3MdORLSIB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14pVT3D_t9Q-4wAhfOhJ5fGE3MdORLSIB#report)
 
 IMG
@@ -419,7 +419,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1hoYFELmudJlUIHCT9pn2eOpclr_5qHqO/view)
+[JPG ](https://drive.google.com/file/d/1hoYFELmudJlUIHCT9pn2eOpclr_5qHqO/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1hoYFELmudJlUIHCT9pn2eOpclr_5qHqO)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hoYFELmudJlUIHCT9pn2eOpclr_5qHqO#report)
 
 IMG
@@ -427,7 +427,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1t_OVlX8WCn9bqQFO7TQxaw5kiTjDXX-4/view)
+[JPG ](https://drive.google.com/file/d/1t_OVlX8WCn9bqQFO7TQxaw5kiTjDXX-4/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1t_OVlX8WCn9bqQFO7TQxaw5kiTjDXX-4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1t_OVlX8WCn9bqQFO7TQxaw5kiTjDXX-4#report)
 
 IMG
@@ -435,7 +435,7 @@ IMG
 
 Updated 2019-12-04 · 14 KB
 
-[IMG ](https://drive.google.com/file/d/1AFNwwAmJRNpo-iDr4fshv6aWwSfgCgYf/view)
+[JPG ](https://drive.google.com/file/d/1AFNwwAmJRNpo-iDr4fshv6aWwSfgCgYf/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1AFNwwAmJRNpo-iDr4fshv6aWwSfgCgYf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AFNwwAmJRNpo-iDr4fshv6aWwSfgCgYf#report)
 
 IMG
@@ -443,7 +443,7 @@ IMG
 
 Updated 2019-12-04 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1GaQhTLGfcojUvp5zhADLFDH8iBu82ASu/view)
+[JPG ](https://drive.google.com/file/d/1GaQhTLGfcojUvp5zhADLFDH8iBu82ASu/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1GaQhTLGfcojUvp5zhADLFDH8iBu82ASu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GaQhTLGfcojUvp5zhADLFDH8iBu82ASu#report)
 
 Show 25 more 25 remaining
@@ -493,7 +493,7 @@ Dog Foods1.2 MB[Open Dog Foods](https://drive.google.com/file/d/1eOsRlj4ztvO2PeS
 
 Updated 2018-11-08 · 1.2 MB
 
-[PPT ](https://drive.google.com/file/d/1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK/view)
+[PPTX ](https://drive.google.com/file/d/1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK#report)
 
 PDF
@@ -573,7 +573,7 @@ LPM Pictures1.4 MB[Open LPM Pictures](https://drive.google.com/file/d/1ZhteG-R5d
 
 Updated 2022-03-24 · 1.4 MB
 
-[DOC ](https://drive.google.com/file/d/1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s/view)
+[DOCX ](https://drive.google.com/file/d/1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s#report)
 
 PDF
@@ -645,7 +645,7 @@ THE KENNEL CLUB OF INDIA238 KB[Open THE KENNEL CLUB OF INDIA](https://drive.goog
 
 Updated 2018-11-08 · 238 KB
 
-[PPT ](https://drive.google.com/file/d/1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp/view)
+[PPTX ](https://drive.google.com/file/d/1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp#report)
 
 ## Objective
@@ -677,7 +677,7 @@ Agroforestry2.3 MB[Open Agroforestry](https://drive.google.com/file/d/1fDJU7tNTP
 
 Updated 2022-03-23 · 2.3 MB
 
-[PPT ](https://drive.google.com/file/d/1fDJU7tNTP8GhrXCK579Fnw2aU_b1MXyz/view)
+[PPTX ](https://drive.google.com/file/d/1fDJU7tNTP8GhrXCK579Fnw2aU_b1MXyz/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1fDJU7tNTP8GhrXCK579Fnw2aU_b1MXyz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fDJU7tNTP8GhrXCK579Fnw2aU_b1MXyz#report)
 
 PPT
@@ -685,7 +685,7 @@ Agronomial Practices for Grass Fodders20.7 MB[Open Agronomial Practices for Gras
 
 Updated 2022-03-23 · 20.7 MB
 
-[PPT ](https://drive.google.com/file/d/1dMkFPqItWlj0uB4BPWrIf1hNWAO-uHAp/view)
+[PPTX ](https://drive.google.com/file/d/1dMkFPqItWlj0uB4BPWrIf1hNWAO-uHAp/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1dMkFPqItWlj0uB4BPWrIf1hNWAO-uHAp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dMkFPqItWlj0uB4BPWrIf1hNWAO-uHAp#report)
 
 PPT
@@ -693,7 +693,7 @@ Animal Welfare 12.2 MB[Open Animal Welfare 1](https://drive.google.com/file/d/1i
 
 Updated 2022-03-23 · 2.2 MB
 
-[PPT ](https://drive.google.com/file/d/1iuOwJYaIfU8uRuQhJ_r-wHdwZsiPmLZr/view)
+[PPTX ](https://drive.google.com/file/d/1iuOwJYaIfU8uRuQhJ_r-wHdwZsiPmLZr/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1iuOwJYaIfU8uRuQhJ_r-wHdwZsiPmLZr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iuOwJYaIfU8uRuQhJ_r-wHdwZsiPmLZr#report)
 
 PPT
@@ -701,7 +701,7 @@ Animal Welfare 22.8 MB[Open Animal Welfare 2](https://drive.google.com/file/d/11
 
 Updated 2022-03-23 · 2.8 MB
 
-[PPT ](https://drive.google.com/file/d/113m_6qv9qkn147YA7fUbIJfKtAYyAwaK/view)
+[PPTX ](https://drive.google.com/file/d/113m_6qv9qkn147YA7fUbIJfKtAYyAwaK/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=113m_6qv9qkn147YA7fUbIJfKtAYyAwaK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=113m_6qv9qkn147YA7fUbIJfKtAYyAwaK#report)
 
 PPT
@@ -725,7 +725,7 @@ Classification of Breeds of Fowl3.6 MB[Open Classification of Breeds of Fowl](ht
 
 Updated 2022-03-24 · 3.6 MB
 
-[PPT ](https://drive.google.com/file/d/1BZkMGszKsNACl1v3rb7Eer0aPTV5gUXk/view)
+[PPTX ](https://drive.google.com/file/d/1BZkMGszKsNACl1v3rb7Eer0aPTV5gUXk/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1BZkMGszKsNACl1v3rb7Eer0aPTV5gUXk)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BZkMGszKsNACl1v3rb7Eer0aPTV5gUXk#report)
 
 PPT
@@ -733,7 +733,7 @@ Disposal Of Sewage And Farm Animal Waste192 KB[Open Disposal Of Sewage And Farm 
 
 Updated 2018-11-08 · 192 KB
 
-[PPT ](https://drive.google.com/file/d/1elWOy0Ku73Pil6fuo-EuByB21ENcu2Ts/view)
+[PPTX ](https://drive.google.com/file/d/1elWOy0Ku73Pil6fuo-EuByB21ENcu2Ts/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1elWOy0Ku73Pil6fuo-EuByB21ENcu2Ts)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1elWOy0Ku73Pil6fuo-EuByB21ENcu2Ts#report)
 
 PPT
@@ -773,7 +773,7 @@ Goat Breeds141.6 MB[Open Goat Breeds](https://drive.google.com/file/d/1ROZ3gSn69
 
 Updated 2019-12-04 · 141.6 MB
 
-[PPT ](https://drive.google.com/file/d/1ROZ3gSn69e67BBfud2D-s6y94sWUCQXo/view)
+[PPTX ](https://drive.google.com/file/d/1ROZ3gSn69e67BBfud2D-s6y94sWUCQXo/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ROZ3gSn69e67BBfud2D-s6y94sWUCQXo#report)
 
 PPT
@@ -813,7 +813,7 @@ Handling and Restraining of Emu6.6 MB[Open Handling and Restraining of Emu](http
 
 Updated 2019-12-04 · 6.6 MB
 
-[PPT ](https://drive.google.com/file/d/1FOl4bB7XnCd21ohS7OrBpGo-yUNUXHuR/view)
+[PPTX ](https://drive.google.com/file/d/1FOl4bB7XnCd21ohS7OrBpGo-yUNUXHuR/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1FOl4bB7XnCd21ohS7OrBpGo-yUNUXHuR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FOl4bB7XnCd21ohS7OrBpGo-yUNUXHuR#report)
 
 PPT
@@ -821,7 +821,7 @@ Housing Systems of Poultry2.3 MB[Open Housing Systems of Poultry](https://drive.
 
 Updated 2019-12-04 · 2.3 MB
 
-[PPT ](https://drive.google.com/file/d/1Cu_zH15ANhs_UthaqqP2uhLZN9IBWFXM/view)
+[PPTX ](https://drive.google.com/file/d/1Cu_zH15ANhs_UthaqqP2uhLZN9IBWFXM/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Cu_zH15ANhs_UthaqqP2uhLZN9IBWFXM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Cu_zH15ANhs_UthaqqP2uhLZN9IBWFXM#report)
 
 PPT
@@ -829,7 +829,7 @@ Importance of Fodder and Grasslands in Livestock Production766 KB[Open Importanc
 
 Updated 2022-03-23 · 766 KB
 
-[PPT ](https://drive.google.com/file/d/14CGIc1stZqF8SBjA6xmnja2Pg7lst94N/view)
+[PPTX ](https://drive.google.com/file/d/14CGIc1stZqF8SBjA6xmnja2Pg7lst94N/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=14CGIc1stZqF8SBjA6xmnja2Pg7lst94N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14CGIc1stZqF8SBjA6xmnja2Pg7lst94N#report)
 
 PPT
@@ -837,7 +837,7 @@ Irrigation Methods and Drainage for Fodder Production5.6 MB[Open Irrigation Meth
 
 Updated 2022-03-23 · 5.6 MB
 
-[PPT ](https://drive.google.com/file/d/1J_K9Cf1pDp2Dbsrk8eLn9tZt0zXLFb7E/view)
+[PPTX ](https://drive.google.com/file/d/1J_K9Cf1pDp2Dbsrk8eLn9tZt0zXLFb7E/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1J_K9Cf1pDp2Dbsrk8eLn9tZt0zXLFb7E)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1J_K9Cf1pDp2Dbsrk8eLn9tZt0zXLFb7E#report)
 
 PPT
@@ -861,7 +861,7 @@ Pedegree Chart1.4 MB[Open Pedegree Chart](https://drive.google.com/file/d/1jqfAB
 
 Updated 2018-11-08 · 1.4 MB
 
-[PPT ](https://drive.google.com/file/d/1jqfABHLlw_gDbffe188k1-9QCcD2gK7f/view)
+[PPTX ](https://drive.google.com/file/d/1jqfABHLlw_gDbffe188k1-9QCcD2gK7f/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1jqfABHLlw_gDbffe188k1-9QCcD2gK7f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jqfABHLlw_gDbffe188k1-9QCcD2gK7f#report)
 
 PPT
@@ -869,7 +869,7 @@ Pet Animals8.6 MB[Open Pet Animals](https://drive.google.com/file/d/1OGGFy2YW9i7
 
 Updated 2018-11-08 · 8.6 MB
 
-[PPT ](https://drive.google.com/file/d/1OGGFy2YW9i718CHAZdt0yD-DVLQJYgsF/view)
+[PPTX ](https://drive.google.com/file/d/1OGGFy2YW9i718CHAZdt0yD-DVLQJYgsF/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1OGGFy2YW9i718CHAZdt0yD-DVLQJYgsF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1OGGFy2YW9i718CHAZdt0yD-DVLQJYgsF#report)
 
 PPT
@@ -983,7 +983,7 @@ Sheep breeds64.3 MB[Open Sheep breeds](https://drive.google.com/file/d/1cEIGVkil
 
 Updated 2019-12-04 · 64.3 MB
 
-[PPT ](https://drive.google.com/file/d/1cEIGVkilHifzTskGj5Va-JcGyb2f4Zdd/view)
+[PPTX ](https://drive.google.com/file/d/1cEIGVkilHifzTskGj5Va-JcGyb2f4Zdd/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1cEIGVkilHifzTskGj5Va-JcGyb2f4Zdd#report)
 
 PPT
@@ -1011,7 +1011,7 @@ Photo set — Livestock Production Management — 125 images38.8 MB[Open Photo s
 
 Updated 2019-12-04 · 38.8 MB
 
-[IMG ](https://drive.google.com/drive/folders/1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3)
+[Images ](https://drive.google.com/drive/folders/1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3#report)
 
 ## Extras
@@ -1061,6 +1061,8 @@ Updated 2019-12-04 · 99 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
 
 - Housing and animal handling
 - Cattle and buffalo management

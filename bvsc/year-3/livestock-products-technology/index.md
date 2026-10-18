@@ -4,7 +4,7 @@
 
 # Livestock Products Technology
 
-Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
+Livestock Products Technology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 82 resources · 3rd Year
 
@@ -19,7 +19,7 @@ Abbattoir and Meat LPT-3123.5 MB[Open Abbattoir and Meat LPT-312](https://drive.
 
 Updated 2021-11-10 · 3.5 MB
 
-[DOC ](https://drive.google.com/file/d/1JKBnnG-sjKB1wq3Ptv-AyRYd0EBCwfow/view)
+[DOCX ](https://drive.google.com/file/d/1JKBnnG-sjKB1wq3Ptv-AyRYd0EBCwfow/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1JKBnnG-sjKB1wq3Ptv-AyRYd0EBCwfow)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JKBnnG-sjKB1wq3Ptv-AyRYd0EBCwfow#report)
 
 PDF
@@ -35,7 +35,7 @@ Abbattoir Practices and Animal Byproducts Technology4.7 MB[Open Abbattoir Practi
 
 Updated 2026-09-03 · 4.7 MB
 
-[DOC ](https://drive.google.com/file/d/1jnBYS6Imqd35teNiDMwDqPmPmSd7WRyx/view)
+[DOCX ](https://drive.google.com/file/d/1jnBYS6Imqd35teNiDMwDqPmPmSd7WRyx/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1jnBYS6Imqd35teNiDMwDqPmPmSd7WRyx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jnBYS6Imqd35teNiDMwDqPmPmSd7WRyx#report)
 
 PDF
@@ -405,7 +405,7 @@ Wool Science1.6 MB[Open Wool Science](https://drive.google.com/file/d/1ZiyPhqz5l
 
 Updated 2021-11-10 · 1.6 MB
 
-[PDF ](https://drive.google.com/file/d/1ZiyPhqz5l_GiZdpYGOOWpg22hJ73wvdK/view)[DOC ](https://drive.google.com/file/d/1om8AyzST5V7xBDgw9Kjne7QRUPL9UwHH/view)
+[PDF ](https://drive.google.com/file/d/1ZiyPhqz5l_GiZdpYGOOWpg22hJ73wvdK/view)[DOCX ](https://drive.google.com/file/d/1om8AyzST5V7xBDgw9Kjne7QRUPL9UwHH/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1ZiyPhqz5l_GiZdpYGOOWpg22hJ73wvdK)[Download DOC](https://drive.google.com/uc?export=download&id=1om8AyzST5V7xBDgw9Kjne7QRUPL9UwHH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZiyPhqz5l_GiZdpYGOOWpg22hJ73wvdK#report)
 
 ## Books
@@ -469,7 +469,7 @@ LPT-Dairy- Practical Record-2021477 KB[Open LPT-Dairy- Practical Record-2021](ht
 
 Updated 2021-11-10 · 477 KB
 
-[DOC ](https://drive.google.com/file/d/1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM/view)
+[DOCX ](https://drive.google.com/file/d/1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM#report)
 
 ## Objective
@@ -501,7 +501,7 @@ Dairy Effluent Management ETP 30.07.20213.4 MB[Open Dairy Effluent Management ET
 
 Updated 2021-11-10 · 3.4 MB
 
-[PPT ](https://drive.google.com/file/d/1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_/view)
+[PPTX ](https://drive.google.com/file/d/1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_#report)
 
 PPT
@@ -509,7 +509,7 @@ Glossary Terms - Wool 06.11.20202.0 MB[Open Glossary Terms - Wool 06.11.2020](ht
 
 Updated 2021-11-10 · 2.0 MB
 
-[PPT ](https://drive.google.com/file/d/1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6/view)
+[PPTX ](https://drive.google.com/file/d/1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6#report)
 
 PPT
@@ -517,7 +517,7 @@ HACCP GMP Cleaning & Sanitization 23.07.20213.2 MB[Open HACCP GMP Cleaning & San
 
 Updated 2021-11-10 · 3.2 MB
 
-[PPT ](https://drive.google.com/file/d/1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0/view)
+[PPTX ](https://drive.google.com/file/d/1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0#report)
 
 PPT
@@ -525,7 +525,7 @@ Mozzarella Cheese 9.7.21175 KB[Open Mozzarella Cheese 9.7.21](https://drive.goog
 
 Updated 2021-11-10 · 175 KB
 
-[PPT ](https://drive.google.com/file/d/12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9/view)
+[PPTX ](https://drive.google.com/file/d/12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9#report)
 
 PPT
@@ -533,7 +533,7 @@ Organic milk products-15.7.216.8 MB[Open Organic milk products-15.7.21](https://
 
 Updated 2021-11-10 · 6.8 MB
 
-[PPT ](https://drive.google.com/file/d/1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN/view)
+[PPTX ](https://drive.google.com/file/d/1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN#report)
 
 ## Images
@@ -545,7 +545,7 @@ Photo set — Livestock Products Technology — 53 images26.2 MB[Open Photo set 
 
 Updated 2022-03-01 · 26.2 MB
 
-[IMG ](https://drive.google.com/drive/folders/1ctrkSuBYFMJFokWeWcZ4MU2wdy4hisdr)
+[Images ](https://drive.google.com/drive/folders/1ctrkSuBYFMJFokWeWcZ4MU2wdy4hisdr)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1ctrkSuBYFMJFokWeWcZ4MU2wdy4hisdr#report)
 
 ## Extras
@@ -565,7 +565,7 @@ Breeds and Diseases of Wool1.0 MB[Open Breeds and Diseases of Wool](https://driv
 
 Updated 2021-12-19 · 1.0 MB
 
-[DOC ](https://drive.google.com/file/d/1j2gd9ukHBF4k0EMp0VCbQD3y1TQmHI5p/view)[PDF ](https://drive.google.com/file/d/196zdyPm1Ywv7Rt1WLjvI9w76KL5Xf7U7/view)
+[DOCX ](https://drive.google.com/file/d/1j2gd9ukHBF4k0EMp0VCbQD3y1TQmHI5p/view)[PDF ](https://drive.google.com/file/d/196zdyPm1Ywv7Rt1WLjvI9w76KL5Xf7U7/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1j2gd9ukHBF4k0EMp0VCbQD3y1TQmHI5p)[Download PDF](https://drive.google.com/uc?export=download&id=196zdyPm1Ywv7Rt1WLjvI9w76KL5Xf7U7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1j2gd9ukHBF4k0EMp0VCbQD3y1TQmHI5p#report)
 
 PDF
@@ -581,7 +581,7 @@ Diseases of wool671 KB[Open Diseases of wool](https://drive.google.com/file/d/1p
 
 Updated 2021-12-19 · 671 KB
 
-[DOC ](https://drive.google.com/file/d/1pGjjyURVj6Sf6k-scCH597TyADQ_aIRw/view)[PDF ](https://drive.google.com/file/d/19-6yuIVd6hE-3-Tyop9NR_QUn9oYa5q3/view)
+[DOCX ](https://drive.google.com/file/d/1pGjjyURVj6Sf6k-scCH597TyADQ_aIRw/view)[PDF ](https://drive.google.com/file/d/19-6yuIVd6hE-3-Tyop9NR_QUn9oYa5q3/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1pGjjyURVj6Sf6k-scCH597TyADQ_aIRw)[Download PDF](https://drive.google.com/uc?export=download&id=19-6yuIVd6hE-3-Tyop9NR_QUn9oYa5q3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pGjjyURVj6Sf6k-scCH597TyADQ_aIRw#report)
 
 PDF
@@ -645,7 +645,7 @@ VID-20211111-WA002112.3 MB[Open VID-20211111-WA0021](https://drive.google.com/fi
 
 Updated 2021-11-11 · 12.3 MB
 
-[FILE ](https://drive.google.com/file/d/1GME3Xx6xhFr5xvZBMpEyheqBYKNtdoBA/view)
+[MP4 ](https://drive.google.com/file/d/1GME3Xx6xhFr5xvZBMpEyheqBYKNtdoBA/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1GME3Xx6xhFr5xvZBMpEyheqBYKNtdoBA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GME3Xx6xhFr5xvZBMpEyheqBYKNtdoBA#report)
 
 FILE
@@ -653,7 +653,7 @@ VID-20211201-WA00226.0 MB[Open VID-20211201-WA0022](https://drive.google.com/fil
 
 Updated 2021-12-01 · 6.0 MB
 
-[FILE ](https://drive.google.com/file/d/1mQmLl4IoETTjmnOmbKrd6lKL7NJiR7fw/view)
+[MP4 ](https://drive.google.com/file/d/1mQmLl4IoETTjmnOmbKrd6lKL7NJiR7fw/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1mQmLl4IoETTjmnOmbKrd6lKL7NJiR7fw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mQmLl4IoETTjmnOmbKrd6lKL7NJiR7fw#report)
 
 FILE
@@ -661,7 +661,7 @@ VID-20211201-WA00239.0 MB[Open VID-20211201-WA0023](https://drive.google.com/fil
 
 Updated 2021-12-01 · 9.0 MB
 
-[FILE ](https://drive.google.com/file/d/15bWpIm2i9CjzBlc2hb94q79xxfwbyGNB/view)
+[MP4 ](https://drive.google.com/file/d/15bWpIm2i9CjzBlc2hb94q79xxfwbyGNB/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=15bWpIm2i9CjzBlc2hb94q79xxfwbyGNB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15bWpIm2i9CjzBlc2hb94q79xxfwbyGNB#report)
 
 FILE
@@ -669,7 +669,7 @@ VID-20211201-WA002412.2 MB[Open VID-20211201-WA0024](https://drive.google.com/fi
 
 Updated 2021-12-01 · 12.2 MB
 
-[FILE ](https://drive.google.com/file/d/1-Ijhp7VPFr2Qm0xmGcLdLjHdkwrFt454/view)
+[MP4 ](https://drive.google.com/file/d/1-Ijhp7VPFr2Qm0xmGcLdLjHdkwrFt454/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1-Ijhp7VPFr2Qm0xmGcLdLjHdkwrFt454)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-Ijhp7VPFr2Qm0xmGcLdLjHdkwrFt454#report)
 
 FILE
@@ -677,7 +677,7 @@ VID-20211201-WA002511.5 MB[Open VID-20211201-WA0025](https://drive.google.com/fi
 
 Updated 2021-12-01 · 11.5 MB
 
-[FILE ](https://drive.google.com/file/d/165x5W6FByc15A656_UUQTgDYGlCS29Gl/view)
+[MP4 ](https://drive.google.com/file/d/165x5W6FByc15A656_UUQTgDYGlCS29Gl/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=165x5W6FByc15A656_UUQTgDYGlCS29Gl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=165x5W6FByc15A656_UUQTgDYGlCS29Gl#report)
 
 PDF
@@ -693,12 +693,14 @@ Wool breeds except sheep666 KB[Open Wool breeds except sheep](https://drive.goog
 
 Updated 2021-12-19 · 666 KB
 
-[DOC ](https://drive.google.com/file/d/1fBrC5S-s1_loAAmyOhNiNGPYyMT0F3AF/view)[PDF ](https://drive.google.com/file/d/1VtlIk6G4RuWAIrq1bd6ItvBhO-lCOUYt/view)
+[DOCX ](https://drive.google.com/file/d/1fBrC5S-s1_loAAmyOhNiNGPYyMT0F3AF/view)[PDF ](https://drive.google.com/file/d/1VtlIk6G4RuWAIrq1bd6ItvBhO-lCOUYt/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1fBrC5S-s1_loAAmyOhNiNGPYyMT0F3AF)[Download PDF](https://drive.google.com/uc?export=download&id=1VtlIk6G4RuWAIrq1bd6ItvBhO-lCOUYt)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fBrC5S-s1_loAAmyOhNiNGPYyMT0F3AF#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
 - Milk processing and dairy products
 - Meat science and meat products

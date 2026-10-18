@@ -4,7 +4,7 @@
 
 # Livestock Farm Practices
 
-Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
+Livestock Farm Practices notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 3 resources · 3rd Year
 
@@ -19,7 +19,7 @@ LFP - Organic Farming948 KB[Open LFP - Organic Farming](https://drive.google.com
 
 Updated 2021-11-10 · 948 KB
 
-[PPT ](https://drive.google.com/file/d/1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo/view)
+[PPTX ](https://drive.google.com/file/d/1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo#report)
 
 ## Images
@@ -31,7 +31,7 @@ Photo set — Livestock Farm Practices — 14 images1.2 MB[Open Photo set — Li
 
 Updated 2021-09-19 · 1.2 MB
 
-[IMG ](https://drive.google.com/drive/folders/13EznFsiCjZNaw6F1selgZd7riyfI84sv)
+[Images ](https://drive.google.com/drive/folders/13EznFsiCjZNaw6F1selgZd7riyfI84sv)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-13EznFsiCjZNaw6F1selgZd7riyfI84sv#report)
 
 ## Extras
@@ -49,6 +49,8 @@ Updated 2021-11-10 · 3.2 MB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
 - Routine animal care and handling
 - Feeding and housing observations

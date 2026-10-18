@@ -4,9 +4,9 @@
 
 # Veterinary and Animal Husbandry Extension Education
 
-Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
+Veterinary and Animal Husbandry Extension Education notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-125 resources · 3rd Year
+123 resources · 3rd Year
 
 Search this collection
 
@@ -27,7 +27,7 @@ Extensions Notes2.7 MB[Open Extensions Notes](https://drive.google.com/file/d/1M
 
 Updated 2026-02-06 · 2.7 MB
 
-[DOC ](https://drive.google.com/file/d/1Mfw0lWqEHqVsUsBPGQ2t3O1V7ZYNOHSe/view)
+[DOCX ](https://drive.google.com/file/d/1Mfw0lWqEHqVsUsBPGQ2t3O1V7ZYNOHSe/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1Mfw0lWqEHqVsUsBPGQ2t3O1V7ZYNOHSe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Mfw0lWqEHqVsUsBPGQ2t3O1V7ZYNOHSe#report)
 
 DOC
@@ -35,7 +35,7 @@ Unit 1 - Livestock based livelihoods and their evolution529 KB[Open Unit 1 - Liv
 
 Updated 2026-03-07 · 529 KB
 
-[DOC ](https://drive.google.com/file/d/1DSkYJeXOSxSWMv_KtSlG2DeM68k4NAyr/view)
+[DOCX ](https://drive.google.com/file/d/1DSkYJeXOSxSWMv_KtSlG2DeM68k4NAyr/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1DSkYJeXOSxSWMv_KtSlG2DeM68k4NAyr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DSkYJeXOSxSWMv_KtSlG2DeM68k4NAyr#report)
 
 DOC
@@ -43,7 +43,7 @@ Unit 2 - EXTENSION EDUCATION AND DEVELOPMENT405 KB[Open Unit 2 - EXTENSION EDUCA
 
 Updated 2026-08-15 · 405 KB
 
-[DOC ](https://drive.google.com/file/d/1_HRz9ba2FK6rlrw8beJcs3gr4O04rSAJ/view)
+[DOCX ](https://drive.google.com/file/d/1_HRz9ba2FK6rlrw8beJcs3gr4O04rSAJ/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1_HRz9ba2FK6rlrw8beJcs3gr4O04rSAJ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_HRz9ba2FK6rlrw8beJcs3gr4O04rSAJ#report)
 
 DOC
@@ -51,7 +51,7 @@ Unit 3 RURAL SOCIOLOGY IN VETERINARY EXTENSION105 KB[Open Unit 3 RURAL SOCIOLOGY
 
 Updated 2021-11-10 · 105 KB
 
-[DOC ](https://drive.google.com/file/d/1MDSLCpsiRaOVwxMW9e9d0Cdc0-_VflaF/view)
+[DOCX ](https://drive.google.com/file/d/1MDSLCpsiRaOVwxMW9e9d0Cdc0-_VflaF/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1MDSLCpsiRaOVwxMW9e9d0Cdc0-_VflaF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MDSLCpsiRaOVwxMW9e9d0Cdc0-_VflaF#report)
 
 DOC
@@ -59,7 +59,7 @@ Unit 4 Transfer of technology for livestock development563 KB[Open Unit 4 Transf
 
 Updated 2021-11-10 · 563 KB
 
-[DOC ](https://drive.google.com/file/d/1bSZ-H3ZhbxJtiUKgTgJTPS4q7KuLG3hr/view)
+[DOCX ](https://drive.google.com/file/d/1bSZ-H3ZhbxJtiUKgTgJTPS4q7KuLG3hr/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1bSZ-H3ZhbxJtiUKgTgJTPS4q7KuLG3hr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bSZ-H3ZhbxJtiUKgTgJTPS4q7KuLG3hr#report)
 
 PDF
@@ -75,7 +75,7 @@ Unit 6 and 7 Syllabus15 KB[Open Unit 6 and 7 Syllabus](https://drive.google.com/
 
 Updated 2021-11-24 · 15 KB
 
-[DOC ](https://drive.google.com/file/d/1HSu4WbPf2nBeI4rmuNT80xkoQFwJBxDw/view)
+[DOCX ](https://drive.google.com/file/d/1HSu4WbPf2nBeI4rmuNT80xkoQFwJBxDw/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1HSu4WbPf2nBeI4rmuNT80xkoQFwJBxDw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HSu4WbPf2nBeI4rmuNT80xkoQFwJBxDw#report)
 
 DOC
@@ -99,7 +99,7 @@ Unit 8 Information and Communication Technology368 KB[Open Unit 8 Information an
 
 Updated 2021-12-28 · 368 KB
 
-[DOC ](https://drive.google.com/file/d/16ftzV3FIrNGNCx7r3IgMLzM1CrBwqqab/view)
+[DOCX ](https://drive.google.com/file/d/16ftzV3FIrNGNCx7r3IgMLzM1CrBwqqab/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=16ftzV3FIrNGNCx7r3IgMLzM1CrBwqqab)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16ftzV3FIrNGNCx7r3IgMLzM1CrBwqqab#report)
 
 DOC
@@ -107,7 +107,7 @@ Unit 9 Contemporary Issues in Livestock Entreprises1.4 MB[Open Unit 9 Contempora
 
 Updated 2021-11-10 · 1.4 MB
 
-[DOC ](https://drive.google.com/file/d/1KD306vFica34TEukIk3SZOK7ZPrP7D12/view)
+[DOCX ](https://drive.google.com/file/d/1KD306vFica34TEukIk3SZOK7ZPrP7D12/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1KD306vFica34TEukIk3SZOK7ZPrP7D12)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KD306vFica34TEukIk3SZOK7ZPrP7D12#report)
 
 PDF
@@ -160,14 +160,14 @@ Updated 2022-01-08 · 1.6 MB
 
 ## Slides
 
-50
+48
 
 PPT
 Business Livestock2.5 MB[Open Business Livestock](https://drive.google.com/file/d/1-oLT54ShampOWk557cKPXz6R-nw1hjAS/view)
 
 Updated 2018-11-08 · 2.5 MB
 
-[PPT ](https://drive.google.com/file/d/1-oLT54ShampOWk557cKPXz6R-nw1hjAS/view)
+[PPTX ](https://drive.google.com/file/d/1-oLT54ShampOWk557cKPXz6R-nw1hjAS/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1-oLT54ShampOWk557cKPXz6R-nw1hjAS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-oLT54ShampOWk557cKPXz6R-nw1hjAS#report)
 
 PPT
@@ -175,7 +175,7 @@ Classifiation of market4.3 MB[Open Classifiation of market](https://drive.google
 
 Updated 2021-11-10 · 4.3 MB
 
-[PPT ](https://drive.google.com/file/d/1xSrSoi59ojf-h929b9QoGEPb7mvq7Vms/view)
+[PPTX ](https://drive.google.com/file/d/1xSrSoi59ojf-h929b9QoGEPb7mvq7Vms/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1xSrSoi59ojf-h929b9QoGEPb7mvq7Vms)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xSrSoi59ojf-h929b9QoGEPb7mvq7Vms#report)
 
 PPT
@@ -191,7 +191,7 @@ Communication2.5 MB[Open Communication](https://drive.google.com/file/d/15PdSO59
 
 Updated 2021-04-17 · 2.5 MB
 
-[PPT ](https://drive.google.com/file/d/15PdSO59K6QRHLA6rC12noBRlJ6kZcv9s/view)
+[PPTX ](https://drive.google.com/file/d/15PdSO59K6QRHLA6rC12noBRlJ6kZcv9s/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=15PdSO59K6QRHLA6rC12noBRlJ6kZcv9s)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15PdSO59K6QRHLA6rC12noBRlJ6kZcv9s#report)
 
 PPT
@@ -199,7 +199,7 @@ Concept of market280 KB[Open Concept of market](https://drive.google.com/file/d/
 
 Updated 2021-12-06 · 280 KB
 
-[PPT ](https://drive.google.com/file/d/1KNLyXoJRE7XpYjo_o_tZqqreE0WKuSP3/view)
+[PPTX ](https://drive.google.com/file/d/1KNLyXoJRE7XpYjo_o_tZqqreE0WKuSP3/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1KNLyXoJRE7XpYjo_o_tZqqreE0WKuSP3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KNLyXoJRE7XpYjo_o_tZqqreE0WKuSP3#report)
 
 PPT
@@ -207,7 +207,7 @@ Concept of Marketing303 KB[Open Concept of Marketing](https://drive.google.com/f
 
 Updated 2021-11-10 · 303 KB
 
-[PPT ](https://drive.google.com/file/d/1G2fUZDVe7k97_ASWxDNhI9O5bKBJS090/view)
+[PPTX ](https://drive.google.com/file/d/1G2fUZDVe7k97_ASWxDNhI9O5bKBJS090/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1G2fUZDVe7k97_ASWxDNhI9O5bKBJS090)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1G2fUZDVe7k97_ASWxDNhI9O5bKBJS090#report)
 
 PPT
@@ -215,7 +215,7 @@ Concepts of Communication63 KB[Open Concepts of Communication](https://drive.goo
 
 Updated 2021-04-19 · 63 KB
 
-[PPT ](https://drive.google.com/file/d/1eep-4cZcHjT1mzeJKzxynJ-OmOg7Jt5P/view)
+[PPTX ](https://drive.google.com/file/d/1eep-4cZcHjT1mzeJKzxynJ-OmOg7Jt5P/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1eep-4cZcHjT1mzeJKzxynJ-OmOg7Jt5P)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1eep-4cZcHjT1mzeJKzxynJ-OmOg7Jt5P#report)
 
 PPT
@@ -231,7 +231,7 @@ Definition Extension education1.1 MB[Open Definition Extension education](https:
 
 Updated 2021-04-19 · 1.1 MB
 
-[PPT ](https://drive.google.com/file/d/1-OepG3NsWc56xFpr3juhezj7kgE1alR2/view)
+[PPTX ](https://drive.google.com/file/d/1-OepG3NsWc56xFpr3juhezj7kgE1alR2/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1-OepG3NsWc56xFpr3juhezj7kgE1alR2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-OepG3NsWc56xFpr3juhezj7kgE1alR2#report)
 
 PPT
@@ -239,7 +239,7 @@ Economics - Introduction & Definition701 KB[Open Economics - Introduction & Defi
 
 Updated 2021-11-10 · 701 KB
 
-[PPT ](https://drive.google.com/file/d/1MNsP3NEa9pwr6UbfxdyxKGLYQZDW3Us1/view)
+[PPTX ](https://drive.google.com/file/d/1MNsP3NEa9pwr6UbfxdyxKGLYQZDW3Us1/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1MNsP3NEa9pwr6UbfxdyxKGLYQZDW3Us1)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MNsP3NEa9pwr6UbfxdyxKGLYQZDW3Us1#report)
 
 PPT
@@ -247,7 +247,7 @@ Elasticity of demand113 KB[Open Elasticity of demand](https://drive.google.com/f
 
 Updated 2021-11-10 · 113 KB
 
-[PPT ](https://drive.google.com/file/d/1ZjqbyCwrGtznlcT8vSkibhAgenP5rAx2/view)
+[PPTX ](https://drive.google.com/file/d/1ZjqbyCwrGtznlcT8vSkibhAgenP5rAx2/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ZjqbyCwrGtznlcT8vSkibhAgenP5rAx2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZjqbyCwrGtznlcT8vSkibhAgenP5rAx2#report)
 
 PPT
@@ -255,7 +255,7 @@ Exhibition11.4 MB[Open Exhibition](https://drive.google.com/file/d/1VVZ_urGuXFEa
 
 Updated 2021-04-16 · 11.4 MB
 
-[PPT ](https://drive.google.com/file/d/1VVZ_urGuXFEagPaJ76mvRIKCo8_QFhfy/view)
+[PPTX ](https://drive.google.com/file/d/1VVZ_urGuXFEagPaJ76mvRIKCo8_QFhfy/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1VVZ_urGuXFEagPaJ76mvRIKCo8_QFhfy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VVZ_urGuXFEagPaJ76mvRIKCo8_QFhfy#report)
 
 PPT
@@ -263,7 +263,7 @@ Expectations from Vet720 KB[Open Expectations from Vet](https://drive.google.com
 
 Updated 2021-12-06 · 720 KB
 
-[PPT ](https://drive.google.com/file/d/192aQhMZQaxKAauhGdfpbKcbdgK_lrG-p/view)
+[PPTX ](https://drive.google.com/file/d/192aQhMZQaxKAauhGdfpbKcbdgK_lrG-p/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=192aQhMZQaxKAauhGdfpbKcbdgK_lrG-p)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=192aQhMZQaxKAauhGdfpbKcbdgK_lrG-p#report)
 
 PPT
@@ -271,7 +271,7 @@ Expenditure decisions - Balance sheet & Income statement3.8 MB[Open Expenditure 
 
 Updated 2021-12-06 · 3.8 MB
 
-[PPT ](https://drive.google.com/file/d/1bC_feY-8x4dMoOF1TPKj_OR0-sUmHCnp/view)
+[PPTX ](https://drive.google.com/file/d/1bC_feY-8x4dMoOF1TPKj_OR0-sUmHCnp/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1bC_feY-8x4dMoOF1TPKj_OR0-sUmHCnp)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bC_feY-8x4dMoOF1TPKj_OR0-sUmHCnp#report)
 
 PPT
@@ -279,7 +279,7 @@ Extension education730 KB[Open Extension education](https://drive.google.com/fil
 
 Updated 2021-04-19 · 730 KB
 
-[PPT ](https://drive.google.com/file/d/1D1PbvLw82y4ZYEgq4dWjOqzcNWIFRoFG/view)
+[PPTX ](https://drive.google.com/file/d/1D1PbvLw82y4ZYEgq4dWjOqzcNWIFRoFG/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1D1PbvLw82y4ZYEgq4dWjOqzcNWIFRoFG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1D1PbvLw82y4ZYEgq4dWjOqzcNWIFRoFG#report)
 
 PPT
@@ -287,7 +287,7 @@ Factors of production1.8 MB[Open Factors of production](https://drive.google.com
 
 Updated 2025-01-03 · 1.8 MB
 
-[PPT ](https://drive.google.com/file/d/1_cQsslxpvjeaFD-xBasMc5fRpTUFvtb2/view)
+[PPTX ](https://drive.google.com/file/d/1_cQsslxpvjeaFD-xBasMc5fRpTUFvtb2/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1_cQsslxpvjeaFD-xBasMc5fRpTUFvtb2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_cQsslxpvjeaFD-xBasMc5fRpTUFvtb2#report)
 
 PPT
@@ -295,7 +295,7 @@ Financial credit and management – general principles4.1 MB[Open Financial cred
 
 Updated 2021-12-06 · 4.1 MB
 
-[PPT ](https://drive.google.com/file/d/1nvkayLXRNGvdJyEwTZZLTaF90YOGiq84/view)
+[PPTX ](https://drive.google.com/file/d/1nvkayLXRNGvdJyEwTZZLTaF90YOGiq84/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1nvkayLXRNGvdJyEwTZZLTaF90YOGiq84)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nvkayLXRNGvdJyEwTZZLTaF90YOGiq84#report)
 
 PPT
@@ -303,7 +303,7 @@ FLASH CARDS BVO18041298 KB[Open FLASH CARDS BVO18041](https://drive.google.com/f
 
 Updated 2021-12-13 · 298 KB
 
-[PPT ](https://drive.google.com/file/d/1O5msAZ_qemC5LdMQrQftUb7HlAEN83uk/view)
+[PPTX ](https://drive.google.com/file/d/1O5msAZ_qemC5LdMQrQftUb7HlAEN83uk/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1O5msAZ_qemC5LdMQrQftUb7HlAEN83uk)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1O5msAZ_qemC5LdMQrQftUb7HlAEN83uk#report)
 
 PPT
@@ -311,23 +311,15 @@ Functions of marketing4.3 MB[Open Functions of marketing](https://drive.google.c
 
 Updated 2021-11-10 · 4.3 MB
 
-[PPT ](https://drive.google.com/file/d/1tn60G-jH9WK6NSTt6LTBeMh2XNVwbH7r/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1tn60G-jH9WK6NSTt6LTBeMh2XNVwbH7r)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tn60G-jH9WK6NSTt6LTBeMh2XNVwbH7r#report)
-
-PPT
-Functions of marketing766 KB[Open Functions of marketing](https://drive.google.com/file/d/1m98I_BII15744_j2XHfiklJoo2WQp4L2/view)
-
-Updated 2021-12-06 · 766 KB
-
-[PPT ](https://drive.google.com/file/d/1m98I_BII15744_j2XHfiklJoo2WQp4L2/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1m98I_BII15744_j2XHfiklJoo2WQp4L2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m98I_BII15744_j2XHfiklJoo2WQp4L2#report)
+[PPT ](https://drive.google.com/file/d/1tn60G-jH9WK6NSTt6LTBeMh2XNVwbH7r/view)[PPTX ](https://drive.google.com/file/d/1m98I_BII15744_j2XHfiklJoo2WQp4L2/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1tn60G-jH9WK6NSTt6LTBeMh2XNVwbH7r)[Download PPT](https://drive.google.com/uc?export=download&id=1m98I_BII15744_j2XHfiklJoo2WQp4L2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tn60G-jH9WK6NSTt6LTBeMh2XNVwbH7r#report)
 
 PPT
 Gender1.4 MB[Open Gender](https://drive.google.com/file/d/1lcmp8kmyeXIyuz3KoMBgufh6R9jdOne_/view)
 
 Updated 2021-11-10 · 1.4 MB
 
-[PPT ](https://drive.google.com/file/d/1lcmp8kmyeXIyuz3KoMBgufh6R9jdOne_/view)
+[PPTX ](https://drive.google.com/file/d/1lcmp8kmyeXIyuz3KoMBgufh6R9jdOne_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1lcmp8kmyeXIyuz3KoMBgufh6R9jdOne_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lcmp8kmyeXIyuz3KoMBgufh6R9jdOne_#report)
 
 PPT
@@ -335,7 +327,7 @@ Group Discussion4.1 MB[Open Group Discussion](https://drive.google.com/file/d/13
 
 Updated 2021-11-10 · 4.1 MB
 
-[PPT ](https://drive.google.com/file/d/13g6Jd7n9mG5azMAfybGmK04aGJ4KnMMn/view)
+[PPTX ](https://drive.google.com/file/d/13g6Jd7n9mG5azMAfybGmK04aGJ4KnMMn/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=13g6Jd7n9mG5azMAfybGmK04aGJ4KnMMn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13g6Jd7n9mG5azMAfybGmK04aGJ4KnMMn#report)
 
 PPT
@@ -343,7 +335,7 @@ ICT3.4 MB[Open ICT](https://drive.google.com/file/d/1NWTvzSi0q4166eACl2rLKmJN0wf
 
 Updated 2022-03-24 · 3.4 MB
 
-[PPT ](https://drive.google.com/file/d/1NWTvzSi0q4166eACl2rLKmJN0wfqkbrh/view)
+[PPTX ](https://drive.google.com/file/d/1NWTvzSi0q4166eACl2rLKmJN0wfqkbrh/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1NWTvzSi0q4166eACl2rLKmJN0wfqkbrh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NWTvzSi0q4166eACl2rLKmJN0wfqkbrh#report)
 
 PPT
@@ -351,7 +343,7 @@ Income statement & cash flow statement1.5 MB[Open Income statement & cash flow s
 
 Updated 2021-12-06 · 1.5 MB
 
-[PPT ](https://drive.google.com/file/d/1FRuahbJ_UtxQyxzpzrzNWh2URXG89UzH/view)
+[PPTX ](https://drive.google.com/file/d/1FRuahbJ_UtxQyxzpzrzNWh2URXG89UzH/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1FRuahbJ_UtxQyxzpzrzNWh2URXG89UzH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FRuahbJ_UtxQyxzpzrzNWh2URXG89UzH#report)
 
 PPT
@@ -367,7 +359,7 @@ Leadership 02.12.2021 & 6.12.20211.0 MB[Open Leadership 02.12.2021 & 6.12.2021](
 
 Updated 2021-12-08 · 1.0 MB
 
-[PPT ](https://drive.google.com/file/d/1swP6N2WC8jAft_uVAdXYFK0XC-HZ9NCD/view)
+[PPTX ](https://drive.google.com/file/d/1swP6N2WC8jAft_uVAdXYFK0XC-HZ9NCD/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1swP6N2WC8jAft_uVAdXYFK0XC-HZ9NCD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1swP6N2WC8jAft_uVAdXYFK0XC-HZ9NCD#report)
 
 PPT
@@ -375,7 +367,7 @@ Livestock Census Animal Welfare2.7 MB[Open Livestock Census Animal Welfare](http
 
 Updated 2021-11-10 · 2.7 MB
 
-[PPT ](https://drive.google.com/file/d/1a_etJzsB941Yy-D1egdzcvDddyopIIQ4/view)
+[PPTX ](https://drive.google.com/file/d/1a_etJzsB941Yy-D1egdzcvDddyopIIQ4/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1a_etJzsB941Yy-D1egdzcvDddyopIIQ4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a_etJzsB941Yy-D1egdzcvDddyopIIQ4#report)
 
 PPT
@@ -383,16 +375,8 @@ Marketing channel624 KB[Open Marketing channel](https://drive.google.com/file/d/
 
 Updated 2021-11-10 · 624 KB
 
-[PPT ](https://drive.google.com/file/d/1S8XbZgpmO4ckYOFqyF8uqBwMXFH7Ude7/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1S8XbZgpmO4ckYOFqyF8uqBwMXFH7Ude7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S8XbZgpmO4ckYOFqyF8uqBwMXFH7Ude7#report)
-
-PPT
-Marketing channel451 KB[Open Marketing channel](https://drive.google.com/file/d/1byR_1a_yF7wcROhGKIhk5usFFgqa2aGz/view)
-
-Updated 2021-12-06 · 451 KB
-
-[PPT ](https://drive.google.com/file/d/1byR_1a_yF7wcROhGKIhk5usFFgqa2aGz/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1byR_1a_yF7wcROhGKIhk5usFFgqa2aGz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1byR_1a_yF7wcROhGKIhk5usFFgqa2aGz#report)
+[PPT ](https://drive.google.com/file/d/1S8XbZgpmO4ckYOFqyF8uqBwMXFH7Ude7/view)[PPTX ](https://drive.google.com/file/d/1byR_1a_yF7wcROhGKIhk5usFFgqa2aGz/view)
+[Download PPT](https://drive.google.com/uc?export=download&id=1S8XbZgpmO4ckYOFqyF8uqBwMXFH7Ude7)[Download PPT](https://drive.google.com/uc?export=download&id=1byR_1a_yF7wcROhGKIhk5usFFgqa2aGz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S8XbZgpmO4ckYOFqyF8uqBwMXFH7Ude7#report)
 
 PPT
 Markets619 KB[Open Markets](https://drive.google.com/file/d/1WzLr9L-JHhk_DFEKVwBNjBM_DNHwZyb0/view)
@@ -402,14 +386,12 @@ Updated 2018-11-08 · 619 KB
 [PPT ](https://drive.google.com/file/d/1WzLr9L-JHhk_DFEKVwBNjBM_DNHwZyb0/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1WzLr9L-JHhk_DFEKVwBNjBM_DNHwZyb0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WzLr9L-JHhk_DFEKVwBNjBM_DNHwZyb0#report)
 
-Show 20 more 20 remaining
-
 PPT
 NAVEENKUMAR.S FLASH CARDS BVO18041302 KB[Open NAVEENKUMAR.S FLASH CARDS BVO18041](https://drive.google.com/file/d/1KZ3IQG7pe6t1lU5iSo0kXhkHdkC-yiop/view)
 
 Updated 2021-12-13 · 302 KB
 
-[PPT ](https://drive.google.com/file/d/1KZ3IQG7pe6t1lU5iSo0kXhkHdkC-yiop/view)
+[PPTX ](https://drive.google.com/file/d/1KZ3IQG7pe6t1lU5iSo0kXhkHdkC-yiop/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1KZ3IQG7pe6t1lU5iSo0kXhkHdkC-yiop)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KZ3IQG7pe6t1lU5iSo0kXhkHdkC-yiop#report)
 
 PPT
@@ -417,15 +399,17 @@ ORGANIZATION OF CAMPAIGN, EXHIBITIONS, CATTLE SHOWS410 KB[Open ORGANIZATION OF C
 
 Updated 2021-04-20 · 410 KB
 
-[PPT ](https://drive.google.com/file/d/1N5d2y6JOQHxYgkVrjhDLZtroCaab29G_/view)
+[PPTX ](https://drive.google.com/file/d/1N5d2y6JOQHxYgkVrjhDLZtroCaab29G_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1N5d2y6JOQHxYgkVrjhDLZtroCaab29G_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1N5d2y6JOQHxYgkVrjhDLZtroCaab29G_#report)
+
+Show 18 more 18 remaining
 
 PPT
 PERSONAL MANAGEMENT377 KB[Open PERSONAL MANAGEMENT](https://drive.google.com/file/d/1PXPJmEop6MrN7EfMTwJFPKFqyHrG9m5o/view)
 
 Updated 2021-12-06 · 377 KB
 
-[PPT ](https://drive.google.com/file/d/1PXPJmEop6MrN7EfMTwJFPKFqyHrG9m5o/view)
+[PPTX ](https://drive.google.com/file/d/1PXPJmEop6MrN7EfMTwJFPKFqyHrG9m5o/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1PXPJmEop6MrN7EfMTwJFPKFqyHrG9m5o)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PXPJmEop6MrN7EfMTwJFPKFqyHrG9m5o#report)
 
 PPT
@@ -433,7 +417,7 @@ Philosophy of extension191 KB[Open Philosophy of extension](https://drive.google
 
 Updated 2021-04-19 · 191 KB
 
-[PPT ](https://drive.google.com/file/d/1evaEajwqPCg2kZ_7IeW2dUs8a-WpLCYA/view)
+[PPTX ](https://drive.google.com/file/d/1evaEajwqPCg2kZ_7IeW2dUs8a-WpLCYA/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1evaEajwqPCg2kZ_7IeW2dUs8a-WpLCYA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1evaEajwqPCg2kZ_7IeW2dUs8a-WpLCYA#report)
 
 PPT
@@ -441,7 +425,7 @@ Principles of extension144 KB[Open Principles of extension](https://drive.google
 
 Updated 2021-04-17 · 144 KB
 
-[PPT ](https://drive.google.com/file/d/161TgwntbAAwW3inhUcWx7PZKzLzLEaQn/view)
+[PPTX ](https://drive.google.com/file/d/161TgwntbAAwW3inhUcWx7PZKzLzLEaQn/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=161TgwntbAAwW3inhUcWx7PZKzLzLEaQn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=161TgwntbAAwW3inhUcWx7PZKzLzLEaQn#report)
 
 PPT
@@ -457,7 +441,7 @@ Publications3.0 MB[Open Publications](https://drive.google.com/file/d/1ZT5ZHzRqc
 
 Updated 2021-04-22 · 3.0 MB
 
-[PPT ](https://drive.google.com/file/d/1ZT5ZHzRqcXQfWO1A0G3hGfJv0FtNTLtT/view)
+[PPTX ](https://drive.google.com/file/d/1ZT5ZHzRqcXQfWO1A0G3hGfJv0FtNTLtT/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ZT5ZHzRqcXQfWO1A0G3hGfJv0FtNTLtT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZT5ZHzRqcXQfWO1A0G3hGfJv0FtNTLtT#report)
 
 PPT
@@ -473,7 +457,7 @@ Schools of entrepreneurial thought520 KB[Open Schools of entrepreneurial thought
 
 Updated 2021-12-06 · 520 KB
 
-[PPT ](https://drive.google.com/file/d/1ZUi47Vyql0rKpmUvmQQiwEBoqYcAuDsl/view)
+[PPTX ](https://drive.google.com/file/d/1ZUi47Vyql0rKpmUvmQQiwEBoqYcAuDsl/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ZUi47Vyql0rKpmUvmQQiwEBoqYcAuDsl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZUi47Vyql0rKpmUvmQQiwEBoqYcAuDsl#report)
 
 PPT
@@ -481,7 +465,7 @@ Social Groups 07.12.2021245 KB[Open Social Groups 07.12.2021](https://drive.goog
 
 Updated 2021-12-08 · 245 KB
 
-[PPT ](https://drive.google.com/file/d/1hJaEVh6S-pUsffnvwtSZZ0VpOkngbmjl/view)
+[PPTX ](https://drive.google.com/file/d/1hJaEVh6S-pUsffnvwtSZZ0VpOkngbmjl/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1hJaEVh6S-pUsffnvwtSZZ0VpOkngbmjl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hJaEVh6S-pUsffnvwtSZZ0VpOkngbmjl#report)
 
 PPT
@@ -489,7 +473,7 @@ Strengths and limitations of ICTs application in livestock sector3.4 MB[Open Str
 
 Updated 2021-11-10 · 3.4 MB
 
-[PPT ](https://drive.google.com/file/d/12UBBI-pDZMlLYRBJvxR_lnWHHAA_-ejS/view)
+[PPTX ](https://drive.google.com/file/d/12UBBI-pDZMlLYRBJvxR_lnWHHAA_-ejS/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12UBBI-pDZMlLYRBJvxR_lnWHHAA_-ejS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12UBBI-pDZMlLYRBJvxR_lnWHHAA_-ejS#report)
 
 PPT
@@ -497,7 +481,7 @@ Sustainability160 KB[Open Sustainability](https://drive.google.com/file/d/1vDezt
 
 Updated 2021-11-10 · 160 KB
 
-[PPT ](https://drive.google.com/file/d/1vDeztx8VaHdtc5eaF0Ub81-1tWAK_E5a/view)
+[PPTX ](https://drive.google.com/file/d/1vDeztx8VaHdtc5eaF0Ub81-1tWAK_E5a/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1vDeztx8VaHdtc5eaF0Ub81-1tWAK_E5a)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vDeztx8VaHdtc5eaF0Ub81-1tWAK_E5a#report)
 
 PPT
@@ -505,7 +489,7 @@ Syllabus - PPT 23.02.202164 KB[Open Syllabus - PPT 23.02.2021](https://drive.goo
 
 Updated 2021-11-10 · 64 KB
 
-[PPT ](https://drive.google.com/file/d/1VlCgweqo0ATPKqWamRLbhL_Dqq4aj5b_/view)
+[PPTX ](https://drive.google.com/file/d/1VlCgweqo0ATPKqWamRLbhL_Dqq4aj5b_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1VlCgweqo0ATPKqWamRLbhL_Dqq4aj5b_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VlCgweqo0ATPKqWamRLbhL_Dqq4aj5b_#report)
 
 PPT
@@ -513,7 +497,7 @@ Teaching methods483 KB[Open Teaching methods](https://drive.google.com/file/d/1d
 
 Updated 2021-04-16 · 483 KB
 
-[PPT ](https://drive.google.com/file/d/1dEcNE_7nuWv5KTjs8GEUVP_TNP3RtWB3/view)
+[PPTX ](https://drive.google.com/file/d/1dEcNE_7nuWv5KTjs8GEUVP_TNP3RtWB3/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1dEcNE_7nuWv5KTjs8GEUVP_TNP3RtWB3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dEcNE_7nuWv5KTjs8GEUVP_TNP3RtWB3#report)
 
 PPT
@@ -521,7 +505,7 @@ Theory of demand116 KB[Open Theory of demand](https://drive.google.com/file/d/1a
 
 Updated 2021-11-10 · 116 KB
 
-[PPT ](https://drive.google.com/file/d/1aHXkqTGk7k18bIG8md4qCfiGrPsfs-y_/view)
+[PPTX ](https://drive.google.com/file/d/1aHXkqTGk7k18bIG8md4qCfiGrPsfs-y_/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1aHXkqTGk7k18bIG8md4qCfiGrPsfs-y_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1aHXkqTGk7k18bIG8md4qCfiGrPsfs-y_#report)
 
 PPT
@@ -529,7 +513,7 @@ Theory of Production514 KB[Open Theory of Production](https://drive.google.com/f
 
 Updated 2021-11-10 · 514 KB
 
-[PPT ](https://drive.google.com/file/d/1Hgh1FKo7Kj_2cU79I4AJ_02MKggUfg7B/view)
+[PPTX ](https://drive.google.com/file/d/1Hgh1FKo7Kj_2cU79I4AJ_02MKggUfg7B/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Hgh1FKo7Kj_2cU79I4AJ_02MKggUfg7B)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Hgh1FKo7Kj_2cU79I4AJ_02MKggUfg7B#report)
 
 PPT
@@ -537,7 +521,7 @@ Transfer of technology - ICAR projects70 KB[Open Transfer of technology - ICAR p
 
 Updated 2021-11-10 · 70 KB
 
-[PPT ](https://drive.google.com/file/d/1iB1a27KWf3hg3PnwJxT01uTQtlWOe9PR/view)
+[PPTX ](https://drive.google.com/file/d/1iB1a27KWf3hg3PnwJxT01uTQtlWOe9PR/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1iB1a27KWf3hg3PnwJxT01uTQtlWOe9PR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iB1a27KWf3hg3PnwJxT01uTQtlWOe9PR#report)
 
 PPT
@@ -545,7 +529,7 @@ Types of business3.5 MB[Open Types of business](https://drive.google.com/file/d/
 
 Updated 2021-12-06 · 3.5 MB
 
-[PPT ](https://drive.google.com/file/d/1Hf8Pk5B4D6yakgb-gbZnki5xd_W_ISDM/view)
+[PPTX ](https://drive.google.com/file/d/1Hf8Pk5B4D6yakgb-gbZnki5xd_W_ISDM/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Hf8Pk5B4D6yakgb-gbZnki5xd_W_ISDM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Hf8Pk5B4D6yakgb-gbZnki5xd_W_ISDM#report)
 
 PPT
@@ -553,7 +537,7 @@ Types of Entrepreneurs1.9 MB[Open Types of Entrepreneurs](https://drive.google.c
 
 Updated 2021-12-06 · 1.9 MB
 
-[PPT ](https://drive.google.com/file/d/1GRqCHcMLmpNkw-2-87WNgiWcNzj4LCpg/view)
+[PPTX ](https://drive.google.com/file/d/1GRqCHcMLmpNkw-2-87WNgiWcNzj4LCpg/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1GRqCHcMLmpNkw-2-87WNgiWcNzj4LCpg)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GRqCHcMLmpNkw-2-87WNgiWcNzj4LCpg#report)
 
 PPT
@@ -561,7 +545,7 @@ Virtual class room, Virtual reality, Multi-media 20.07.20211.7 MB[Open Virtual c
 
 Updated 2021-11-10 · 1.7 MB
 
-[PPT ](https://drive.google.com/file/d/1rb6G56FTTFReAGC-EpONZLx4v8mcjbbe/view)
+[PPTX ](https://drive.google.com/file/d/1rb6G56FTTFReAGC-EpONZLx4v8mcjbbe/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1rb6G56FTTFReAGC-EpONZLx4v8mcjbbe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rb6G56FTTFReAGC-EpONZLx4v8mcjbbe#report)
 
 ## Images
@@ -573,7 +557,7 @@ images77 KB[Open images](https://drive.google.com/file/d/1txhOoMmTMUECBFIO4nwVpy
 
 Updated 2021-09-29 · 77 KB
 
-[IMG ](https://drive.google.com/file/d/1txhOoMmTMUECBFIO4nwVpyRlamtIc9hf/view)
+[JPEG ](https://drive.google.com/file/d/1txhOoMmTMUECBFIO4nwVpyRlamtIc9hf/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1txhOoMmTMUECBFIO4nwVpyRlamtIc9hf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1txhOoMmTMUECBFIO4nwVpyRlamtIc9hf#report)
 
 IMG
@@ -581,7 +565,7 @@ images26 KB[Open images](https://drive.google.com/file/d/19XPvLtKCSvaejPnJCpGLYZ
 
 Updated 2021-09-26 · 26 KB
 
-[IMG ](https://drive.google.com/file/d/19XPvLtKCSvaejPnJCpGLYZ3DoTw26Zjq/view)
+[JPEG ](https://drive.google.com/file/d/19XPvLtKCSvaejPnJCpGLYZ3DoTw26Zjq/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=19XPvLtKCSvaejPnJCpGLYZ3DoTw26Zjq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19XPvLtKCSvaejPnJCpGLYZ3DoTw26Zjq#report)
 
 IMG
@@ -589,7 +573,7 @@ images32 KB[Open images](https://drive.google.com/file/d/1jqF6DiMIEiaITZOb2XYsSB
 
 Updated 2021-09-29 · 32 KB
 
-[IMG ](https://drive.google.com/file/d/1jqF6DiMIEiaITZOb2XYsSBvS-yhruCbj/view)
+[JPEG ](https://drive.google.com/file/d/1jqF6DiMIEiaITZOb2XYsSBvS-yhruCbj/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1jqF6DiMIEiaITZOb2XYsSBvS-yhruCbj)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jqF6DiMIEiaITZOb2XYsSBvS-yhruCbj#report)
 
 IMG
@@ -597,7 +581,7 @@ images15 KB[Open images](https://drive.google.com/file/d/1KhmFLNDWxpBimbG1d5HMF3
 
 Updated 2021-09-26 · 15 KB
 
-[IMG ](https://drive.google.com/file/d/1KhmFLNDWxpBimbG1d5HMF3VbWEDykMF5/view)
+[JPEG ](https://drive.google.com/file/d/1KhmFLNDWxpBimbG1d5HMF3VbWEDykMF5/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1KhmFLNDWxpBimbG1d5HMF3VbWEDykMF5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KhmFLNDWxpBimbG1d5HMF3VbWEDykMF5#report)
 
 IMG
@@ -605,7 +589,7 @@ images25 KB[Open images](https://drive.google.com/file/d/1KBiLu0Bbq5WpV-tZq6J6IW
 
 Updated 2021-09-26 · 25 KB
 
-[IMG ](https://drive.google.com/file/d/1KBiLu0Bbq5WpV-tZq6J6IWrYY1Wo8cso/view)
+[JPEG ](https://drive.google.com/file/d/1KBiLu0Bbq5WpV-tZq6J6IWrYY1Wo8cso/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1KBiLu0Bbq5WpV-tZq6J6IWrYY1Wo8cso)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KBiLu0Bbq5WpV-tZq6J6IWrYY1Wo8cso#report)
 
 IMG
@@ -613,7 +597,7 @@ images43 KB[Open images](https://drive.google.com/file/d/1ylw-gl6vJHwAT900T2oiJQ
 
 Updated 2021-09-29 · 43 KB
 
-[IMG ](https://drive.google.com/file/d/1ylw-gl6vJHwAT900T2oiJQuC1026JB3N/view)
+[JPEG ](https://drive.google.com/file/d/1ylw-gl6vJHwAT900T2oiJQuC1026JB3N/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1ylw-gl6vJHwAT900T2oiJQuC1026JB3N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ylw-gl6vJHwAT900T2oiJQuC1026JB3N#report)
 
 IMG
@@ -621,7 +605,7 @@ images25 KB[Open images](https://drive.google.com/file/d/1qYDEAtn9LzXNrdVTag1RnJ
 
 Updated 2021-09-26 · 25 KB
 
-[IMG ](https://drive.google.com/file/d/1qYDEAtn9LzXNrdVTag1RnJxuLtjQNuAF/view)
+[JPEG ](https://drive.google.com/file/d/1qYDEAtn9LzXNrdVTag1RnJxuLtjQNuAF/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1qYDEAtn9LzXNrdVTag1RnJxuLtjQNuAF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qYDEAtn9LzXNrdVTag1RnJxuLtjQNuAF#report)
 
 IMG
@@ -629,7 +613,7 @@ images56 KB[Open images](https://drive.google.com/file/d/17UtcU0ThwvGmOqGAzKj6zX
 
 Updated 2021-09-29 · 56 KB
 
-[IMG ](https://drive.google.com/file/d/17UtcU0ThwvGmOqGAzKj6zXNPvzdLHQsz/view)
+[JPEG ](https://drive.google.com/file/d/17UtcU0ThwvGmOqGAzKj6zXNPvzdLHQsz/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=17UtcU0ThwvGmOqGAzKj6zXNPvzdLHQsz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17UtcU0ThwvGmOqGAzKj6zXNPvzdLHQsz#report)
 
 IMG
@@ -637,7 +621,7 @@ images26 KB[Open images](https://drive.google.com/file/d/1bgyFHiAipRTYG0huH06pUq
 
 Updated 2021-09-26 · 26 KB
 
-[IMG ](https://drive.google.com/file/d/1bgyFHiAipRTYG0huH06pUq64UiKoZceN/view)
+[JPEG ](https://drive.google.com/file/d/1bgyFHiAipRTYG0huH06pUq64UiKoZceN/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1bgyFHiAipRTYG0huH06pUq64UiKoZceN)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bgyFHiAipRTYG0huH06pUq64UiKoZceN#report)
 
 IMG
@@ -645,7 +629,7 @@ images46 KB[Open images](https://drive.google.com/file/d/1ijbbB-lGqmRKxu4nQKLBbO
 
 Updated 2021-09-29 · 46 KB
 
-[IMG ](https://drive.google.com/file/d/1ijbbB-lGqmRKxu4nQKLBbO2q2l3koNA2/view)
+[JPEG ](https://drive.google.com/file/d/1ijbbB-lGqmRKxu4nQKLBbO2q2l3koNA2/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1ijbbB-lGqmRKxu4nQKLBbO2q2l3koNA2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ijbbB-lGqmRKxu4nQKLBbO2q2l3koNA2#report)
 
 IMG
@@ -653,7 +637,7 @@ images24 KB[Open images](https://drive.google.com/file/d/18xiQxM-3KCot2AcaRLgW6G
 
 Updated 2021-09-26 · 24 KB
 
-[IMG ](https://drive.google.com/file/d/18xiQxM-3KCot2AcaRLgW6GCmMaXjUUK7/view)
+[JPEG ](https://drive.google.com/file/d/18xiQxM-3KCot2AcaRLgW6GCmMaXjUUK7/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=18xiQxM-3KCot2AcaRLgW6GCmMaXjUUK7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18xiQxM-3KCot2AcaRLgW6GCmMaXjUUK7#report)
 
 IMG
@@ -661,7 +645,7 @@ images58 KB[Open images](https://drive.google.com/file/d/12mgDMB52OoekYJ7n9BoIf1
 
 Updated 2021-09-29 · 58 KB
 
-[IMG ](https://drive.google.com/file/d/12mgDMB52OoekYJ7n9BoIf1CT4gUV9FHn/view)
+[JPEG ](https://drive.google.com/file/d/12mgDMB52OoekYJ7n9BoIf1CT4gUV9FHn/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=12mgDMB52OoekYJ7n9BoIf1CT4gUV9FHn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12mgDMB52OoekYJ7n9BoIf1CT4gUV9FHn#report)
 
 IMG
@@ -669,7 +653,7 @@ images25 KB[Open images](https://drive.google.com/file/d/13vJ5NYDPwYxGOPxJru0DA-
 
 Updated 2021-09-26 · 25 KB
 
-[IMG ](https://drive.google.com/file/d/13vJ5NYDPwYxGOPxJru0DA-MZoPmkfMpE/view)
+[JPEG ](https://drive.google.com/file/d/13vJ5NYDPwYxGOPxJru0DA-MZoPmkfMpE/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=13vJ5NYDPwYxGOPxJru0DA-MZoPmkfMpE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13vJ5NYDPwYxGOPxJru0DA-MZoPmkfMpE#report)
 
 IMG
@@ -677,7 +661,7 @@ images67 KB[Open images](https://drive.google.com/file/d/1rYRHwj6_aa0ak5w2SDZhyW
 
 Updated 2021-09-26 · 67 KB
 
-[IMG ](https://drive.google.com/file/d/1rYRHwj6_aa0ak5w2SDZhyWovsfWG8OX1/view)
+[JPEG ](https://drive.google.com/file/d/1rYRHwj6_aa0ak5w2SDZhyWovsfWG8OX1/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1rYRHwj6_aa0ak5w2SDZhyWovsfWG8OX1)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rYRHwj6_aa0ak5w2SDZhyWovsfWG8OX1#report)
 
 IMG
@@ -685,7 +669,7 @@ images36 KB[Open images](https://drive.google.com/file/d/1k27hNPB3Xt3CkI1vcp1TyF
 
 Updated 2021-09-26 · 36 KB
 
-[IMG ](https://drive.google.com/file/d/1k27hNPB3Xt3CkI1vcp1TyFpD04NL9W4W/view)
+[JPEG ](https://drive.google.com/file/d/1k27hNPB3Xt3CkI1vcp1TyFpD04NL9W4W/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1k27hNPB3Xt3CkI1vcp1TyFpD04NL9W4W)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1k27hNPB3Xt3CkI1vcp1TyFpD04NL9W4W#report)
 
 IMG
@@ -693,7 +677,7 @@ images26 KB[Open images](https://drive.google.com/file/d/1B8Ji17cFGJT2EYzF15lukU
 
 Updated 2021-09-26 · 26 KB
 
-[IMG ](https://drive.google.com/file/d/1B8Ji17cFGJT2EYzF15lukUmbJbQgcnaC/view)
+[JPEG ](https://drive.google.com/file/d/1B8Ji17cFGJT2EYzF15lukUmbJbQgcnaC/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1B8Ji17cFGJT2EYzF15lukUmbJbQgcnaC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1B8Ji17cFGJT2EYzF15lukUmbJbQgcnaC#report)
 
 IMG
@@ -701,7 +685,7 @@ images51 KB[Open images](https://drive.google.com/file/d/1d9sMruAaLzWIHDanVc25kr
 
 Updated 2021-09-26 · 51 KB
 
-[IMG ](https://drive.google.com/file/d/1d9sMruAaLzWIHDanVc25krmV8IJfJf8f/view)
+[JPEG ](https://drive.google.com/file/d/1d9sMruAaLzWIHDanVc25krmV8IJfJf8f/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1d9sMruAaLzWIHDanVc25krmV8IJfJf8f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1d9sMruAaLzWIHDanVc25krmV8IJfJf8f#report)
 
 IMG
@@ -709,7 +693,7 @@ images35 KB[Open images](https://drive.google.com/file/d/17fltsUO8_15apA8xQ8y74C
 
 Updated 2021-09-26 · 35 KB
 
-[IMG ](https://drive.google.com/file/d/17fltsUO8_15apA8xQ8y74ClEP1YaA5dj/view)
+[JPEG ](https://drive.google.com/file/d/17fltsUO8_15apA8xQ8y74ClEP1YaA5dj/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=17fltsUO8_15apA8xQ8y74ClEP1YaA5dj)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17fltsUO8_15apA8xQ8y74ClEP1YaA5dj#report)
 
 IMG
@@ -717,7 +701,7 @@ images59 KB[Open images](https://drive.google.com/file/d/1KaZ1sTYQ7wRGBejQW_Q119
 
 Updated 2021-09-26 · 59 KB
 
-[IMG ](https://drive.google.com/file/d/1KaZ1sTYQ7wRGBejQW_Q119izG4aYo3l6/view)
+[JPEG ](https://drive.google.com/file/d/1KaZ1sTYQ7wRGBejQW_Q119izG4aYo3l6/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1KaZ1sTYQ7wRGBejQW_Q119izG4aYo3l6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KaZ1sTYQ7wRGBejQW_Q119izG4aYo3l6#report)
 
 IMG
@@ -725,7 +709,7 @@ images49 KB[Open images](https://drive.google.com/file/d/1RN6riE_5qEgBqBMQjjKhHx
 
 Updated 2021-09-26 · 49 KB
 
-[IMG ](https://drive.google.com/file/d/1RN6riE_5qEgBqBMQjjKhHx3vKKtarmFS/view)
+[JPEG ](https://drive.google.com/file/d/1RN6riE_5qEgBqBMQjjKhHx3vKKtarmFS/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1RN6riE_5qEgBqBMQjjKhHx3vKKtarmFS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RN6riE_5qEgBqBMQjjKhHx3vKKtarmFS#report)
 
 IMG
@@ -733,7 +717,7 @@ images55 KB[Open images](https://drive.google.com/file/d/1svu77pGzC_SXAtNUktDXoJ
 
 Updated 2021-09-26 · 55 KB
 
-[IMG ](https://drive.google.com/file/d/1svu77pGzC_SXAtNUktDXoJ7s45EWktK3/view)
+[JPEG ](https://drive.google.com/file/d/1svu77pGzC_SXAtNUktDXoJ7s45EWktK3/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1svu77pGzC_SXAtNUktDXoJ7s45EWktK3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1svu77pGzC_SXAtNUktDXoJ7s45EWktK3#report)
 
 IMG
@@ -741,7 +725,7 @@ images56 KB[Open images](https://drive.google.com/file/d/1Njx3YqEQVYTADYDUvq2no7
 
 Updated 2021-09-26 · 56 KB
 
-[IMG ](https://drive.google.com/file/d/1Njx3YqEQVYTADYDUvq2no7gRqFIvbdiH/view)
+[JPEG ](https://drive.google.com/file/d/1Njx3YqEQVYTADYDUvq2no7gRqFIvbdiH/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1Njx3YqEQVYTADYDUvq2no7gRqFIvbdiH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Njx3YqEQVYTADYDUvq2no7gRqFIvbdiH#report)
 
 IMG
@@ -749,7 +733,7 @@ images70 KB[Open images](https://drive.google.com/file/d/19mB_sXm_iz3_Ve00rUH56b
 
 Updated 2021-09-26 · 70 KB
 
-[IMG ](https://drive.google.com/file/d/19mB_sXm_iz3_Ve00rUH56bKidOoBuNeb/view)
+[JPEG ](https://drive.google.com/file/d/19mB_sXm_iz3_Ve00rUH56bKidOoBuNeb/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=19mB_sXm_iz3_Ve00rUH56bKidOoBuNeb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19mB_sXm_iz3_Ve00rUH56bKidOoBuNeb#report)
 
 IMG
@@ -757,7 +741,7 @@ images59 KB[Open images](https://drive.google.com/file/d/16exdK1imWeG02Ont7SgG9u
 
 Updated 2021-09-26 · 59 KB
 
-[IMG ](https://drive.google.com/file/d/16exdK1imWeG02Ont7SgG9uI8-sC50ZjT/view)
+[JPEG ](https://drive.google.com/file/d/16exdK1imWeG02Ont7SgG9uI8-sC50ZjT/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=16exdK1imWeG02Ont7SgG9uI8-sC50ZjT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16exdK1imWeG02Ont7SgG9uI8-sC50ZjT#report)
 
 IMG
@@ -765,7 +749,7 @@ images53 KB[Open images](https://drive.google.com/file/d/1r3CpOjtAxStLEbJYliVa8j
 
 Updated 2021-09-26 · 53 KB
 
-[IMG ](https://drive.google.com/file/d/1r3CpOjtAxStLEbJYliVa8jA-FjszM4bR/view)
+[JPEG ](https://drive.google.com/file/d/1r3CpOjtAxStLEbJYliVa8jA-FjszM4bR/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1r3CpOjtAxStLEbJYliVa8jA-FjszM4bR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r3CpOjtAxStLEbJYliVa8jA-FjszM4bR#report)
 
 IMG
@@ -773,7 +757,7 @@ images61 KB[Open images](https://drive.google.com/file/d/1h-P3KoYUkF1dcgIAopcmhJ
 
 Updated 2021-09-26 · 61 KB
 
-[IMG ](https://drive.google.com/file/d/1h-P3KoYUkF1dcgIAopcmhJgW-pjoOEYB/view)
+[JPEG ](https://drive.google.com/file/d/1h-P3KoYUkF1dcgIAopcmhJgW-pjoOEYB/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1h-P3KoYUkF1dcgIAopcmhJgW-pjoOEYB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1h-P3KoYUkF1dcgIAopcmhJgW-pjoOEYB#report)
 
 IMG
@@ -781,7 +765,7 @@ images16 KB[Open images](https://drive.google.com/file/d/1A_Lpf4hxayaRqVQokFL2xy
 
 Updated 2021-09-26 · 16 KB
 
-[IMG ](https://drive.google.com/file/d/1A_Lpf4hxayaRqVQokFL2xyXtbLRx0af4/view)
+[JPEG ](https://drive.google.com/file/d/1A_Lpf4hxayaRqVQokFL2xyXtbLRx0af4/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1A_Lpf4hxayaRqVQokFL2xyXtbLRx0af4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1A_Lpf4hxayaRqVQokFL2xyXtbLRx0af4#report)
 
 IMG
@@ -789,7 +773,7 @@ Photo set — Veterinary and Animal Husbandry Extension Education — 12 images1
 
 Updated 2022-02-18 · 1.2 MB
 
-[IMG ](https://drive.google.com/drive/folders/1ATgF25xvukYq4bJuP66_DeiUS-W9VDGL)
+[Images ](https://drive.google.com/drive/folders/1ATgF25xvukYq4bJuP66_DeiUS-W9VDGL)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1ATgF25xvukYq4bJuP66_DeiUS-W9VDGL#report)
 
 ## Extras
@@ -801,7 +785,7 @@ Butane Blow Torch Flame Demonstration - simple device how to ( 720 X 1280 )39.4 
 
 Updated 2021-09-26 · 39.4 MB
 
-[FILE ](https://drive.google.com/file/d/1YqzPU0Lw3uTiu5Aa1DBlt7RE4LHU6V6W/view)
+[MP4 ](https://drive.google.com/file/d/1YqzPU0Lw3uTiu5Aa1DBlt7RE4LHU6V6W/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YqzPU0Lw3uTiu5Aa1DBlt7RE4LHU6V6W#report)
 
 PDF
@@ -825,7 +809,7 @@ farmer pics584 KB[Open farmer pics](https://drive.google.com/file/d/1jHpv9-ftRZe
 
 Updated 2021-12-14 · 584 KB
 
-[DOC ](https://drive.google.com/file/d/1jHpv9-ftRZeFLr4trcRLiLJ0grTYOvNx/view)
+[DOCX ](https://drive.google.com/file/d/1jHpv9-ftRZeFLr4trcRLiLJ0grTYOvNx/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1jHpv9-ftRZeFLr4trcRLiLJ0grTYOvNx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jHpv9-ftRZeFLr4trcRLiLJ0grTYOvNx#report)
 
 PDF
@@ -849,7 +833,7 @@ Imperfect Competition brief10.8 MB[Open Imperfect Competition brief](https://dri
 
 Updated 2018-11-08 · 10.8 MB
 
-[FILE ](https://drive.google.com/file/d/1SgPn7ClHNSFALNflxMPSQnGP6W222SLW/view)
+[MP4 ](https://drive.google.com/file/d/1SgPn7ClHNSFALNflxMPSQnGP6W222SLW/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1SgPn7ClHNSFALNflxMPSQnGP6W222SLW)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1SgPn7ClHNSFALNflxMPSQnGP6W222SLW#report)
 
 FILE
@@ -857,7 +841,7 @@ Imperfect Competition Microeconomics5.0 MB[Open Imperfect Competition Microecono
 
 Updated 2018-11-08 · 5.0 MB
 
-[FILE ](https://drive.google.com/file/d/1gLWDqdBg2Fvc2bqQifU-zMDct5OzVd6K/view)
+[MP4 ](https://drive.google.com/file/d/1gLWDqdBg2Fvc2bqQifU-zMDct5OzVd6K/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1gLWDqdBg2Fvc2bqQifU-zMDct5OzVd6K)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gLWDqdBg2Fvc2bqQifU-zMDct5OzVd6K#report)
 
 PDF
@@ -873,7 +857,7 @@ Interview schedule - Data collection - General24 KB[Open Interview schedule - Da
 
 Updated 2021-12-14 · 24 KB
 
-[DOC ](https://drive.google.com/file/d/12fOBccmDSGcb5_thcb40ME_19w3MjnPq/view)
+[DOCX ](https://drive.google.com/file/d/12fOBccmDSGcb5_thcb40ME_19w3MjnPq/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=12fOBccmDSGcb5_thcb40ME_19w3MjnPq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12fOBccmDSGcb5_thcb40ME_19w3MjnPq#report)
 
 FILE
@@ -881,7 +865,7 @@ Is Globalization a solution for village economy237.5 MB[Open Is Globalization a 
 
 Updated 2018-11-08 · 237.5 MB
 
-[FILE ](https://drive.google.com/file/d/15Q8MlifbzBPJZ5pm_umAVyDRdQ4aSFCJ/view)
+[MP4 ](https://drive.google.com/file/d/15Q8MlifbzBPJZ5pm_umAVyDRdQ4aSFCJ/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15Q8MlifbzBPJZ5pm_umAVyDRdQ4aSFCJ#report)
 
 DOC
@@ -889,7 +873,7 @@ Isolation, Quarantine and disposal of carcass13 KB[Open Isolation, Quarantine an
 
 Updated 2021-09-20 · 13 KB
 
-[DOC ](https://drive.google.com/file/d/1BljZmPOEoW59fjH1Ju8A8UnTLEvAKxoF/view)
+[DOCX ](https://drive.google.com/file/d/1BljZmPOEoW59fjH1Ju8A8UnTLEvAKxoF/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1BljZmPOEoW59fjH1Ju8A8UnTLEvAKxoF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BljZmPOEoW59fjH1Ju8A8UnTLEvAKxoF#report)
 
 PDF
@@ -913,7 +897,7 @@ Monopolistic Competition43.3 MB[Open Monopolistic Competition](https://drive.goo
 
 Updated 2018-11-08 · 43.3 MB
 
-[FILE ](https://drive.google.com/file/d/1-ZYMeXHu31yCRNnPQEt2EFaXNkXRRMV9/view)
+[MP4 ](https://drive.google.com/file/d/1-ZYMeXHu31yCRNnPQEt2EFaXNkXRRMV9/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-ZYMeXHu31yCRNnPQEt2EFaXNkXRRMV9#report)
 
 PDF
@@ -937,7 +921,7 @@ preview686 KB[Open preview](https://drive.google.com/file/d/1ZlyiFvKszPOAzT66cM2
 
 Updated 2021-09-26 · 686 KB
 
-[FILE ](https://drive.google.com/file/d/1ZlyiFvKszPOAzT66cM2QK2QMUmTl6W_2/view)
+[MP4 ](https://drive.google.com/file/d/1ZlyiFvKszPOAzT66cM2QK2QMUmTl6W_2/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1ZlyiFvKszPOAzT66cM2QK2QMUmTl6W_2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZlyiFvKszPOAzT66cM2QK2QMUmTl6W_2#report)
 
 FILE
@@ -945,7 +929,7 @@ preview1.5 MB[Open preview](https://drive.google.com/file/d/1hGHZKtVFiVqvW43ARMh
 
 Updated 2021-09-26 · 1.5 MB
 
-[FILE ](https://drive.google.com/file/d/1hGHZKtVFiVqvW43ARMhiU8h9zqduZiYm/view)
+[MP4 ](https://drive.google.com/file/d/1hGHZKtVFiVqvW43ARMhiU8h9zqduZiYm/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1hGHZKtVFiVqvW43ARMhiU8h9zqduZiYm)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hGHZKtVFiVqvW43ARMhiU8h9zqduZiYm#report)
 
 FILE
@@ -953,7 +937,7 @@ Sanitize Kitchens – Dupray Steam Cleaners ( 1080 X 1920 )12.2 MB[Open Sanitize
 
 Updated 2021-09-26 · 12.2 MB
 
-[FILE ](https://drive.google.com/file/d/1VKSqxFnce1GkivPy8sAh8kCZjCXtQ5F9/view)
+[MP4 ](https://drive.google.com/file/d/1VKSqxFnce1GkivPy8sAh8kCZjCXtQ5F9/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1VKSqxFnce1GkivPy8sAh8kCZjCXtQ5F9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VKSqxFnce1GkivPy8sAh8kCZjCXtQ5F9#report)
 
 PDF
@@ -993,7 +977,7 @@ UV light disinfection room ( 1080 X 1920 )15.6 MB[Open UV light disinfection roo
 
 Updated 2021-09-26 · 15.6 MB
 
-[FILE ](https://drive.google.com/file/d/1XhHVtlu5mA69W6S9FXHCGRcaRvgwGEPG/view)
+[MP4 ](https://drive.google.com/file/d/1XhHVtlu5mA69W6S9FXHCGRcaRvgwGEPG/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1XhHVtlu5mA69W6S9FXHCGRcaRvgwGEPG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XhHVtlu5mA69W6S9FXHCGRcaRvgwGEPG#report)
 
 PDF
@@ -1017,7 +1001,7 @@ VAE SNK16 KB[Open VAE SNK](https://drive.google.com/file/d/1_onGfQ6sDAVYSuKBcTJf
 
 Updated 2021-09-20 · 16 KB
 
-[DOC ](https://drive.google.com/file/d/1_onGfQ6sDAVYSuKBcTJf1JaXfoanvHgi/view)
+[DOCX ](https://drive.google.com/file/d/1_onGfQ6sDAVYSuKBcTJf1JaXfoanvHgi/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1_onGfQ6sDAVYSuKBcTJf1JaXfoanvHgi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_onGfQ6sDAVYSuKBcTJf1JaXfoanvHgi#report)
 
 DOC
@@ -1025,7 +1009,7 @@ Video Script SNK21 KB[Open Video Script SNK](https://drive.google.com/file/d/1ga
 
 Updated 2021-09-20 · 21 KB
 
-[DOC ](https://drive.google.com/file/d/1galeAwOlU1oGEyxMsK9PTz28s3W1SmMe/view)[PDF ](https://drive.google.com/file/d/1DsaEQw3vd4ERz73f5sGJP5Kz5fB1gU1A/view)
+[DOCX ](https://drive.google.com/file/d/1galeAwOlU1oGEyxMsK9PTz28s3W1SmMe/view)[PDF ](https://drive.google.com/file/d/1DsaEQw3vd4ERz73f5sGJP5Kz5fB1gU1A/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1galeAwOlU1oGEyxMsK9PTz28s3W1SmMe)[Download PDF](https://drive.google.com/uc?export=download&id=1DsaEQw3vd4ERz73f5sGJP5Kz5fB1gU1A)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1galeAwOlU1oGEyxMsK9PTz28s3W1SmMe#report)
 
 FILE
@@ -1033,12 +1017,14 @@ What is Marketing - Marketing Lecture by Prof. Vijay Prakash Anand69.1 MB[Open W
 
 Updated 2018-11-08 · 69.1 MB
 
-[FILE ](https://drive.google.com/file/d/1QDvdyAhUIqa1vAmsEREiHCVAS6jk_uIf/view)
+[MP4 ](https://drive.google.com/file/d/1QDvdyAhUIqa1vAmsEREiHCVAS6jk_uIf/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QDvdyAhUIqa1vAmsEREiHCVAS6jk_uIf#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
 
 - Extension principles and teaching methods
 - Rural sociology and communication

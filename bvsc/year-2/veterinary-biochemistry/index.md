@@ -4,7 +4,7 @@
 
 # Veterinary Biochemistry
 
-Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
+Veterinary Biochemistry notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 44 resources · 2nd Year
 
@@ -295,7 +295,7 @@ Glycolysis, TCA Cycle1.0 MB[Open Glycolysis, TCA Cycle](https://drive.google.com
 
 Updated 2020-10-20 · 1.0 MB
 
-[PPT ](https://drive.google.com/file/d/1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP/view)
+[PPTX ](https://drive.google.com/file/d/1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QXv9UIu1043Cp4KFh_i3IAOCNXiGiHyP#report)
 
 ## Extras
@@ -307,7 +307,7 @@ DOC
 
 Updated 2020-12-11 · 19 KB
 
-[DOC ](https://drive.google.com/file/d/16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N/view)
+[DOCX ](https://drive.google.com/file/d/16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16Ntl6Y8TITLe_NJ5BfeHfOTNlYRVzk1N#report)
 
 DOC
@@ -315,7 +315,7 @@ DOC
 
 Updated 2020-12-11 · 21 KB
 
-[DOC ](https://drive.google.com/file/d/1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb/view)
+[DOCX ](https://drive.google.com/file/d/1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Qf_prZUFQds0Sf0rIKhcXalTHdOWrfcb#report)
 
 PDF
@@ -385,6 +385,8 @@ Updated 2020-07-16 · 188 KB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
 - Carbohydrate, lipid and protein metabolism
 - Enzymes and biological oxidation

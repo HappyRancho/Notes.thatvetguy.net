@@ -6,7 +6,7 @@
 
 Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to find your next read.
 
-7 subjects · 551 resources
+7 subjects · 549 resources
 
 [155 resources
 
@@ -32,11 +32,11 @@ Notes 47 · Slides 5 · Practical 2 · Extras 5 · Books 1 · Images 1 · Object
 
 Extras 18 · Practical 2 · Notes 49 · Slides 5 · Books 5 · Objective 2 · Images 1
 
-](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[125 resources
+](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[123 resources
 
 ## Veterinary and Animal Husbandry Extension Education
 
-Slides 50 · Extras 30 · Notes 13 · Objective 2 · Images 28 · Books 2
+Slides 48 · Extras 30 · Notes 13 · Objective 2 · Images 28 · Books 2
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[2 resources
 

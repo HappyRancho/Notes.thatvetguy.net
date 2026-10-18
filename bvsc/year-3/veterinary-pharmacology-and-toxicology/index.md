@@ -4,7 +4,7 @@
 
 # Veterinary Pharmacology and Toxicology
 
-Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
+Veterinary Pharmacology and Toxicology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
 155 resources · 3rd Year
 
@@ -171,7 +171,7 @@ Chemotherapy3.8 MB[Open Chemotherapy](https://drive.google.com/file/d/1M61MtrOjY
 
 Updated 2021-11-17 · 3.8 MB
 
-[DOC ](https://drive.google.com/file/d/1M61MtrOjYJpLkIykb-ZhcivjQo-qIkTY/view)
+[DOCX ](https://drive.google.com/file/d/1M61MtrOjYJpLkIykb-ZhcivjQo-qIkTY/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1M61MtrOjYJpLkIykb-ZhcivjQo-qIkTY)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1M61MtrOjYJpLkIykb-ZhcivjQo-qIkTY#report)
 
 PDF
@@ -461,7 +461,7 @@ Local Anaesthesia Class 33261 KB[Open Local Anaesthesia Class 33](https://drive.
 
 Updated 2021-11-10 · 261 KB
 
-[DOC ](https://drive.google.com/file/d/1WqO1ilvw_8WjpaVfc6JtIF2d-ogXccEX/view)
+[DOCX ](https://drive.google.com/file/d/1WqO1ilvw_8WjpaVfc6JtIF2d-ogXccEX/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1WqO1ilvw_8WjpaVfc6JtIF2d-ogXccEX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WqO1ilvw_8WjpaVfc6JtIF2d-ogXccEX#report)
 
 PDF
@@ -511,7 +511,7 @@ NSAIDs1.5 MB[Open NSAIDs](https://drive.google.com/file/d/1TYC8xLtrrQMQqq5hR-636
 
 Updated 2021-11-10 · 1.5 MB
 
-[PDF ](https://drive.google.com/file/d/1TYC8xLtrrQMQqq5hR-636wKo22SekgKf/view)[PPT ](https://drive.google.com/file/d/1UF9PVpghEi9lNTbekGhtHA7ynDFsvdLO/view)
+[PDF ](https://drive.google.com/file/d/1TYC8xLtrrQMQqq5hR-636wKo22SekgKf/view)[PPTX ](https://drive.google.com/file/d/1UF9PVpghEi9lNTbekGhtHA7ynDFsvdLO/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1TYC8xLtrrQMQqq5hR-636wKo22SekgKf)[Download PPT](https://drive.google.com/uc?export=download&id=1UF9PVpghEi9lNTbekGhtHA7ynDFsvdLO)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TYC8xLtrrQMQqq5hR-636wKo22SekgKf#report)
 
 PDF
@@ -535,7 +535,7 @@ Opioid Analagesics Class 321.4 MB[Open Opioid Analagesics Class 32](https://driv
 
 Updated 2021-12-29 · 1.4 MB
 
-[DOC ](https://drive.google.com/file/d/1HGx-CGVVBzGf_wtjJaOUJ2QKRECrDQWW/view)
+[DOCX ](https://drive.google.com/file/d/1HGx-CGVVBzGf_wtjJaOUJ2QKRECrDQWW/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1HGx-CGVVBzGf_wtjJaOUJ2QKRECrDQWW)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HGx-CGVVBzGf_wtjJaOUJ2QKRECrDQWW#report)
 
 PDF
@@ -575,7 +575,7 @@ Psychotropic drugs Class 3018 KB[Open Psychotropic drugs Class 30](https://drive
 
 Updated 2021-12-29 · 18 KB
 
-[DOC ](https://drive.google.com/file/d/1E6Z96_2fSRI0V2gBqUmL7PHyIkdomoMT/view)
+[DOCX ](https://drive.google.com/file/d/1E6Z96_2fSRI0V2gBqUmL7PHyIkdomoMT/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1E6Z96_2fSRI0V2gBqUmL7PHyIkdomoMT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1E6Z96_2fSRI0V2gBqUmL7PHyIkdomoMT#report)
 
 PDF
@@ -623,7 +623,7 @@ Skeletal Muscle Relaxants Class 34577 KB[Open Skeletal Muscle Relaxants Class 34
 
 Updated 2021-11-10 · 577 KB
 
-[DOC ](https://drive.google.com/file/d/1rZRR7mQVe--My9kPvplzSZkBiZaQaI5H/view)
+[DOCX ](https://drive.google.com/file/d/1rZRR7mQVe--My9kPvplzSZkBiZaQaI5H/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1rZRR7mQVe--My9kPvplzSZkBiZaQaI5H)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rZRR7mQVe--My9kPvplzSZkBiZaQaI5H#report)
 
 PDF
@@ -735,7 +735,7 @@ Isolated Tissue Experiments using Organ Bath970 KB[Open Isolated Tissue Experime
 
 Updated 2021-11-10 · 970 KB
 
-[PPT ](https://drive.google.com/file/d/1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr/view)
+[PPTX ](https://drive.google.com/file/d/1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr#report)
 
 PDF
@@ -799,7 +799,7 @@ Aminoglycosides1.5 MB[Open Aminoglycosides](https://drive.google.com/file/d/12Oe
 
 Updated 2021-11-16 · 1.5 MB
 
-[PPT ](https://drive.google.com/file/d/12OeDu-1-S-Vypgi4dfD7uj5jHV0xDQD6/view)
+[PPTX ](https://drive.google.com/file/d/12OeDu-1-S-Vypgi4dfD7uj5jHV0xDQD6/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=12OeDu-1-S-Vypgi4dfD7uj5jHV0xDQD6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12OeDu-1-S-Vypgi4dfD7uj5jHV0xDQD6#report)
 
 PPT
@@ -807,7 +807,7 @@ Anthelmintics Drugs434 KB[Open Anthelmintics Drugs](https://drive.google.com/fil
 
 Updated 2021-11-16 · 434 KB
 
-[PPT ](https://drive.google.com/file/d/1noej2_M81Gp3Q7LxzbCe2vLhe94LgmVn/view)
+[PPTX ](https://drive.google.com/file/d/1noej2_M81Gp3Q7LxzbCe2vLhe94LgmVn/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1noej2_M81Gp3Q7LxzbCe2vLhe94LgmVn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1noej2_M81Gp3Q7LxzbCe2vLhe94LgmVn#report)
 
 PPT
@@ -815,7 +815,7 @@ Anti-fungal Drugs743 KB[Open Anti-fungal Drugs](https://drive.google.com/file/d/
 
 Updated 2021-11-16 · 743 KB
 
-[PPT ](https://drive.google.com/file/d/10poUEwwGgb6JZuofSHJBD3PfSEySH9YR/view)
+[PPTX ](https://drive.google.com/file/d/10poUEwwGgb6JZuofSHJBD3PfSEySH9YR/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=10poUEwwGgb6JZuofSHJBD3PfSEySH9YR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10poUEwwGgb6JZuofSHJBD3PfSEySH9YR#report)
 
 PPT
@@ -823,7 +823,7 @@ Anti-viral Drugs247 KB[Open Anti-viral Drugs](https://drive.google.com/file/d/1x
 
 Updated 2021-11-16 · 247 KB
 
-[PPT ](https://drive.google.com/file/d/1xkC7ylPfMa3z4sxYzTfP3YX3tgoxResO/view)
+[PPTX ](https://drive.google.com/file/d/1xkC7ylPfMa3z4sxYzTfP3YX3tgoxResO/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1xkC7ylPfMa3z4sxYzTfP3YX3tgoxResO)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xkC7ylPfMa3z4sxYzTfP3YX3tgoxResO#report)
 
 PPT
@@ -831,7 +831,7 @@ Antiprotozoal Drugs630 KB[Open Antiprotozoal Drugs](https://drive.google.com/fil
 
 Updated 2021-11-16 · 630 KB
 
-[PPT ](https://drive.google.com/file/d/11eU9wJ5oQHKLIjDZsZf0861O--55fqNv/view)
+[PPTX ](https://drive.google.com/file/d/11eU9wJ5oQHKLIjDZsZf0861O--55fqNv/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=11eU9wJ5oQHKLIjDZsZf0861O--55fqNv)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11eU9wJ5oQHKLIjDZsZf0861O--55fqNv#report)
 
 PPT
@@ -839,7 +839,7 @@ Beta-lactam antibiotics1.6 MB[Open Beta-lactam antibiotics](https://drive.google
 
 Updated 2021-11-10 · 1.6 MB
 
-[PPT ](https://drive.google.com/file/d/1BYsaRqNeDNU7BqRBGelGYaWaIAA3aTj5/view)
+[PPTX ](https://drive.google.com/file/d/1BYsaRqNeDNU7BqRBGelGYaWaIAA3aTj5/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1BYsaRqNeDNU7BqRBGelGYaWaIAA3aTj5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BYsaRqNeDNU7BqRBGelGYaWaIAA3aTj5#report)
 
 PPT
@@ -855,7 +855,7 @@ Chemotherapy Class 21.1 MB[Open Chemotherapy Class 2](https://drive.google.com/f
 
 Updated 2021-11-10 · 1.1 MB
 
-[PPT ](https://drive.google.com/file/d/1OiZ7VYhHHvuR_kYylgdSeyX3Ux68Cean/view)
+[PPTX ](https://drive.google.com/file/d/1OiZ7VYhHHvuR_kYylgdSeyX3Ux68Cean/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1OiZ7VYhHHvuR_kYylgdSeyX3Ux68Cean)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1OiZ7VYhHHvuR_kYylgdSeyX3Ux68Cean#report)
 
 PPT
@@ -863,7 +863,7 @@ Chemotherapy – An Introduction535 KB[Open Chemotherapy – An Introduction](ht
 
 Updated 2021-11-16 · 535 KB
 
-[PPT ](https://drive.google.com/file/d/1sXQwKuZub-fwtCav8ychb1cJWpEZxOBR/view)
+[PPTX ](https://drive.google.com/file/d/1sXQwKuZub-fwtCav8ychb1cJWpEZxOBR/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1sXQwKuZub-fwtCav8ychb1cJWpEZxOBR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sXQwKuZub-fwtCav8ychb1cJWpEZxOBR#report)
 
 PPT
@@ -871,7 +871,7 @@ CNS STIMULANTS792 KB[Open CNS STIMULANTS](https://drive.google.com/file/d/10QEPn
 
 Updated 2021-11-10 · 792 KB
 
-[PPT ](https://drive.google.com/file/d/10QEPn3q1_SuX4ugZgytBPxSZwaZ-XC-I/view)
+[PPTX ](https://drive.google.com/file/d/10QEPn3q1_SuX4ugZgytBPxSZwaZ-XC-I/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=10QEPn3q1_SuX4ugZgytBPxSZwaZ-XC-I)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10QEPn3q1_SuX4ugZgytBPxSZwaZ-XC-I#report)
 
 PPT
@@ -879,7 +879,7 @@ Drugs acting on Urogenital System966 KB[Open Drugs acting on Urogenital System](
 
 Updated 2022-02-08 · 966 KB
 
-[PPT ](https://drive.google.com/file/d/1btKReX-ZNx6XlkJ_xqPm4gnGkxhjEZHe/view)
+[PPTX ](https://drive.google.com/file/d/1btKReX-ZNx6XlkJ_xqPm4gnGkxhjEZHe/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1btKReX-ZNx6XlkJ_xqPm4gnGkxhjEZHe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1btKReX-ZNx6XlkJ_xqPm4gnGkxhjEZHe#report)
 
 PPT
@@ -887,7 +887,7 @@ Fluoride Poisoning48 KB[Open Fluoride Poisoning](https://drive.google.com/file/d
 
 Updated 2025-02-01 · 48 KB
 
-[PPT ](https://drive.google.com/file/d/1uSoeZ89eycwsVxxaUnyBBasp9Ay0xMoB/view)
+[PPTX ](https://drive.google.com/file/d/1uSoeZ89eycwsVxxaUnyBBasp9Ay0xMoB/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1uSoeZ89eycwsVxxaUnyBBasp9Ay0xMoB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1uSoeZ89eycwsVxxaUnyBBasp9Ay0xMoB#report)
 
 PPT
@@ -895,7 +895,7 @@ General Toxicology 17.09.2021121 KB[Open General Toxicology 17.09.2021](https://
 
 Updated 2021-11-16 · 121 KB
 
-[PPT ](https://drive.google.com/file/d/1NZpr1-rBn0_T6QDORzsinl_7mAoTU3sl/view)
+[PPTX ](https://drive.google.com/file/d/1NZpr1-rBn0_T6QDORzsinl_7mAoTU3sl/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1NZpr1-rBn0_T6QDORzsinl_7mAoTU3sl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NZpr1-rBn0_T6QDORzsinl_7mAoTU3sl#report)
 
 PPT
@@ -903,7 +903,7 @@ Macrolides and Lincosamides848 KB[Open Macrolides and Lincosamides](https://driv
 
 Updated 2021-11-16 · 848 KB
 
-[PPT ](https://drive.google.com/file/d/18IFk-e8G2gVWRlgVV0bd2UlzU147HRed/view)
+[PPTX ](https://drive.google.com/file/d/18IFk-e8G2gVWRlgVV0bd2UlzU147HRed/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=18IFk-e8G2gVWRlgVV0bd2UlzU147HRed)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18IFk-e8G2gVWRlgVV0bd2UlzU147HRed#report)
 
 PPT
@@ -911,7 +911,7 @@ Nitrite poisoning & Urea343 KB[Open Nitrite poisoning & Urea](https://drive.goog
 
 Updated 2021-11-16 · 343 KB
 
-[PPT ](https://drive.google.com/file/d/1ZyA7eA07Hu8gKfbUc5NF2AjTzGBoWXSi/view)
+[PPTX ](https://drive.google.com/file/d/1ZyA7eA07Hu8gKfbUc5NF2AjTzGBoWXSi/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1ZyA7eA07Hu8gKfbUc5NF2AjTzGBoWXSi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ZyA7eA07Hu8gKfbUc5NF2AjTzGBoWXSi#report)
 
 PPT
@@ -919,7 +919,7 @@ Other Antibacterials and Urinary Antiseptics314 KB[Open Other Antibacterials and
 
 Updated 2021-11-10 · 314 KB
 
-[PPT ](https://drive.google.com/file/d/1DwU5_IDEE705rRrh8HoGEzAPQoRyTI7w/view)
+[PPTX ](https://drive.google.com/file/d/1DwU5_IDEE705rRrh8HoGEzAPQoRyTI7w/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1DwU5_IDEE705rRrh8HoGEzAPQoRyTI7w)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DwU5_IDEE705rRrh8HoGEzAPQoRyTI7w#report)
 
 PPT
@@ -927,7 +927,7 @@ Photosensitization197 KB[Open Photosensitization](https://drive.google.com/file/
 
 Updated 2021-11-25 · 197 KB
 
-[PPT ](https://drive.google.com/file/d/1kJWbk2M1hij_z08eXzZl4iYHsxkYhopb/view)
+[PPTX ](https://drive.google.com/file/d/1kJWbk2M1hij_z08eXzZl4iYHsxkYhopb/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1kJWbk2M1hij_z08eXzZl4iYHsxkYhopb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kJWbk2M1hij_z08eXzZl4iYHsxkYhopb#report)
 
 PPT
@@ -935,7 +935,7 @@ Phytotoxins56 KB[Open Phytotoxins](https://drive.google.com/file/d/13cITgL1uMFZu
 
 Updated 2021-11-25 · 56 KB
 
-[PPT ](https://drive.google.com/file/d/13cITgL1uMFZuhvIdWsBzvfA5hFGGX-tf/view)
+[PPTX ](https://drive.google.com/file/d/13cITgL1uMFZuhvIdWsBzvfA5hFGGX-tf/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=13cITgL1uMFZuhvIdWsBzvfA5hFGGX-tf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13cITgL1uMFZuhvIdWsBzvfA5hFGGX-tf#report)
 
 PPT
@@ -943,7 +943,7 @@ Phytotoxins-III2.3 MB[Open Phytotoxins-III](https://drive.google.com/file/d/1CIe
 
 Updated 2021-11-25 · 2.3 MB
 
-[PPT ](https://drive.google.com/file/d/1CIeDu6rjpnxOnE-ZwG91-ZWl26os2UqY/view)
+[PPTX ](https://drive.google.com/file/d/1CIeDu6rjpnxOnE-ZwG91-ZWl26os2UqY/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1CIeDu6rjpnxOnE-ZwG91-ZWl26os2UqY)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1CIeDu6rjpnxOnE-ZwG91-ZWl26os2UqY#report)
 
 PPT
@@ -951,7 +951,7 @@ Phytoxins-II55 KB[Open Phytoxins-II](https://drive.google.com/file/d/1oj9sROfBkb
 
 Updated 2021-11-25 · 55 KB
 
-[PPT ](https://drive.google.com/file/d/1oj9sROfBkbj_BtGQH_H1sXt7V_kdrrz7/view)
+[PPTX ](https://drive.google.com/file/d/1oj9sROfBkbj_BtGQH_H1sXt7V_kdrrz7/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1oj9sROfBkbj_BtGQH_H1sXt7V_kdrrz7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oj9sROfBkbj_BtGQH_H1sXt7V_kdrrz7#report)
 
 PPT
@@ -959,7 +959,7 @@ Quinolones140 KB[Open Quinolones](https://drive.google.com/file/d/1YPb1nhB1Q2T1b
 
 Updated 2021-11-16 · 140 KB
 
-[PPT ](https://drive.google.com/file/d/1YPb1nhB1Q2T1baT9cSeXAhqNCTg8ndAd/view)
+[PPTX ](https://drive.google.com/file/d/1YPb1nhB1Q2T1baT9cSeXAhqNCTg8ndAd/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1YPb1nhB1Q2T1baT9cSeXAhqNCTg8ndAd)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YPb1nhB1Q2T1baT9cSeXAhqNCTg8ndAd#report)
 
 PPT
@@ -967,7 +967,7 @@ Residual Toxicology and Food Additives 18.11.202199 KB[Open Residual Toxicology 
 
 Updated 2021-11-25 · 99 KB
 
-[PPT ](https://drive.google.com/file/d/1uVRWXToWI-cGIktGhbolUyrglVHVohx9/view)
+[PPTX ](https://drive.google.com/file/d/1uVRWXToWI-cGIktGhbolUyrglVHVohx9/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1uVRWXToWI-cGIktGhbolUyrglVHVohx9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1uVRWXToWI-cGIktGhbolUyrglVHVohx9#report)
 
 PPT
@@ -975,7 +975,7 @@ Selenium Poisoning57 KB[Open Selenium Poisoning](https://drive.google.com/file/d
 
 Updated 2021-11-16 · 57 KB
 
-[PPT ](https://drive.google.com/file/d/1Ihz5X2U4MjPCJLU6QgWFYaPKejlFeCKS/view)
+[PPTX ](https://drive.google.com/file/d/1Ihz5X2U4MjPCJLU6QgWFYaPKejlFeCKS/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1Ihz5X2U4MjPCJLU6QgWFYaPKejlFeCKS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ihz5X2U4MjPCJLU6QgWFYaPKejlFeCKS#report)
 
 PPT
@@ -983,7 +983,7 @@ Sodium Chloride Poisoning51 KB[Open Sodium Chloride Poisoning](https://drive.goo
 
 Updated 2021-11-16 · 51 KB
 
-[PPT ](https://drive.google.com/file/d/1l43BDFhYqTjHPLYJUxbHss_oaYEf9bMP/view)
+[PPTX ](https://drive.google.com/file/d/1l43BDFhYqTjHPLYJUxbHss_oaYEf9bMP/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1l43BDFhYqTjHPLYJUxbHss_oaYEf9bMP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1l43BDFhYqTjHPLYJUxbHss_oaYEf9bMP#report)
 
 PPT
@@ -991,7 +991,7 @@ Sulphonamides, Diaminopyrimidines and Potentiated Sulphonamides856 KB[Open Sulph
 
 Updated 2021-11-16 · 856 KB
 
-[PPT ](https://drive.google.com/file/d/1EFvnjugPFLGdFjnYTzyeMHrMmAZZ4AMF/view)
+[PPTX ](https://drive.google.com/file/d/1EFvnjugPFLGdFjnYTzyeMHrMmAZZ4AMF/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1EFvnjugPFLGdFjnYTzyeMHrMmAZZ4AMF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EFvnjugPFLGdFjnYTzyeMHrMmAZZ4AMF#report)
 
 PPT
@@ -999,7 +999,7 @@ Tetracyclines and Amphenicols630 KB[Open Tetracyclines and Amphenicols](https://
 
 Updated 2021-11-10 · 630 KB
 
-[PPT ](https://drive.google.com/file/d/1goUmoJ1bagEi7s1fMQD47p5MSq6qs30w/view)
+[PPTX ](https://drive.google.com/file/d/1goUmoJ1bagEi7s1fMQD47p5MSq6qs30w/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1goUmoJ1bagEi7s1fMQD47p5MSq6qs30w)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1goUmoJ1bagEi7s1fMQD47p5MSq6qs30w#report)
 
 PPT
@@ -1007,7 +1007,7 @@ Toxicodynamics 30.09.202182 KB[Open Toxicodynamics 30.09.2021](https://drive.goo
 
 Updated 2021-11-16 · 82 KB
 
-[PPT ](https://drive.google.com/file/d/1nQImMKXMGrxkrR3HsimIWzB318bGWRuX/view)
+[PPTX ](https://drive.google.com/file/d/1nQImMKXMGrxkrR3HsimIWzB318bGWRuX/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1nQImMKXMGrxkrR3HsimIWzB318bGWRuX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nQImMKXMGrxkrR3HsimIWzB318bGWRuX#report)
 
 PPT
@@ -1015,7 +1015,7 @@ Toxicokinetics 24.09.202178 KB[Open Toxicokinetics 24.09.2021](https://drive.goo
 
 Updated 2021-11-16 · 78 KB
 
-[PPT ](https://drive.google.com/file/d/1aoyV7uiy5C4KcFcufFVVjEjUNau48gPi/view)
+[PPTX ](https://drive.google.com/file/d/1aoyV7uiy5C4KcFcufFVVjEjUNau48gPi/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1aoyV7uiy5C4KcFcufFVVjEjUNau48gPi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1aoyV7uiy5C4KcFcufFVVjEjUNau48gPi#report)
 
 PPT
@@ -1023,7 +1023,7 @@ Treatment of Poisoning 01.10.2021521 KB[Open Treatment of Poisoning 01.10.2021](
 
 Updated 2021-11-16 · 521 KB
 
-[PPT ](https://drive.google.com/file/d/1fZzXhmi-293Xn_8zVIecnQd9MyTHFoMw/view)
+[PPTX ](https://drive.google.com/file/d/1fZzXhmi-293Xn_8zVIecnQd9MyTHFoMw/view)
 [Download PPT](https://drive.google.com/uc?export=download&id=1fZzXhmi-293Xn_8zVIecnQd9MyTHFoMw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fZzXhmi-293Xn_8zVIecnQd9MyTHFoMw#report)
 
 ## Images
@@ -1035,7 +1035,7 @@ images20 KB[Open images](https://drive.google.com/file/d/1tlxpyDEBBSy-QQx0yceZCs
 
 Updated 2022-02-27 · 20 KB
 
-[IMG ](https://drive.google.com/file/d/1tlxpyDEBBSy-QQx0yceZCsq7JXe7Q1wA/view)
+[JPEG ](https://drive.google.com/file/d/1tlxpyDEBBSy-QQx0yceZCsq7JXe7Q1wA/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1tlxpyDEBBSy-QQx0yceZCsq7JXe7Q1wA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1tlxpyDEBBSy-QQx0yceZCsq7JXe7Q1wA#report)
 
 IMG
@@ -1043,7 +1043,7 @@ images23 KB[Open images](https://drive.google.com/file/d/1AOoTjOfjgeLP19copGcQjr
 
 Updated 2022-02-27 · 23 KB
 
-[IMG ](https://drive.google.com/file/d/1AOoTjOfjgeLP19copGcQjrIvDfMSrmjv/view)
+[JPEG ](https://drive.google.com/file/d/1AOoTjOfjgeLP19copGcQjrIvDfMSrmjv/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1AOoTjOfjgeLP19copGcQjrIvDfMSrmjv)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AOoTjOfjgeLP19copGcQjrIvDfMSrmjv#report)
 
 IMG
@@ -1051,7 +1051,7 @@ images11 KB[Open images](https://drive.google.com/file/d/1xaIZiK9Tk9758NUcM2W-KP
 
 Updated 2022-02-27 · 11 KB
 
-[IMG ](https://drive.google.com/file/d/1xaIZiK9Tk9758NUcM2W-KP2cXyMXpWtH/view)
+[JPEG ](https://drive.google.com/file/d/1xaIZiK9Tk9758NUcM2W-KP2cXyMXpWtH/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1xaIZiK9Tk9758NUcM2W-KP2cXyMXpWtH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xaIZiK9Tk9758NUcM2W-KP2cXyMXpWtH#report)
 
 IMG
@@ -1059,7 +1059,7 @@ images19 KB[Open images](https://drive.google.com/file/d/1ixJYM9InNcG_E0dpEwvTZi
 
 Updated 2022-02-27 · 19 KB
 
-[IMG ](https://drive.google.com/file/d/1ixJYM9InNcG_E0dpEwvTZi3xohjzc6UW/view)
+[JPEG ](https://drive.google.com/file/d/1ixJYM9InNcG_E0dpEwvTZi3xohjzc6UW/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1ixJYM9InNcG_E0dpEwvTZi3xohjzc6UW)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ixJYM9InNcG_E0dpEwvTZi3xohjzc6UW#report)
 
 IMG
@@ -1067,7 +1067,7 @@ images30 KB[Open images](https://drive.google.com/file/d/1zqlQmeRVKN_EGSXIhO6_t5
 
 Updated 2022-02-27 · 30 KB
 
-[IMG ](https://drive.google.com/file/d/1zqlQmeRVKN_EGSXIhO6_t5BO-fmcVegR/view)
+[JPEG ](https://drive.google.com/file/d/1zqlQmeRVKN_EGSXIhO6_t5BO-fmcVegR/view)
 [Download IMG](https://drive.google.com/uc?export=download&id=1zqlQmeRVKN_EGSXIhO6_t5BO-fmcVegR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1zqlQmeRVKN_EGSXIhO6_t5BO-fmcVegR#report)
 
 IMG
@@ -1075,7 +1075,7 @@ Photo set — Veterinary Pharmacology and Toxicology — 48 images48.7 MB[Open P
 
 Updated 2022-03-03 · 48.7 MB
 
-[IMG ](https://drive.google.com/drive/folders/1KofjLCy_ntOPCZjGD5f3MA8HAryUBp4N)
+[Images ](https://drive.google.com/drive/folders/1KofjLCy_ntOPCZjGD5f3MA8HAryUBp4N)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1KofjLCy_ntOPCZjGD5f3MA8HAryUBp4N#report)
 
 ## Extras
@@ -1263,7 +1263,7 @@ VID-20211028-WA005512.0 MB[Open VID-20211028-WA0055](https://drive.google.com/fi
 
 Updated 2021-10-31 · 12.0 MB
 
-[FILE ](https://drive.google.com/file/d/1-s4NzF_KUk5OKAoymQF4IPIwyPaAl5qL/view)
+[MP4 ](https://drive.google.com/file/d/1-s4NzF_KUk5OKAoymQF4IPIwyPaAl5qL/view)
 [Download FILE](https://drive.google.com/uc?export=download&id=1-s4NzF_KUk5OKAoymQF4IPIwyPaAl5qL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-s4NzF_KUk5OKAoymQF4IPIwyPaAl5qL#report)
 
 PDF
@@ -1285,6 +1285,8 @@ Updated 2021-11-10 · 1.4 MB
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
 What to revise in this subject 
+
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 
 - General pharmacology and pharmacokinetics
 - Systemic pharmacology
