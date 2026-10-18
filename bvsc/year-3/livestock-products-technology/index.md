@@ -6,13 +6,13 @@
 
 Livestock Products Technology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-82 resources · 3rd Year
+63 resources · 3rd Year
 
 Search this collection
 
 ## Notes
 
-49
+35
 
 DOC
 Abbattoir and Meat LPT-3123.5 MB[Open Abbattoir and Meat LPT-312](https://drive.google.com/file/d/1JKBnnG-sjKB1wq3Ptv-AyRYd0EBCwfow/view)
@@ -47,14 +47,6 @@ Updated 2021-11-10 · 4.5 MB
 [Download PDF](https://drive.google.com/uc?export=download&id=1awlwBfnjxLgRirodmVevXUPTV2S05k7O)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1awlwBfnjxLgRirodmVevXUPTV2S05k7O#report)
 
 PDF
-Ageing of Meat (PPT)957 KB[Open Ageing of Meat (PPT)](https://drive.google.com/file/d/1KpjCuFEBxM3vARDCIrorO2G7zdYxjoHO/view)
-
-Updated 2021-11-25 · 957 KB
-
-[PDF ](https://drive.google.com/file/d/1KpjCuFEBxM3vARDCIrorO2G7zdYxjoHO/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1KpjCuFEBxM3vARDCIrorO2G7zdYxjoHO)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KpjCuFEBxM3vARDCIrorO2G7zdYxjoHO#report)
-
-PDF
 Ageing or Conditioning of Meat261 KB[Open Ageing or Conditioning of Meat](https://drive.google.com/file/d/1enwYHqaLl8xVYDUVOnDD68FZcbEvFxqi/view)
 
 Updated 2021-11-25 · 261 KB
@@ -77,22 +69,6 @@ Updated 2021-11-25 · 196 KB
 
 [PDF ](https://drive.google.com/file/d/1MzgLLsHST40abl7twl6oFyziRmBBdz5G/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1MzgLLsHST40abl7twl6oFyziRmBBdz5G)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MzgLLsHST40abl7twl6oFyziRmBBdz5G#report)
-
-PDF
-Eating quality of meat (PPT)2.3 MB[Open Eating quality of meat (PPT)](https://drive.google.com/file/d/1JYDH4XywYtfAx0vG_Rqz9n57qXmTDvnH/view)
-
-Updated 2021-11-25 · 2.3 MB
-
-[PDF ](https://drive.google.com/file/d/1JYDH4XywYtfAx0vG_Rqz9n57qXmTDvnH/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1JYDH4XywYtfAx0vG_Rqz9n57qXmTDvnH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JYDH4XywYtfAx0vG_Rqz9n57qXmTDvnH#report)
-
-PDF
-Egg Structure and Composition3.8 MB[Open Egg Structure and Composition](https://drive.google.com/file/d/1Nxuk59jxOXMLX2u4slzn73qAYK5OL-xD/view)
-
-Updated 2021-12-27 · 3.8 MB
-
-[PDF ](https://drive.google.com/file/d/1Nxuk59jxOXMLX2u4slzn73qAYK5OL-xD/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1Nxuk59jxOXMLX2u4slzn73qAYK5OL-xD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Nxuk59jxOXMLX2u4slzn73qAYK5OL-xD#report)
 
 PDF
 Enrobed Meat Products63 KB[Open Enrobed Meat Products](https://drive.google.com/file/d/1_JVgBONI_ulO6kBW11qJMWXNa86nx1ZJ/view)
@@ -125,14 +101,6 @@ Updated 2021-12-12 · 223 KB
 
 [PDF ](https://drive.google.com/file/d/1ImXKiP3NKIc-bkhH2zNxaEfIpxpswTMh/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1ImXKiP3NKIc-bkhH2zNxaEfIpxpswTMh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ImXKiP3NKIc-bkhH2zNxaEfIpxpswTMh#report)
-
-PDF
-Fraudulent Substitution of Meat and its Recognition (PPT)1.1 MB[Open Fraudulent Substitution of Meat and its Recognition (PPT)](https://drive.google.com/file/d/1XSDPBDrYiUblIth40AbBuQUkr4wVGlB9/view)
-
-Updated 2021-12-14 · 1.1 MB
-
-[PDF ](https://drive.google.com/file/d/1XSDPBDrYiUblIth40AbBuQUkr4wVGlB9/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1XSDPBDrYiUblIth40AbBuQUkr4wVGlB9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XSDPBDrYiUblIth40AbBuQUkr4wVGlB9#report)
 
 PDF
 Fresh Meat Properties914 KB[Open Fresh Meat Properties](https://drive.google.com/file/d/1gww0XRB4fxTamFSQJ4F3sbYcY5YQSU65/view)
@@ -207,14 +175,6 @@ Updated 2026-02-16 · 3.8 MB
 [Download DOC](https://drive.google.com/uc?export=download&id=17ObgUXGGAd5KSJqIJb-5sXULgt7HMEBk)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17ObgUXGGAd5KSJqIJb-5sXULgt7HMEBk#report)
 
 PDF
-Modern Processing Technologies of Meat (PPT)5.7 MB[Open Modern Processing Technologies of Meat (PPT)](https://drive.google.com/file/d/1HEISKfGfZQ9l6z4qPyScl22XLk2xYvLm/view)
-
-Updated 2021-12-11 · 5.7 MB
-
-[PDF ](https://drive.google.com/file/d/1HEISKfGfZQ9l6z4qPyScl22XLk2xYvLm/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1HEISKfGfZQ9l6z4qPyScl22XLk2xYvLm)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HEISKfGfZQ9l6z4qPyScl22XLk2xYvLm#report)
-
-PDF
 Modern processing technologies of meat and meat products841 KB[Open Modern processing technologies of meat and meat products](https://drive.google.com/file/d/1M4rii99lMfPCycOJlyTzgEmXwuBU4VoH/view)
 
 Updated 2021-12-13 · 841 KB
@@ -254,8 +214,6 @@ Updated 2022-01-08 · 106 KB
 [PDF ](https://drive.google.com/file/d/1nChHRHx2FEDhg2NEmKTvn22VH3RzIZSx/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1nChHRHx2FEDhg2NEmKTvn22VH3RzIZSx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nChHRHx2FEDhg2NEmKTvn22VH3RzIZSx#report)
 
-Show 19 more 19 remaining
-
 PDF
 Packaging of meat and meat products201 KB[Open Packaging of meat and meat products](https://drive.google.com/file/d/10IwCHZP1VFinI0PN1fC41VgRcRmpBjpZ/view)
 
@@ -265,36 +223,12 @@ Updated 2022-01-05 · 201 KB
 [Download PDF](https://drive.google.com/uc?export=download&id=10IwCHZP1VFinI0PN1fC41VgRcRmpBjpZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10IwCHZP1VFinI0PN1fC41VgRcRmpBjpZ#report)
 
 PDF
-Packaging of meat and meat products (PPT)1.4 MB[Open Packaging of meat and meat products (PPT)](https://drive.google.com/file/d/1g4LySWuG1pbnTfA6kifp8iqV32xqkqpZ/view)
-
-Updated 2021-12-27 · 1.4 MB
-
-[PDF ](https://drive.google.com/file/d/1g4LySWuG1pbnTfA6kifp8iqV32xqkqpZ/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1g4LySWuG1pbnTfA6kifp8iqV32xqkqpZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g4LySWuG1pbnTfA6kifp8iqV32xqkqpZ#report)
-
-PDF
 Physico-chemical Properties of Meat123 KB[Open Physico-chemical Properties of Meat](https://drive.google.com/file/d/1lU04mOvyJpEvxR3VNQfkgN6BOrcnFIwh/view)
 
 Updated 2022-01-05 · 123 KB
 
 [PDF ](https://drive.google.com/file/d/1lU04mOvyJpEvxR3VNQfkgN6BOrcnFIwh/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1lU04mOvyJpEvxR3VNQfkgN6BOrcnFIwh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lU04mOvyJpEvxR3VNQfkgN6BOrcnFIwh#report)
-
-PDF
-Preparation of ice-cream240 KB[Open Preparation of ice-cream](https://drive.google.com/file/d/1EijVgf5al767dtZva0gGQKBOGuxK5QKB/view)
-
-Updated 2022-02-16 · 240 KB
-
-[PDF ](https://drive.google.com/file/d/1EijVgf5al767dtZva0gGQKBOGuxK5QKB/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1EijVgf5al767dtZva0gGQKBOGuxK5QKB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EijVgf5al767dtZva0gGQKBOGuxK5QKB#report)
-
-PDF
-Preparation of meat products9.7 MB[Open Preparation of meat products](https://drive.google.com/file/d/1SyfC6JGy9ma10c-jP4BX_Y8kXaP9X32d/view)
-
-Updated 2021-12-27 · 9.7 MB
-
-[PDF ](https://drive.google.com/file/d/1SyfC6JGy9ma10c-jP4BX_Y8kXaP9X32d/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1SyfC6JGy9ma10c-jP4BX_Y8kXaP9X32d)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1SyfC6JGy9ma10c-jP4BX_Y8kXaP9X32d#report)
 
 PDF
 Preservation and Maintenance of Eggs162 KB[Open Preservation and Maintenance of Eggs](https://drive.google.com/file/d/1buVnzO7rjSyerBmFvXaXY-5Hp38s1Tm5/view)
@@ -313,28 +247,14 @@ Updated 2021-12-02 · 748 KB
 [Download PDF](https://drive.google.com/uc?export=download&id=19_u-O7CkVpnhckY-at3NMW7IX-XygPlQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19_u-O7CkVpnhckY-at3NMW7IX-XygPlQ#report)
 
 PDF
-Preservation of meat (PPT)7.7 MB[Open Preservation of meat (PPT)](https://drive.google.com/file/d/1vBWn2u60O_bqaZoVCkFDP291TuGZRJ1-/view)
-
-Updated 2021-12-03 · 7.7 MB
-
-[PDF ](https://drive.google.com/file/d/1vBWn2u60O_bqaZoVCkFDP291TuGZRJ1-/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1vBWn2u60O_bqaZoVCkFDP291TuGZRJ1-)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1vBWn2u60O_bqaZoVCkFDP291TuGZRJ1-#report)
-
-PDF
-Properties of fresh meat (PPT)2.5 MB[Open Properties of fresh meat (PPT)](https://drive.google.com/file/d/1nJEVo1omcJll8o8wFvIHAPHCxgGTRL8N/view)
-
-Updated 2021-11-25 · 2.5 MB
-
-[PDF ](https://drive.google.com/file/d/1nJEVo1omcJll8o8wFvIHAPHCxgGTRL8N/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1nJEVo1omcJll8o8wFvIHAPHCxgGTRL8N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nJEVo1omcJll8o8wFvIHAPHCxgGTRL8N#report)
-
-PDF
 Prospect of Meat Industry in India90 KB[Open Prospect of Meat Industry in India](https://drive.google.com/file/d/1fLZ8hi_RViMqLfr83YAUU4ND9MM5hfgE/view)
 
 Updated 2022-01-09 · 90 KB
 
 [PDF ](https://drive.google.com/file/d/1fLZ8hi_RViMqLfr83YAUU4ND9MM5hfgE/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1fLZ8hi_RViMqLfr83YAUU4ND9MM5hfgE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fLZ8hi_RViMqLfr83YAUU4ND9MM5hfgE#report)
+
+Show 5 more 5 remaining
 
 PDF
 Sensory Evaluation of Meat and Meat Products201 KB[Open Sensory Evaluation of Meat and Meat Products](https://drive.google.com/file/d/1MneMdMnIvLrlbbyYij87udaC_yeDV1Ey/view)
@@ -353,44 +273,12 @@ Updated 2021-11-10 · 1.8 MB
 [Download PDF](https://drive.google.com/uc?export=download&id=1RIem0ICAcev-4thtVnYLxtxjO0ccLY8s)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RIem0ICAcev-4thtVnYLxtxjO0ccLY8s#report)
 
 PDF
-Structure and Composition of Muscles7.6 MB[Open Structure and Composition of Muscles](https://drive.google.com/file/d/1ybphHeP_X-OHWplptpQeP55bwrnkWWHZ/view)
-
-Updated 2021-11-09 · 7.6 MB
-
-[PDF ](https://drive.google.com/file/d/1ybphHeP_X-OHWplptpQeP55bwrnkWWHZ/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1ybphHeP_X-OHWplptpQeP55bwrnkWWHZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ybphHeP_X-OHWplptpQeP55bwrnkWWHZ#report)
-
-PDF
-Structure and Composition of Muscles (PPT)7.6 MB[Open Structure and Composition of Muscles (PPT)](https://drive.google.com/file/d/1l11Sb97sriRxtvmoIfHf6WkXAbgaUaBh/view)
-
-Updated 2021-11-09 · 7.6 MB
-
-[PDF ](https://drive.google.com/file/d/1l11Sb97sriRxtvmoIfHf6WkXAbgaUaBh/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1l11Sb97sriRxtvmoIfHf6WkXAbgaUaBh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1l11Sb97sriRxtvmoIfHf6WkXAbgaUaBh#report)
-
-PDF
 Structure, Composition and Nutritive value of Eggs36 KB[Open Structure, Composition and Nutritive value of Eggs](https://drive.google.com/file/d/1VGZR6HrszuNuOk61yFx-kAkIjc7u1jRw/view)
 
 Updated 2022-01-06 · 36 KB
 
 [PDF ](https://drive.google.com/file/d/1VGZR6HrszuNuOk61yFx-kAkIjc7u1jRw/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1VGZR6HrszuNuOk61yFx-kAkIjc7u1jRw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VGZR6HrszuNuOk61yFx-kAkIjc7u1jRw#report)
-
-PDF
-The Mechanism of Muscle Contraction2.0 MB[Open The Mechanism of Muscle Contraction](https://drive.google.com/file/d/1Kw51sm7mlJCXA3TGvxiIAAjZmeSLmSEu/view)
-
-Updated 2021-11-11 · 2.0 MB
-
-[PDF ](https://drive.google.com/file/d/1Kw51sm7mlJCXA3TGvxiIAAjZmeSLmSEu/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1Kw51sm7mlJCXA3TGvxiIAAjZmeSLmSEu)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Kw51sm7mlJCXA3TGvxiIAAjZmeSLmSEu#report)
-
-PDF
-The Mechanism of Muscle Contraction (PPT)2.0 MB[Open The Mechanism of Muscle Contraction (PPT)](https://drive.google.com/file/d/1xcVZSXMhLa39kH6c50MeNeol8uZWBTZJ/view)
-
-Updated 2021-11-11 · 2.0 MB
-
-[PDF ](https://drive.google.com/file/d/1xcVZSXMhLa39kH6c50MeNeol8uZWBTZJ/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1xcVZSXMhLa39kH6c50MeNeol8uZWBTZJ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xcVZSXMhLa39kH6c50MeNeol8uZWBTZJ#report)
 
 PDF
 Tumbling and massaging of meat64 KB[Open Tumbling and massaging of meat](https://drive.google.com/file/d/19WAdwn4JhGQlKP41sJn3qnljk6bhsr0y/view)
@@ -491,50 +379,6 @@ Updated 2022-01-08 · 1.7 MB
 
 [PDF ](https://drive.google.com/file/d/1w_yxPABstAAL80nItsALIrYpRn-1jWeF/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1w_yxPABstAAL80nItsALIrYpRn-1jWeF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1w_yxPABstAAL80nItsALIrYpRn-1jWeF#report)
-
-## Slides
-
-5
-
-PPT
-Dairy Effluent Management ETP 30.07.20213.4 MB[Open Dairy Effluent Management ETP 30.07.2021](https://drive.google.com/file/d/1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_/view)
-
-Updated 2021-11-10 · 3.4 MB
-
-[PPTX ](https://drive.google.com/file/d/1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LSypG9NtULZbjb0E4Jy5Gn0QFuaX57E_#report)
-
-PPT
-Glossary Terms - Wool 06.11.20202.0 MB[Open Glossary Terms - Wool 06.11.2020](https://drive.google.com/file/d/1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6/view)
-
-Updated 2021-11-10 · 2.0 MB
-
-[PPTX ](https://drive.google.com/file/d/1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oJEd_uXui7CokW0QBxRro1V1Esh_hAo6#report)
-
-PPT
-HACCP GMP Cleaning & Sanitization 23.07.20213.2 MB[Open HACCP GMP Cleaning & Sanitization 23.07.2021](https://drive.google.com/file/d/1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0/view)
-
-Updated 2021-11-10 · 3.2 MB
-
-[PPTX ](https://drive.google.com/file/d/1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1e8Z4X9OidPLr38rFgxqcnP3KwP0Sy4V0#report)
-
-PPT
-Mozzarella Cheese 9.7.21175 KB[Open Mozzarella Cheese 9.7.21](https://drive.google.com/file/d/12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9/view)
-
-Updated 2021-11-10 · 175 KB
-
-[PPTX ](https://drive.google.com/file/d/12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12gfTv9OuyF8MpeKLMhmzUTNbkuVVzXC9#report)
-
-PPT
-Organic milk products-15.7.216.8 MB[Open Organic milk products-15.7.21](https://drive.google.com/file/d/1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN/view)
-
-Updated 2021-11-10 · 6.8 MB
-
-[PPTX ](https://drive.google.com/file/d/1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RHLgsUaBNDG4cYxs14mNFVc3epRWUjjN#report)
 
 ## Images
 

@@ -61,11 +61,11 @@ MCQs repeat. Your confidence doesn’t.
 
 Study smart. Because suffering manually is outdated.
 
-[Tools](https://notes.thatvetguy.net/study-tools/#charts-tables)[Tips](https://notes.thatvetguy.net/study-tools/#ai-guide)
-
-[CalculatorsComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Calculators)[Charts & Tables](https://notes.thatvetguy.net/study-tools/#charts-tables)[Templates & Formats](https://notes.thatvetguy.net/study-tools/#templates-formats)[Useful Links](https://notes.thatvetguy.net/study-tools/#useful-links)
+[Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
 [Use of AI for Vet Study](https://notes.thatvetguy.net/study-tools/#ai-guide)[Useful Free Apps](https://notes.thatvetguy.net/study-tools/#free-apps)[Organise Your Study Material](https://notes.thatvetguy.net/study-tools/#useful-tools)
+
+[1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/#road-map)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/#road-map)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/#road-map)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
 
 ## Clinical Resources
 

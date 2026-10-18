@@ -6,21 +6,13 @@
 
 Animal Nutrition notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-30 resources · 2nd Year
+21 resources · 2nd Year
 
 Search this collection
 
 ## Notes
 
-9
-
-PDF
-Animal breeding4.6 MB[Open Animal breeding](https://drive.google.com/file/d/1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0/view)
-
-Updated 2020-10-20 · 4.6 MB
-
-[PDF ](https://drive.google.com/file/d/1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-kbbRgD7HAFpdMu6jDnEEhHEpCV9yvq0#report)
+5
 
 PDF
 ANN Paper I lecture notes1.7 MB[Open ANN Paper I lecture notes](https://drive.google.com/file/d/1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK/view)
@@ -53,30 +45,6 @@ Updated 2020-06-26 · 30 KB
 
 [DOCX ](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)
 [Download DOC](https://drive.google.com/uc?export=download&id=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH#report)
-
-PDF
-Functions and Deficiencies of Vitamins and Minerals208 KB[Open Functions and Deficiencies of Vitamins and Minerals](https://drive.google.com/file/d/1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz/view)
-
-Updated 2020-05-12 · 208 KB
-
-[PDF ](https://drive.google.com/file/d/1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XV28PekRQ6ILuFCVi98y_zgHoXs-lzXz#report)
-
-PDF
-History of Animal Nutrition854 KB[Open History of Animal Nutrition](https://drive.google.com/file/d/1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2/view)
-
-Updated 2020-06-26 · 854 KB
-
-[PDF ](https://drive.google.com/file/d/1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-shzd5aduZ6mXCUn29jrWB8L0SUvr3d2#report)
-
-PDF
-Milk composition affecting factors444 KB[Open Milk composition affecting factors](https://drive.google.com/file/d/1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2/view)
-
-Updated 2020-06-26 · 444 KB
-
-[PDF ](https://drive.google.com/file/d/1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GHpQIFtDVdFFesarS2F6mRaWocDb_rD2#report)
 
 DOC
 Nutrient Requirement and Feeding of Pigs36 KB[Open Nutrient Requirement and Feeding of Pigs](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)
@@ -153,50 +121,6 @@ Updated 2019-07-17 · 27.4 MB
 
 [PDF ](https://drive.google.com/file/d/11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM#report)
-
-## Slides
-
-5
-
-PPT
-Feeding Management of Laying Hens 07.04.2020NEW6.4 MB[Open Feeding Management of Laying Hens 07.04.2020](https://drive.google.com/file/d/164NbP0n0ylRIAUAY4pyfonKDCw0SAclt/view)
-
-Updated 2026-10-06 · 6.4 MB
-
-[PPTX ](https://drive.google.com/file/d/164NbP0n0ylRIAUAY4pyfonKDCw0SAclt/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=164NbP0n0ylRIAUAY4pyfonKDCw0SAclt#report)
-
-PPT
-Feeding management of pigs3.7 MB[Open Feeding management of pigs](https://drive.google.com/file/d/1inejTwmm0gHTAxaDFEGqRnXApXmDSFum/view)
-
-Updated 2020-05-12 · 3.7 MB
-
-[PPTX ](https://drive.google.com/file/d/1inejTwmm0gHTAxaDFEGqRnXApXmDSFum/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1inejTwmm0gHTAxaDFEGqRnXApXmDSFum#report)
-
-PPT
-Feeding of Broilers and Layers3.6 MB[Open Feeding of Broilers and Layers](https://drive.google.com/file/d/11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy/view)
-
-Updated 2020-10-20 · 3.6 MB
-
-[PPT ](https://drive.google.com/file/d/11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11Il2FeYlUQ1SZB_CwHiAl73g9bWtGaSy#report)
-
-PPT
-NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL6.4 MB[Open NPN compounds -Dr.C.Kathirvelan, ANN VCRI NKL](https://drive.google.com/file/d/1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq/view)
-
-Updated 2020-04-16 · 6.4 MB
-
-[PPTX ](https://drive.google.com/file/d/1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JOlpgJDodNKe03e5GqRxzB4nzHVyVtpq#report)
-
-PPT
-Pet Animal Nutrition- Revised3.6 MB[Open Pet Animal Nutrition- Revised](https://drive.google.com/file/d/1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z/view)
-
-Updated 2020-10-20 · 3.6 MB
-
-[PPTX ](https://drive.google.com/file/d/1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YCrGdZnPDWGmvbSmZfVNMHrloisHAm3z#report)
 
 ## Images
 

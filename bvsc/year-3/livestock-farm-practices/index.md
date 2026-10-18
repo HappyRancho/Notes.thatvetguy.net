@@ -6,21 +6,9 @@
 
 Livestock Farm Practices notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-3 resources · 3rd Year
+2 resources · 3rd Year
 
 Search this collection
-
-## Slides
-
-1
-
-PPT
-LFP - Organic Farming948 KB[Open LFP - Organic Farming](https://drive.google.com/file/d/1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo/view)
-
-Updated 2021-11-10 · 948 KB
-
-[PPTX ](https://drive.google.com/file/d/1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1W24NV5T4g6se47xgG_3Cmz6E4Yz7_wfo#report)
 
 ## Images
 

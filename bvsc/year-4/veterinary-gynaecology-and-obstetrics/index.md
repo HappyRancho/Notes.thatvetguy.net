@@ -6,7 +6,7 @@
 
 Veterinary Gynaecology and Obstetrics notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-56 resources · 4th Year
+50 resources · 4th Year
 
 Search this collection
 
@@ -204,7 +204,7 @@ Updated 2021-04-16 · 17.7 MB
 
 ## Practical
 
-17
+16
 
 DOC
 164 KB[Open 1](https://drive.google.com/file/d/1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP/view)
@@ -326,14 +326,6 @@ Updated 2022-11-16 · 17.5 MB
 [PDF ](https://drive.google.com/file/d/1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1#report)
 
-PPT
-Selection of bulls2.7 MB[Open Selection of bulls](https://drive.google.com/file/d/1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX/view)
-
-Updated 2023-02-27 · 2.7 MB
-
-[PPTX ](https://drive.google.com/file/d/1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX#report)
-
 DOC
 Source11.4 MB[Open Source](https://drive.google.com/file/d/1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx/view)
 
@@ -377,50 +369,6 @@ Updated 2023-06-20 · 30.8 MB
 
 [PDF ](https://drive.google.com/file/d/18g2EULjGo5TFoAZ57aU5XQiuVI6BMCk0/view)
 [Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18g2EULjGo5TFoAZ57aU5XQiuVI6BMCk0#report)
-
-## Slides
-
-5
-
-PPT
-Determination of Canine Estrus Cycle4.5 MB[Open Determination of Canine Estrus Cycle](https://drive.google.com/file/d/1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f/view)
-
-Updated 2026-08-10 · 4.5 MB
-
-[PPTX ](https://drive.google.com/file/d/1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_ObUcNBwUmHSdWYPiqLJxq6kPfMuV9_f#report)
-
-PPT
-ESTROUS SYNCHRONIZATION2.0 MB[Open ESTROUS SYNCHRONIZATION](https://drive.google.com/file/d/1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz/view)
-
-Updated 2021-09-16 · 2.0 MB
-
-[PPTX ](https://drive.google.com/file/d/1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NSiUAF3ywx6UxrMk632aUJ-jmtakcbNz#report)
-
-PPT
-EUP, VH & PPRR4.0 MB[Open EUP, VH & PPRR](https://drive.google.com/file/d/15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ/view)
-
-Updated 2023-01-26 · 4.0 MB
-
-[PPTX ](https://drive.google.com/file/d/15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15prTBOyXm8RtKlvAgZ-f8dYoxuBUgzyQ#report)
-
-PPT
-Obstetrical Instruments and their use in Veterinary Obstetrics1.2 MB[Open Obstetrical Instruments and their use in Veterinary Obstetrics](https://drive.google.com/file/d/195zmIe6Gy9nUT1NIBozB_t47ipa53lho/view)
-
-Updated 2022-04-05 · 1.2 MB
-
-[PPTX ](https://drive.google.com/file/d/195zmIe6Gy9nUT1NIBozB_t47ipa53lho/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=195zmIe6Gy9nUT1NIBozB_t47ipa53lho)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=195zmIe6Gy9nUT1NIBozB_t47ipa53lho#report)
-
-PPT
-Silent Estrous and its Management183 KB[Open Silent Estrous and its Management](https://drive.google.com/file/d/1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo/view)
-
-Updated 2022-04-05 · 183 KB
-
-[PPTX ](https://drive.google.com/file/d/1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_0rwAKmSYfomcVZzwP8FNuXxHvXkVawo#report)
 
 ## Images
 

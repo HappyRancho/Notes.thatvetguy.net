@@ -6,13 +6,13 @@
 
 Veterinary Microbiology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
 
-74 resources · 2nd Year
+52 resources · 2nd Year
 
 Search this collection
 
 ## Notes
 
-12
+11
 
 PDF
 Animal Biotechnology1.3 MB[Open Animal Biotechnology](https://drive.google.com/file/d/1Cc2JVeW4Qf_JJVFJUCrCyVpNe3FCQd2g/view)
@@ -45,14 +45,6 @@ Updated 2020-10-20 · 5.7 MB
 
 [PDF ](https://drive.google.com/file/d/1ogP0GId4G-9lL93nSkh0QnDanFNl5uLr/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1ogP0GId4G-9lL93nSkh0QnDanFNl5uLr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ogP0GId4G-9lL93nSkh0QnDanFNl5uLr#report)
-
-PDF
-General Mycology2.9 MB[Open General Mycology](https://drive.google.com/file/d/11KALmD3BciMA3wk8XHqQlDstAQ_WfWB0/view)
-
-Updated 2018-11-08 · 2.9 MB
-
-[PDF ](https://drive.google.com/file/d/11KALmD3BciMA3wk8XHqQlDstAQ_WfWB0/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=11KALmD3BciMA3wk8XHqQlDstAQ_WfWB0)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11KALmD3BciMA3wk8XHqQlDstAQ_WfWB0#report)
 
 PDF
 General Veterinary Microbiology1.2 MB[Open General Veterinary Microbiology](https://drive.google.com/file/d/1RjcacmJMu9n2esDNa1cmFDI1dBX9ONWe/view)
@@ -345,178 +337,6 @@ Updated 2019-12-14 · 18.1 MB
 
 [PDF ](https://drive.google.com/file/d/1DuVzKtemgY7tbHEjUo3C7oxxOTFjpsMm/view)
 [Download PDF](https://drive.google.com/uc?export=download&id=1DuVzKtemgY7tbHEjUo3C7oxxOTFjpsMm)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DuVzKtemgY7tbHEjUo3C7oxxOTFjpsMm#report)
-
-## Slides
-
-21
-
-PPT
-Classification of Viruses2.3 MB[Open Classification of Viruses](https://drive.google.com/file/d/1m2cFrqGz28UrcBPAyA0En5SFpSqWiKoG/view)
-
-Updated 2026-04-11 · 2.3 MB
-
-[PPTX ](https://drive.google.com/file/d/1m2cFrqGz28UrcBPAyA0En5SFpSqWiKoG/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1m2cFrqGz28UrcBPAyA0En5SFpSqWiKoG)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m2cFrqGz28UrcBPAyA0En5SFpSqWiKoG#report)
-
-PPT
-Clostridium botulinum2.2 MB[Open Clostridium botulinum](https://drive.google.com/file/d/1WhePKcILYM1xluaMBgA1iws-y1oNPdqn/view)
-
-Updated 2021-01-03 · 2.2 MB
-
-[PPTX ](https://drive.google.com/file/d/1WhePKcILYM1xluaMBgA1iws-y1oNPdqn/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1WhePKcILYM1xluaMBgA1iws-y1oNPdqn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WhePKcILYM1xluaMBgA1iws-y1oNPdqn#report)
-
-PPT
-Clostridium chauvoei118 KB[Open Clostridium chauvoei](https://drive.google.com/file/d/1yjh0PdUolgm_nExUjVNDREPr-ixllGSo/view)
-
-Updated 2021-01-03 · 118 KB
-
-[PPTX ](https://drive.google.com/file/d/1yjh0PdUolgm_nExUjVNDREPr-ixllGSo/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1yjh0PdUolgm_nExUjVNDREPr-ixllGSo)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yjh0PdUolgm_nExUjVNDREPr-ixllGSo#report)
-
-PPT
-Clostridium edematiens225 KB[Open Clostridium edematiens](https://drive.google.com/file/d/16F-Yb0RKbv_1iosJEF0ScMYBvpQECi4t/view)
-
-Updated 2021-01-03 · 225 KB
-
-[PPTX ](https://drive.google.com/file/d/16F-Yb0RKbv_1iosJEF0ScMYBvpQECi4t/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=16F-Yb0RKbv_1iosJEF0ScMYBvpQECi4t)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16F-Yb0RKbv_1iosJEF0ScMYBvpQECi4t#report)
-
-PPT
-Clostridium septicum3.9 MB[Open Clostridium septicum](https://drive.google.com/file/d/1OQf5c3rDF74TXSN4My6NmEdXHp51mJjq/view)
-
-Updated 2021-01-03 · 3.9 MB
-
-[PPTX ](https://drive.google.com/file/d/1OQf5c3rDF74TXSN4My6NmEdXHp51mJjq/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1OQf5c3rDF74TXSN4My6NmEdXHp51mJjq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1OQf5c3rDF74TXSN4My6NmEdXHp51mJjq#report)
-
-PPT
-Clostridium tetani1.7 MB[Open Clostridium tetani](https://drive.google.com/file/d/1GavJO1L8s51nUXVXNrzi18_FcJSYlpEx/view)
-
-Updated 2021-01-03 · 1.7 MB
-
-[PPTX ](https://drive.google.com/file/d/1GavJO1L8s51nUXVXNrzi18_FcJSYlpEx/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1GavJO1L8s51nUXVXNrzi18_FcJSYlpEx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GavJO1L8s51nUXVXNrzi18_FcJSYlpEx#report)
-
-PPT
-Clostridium welchii628 KB[Open Clostridium welchii](https://drive.google.com/file/d/1bkwEMPgxxhQXbufYgea2JMxVLKAMNrrK/view)
-
-Updated 2021-01-03 · 628 KB
-
-[PPTX ](https://drive.google.com/file/d/1bkwEMPgxxhQXbufYgea2JMxVLKAMNrrK/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1bkwEMPgxxhQXbufYgea2JMxVLKAMNrrK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bkwEMPgxxhQXbufYgea2JMxVLKAMNrrK#report)
-
-PPT
-Escherichia coli7.7 MB[Open Escherichia coli](https://drive.google.com/file/d/11clgUx_bes5FoG23798q5x27WoNSprbl/view)
-
-Updated 2021-01-03 · 7.7 MB
-
-[PPTX ](https://drive.google.com/file/d/11clgUx_bes5FoG23798q5x27WoNSprbl/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=11clgUx_bes5FoG23798q5x27WoNSprbl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11clgUx_bes5FoG23798q5x27WoNSprbl#report)
-
-PPT
-Genetic and Non genetic viral Interaction - B.PUVARAJAN263 KB[Open Genetic and Non genetic viral Interaction - B.PUVARAJAN](https://drive.google.com/file/d/1KpeF6NQy4Ygj5xwcDppc5R2Tx16-BdWw/view)
-
-Updated 2020-10-20 · 263 KB
-
-[PPTX ](https://drive.google.com/file/d/1KpeF6NQy4Ygj5xwcDppc5R2Tx16-BdWw/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1KpeF6NQy4Ygj5xwcDppc5R2Tx16-BdWw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KpeF6NQy4Ygj5xwcDppc5R2Tx16-BdWw#report)
-
-PPT
-Immunology and Serology - 23.06.2020901 KB[Open Immunology and Serology - 23.06.2020](https://drive.google.com/file/d/1hPsvIdSXuIzrrJgBf4fN3WeIMcMxxd8G/view)
-
-Updated 2020-10-20 · 901 KB
-
-[PPTX ](https://drive.google.com/file/d/1hPsvIdSXuIzrrJgBf4fN3WeIMcMxxd8G/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1hPsvIdSXuIzrrJgBf4fN3WeIMcMxxd8G)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hPsvIdSXuIzrrJgBf4fN3WeIMcMxxd8G#report)
-
-PPT
-Introduction and Structure of Viruses4.4 MB[Open Introduction and Structure of Viruses](https://drive.google.com/file/d/1UEtg0lI0zc5nF3SQuWFv4wjucrTCaGh3/view)
-
-Updated 2020-04-15 · 4.4 MB
-
-[PPTX ](https://drive.google.com/file/d/1UEtg0lI0zc5nF3SQuWFv4wjucrTCaGh3/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1UEtg0lI0zc5nF3SQuWFv4wjucrTCaGh3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UEtg0lI0zc5nF3SQuWFv4wjucrTCaGh3#report)
-
-PPT
-Klebsiella6.5 MB[Open Klebsiella](https://drive.google.com/file/d/1GvMiOS9zAbJaNsGVgJP1BlDyhcXUePFS/view)
-
-Updated 2021-01-03 · 6.5 MB
-
-[PPTX ](https://drive.google.com/file/d/1GvMiOS9zAbJaNsGVgJP1BlDyhcXUePFS/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1GvMiOS9zAbJaNsGVgJP1BlDyhcXUePFS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1GvMiOS9zAbJaNsGVgJP1BlDyhcXUePFS#report)
-
-PPT
-Pasteurella1.2 MB[Open Pasteurella](https://drive.google.com/file/d/1-b2xgQjPTTsiebOOpBnGgQXPUFYsfjvT/view)
-
-Updated 2021-01-03 · 1.2 MB
-
-[PPTX ](https://drive.google.com/file/d/1-b2xgQjPTTsiebOOpBnGgQXPUFYsfjvT/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1-b2xgQjPTTsiebOOpBnGgQXPUFYsfjvT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-b2xgQjPTTsiebOOpBnGgQXPUFYsfjvT#report)
-
-PPT
-Pseudomonas aeruginosa8.5 MB[Open Pseudomonas aeruginosa](https://drive.google.com/file/d/1pixIBtlvNKDWFWPHbRYavQyNBP9K4lE2/view)
-
-Updated 2021-01-03 · 8.5 MB
-
-[PPTX ](https://drive.google.com/file/d/1pixIBtlvNKDWFWPHbRYavQyNBP9K4lE2/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1pixIBtlvNKDWFWPHbRYavQyNBP9K4lE2)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pixIBtlvNKDWFWPHbRYavQyNBP9K4lE2#report)
-
-PPT
-Replecation of Viruses3.3 MB[Open Replecation of Viruses](https://drive.google.com/file/d/1KjDjvzixtYbtcf4FY_Ju74wpv5GL8yjK/view)
-
-Updated 2020-04-15 · 3.3 MB
-
-[PPTX ](https://drive.google.com/file/d/1KjDjvzixtYbtcf4FY_Ju74wpv5GL8yjK/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1KjDjvzixtYbtcf4FY_Ju74wpv5GL8yjK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KjDjvzixtYbtcf4FY_Ju74wpv5GL8yjK#report)
-
-PPT
-Salmonella14.8 MB[Open Salmonella](https://drive.google.com/file/d/1qk9nw5BOZ8fnwbcJeXfnvVT-IxUrAdhx/view)
-
-Updated 2021-01-03 · 14.8 MB
-
-[PPTX ](https://drive.google.com/file/d/1qk9nw5BOZ8fnwbcJeXfnvVT-IxUrAdhx/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1qk9nw5BOZ8fnwbcJeXfnvVT-IxUrAdhx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qk9nw5BOZ8fnwbcJeXfnvVT-IxUrAdhx#report)
-
-PPT
-Staphylococcus10.3 MB[Open Staphylococcus](https://drive.google.com/file/d/1YN0gp92Wz0I8GiLT81nn1_4kkKOxQM1i/view)
-
-Updated 2021-01-03 · 10.3 MB
-
-[PPTX ](https://drive.google.com/file/d/1YN0gp92Wz0I8GiLT81nn1_4kkKOxQM1i/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1YN0gp92Wz0I8GiLT81nn1_4kkKOxQM1i)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YN0gp92Wz0I8GiLT81nn1_4kkKOxQM1i#report)
-
-PPT
-Streptococcus11.8 MB[Open Streptococcus](https://drive.google.com/file/d/1WgYqTpz7PoX2D89yNPRrr4VFUvBv018a/view)
-
-Updated 2021-01-03 · 11.8 MB
-
-[PPTX ](https://drive.google.com/file/d/1WgYqTpz7PoX2D89yNPRrr4VFUvBv018a/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1WgYqTpz7PoX2D89yNPRrr4VFUvBv018a)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WgYqTpz7PoX2D89yNPRrr4VFUvBv018a#report)
-
-PPT
-Viral Cell Interaction4.3 MB[Open Viral Cell Interaction](https://drive.google.com/file/d/1z1ayFH_B3Cj8DMKzIJC7gmEqpMAQmUJE/view)
-
-Updated 2020-10-20 · 4.3 MB
-
-[PPTX ](https://drive.google.com/file/d/1z1ayFH_B3Cj8DMKzIJC7gmEqpMAQmUJE/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1z1ayFH_B3Cj8DMKzIJC7gmEqpMAQmUJE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1z1ayFH_B3Cj8DMKzIJC7gmEqpMAQmUJE#report)
-
-PPT
-Viral Latency and Immunopathology493 KB[Open Viral Latency and Immunopathology](https://drive.google.com/file/d/119nk8sGo0Mr9LBNKEQWXHHcdwc7USF0X/view)
-
-Updated 2020-10-20 · 493 KB
-
-[PPTX ](https://drive.google.com/file/d/119nk8sGo0Mr9LBNKEQWXHHcdwc7USF0X/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=119nk8sGo0Mr9LBNKEQWXHHcdwc7USF0X)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=119nk8sGo0Mr9LBNKEQWXHHcdwc7USF0X#report)
-
-PPT
-Viral Pathogenesis3.7 MB[Open Viral Pathogenesis](https://drive.google.com/file/d/1a_dKM-G2uYopl7FodLsD3HTgYr1_pJd1/view)
-
-Updated 2020-10-20 · 3.7 MB
-
-[PPTX ](https://drive.google.com/file/d/1a_dKM-G2uYopl7FodLsD3HTgYr1_pJd1/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1a_dKM-G2uYopl7FodLsD3HTgYr1_pJd1)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a_dKM-G2uYopl7FodLsD3HTgYr1_pJd1#report)
 
 ## Extras
 

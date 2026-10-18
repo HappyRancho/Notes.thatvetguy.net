@@ -22,18 +22,10 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 
 Start with these topics, then explore the full subject.
 
-[PDFAbsorption of Drug - pharmacology 2Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1zlmxiq9vWK_s5JpNGlEJgZAkIR1Fobc9)
-[PDFAdrenergic Agonists Class 4Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1BGvwIKK2BK4g_v7rgpS8JpmSf2pqGYe6)
-[PDFAdrenergic Neuron Blocking Drugs Class 7Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1-luu_A90j609k5wqL9uMT4xfEqjQ01Pp)
-[PDFAdrenergic System and Drugs Class 3Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1P_3KEbpW7Er-DiJpEhuT9KTWvzduyPkO)
-[PDFAdverse drug reactionsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1eKBawuCB0_PSfkJ7aUx82h6ueCGB7i9v)
-[PDFAlpha Adrenergic Antagonists Class 6Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-18UF1K8p-iCyypgmWB1p5BOLqwkRae7j5)
-[PPTAminoglycosidesVeterinary Pharmacology and Toxicology · Slides](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-12OeDu-1-S-Vypgi4dfD7uj5jHV0xDQD6)
-[PPTAnthelmintics DrugsVeterinary Pharmacology and Toxicology · Slides](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1noej2_M81Gp3Q7LxzbCe2vLhe94LgmVn)
-[PPTAnti-fungal DrugsVeterinary Pharmacology and Toxicology · Slides](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-10poUEwwGgb6JZuofSHJBD3PfSEySH9YR)
-[PPTAnti-viral DrugsVeterinary Pharmacology and Toxicology · Slides](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1xkC7ylPfMa3z4sxYzTfP3YX3tgoxResO)
-[PDFAnticholinesterases Class 11Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-14uH6yhsBFPRRTKoCzMwpA4gAfnml8cRR)
-[PDFAnticonvulsants Class 29aVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1xKk7OzybtQmPQLBABdVZ-IAqaDvDYjQz)[See all Pharmacology resources ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+[DOCLocal Anaesthesia Class 33Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1WqO1ilvw_8WjpaVfc6JtIF2d-ogXccEX)
+[DOCOpioid Analagesics Class 32Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1HGx-CGVVBzGf_wtjJaOUJ2QKRECrDQWW)
+[DOCPsychotropic drugs Class 30Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1E6Z96_2fSRI0V2gBqUmL7PHyIkdomoMT)
+[DOCSkeletal Muscle Relaxants Class 34Veterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1rZRR7mQVe--My9kPvplzSZkBiZaQaI5H)[See all Pharmacology resources ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
 ## Go straight to the subject.
 
