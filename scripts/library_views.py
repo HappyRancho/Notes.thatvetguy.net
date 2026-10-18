@@ -122,7 +122,8 @@ def other(b):
     b.write_page('/request-resource/','Request a Resource',b.geo.META['/request-resource/']['summary'],body+'</div>')
     body=b.article_intro('Find your next read.',b.geo.META['/search/']['summary'])+b.search_form(True)+'<div id="page-results"></div><section class="content-section preset-results"><h2>Start with a topic.</h2><nav class="preset-links" aria-label="Suggested searches">'+''.join(b.link('/search/#preset-'+a,t,'filter-link') for a,t in [('pharmacology','Pharmacology'),('haemonchus','Haemonchus'),('nsaids','NSAIDs'),('surgery-books','Surgery books')])+'</nav>'
     from assets_index import find_preset
+    search_records=[r for r in b.RECORDS if keep_complete_resource(r)]
     for a,t in [('pharmacology','Pharmacology'),('haemonchus','Haemonchus'),('nsaids','NSAIDs'),('surgery-books','Surgery books')]:
-        rows=find_preset(t,b.RECORDS);body+=group(b,t,rows,'preset-'+a,False,teaser,3) if rows else '<details class="resource-group" id="preset-'+a+'"><summary><h3>'+t+'</h3><span class="group-count">0</span></summary>'+empty(b,'No resources for this topic yet')+'</details>'
+        rows=find_preset(t,search_records);body+=group(b,t,rows,'preset-'+a,False,teaser,3) if rows else '<details class="resource-group" id="preset-'+a+'"><summary><h3>'+t+'</h3><span class="group-count">0</span></summary>'+empty(b,'No resources for this topic yet')+'</details>'
     b.write_page('/search/','Search Veterinary Resources',b.geo.META['/search/']['summary'],body+'</section></div>',noindex=True)
 def render(b):overview(b);guides(b);collections(b);tools(b);other(b)
