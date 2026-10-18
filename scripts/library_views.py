@@ -99,7 +99,7 @@ def collections(b):
     b.write_page('/objective/','Objective Resources',desc,body,[(r['title'],r['permalink']) for r in rows+matching(b,'objective-books')])
     desc=b.geo.META['/clinical/']['summary'];body=b.article_intro('Clinical Resources',desc)+'<p class="clinical-callout" role="note">For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.</p>'+b.section_aside('clinical')
     body+='<section class="content-section" id="handbooks"><h2>Handbooks</h2>'+chunks(b,matching(b,'handbooks'),teaser)+'</section>'
-    rows=matching(b,'drug-index');pharm='/bvsc/year-3/veterinary-pharmacology-and-toxicology/'
+    rows=[r for r in matching(b,'drug-index') if keep_complete_resource(r)];pharm='/bvsc/year-3/veterinary-pharmacology-and-toxicology/'
     body+='<section class="content-section" id="drug-index"><h2>Drug & Pharmacology notes</h2><p>Start with these topics, then explore the full subject.</p><div class="file-list">'+''.join(teaser(b,r) for r in rows[:12])+'</div>'+b.link(pharm,'See all Pharmacology resources '+b.icon('arrow'),'button secondary')+'</section>'
     body+='<section class="content-section" id="other-resources"><h2>Go straight to the subject.</h2><div class="clinical-subjects">'
     for y,name in [(2,'Veterinary Pathology'),(4,'Veterinary Medicine'),(4,'Veterinary Surgery and Radiology'),(3,'Veterinary Pharmacology and Toxicology')]:body+=b.link('/bvsc/year-'+str(y)+'/'+slug(name)+'/',b.icon('cross')+'<span>'+name+'</span>'+b.icon('arrow'),'subject-shortcut')
