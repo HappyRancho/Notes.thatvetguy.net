@@ -14,11 +14,12 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 21 notes
 
-### Books
+[Topic-wise notes21 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-biochemistry)
+
+### Recommended books
 
 - 
 BiochemistryU. Satyanarayana and U. Chakrapani
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-biochemistry)
 
 Roadmap
 
@@ -32,11 +33,12 @@ Your tabs are organised. Your sleep schedule can wait.
 
 63 notes
 
-### Books
+[Topic-wise notes63 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-microbiology)
+
+### Recommended books
 
 - 
 Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al.
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-microbiology)
 
 Roadmap
 
@@ -48,11 +50,12 @@ Roadmap
 
 48 notes
 
-### Books
+[Topic-wise notes48 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-pathology)
+
+### Recommended books
 
 - 
 A Textbook of Veterinary General PathologyJ. L. Vegad
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-pathology)
 
 Roadmap
 
@@ -64,11 +67,12 @@ Roadmap
 
 45 notes
 
-### Books
+[Topic-wise notes45 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-genetics-and-breeding)
+
+### Recommended books
 
 - 
 Text Book on Animal Genetics and BreedingP. Kanakaraj
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-genetics-and-breeding)
 
 Roadmap
 
@@ -80,13 +84,14 @@ Roadmap
 
 30 notes
 
-### Books
+[Topic-wise notes30 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-nutrition)
+
+### Recommended books
 
 - 
 Animal NutritionP. McDonald et al.
 - 
 Principles of Animal Nutrition and Feed TechnologyD. V. Reddy
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-nutrition)
 
 Roadmap
 

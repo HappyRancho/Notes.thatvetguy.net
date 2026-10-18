@@ -12,7 +12,7 @@ Last source review: 2026-10-18. File access settings can change.
 
 - [Free Veterinary Notes, Books & Study Resources | ThatVetGuy](https://notes.thatvetguy.net/): Free academic resources, thoughtfully made for future vets. Find BVSc & AH notes, books, objective questions and clinical references by year.
   - Markdown: https://notes.thatvetguy.net/index.md
-- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): BVSc & AH books, topic-wise notes and study roadmaps, organised by professional year. Choose your year to find everything together, subject by subject.
+- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Recommended books, topic-wise notes and roadmaps for BVSc & AH. Choose a subject to open its section in the right year.
   - Markdown: https://notes.thatvetguy.net/bvsc/index.md
 - [1st Year BVSc Books, Notes & Roadmaps](https://notes.thatvetguy.net/bvsc/year-1/): 1st Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/index.md

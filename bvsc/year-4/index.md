@@ -14,13 +14,14 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 23 notes
 
-### Books
+[Topic-wise notes23 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-medicine)
+
+### Recommended books
 
 - 
 Veterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg (11th edition)
 - 
 Textbook of Clinical Veterinary MedicineAmalendu Chakrabarti
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-medicine)
 
 Roadmap
 
@@ -34,13 +35,14 @@ Clinical era unlocked. Please read beyond the heading.
 
 23 notes
 
-### Books
+[Topic-wise notes23 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-surgery-and-radiology)
+
+### Recommended books
 
 - 
 Ruminant SurgeryR. P. S. Tyagi and Jit Singh
 - 
 Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-surgery-and-radiology)
 
 Roadmap
 
@@ -52,11 +54,12 @@ Roadmap
 
 13 notes
 
-### Books
+[Topic-wise notes13 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-gynaecology-and-obstetrics)
+
+### Recommended books
 
 - 
 Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England (10th edition)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-gynaecology-and-obstetrics)
 
 Roadmap
 
@@ -68,11 +71,11 @@ Roadmap
 
 0 notes
 
-### Books
+[Topic-wise notesCollection in preparation](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-clinical-practices-ii)
+
+### Recommended books
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
-
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-clinical-practices-ii)
 
 Roadmap
 

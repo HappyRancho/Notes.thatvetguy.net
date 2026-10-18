@@ -14,13 +14,14 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 15 notes
 
-### Books
+[Topic-wise notes15 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-anatomy)
+
+### Recommended books
 
 - 
 Primary Veterinary AnatomyR. K. Ghosh
 - 
 Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-anatomy)
 
 Roadmap
 
@@ -34,13 +35,14 @@ New syllabus. Same last-minute confidence.
 
 13 notes
 
-### Books
+[Topic-wise notes13 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-physiology)
+
+### Recommended books
 
 - 
 Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. (editors, 13th edition)
 - 
 Cunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-physiology)
 
 Roadmap
 
@@ -52,13 +54,14 @@ Roadmap
 
 25 notes
 
-### Books
+[Topic-wise notes25 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-1/notes/#livestock-production-management)
+
+### Recommended books
 
 - 
 Livestock Production ManagementN. S. R. Sastry and C. K. Thomas
 - 
 A Textbook of Animal HusbandryG. C. Banerjee
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-1/notes/#livestock-production-management)
 
 Roadmap
 

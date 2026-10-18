@@ -14,11 +14,12 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 27 notes
 
-### Books
+[Topic-wise notes27 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology)
+
+### Recommended books
 
 - 
 Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology)
 
 Roadmap
 
@@ -32,11 +33,12 @@ Main character energy. Side quest: finish Pharmacology.
 
 47 notes
 
-### Books
+[Topic-wise notes47 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-parasitology)
+
+### Recommended books
 
 - 
 Veterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. Wall (4th edition)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-parasitology)
 
 Roadmap
 
@@ -48,11 +50,12 @@ Roadmap
 
 35 notes
 
-### Books
+[Topic-wise notes35 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-public-health-and-epidemiology)
+
+### Recommended books
 
 - 
 Veterinary EpidemiologyMichael Thrusfield and Robert Christley
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-public-health-and-epidemiology)
 
 Roadmap
 
@@ -64,13 +67,14 @@ Roadmap
 
 46 notes
 
-### Books
+[Topic-wise notes46 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-products-technology)
+
+### Recommended books
 
 - 
 Outlines of Dairy TechnologySukumar De
 - 
 Meat and Meat Products TechnologyB. D. Sharma
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-products-technology)
 
 Roadmap
 
@@ -82,11 +86,12 @@ Roadmap
 
 23 notes
 
-### Books
+[Topic-wise notes23 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-and-animal-husbandry-extension-education)
+
+### Recommended books
 
 - 
 Textbook of Animal Husbandry and Livestock ExtensionP. Mathialagan
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-and-animal-husbandry-extension-education)
 
 Roadmap
 
@@ -98,11 +103,11 @@ Roadmap
 
 1 note
 
-### Books
+[Topic-wise notes1 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-clinical-practices-i)
+
+### Recommended books
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
-
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-clinical-practices-i)
 
 Roadmap
 
@@ -114,11 +119,11 @@ Roadmap
 
 1 note
 
-### Books
+[Topic-wise notes1 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-farm-practices)
+
+### Recommended books
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
-
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-farm-practices)
 
 Roadmap
 
