@@ -35,6 +35,13 @@ jobs:
             git push origin HEAD:task3-study-clinic
           fi
       - run: npm run qa -- after
+        if: "!contains(github.event.head_commit.message, '[static-only]')"
+      - name: Focused final resource and preference checks
+        if: "contains(github.event.head_commit.message, '[static-only]')"
+        run: npm run qa -- final-check
+        env:
+          QA_WIDTHS: '390'
+          QA_PATHS: '/bvsc/year-4/,/bvsc/year-4/veterinary-surgery-and-radiology/'
       - name: Diagnose production hosts
         if: always()
         run: python3 scripts/task3-hosting.py

@@ -9,7 +9,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   audit:
-    if: ${{ !contains(github.event.head_commit.message, '[drive-publish]') && !contains(github.event.head_commit.message, '[render-library]') }}
+    if: ${{ !contains(github.event.head_commit.message, '[drive-publish]') && !contains(github.event.head_commit.message, '[render-library]') && !contains(github.event.head_commit.message, '[generated]') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

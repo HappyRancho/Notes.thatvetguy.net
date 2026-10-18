@@ -72,7 +72,8 @@
         "14W3yH0ZhyeuZmzoAZHyJzgekhqeXEMHY",
         "1II7765FVYnO8ht0BJRy6aM3dDm0ShPCp",
         "1KHn9OztU3A_B1uRH-pMe1prnIDuz97O_",
-        "1a1uRaOzSKQ4GgWY3R9Fl1b84aCCt_2nl"
+        "1a1uRaOzSKQ4GgWY3R9Fl1b84aCCt_2nl",
+        "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of"
       ],
       "exclude": []
     },
@@ -294,6 +295,11 @@
     "1_M0HkMTBEFdk6n1zl1NVw43LdonxPPim": {
       "kind": "objective",
       "reason": "Anatomy objective document pack."
+    },
+    "1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of": {
+      "subject": "Veterinary Surgery and Radiology",
+      "kind": "objective",
+      "reason": "Same normalised title and byte size as 1hk80c8lL9o6nZKjlZOeu9H4B5PUn0RuY in Surgery/Others; duplicate folder establishes the subject."
     }
   }
 }
