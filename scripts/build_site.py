@@ -34,13 +34,13 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False):
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Notes.ThatVetGuy — Vet school notes, sorted.">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}">
 <link rel="stylesheet" href="/assets/site.css?v={VERSION}"><link rel="preload" href="/assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
-<script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script>
+<script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>
 </head><body>{site_shell.header(path)}<main id="main">{body}<div class="container page-checked">Last checked: <time datetime="{date}">{date}</time></div></main>{site_shell.footer(sys.modules[__name__])}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
 def discovery():
     index=[]
     for r in RECORDS:
-        item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink']};item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
+        item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink']};item['fileIds']=(r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').glob('year-*/**/index.html'):

@@ -22,3 +22,12 @@
 @media(forced-colors:active){.sticker,.button,.search-field,.subject-card,.resource-group,.bottom-nav{border:2px solid CanvasText;box-shadow:none}.button,.sticker,.format-icon,.filter-chips button[aria-pressed=true]{color:CanvasText;background:Canvas}.bottom-nav [aria-current=page],.nav-link[aria-current=page]{outline:2px solid Highlight}mark{background:Highlight;color:HighlightText}}
 
 .breadcrumbs a,.footer-top nav a,.footer-bottom nav a,.text-link,.text-button{min-width:48px}.footer-top nav a,.footer-bottom nav a{justify-content:center}
+/* Short, finite motion. The static baseline is always readable. */
+@view-transition{navigation:auto}
+::view-transition-old(root),::view-transition-new(root){animation-duration:180ms;animation-timing-function:var(--ease)}
+@keyframes enter{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes shade-in{from{opacity:0}to{opacity:1}}
+.reveal-pending{opacity:0;transform:translateY(8px)}.section{transition:opacity 300ms var(--ease),transform 300ms var(--ease)}.list-entry{animation:enter 300ms var(--ease) backwards;animation-delay:var(--entry-delay,0ms)}.sheet[open]{animation:enter var(--motion) var(--ease)}.command-dialog[open]{animation:shade-in var(--motion) var(--ease)}.sheet[open]::backdrop{animation:shade-in var(--motion) var(--ease)}.search-suggestions:not([hidden]){animation:enter var(--motion) var(--ease)}
+.filter-marker{position:absolute;left:0;top:var(--space-1);border:1px solid var(--ink);background:var(--lime);border-radius:var(--pill);pointer-events:none;transition:transform var(--motion) var(--ease),width var(--motion) var(--ease)}.has-marker button{position:relative;z-index:1}.has-marker button[aria-pressed=true]{background:transparent;border-color:transparent}
+@supports(interpolate-size:allow-keywords){.resource-group,.syllabus{interpolate-size:allow-keywords}.resource-group::details-content,.syllabus::details-content{block-size:0;overflow:clip;transition:block-size var(--motion) var(--ease),content-visibility var(--motion) allow-discrete}.resource-group[open]::details-content,.syllabus[open]::details-content{block-size:auto;overflow:visible}}
+@media(prefers-reduced-motion:reduce){.reveal-pending{opacity:1;transform:none}.filter-marker{display:none}.has-marker button[aria-pressed=true]{background:var(--lime);border-color:var(--ink)}::view-transition-old(root),::view-transition-new(root){animation:none!important}.resource-group::details-content,.syllabus::details-content{transition:none}}

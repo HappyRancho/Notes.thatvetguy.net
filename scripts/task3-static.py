@@ -74,7 +74,7 @@ xml=ET.parse(ROOT/'sitemap.xml');ns={'s':'http://www.sitemaps.org/schemas/sitema
 assert len(xml.findall('s:url',ns))==sum('content="noindex,follow"' not in p.read_text() for p in pages)
 assert all(el.find('s:lastmod',ns) is not None for el in xml.findall('s:url',ns))
 assert all((ROOT/x).exists() for x in ['llms.txt','llms-full.txt','robots.txt','search-index.json'])
-runtime=sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['theme.js','logic.js','site.js']);assert runtime<60_000
+runtime=sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['theme.js','logic.js','site.js','motion.js']);assert runtime<60_000
 payload=runtime+len(gzip.compress(home.encode()))+len(gzip.compress((ROOT/'assets/site.css').read_bytes()));assert payload<150_000
 spec=importlib.util.spec_from_file_location('policy',ROOT/'scripts/check-link-policy.py');policy=importlib.util.module_from_spec(spec);spec.loader.exec_module(policy);policy.check_policy()
 out=ROOT/'docs/qa/task3';out.mkdir(parents=True,exist_ok=True)
