@@ -55,7 +55,12 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
 def discovery():
     index=[]
+    # Keep the public catalogue aligned with subject pages: topic slide decks and
+    # presentation exports remain accounted for in the source manifest, but are
+    # not discoverable as complete subject material.
     for r in RECORDS:
+        if not keep_complete_resource(r):
+            continue
         item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink']};item['fileIds']=(r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')

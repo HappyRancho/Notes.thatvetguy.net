@@ -5,6 +5,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote
 from collections import Counter
 import json,re,gzip,xml.etree.ElementTree as ET,importlib.util
+from library_views import keep_complete_resource
 ROOT=Path(__file__).resolve().parent.parent
 class Page(HTMLParser):
     def __init__(self,path):super().__init__();self.path=path;self.ids=set();self.urls=[];self.headings=[];self.rows=[];self.capture=False;self.schema=[];self.buffer='';self.themes=[]
@@ -53,10 +54,14 @@ data=json.loads((ROOT/'data/resources.json').read_text());records=data['files'];
 rawids={f['id'] for f in raw};accounted=[]
 for r in records:accounted+=r['photoIds'] or [v['id'] for v in r['variants']];accounted+=r['duplicateIds']
 assert set(accounted)==rawids and len(accounted)==len(rawids),'lost or multiply-owned original file'
-assert {r['id'] for r in search}=={r['id'] for r in records},'search mismatch'
+visible_records=[r for r in records if keep_complete_resource(r)]
+assert {r['id'] for r in search}=={r['id'] for r in visible_records},'search mismatch'
 assert not any(re.match(r'^(IMG[-_]|PXL_|DSC[_-]|Screenshot)',r['title'],re.I) for r in search),'camera file title'
 counts=Counter(rid for p in pages.values() for rid in p.rows)
 for r in records:
+    if not keep_complete_resource(r):
+        assert counts[r['id']]==0,(r['id'],'hidden topic material still listed',counts[r['id']])
+        continue
     assert counts[r['id']]==1,(r['id'],'canonical row count',counts[r['id']])
     assert r['id'] in pages[ROOT/r['page'].strip('/')/'index.html'].rows
     assert r['kind'] in ['notes','books','practical','objective','presentation','images','other']
@@ -80,4 +85,4 @@ payload=runtime+len(gzip.compress(home.encode()))+sum(len(gzip.compress((ROOT/'a
 spec=importlib.util.spec_from_file_location('policy',ROOT/'scripts/check-link-policy.py');policy=importlib.util.module_from_spec(spec);spec.loader.exec_module(policy);policy.check_policy()
 out=ROOT/'docs/qa/task3';out.mkdir(parents=True,exist_ok=True)
 (out/'counts.json').write_text(json.dumps({'years':data['years'],'cleanup':report,'homeGzipBytes':payload,'jsGzipBytes':runtime},indent=2)+'\n')
-print(f'PASS {len(pages)} pages; {len(rawids)} originals accounted for; {len(records)} canonical rows; every row in search. Home HTML/CSS/JS {payload} bytes gzip; JS {runtime}.')
+print(f'PASS {len(pages)} pages; {len(rawids)} originals accounted for; {len(visible_records)} public rows in search. Home HTML/CSS/JS {payload} bytes gzip; JS {runtime}.')
