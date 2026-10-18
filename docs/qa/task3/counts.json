@@ -1411,14 +1411,16 @@
           "slug": "veterinary-and-animal-husbandry-extension-education",
           "count": 123,
           "groups": {
-            "presentation": 48,
             "other": 30,
+            "presentation": 48,
             "notes": 13,
             "objective": 2,
             "images": 28,
             "books": 2
           },
           "resourceIds": [
+            "1ZlyiFvKszPOAzT66cM2QK2QMUmTl6W_2",
+            "1hGHZKtVFiVqvW43ARMhiU8h9zqduZiYm",
             "1-oLT54ShampOWk557cKPXz6R-nw1hjAS",
             "1YqzPU0Lw3uTiu5Aa1DBlt7RE4LHU6V6W",
             "1FOWRVhG2mLk0ez7av2n7rhZuPR7G1Dl3",
@@ -1499,8 +1501,6 @@
             "1evaEajwqPCg2kZ_7IeW2dUs8a-WpLCYA",
             "photos-1ATgF25xvukYq4bJuP66_DeiUS-W9VDGL",
             "1jQzu6mYaD6CyLbthrGup5-8I42NoD32K",
-            "1ZlyiFvKszPOAzT66cM2QK2QMUmTl6W_2",
-            "1hGHZKtVFiVqvW43ARMhiU8h9zqduZiYm",
             "161TgwntbAAwW3inhUcWx7PZKzLzLEaQn",
             "1n8YUCuU4pHo29g2cQqHl-F3NyKmW69hp",
             "1ZT5ZHzRqcXQfWO1A0G3hGfJv0FtNTLtT",
@@ -1776,6 +1776,8 @@
           "resourceIds": [
             "19x10vWxpgqj5LsTIeeF956e7Nfu50ltD",
             "1a1uRaOzSKQ4GgWY3R9Fl1b84aCCt_2nl",
+            "1Imkih7uIeBQ_hfQzO9RfY1RnU21C2A_q",
+            "19DVorAisZ87T9fvL2NEKvoxksGJYjVt7",
             "1kX5Qa6L5rgfYpZN8gnXR2H2nDvvx4S4x",
             "11GD5DNn2cRLIGrQuyAmYuOV5LDwZSP13",
             "1aX2okU0e_lbnvdwhb0TaVb36xm3rfYP-",
@@ -1883,8 +1885,6 @@
             "1ET3tVHdFKOSS6StF291FrDpWdPojyRGD",
             "1MktRcLpDw4s-pzBoNhdeqxMczdedj6TQ",
             "1O--P1Pp0z6hVRiklM29kb2b2iFA3j9Ly",
-            "1Imkih7uIeBQ_hfQzO9RfY1RnU21C2A_q",
-            "19DVorAisZ87T9fvL2NEKvoxksGJYjVt7",
             "1wc54f-YPuWXG1z2QZztkhaS5uXul84eP",
             "1uq5W97Nbvdpk402i5jyw-x1yLZj1eQky",
             "12U7CyaMlg_5IhuJwsQf1kNIgUFlRnEfa",
@@ -2686,6 +2686,6 @@
       }
     ]
   },
-  "homeGzipBytes": 18199,
+  "homeGzipBytes": 18463,
   "jsGzipBytes": 6723
 }

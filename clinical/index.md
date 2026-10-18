@@ -12,11 +12,11 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 
 ## Handbooks
 
-[PDFHandbook of Veterinary Pharmacology-Walter H. Hsu-Wiley BlackwellVeterinary Pharmacology and Toxicology · Book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE)
-[PDFClinical Handbook on Canine Dermatology 3rd EditionVeterinary Medicine · Book](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot)
-[PDFColor handbook of Skin Diseases of Dog and CatVeterinary Medicine · Book](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5)
-[PDFHandbook on Wild and Zoo AnimalsVeterinary Medicine · Resource](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1sp9r_CT4Y2PP2EsrLQOrHEigGgKwoPP1)
-[PDFBrinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsVeterinary Surgery and Radiology · Book](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj)
+[PDFHandbook of Veterinary Pharmacology-Walter H. Hsu-Wiley BlackwellVeterinary Pharmacology and Toxicology · Handbook](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE)
+[PDFClinical Handbook on Canine Dermatology 3rd EditionVeterinary Medicine · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot)
+[PDFColor handbook of Skin Diseases of Dog and CatVeterinary Medicine · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5)
+[PDFHandbook on Wild and Zoo AnimalsVeterinary Medicine · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1sp9r_CT4Y2PP2EsrLQOrHEigGgKwoPP1)
+[PDFBrinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsVeterinary Surgery and Radiology · Handbook](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj)
 
 ## Drug & Pharmacology notes
 

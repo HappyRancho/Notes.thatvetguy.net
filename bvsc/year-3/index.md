@@ -36,7 +36,7 @@ Extras 18 · Practical 2 · Notes 49 · Slides 5 · Books 5 · Objective 2 · Im
 
 ## Veterinary and Animal Husbandry Extension Education
 
-Slides 48 · Extras 30 · Notes 13 · Objective 2 · Images 28 · Books 2
+Extras 30 · Slides 48 · Notes 13 · Objective 2 · Images 28 · Books 2
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[2 resources
 

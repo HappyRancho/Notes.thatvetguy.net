@@ -339,7 +339,7 @@ Updated 2023-06-24 · 181 KB
 [Download PDF](https://drive.google.com/uc?export=download&id=1a1uRaOzSKQ4GgWY3R9Fl1b84aCCt_2nl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a1uRaOzSKQ4GgWY3R9Fl1b84aCCt_2nl#report)
 
 PDF
-surgery2.6 MB[Open surgery](https://drive.google.com/file/d/1Imkih7uIeBQ_hfQzO9RfY1RnU21C2A_q/view)
+2018 - surgery2.6 MB[Open 2018 - surgery](https://drive.google.com/file/d/1Imkih7uIeBQ_hfQzO9RfY1RnU21C2A_q/view)
 
 Updated 2022-09-21 · 2.6 MB
 
@@ -347,7 +347,7 @@ Updated 2022-09-21 · 2.6 MB
 [Download PDF](https://drive.google.com/uc?export=download&id=1Imkih7uIeBQ_hfQzO9RfY1RnU21C2A_q)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Imkih7uIeBQ_hfQzO9RfY1RnU21C2A_q#report)
 
 PDF
-surgery3.2 MB[Open surgery](https://drive.google.com/file/d/19DVorAisZ87T9fvL2NEKvoxksGJYjVt7/view)
+2019 - surgery3.2 MB[Open 2019 - surgery](https://drive.google.com/file/d/19DVorAisZ87T9fvL2NEKvoxksGJYjVt7/view)
 
 Updated 2022-09-21 · 3.2 MB
 
