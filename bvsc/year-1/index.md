@@ -12,19 +12,19 @@ Notes, books and practical material for 1st Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Anatomy
 
-Notes 5 · Practical 8 · Images 12 · Books 5 · Extras 5 · Objective 49
+Images 12 · Books 5 · Notes 5 · Extras 5 · Objective 49 · Practical 8
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[27 resources
 
 ## Veterinary Physiology
 
-Books 4 · Extras 2 · Notes 9 · Objective 12
+Extras 2 · Objective 12 · Books 4 · Notes 9
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[86 resources
 
 ## Livestock Production Management
 
-Notes 22 · Practical 55 · Images 1 · Books 1 · Extras 5 · Objective 2
+Images 1 · Books 1 · Extras 5 · Notes 22 · Objective 2 · Practical 55
 
 ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
