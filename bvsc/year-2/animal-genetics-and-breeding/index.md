@@ -4,307 +4,518 @@
 
 # Animal Genetics and Breeding
 
-Animal Genetics and Breeding notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
+Animal Genetics and Breeding notes for BVSc & AH, organised by unit and topic. Choose a unit below, or search within this subject.
 
-35 resources · 2nd Year
+45 resources · 2nd Year
 
 Search this collection
 
-## Notes
+## Unit 1 – Biostatistics and Computer Application
 
-10
-
-PDF
-AGB Unit 1 Part 1536 KB[Open AGB Unit 1 Part 1](https://drive.google.com/file/d/1hx_rWrObFNWAxgHNxqRKyRs3L_OuTolf/view)
-
-Updated 2020-10-20 · 536 KB
-
-[PDF ](https://drive.google.com/file/d/1hx_rWrObFNWAxgHNxqRKyRs3L_OuTolf/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1hx_rWrObFNWAxgHNxqRKyRs3L_OuTolf)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hx_rWrObFNWAxgHNxqRKyRs3L_OuTolf#report)
+20
 
 PDF
-AGB Unit 1 Part 2832 KB[Open AGB Unit 1 Part 2](https://drive.google.com/file/d/1MRbNd4LI1SRX2lIgOQJbD__98d1R32c_/view)
+Analysis of Data using MS Excel[Open Analysis of Data using MS Excel](https://drive.google.com/file/d/16_dng4BTAZRQiTFoac6SFE0X8nZ497ZD/view)
 
-Updated 2020-10-20 · 832 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1MRbNd4LI1SRX2lIgOQJbD__98d1R32c_/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1MRbNd4LI1SRX2lIgOQJbD__98d1R32c_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MRbNd4LI1SRX2lIgOQJbD__98d1R32c_#report)
+[PDF ](https://drive.google.com/file/d/16_dng4BTAZRQiTFoac6SFE0X8nZ497ZD/view)
 
-PDF
-AGB Unit 1 Part 3408 KB[Open AGB Unit 1 Part 3](https://drive.google.com/file/d/15Za3o64k7SiWAjb1xJLTOKTsqHffcbJg/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-20 · 408 KB
-
-[PDF ](https://drive.google.com/file/d/15Za3o64k7SiWAjb1xJLTOKTsqHffcbJg/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=15Za3o64k7SiWAjb1xJLTOKTsqHffcbJg)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15Za3o64k7SiWAjb1xJLTOKTsqHffcbJg#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16_dng4BTAZRQiTFoac6SFE0X8nZ497ZD#report)
 
 PDF
-AGB Unit 1 Part 41.8 MB[Open AGB Unit 1 Part 4](https://drive.google.com/file/d/11wPLfvndvhMPfLDvuE7AluW_k-PeyH52/view)
+Biostatistics – Classification, Tabulation and Presentation of Data[Open Biostatistics – Classification, Tabulation and Presentation of Data](https://drive.google.com/file/d/1_M7m5N5pmHVydSGZIetQi2v2w3L1CXGV/view)
 
-Updated 2020-10-20 · 1.8 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/11wPLfvndvhMPfLDvuE7AluW_k-PeyH52/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=11wPLfvndvhMPfLDvuE7AluW_k-PeyH52)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11wPLfvndvhMPfLDvuE7AluW_k-PeyH52#report)
+[PDF ](https://drive.google.com/file/d/1_M7m5N5pmHVydSGZIetQi2v2w3L1CXGV/view)
 
-PDF
-AGB Unit 21.5 MB[Open AGB Unit 2](https://drive.google.com/file/d/1sI8OEjI0wIi0hjCPksqhlkzUrgGmZLTw/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-20 · 1.5 MB
-
-[PDF ](https://drive.google.com/file/d/1sI8OEjI0wIi0hjCPksqhlkzUrgGmZLTw/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1sI8OEjI0wIi0hjCPksqhlkzUrgGmZLTw)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sI8OEjI0wIi0hjCPksqhlkzUrgGmZLTw#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_M7m5N5pmHVydSGZIetQi2v2w3L1CXGV#report)
 
 PDF
-AGB Unit 31.2 MB[Open AGB Unit 3](https://drive.google.com/file/d/1w7nRTzzdOnrvGtczsaN1eCSKMcx9VM8b/view)
+Components of Computer Systems[Open Components of Computer Systems](https://drive.google.com/file/d/1XiCkmx9J0P01yipLtS_8lC793iZ0FN6u/view)
 
-Updated 2020-10-20 · 1.2 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1w7nRTzzdOnrvGtczsaN1eCSKMcx9VM8b/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1w7nRTzzdOnrvGtczsaN1eCSKMcx9VM8b)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1w7nRTzzdOnrvGtczsaN1eCSKMcx9VM8b#report)
+[PDF ](https://drive.google.com/file/d/1XiCkmx9J0P01yipLtS_8lC793iZ0FN6u/view)
 
-DOC
-AGB Unit- II Lecture notes560 KB[Open AGB Unit- II Lecture notes](https://drive.google.com/file/d/14TnD9l-lgFoXDZB2Ecrno8ApkjsZbhJ4/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-20 · 560 KB
-
-[DOC ](https://drive.google.com/file/d/14TnD9l-lgFoXDZB2Ecrno8ApkjsZbhJ4/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=14TnD9l-lgFoXDZB2Ecrno8ApkjsZbhJ4)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14TnD9l-lgFoXDZB2Ecrno8ApkjsZbhJ4#report)
-
-DOC
-Examples - Mean deviation235 KB[Open Examples - Mean deviation](https://drive.google.com/file/d/1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w/view)
-
-Updated 2019-12-10 · 235 KB
-
-[DOCX ](https://drive.google.com/file/d/1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bnogsrjcWvI8jzGS0hOBBv-u4s8R0N7w#report)
-
-DOC
-Two way ANOVA32 KB[Open Two way ANOVA](https://drive.google.com/file/d/1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi/view)
-
-Updated 2019-12-10 · 32 KB
-
-[DOCX ](https://drive.google.com/file/d/1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1R519dSNNz3Dp92R8BUno2Fp6wRRNjGbi#report)
-
-DOC
-Z and t test Formula757 KB[Open Z and t test Formula](https://drive.google.com/file/d/17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc/view)
-
-Updated 2019-12-10 · 757 KB
-
-[DOCX ](https://drive.google.com/file/d/17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17nmljPWyi6tCW7ncb3bgRlK5zJ-voTIc#report)
-
-## Practical
-
-15
-
-PPT
-Breeding Value and Effective population size401 KB[Open Breeding Value and Effective population size](https://drive.google.com/file/d/1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA/view)
-
-Updated 2020-12-14 · 401 KB
-
-[PPT ](https://drive.google.com/file/d/1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA#report)
-
-DOC
-Design of Experiments- RBD-Ex No 1217 KB[Open Design of Experiments- RBD-Ex No 12](https://drive.google.com/file/d/1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr/view)
-
-Updated 2022-03-24 · 17 KB
-
-[DOCX ](https://drive.google.com/file/d/1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr#report)
-
-DOC
-Distribution Tables32 KB[Open Distribution Tables](https://drive.google.com/file/d/1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N/view)
-
-Updated 2022-03-24 · 32 KB
-
-[DOCX ](https://drive.google.com/file/d/1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XiCkmx9J0P01yipLtS_8lC793iZ0FN6u#report)
 
 PDF
-Heritability and HWE669 KB[Open Heritability and HWE](https://drive.google.com/file/d/19YtFxys_2YZNkJKuk476PGuEz4YtShaT/view)
+Computer Environment and Networking[Open Computer Environment and Networking](https://drive.google.com/file/d/1TwGz5kmeyDDcUrFuVuIqzJ9fiTy0GVsP/view)
 
-Updated 2021-01-21 · 669 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/19YtFxys_2YZNkJKuk476PGuEz4YtShaT/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=19YtFxys_2YZNkJKuk476PGuEz4YtShaT)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19YtFxys_2YZNkJKuk476PGuEz4YtShaT#report)
+[PDF ](https://drive.google.com/file/d/1TwGz5kmeyDDcUrFuVuIqzJ9fiTy0GVsP/view)
 
-PPT
-Heterosis287 KB[Open Heterosis](https://drive.google.com/file/d/1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-12-30 · 287 KB
-
-[PPT ](https://drive.google.com/file/d/1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC#report)
-
-PPT
-Inbreeding coefficient197 KB[Open Inbreeding coefficient](https://drive.google.com/file/d/1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne/view)
-
-Updated 2020-12-30 · 197 KB
-
-[PPTX ](https://drive.google.com/file/d/1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne#report)
-
-PPT
-Migration and Selection86 KB[Open Migration and Selection](https://drive.google.com/file/d/1YDp0qo6YDWo0Q10asLunklWWTbogOgOb/view)
-
-Updated 2020-12-11 · 86 KB
-
-[PPTX ](https://drive.google.com/file/d/1YDp0qo6YDWo0Q10asLunklWWTbogOgOb/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1YDp0qo6YDWo0Q10asLunklWWTbogOgOb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YDp0qo6YDWo0Q10asLunklWWTbogOgOb#report)
-
-DOC
-Probability and Normal Distribution - Ex No 1314 KB[Open Probability and Normal Distribution - Ex No 13](https://drive.google.com/file/d/1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB/view)
-
-Updated 2022-03-24 · 14 KB
-
-[DOCX ](https://drive.google.com/file/d/1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB#report)
-
-PPT
-Relationship coefficient and Selection index530 KB[Open Relationship coefficient and Selection index](https://drive.google.com/file/d/1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF/view)
-
-Updated 2021-01-02 · 530 KB
-
-[PPT ](https://drive.google.com/file/d/1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TwGz5kmeyDDcUrFuVuIqzJ9fiTy0GVsP#report)
 
 PDF
-Selection and GI525 KB[Open Selection and GI](https://drive.google.com/file/d/1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR/view)
+Computer Hardware Components[Open Computer Hardware Components](https://drive.google.com/file/d/1PPuQ6uFxu_pEsZ0d7jXBQG37yQVHykhn/view)
 
-Updated 2021-01-21 · 525 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR#report)
+[PDF ](https://drive.google.com/file/d/1PPuQ6uFxu_pEsZ0d7jXBQG37yQVHykhn/view)
 
-PDF
-Sire index and MPPA554 KB[Open Sire index and MPPA](https://drive.google.com/file/d/1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2021-01-21 · 554 KB
-
-[PDF ](https://drive.google.com/file/d/1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh#report)
-
-PPT
-SNK PPT RESUME50 KB[Open SNK PPT RESUME](https://drive.google.com/file/d/1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f/view)
-
-Updated 2020-01-26 · 50 KB
-
-[PPTX ](https://drive.google.com/file/d/1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f#report)
-
-DOC
-SNK RESUME25 KB[Open SNK RESUME](https://drive.google.com/file/d/1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV/view)
-
-Updated 2020-01-26 · 25 KB
-
-[DOCX ](https://drive.google.com/file/d/1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV#report)
-
-DOC
-Test of Significance - 'F' Test - Ex No 1117 KB[Open Test of Significance - 'F' Test - Ex No 11](https://drive.google.com/file/d/14QLB01sBCBgd16i07rRW8M7LnOTt3LKL/view)
-
-Updated 2022-03-24 · 17 KB
-
-[DOCX ](https://drive.google.com/file/d/14QLB01sBCBgd16i07rRW8M7LnOTt3LKL/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=14QLB01sBCBgd16i07rRW8M7LnOTt3LKL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14QLB01sBCBgd16i07rRW8M7LnOTt3LKL#report)
-
-DOC
-Test of Significance - Chi Square Test - Ex No 1016 KB[Open Test of Significance - Chi Square Test - Ex No 10](https://drive.google.com/file/d/1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f/view)
-
-Updated 2022-03-24 · 16 KB
-
-[DOCX ](https://drive.google.com/file/d/1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f#report)
-
-## Objective
-
-3
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1PPuQ6uFxu_pEsZ0d7jXBQG37yQVHykhn#report)
 
 PDF
-Genetics5.0 MB[Open Genetics](https://drive.google.com/file/d/1yv11R4MvnPf9Qxya26Oz8heNb3Vh5a88/view)
+Computer Software and its Application[Open Computer Software and its Application](https://drive.google.com/file/d/1al4_xbaovsoogeJizdea9TwqfYqW4_xt/view)
 
-Updated 2019-12-04 · 5.0 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1yv11R4MvnPf9Qxya26Oz8heNb3Vh5a88/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1yv11R4MvnPf9Qxya26Oz8heNb3Vh5a88)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yv11R4MvnPf9Qxya26Oz8heNb3Vh5a88#report)
+[PDF ](https://drive.google.com/file/d/1al4_xbaovsoogeJizdea9TwqfYqW4_xt/view)
 
-PDF
-Genetics Paper 110.8 MB[Open Genetics Paper 1](https://drive.google.com/file/d/1uCrZ_vkepdGzcXzAjsO_MXisy4xkbrBC/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2019-12-14 · 10.8 MB
-
-[PDF ](https://drive.google.com/file/d/1uCrZ_vkepdGzcXzAjsO_MXisy4xkbrBC/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1uCrZ_vkepdGzcXzAjsO_MXisy4xkbrBC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1uCrZ_vkepdGzcXzAjsO_MXisy4xkbrBC#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1al4_xbaovsoogeJizdea9TwqfYqW4_xt#report)
 
 PDF
-Genetics Paper 226.9 MB[Open Genetics Paper 2](https://drive.google.com/file/d/1YfU-st757NohRw66lDXAuk4LgxdBXLI8/view)
+Correlation and Regression[Open Correlation and Regression](https://drive.google.com/file/d/1wedSHDn7V2Mrvxt1isMsVs5_uGd9_z3X/view)
 
-Updated 2019-07-17 · 26.9 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1YfU-st757NohRw66lDXAuk4LgxdBXLI8/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YfU-st757NohRw66lDXAuk4LgxdBXLI8#report)
+[PDF ](https://drive.google.com/file/d/1wedSHDn7V2Mrvxt1isMsVs5_uGd9_z3X/view)
 
-## Extras
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-7
-
-PDF
-BVO18041 Genetics26.3 MB[Open BVO18041 Genetics](https://drive.google.com/file/d/1shitrvpmpv6KzOqewMNR6Sqrh_QeKJLI/view)
-
-Updated 2020-12-23 · 26.3 MB
-
-[PDF ](https://drive.google.com/file/d/1shitrvpmpv6KzOqewMNR6Sqrh_QeKJLI/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1shitrvpmpv6KzOqewMNR6Sqrh_QeKJLI#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wedSHDn7V2Mrvxt1isMsVs5_uGd9_z3X#report)
 
 PDF
-Genetics Internal 2775 KB[Open Genetics Internal 2](https://drive.google.com/file/d/1iKLeL6ewynxa5MzFR5Ffu8B-ynxmuq9p/view)
+Database Management System (DBMS)[Open Database Management System (DBMS)](https://drive.google.com/file/d/1e5cmJAVIaJ3bacUc6fc7o-uYtFmlq0Uh/view)
 
-Updated 2020-10-05 · 775 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1iKLeL6ewynxa5MzFR5Ffu8B-ynxmuq9p/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1iKLeL6ewynxa5MzFR5Ffu8B-ynxmuq9p)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iKLeL6ewynxa5MzFR5Ffu8B-ynxmuq9p#report)
+[PDF ](https://drive.google.com/file/d/1e5cmJAVIaJ3bacUc6fc7o-uYtFmlq0Uh/view)
 
-PDF
-Genetics Internal 3391 KB[Open Genetics Internal 3](https://drive.google.com/file/d/1xgeXD4MGHkOxbUs_2rhQosTLSvVNWQvn/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-15 · 391 KB
-
-[PDF ](https://drive.google.com/file/d/1xgeXD4MGHkOxbUs_2rhQosTLSvVNWQvn/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1xgeXD4MGHkOxbUs_2rhQosTLSvVNWQvn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xgeXD4MGHkOxbUs_2rhQosTLSvVNWQvn#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1e5cmJAVIaJ3bacUc6fc7o-uYtFmlq0Uh#report)
 
 PDF
-Genetics Internal 3 Choose243 KB[Open Genetics Internal 3 Choose](https://drive.google.com/file/d/1NIV5Rkp94kdjvGS98sstvNtHTxl8Rkct/view)
+Design of Experiment – CRD and RBD[Open Design of Experiment – CRD and RBD](https://drive.google.com/file/d/1MNUmihvp4iNTXxIwb9BKLGlB8LsEZEpE/view)
 
-Updated 2020-12-01 · 243 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1NIV5Rkp94kdjvGS98sstvNtHTxl8Rkct/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1NIV5Rkp94kdjvGS98sstvNtHTxl8Rkct)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1NIV5Rkp94kdjvGS98sstvNtHTxl8Rkct#report)
+[PDF ](https://drive.google.com/file/d/1MNUmihvp4iNTXxIwb9BKLGlB8LsEZEpE/view)
 
-PDF
-Genetics Internal 3 Fillups109 KB[Open Genetics Internal 3 Fillups](https://drive.google.com/file/d/1EfLlrAaHKWH87ThT6Afb7JOvRTxZBhi7/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-12-01 · 109 KB
-
-[PDF ](https://drive.google.com/file/d/1EfLlrAaHKWH87ThT6Afb7JOvRTxZBhi7/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1EfLlrAaHKWH87ThT6Afb7JOvRTxZBhi7)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EfLlrAaHKWH87ThT6Afb7JOvRTxZBhi7#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MNUmihvp4iNTXxIwb9BKLGlB8LsEZEpE#report)
 
 PDF
-Genetics Internal 3 Match125 KB[Open Genetics Internal 3 Match](https://drive.google.com/file/d/1FBZPwLjTkaS99LO6DlKb87WzKJFjcInq/view)
+Different Commands in Disk Operating System[Open Different Commands in Disk Operating System](https://drive.google.com/file/d/1ukr20c472dzBoD7YDOaJWYKrWYkG2LRo/view)
 
-Updated 2020-12-01 · 125 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1FBZPwLjTkaS99LO6DlKb87WzKJFjcInq/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1FBZPwLjTkaS99LO6DlKb87WzKJFjcInq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FBZPwLjTkaS99LO6DlKb87WzKJFjcInq#report)
+[PDF ](https://drive.google.com/file/d/1ukr20c472dzBoD7YDOaJWYKrWYkG2LRo/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ukr20c472dzBoD7YDOaJWYKrWYkG2LRo#report)
 
 PDF
-Internal 1719 KB[Open Internal 1](https://drive.google.com/file/d/15aLTPj2Lr2jBI2oUOO_c8mS4kvCg7unm/view)
+History of Computer[Open History of Computer](https://drive.google.com/file/d/1MYd6TDxnV8zPJhvK1SUMmsophVvvur_8/view)
 
-Updated 2020-01-31 · 719 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/15aLTPj2Lr2jBI2oUOO_c8mS4kvCg7unm/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=15aLTPj2Lr2jBI2oUOO_c8mS4kvCg7unm)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=15aLTPj2Lr2jBI2oUOO_c8mS4kvCg7unm#report)
+[PDF ](https://drive.google.com/file/d/1MYd6TDxnV8zPJhvK1SUMmsophVvvur_8/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MYd6TDxnV8zPJhvK1SUMmsophVvvur_8#report)
+
+PDF
+Measures of Central Tendency or Averages[Open Measures of Central Tendency or Averages](https://drive.google.com/file/d/1YUYrf23emYxdBUBtwKLC2IK8nEkq-5TX/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1YUYrf23emYxdBUBtwKLC2IK8nEkq-5TX/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YUYrf23emYxdBUBtwKLC2IK8nEkq-5TX#report)
+
+PDF
+Measures of Dispersion[Open Measures of Dispersion](https://drive.google.com/file/d/1Vi0I1iDXDBW_VsPyexgKTo8q622Ugtqr/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1Vi0I1iDXDBW_VsPyexgKTo8q622Ugtqr/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Vi0I1iDXDBW_VsPyexgKTo8q622Ugtqr#report)
+
+PDF
+Moments, Skewness and Kurtosis[Open Moments, Skewness and Kurtosis](https://drive.google.com/file/d/1eNFu3bQnHk5T5k3sZ6h_4wSw-9wE63ZP/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1eNFu3bQnHk5T5k3sZ6h_4wSw-9wE63ZP/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1eNFu3bQnHk5T5k3sZ6h_4wSw-9wE63ZP#report)
+
+PDF
+Non Parametric Tests[Open Non Parametric Tests](https://drive.google.com/file/d/1kIPn0cY1T5hSqoy7zNWLVjk76SfxSoOs/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1kIPn0cY1T5hSqoy7zNWLVjk76SfxSoOs/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kIPn0cY1T5hSqoy7zNWLVjk76SfxSoOs#report)
+
+PDF
+Probability and Probability Distribution[Open Probability and Probability Distribution](https://drive.google.com/file/d/1sAoFx9T-REU4pJmKurLg5MUqAc8XTZ1a/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1sAoFx9T-REU4pJmKurLg5MUqAc8XTZ1a/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sAoFx9T-REU4pJmKurLg5MUqAc8XTZ1a#report)
+
+PDF
+Review of MS Office and its Components[Open Review of MS Office and its Components](https://drive.google.com/file/d/1VpWyAP_FIW7VCiwAPRF0toEqKHWyC2Mt/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1VpWyAP_FIW7VCiwAPRF0toEqKHWyC2Mt/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VpWyAP_FIW7VCiwAPRF0toEqKHWyC2Mt#report)
+
+PDF
+Sampling Methods[Open Sampling Methods](https://drive.google.com/file/d/1o6OkgE_sEGnynghlRGmoT8QaAQCMe0K4/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1o6OkgE_sEGnynghlRGmoT8QaAQCMe0K4/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1o6OkgE_sEGnynghlRGmoT8QaAQCMe0K4#report)
+
+PDF
+Tests of Significance – t-test, Z-test, Chi-square test and F-test[Open Tests of Significance – t-test, Z-test, Chi-square test and F-test](https://drive.google.com/file/d/1_sN1YLI82fmPMkdy_ziN9V2yhko-ohVX/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1_sN1YLI82fmPMkdy_ziN9V2yhko-ohVX/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_sN1YLI82fmPMkdy_ziN9V2yhko-ohVX#report)
+
+PDF
+Types and Conversions of Number System[Open Types and Conversions of Number System](https://drive.google.com/file/d/1ggitlMRXACXkDkTHaRFk3aNRmh9oQyUs/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1ggitlMRXACXkDkTHaRFk3aNRmh9oQyUs/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ggitlMRXACXkDkTHaRFk3aNRmh9oQyUs#report)
+
+## Unit 2 – Principles of Animal and Population Genetics
+
+12
+
+PDF
+Breeding Value, Variance, Genotype-Environment Correlation and Interaction[Open Breeding Value, Variance, Genotype-Environment Correlation and Interaction](https://drive.google.com/file/d/1gMxJoliJRKhQeHVcPPFppb5jO9kk0CJ5/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1gMxJoliJRKhQeHVcPPFppb5jO9kk0CJ5/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gMxJoliJRKhQeHVcPPFppb5jO9kk0CJ5#report)
+
+PDF
+Chromosome numbers and types in Livestock and Poultry[Open Chromosome numbers and types in Livestock and Poultry](https://drive.google.com/file/d/1mfJZTqgf_041TeRJbxF7XN8CW2ekEAWs/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1mfJZTqgf_041TeRJbxF7XN8CW2ekEAWs/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mfJZTqgf_041TeRJbxF7XN8CW2ekEAWs#report)
+
+PDF
+Heritability and Repeatability & Genetic and Phenotypic Correlation[Open Heritability and Repeatability & Genetic and Phenotypic Correlation](https://drive.google.com/file/d/1UWueRQCMK7mY-xxtHpCBL0ZaHAr83ED0/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1UWueRQCMK7mY-xxtHpCBL0ZaHAr83ED0/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UWueRQCMK7mY-xxtHpCBL0ZaHAr83ED0#report)
+
+PDF
+History of Genetics[Open History of Genetics](https://drive.google.com/file/d/1KeVRxtcMq5Rbn-Cf-NHeMv4JOaHzUeFI/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1KeVRxtcMq5Rbn-Cf-NHeMv4JOaHzUeFI/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KeVRxtcMq5Rbn-Cf-NHeMv4JOaHzUeFI#report)
+
+PDF
+Linkage, Crossing Over and Linkage Map[Open Linkage, Crossing Over and Linkage Map](https://drive.google.com/file/d/1UwJpkG2sFaiMy1H7ShWz6zmRk_ReSPZV/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1UwJpkG2sFaiMy1H7ShWz6zmRk_ReSPZV/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UwJpkG2sFaiMy1H7ShWz6zmRk_ReSPZV#report)
+
+PDF
+Mitosis vs Meiosis Cell Division[Open Mitosis vs Meiosis Cell Division](https://drive.google.com/file/d/1htvpyzs9DRzMB_3qExlhOAims690JXjr/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1htvpyzs9DRzMB_3qExlhOAims690JXjr/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1htvpyzs9DRzMB_3qExlhOAims690JXjr#report)
+
+PDF
+Modified Mendelian Genetics[Open Modified Mendelian Genetics](https://drive.google.com/file/d/1fySng-bZ4gFpngG1EPW1rXBJgJ_i3iNw/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1fySng-bZ4gFpngG1EPW1rXBJgJ_i3iNw/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fySng-bZ4gFpngG1EPW1rXBJgJ_i3iNw#report)
+
+PDF
+Multiple Alleles, Lethal Genes, Sex Linked, Sex Limited and Sex Influenced Inheritance[Open Multiple Alleles, Lethal Genes, Sex Linked, Sex Limited and Sex Influenced Inheritance](https://drive.google.com/file/d/1BGjLxS1jOKWhTFlPokeydWsdBTZx3Tz4/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1BGjLxS1jOKWhTFlPokeydWsdBTZx3Tz4/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BGjLxS1jOKWhTFlPokeydWsdBTZx3Tz4#report)
+
+PDF
+Mutation, Chromosomal Aberrations, Cytogenetics and Extra Chromosomal Inheritance[Open Mutation, Chromosomal Aberrations, Cytogenetics and Extra Chromosomal Inheritance](https://drive.google.com/file/d/1kut7K5_be0qVNO69Eu2IAIvFVA7smJRK/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1kut7K5_be0qVNO69Eu2IAIvFVA7smJRK/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kut7K5_be0qVNO69Eu2IAIvFVA7smJRK#report)
+
+PDF
+Non-Allelic Gene Interaction[Open Non-Allelic Gene Interaction](https://drive.google.com/file/d/1iZLZaSIAYg0yUkepuQ4RxuRIyWbZAMvr/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1iZLZaSIAYg0yUkepuQ4RxuRIyWbZAMvr/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1iZLZaSIAYg0yUkepuQ4RxuRIyWbZAMvr#report)
+
+PDF
+Overview of Mendelian Genetics[Open Overview of Mendelian Genetics](https://drive.google.com/file/d/1R5PA2BBVW8s2nGN6TXRHXAVeQ4sx7jZG/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1R5PA2BBVW8s2nGN6TXRHXAVeQ4sx7jZG/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1R5PA2BBVW8s2nGN6TXRHXAVeQ4sx7jZG#report)
+
+PDF
+Population Genetics – Hardy Weinberg Law[Open Population Genetics – Hardy Weinberg Law](https://drive.google.com/file/d/1bNO7SBq4tiS0ih60UjKWGlCSOfmrO4bS/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1bNO7SBq4tiS0ih60UjKWGlCSOfmrO4bS/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bNO7SBq4tiS0ih60UjKWGlCSOfmrO4bS#report)
+
+## Unit 3 – Principles of Animal Breeding
+
+13
+
+PDF
+Breeding policy strategies for genetic improvement of Cattle and Buffaloes in India[Open Breeding policy strategies for genetic improvement of Cattle and Buffaloes in India](https://drive.google.com/file/d/100rc1u1L1Wrb4l3_AjSCPjm4Ru1PrQs4/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/100rc1u1L1Wrb4l3_AjSCPjm4Ru1PrQs4/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=100rc1u1L1Wrb4l3_AjSCPjm4Ru1PrQs4#report)
+
+PDF
+Breeding Strategies for the Improvement of Livestock and Poultry and Sire Evaluation[Open Breeding Strategies for the Improvement of Livestock and Poultry and Sire Evaluation](https://drive.google.com/file/d/1_gpO0vrcJ6_2GQnT-__Bm1wY9E1m6LN4/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1_gpO0vrcJ6_2GQnT-__Bm1wY9E1m6LN4/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_gpO0vrcJ6_2GQnT-__Bm1wY9E1m6LN4#report)
+
+PDF
+Cattle and Buffalo Breeding Policy for West Bengal[Open Cattle and Buffalo Breeding Policy for West Bengal](https://drive.google.com/file/d/1X5DcC91EX45g3psG5O7PmnG4s8djpRzt/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1X5DcC91EX45g3psG5O7PmnG4s8djpRzt/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1X5DcC91EX45g3psG5O7PmnG4s8djpRzt#report)
+
+PDF
+Classification and Selection of Cat Breeds[Open Classification and Selection of Cat Breeds](https://drive.google.com/file/d/1T8SKT08Rb_CjkNWdoGX4OfEQf8SGZyNY/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1T8SKT08Rb_CjkNWdoGX4OfEQf8SGZyNY/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1T8SKT08Rb_CjkNWdoGX4OfEQf8SGZyNY#report)
+
+PDF
+Classification, Pedigree Sheet and Selection of Dog Breeds[Open Classification, Pedigree Sheet and Selection of Dog Breeds](https://drive.google.com/file/d/1K5rp_-RsGR9IvbzmpYzjD6Q0uTES0qqd/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1K5rp_-RsGR9IvbzmpYzjD6Q0uTES0qqd/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1K5rp_-RsGR9IvbzmpYzjD6Q0uTES0qqd#report)
+
+PDF
+Common Pet Birds in India and their Breeding Management[Open Common Pet Birds in India and their Breeding Management](https://drive.google.com/file/d/1COfL5g0irOq-tfaftwu3UT2XH0abGTBf/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1COfL5g0irOq-tfaftwu3UT2XH0abGTBf/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1COfL5g0irOq-tfaftwu3UT2XH0abGTBf#report)
+
+PDF
+History of Animal Breeding, Classification of Breeds and Economic characters of Livestock and Poultry[Open History of Animal Breeding, Classification of Breeds and Economic characters of Livestock and Poultry](https://drive.google.com/file/d/1Jnc1Qq2Dcj4mMjJdkmL5GiQxQHlxHt9r/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1Jnc1Qq2Dcj4mMjJdkmL5GiQxQHlxHt9r/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Jnc1Qq2Dcj4mMjJdkmL5GiQxQHlxHt9r#report)
+
+PDF
+Livestock and Poultry Breeding Policies & Methods of Conservation[Open Livestock and Poultry Breeding Policies & Methods of Conservation](https://drive.google.com/file/d/1APtzBtzeM-6IpEin4A79_DLCVrx5GmG2/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1APtzBtzeM-6IpEin4A79_DLCVrx5GmG2/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1APtzBtzeM-6IpEin4A79_DLCVrx5GmG2#report)
+
+PDF
+Mating Systems – Inbreeding and Outbreeding[Open Mating Systems – Inbreeding and Outbreeding](https://drive.google.com/file/d/1apawvc4MTdXqKy_0J-orApgWozyE1yxz/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1apawvc4MTdXqKy_0J-orApgWozyE1yxz/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1apawvc4MTdXqKy_0J-orApgWozyE1yxz#report)
+
+PDF
+Operational Guidelines for Implementation of Rashtriya Gokul Mission[Open Operational Guidelines for Implementation of Rashtriya Gokul Mission](https://drive.google.com/file/d/1FD-3IyJZmjbccKCyIy8K1h7DAAYjWtUi/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1FD-3IyJZmjbccKCyIy8K1h7DAAYjWtUi/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FD-3IyJZmjbccKCyIy8K1h7DAAYjWtUi#report)
+
+PDF
+Recent breed improvement projects on buffaloes in India[Open Recent breed improvement projects on buffaloes in India](https://drive.google.com/file/d/1--Apqbf8ZKkKIGYZx3KlwdfbKWVvpg3f/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1--Apqbf8ZKkKIGYZx3KlwdfbKWVvpg3f/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1--Apqbf8ZKkKIGYZx3KlwdfbKWVvpg3f#report)
+
+PDF
+Selection Techniques for Animal Breeding[Open Selection Techniques for Animal Breeding](https://drive.google.com/file/d/1J_9_X0aQmZYbh9Jgtcxy5OGWwU83sTje/view)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1J_9_X0aQmZYbh9Jgtcxy5OGWwU83sTje/view)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1J_9_X0aQmZYbh9Jgtcxy5OGWwU83sTje#report)
+
+PDF
+West Bengal Goat Breeding Policy[Open West Bengal Goat Breeding Policy](https://drive.google.com/file/d/1EvRfo7y-3bxmS0FVR84DTC73kwF7smVe/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1EvRfo7y-3bxmS0FVR84DTC73kwF7smVe/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EvRfo7y-3bxmS0FVR84DTC73kwF7smVe#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

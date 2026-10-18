@@ -4,29 +4,29 @@
 
 # 1st Year Resources
 
-Notes, books and practical material for 1st Year BVSc & AH. Choose a subject to find your next read.
+Unit-wise notes and subject reading guides for 1st Year BVSc & AH. Choose a subject to find your next read.
 
-3 subjects · 197 resources
+3 subjects · 53 resources
 
 [
 
 ## Veterinary Anatomy
 
-84 resources · notes & books
+15 notes · 3 units
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[
 
 ## Veterinary Physiology
 
-27 resources · notes & books
+13 notes · 5 units
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[
 
 ## Livestock Production Management
 
-86 resources · notes & books
+25 notes · 9 units
 
-](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)[Best Books for 1st Year ](https://notes.thatvetguy.net/bvsc/year-1/books/)
 
 1st Year Road Map 
 

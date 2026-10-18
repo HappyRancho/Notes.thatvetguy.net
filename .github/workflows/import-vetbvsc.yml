@@ -1,0 +1,31 @@
+name: Inspect VetBVSc year and unit source links
+on:
+  push:
+    branches: [homepage-approved-mockups]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  source:
+    if: contains(github.event.head_commit.message, '[source-import]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install beautifulsoup4
+      - run: python3 scripts/import-vetbvsc.py
+      - name: Save inspected source metadata
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/vetbvsc-source.json
+          git commit -m 'Record inspected VetBVSc year, subject and unit links [generated]'
+          git push origin HEAD:homepage-approved-mockups
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: vetbvsc-source-review
+          path: data/vetbvsc-source.json

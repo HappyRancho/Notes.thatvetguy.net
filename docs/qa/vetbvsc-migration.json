@@ -1,0 +1,44 @@
+{
+  "source": "https://vetbvsc.in/notes/",
+  "reviewed": "2026-10-18",
+  "links": 499,
+  "yearCounts": {
+    "1": 53,
+    "2": 207,
+    "3": 180,
+    "4": 59
+  },
+  "subjects": {
+    "1": {
+      "Veterinary Anatomy": 15,
+      "Veterinary Physiology": 13,
+      "Livestock Production Management": 25
+    },
+    "2": {
+      "Veterinary Biochemistry": 21,
+      "Veterinary Microbiology": 63,
+      "Veterinary Pathology": 48,
+      "Animal Genetics and Breeding": 45,
+      "Animal Nutrition": 30
+    },
+    "3": {
+      "Veterinary Pharmacology and Toxicology": 27,
+      "Veterinary Parasitology": 47,
+      "Veterinary Public Health and Epidemiology": 35,
+      "Livestock Products Technology": 46,
+      "Veterinary and Animal Husbandry Extension Education": 23,
+      "Veterinary Clinical Practices I": 1,
+      "Livestock Farm Practices": 1
+    },
+    "4": {
+      "Veterinary Medicine": 23,
+      "Veterinary Surgery and Radiology": 23,
+      "Veterinary Gynaecology and Obstetrics": 13,
+      "Veterinary Clinical Practices II": 0
+    }
+  },
+  "bookRecommendations": 23,
+  "duplicateSourceLinksMerged": 7,
+  "unmapped": 0,
+  "notes": "Drive URL targets are preserved from public source pages. File sizes and document modification dates are not asserted. A source-page link does not guarantee public file access. Book recommendations do not claim downloadable copies."
+}

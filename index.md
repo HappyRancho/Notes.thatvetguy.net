@@ -55,7 +55,7 @@ MCQs repeat. Your confidence doesn’t.
 
 [Objective Notes by Dhruv N DesaiComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Objective%20Notes%20by%20Dhruv%20N%20Desai)[Animal Science RefresherComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Animal%20Science%20Refresher)[Review of Animal ScienceComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Review%20of%20Animal%20Science)[Review of Veterinary ScienceComing soon · Request](https://notes.thatvetguy.net/request-resource/?resource=Review%20of%20Veterinary%20Science)
 
-[Anatomy Objective Questions](https://notes.thatvetguy.net/objective/#veterinary-anatomy)[Microbiology MCQs](https://notes.thatvetguy.net/objective/#veterinary-microbiology)[Parasitology Objective Questions](https://notes.thatvetguy.net/objective/#veterinary-parasitology)[ICAR PYQ Question BankComing soon](https://notes.thatvetguy.net/objective/#icar-pyq)
+[ICAR PYQ Question BankComing soon](https://notes.thatvetguy.net/objective/#icar-pyq)
 
 ## Tools & Tips
 
@@ -75,11 +75,11 @@ Check the dose twice. The patient can’t leave a review.
 
 ### Handbooks Collection
 
-](https://notes.thatvetguy.net/clinical/#handbooks)[
+](https://notes.thatvetguy.net/clinical/handbooks/)[
 
 ### Drug Index Collection
 
-](https://notes.thatvetguy.net/clinical/#drug-index)
+](https://notes.thatvetguy.net/clinical/drug-index/)
 
 ## Backbenchers Corner
 

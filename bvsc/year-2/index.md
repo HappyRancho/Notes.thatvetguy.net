@@ -4,57 +4,41 @@
 
 # 2nd Year Resources
 
-Notes, books and practical material for 2nd Year BVSc & AH. Choose a subject to find your next read.
+Unit-wise notes and subject reading guides for 2nd Year BVSc & AH. Choose a subject to find your next read.
 
-5 subjects · 153 resources
+5 subjects · 207 resources
 
 [
 
 ## Veterinary Biochemistry
 
-20 resources · notes & books
+21 notes · 3 units
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[
 
 ## Veterinary Microbiology
 
-52 resources · notes & books
+63 notes · 5 units
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[
 
 ## Veterinary Pathology
 
-25 resources · notes & books
+48 notes · 6 units
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[
 
 ## Animal Genetics and Breeding
 
-35 resources · notes & books
+45 notes · 3 units
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[
 
 ## Animal Nutrition
 
-21 resources · notes & books
+30 notes · 4 units
 
-](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
-
-## A few extras.
-
-These resources don’t yet have a confirmed subject.
-
-### Extras
-
-1
-
-IMG
-Photo set — Year 2 revision — 136 images9.8 MB[Open Photo set — Year 2 revision — 136 images](https://drive.google.com/drive/folders/1udDFWQDlMiRVWpnho39SbhQIvZW9shqY)
-
-Updated 2020-01-27 · 9.8 MB
-
-[Images ](https://drive.google.com/drive/folders/1udDFWQDlMiRVWpnho39SbhQIvZW9shqY)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1udDFWQDlMiRVWpnho39SbhQIvZW9shqY#report)
+](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)[Best Books for 2nd Year ](https://notes.thatvetguy.net/bvsc/year-2/books/)
 
 2nd Year Road Map 
 

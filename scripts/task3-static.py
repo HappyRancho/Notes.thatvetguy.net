@@ -70,9 +70,11 @@ for y in data['years']:
     assert y['count']==sum(s['count'] for s in y['subjects'])+len(y['extras'])
     for s in y['subjects']:assert s['count']==sum(s['groups'].values())==len(s['resourceIds'])
 assert not any('icar-pyq' in r['collections'] for r in records),'Unverified ICAR PYQ'
-assert len([r for r in records if r['title']=='Toxicology Objectives'])==1
-assert next(r for r in records if r['title'].lower()=='micro mcq')['kind']=='objective'
-assert not any('drug-index' in r['collections'] for r in records if r['id'] in ['1B7aVgkhm3eEoEVK1PrquHqa2WuWXQPeE','1ttttsajUvalFa9eL2CX6_3pbnBLnqqH2'])
+source=json.loads((ROOT/'data/vetbvsc-source.json').read_text())
+assert {r['id'] for r in records}=={r['id'] for r in source['notes']},'active catalogue must contain only reviewed source IDs'
+assert {r['url'] for r in records}=={r['url'] for r in source['notes']},'source URLs changed'
+assert all(r.get('unit') and r.get('sourcePage') for r in records),'missing source context'
+assert not any('icar-pyq' in r['collections'] for r in records if 'transfer of technology' in r['title'].lower())
 home=(ROOT/'index.html').read_text();assert all(x not in home for x in ['faq-list','Recently Added','quick-tiles'])
 assert home.count('role="tablist"')==3 and 'BVSc &amp; AH Resources' in home
 assert 'content="noindex,follow"' in (ROOT/'search/index.html').read_text()

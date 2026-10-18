@@ -40,7 +40,7 @@ def article_intro(title,description,crumbs=None):
 def search_form(page=False):return site_shell.search(sys.modules[__name__],page)
 def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None):
     body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
-    modified=json.loads((ROOT/'data/curation.json').read_text())['reviewed']
+    modified=LIBRARY['lastInspected']
     geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433')
@@ -87,5 +87,5 @@ def run():
     body=article_intro(MICROCOPY['404'][0],'Try a subject or search for the resource you need.')+link('/bvsc/','Back to the notes '+icon('arrow'),'button')+'</div>'
     write_page('/404/','Page not found','Find your way back to veterinary notes, books and study resources.',body,noindex=True)
     (ROOT/'404.html').write_text((ROOT/'404/index.html').read_text());discovery()
-    print(f'Built {len(geo.PAGES)} pages, {len(RECORDS)} resource rows; all original files accounted for.')
+    print(f'Built {len(geo.PAGES)} pages, {len(RECORDS)} resource rows; source links organised by year, subject and unit.')
 if __name__=='__main__':run()

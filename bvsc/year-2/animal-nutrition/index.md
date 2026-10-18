@@ -4,203 +4,357 @@
 
 # Animal Nutrition
 
-Animal Nutrition notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
+Animal Nutrition notes for BVSc & AH, organised by unit and topic. Choose a unit below, or search within this subject.
 
-21 resources · 2nd Year
+30 resources · 2nd Year
 
 Search this collection
 
-## Notes
+## Unit 1 – Principles of Animal Nutrition and Feed Technology
 
-5
-
-PDF
-ANN Paper I lecture notes1.7 MB[Open ANN Paper I lecture notes](https://drive.google.com/file/d/1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK/view)
-
-Updated 2020-10-20 · 1.7 MB
-
-[PDF ](https://drive.google.com/file/d/1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XBqe_q3eqdnWXXEghE5b4ipTM8k6AXkK#report)
+13
 
 PDF
-ANN Paper II lecture notes1.4 MB[Open ANN Paper II lecture notes](https://drive.google.com/file/d/1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE/view)
+Common feeds and fodders[Open Common feeds and fodders](https://drive.google.com/file/d/1gMgO4jwRNG1fca2SAVQhSlt3NqbF8Sm9/view?usp=sharing)
 
-Updated 2020-10-20 · 1.4 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FP7UV6QWsvivNhgHTBFlXMFqY9uMmaiE#report)
+[PDF ](https://drive.google.com/file/d/1gMgO4jwRNG1fca2SAVQhSlt3NqbF8Sm9/view?usp=sharing)
 
-DOC
-Feeding of Wild Captive Animals26 KB[Open Feeding of Wild Captive Animals](https://drive.google.com/file/d/1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-07-02 · 26 KB
-
-[DOCX ](https://drive.google.com/file/d/1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1g2HSShPNiX4_eUalJvJcDZ6Alt46X7BB#report)
-
-DOC
-Feeding Pet of Animals30 KB[Open Feeding Pet of Animals](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)
-
-Updated 2020-06-26 · 30 KB
-
-[DOCX ](https://drive.google.com/file/d/1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P_Ush5GyhY8cJfP6HtmEqhfBwi6oRhLH#report)
-
-DOC
-Nutrient Requirement and Feeding of Pigs36 KB[Open Nutrient Requirement and Feeding of Pigs](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)
-
-Updated 2020-05-12 · 36 KB
-
-[DOCX ](https://drive.google.com/file/d/1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1a_0hpfbugfoTMJIdUQjmhJTBmn2H7S3i#report)
-
-## Books
-
-3
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1gMgO4jwRNG1fca2SAVQhSlt3NqbF8Sm9#report)
 
 PDF
-Animal Nutrition, 7th edition3.2 MB[Open Animal Nutrition, 7th edition](https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view)
+Composition of Animal body and Plants[Open Composition of Animal body and Plants](https://drive.google.com/file/d/1Btdb3TxEQO8rJeCDeT0D32GkZl9cwIiT/view?usp=sharing)
 
-Updated 2019-12-04 · 3.2 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r#report)
+[PDF ](https://drive.google.com/file/d/1Btdb3TxEQO8rJeCDeT0D32GkZl9cwIiT/view?usp=sharing)
 
-PDF
-D V. REDDY part 120.3 MB[Open D V. REDDY part 1](https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-06-26 · 20.3 MB
-
-[PDF ](https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Btdb3TxEQO8rJeCDeT0D32GkZl9cwIiT#report)
 
 PDF
-D. V. REDDY part 29.0 MB[Open D. V. REDDY part 2](https://drive.google.com/file/d/1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe/view)
+Direct and Indirect Calorimetry and Carbon Nitrogen Balance Technique[Open Direct and Indirect Calorimetry and Carbon Nitrogen Balance Technique](https://drive.google.com/file/d/1JThVtR7woX1TZXdEXlVrsa8LfGMZR2Eg/view?usp=sharing)
 
-Updated 2020-06-26 · 9.0 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe#report)
+[PDF ](https://drive.google.com/file/d/1JThVtR7woX1TZXdEXlVrsa8LfGMZR2Eg/view?usp=sharing)
 
-## Practical
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JThVtR7woX1TZXdEXlVrsa8LfGMZR2Eg#report)
+
+PDF
+Feed Additives in the Rations of Livestock and Poultry[Open Feed Additives in the Rations of Livestock and Poultry](https://drive.google.com/file/d/1dG5R4urUij9GwWXMFNnf2qI79cBH3lFu/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1dG5R4urUij9GwWXMFNnf2qI79cBH3lFu/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1dG5R4urUij9GwWXMFNnf2qI79cBH3lFu#report)
+
+PDF
+Harmful natural constituents and common adulterants of feed[Open Harmful natural constituents and common adulterants of feed](https://drive.google.com/file/d/1pgthh9apV6eAJ1M3yZpbpSECmu9_rkj-/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1pgthh9apV6eAJ1M3yZpbpSECmu9_rkj-/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pgthh9apV6eAJ1M3yZpbpSECmu9_rkj-#report)
+
+PDF
+History of Animal Nutrition, Importance of Nutrients and Nutritional Terms[Open History of Animal Nutrition, Importance of Nutrients and Nutritional Terms](https://drive.google.com/file/d/1qkHCne64pULGjhfXKK49se7m8GccEMnS/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1qkHCne64pULGjhfXKK49se7m8GccEMnS/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qkHCne64pULGjhfXKK49se7m8GccEMnS#report)
+
+PDF
+Introduction to Feed Technology[Open Introduction to Feed Technology](https://drive.google.com/file/d/1MU9Cb3bwvfuzGtfoByha399lws3nk8vI/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1MU9Cb3bwvfuzGtfoByha399lws3nk8vI/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MU9Cb3bwvfuzGtfoByha399lws3nk8vI#report)
+
+PDF
+Measures of Food energy and their applications[Open Measures of Food energy and their applications](https://drive.google.com/file/d/1q6EizI_0DjIWlsrgFtp1sx_BpQN9cnph/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1q6EizI_0DjIWlsrgFtp1sx_BpQN9cnph/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q6EizI_0DjIWlsrgFtp1sx_BpQN9cnph#report)
+
+PDF
+Physical, Chemical and Biological methods for improving the Nutritive value of feed[Open Physical, Chemical and Biological methods for improving the Nutritive value of feed](https://drive.google.com/file/d/1o4ooQ3qYRnvIT2wSVwm0pKeeXi2jMMw0/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1o4ooQ3qYRnvIT2wSVwm0pKeeXi2jMMw0/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1o4ooQ3qYRnvIT2wSVwm0pKeeXi2jMMw0#report)
+
+PDF
+Preparation, Storage and Conservation of Livestock Feed through Silage and Hay Making[Open Preparation, Storage and Conservation of Livestock Feed through Silage and Hay Making](https://drive.google.com/file/d/1yhna301BQU18HweaWWOeb8vslonWhkq5/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1yhna301BQU18HweaWWOeb8vslonWhkq5/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1yhna301BQU18HweaWWOeb8vslonWhkq5#report)
+
+PDF
+Principles of Animal Nutrition and Feed Technology Note[Open Principles of Animal Nutrition and Feed Technology Note](https://drive.google.com/file/d/1l7GS0irHCagrNgzujKY-i3YFN98gwVHZ/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1l7GS0irHCagrNgzujKY-i3YFN98gwVHZ/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1l7GS0irHCagrNgzujKY-i3YFN98gwVHZ#report)
+
+PDF
+Protein Evaluation of Feeds[Open Protein Evaluation of Feeds](https://drive.google.com/file/d/1C7SGMFm0KTJN-v82AaqHld1JdeB339dc/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1C7SGMFm0KTJN-v82AaqHld1JdeB339dc/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1C7SGMFm0KTJN-v82AaqHld1JdeB339dc#report)
+
+PDF
+Role and Requirements of Water, Minerals and Vitamins and Feed Supplements[Open Role and Requirements of Water, Minerals and Vitamins and Feed Supplements](https://drive.google.com/file/d/17NCCgBrYmJfqJiinmxheIzq62HYcv980/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/17NCCgBrYmJfqJiinmxheIzq62HYcv980/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=17NCCgBrYmJfqJiinmxheIzq62HYcv980#report)
+
+## Unit 2 – Applied Ruminant Nutrition – I
 
 2
 
-PPT
-ANN Paper I3.8 MB[Open ANN Paper I](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)
+PDF
+Applied Ruminant Nutrition-I Note[Open Applied Ruminant Nutrition-I Note](https://drive.google.com/file/d/1v2b-TkwI5dRHgBNyfJwHgGz3Z0SPzTiU/view?usp=sharing)
 
-Updated 2021-01-21 · 3.8 MB
+Link checked 2026-10-18
 
-[PPTX ](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM#report)
+[PDF ](https://drive.google.com/file/d/1v2b-TkwI5dRHgBNyfJwHgGz3Z0SPzTiU/view?usp=sharing)
 
-PPT
-ANN Paper II2.7 MB[Open ANN Paper II](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2021-01-21 · 2.7 MB
-
-[PPTX ](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R#report)
-
-## Objective
-
-2
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1v2b-TkwI5dRHgBNyfJwHgGz3Z0SPzTiU#report)
 
 PDF
-Animal Nutrition 121.8 MB[Open Animal Nutrition 1](https://drive.google.com/file/d/1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV/view)
+Scientific Feeding, Digestibility and Balanced Ration[Open Scientific Feeding, Digestibility and Balanced Ration](https://drive.google.com/file/d/1G8j_jLGwYlz3NYD47TSc3RCF3VA_1XLa/view?usp=sharing)
 
-Updated 2019-12-14 · 21.8 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lZvsjFChh5ITI4d0iyXX74XpJVDAVIXV#report)
+[PDF ](https://drive.google.com/file/d/1G8j_jLGwYlz3NYD47TSc3RCF3VA_1XLa/view?usp=sharing)
 
-PDF
-Animal Nutrition 227.4 MB[Open Animal Nutrition 2](https://drive.google.com/file/d/11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2019-07-17 · 27.4 MB
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1G8j_jLGwYlz3NYD47TSc3RCF3VA_1XLa#report)
 
-[PDF ](https://drive.google.com/file/d/11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11f2-zJ9Hif3dbum2yOxoE6TWkpoAvKoM#report)
+## Unit 3 – Applied Ruminant Nutrition – II
 
-## Images
-
-1
-
-IMG
-Photo set — Animal Nutrition — 2 images244 KB[Open Photo set — Animal Nutrition — 2 images](https://drive.google.com/drive/folders/1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk)
-
-Updated 2019-12-21 · 244 KB
-
-[Images ](https://drive.google.com/drive/folders/1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=photos-1Ysrwvz_5GNF0_aPH-gOynJTiD3ITojGk#report)
-
-## Extras
-
-8
+4
 
 PDF
-ANN Paper I Assignments92 KB[Open ANN Paper I Assignments](https://drive.google.com/file/d/1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3/view)
+Applied Ruminant Nutrition-II Note[Open Applied Ruminant Nutrition-II Note](https://drive.google.com/file/d/1bImtq5fSseZpw_qlg1zRfHh2vwePQf3K/view?usp=sharing)
 
-Updated 2020-12-15 · 92 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1MUmQXmJfnwFj8vaDV1loJpv9DvgawOx3#report)
+[PDF ](https://drive.google.com/file/d/1bImtq5fSseZpw_qlg1zRfHh2vwePQf3K/view?usp=sharing)
 
-PDF
-ANN Paper II Assignments115 KB[Open ANN Paper II Assignments](https://drive.google.com/file/d/1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-12-15 · 115 KB
-
-[PDF ](https://drive.google.com/file/d/1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BNv6ZHPYZLK3UNVJLZTPxmQL3G2UmEuh#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bImtq5fSseZpw_qlg1zRfHh2vwePQf3K#report)
 
 PDF
-BVO18041 - Nutrition Paper 110.2 MB[Open BVO18041 - Nutrition Paper 1](https://drive.google.com/file/d/1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE/view)
+Methods for assessing the energy and protein requirements for maintenance and Production[Open Methods for assessing the energy and protein requirements for maintenance and Production](https://drive.google.com/file/d/1LIUZ0CdRiG0jB9senEkLU3CDIMLEc6oZ/view?usp=sharing)
 
-Updated 2020-12-25 · 10.2 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1sqkrP0Qq9oil9Tdf8RgUBOWGD6LmDRHE#report)
+[PDF ](https://drive.google.com/file/d/1LIUZ0CdRiG0jB9senEkLU3CDIMLEc6oZ/view?usp=sharing)
 
-PDF
-BVO18041 - Nutrition Paper 211.1 MB[Open BVO18041 - Nutrition Paper 2](https://drive.google.com/file/d/1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-12-25 · 11.1 MB
-
-[PDF ](https://drive.google.com/file/d/1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VfN9WZYxvoAGhCjw7i_HQLIqOEuCbAJL#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LIUZ0CdRiG0jB9senEkLU3CDIMLEc6oZ#report)
 
 PDF
-Nutrition Internal 2 Choose250 KB[Open Nutrition Internal 2 Choose](https://drive.google.com/file/d/1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ/view)
+Nutrition of Cattle and Buffaloes[Open Nutrition of Cattle and Buffaloes](https://drive.google.com/file/d/1pYlVX3URUzzr7MIV3RETbB8amYtJ1jWQ/view?usp=sharing)
 
-Updated 2020-11-04 · 250 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1u_UyXu10aQEDaFDcIUoZk40gUW5bwdnQ#report)
+[PDF ](https://drive.google.com/file/d/1pYlVX3URUzzr7MIV3RETbB8amYtJ1jWQ/view?usp=sharing)
 
-PDF
-Nutrition Internal 2 Fillups97 KB[Open Nutrition Internal 2 Fillups](https://drive.google.com/file/d/1nudzh1M0A_ngthDwh4548KG2vRMzg1t6/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-11-04 · 97 KB
-
-[PDF ](https://drive.google.com/file/d/1nudzh1M0A_ngthDwh4548KG2vRMzg1t6/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nudzh1M0A_ngthDwh4548KG2vRMzg1t6#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pYlVX3URUzzr7MIV3RETbB8amYtJ1jWQ#report)
 
 PDF
-Nutrition Internal 2 with ans876 KB[Open Nutrition Internal 2 with ans](https://drive.google.com/file/d/1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5/view)
+Nutrition of Sheep and Goat[Open Nutrition of Sheep and Goat](https://drive.google.com/file/d/1XmxTAWTszeaEG0e9Tnfiwbx7WDrblPy0/view?usp=sharing)
 
-Updated 2020-09-23 · 876 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mMiTnZtrMcq3d_vFg3HeE2-a0rcX_6L5#report)
+[PDF ](https://drive.google.com/file/d/1XmxTAWTszeaEG0e9Tnfiwbx7WDrblPy0/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XmxTAWTszeaEG0e9Tnfiwbx7WDrblPy0#report)
+
+## Unit 4 – Applied Non-Ruminant Nutrition
+
+11
 
 PDF
-Nutrition Internal 3 with ans337 KB[Open Nutrition Internal 3 with ans](https://drive.google.com/file/d/1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_/view)
+Applied Non-Ruminant Nutrition Note[Open Applied Non-Ruminant Nutrition Note](https://drive.google.com/file/d/1fZTBZoYd-8Wrk0kvErD-8B2iWYsgk5wW/view?usp=sharing)
 
-Updated 2020-10-16 · 337 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1xQrrOr2aODWPu0OluaXDT-BQNwTAVFs_#report)
+[PDF ](https://drive.google.com/file/d/1fZTBZoYd-8Wrk0kvErD-8B2iWYsgk5wW/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fZTBZoYd-8Wrk0kvErD-8B2iWYsgk5wW#report)
+
+PDF
+Diet Formulation, Preparation and Feeding of Laboratory Animals[Open Diet Formulation, Preparation and Feeding of Laboratory Animals](https://drive.google.com/file/d/1flzo3YxJ3S-kuGZIBVVvwl1zmhzwqvBK/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1flzo3YxJ3S-kuGZIBVVvwl1zmhzwqvBK/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1flzo3YxJ3S-kuGZIBVVvwl1zmhzwqvBK#report)
+
+PDF
+Feeding of Ducks[Open Feeding of Ducks](https://drive.google.com/file/d/1IlRC_YALzQZExsWhj5xwagJpwafMhp2-/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1IlRC_YALzQZExsWhj5xwagJpwafMhp2-/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IlRC_YALzQZExsWhj5xwagJpwafMhp2-#report)
+
+PDF
+Feeding of Equine[Open Feeding of Equine](https://drive.google.com/file/d/1ABAH9IZQxeYvx3b0cvaqc0wQWWsRc0p5/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1ABAH9IZQxeYvx3b0cvaqc0wQWWsRc0p5/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ABAH9IZQxeYvx3b0cvaqc0wQWWsRc0p5#report)
+
+PDF
+Feeding of Poultry[Open Feeding of Poultry](https://drive.google.com/file/d/1oX9GsF67y7ISP7VZ0hqurC015faj8XTa/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1oX9GsF67y7ISP7VZ0hqurC015faj8XTa/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1oX9GsF67y7ISP7VZ0hqurC015faj8XTa#report)
+
+PDF
+Feeding of Swine[Open Feeding of Swine](https://drive.google.com/file/d/1E0oMo9EQ2kyw1YbojN48Im5Y7vmlFfg5/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1E0oMo9EQ2kyw1YbojN48Im5Y7vmlFfg5/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1E0oMo9EQ2kyw1YbojN48Im5Y7vmlFfg5#report)
+
+PDF
+Nutrient Requirement and Feeding of Dogs and Cats[Open Nutrient Requirement and Feeding of Dogs and Cats](https://drive.google.com/file/d/1RmGw84EIr1wSCcY1tMAY32fpHIjHBUx3/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1RmGw84EIr1wSCcY1tMAY32fpHIjHBUx3/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RmGw84EIr1wSCcY1tMAY32fpHIjHBUx3#report)
+
+PDF
+Nutrient requirements in Poultry, Swine and Equine[Open Nutrient requirements in Poultry, Swine and Equine](https://drive.google.com/file/d/1AVRLAkiJ3D_5N6RgXzg4e7ac96SSLruT/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1AVRLAkiJ3D_5N6RgXzg4e7ac96SSLruT/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AVRLAkiJ3D_5N6RgXzg4e7ac96SSLruT#report)
+
+PDF
+Nutrient Requirements of Laboratory Animals[Open Nutrient Requirements of Laboratory Animals](https://drive.google.com/file/d/18ZLCWt3o2kM7g4KREhw5jJosG47EwmEc/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/18ZLCWt3o2kM7g4KREhw5jJosG47EwmEc/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=18ZLCWt3o2kM7g4KREhw5jJosG47EwmEc#report)
+
+PDF
+Ration Formulation and Feeding Standards[Open Ration Formulation and Feeding Standards](https://drive.google.com/file/d/1zHIi5EeEBkGIal1F-TF3noYbZiF3pMW0/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1zHIi5EeEBkGIal1F-TF3noYbZiF3pMW0/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1zHIi5EeEBkGIal1F-TF3noYbZiF3pMW0#report)
+
+PDF
+Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://drive.google.com/file/d/1bgt6Ts1YC4zIGnIXIFds48BNcJnlDYvG/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1bgt6Ts1YC4zIGnIXIFds48BNcJnlDYvG/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1bgt6Ts1YC4zIGnIXIFds48BNcJnlDYvG#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 

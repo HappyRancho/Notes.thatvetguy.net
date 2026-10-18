@@ -4,447 +4,724 @@
 
 # Veterinary Microbiology
 
-Veterinary Microbiology notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.
+Veterinary Microbiology notes for BVSc & AH, organised by unit and topic. Choose a unit below, or search within this subject.
 
-52 resources · 2nd Year
+63 resources · 2nd Year
 
 Search this collection
 
-## Notes
+## Unit 1 – General and Systematic Veterinary Bacteriology
 
-11
-
-PDF
-Animal Biotechnology1.3 MB[Open Animal Biotechnology](https://drive.google.com/file/d/1Cc2JVeW4Qf_JJVFJUCrCyVpNe3FCQd2g/view)
-
-Updated 2020-08-06 · 1.3 MB
-
-[PDF ](https://drive.google.com/file/d/1Cc2JVeW4Qf_JJVFJUCrCyVpNe3FCQd2g/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1Cc2JVeW4Qf_JJVFJUCrCyVpNe3FCQd2g)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Cc2JVeW4Qf_JJVFJUCrCyVpNe3FCQd2g#report)
+23
 
 PDF
-Biochemical tests for identification of bacteria485 KB[Open Biochemical tests for identification of bacteria](https://drive.google.com/file/d/1hykcOoaUeKi5sJlgPXg_Kc3m9tKv7Q4S/view)
+Actinobacillus, Haemophilus and Brucella[Open Actinobacillus, Haemophilus and Brucella](https://drive.google.com/file/d/1f1O_7UQdwCgEPp8JurA5Qlv0cCf14_kN/view?usp=sharing)
 
-Updated 2020-10-20 · 485 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1hykcOoaUeKi5sJlgPXg_Kc3m9tKv7Q4S/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1hykcOoaUeKi5sJlgPXg_Kc3m9tKv7Q4S)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hykcOoaUeKi5sJlgPXg_Kc3m9tKv7Q4S#report)
+[PDF ](https://drive.google.com/file/d/1f1O_7UQdwCgEPp8JurA5Qlv0cCf14_kN/view?usp=sharing)
 
-PDF
-Complete notes - Virology (2018-19 batch)7.5 MB[Open Complete notes - Virology (2018-19 batch)](https://drive.google.com/file/d/12AtwJALCQQmflEXkapk2QYU-UT_elu5_/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-09-19 · 7.5 MB
-
-[PDF ](https://drive.google.com/file/d/12AtwJALCQQmflEXkapk2QYU-UT_elu5_/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=12AtwJALCQQmflEXkapk2QYU-UT_elu5_)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12AtwJALCQQmflEXkapk2QYU-UT_elu5_#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1f1O_7UQdwCgEPp8JurA5Qlv0cCf14_kN#report)
 
 PDF
-General and Sys. Virology VMC 321 COURSEMATERIALS5.7 MB[Open General and Sys. Virology VMC 321 COURSEMATERIALS](https://drive.google.com/file/d/1ogP0GId4G-9lL93nSkh0QnDanFNl5uLr/view)
+Actinomyces and Nocardia[Open Actinomyces and Nocardia](https://drive.google.com/file/d/1e-p_i_joWSph_UjcuQgNDjEmPDmxGexH/view?usp=sharing)
 
-Updated 2020-10-20 · 5.7 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1ogP0GId4G-9lL93nSkh0QnDanFNl5uLr/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1ogP0GId4G-9lL93nSkh0QnDanFNl5uLr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ogP0GId4G-9lL93nSkh0QnDanFNl5uLr#report)
+[PDF ](https://drive.google.com/file/d/1e-p_i_joWSph_UjcuQgNDjEmPDmxGexH/view?usp=sharing)
 
-PDF
-General Veterinary Microbiology1.2 MB[Open General Veterinary Microbiology](https://drive.google.com/file/d/1RjcacmJMu9n2esDNa1cmFDI1dBX9ONWe/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-08-06 · 1.2 MB
-
-[PDF ](https://drive.google.com/file/d/1RjcacmJMu9n2esDNa1cmFDI1dBX9ONWe/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1RjcacmJMu9n2esDNa1cmFDI1dBX9ONWe)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RjcacmJMu9n2esDNa1cmFDI1dBX9ONWe#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1e-p_i_joWSph_UjcuQgNDjEmPDmxGexH#report)
 
 PDF
-Immunology - Theory-20204.2 MB[Open Immunology - Theory-2020](https://drive.google.com/file/d/1_MywZIh7aVq-YkMN83jFdYxJPCwFD8Is/view)
+Bacillus[Open Bacillus](https://drive.google.com/file/d/1hOjZoELlfMzPxImqGlpUYCqyW7tcwFKr/view?usp=sharing)
 
-Updated 2020-04-15 · 4.2 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1_MywZIh7aVq-YkMN83jFdYxJPCwFD8Is/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1_MywZIh7aVq-YkMN83jFdYxJPCwFD8Is)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_MywZIh7aVq-YkMN83jFdYxJPCwFD8Is#report)
+[PDF ](https://drive.google.com/file/d/1hOjZoELlfMzPxImqGlpUYCqyW7tcwFKr/view?usp=sharing)
 
-PDF
-Sys Bacteriology and Mycology4.5 MB[Open Sys Bacteriology and Mycology](https://drive.google.com/file/d/1ySPwNC4CgNqKmuVqUJHFbPFKjHpbrBM5/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-20 · 4.5 MB
-
-[PDF ](https://drive.google.com/file/d/1ySPwNC4CgNqKmuVqUJHFbPFKjHpbrBM5/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1ySPwNC4CgNqKmuVqUJHFbPFKjHpbrBM5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ySPwNC4CgNqKmuVqUJHFbPFKjHpbrBM5#report)
-
-DOC
-Sys.Bacteriology Lecture Notes (2018-19) MSVE439 KB[Open Sys.Bacteriology Lecture Notes (2018-19) MSVE](https://drive.google.com/file/d/1x9KDfbZgO9Cm_ouYKECoKGxr5QLsuKjn/view)
-
-Updated 2020-06-26 · 439 KB
-
-[DOCX ](https://drive.google.com/file/d/1x9KDfbZgO9Cm_ouYKECoKGxr5QLsuKjn/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1x9KDfbZgO9Cm_ouYKECoKGxr5QLsuKjn)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1x9KDfbZgO9Cm_ouYKECoKGxr5QLsuKjn#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hOjZoELlfMzPxImqGlpUYCqyW7tcwFKr#report)
 
 PDF
-Systematic Veterinary Bacteriology and Mycology3.9 MB[Open Systematic Veterinary Bacteriology and Mycology](https://drive.google.com/file/d/1kN6TiMm19pgSukeU4N_trRqiNUVazhgP/view)
+Bordetella and Moraxella[Open Bordetella and Moraxella](https://drive.google.com/file/d/1ybrB7d5R8P8YsfB8EoCd8h8CcNWWv7P0/view?usp=sharing)
 
-Updated 2020-08-06 · 3.9 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1kN6TiMm19pgSukeU4N_trRqiNUVazhgP/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1kN6TiMm19pgSukeU4N_trRqiNUVazhgP)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kN6TiMm19pgSukeU4N_trRqiNUVazhgP#report)
+[PDF ](https://drive.google.com/file/d/1ybrB7d5R8P8YsfB8EoCd8h8CcNWWv7P0/view?usp=sharing)
 
-DOC
-Unit 3-Microbial Biotechnology339 KB[Open Unit 3-Microbial Biotechnology](https://drive.google.com/file/d/1d9ImS4oKcppnQqMvNesEiwgop6yC5Zjk/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-20 · 339 KB
-
-[DOCX ](https://drive.google.com/file/d/1d9ImS4oKcppnQqMvNesEiwgop6yC5Zjk/view)[PDF ](https://drive.google.com/file/d/1W1vnWfUinkM3grYfMkUngXWBgEfo0C37/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1d9ImS4oKcppnQqMvNesEiwgop6yC5Zjk)[Download PDF](https://drive.google.com/uc?export=download&id=1W1vnWfUinkM3grYfMkUngXWBgEfo0C37)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1d9ImS4oKcppnQqMvNesEiwgop6yC5Zjk#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ybrB7d5R8P8YsfB8EoCd8h8CcNWWv7P0#report)
 
 PDF
-Veterinary Immunology5.6 MB[Open Veterinary Immunology](https://drive.google.com/file/d/14Igw6YuzPTkmesbsrbNNB8HYX0tR3gtS/view)
+Campylobacter[Open Campylobacter](https://drive.google.com/file/d/1UjoBnm_DgGQwzaiOWjakG4Vbf6Hlt84w/view?usp=sharing)
 
-Updated 2020-08-06 · 5.6 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/14Igw6YuzPTkmesbsrbNNB8HYX0tR3gtS/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=14Igw6YuzPTkmesbsrbNNB8HYX0tR3gtS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14Igw6YuzPTkmesbsrbNNB8HYX0tR3gtS#report)
+[PDF ](https://drive.google.com/file/d/1UjoBnm_DgGQwzaiOWjakG4Vbf6Hlt84w/view?usp=sharing)
 
-## Books
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-4
-
-PDF
-Ananthanarayan microbio35.7 MB[Open Ananthanarayan microbio](https://drive.google.com/file/d/1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ/view)
-
-Updated 2019-12-04 · 35.7 MB
-
-[PDF ](https://drive.google.com/file/d/1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1UjoBnm_DgGQwzaiOWjakG4Vbf6Hlt84w#report)
 
 PDF
-Fenner’s Veterinary Virology 5th edition87.0 MB[Open Fenner’s Veterinary Virology 5th edition](https://drive.google.com/file/d/1hmdTX40KfWhqQvkySFjM-CWr_NYkyb1c/view)
+Chlamydia and Chlamydophila[Open Chlamydia and Chlamydophila](https://drive.google.com/file/d/1KP_8gDJOY2p4PYH2nOG8gKRAb2IjJHuU/view?usp=sharing)
 
-Updated 2020-04-16 · 87.0 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1hmdTX40KfWhqQvkySFjM-CWr_NYkyb1c/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1hmdTX40KfWhqQvkySFjM-CWr_NYkyb1c#report)
+[PDF ](https://drive.google.com/file/d/1KP_8gDJOY2p4PYH2nOG8gKRAb2IjJHuU/view?usp=sharing)
 
-PDF
-Prescott’s Microbiology ( PDFDrive.com )144.5 MB[Open Prescott’s Microbiology ( PDFDrive.com )](https://drive.google.com/file/d/1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2019-12-04 · 144.5 MB
-
-[PDF ](https://drive.google.com/file/d/1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KP_8gDJOY2p4PYH2nOG8gKRAb2IjJHuU#report)
 
 PDF
-Veterinary Mycology3.5 MB[Open Veterinary Mycology](https://drive.google.com/file/d/1ePan-dG10lehu5icHLxSfREmwBCIEUtZ/view)
+Clostridium[Open Clostridium](https://drive.google.com/file/d/1R9N8NdLbYOB0z-ZWA0hJsIq-usFYwCqB/view?usp=sharing)
 
-Updated 2020-03-23 · 3.5 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1ePan-dG10lehu5icHLxSfREmwBCIEUtZ/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1ePan-dG10lehu5icHLxSfREmwBCIEUtZ)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ePan-dG10lehu5icHLxSfREmwBCIEUtZ#report)
+[PDF ](https://drive.google.com/file/d/1R9N8NdLbYOB0z-ZWA0hJsIq-usFYwCqB/view?usp=sharing)
 
-## Practical
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-21
-
-PPT
-Agglutination1.4 MB[Open Agglutination](https://drive.google.com/file/d/1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK/view)
-
-Updated 2021-01-03 · 1.4 MB
-
-[PPTX ](https://drive.google.com/file/d/1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK#report)
-
-PPT
-AGPT & Single Radial Immunodiffusion5.9 MB[Open AGPT & Single Radial Immunodiffusion](https://drive.google.com/file/d/1AJkf_03E-uSZU6AhqWepthEop1zNcr3i/view)
-
-Updated 2021-01-03 · 5.9 MB
-
-[PPTX ](https://drive.google.com/file/d/1AJkf_03E-uSZU6AhqWepthEop1zNcr3i/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1AJkf_03E-uSZU6AhqWepthEop1zNcr3i)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AJkf_03E-uSZU6AhqWepthEop1zNcr3i#report)
-
-PPT
-Antibiotic sensitivity test999 KB[Open Antibiotic sensitivity test](https://drive.google.com/file/d/1viud6MZ0CneNE7UnaewE6eM8oayGjmpD/view)
-
-Updated 2021-01-03 · 999 KB
-
-[PPTX ](https://drive.google.com/file/d/1viud6MZ0CneNE7UnaewE6eM8oayGjmpD/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1viud6MZ0CneNE7UnaewE6eM8oayGjmpD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1viud6MZ0CneNE7UnaewE6eM8oayGjmpD#report)
-
-PPT
-Bacterial motility443 KB[Open Bacterial motility](https://drive.google.com/file/d/1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr/view)
-
-Updated 2021-01-03 · 443 KB
-
-[PPTX ](https://drive.google.com/file/d/1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr#report)
-
-PPT
-Counterimmunoelectrophoresis1.8 MB[Open Counterimmunoelectrophoresis](https://drive.google.com/file/d/1X78TxR118HeDP1zI0meYFJTDYzrOFEGD/view)
-
-Updated 2021-01-03 · 1.8 MB
-
-[PPTX ](https://drive.google.com/file/d/1X78TxR118HeDP1zI0meYFJTDYzrOFEGD/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1X78TxR118HeDP1zI0meYFJTDYzrOFEGD)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1X78TxR118HeDP1zI0meYFJTDYzrOFEGD#report)
-
-PPT
-Double Immuno Diffusion (DID) - Ouchterlony method49 KB[Open Double Immuno Diffusion (DID) - Ouchterlony method](https://drive.google.com/file/d/1AEqmdwMJHgATsY3Z99361e9KodF1e65K/view)
-
-Updated 2022-03-24 · 49 KB
-
-[PPTX ](https://drive.google.com/file/d/1AEqmdwMJHgATsY3Z99361e9KodF1e65K/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1AEqmdwMJHgATsY3Z99361e9KodF1e65K)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AEqmdwMJHgATsY3Z99361e9KodF1e65K#report)
-
-DOC
-General MicrobiologyNEW5.1 MB[Open General Microbiology](https://drive.google.com/file/d/1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM/view)
-
-Updated 2026-10-04 · 5.1 MB
-
-[DOCX ](https://drive.google.com/file/d/1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM#report)
-
-DOC
-General Microbiology Content1.6 MB[Open General Microbiology Content](https://drive.google.com/file/d/1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH/view)
-
-Updated 2020-12-20 · 1.6 MB
-
-[DOCX ](https://drive.google.com/file/d/1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH#report)
-
-PPT
-HA &HI2.2 MB[Open HA &HI](https://drive.google.com/file/d/1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM/view)
-
-Updated 2021-01-03 · 2.2 MB
-
-[PPTX ](https://drive.google.com/file/d/1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM#report)
-
-PPT
-Haemagglutination test (HA)2.4 MB[Open Haemagglutination test (HA)](https://drive.google.com/file/d/1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS/view)
-
-Updated 2021-01-03 · 2.4 MB
-
-[PPTX ](https://drive.google.com/file/d/1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1R9N8NdLbYOB0z-ZWA0hJsIq-usFYwCqB#report)
 
 PDF
-Immunology - Practical Manual (2018-19)966 KB[Open Immunology - Practical Manual (2018-19)](https://drive.google.com/file/d/14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb/view)
+Corynebacterium, Trueperella and Rhodococcus[Open Corynebacterium, Trueperella and Rhodococcus](https://drive.google.com/file/d/1BISS35SKL0jImYY1MdtQfcgOzaJXzahl/view?usp=sharing)
 
-Updated 2020-12-18 · 966 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb#report)
+[PDF ](https://drive.google.com/file/d/1BISS35SKL0jImYY1MdtQfcgOzaJXzahl/view?usp=sharing)
 
-PPT
-Isolation of bacteria in pure culture517 KB[Open Isolation of bacteria in pure culture](https://drive.google.com/file/d/1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2021-01-03 · 517 KB
-
-[PPTX ](https://drive.google.com/file/d/1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt#report)
-
-PPT
-Isolation of viruses in laboratory animals or poultry or embryonated chicken eggs5.8 MB[Open Isolation of viruses in laboratory animals or poultry or embryonated chicken eggs](https://drive.google.com/file/d/1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk/view)
-
-Updated 2021-01-03 · 5.8 MB
-
-[PPTX ](https://drive.google.com/file/d/1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk#report)
-
-PPT
-Methods of inoculation1.9 MB[Open Methods of inoculation](https://drive.google.com/file/d/1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9/view)
-
-Updated 2021-01-03 · 1.9 MB
-
-[PPTX ](https://drive.google.com/file/d/1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9#report)
-
-PPT
-Methods of sterilization and disinfection4.0 MB[Open Methods of sterilization and disinfection](https://drive.google.com/file/d/1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq/view)
-
-Updated 2021-01-03 · 4.0 MB
-
-[PPTX ](https://drive.google.com/file/d/1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq#report)
-
-DOC
-Mycology686 KB[Open Mycology](https://drive.google.com/file/d/1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR/view)
-
-Updated 2020-12-20 · 686 KB
-
-[DOCX ](https://drive.google.com/file/d/1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BISS35SKL0jImYY1MdtQfcgOzaJXzahl#report)
 
 PDF
-NEW MICROBIOLOGY FILE4.4 MB[Open NEW MICROBIOLOGY FILE](https://drive.google.com/file/d/16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY/view)
+Emerging, Re-emerging Diseases[Open Emerging, Re-emerging Diseases](https://drive.google.com/file/d/1IvtXfAkYcvBAIaFxEfrZkyXDro2MlEbD/view)
 
-Updated 2020-12-20 · 4.4 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY#report)
+[PDF ](https://drive.google.com/file/d/1IvtXfAkYcvBAIaFxEfrZkyXDro2MlEbD/view)
 
-PPT
-Preparation of culture media1.1 MB[Open Preparation of culture media](https://drive.google.com/file/d/1jNPUI0UShLsLwBYatJWKvocaZP59i359/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2021-01-03 · 1.1 MB
-
-[PPTX ](https://drive.google.com/file/d/1jNPUI0UShLsLwBYatJWKvocaZP59i359/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1jNPUI0UShLsLwBYatJWKvocaZP59i359)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jNPUI0UShLsLwBYatJWKvocaZP59i359#report)
-
-PPT
-Staining techniques1.4 MB[Open Staining techniques](https://drive.google.com/file/d/1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj/view)
-
-Updated 2021-01-03 · 1.4 MB
-
-[PPTX ](https://drive.google.com/file/d/1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj/view)
-[Download PPT](https://drive.google.com/uc?export=download&id=1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1IvtXfAkYcvBAIaFxEfrZkyXDro2MlEbD#report)
 
 PDF
-Sys. Bacteriology Practical Manual (2018-19)2.0 MB[Open Sys. Bacteriology Practical Manual (2018-19)](https://drive.google.com/file/d/1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1/view)
+Enterobacteriaceae – E. coli, Klebsiella, Salmonella, Yersinia and Proteus[Open Enterobacteriaceae – E. coli, Klebsiella, Salmonella, Yersinia and Proteus](https://drive.google.com/file/d/1VUjMxSj1HMEwoR8XaTsL6cEfMSkp1xtc/view?usp=sharing)
 
-Updated 2020-12-18 · 2.0 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1#report)
+[PDF ](https://drive.google.com/file/d/1VUjMxSj1HMEwoR8XaTsL6cEfMSkp1xtc/view?usp=sharing)
 
-PDF
-Virology - Practical Manual (2018-19)2.0 MB[Open Virology - Practical Manual (2018-19)](https://drive.google.com/file/d/1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-12-18 · 2.0 MB
-
-[PDF ](https://drive.google.com/file/d/1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5#report)
-
-## Objective
-
-3
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VUjMxSj1HMEwoR8XaTsL6cEfMSkp1xtc#report)
 
 PDF
-General Microbiology & Immunology18.1 MB[Open General Microbiology & Immunology](https://drive.google.com/file/d/1nfB7A7AZT2qiPZEvzhO6DKQ2c2VzbBi3/view)
+General Bacteriology[Open General Bacteriology](https://drive.google.com/file/d/1fbcY9SVbUz2uiOnlPb2CXU5moqAKa0u-/view?usp=sharing)
 
-Updated 2019-12-14 · 18.1 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1nfB7A7AZT2qiPZEvzhO6DKQ2c2VzbBi3/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1nfB7A7AZT2qiPZEvzhO6DKQ2c2VzbBi3)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nfB7A7AZT2qiPZEvzhO6DKQ2c2VzbBi3#report)
+[PDF ](https://drive.google.com/file/d/1fbcY9SVbUz2uiOnlPb2CXU5moqAKa0u-/view?usp=sharing)
 
-PDF
-Micro mcq443 KB[Open Micro mcq](https://drive.google.com/file/d/14W3yH0ZhyeuZmzoAZHyJzgekhqeXEMHY/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-20 · 443 KB
-
-[PDF ](https://drive.google.com/file/d/14W3yH0ZhyeuZmzoAZHyJzgekhqeXEMHY/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=14W3yH0ZhyeuZmzoAZHyJzgekhqeXEMHY)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14W3yH0ZhyeuZmzoAZHyJzgekhqeXEMHY#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1fbcY9SVbUz2uiOnlPb2CXU5moqAKa0u-#report)
 
 PDF
-Systemic Microbiology18.1 MB[Open Systemic Microbiology](https://drive.google.com/file/d/1DuVzKtemgY7tbHEjUo3C7oxxOTFjpsMm/view)
+Gram Negative Anaerobes – Bacteriodes, Dichlobacteria and Fusobacterium[Open Gram Negative Anaerobes – Bacteriodes, Dichlobacteria and Fusobacterium](https://drive.google.com/file/d/1nWERZeji6mcXUx1jYZyEXyFnYAucZMvb/view?usp=sharing)
 
-Updated 2019-12-14 · 18.1 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1DuVzKtemgY7tbHEjUo3C7oxxOTFjpsMm/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1DuVzKtemgY7tbHEjUo3C7oxxOTFjpsMm)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DuVzKtemgY7tbHEjUo3C7oxxOTFjpsMm#report)
+[PDF ](https://drive.google.com/file/d/1nWERZeji6mcXUx1jYZyEXyFnYAucZMvb/view?usp=sharing)
 
-## Extras
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-13
-
-DOC
-2018-19 Microbiology Assignment Topics Paper II27 KB[Open 2018-19 Microbiology Assignment Topics Paper II](https://drive.google.com/file/d/16hLTrx6mBx811f-gTCYWyuGek0GGdNAy/view)
-
-Updated 2022-03-24 · 27 KB
-
-[DOCX ](https://drive.google.com/file/d/16hLTrx6mBx811f-gTCYWyuGek0GGdNAy/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=16hLTrx6mBx811f-gTCYWyuGek0GGdNAy)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=16hLTrx6mBx811f-gTCYWyuGek0GGdNAy#report)
-
-FILE
-How to Make an SDS-PAGE gel39.6 MB[Open How to Make an SDS-PAGE gel](https://drive.google.com/file/d/1zhP12Its__P5dytziK8OQIHWfMRDjxfg/view)
-
-Updated 2018-11-08 · 39.6 MB
-
-[MP4 ](https://drive.google.com/file/d/1zhP12Its__P5dytziK8OQIHWfMRDjxfg/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1zhP12Its__P5dytziK8OQIHWfMRDjxfg#report)
-
-XLS
-ICTV Master Species List 2018b.v2470 KB[Open ICTV Master Species List 2018b.v2](https://drive.google.com/file/d/1VoghNicZcdo7_OHHORJXLZee9tMj4bEx/view)
-
-Updated 2020-04-15 · 470 KB
-
-[XLSX ](https://drive.google.com/file/d/1VoghNicZcdo7_OHHORJXLZee9tMj4bEx/view)
-[Download XLS](https://drive.google.com/uc?export=download&id=1VoghNicZcdo7_OHHORJXLZee9tMj4bEx)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1VoghNicZcdo7_OHHORJXLZee9tMj4bEx#report)
-
-DOC
-Index-Sys.Bacteriology-(2018-19)-MSVE15 KB[Open Index-Sys.Bacteriology-(2018-19)-MSVE](https://drive.google.com/file/d/1l6bUg1Z98ycQt7z5_uhddPG7aAvmqEZC/view)
-
-Updated 2020-06-26 · 15 KB
-
-[DOCX ](https://drive.google.com/file/d/1l6bUg1Z98ycQt7z5_uhddPG7aAvmqEZC/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1l6bUg1Z98ycQt7z5_uhddPG7aAvmqEZC)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1l6bUg1Z98ycQt7z5_uhddPG7aAvmqEZC#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1nWERZeji6mcXUx1jYZyEXyFnYAucZMvb#report)
 
 PDF
-Microbiology Assignment108.6 MB[Open Microbiology Assignment](https://drive.google.com/file/d/1XT5dTUiegi3cBjmF8Am2jFSx1Fjr74yu/view)
+Leptospira and other Spirochaetes[Open Leptospira and other Spirochaetes](https://drive.google.com/file/d/1ba_E1ge1GKPRMzY_zdzH5f1RQshaODrI/view?usp=sharing)
 
-Updated 2020-12-22 · 108.6 MB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1XT5dTUiegi3cBjmF8Am2jFSx1Fjr74yu/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1XT5dTUiegi3cBjmF8Am2jFSx1Fjr74yu#report)
+[PDF ](https://drive.google.com/file/d/1ba_E1ge1GKPRMzY_zdzH5f1RQshaODrI/view?usp=sharing)
 
-DOC
-Microbiology Assignment Topics I (2018-19 batch)27 KB[Open Microbiology Assignment Topics I (2018-19 batch)](https://drive.google.com/file/d/1RsxT2zx2M52e6fJSzRpWZyNx66TiG9Z6/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2022-03-24 · 27 KB
-
-[DOCX ](https://drive.google.com/file/d/1RsxT2zx2M52e6fJSzRpWZyNx66TiG9Z6/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1RsxT2zx2M52e6fJSzRpWZyNx66TiG9Z6)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1RsxT2zx2M52e6fJSzRpWZyNx66TiG9Z6#report)
-
-DOC
-Microbiology Assignment Topics III (2018-19 batch)35 KB[Open Microbiology Assignment Topics III (2018-19 batch)](https://drive.google.com/file/d/1H-Jc2WtTxAkXX5D3-0t-Y5H-oPd1-J9v/view)
-
-Updated 2022-03-24 · 35 KB
-
-[DOCX ](https://drive.google.com/file/d/1H-Jc2WtTxAkXX5D3-0t-Y5H-oPd1-J9v/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1H-Jc2WtTxAkXX5D3-0t-Y5H-oPd1-J9v)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1H-Jc2WtTxAkXX5D3-0t-Y5H-oPd1-J9v#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ba_E1ge1GKPRMzY_zdzH5f1RQshaODrI#report)
 
 PDF
-Microbiology Internal 2 with ans823 KB[Open Microbiology Internal 2 with ans](https://drive.google.com/file/d/1W5jGL_AhTV5Tr80c3dqd5KXa7PuEsmue/view)
+Listeria and Erysepelothrix[Open Listeria and Erysepelothrix](https://drive.google.com/file/d/1q69xxMDMODoXBs-3tBbYGdJL5tTPjklF/view?usp=sharing)
 
-Updated 2020-09-22 · 823 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1W5jGL_AhTV5Tr80c3dqd5KXa7PuEsmue/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1W5jGL_AhTV5Tr80c3dqd5KXa7PuEsmue)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1W5jGL_AhTV5Tr80c3dqd5KXa7PuEsmue#report)
+[PDF ](https://drive.google.com/file/d/1q69xxMDMODoXBs-3tBbYGdJL5tTPjklF/view?usp=sharing)
 
-PDF
-Microbiology Internal 3 with ans410 KB[Open Microbiology Internal 3 with ans](https://drive.google.com/file/d/1-AqmfUbAbEw6_VXymzRkd58QBSwnUKvl/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2020-10-13 · 410 KB
-
-[PDF ](https://drive.google.com/file/d/1-AqmfUbAbEw6_VXymzRkd58QBSwnUKvl/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1-AqmfUbAbEw6_VXymzRkd58QBSwnUKvl)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-AqmfUbAbEw6_VXymzRkd58QBSwnUKvl#report)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1q69xxMDMODoXBs-3tBbYGdJL5tTPjklF#report)
 
 PDF
-Microbiology Mock test 1 (Assessment 2)351 KB[Open Microbiology Mock test 1 (Assessment 2)](https://drive.google.com/file/d/1Mb3ACtxLW86syh2DDiqUNczFb0cPAk7g/view)
+Mycobacterium[Open Mycobacterium](https://drive.google.com/file/d/1-IF1ztPV_mX15vvSEtwl0UhoKwhiJvhx/view?usp=sharing)
 
-Updated 2020-07-15 · 351 KB
+Link checked 2026-10-18
 
-[PDF ](https://drive.google.com/file/d/1Mb3ACtxLW86syh2DDiqUNczFb0cPAk7g/view)
-[Download PDF](https://drive.google.com/uc?export=download&id=1Mb3ACtxLW86syh2DDiqUNczFb0cPAk7g)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Mb3ACtxLW86syh2DDiqUNczFb0cPAk7g#report)
+[PDF ](https://drive.google.com/file/d/1-IF1ztPV_mX15vvSEtwl0UhoKwhiJvhx/view?usp=sharing)
 
-FILE
-SDS PAGE Introductory Procedures139.7 MB[Open SDS PAGE Introductory Procedures](https://drive.google.com/file/d/1jiBEKWH8V5U1Ia9yK9z5_y9de5Dsu8nu/view)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-Updated 2018-11-08 · 139.7 MB
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1-IF1ztPV_mX15vvSEtwl0UhoKwhiJvhx#report)
 
-[MP4 ](https://drive.google.com/file/d/1jiBEKWH8V5U1Ia9yK9z5_y9de5Dsu8nu/view)
-[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jiBEKWH8V5U1Ia9yK9z5_y9de5Dsu8nu#report)
+PDF
+Mycoplasma[Open Mycoplasma](https://drive.google.com/file/d/14aZwveBA204M3qyNGjg-RaoXDhG8B1Gb/view?usp=sharing)
 
-FILE
-SDS-PAGE Preparation24.1 MB[Open SDS-PAGE Preparation](https://drive.google.com/file/d/19sTrbsJm5x2onp-y7YazRbglRx_5Fj26/view)
+Link checked 2026-10-18
 
-Updated 2018-11-08 · 24.1 MB
+[PDF ](https://drive.google.com/file/d/14aZwveBA204M3qyNGjg-RaoXDhG8B1Gb/view?usp=sharing)
 
-[MP4 ](https://drive.google.com/file/d/19sTrbsJm5x2onp-y7YazRbglRx_5Fj26/view)
-[Download FILE](https://drive.google.com/uc?export=download&id=19sTrbsJm5x2onp-y7YazRbglRx_5Fj26)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19sTrbsJm5x2onp-y7YazRbglRx_5Fj26#report)
+Link source: VetBVSc. Original authorship remains with the document’s creator.
 
-DOC
-Sys.Bacterioloy-front page (2018-19)560 KB[Open Sys.Bacterioloy-front page (2018-19)](https://drive.google.com/file/d/1AwHBwyZFuNBRR8UGcvypzXwi_PEExWuv/view)
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14aZwveBA204M3qyNGjg-RaoXDhG8B1Gb#report)
 
-Updated 2020-06-26 · 560 KB
+PDF
+Pasteurella and Mannheimia[Open Pasteurella and Mannheimia](https://drive.google.com/file/d/1BMa1ZuNYdw7T7t7KZZDQ2QpJA9kGvj97/view?usp=sharing)
 
-[DOCX ](https://drive.google.com/file/d/1AwHBwyZFuNBRR8UGcvypzXwi_PEExWuv/view)
-[Download DOC](https://drive.google.com/uc?export=download&id=1AwHBwyZFuNBRR8UGcvypzXwi_PEExWuv)[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1AwHBwyZFuNBRR8UGcvypzXwi_PEExWuv#report)
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1BMa1ZuNYdw7T7t7KZZDQ2QpJA9kGvj97/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BMa1ZuNYdw7T7t7KZZDQ2QpJA9kGvj97#report)
+
+PDF
+Pseudomonas and Burkholderia[Open Pseudomonas and Burkholderia](https://drive.google.com/file/d/13sagSzKhrjyXkHfGTHkN6T7YZuNk7aHu/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/13sagSzKhrjyXkHfGTHkN6T7YZuNk7aHu/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13sagSzKhrjyXkHfGTHkN6T7YZuNk7aHu#report)
+
+PDF
+Rickettsia, Anaplasma, Ehrlichia, Neorickettsia and Coxiella[Open Rickettsia, Anaplasma, Ehrlichia, Neorickettsia and Coxiella](https://drive.google.com/file/d/1QgHddUbsV1D6m86PrdGIoln_98apMS75/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1QgHddUbsV1D6m86PrdGIoln_98apMS75/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QgHddUbsV1D6m86PrdGIoln_98apMS75#report)
+
+PDF
+Staphylococcus[Open Staphylococcus](https://drive.google.com/file/d/1jomtUdnboKu0W0xvyGgjCXoSiyUTCHjp/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1jomtUdnboKu0W0xvyGgjCXoSiyUTCHjp/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1jomtUdnboKu0W0xvyGgjCXoSiyUTCHjp#report)
+
+PDF
+Streptococcus[Open Streptococcus](https://drive.google.com/file/d/1F_MzP8f0NqiHgCFDlbqQFU3gAZzR8tiw/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1F_MzP8f0NqiHgCFDlbqQFU3gAZzR8tiw/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1F_MzP8f0NqiHgCFDlbqQFU3gAZzR8tiw#report)
+
+PDF
+Streptomyces and Dermatophillus[Open Streptomyces and Dermatophillus](https://drive.google.com/file/d/11DWCgtBEcvGXJn-9AEpN14h7rUFLOWft/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/11DWCgtBEcvGXJn-9AEpN14h7rUFLOWft/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=11DWCgtBEcvGXJn-9AEpN14h7rUFLOWft#report)
+
+PDF
+Vibrio[Open Vibrio](https://drive.google.com/file/d/1h2sn9SNb9aZc5ILvhKjV9RTiCDeciVQ4/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1h2sn9SNb9aZc5ILvhKjV9RTiCDeciVQ4/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1h2sn9SNb9aZc5ILvhKjV9RTiCDeciVQ4#report)
+
+## Unit 2 – Veterinary Mycology
+
+9
+
+PDF
+Aspergillus[Open Aspergillus](https://drive.google.com/file/d/1EjVU9ZhkPsjLHfnXdjrZFTXvIgaulqeZ/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1EjVU9ZhkPsjLHfnXdjrZFTXvIgaulqeZ/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1EjVU9ZhkPsjLHfnXdjrZFTXvIgaulqeZ#report)
+
+PDF
+Candida and Cryptococcus[Open Candida and Cryptococcus](https://drive.google.com/file/d/1LpQKvXLXxFWYweFdqiVAxMbuNb9enU_h/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1LpQKvXLXxFWYweFdqiVAxMbuNb9enU_h/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1LpQKvXLXxFWYweFdqiVAxMbuNb9enU_h#report)
+
+PDF
+Dermatophytes and Malassezia[Open Dermatophytes and Malassezia](https://drive.google.com/file/d/1ndjRYMYEoYZHRByRx9vVlXIy83XX_12m/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1ndjRYMYEoYZHRByRx9vVlXIy83XX_12m/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ndjRYMYEoYZHRByRx9vVlXIy83XX_12m#report)
+
+PDF
+Dimorphic Fungi, Rhinosporidium and Sporothichum[Open Dimorphic Fungi, Rhinosporidium and Sporothichum](https://drive.google.com/file/d/1ON87MP2BqpVtKrnwE_R2ykg6N8dDI9Du/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1ON87MP2BqpVtKrnwE_R2ykg6N8dDI9Du/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1ON87MP2BqpVtKrnwE_R2ykg6N8dDI9Du#report)
+
+PDF
+General Mycology[Open General Mycology](https://drive.google.com/file/d/110LZYnQTdXzB2lVPkyEj4eH2KqyJVPlH/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/110LZYnQTdXzB2lVPkyEj4eH2KqyJVPlH/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=110LZYnQTdXzB2lVPkyEj4eH2KqyJVPlH#report)
+
+PDF
+Mycetoma and Zygomycetes[Open Mycetoma and Zygomycetes](https://drive.google.com/file/d/1KZGvhJyc9qj1nzZlqCmxm--ey7kfF4VO/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1KZGvhJyc9qj1nzZlqCmxm--ey7kfF4VO/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1KZGvhJyc9qj1nzZlqCmxm--ey7kfF4VO#report)
+
+PDF
+Mycotic Mastitis and Mycotic Abortion[Open Mycotic Mastitis and Mycotic Abortion](https://drive.google.com/file/d/1wODOUmbpOgV4mC3lB2N-OK6PZst7znts/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1wODOUmbpOgV4mC3lB2N-OK6PZst7znts/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1wODOUmbpOgV4mC3lB2N-OK6PZst7znts#report)
+
+PDF
+Mycotoxicosis[Open Mycotoxicosis](https://drive.google.com/file/d/1eocHc_9twWkGXSEuo2gP1Y0MHGY4mvW3/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1eocHc_9twWkGXSEuo2gP1Y0MHGY4mvW3/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1eocHc_9twWkGXSEuo2gP1Y0MHGY4mvW3#report)
+
+PDF
+Penicillium[Open Penicillium](https://drive.google.com/file/d/1TgkG3CSTkz-WtBJZ9WokrPpUseHa9oZc/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1TgkG3CSTkz-WtBJZ9WokrPpUseHa9oZc/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1TgkG3CSTkz-WtBJZ9WokrPpUseHa9oZc#report)
+
+## Unit 3 – Microbial Biotechnology
+
+10
+
+PDF
+Basic concepts and scope of Recombinant DNA Technology[Open Basic concepts and scope of Recombinant DNA Technology](https://drive.google.com/file/d/1Sbd5y6n-wWLGYdnlUplEae3kVW47A4_t/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1Sbd5y6n-wWLGYdnlUplEae3kVW47A4_t/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Sbd5y6n-wWLGYdnlUplEae3kVW47A4_t#report)
+
+PDF
+Bioinformatics and Gene Banks[Open Bioinformatics and Gene Banks](https://drive.google.com/file/d/1pUFuAOxcWKC5tKx8pz_VlIx5UF1M9s3c/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1pUFuAOxcWKC5tKx8pz_VlIx5UF1M9s3c/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1pUFuAOxcWKC5tKx8pz_VlIx5UF1M9s3c#report)
+
+PDF
+DNA Library, DNA Sequencing and DNA Fingerprinting[Open DNA Library, DNA Sequencing and DNA Fingerprinting](https://drive.google.com/file/d/118TSAFLwOmi3WyerDSzUc0eM2o6UvpML/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/118TSAFLwOmi3WyerDSzUc0eM2o6UvpML/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=118TSAFLwOmi3WyerDSzUc0eM2o6UvpML#report)
+
+PDF
+Ethical issues in Animal Biotechnology and Intellectual Property Rights (IPR)[Open Ethical issues in Animal Biotechnology and Intellectual Property Rights (IPR)](https://drive.google.com/file/d/1DyAGnvKXj7gywlEj7OJb0npDT18APR2d/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1DyAGnvKXj7gywlEj7OJb0npDT18APR2d/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DyAGnvKXj7gywlEj7OJb0npDT18APR2d#report)
+
+PDF
+Gene Cloning and Cloning Vectors[Open Gene Cloning and Cloning Vectors](https://drive.google.com/file/d/1BlvAjRK2HTevggfQQfznZL8knsPtXZEY/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1BlvAjRK2HTevggfQQfznZL8knsPtXZEY/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BlvAjRK2HTevggfQQfznZL8knsPtXZEY#report)
+
+PDF
+Nucleic Acid Hybridization[Open Nucleic Acid Hybridization](https://drive.google.com/file/d/10dY0xerZag8NO-fO9ZpYXnIddkK6V-a9/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/10dY0xerZag8NO-fO9ZpYXnIddkK6V-a9/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10dY0xerZag8NO-fO9ZpYXnIddkK6V-a9#report)
+
+PDF
+Polymerase Chain Reaction (PCR)[Open Polymerase Chain Reaction (PCR)](https://drive.google.com/file/d/1J75ZD7usCFJ7pIE4Hcqlb1woi04SA7Pz/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1J75ZD7usCFJ7pIE4Hcqlb1woi04SA7Pz/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1J75ZD7usCFJ7pIE4Hcqlb1woi04SA7Pz#report)
+
+PDF
+Southern, Northern and Western Blotting[Open Southern, Northern and Western Blotting](https://drive.google.com/file/d/1P84-BZNn70Wf18CFMRpWSgqdV1MifPWt/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1P84-BZNn70Wf18CFMRpWSgqdV1MifPWt/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1P84-BZNn70Wf18CFMRpWSgqdV1MifPWt#report)
+
+PDF
+Transformation and Transfection[Open Transformation and Transfection](https://drive.google.com/file/d/1Xqr9nQyq6lRVdDiZZlJE4lEb4yKNmJEZ/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1Xqr9nQyq6lRVdDiZZlJE4lEb4yKNmJEZ/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Xqr9nQyq6lRVdDiZZlJE4lEb4yKNmJEZ#report)
+
+PDF
+Veterinary Biotechnology Note[Open Veterinary Biotechnology Note](https://drive.google.com/file/d/1V8DahEJM9H3wLA5kxSy9qcDmBSHibbZy/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1V8DahEJM9H3wLA5kxSy9qcDmBSHibbZy/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1V8DahEJM9H3wLA5kxSy9qcDmBSHibbZy#report)
+
+## Unit 4 – Veterinary Immunology and Serology
+
+2
+
+PDF
+Veterinary Immunology and Serology[Open Veterinary Immunology and Serology](https://drive.google.com/file/d/1CGFgYNIo6ksyv9MvMJWDmVuQv7RNKpuE/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1CGFgYNIo6ksyv9MvMJWDmVuQv7RNKpuE/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1CGFgYNIo6ksyv9MvMJWDmVuQv7RNKpuE#report)
+
+PDF
+Veterinary Immunology and Serology Note[Open Veterinary Immunology and Serology Note](https://drive.google.com/file/d/1r_u6iP9XfpAxx5UDBvYsiiAvMUadXL7N/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1r_u6iP9XfpAxx5UDBvYsiiAvMUadXL7N/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1r_u6iP9XfpAxx5UDBvYsiiAvMUadXL7N#report)
+
+## Unit 5 – General and Systematic Veterinary Virology
+
+19
+
+PDF
+Adenoviridae – Infectious Canine Hepatitis, Egg drop syndrome and Fowl adenovirus[Open Adenoviridae – Infectious Canine Hepatitis, Egg drop syndrome and Fowl adenovirus](https://drive.google.com/file/d/1lBcI5rPI23YQ4hutcuYxTGeNLVSurxvu/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1lBcI5rPI23YQ4hutcuYxTGeNLVSurxvu/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lBcI5rPI23YQ4hutcuYxTGeNLVSurxvu#report)
+
+PDF
+Asfarviridae – African Swine Fever[Open Asfarviridae – African Swine Fever](https://drive.google.com/file/d/1Len5GEuDBsLA30NwOA5jCoY7Kgbqc_1a/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1Len5GEuDBsLA30NwOA5jCoY7Kgbqc_1a/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Len5GEuDBsLA30NwOA5jCoY7Kgbqc_1a#report)
+
+PDF
+Birnaviridae – Infectious Bursal Disease[Open Birnaviridae – Infectious Bursal Disease](https://drive.google.com/file/d/1JyXClhGNo4GDIfA4rU7ft_IelHMP4p0S/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1JyXClhGNo4GDIfA4rU7ft_IelHMP4p0S/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1JyXClhGNo4GDIfA4rU7ft_IelHMP4p0S#report)
+
+PDF
+Coronaviridae – Infectious Bonchitis and Transmissible gastroenteritis[Open Coronaviridae – Infectious Bonchitis and Transmissible gastroenteritis](https://drive.google.com/file/d/1F5uzA0KSeHRtDOnMUCILv740_VAJXhAo/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1F5uzA0KSeHRtDOnMUCILv740_VAJXhAo/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1F5uzA0KSeHRtDOnMUCILv740_VAJXhAo#report)
+
+PDF
+Flaviviridae – Swine Fever and BVD[Open Flaviviridae – Swine Fever and BVD](https://drive.google.com/file/d/12-mjdnSpzxncLqPX0b9VlI4XfmlcY8GB/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/12-mjdnSpzxncLqPX0b9VlI4XfmlcY8GB/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=12-mjdnSpzxncLqPX0b9VlI4XfmlcY8GB#report)
+
+PDF
+General and Systematic Veterinary Virology Note[Open General and Systematic Veterinary Virology Note](https://drive.google.com/file/d/1Wl6d4zQ3qDeCUFROhVReL6KFLe86IT2E/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1Wl6d4zQ3qDeCUFROhVReL6KFLe86IT2E/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1Wl6d4zQ3qDeCUFROhVReL6KFLe86IT2E#report)
+
+PDF
+General Virology[Open General Virology](https://drive.google.com/file/d/1BIPL7ifwKZj1fDTKYqhl5-sTctuoc6RM/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1BIPL7ifwKZj1fDTKYqhl5-sTctuoc6RM/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BIPL7ifwKZj1fDTKYqhl5-sTctuoc6RM#report)
+
+PDF
+Herpesviridae – Herpes viruses, Pseudorabies and Mareks Disease[Open Herpesviridae – Herpes viruses, Pseudorabies and Mareks Disease](https://drive.google.com/file/d/1lj1lXRcYt1m0zQJ_Icjd1uE98n6VCHBi/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1lj1lXRcYt1m0zQJ_Icjd1uE98n6VCHBi/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1lj1lXRcYt1m0zQJ_Icjd1uE98n6VCHBi#report)
+
+PDF
+Orthomyxoviridae – Avian, Equine and Swine Influenza[Open Orthomyxoviridae – Avian, Equine and Swine Influenza](https://drive.google.com/file/d/1br6cGbncGggc0FfVEkLw9r50JJ_S95O1/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1br6cGbncGggc0FfVEkLw9r50JJ_S95O1/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1br6cGbncGggc0FfVEkLw9r50JJ_S95O1#report)
+
+PDF
+Paramyxoviridae – Newcastle disease, Rinderpest, Canine Distemper and PPR virus[Open Paramyxoviridae – Newcastle disease, Rinderpest, Canine Distemper and PPR virus](https://drive.google.com/file/d/19BoS4qe7vBZ0SwF1pUwiZi9PuX6AACQF/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/19BoS4qe7vBZ0SwF1pUwiZi9PuX6AACQF/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19BoS4qe7vBZ0SwF1pUwiZi9PuX6AACQF#report)
+
+PDF
+Parvoviridae, Papillomaviridae and Circoviridae[Open Parvoviridae, Papillomaviridae and Circoviridae](https://drive.google.com/file/d/13H1gXIBnAM9IS2Qw-jKSVom3wVS3XLdL/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/13H1gXIBnAM9IS2Qw-jKSVom3wVS3XLdL/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=13H1gXIBnAM9IS2Qw-jKSVom3wVS3XLdL#report)
+
+PDF
+Picornaviridae – FMD and Duck viral Hepatitis[Open Picornaviridae – FMD and Duck viral Hepatitis](https://drive.google.com/file/d/19TjqzvIgU_eYzo5U4n0_MDvDPRsL6kjG/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/19TjqzvIgU_eYzo5U4n0_MDvDPRsL6kjG/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=19TjqzvIgU_eYzo5U4n0_MDvDPRsL6kjG#report)
+
+PDF
+Poxviridae – Capripoxvirus, Avipoxvirus and Cowpoxvirus[Open Poxviridae – Capripoxvirus, Avipoxvirus and Cowpoxvirus](https://drive.google.com/file/d/1DPTQMFsHhrWNboLkuFmlRKSuBVqqFG-a/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1DPTQMFsHhrWNboLkuFmlRKSuBVqqFG-a/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1DPTQMFsHhrWNboLkuFmlRKSuBVqqFG-a#report)
+
+PDF
+Prion Diseases – Scrapie and Bovine Spongiform Encephalopathy[Open Prion Diseases – Scrapie and Bovine Spongiform Encephalopathy](https://drive.google.com/file/d/1S8MTp4gX5FxgGlgrvdqRB2F8AiKTz1x-/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1S8MTp4gX5FxgGlgrvdqRB2F8AiKTz1x-/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1S8MTp4gX5FxgGlgrvdqRB2F8AiKTz1x-#report)
+
+PDF
+Reoviridae – Blue Tongue and African Horse Sickness[Open Reoviridae – Blue Tongue and African Horse Sickness](https://drive.google.com/file/d/14bIvzlH_Zt2kTymMfKYrvxeYdmwcq275/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/14bIvzlH_Zt2kTymMfKYrvxeYdmwcq275/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=14bIvzlH_Zt2kTymMfKYrvxeYdmwcq275#report)
+
+PDF
+Retroviridae – Equine Infectious Anemia[Open Retroviridae – Equine Infectious Anemia](https://drive.google.com/file/d/1WX_q1L9vNR9b9W_E1Gy00AuWfC9TVe5I/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1WX_q1L9vNR9b9W_E1Gy00AuWfC9TVe5I/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1WX_q1L9vNR9b9W_E1Gy00AuWfC9TVe5I#report)
+
+PDF
+Rhabdoviridae – Rabies and Ephemeral fever[Open Rhabdoviridae – Rabies and Ephemeral fever](https://drive.google.com/file/d/1QV1lI2cDCO2pMt05GhdJoZozUAdiS2f6/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1QV1lI2cDCO2pMt05GhdJoZozUAdiS2f6/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1QV1lI2cDCO2pMt05GhdJoZozUAdiS2f6#report)
+
+PDF
+Togaviridae – Equine Encephalomyelitis[Open Togaviridae – Equine Encephalomyelitis](https://drive.google.com/file/d/10nke7B2QTC-VrheN9mPfyIV_aq4hvzbN/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/10nke7B2QTC-VrheN9mPfyIV_aq4hvzbN/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=10nke7B2QTC-VrheN9mPfyIV_aq4hvzbN#report)
+
+PDF
+Veterinary Virology Overall Note[Open Veterinary Virology Overall Note](https://drive.google.com/file/d/1BrDcnVBIbSX4GhaMWkARDvm-YGQnMLiO/view?usp=sharing)
+
+Link checked 2026-10-18
+
+[PDF ](https://drive.google.com/file/d/1BrDcnVBIbSX4GhaMWkARDvm-YGQnMLiO/view?usp=sharing)
+
+Link source: VetBVSc. Original authorship remains with the document’s creator.
+
+[Report an error / takedown](https://notes.thatvetguy.net/request-resource/?file=1BrDcnVBIbSX4GhaMWkARDvm-YGQnMLiO#report)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
