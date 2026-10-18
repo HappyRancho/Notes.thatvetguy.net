@@ -10,7 +10,7 @@ Four years. Infinite syllabus. Character development included.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 
-[Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[Livestock Production & Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+[Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-anatomy)[Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-physiology)[Livestock Production & Management](https://notes.thatvetguy.net/bvsc/year-1/#livestock-production-management)
 
 ### 1st Year Road Map
 
@@ -19,7 +19,7 @@ Your guide to a strong start.
 [View Road Map ](https://notes.thatvetguy.net/bvsc/year-1/#road-map)
 3 subjects · notes & books[Explore 1st Year ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-[Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+[Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-biochemistry)[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-microbiology)[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-pathology)[Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/#animal-genetics-and-breeding)[Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/#animal-nutrition)
 
 ### 2nd Year Road Map
 
@@ -28,7 +28,7 @@ Connect the foundations.
 [View Road Map ](https://notes.thatvetguy.net/bvsc/year-2/#road-map)
 5 subjects · notes & books[Explore 2nd Year ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-[Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+[Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-pharmacology-and-toxicology)[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-parasitology)[Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-public-health-and-epidemiology)[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/#livestock-products-technology)[Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-and-animal-husbandry-extension-education)[Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-clinical-practices-i)[Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/#livestock-farm-practices)
 
 ### 3rd Year Road Map
 
@@ -37,7 +37,7 @@ Bring the subjects together.
 [View Road Map ](https://notes.thatvetguy.net/bvsc/year-3/#road-map)
 7 subjects · notes & books[Explore 3rd Year ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-[Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+[Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-medicine)[Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-surgery-and-radiology)[Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-gynaecology-and-obstetrics)
 Veterinary Clinical Practices IIComing soon
 
 ### 4th Year Road Map

@@ -1,38 +1,84 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-18 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/4th Year Resources
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/4th Year Books & Notes
 
-# 4th Year Resources
+# 4th Year Books & Notes
 
-Unit-wise notes and subject reading guides for 4th Year BVSc & AH. Choose a subject to find your next read.
+4th Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
 
-4 subjects · 59 resources
+4 subjects · 59 notes
 
-[
+Books are reading recommendations. Choose your department’s prescribed edition.
 
 ## Veterinary Medicine
 
-23 notes · 8 units
+23 notes
 
-](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[
+### Books
+
+- 
+Veterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg (11th edition)
+- 
+Textbook of Clinical Veterinary MedicineAmalendu Chakrabarti
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-medicine)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
+- Revisit General and systemic medicine, Infectious and metabolic diseases, then test your recall without the notes.
+
+Clinical era unlocked. Please read beyond the heading.
 
 ## Veterinary Surgery and Radiology
 
-23 notes · 7 units
+23 notes
 
-](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[
+### Books
+
+- 
+Ruminant SurgeryR. P. S. Tyagi and Jit Singh
+- 
+Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors)
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-surgery-and-radiology)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+- Revisit Asepsis and surgical principles, Anaesthesiology and pain management, then test your recall without the notes.
 
 ## Veterinary Gynaecology and Obstetrics
 
-13 notes · 4 units
+13 notes
 
-](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+### Books
+
+- 
+Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England (10th edition)
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-gynaecology-and-obstetrics)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+- Revisit Reproductive cycles and breeding, Infertility and reproductive disorders, then test your recall without the notes.
 
 ## Veterinary Clinical Practices II
 
-Coming soon
+0 notes
 
-[Best Books for 4th Year ](https://notes.thatvetguy.net/bvsc/year-4/books/)
+### Books
+
+No book recommendation listed yet. Check your department’s prescribed practical manual.
+
+[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-clinical-practices-ii)
+
+Roadmap
+
+- Make a checklist from your university syllabus.
+- Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
+- Revisit Clinical examination and diagnostic planning, Medical and surgical case discussions, then test your recall without the notes.
 
 4th Year Road Map 
 

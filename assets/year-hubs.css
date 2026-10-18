@@ -1,0 +1,34 @@
+/* The existing Rx theme, applied to subject sections within each year. */
+.rx-inner .year-prescribed-note{font-size:13px;line-height:1.5;color:var(--muted);margin:0 4px 16px;max-width:65ch}
+.rx-inner .year-subject-sections{display:grid;gap:16px}
+.rx-inner .year-subject-section{padding:16px;background:var(--surface);border:1px solid var(--hairline);border-radius:20px;box-shadow:var(--rx-shadow);scroll-margin-top:18px;min-width:0}
+.rx-inner .year-subject-section>header{display:flex;align-items:flex-start;gap:10px;margin:0 0 16px}
+.rx-inner .year-subject-section>header>div{min-width:0;flex:1}
+.rx-inner .year-subject-section h2{font:700 23px/1.2 var(--rx-heading);margin:0;overflow-wrap:anywhere}
+.rx-inner .year-subject-section header p{margin:5px 0 0;color:var(--muted);font-size:13px}
+.rx-inner .year-subject-section>h3{font:600 14px/1.4 var(--ui);margin:0 0 8px;color:var(--muted)}
+.rx-inner .year-book-list{padding:0;margin:0;list-style:none;display:grid;gap:0}
+.rx-inner .year-book-list>li{display:flex;gap:10px;padding:10px 0;align-items:flex-start;border-bottom:1px solid var(--hairline);min-width:0}
+.rx-inner .year-book-list>li:last-child{border-bottom:0}
+.rx-inner .year-book-list .rx-row-icon{width:30px;height:34px;flex-basis:30px;border-radius:8px}
+.rx-inner .year-book-list .rx-row-icon .icon-svg{width:20px;height:20px}
+.rx-inner .year-book-list li>div{min-width:0;flex:1}
+.rx-inner .year-book-list strong{display:block;font-size:15px;line-height:1.4;font-weight:600;overflow-wrap:anywhere}
+.rx-inner .year-book-list li>div>span{display:block;color:var(--muted);font-size:13px;line-height:1.45;margin-top:4px}
+.rx-inner .year-book-empty{font-size:14px;color:var(--muted);line-height:1.5;margin:0 0 12px}
+.rx-inner .year-subject-notes{margin:10px 0 8px}
+.rx-inner .year-notes-link{display:flex;align-items:center;gap:9px;min-height:48px;padding:10px 12px;background:var(--rx-tab);border-radius:11px;color:var(--rx-link);font-size:14px;font-weight:600;line-height:1.3}
+.rx-inner .year-notes-link>.icon-svg{width:19px;height:19px}.rx-inner .year-notes-link>.icon-svg:last-child{margin-left:auto}
+.rx-inner .year-subject-roadmap{margin:0;border-top:1px solid var(--hairline);scroll-margin-top:20px}
+.rx-inner .year-subject-roadmap>summary{display:flex;align-items:center;gap:9px;min-height:48px;padding:8px 2px;cursor:pointer;list-style:none;font-size:14px;color:var(--text);font-weight:500}
+.rx-inner .year-subject-roadmap>summary>.icon-svg{width:19px;height:19px}.rx-inner .year-subject-roadmap>summary>.icon-svg:last-child{margin-left:auto;transition:transform 180ms ease-out}
+.rx-inner .year-subject-roadmap[open]>summary>.icon-svg:last-child{transform:rotate(90deg)}
+.rx-inner .year-subject-roadmap ol{margin:0 0 8px;padding-left:22px;font-size:14px;line-height:1.55;color:var(--muted)}
+.rx-inner .year-subject-roadmap li+li{margin-top:8px}
+.rx-inner .year-margin-note{font-family:Caveat,cursive;font-size:18px;line-height:1.35;color:var(--muted);margin:-4px 7px 0}
+.rx-inner .year-note-subject{margin:20px 0;scroll-margin-top:16px;min-width:0}
+.rx-inner .year-note-subject>header{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin:0 0 10px}
+.rx-inner .year-note-subject>header h2{font:700 23px/1.2 var(--rx-heading);margin:0;min-width:0;max-width:26ch}
+.rx-inner .year-notes-reader .filter-chips button{font-size:13px;max-width:260px;white-space:normal;text-align:left}
+@media(min-width:768px){.rx-inner .year-subject-section{padding:20px}.rx-inner .year-book-list{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:24px}.rx-inner .year-subject-section>header h2{font-size:27px}.rx-inner .year-subject-section>h3{font-size:15px}}
+@media(prefers-reduced-motion:reduce){.rx-inner .year-subject-roadmap>summary>.icon-svg{transition:none}}

@@ -7,6 +7,12 @@ import sys,mimetypes,gzip
 ROOT=Path(sys.argv[1] if len(sys.argv)>1 else '.').resolve()
 class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
+        redirect_file=ROOT/'_redirects'
+        if redirect_file.exists():
+            for line in redirect_file.read_text().splitlines():
+                parts=line.split()
+                if len(parts)==3 and parts[0]==urlsplit(self.path).path and parts[2] in ['301','302','303','307','308']:
+                    self.send_response(int(parts[2]));self.send_header('Location',parts[1]);self.send_header('Content-Length','0');self.end_headers();return
         path=(ROOT/unquote(urlsplit(self.path).path).lstrip('/')).resolve()
         if not path.is_relative_to(ROOT):self.send_error(403);return
         if path.is_dir():path=path/'index.html'
