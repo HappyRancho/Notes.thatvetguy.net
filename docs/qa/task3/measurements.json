@@ -1,0 +1,2693 @@
+{
+  "before": [
+    {
+      "url": "/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1353.2057,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1352.3324,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1353.8352,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1503.9755999999998,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/objective/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1351.9162,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/clinical/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1502.8915,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/study-tools/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1353.7838,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/search/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcp": 1354.402,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0.5
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0.5
+        },
+        {
+          "id": "is-crawlable",
+          "title": "Page is blocked from indexing",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/about/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1352.2271,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/request-resource/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1203.3553,
+      "cls": 0,
+      "failures": [
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "after": [
+    {
+      "url": "/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1700.8908000000001,
+      "cls": 0.0018110004562538742,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1657.52925,
+      "cls": 0.00001592849996302581,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1663.0210499999998,
+      "cls": 0.00001592849996302581,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.95
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1653.5073,
+      "cls": 0.0003040289719812777,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/objective/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1706.3134,
+      "cls": 0.01425295793856872,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/clinical/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1656.672,
+      "cls": 0.00001592849996302581,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/study-tools/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1656.44205,
+      "cls": 0.02605835359197242,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/search/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcp": 1851.59115,
+      "cls": 0.01602955366357864,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.93
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.98
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0.5
+        },
+        {
+          "id": "is-crawlable",
+          "title": "Page is blocked from indexing",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/about/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1657.9899,
+      "cls": 0.002016382136116697,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/request-resource/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1699.2474499999998,
+      "cls": 0.0119013236558385,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "views": [
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 360,
+      "height": 3191,
+      "cls": 0.021588934154668588,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 375,
+      "height": 3080,
+      "cls": 0.0013681911813151844,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 390,
+      "height": 3026,
+      "cls": 0.0012185413869801572,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 412,
+      "height": 2955,
+      "cls": 0.001271957949769205,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 430,
+      "height": 2875,
+      "cls": 0.001511251157671608,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 768,
+      "height": 2752,
+      "cls": 0.0012363230397651767,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1024,
+      "height": 2459,
+      "cls": 0.000788953667285883,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1280,
+      "height": 2464,
+      "cls": 0.00042201254605117,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1440,
+      "height": 2464,
+      "cls": 0.0004635817782385465,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 360,
+      "height": 1584,
+      "cls": 0.00001941729833252847,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 375,
+      "height": 1538,
+      "cls": 0.01420125755261562,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 390,
+      "height": 1538,
+      "cls": 0.00001792365999925705,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 412,
+      "height": 1497,
+      "cls": 0.000016966571358520022,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 430,
+      "height": 1437,
+      "cls": 0.000016256342790023836,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 768,
+      "height": 1343,
+      "cls": 0.000009101858593372719,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 1024,
+      "height": 1035,
+      "cls": 0.005243186896304949,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 1280,
+      "height": 1044,
+      "cls": 0.0037603853777121595,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "light",
+      "width": 1440,
+      "height": 1044,
+      "cls": 0.0031789946325917148,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 360,
+      "height": 1967,
+      "cls": 0.00001941729833252847,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 375,
+      "height": 1872,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 390,
+      "height": 1872,
+      "cls": 0.00001792365999925705,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 412,
+      "height": 1872,
+      "cls": 0.000016966571358520022,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 430,
+      "height": 1812,
+      "cls": 0.000016256342790023836,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 768,
+      "height": 1379,
+      "cls": 0.000009101858593372719,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 1024,
+      "height": 1116,
+      "cls": 0.0007639333464523061,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 1280,
+      "height": 1103,
+      "cls": 0.0005921974905294265,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "light",
+      "width": 1440,
+      "height": 1103,
+      "cls": 0.0004679091283195469,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 360,
+      "height": 2547,
+      "cls": 0.00018760318408182533,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 375,
+      "height": 2525,
+      "cls": 0.0001803929840225212,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 390,
+      "height": 2500,
+      "cls": 0.01356884521219891,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 412,
+      "height": 2429,
+      "cls": 0.00044012046690413136,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 430,
+      "height": 2369,
+      "cls": 0.00015706313085920258,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 768,
+      "height": 2234,
+      "cls": 0.00015407263593136117,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 1024,
+      "height": 2124,
+      "cls": 0.00019522781055685467,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 1280,
+      "height": 2133,
+      "cls": 0.0001247641034600859,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "light",
+      "width": 1440,
+      "height": 2133,
+      "cls": 0.00009857904470920368,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 360,
+      "height": 5513,
+      "cls": 0.0013640405768251685,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 375,
+      "height": 4841,
+      "cls": 0.0013686996024348062,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 390,
+      "height": 4779,
+      "cls": 0.02401242878072808,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 412,
+      "height": 4713,
+      "cls": 0.028227192147569496,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 430,
+      "height": 4633,
+      "cls": 0.01480879417761046,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 768,
+      "height": 4285,
+      "cls": 0.002013066839902448,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1024,
+      "height": 4186,
+      "cls": 0.0015562795349771943,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1280,
+      "height": 4203,
+      "cls": 0.0009960189023854045,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1440,
+      "height": 4203,
+      "cls": 0.0007931877637535837,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 360,
+      "height": 3884,
+      "cls": 0.028971925387328918,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 375,
+      "height": 3797,
+      "cls": 0.00036523646612460035,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 390,
+      "height": 3768,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 412,
+      "height": 3696,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 430,
+      "height": 3595,
+      "cls": 0.0003701857278581103,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 768,
+      "height": 2813,
+      "cls": 0.0002559544679315514,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 1024,
+      "height": 2774,
+      "cls": 0.0001716215463611187,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 1280,
+      "height": 2795,
+      "cls": 0.00010983778967111596,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "light",
+      "width": 1440,
+      "height": 2795,
+      "cls": 0.00008793619334554737,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 360,
+      "height": 2651,
+      "cls": 0.00036438047231222343,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 375,
+      "height": 2580,
+      "cls": 0.011691559651537337,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 390,
+      "height": 2580,
+      "cls": 0.011768254639865427,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 412,
+      "height": 2506,
+      "cls": 0.005800872775921387,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 430,
+      "height": 2421,
+      "cls": 0.02520695410249958,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 768,
+      "height": 1970,
+      "cls": 0.0002559544679315514,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 1024,
+      "height": 1929,
+      "cls": 0.0001716215463611187,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 1280,
+      "height": 1951,
+      "cls": 0.00010983778967111596,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "light",
+      "width": 1440,
+      "height": 1951,
+      "cls": 0.00008678541406112868,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 360,
+      "height": 1663,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 375,
+      "height": 1641,
+      "cls": 0.00013927275892275555,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 390,
+      "height": 1600,
+      "cls": 0.0190668340610222,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 412,
+      "height": 1600,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 430,
+      "height": 1515,
+      "cls": 0.01536404234113716,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 768,
+      "height": 1324,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 1024,
+      "height": 1280,
+      "cls": 0.00039588345735558963,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 1280,
+      "height": 1293,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "light",
+      "width": 1440,
+      "height": 1293,
+      "cls": 0.00020003471622262816,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 360,
+      "height": 2000,
+      "cls": 0.00001941729833252847,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 375,
+      "height": 1923,
+      "cls": 0.006861874171739179,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 390,
+      "height": 1923,
+      "cls": 0.006907235118787936,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 412,
+      "height": 1848,
+      "cls": 0.02648363388664436,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 430,
+      "height": 1788,
+      "cls": 0.002489365830529152,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 768,
+      "height": 1513,
+      "cls": 0.010960326446064574,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 1024,
+      "height": 1455,
+      "cls": 0.008278930674514498,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 1280,
+      "height": 1464,
+      "cls": 0.005664210183925538,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "light",
+      "width": 1440,
+      "height": 1464,
+      "cls": 0.004475425330509068,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 360,
+      "height": 2347,
+      "cls": 0.026686884624437527,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 375,
+      "height": 2326,
+      "cls": 0.014740531387809497,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 390,
+      "height": 2301,
+      "cls": 0.02642528504941704,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 412,
+      "height": 2220,
+      "cls": 0.026332013333254644,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 430,
+      "height": 2160,
+      "cls": 0.042584891347328645,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 768,
+      "height": 1833,
+      "cls": 0.00246317361297131,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 1024,
+      "height": 1783,
+      "cls": 0.0021625852909698305,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 1280,
+      "height": 1792,
+      "cls": 0.0013835933423155292,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "light",
+      "width": 1440,
+      "height": 1792,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 360,
+      "height": 3191,
+      "cls": 0.017928471479361177,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 375,
+      "height": 3080,
+      "cls": 0.0019990507756639186,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 390,
+      "height": 3026,
+      "cls": 0.0012377403630179707,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 412,
+      "height": 2955,
+      "cls": 0.0012823231357848366,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 430,
+      "height": 2875,
+      "cls": 0.0018125885719986858,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 768,
+      "height": 2752,
+      "cls": 0.0016161001252612884,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 2459,
+      "cls": 0.0007770429078436576,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 2464,
+      "cls": 0.00044346813906990514,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 2464,
+      "cls": 0.00033344201169475165,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 360,
+      "height": 1584,
+      "cls": 0.00001941729833252847,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 375,
+      "height": 1538,
+      "cls": 0.01420125755261562,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 390,
+      "height": 1538,
+      "cls": 0.00001792365999925705,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 412,
+      "height": 1497,
+      "cls": 0.000016966571358520022,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 430,
+      "height": 1437,
+      "cls": 0.000016256342790023836,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1343,
+      "cls": 0.000009101858593372719,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 1035,
+      "cls": 0.005243186896304949,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 1044,
+      "cls": 0.0037603853777121595,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 1044,
+      "cls": 0.0031789946325917148,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 360,
+      "height": 1967,
+      "cls": 0.00001941729833252847,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 375,
+      "height": 1872,
+      "cls": 0.000018920495384200713,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 390,
+      "height": 1872,
+      "cls": 0.00001792365999925705,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 412,
+      "height": 1872,
+      "cls": 0.000016966571358520022,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 430,
+      "height": 1812,
+      "cls": 0.000016256342790023836,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1379,
+      "cls": 0.000009101858593372719,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 1116,
+      "cls": 0.0007639333464523061,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 1103,
+      "cls": 0.0005921974905294265,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 1103,
+      "cls": 0.0004679091283195469,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 360,
+      "height": 2547,
+      "cls": 0.00018760318408182533,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 375,
+      "height": 2525,
+      "cls": 0.0001803929840225212,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 390,
+      "height": 2500,
+      "cls": 0.01356884521219891,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 412,
+      "height": 2429,
+      "cls": 0.0004710751519532181,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 430,
+      "height": 2369,
+      "cls": 0.0001399914229135663,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 768,
+      "height": 2234,
+      "cls": 0.00015407263593136117,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 2124,
+      "cls": 0.00019522781055685467,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 2133,
+      "cls": 0.0001247641034600859,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/bvsc/year-1/veterinary-anatomy/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 2133,
+      "cls": 0.00009857904470920368,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 360,
+      "height": 5513,
+      "cls": 0.0013640405768251685,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 375,
+      "height": 4841,
+      "cls": 0.0013686996024348062,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 390,
+      "height": 4779,
+      "cls": 0.02401242878072808,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 412,
+      "height": 4713,
+      "cls": 0.028227192147569496,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 430,
+      "height": 4633,
+      "cls": 0.01480879417761046,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 768,
+      "height": 4285,
+      "cls": 0.002059659709904572,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 4186,
+      "cls": 0.0015685597867197334,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 4203,
+      "cls": 0.0009960189023854045,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 4203,
+      "cls": 0.0007869778981810601,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 360,
+      "height": 3884,
+      "cls": 0.028971925387328918,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 375,
+      "height": 3797,
+      "cls": 0.00036523646612460035,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 390,
+      "height": 3768,
+      "cls": 0.00036652897910392616,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 412,
+      "height": 3696,
+      "cls": 0.014508808379966041,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 430,
+      "height": 3595,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 768,
+      "height": 2813,
+      "cls": 0.0002559544679315514,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 2774,
+      "cls": 0.0001716215463611187,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 2795,
+      "cls": 0.00010983778967111596,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/clinical/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 2795,
+      "cls": 0.00008678541406112868,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 360,
+      "height": 2651,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 375,
+      "height": 2580,
+      "cls": 0.011691559651537337,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 390,
+      "height": 2580,
+      "cls": 0.011768254639865427,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 412,
+      "height": 2506,
+      "cls": 0.005800872775921387,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 430,
+      "height": 2421,
+      "cls": 0.02520695410249958,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1970,
+      "cls": 0.0002559544679315514,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 1929,
+      "cls": 0.0001716215463611187,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 1951,
+      "cls": 0.00010983778967111596,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/study-tools/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 1951,
+      "cls": 0.00008678541406112868,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 360,
+      "height": 1663,
+      "cls": 0.00014478423951852309,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 375,
+      "height": 1641,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 390,
+      "height": 1600,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 412,
+      "height": 1600,
+      "cls": 0.000395289631850945,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 430,
+      "height": 1515,
+      "cls": 0.01536404234113716,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1324,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 1280,
+      "cls": 0.00039588345735558963,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 1293,
+      "cls": 0.00025316893771926374,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/search/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 1293,
+      "cls": 0.00020003471622262816,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 360,
+      "height": 2000,
+      "cls": 0.00001941729833252847,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 375,
+      "height": 1923,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 390,
+      "height": 1923,
+      "cls": 0.006907235118787936,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 412,
+      "height": 1848,
+      "cls": 0.02648363388664436,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 430,
+      "height": 1788,
+      "cls": 0.002489365830529152,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1513,
+      "cls": 0.010960326446064574,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 1455,
+      "cls": 0.008278930674514498,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 1464,
+      "cls": 0.005664210183925538,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/about/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 1464,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 360,
+      "height": 2347,
+      "cls": 0.026686884624437527,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 375,
+      "height": 2326,
+      "cls": 0.014740531387809497,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 390,
+      "height": 2301,
+      "cls": 0.02642528504941704,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 412,
+      "height": 2220,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 430,
+      "height": 2160,
+      "cls": 0.042584891347328645,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1833,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 1783,
+      "cls": 0,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 1280,
+      "height": 1792,
+      "cls": 0.0013835933423155292,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    },
+    {
+      "url": "/request-resource/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 1792,
+      "cls": 0.0010932095544221464,
+      "overflow": false,
+      "clipped": [],
+      "smallTargets": [],
+      "violations": []
+    }
+  ]
+}

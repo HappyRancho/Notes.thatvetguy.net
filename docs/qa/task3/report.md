@@ -11,7 +11,7 @@ Work is based on the existing static site and the original public-folder manifes
 | 3 | 956 | 951 | 549 | 0 |
 | 4 | 669 | 664 | 371 | 8 |
 
-Original manifest: **2,954 files**. Hidden duplicates: **16**. Merged alternate-format rows: **39**. **1,221 camera images** are represented by **20 photo sets**.
+Original manifest: **2,954 files**. Hidden duplicates: **16**. Merged alternate-format rows: **39**. **1,221 camera images** are represented by **20 photo sets**. There are **25 explicit reviewed classification corrections**, recorded with reasons.
 
 A resource count means one browse row: alternate formats share a row and a photo batch counts as one set. Individual named diagrams remain accessible. Every original ID is accounted for by a visible file, an alternate format, a photo set or a recorded duplicate.
 
@@ -44,6 +44,7 @@ The Year 4 “var one mark 2” paper is assigned to Surgery using the identical
 ## Extras requiring content review
 
 No public Unsorted subject exists. These items stay inside collapsed year-level Extras; their titles and parent folders do not establish a reliable subject.
+
 - Year 2: Photo set — Year 2 revision — 136 images (`photos-1udDFWQDlMiRVWpnho39SbhQIvZW9shqY`).
 - Year 4: Board question paper (`1DBGhjon8Jq1PEDAJ1mHIYdYx8cj9ITxf`).
 - Year 4: missing ques doc (`1iONOgTAXim48x_xLv-49pNEGkD9PhSm8`).
@@ -75,7 +76,7 @@ The final browser audit covered **180 views**: ten core/representative pages at 
 
 The home is **3,026 px at 390×844**, down from **4,723 px** (36% shorter), or 3.59 screens. Search is visible above the fold. Visible subject file rows measure **56px**. Static checks reconcile every group and enforce bounded file batches.
 
-The final source payload is **18,719 bytes gzip for home HTML/CSS/JS**, fonts excluded; runtime JavaScript is **6,963 bytes gzip**. All 31 contrast pairs pass: body text ≥7:1, secondary ≥4.5:1 and functional borders ≥3:1.
+The final source payload is **18,734 bytes gzip for home HTML/CSS/JS**, fonts excluded; runtime JavaScript is **6,979 bytes gzip**. All 31 contrast pairs pass: body text ≥7:1, secondary ≥4.5:1 and functional borders ≥3:1.
 
 Before/after Lighthouse below uses the **same gzip-enabled local server**. The initial plain-server Anatomy baseline was 64 performance because its HTML was uncompressed; that result is not used to claim an artificial improvement. P = performance; A = accessibility; BP = best practices.
 
@@ -92,7 +93,7 @@ Before/after Lighthouse below uses the **same gzip-enabled local server**. The i
 | `/about/` | 100/100/100/100 | 99/100/100/100 | 1.66s | 0.0020 |
 | `/request-resource/` | 100/100/100/100 | 99/100/100/100 | 1.70s | 0.0119 |
 
-Interactions verified: menu Escape/outside close and scroll lock; Ctrl/Cmd+K and slash search; arrows/Enter; theme persistence; bookmarks/studied persistence; subject filtering; empty results; no-JavaScript preset topics; reduced motion. A focused final test additionally covers a 55-item saved shelf and the corrected Year 4 resource.
+Interactions verified: menu Escape/outside close and scroll lock; Ctrl/Cmd+K and slash search; arrows/Enter; theme persistence; bookmarks/studied persistence; subject filtering; empty results; no-JavaScript preset topics; reduced motion. A focused final test additionally covers a 55-item saved shelf and the corrected Year 4/Anatomy resources. It passed six additional mobile/theme views and three Lighthouse runs (99–100/100/100/100). Escape closes the shelf even while its search input has focus; its headings are removed immediately when closed.
 
 Screenshot/measurement artifacts:
 
@@ -102,7 +103,7 @@ Screenshot/measurement artifacts:
 
 Home, BVSc overview, Year 1, Anatomy, Objective and Clinical each have 390px and 1280px screenshots in both themes. Extremely tall baseline pages use viewport captures when the full document exceeds 20,000px; this is recorded in the audit script. Current pages have full captures. Desktop/mobile screenshot previews were visually inspected, leading to corrections to the Telegram heading and the subject toolbar.
 
-Production verification is recorded in the deployment addendum after publication.
+[Final regression audit](https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/39117047530): artifact `task3-after`. Verified source and generated pages were fast-forwarded to `main` at `161dcae8aa3290a55d3ab6684164061550ea771e`. Production verification is recorded in the deployment addendum below.
 
 
 ## Limits and deliberate choices
@@ -169,3 +170,33 @@ Production verification is recorded in the deployment addendum after publication
 - `_headers`, `.github/workflows/task3.yml`, `docs/qa/task3/`
 
 Generated HTML, page Markdown, social cards and retrieval files are updated in place. Existing subject-guide URLs remain available; retired Unsorted routes redirect to their year’s Extras.
+
+
+## Production deployment — 18 October 2026
+
+Published commit: `161dcae8aa3290a55d3ab6684164061550ea771e`. Build ID: `3f8a0cbf15b2`. Cloudflare Pages deployment: `8f5e0ced-3ec9-4422-855c-e9d2f7cb1a05`.
+
+Both `https://notes.thatvetguy.net/` and `https://notes-thatvetguy-net.pages.dev/` return **HTTP 200** with that build ID. The reported Pages-alias outage could not be reproduced before or after publication. No DNS change was necessary.
+
+All eight core pages return the expected build marker and matching versioned CSS/JS references. Their raw response hashes differ from repository HTML, so this verification records build identity and asset versions rather than claiming byte-for-byte identity. The old Explore heading and orphan Objective sentence are absent on all eight pages. The cache purge was not performed because no Cloudflare token/zone credentials are connected.
+
+[Live audit and screenshots](https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/39117233223) — artifact `task3-production`. The production audit passed **60 views** across 360/390/412px, light and dark: no serious/critical axe findings, horizontal overflow, clipped headings/paragraphs, JavaScript exceptions or visible targets below 48px. Maximum layout shift measured across these views was **0.0283**, below 0.05. Live homepage height remains **3,026px at 390px**.
+
+| Page | Live P/A/BP/SEO | LCP | CLS |
+| --- | --- | ---: | ---: |
+| `/` | 99/100/100/100 | 1.81s | 0.0013 |
+| `/bvsc/` | 99/100/100/100 | 1.68s | 0.0000 |
+| `/bvsc/year-1/` | 99/100/100/100 | 1.72s | 0.0000 |
+| `/bvsc/year-1/veterinary-anatomy/` | 97/100/100/100 | 2.05s | 0.0003 |
+| `/objective/` | 98/100/100/100 | 1.96s | 0.0144 |
+| `/clinical/` | 99/100/100/100 | 1.71s | 0.0000 |
+| `/study-tools/` | 99/100/100/100 | 1.72s | 0.0261 |
+| `/search/` | 99/100/100/66 | 1.73s | 0.0160 |
+| `/about/` | 99/100/100/100 | 1.67s | 0.0020 |
+| `/request-resource/` | 96/100/100/100 | 2.21s | 0.0119 |
+
+All tested pages meet the 95+ Lighthouse performance/accessibility/best-practices threshold. All indexable pages score 100 SEO. The deliberate search noindex remains the documented exception (66 SEO).
+
+The earlier **LCP <2.0s** goal was not met on two production samples: Anatomy was **2.05s**, Request was **2.21s**. Their local measurements were 1.66s and 1.70s, respectively; these production results are retained rather than rerunning until a more favourable sample appears. All pages still exceed the required Lighthouse score, and CLS stays below 0.05.
+
+Machine-readable evidence is committed in [production-results.json](production-results.json), [measurements.json](measurements.json), [counts.json](counts.json) and [contrast.json](contrast.json). Full image and Lighthouse HTML artifacts are linked above.
