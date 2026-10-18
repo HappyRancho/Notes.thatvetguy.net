@@ -6,7 +6,11 @@
 
 Subject-wise objective questions and books for BVSc & AH revision. Find a focused question pack or check the availability of ICAR past papers.
 
-↳ Past papers repeat. So should your revision.
+[Objective Notes](https://notes.thatvetguy.net/objective/#books)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)
+
+## Objective Books
+
+[PDFToxicology ObjectivesVeterinary Pharmacology and Toxicology · Book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1f4HW1kuYVDH8xlyMdwjnPcZ_DkQqTCFv)
 
 ## ICAR PYQ Question Bank
 
@@ -15,8 +19,6 @@ Coming soon. Know a paper we should add?
 [Request a paper ](https://notes.thatvetguy.net/request-resource/?collection=icar-pyq)
 
 ## Subject-wise Objective Questions
-
-Choose a subject. Keep your revision focused.
 
 Search this collection
 
@@ -118,9 +120,5 @@ Show 19 more 19 remaining
 [PDFvar one mark 2Veterinary Surgery and Radiology · Objective](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1tIr-sXcZmXXpjTGJFpv-MxgqJzeRu0Of)
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
-
-## Objective Books
-
-[PDFToxicology ObjectivesVeterinary Pharmacology and Toxicology · Book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1f4HW1kuYVDH8xlyMdwjnPcZ_DkQqTCFv)
 
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.

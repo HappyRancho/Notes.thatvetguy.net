@@ -8,35 +8,35 @@ Notes, books and practical material for 2nd Year BVSc & AH. Choose a subject to 
 
 5 subjects · 153 resources
 
-[20 resources
+[
 
 ## Veterinary Biochemistry
 
-Extras 10 · Practical 6 · Notes 3 · Objective 1
+20 resources · Objective 1 · Extras 10 · Practical 6 · Notes 3
 
-](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[52 resources
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[
 
 ## Veterinary Microbiology
 
-Objective 3 · Practical 21 · Extras 13 · Books 4 · Notes 11
+52 resources · Practical 21 · Extras 13 · Notes 11 · Objective 3 · Books 4
 
-](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[25 resources
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[
 
 ## Veterinary Pathology
 
-Objective 2 · Practical 7 · Extras 7 · Books 3 · Notes 5 · Images 1
+25 resources · Practical 7 · Extras 7 · Notes 5 · Objective 2 · Images 1 · Books 3
 
-](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[35 resources
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[
 
 ## Animal Genetics and Breeding
 
-Extras 7 · Notes 10 · Practical 15 · Objective 3
+35 resources · Practical 15 · Extras 7 · Objective 3 · Notes 10
 
-](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[21 resources
+](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[
 
 ## Animal Nutrition
 
-Objective 2 · Practical 2 · Extras 8 · Books 3 · Notes 5 · Images 1
+21 resources · Practical 2 · Extras 8 · Notes 5 · Objective 2 · Images 1 · Books 3
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 

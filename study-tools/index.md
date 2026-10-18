@@ -6,9 +6,9 @@
 
 Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
 
-## Use of AI for Vet Study
+[Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
-↳ AI can help with the notes. You still have to read them.
+## Use of AI for Vet Study
 
 - 
 
@@ -68,9 +68,7 @@ Try Year / Subject / Notes or Books. A useful filename saves a surprising amount
 
 Record the author, edition, species and date where relevant. A saved file still needs context.
 
-## Tips
-
-Four simple roadmaps for moving through the professional years.
+## Year Roadmaps
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/#road-map)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/#road-map)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/#road-map)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
 

@@ -138,7 +138,7 @@ Canonical: https://notes.thatvetguy.net/bvsc/
 
 Free notes, books and practical material for all four BVSc & AH professional years. Choose your year, then your subject.
 
-[BVSc & AH1st year3 subjects · 197 resources](https://notes.thatvetguy.net/bvsc/year-1/)[BVSc & AH2nd year5 subjects · 153 resources](https://notes.thatvetguy.net/bvsc/year-2/)[BVSc & AH3rd year7 subjects · 262 resources](https://notes.thatvetguy.net/bvsc/year-3/)[BVSc & AH4th year4 subjects · 206 resources](https://notes.thatvetguy.net/bvsc/year-4/)
+[11st Year3 subjects · 197 resources](https://notes.thatvetguy.net/bvsc/year-1/)[22nd Year5 subjects · 153 resources](https://notes.thatvetguy.net/bvsc/year-2/)[33rd Year7 subjects · 262 resources](https://notes.thatvetguy.net/bvsc/year-3/)[44th Year4 subjects · 206 resources](https://notes.thatvetguy.net/bvsc/year-4/)
 
 Year grouping may vary by university. Check your syllabus. Counts combine alternate formats and photo sets into single resources.
 
@@ -1907,23 +1907,23 @@ Notes, books and practical material for 1st Year BVSc & AH. Choose a subject to 
 
 3 subjects · 197 resources
 
-[84 resources
+[
 
 ## Veterinary Anatomy
 
-Objective 49 · Practical 8 · Extras 5 · Books 5 · Notes 5 · Images 12
+84 resources · Practical 8 · Extras 5 · Notes 5 · Objective 49 · Images 12 · Books 5
 
-](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[27 resources
+](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[
 
 ## Veterinary Physiology
 
-Extras 2 · Books 4 · Notes 9 · Objective 12
+27 resources · Objective 12 · Books 4 · Extras 2 · Notes 9
 
-](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[86 resources
+](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[
 
 ## Livestock Production Management
 
-Objective 2 · Practical 55 · Extras 5 · Books 1 · Notes 22 · Images 1
+86 resources · Practical 55 · Extras 5 · Images 1 · Objective 2 · Notes 22 · Books 1
 
 ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
@@ -3450,35 +3450,35 @@ Notes, books and practical material for 2nd Year BVSc & AH. Choose a subject to 
 
 5 subjects · 153 resources
 
-[20 resources
+[
 
 ## Veterinary Biochemistry
 
-Extras 10 · Practical 6 · Notes 3 · Objective 1
+20 resources · Objective 1 · Extras 10 · Practical 6 · Notes 3
 
-](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[52 resources
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[
 
 ## Veterinary Microbiology
 
-Objective 3 · Practical 21 · Extras 13 · Books 4 · Notes 11
+52 resources · Practical 21 · Extras 13 · Notes 11 · Objective 3 · Books 4
 
-](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[25 resources
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[
 
 ## Veterinary Pathology
 
-Objective 2 · Practical 7 · Extras 7 · Books 3 · Notes 5 · Images 1
+25 resources · Practical 7 · Extras 7 · Notes 5 · Objective 2 · Images 1 · Books 3
 
-](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[35 resources
+](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[
 
 ## Animal Genetics and Breeding
 
-Extras 7 · Notes 10 · Practical 15 · Objective 3
+35 resources · Practical 15 · Extras 7 · Objective 3 · Notes 10
 
-](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[21 resources
+](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[
 
 ## Animal Nutrition
 
-Objective 2 · Practical 2 · Extras 8 · Books 3 · Notes 5 · Images 1
+21 resources · Practical 2 · Extras 8 · Notes 5 · Objective 2 · Images 1 · Books 3
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
@@ -5997,47 +5997,47 @@ Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to 
 
 7 subjects · 262 resources
 
-[54 resources
+[
 
 ## Veterinary Pharmacology and Toxicology
 
-Objective 3 · Practical 5 · Extras 25 · Books 5 · Notes 10 · Images 6
+54 resources · Practical 5 · Extras 25 · Images 6 · Notes 10 · Objective 3 · Books 5
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[41 resources
+](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[
 
 ## Veterinary Parasitology
 
-Objective 4 · Practical 5 · Extras 11 · Books 1 · Notes 15 · Images 5
+41 resources · Practical 5 · Extras 11 · Notes 15 · Objective 4 · Images 5 · Books 1
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[25 resources
+](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[
 
 ## Veterinary Public Health and Epidemiology
 
-Objective 3 · Practical 2 · Extras 5 · Books 1 · Notes 13 · Images 1
+25 resources · Practical 2 · Extras 5 · Images 1 · Notes 13 · Objective 3 · Books 1
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[63 resources
+](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[
 
 ## Livestock Products Technology
 
-Objective 2 · Practical 2 · Extras 18 · Books 5 · Notes 35 · Images 1
+63 resources · Practical 2 · Extras 18 · Notes 35 · Objective 2 · Images 1 · Books 5
 
-](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[75 resources
+](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[
 
 ## Veterinary and Animal Husbandry Extension Education
 
-Objective 2 · Extras 30 · Books 2 · Notes 13 · Images 28
+75 resources · Extras 30 · Images 28 · Objective 2 · Notes 13 · Books 2
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[2 resources
+](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[
 
 ## Veterinary Clinical Practices I
 
-Extras 1 · Images 1
+2 resources · Extras 1 · Images 1
 
-](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[2 resources
+](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[
 
 ## Livestock Farm Practices
 
-Extras 1 · Images 1
+2 resources · Extras 1 · Images 1
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
@@ -7933,27 +7933,25 @@ Notes, books and practical material for 4th Year BVSc & AH. Choose a subject to 
 
 4 subjects · 206 resources
 
-[94 resources
+[
 
 ## Veterinary Medicine
 
-Objective 3 · Practical 9 · Extras 19 · Books 17 · Notes 44 · Images 2
+94 resources · Practical 9 · Extras 19 · Notes 44 · Objective 3 · Images 2 · Books 17
 
-](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[62 resources
+](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[
 
 ## Veterinary Surgery and Radiology
 
-Objective 9 · Practical 18 · Extras 7 · Books 8 · Notes 12 · Images 8
+62 resources · Practical 18 · Extras 7 · Notes 12 · Objective 9 · Images 8 · Books 8
 
-](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[50 resources
+](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[
 
 ## Veterinary Gynaecology and Obstetrics
 
-Objective 4 · Practical 16 · Extras 6 · Books 8 · Notes 15 · Images 1
+50 resources · Practical 16 · Extras 6 · Notes 15 · Objective 4 · Images 1 · Books 8
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
-
-0 resources
 
 ## Veterinary Clinical Practices II
 
@@ -8528,7 +8526,11 @@ Canonical: https://notes.thatvetguy.net/objective/
 
 Subject-wise objective questions and books for BVSc & AH revision. Find a focused question pack or check the availability of ICAR past papers.
 
-↳ Past papers repeat. So should your revision.
+[Objective Notes](https://notes.thatvetguy.net/objective/#books)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)
+
+## Objective Books
+
+[PDFToxicology ObjectivesVeterinary Pharmacology and Toxicology · Book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1f4HW1kuYVDH8xlyMdwjnPcZ_DkQqTCFv)
 
 ## ICAR PYQ Question Bank
 
@@ -8537,8 +8539,6 @@ Coming soon. Know a paper we should add?
 [Request a paper ](https://notes.thatvetguy.net/request-resource/?collection=icar-pyq)
 
 ## Subject-wise Objective Questions
-
-Choose a subject. Keep your revision focused.
 
 Search this collection
 
@@ -8641,10 +8641,6 @@ Show 19 more 19 remaining
 
 No resources match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
-## Objective Books
-
-[PDFToxicology ObjectivesVeterinary Pharmacology and Toxicology · Book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1f4HW1kuYVDH8xlyMdwjnPcZ_DkQqTCFv)
-
 Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
 
 
@@ -8698,9 +8694,9 @@ Canonical: https://notes.thatvetguy.net/study-tools/
 
 Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
 
-## Use of AI for Vet Study
+[Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
-↳ AI can help with the notes. You still have to read them.
+## Use of AI for Vet Study
 
 - 
 
@@ -8760,9 +8756,7 @@ Try Year / Subject / Notes or Books. A useful filename saves a surprising amount
 
 Record the author, edition, species and date where relevant. A saved file still needs context.
 
-## Tips
-
-Four simple roadmaps for moving through the professional years.
+## Year Roadmaps
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/#road-map)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/#road-map)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/#road-map)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
 
