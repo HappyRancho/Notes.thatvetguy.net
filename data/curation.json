@@ -300,6 +300,16 @@
       "subject": "Veterinary Surgery and Radiology",
       "kind": "objective",
       "reason": "Same normalised title and byte size as 1hk80c8lL9o6nZKjlZOeu9H4B5PUn0RuY in Surgery/Others; duplicate folder establishes the subject."
+    },
+    "1BLTJLno4DT10LWqRFM1sOR7YVaWJGY3H": {
+      "subject": "Veterinary Anatomy",
+      "kind": "books",
+      "reason": "The original filename explicitly identifies a full book volume, despite its Lecture Notes parent folder."
+    },
+    "1BJiXeBEyjMj-9t5NFQpZ0kyIJlHoZeRe": {
+      "subject": "Veterinary Anatomy",
+      "kind": "books",
+      "reason": "The original filename explicitly identifies a full book volume, despite its Lecture Notes parent folder."
     }
   }
 }

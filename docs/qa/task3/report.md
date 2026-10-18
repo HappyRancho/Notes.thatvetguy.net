@@ -15,7 +15,7 @@ Original manifest: **2,954 files**. Hidden duplicates: **16**. Merged alternate-
 
 A resource count means one browse row: alternate formats share a row and a photo batch counts as one set. Individual named diagrams remain accessible. Every original ID is accounted for by a visible file, an alternate format, a photo set or a recorded duplicate.
 
-The Year 4 “var one mark 2” paper is assigned to Surgery using the identical file in `Surgery/Others`. The reviewed correction is recorded in `data/curation.json`.
+The Year 4 “var one mark 2” paper is assigned to Surgery using the identical file in `Surgery/Others`. The reviewed correction is recorded in `data/curation.json`. Two Anatomy full-book volumes are classified as Books even though their parent folder is Lecture Notes.
 
 ## Subject counts
 

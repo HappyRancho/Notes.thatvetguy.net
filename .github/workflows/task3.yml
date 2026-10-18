@@ -41,7 +41,7 @@ jobs:
         run: npm run qa -- final-check
         env:
           QA_WIDTHS: '390'
-          QA_PATHS: '/bvsc/year-4/,/bvsc/year-4/veterinary-surgery-and-radiology/'
+          QA_PATHS: '/bvsc/year-4/,/bvsc/year-4/veterinary-surgery-and-radiology/,/bvsc/year-1/veterinary-anatomy/'
       - name: Diagnose production hosts
         if: always()
         run: python3 scripts/task3-hosting.py
