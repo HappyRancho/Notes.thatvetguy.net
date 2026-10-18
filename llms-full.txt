@@ -137,9 +137,157 @@ Canonical: https://notes.thatvetguy.net/bvsc/
 
 # BVSc Notes & Books
 
-BVSc & AH books, topic-wise notes and study roadmaps, organised by professional year. Choose your year to find everything together, subject by subject.
+Recommended books, topic-wise notes and roadmaps for BVSc & AH. Choose a subject to open its section in the right year.
 
-[11st Year3 subjects · 53 resources](https://notes.thatvetguy.net/bvsc/year-1/)[22nd Year5 subjects · 207 resources](https://notes.thatvetguy.net/bvsc/year-2/)[33rd Year7 subjects · 180 resources](https://notes.thatvetguy.net/bvsc/year-3/)[44th Year4 subjects · 59 resources](https://notes.thatvetguy.net/bvsc/year-4/)
+1
+
+## 1st Year
+
+3 subjects · 53 notes
+
+[View year ](https://notes.thatvetguy.net/bvsc/year-1/)
+[
+
+### Veterinary Anatomy
+
+2 books · 15 notes
+
+](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-anatomy)[
+
+### Veterinary Physiology
+
+2 books · 13 notes
+
+](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-physiology)[
+
+### Livestock Production Management
+
+2 books · 25 notes
+
+](https://notes.thatvetguy.net/bvsc/year-1/#livestock-production-management)
+
+2
+
+## 2nd Year
+
+5 subjects · 207 notes
+
+[View year ](https://notes.thatvetguy.net/bvsc/year-2/)
+[
+
+### Veterinary Biochemistry
+
+1 book · 21 notes
+
+](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-biochemistry)[
+
+### Veterinary Microbiology
+
+1 book · 63 notes
+
+](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-microbiology)[
+
+### Veterinary Pathology
+
+1 book · 48 notes
+
+](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-pathology)[
+
+### Animal Genetics and Breeding
+
+1 book · 45 notes
+
+](https://notes.thatvetguy.net/bvsc/year-2/#animal-genetics-and-breeding)[
+
+### Animal Nutrition
+
+2 books · 30 notes
+
+](https://notes.thatvetguy.net/bvsc/year-2/#animal-nutrition)
+
+3
+
+## 3rd Year
+
+7 subjects · 180 notes
+
+[View year ](https://notes.thatvetguy.net/bvsc/year-3/)
+[
+
+### Veterinary Pharmacology and Toxicology
+
+1 book · 27 notes
+
+](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-pharmacology-and-toxicology)[
+
+### Veterinary Parasitology
+
+1 book · 47 notes
+
+](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-parasitology)[
+
+### Veterinary Public Health and Epidemiology
+
+1 book · 35 notes
+
+](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-public-health-and-epidemiology)[
+
+### Livestock Products Technology
+
+2 books · 46 notes
+
+](https://notes.thatvetguy.net/bvsc/year-3/#livestock-products-technology)[
+
+### Veterinary and Animal Husbandry Extension Education
+
+1 book · 23 notes
+
+](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-and-animal-husbandry-extension-education)[
+
+### Veterinary Clinical Practices I
+
+1 note
+
+](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-clinical-practices-i)[
+
+### Livestock Farm Practices
+
+1 note
+
+](https://notes.thatvetguy.net/bvsc/year-3/#livestock-farm-practices)
+
+4
+
+## 4th Year
+
+4 subjects · 59 notes
+
+[View year ](https://notes.thatvetguy.net/bvsc/year-4/)
+[
+
+### Veterinary Medicine
+
+2 books · 23 notes
+
+](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-medicine)[
+
+### Veterinary Surgery and Radiology
+
+2 books · 23 notes
+
+](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-surgery-and-radiology)[
+
+### Veterinary Gynaecology and Obstetrics
+
+1 book · 13 notes
+
+](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-gynaecology-and-obstetrics)[
+
+### Veterinary Clinical Practices II
+
+Roadmap available
+
+](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-clinical-practices-ii)
 
 Year grouping may vary by university. Check your syllabus.
 
@@ -165,13 +313,14 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 15 notes
 
-### Books
+[Topic-wise notes15 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-anatomy)
+
+### Recommended books
 
 - 
 Primary Veterinary AnatomyR. K. Ghosh
 - 
 Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-anatomy)
 
 Roadmap
 
@@ -185,13 +334,14 @@ New syllabus. Same last-minute confidence.
 
 13 notes
 
-### Books
+[Topic-wise notes13 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-physiology)
+
+### Recommended books
 
 - 
 Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. (editors, 13th edition)
 - 
 Cunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-physiology)
 
 Roadmap
 
@@ -203,13 +353,14 @@ Roadmap
 
 25 notes
 
-### Books
+[Topic-wise notes25 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-1/notes/#livestock-production-management)
+
+### Recommended books
 
 - 
 Livestock Production ManagementN. S. R. Sastry and C. K. Thomas
 - 
 A Textbook of Animal HusbandryG. C. Banerjee
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-1/notes/#livestock-production-management)
 
 Roadmap
 
@@ -498,11 +649,12 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 21 notes
 
-### Books
+[Topic-wise notes21 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-biochemistry)
+
+### Recommended books
 
 - 
 BiochemistryU. Satyanarayana and U. Chakrapani
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-biochemistry)
 
 Roadmap
 
@@ -516,11 +668,12 @@ Your tabs are organised. Your sleep schedule can wait.
 
 63 notes
 
-### Books
+[Topic-wise notes63 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-microbiology)
+
+### Recommended books
 
 - 
 Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al.
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-microbiology)
 
 Roadmap
 
@@ -532,11 +685,12 @@ Roadmap
 
 48 notes
 
-### Books
+[Topic-wise notes48 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-pathology)
+
+### Recommended books
 
 - 
 A Textbook of Veterinary General PathologyJ. L. Vegad
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-pathology)
 
 Roadmap
 
@@ -548,11 +702,12 @@ Roadmap
 
 45 notes
 
-### Books
+[Topic-wise notes45 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-genetics-and-breeding)
+
+### Recommended books
 
 - 
 Text Book on Animal Genetics and BreedingP. Kanakaraj
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-genetics-and-breeding)
 
 Roadmap
 
@@ -564,13 +719,14 @@ Roadmap
 
 30 notes
 
-### Books
+[Topic-wise notes30 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-nutrition)
+
+### Recommended books
 
 - 
 Animal NutritionP. McDonald et al.
 - 
 Principles of Animal Nutrition and Feed TechnologyD. V. Reddy
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-nutrition)
 
 Roadmap
 
@@ -1341,11 +1497,12 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 27 notes
 
-### Books
+[Topic-wise notes27 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology)
+
+### Recommended books
 
 - 
 Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology)
 
 Roadmap
 
@@ -1359,11 +1516,12 @@ Main character energy. Side quest: finish Pharmacology.
 
 47 notes
 
-### Books
+[Topic-wise notes47 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-parasitology)
+
+### Recommended books
 
 - 
 Veterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. Wall (4th edition)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-parasitology)
 
 Roadmap
 
@@ -1375,11 +1533,12 @@ Roadmap
 
 35 notes
 
-### Books
+[Topic-wise notes35 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-public-health-and-epidemiology)
+
+### Recommended books
 
 - 
 Veterinary EpidemiologyMichael Thrusfield and Robert Christley
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-public-health-and-epidemiology)
 
 Roadmap
 
@@ -1391,13 +1550,14 @@ Roadmap
 
 46 notes
 
-### Books
+[Topic-wise notes46 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-products-technology)
+
+### Recommended books
 
 - 
 Outlines of Dairy TechnologySukumar De
 - 
 Meat and Meat Products TechnologyB. D. Sharma
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-products-technology)
 
 Roadmap
 
@@ -1409,11 +1569,12 @@ Roadmap
 
 23 notes
 
-### Books
+[Topic-wise notes23 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-and-animal-husbandry-extension-education)
+
+### Recommended books
 
 - 
 Textbook of Animal Husbandry and Livestock ExtensionP. Mathialagan
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-and-animal-husbandry-extension-education)
 
 Roadmap
 
@@ -1425,11 +1586,11 @@ Roadmap
 
 1 note
 
-### Books
+[Topic-wise notes1 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-clinical-practices-i)
+
+### Recommended books
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
-
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-clinical-practices-i)
 
 Roadmap
 
@@ -1441,11 +1602,11 @@ Roadmap
 
 1 note
 
-### Books
+[Topic-wise notes1 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-farm-practices)
+
+### Recommended books
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
-
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-farm-practices)
 
 Roadmap
 
@@ -2171,13 +2332,14 @@ Books are reading recommendations. Choose your department’s prescribed edition
 
 23 notes
 
-### Books
+[Topic-wise notes23 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-medicine)
+
+### Recommended books
 
 - 
 Veterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg (11th edition)
 - 
 Textbook of Clinical Veterinary MedicineAmalendu Chakrabarti
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-medicine)
 
 Roadmap
 
@@ -2191,13 +2353,14 @@ Clinical era unlocked. Please read beyond the heading.
 
 23 notes
 
-### Books
+[Topic-wise notes23 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-surgery-and-radiology)
+
+### Recommended books
 
 - 
 Ruminant SurgeryR. P. S. Tyagi and Jit Singh
 - 
 Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-surgery-and-radiology)
 
 Roadmap
 
@@ -2209,11 +2372,12 @@ Roadmap
 
 13 notes
 
-### Books
+[Topic-wise notes13 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-gynaecology-and-obstetrics)
+
+### Recommended books
 
 - 
 Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England (10th edition)
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-gynaecology-and-obstetrics)
 
 Roadmap
 
@@ -2225,11 +2389,11 @@ Roadmap
 
 0 notes
 
-### Books
+[Topic-wise notesCollection in preparation](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-clinical-practices-ii)
+
+### Recommended books
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
-
-[Topic-wise notes](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-clinical-practices-ii)
 
 Roadmap
 

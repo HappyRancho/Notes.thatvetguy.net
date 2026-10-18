@@ -32,11 +32,8 @@ def controls(b,kinds,ident='file',subjects=False):
 def group(b,title,rows,ident,opened=False,render=file_card,level=2,filterkey=None):
     return '<details class="resource-group" id="'+ident+'" data-group="'+(filterkey or ident)+'"'+(' open' if opened else '')+'><summary><h'+str(level)+'>'+e(title)+'</h'+str(level)+'><span class="group-count">'+str(len(rows))+'</span>'+b.icon('arrow')+'</summary><div class="group-body">'+chunks(b,rows,render)+'</div></details>'
 def overview(b):
-    desc='BVSc & AH books, topic-wise notes and study roadmaps, organised by professional year. Choose your year to find everything together, subject by subject.'
-    body=b.article_intro('BVSc Notes & Books',desc)+year_tiles(b)+'<p class="source-note">Year grouping may vary by university. Check your syllabus.</p></div>'
-    b.write_page('/bvsc/','BVSc Notes & Books',desc,body,[(b.DATA['labels'][str(y['year'])],'/bvsc/year-'+str(y['year'])+'/') for y in b.LIBRARY['years']])
-    from year_hubs import render
-    render(b)
+    from year_hubs import index,render
+    index(b);render(b)
 
 def collections(b):
     from homepage import tabs,panel

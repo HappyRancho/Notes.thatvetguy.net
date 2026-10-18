@@ -30,6 +30,24 @@ def notes_page(b,y):
     body+='<p class="filter-empty" hidden>No notes match. '+b.link('/request-resource/','Request a topic')+'</p></div></div>'
     b.write_page(path,label+' Topic-wise BVSc Notes',desc,body,[(r['title'],r['url']) for r in allrows])
 
+def index(b):
+    from homepage import subject_icon
+    books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books']
+    desc='Recommended books, topic-wise notes and roadmaps for BVSc & AH. Choose a subject to open its section in the right year.'
+    body=b.article_intro('BVSc Notes & Books',desc)+'<div class="bvsc-year-sections">';items=[]
+    for y in b.LIBRARY['years']:
+        year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/';tone=['yellow','peach','sky','mint'][year-1]
+        body+='<section class="bvsc-year-section" id="year-'+str(year)+'"><header class="bvsc-year-heading"><span class="bvsc-year-number '+tone+'" aria-hidden="true">'+str(year)+'</span><div><h2>'+e(label)+'</h2><p>'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' notes</p></div>'+b.link(path,'View year '+b.icon('arrow'),'bvsc-year-link')+'</header><div class="bvsc-subject-grid">'
+        for subject in y['subjects']:
+            ic,icon_tone=subject_icon(subject['name']);nbooks=sum(r['year']==year and r['subject']==subject['name'] for r in books)
+            meta=(str(nbooks)+' '+('book' if nbooks==1 else 'books')+' · ' if nbooks else '')+str(subject['count'])+' '+('note' if subject['count']==1 else 'notes')
+            if not nbooks and not subject['count']:meta='Roadmap available'
+            url=path+'#'+subject['slug'];items.append((subject['name']+' · '+label,url))
+            body+=b.link(url,'<span class="rx-row-icon '+icon_tone+'" aria-hidden="true">'+b.icon(ic)+'</span>'+b.icon('chevron')+'<h3>'+e(subject['name'])+'</h3><p>'+e(meta)+'</p>','bvsc-subject-tile')
+        body+='</div></section>'
+    body+='</div><p class="source-note bvsc-syllabus-note">Year grouping may vary by university. Check your syllabus.</p></div>'
+    b.write_page('/bvsc/','BVSc Notes & Books',desc,body,items)
+
 def render(b):
     books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books'];copy=json.loads((ROOT/'data/year-hub-microcopy.json').read_text())
     from homepage import subject_icon,CONTENT
@@ -40,8 +58,10 @@ def render(b):
         body+='<p class="collection-meta">'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' notes</p><p class="year-prescribed-note">Books are reading recommendations. Choose your department’s prescribed edition.</p><span id="books" class="anchor-alias"></span><div class="year-subject-sections">'
         for i,s in enumerate(y['subjects']):
             own=[r for r in books if r['year']==year and r['subject']==s['name']];ic,tone=subject_icon(s['name'])
-            body+='<section class="year-subject-section" id="'+s['slug']+'"><header><span class="rx-row-icon '+tone+'" aria-hidden="true">'+b.icon(ic)+'</span><div><h2>'+e(s['name'])+'</h2><p>'+str(s['count'])+' '+('note' if s['count']==1 else 'notes')+'</p></div></header><h3>Books</h3>'+subject_books(b,own)
-            body+='<div class="year-subject-notes">'+b.link(path+'notes/#'+s['slug'],b.icon('paper')+'<span>Topic-wise notes</span>'+b.icon('arrow'),'year-notes-link')+'</div>'+roadmap(b,s['name'],s['slug'])+'</section>'
+            body+='<section class="year-subject-section" id="'+s['slug']+'"><header><span class="rx-row-icon '+tone+'" aria-hidden="true">'+b.icon(ic)+'</span><div><h2>'+e(s['name'])+'</h2><p>'+str(s['count'])+' '+('note' if s['count']==1 else 'notes')+'</p></div></header>'
+            note_copy=str(s['count'])+' notes · browse by unit' if s['count'] else 'Collection in preparation'
+            feature='<span class="year-notes-symbol" aria-hidden="true">'+b.icon('paper')+'</span><span class="year-notes-copy"><strong>Topic-wise notes</strong><small>'+note_copy+'</small></span>'+b.icon('arrow')
+            body+='<div class="year-subject-notes">'+b.link(path+'notes/#'+s['slug'],feature,'year-notes-link')+'</div><h3>Recommended books</h3>'+subject_books(b,own)+roadmap(b,s['name'],s['slug'])+'</section>'
             if i==0:body+='<p class="year-margin-note">'+e(copy[str(year)])+'</p>'
         body+='</div><details class="syllabus" id="road-map"><summary>'+e(label)+' Road Map '+b.icon('map')+'</summary><ol class="topic-list">'+''.join('<li>'+e(step)+'</li>' for step in CONTENT['roadmaps'][str(year)]['steps'])+'</ol></details><p class="source-note">Year grouping may vary by university. Check your syllabus.</p></div>'
         b.write_page(path,label+' BVSc Books, Notes & Roadmaps',desc,body,[(s['name'],path+'#'+s['slug']) for s in y['subjects']]);notes_page(b,y)

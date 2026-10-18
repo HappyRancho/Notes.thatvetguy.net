@@ -40,7 +40,7 @@ $$('.filter-collection').forEach(collection=>{const query=$('.collection-query',
  query.addEventListener('input',apply);buttons.forEach(b=>b.addEventListener('click',()=>{filter=b.dataset.filter;buttons.forEach(x=>x.setAttribute('aria-pressed',String(x===b)));apply()}));
 });
 // Open an anchored row, preset or group even when its parent accordion is closed.
-function revealHash(){let id;try{id=decodeURIComponent(location.hash.slice(1))}catch{return}const target=document.getElementById(id);if(!target)return;let parent=target;while(parent){if(parent.tagName==='DETAILS')parent.open=true;parent=parent.parentElement}requestAnimationFrame(()=>target.scrollIntoView({block:'start',behavior:'instant'}))}
+function revealHash(){let id;try{id=decodeURIComponent(location.hash.slice(1))}catch{return}const target=document.getElementById(id);if(!target)return;let parent=target;while(parent){if(parent.tagName==='DETAILS')parent.open=true;parent=parent.parentElement}if(target.matches('[data-subject-section]'))target.querySelector('.resource-group')?.setAttribute('open','');requestAnimationFrame(()=>target.scrollIntoView({block:'start',behavior:'instant'}))}
 window.addEventListener('hashchange',revealHash);if(location.hash)revealHash();
 const savedKey='tvg-bookmarks',recentKey='tvg-recent',studiedKey='tvg-studied';
 const legacyStudied=store.read(studiedKey,{});if(Array.isArray(legacyStudied))store.write(studiedKey,Object.fromEntries(legacyStudied.map(id=>[id,true])));
