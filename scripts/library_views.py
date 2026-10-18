@@ -5,6 +5,19 @@ from library import KINDS,natural,slug,normal
 from site_shell import year_tiles
 
 def count(n,word='resource'):return f'{n:,} {word}'+('' if n==1 else 's')
+def keep_complete_resource(r):
+    """Keep subject-level material in the public subject reader.
+
+    Topic slide decks and mixed PPT/PDF lesson folders remain in the source
+    catalogue, but are intentionally omitted from the clean subject view.
+    """
+    path=(r.get('path') or '').lower().replace('_',' ')
+    if r.get('kind')=='presentation':return False
+    if r.get('format') in ('PDF','PPT'):
+        folders={part.strip() for part in path.split('/')}
+        if folders.intersection({'ppt','ppts','lecture slides','ppt & pdf','ppt and pdf'}):return False
+        if 'slide' in (r.get('title') or '').lower():return False
+    return True
 def size_label(n):
     if n is None:return 'Size unavailable'
     return f'{n/1_000_000:.1f} MB' if n>=1_000_000 else f'{n/1000:.0f} KB'
@@ -34,13 +47,14 @@ def group(b,title,rows,ident,opened=False,render=file_card,level=2,filterkey=Non
     return '<details class="resource-group" id="'+ident+'" data-group="'+(filterkey or ident)+'"'+(' open' if opened else '')+'><summary><h'+str(level)+'>'+e(title)+'</h'+str(level)+'><span class="group-count">'+str(len(rows))+'</span>'+b.icon('arrow')+'</summary><div class="group-body">'+chunks(b,rows,render)+'</div></details>'
 def subject_page(b,y,s):
     year=y['year'];name=s['name'];path='/bvsc/year-'+str(year)+'/'+s['slug']+'/'
-    rows=[b.CATALOGUE[r] for r in s['resourceIds']];summary=b.SUBJECTS[name]['summary']
+    rows=[b.CATALOGUE[r] for r in s['resourceIds'] if r in b.CATALOGUE and keep_complete_resource(b.CATALOGUE[r])];summary=b.SUBJECTS[name]['summary']
     intro=name+' notes, books and revision material for BVSc & AH. Choose a topic below, or search within this subject.'
     body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(b.DATA['labels'][str(year)],'/bvsc/year-'+str(year)+'/')])
     body+='<div class="subject-toolbar"><p>'+count(len(rows))+' · '+b.DATA['labels'][str(year)]+'</p><button type="button" class="studied-button js-only" data-studied="'+s['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></div>'
     body+='<div class="filter-collection">'+controls(b,[(k,v) for k,v in KINDS.items() if k!='images'])
     first=True
     for kind,title in KINDS.items():
+        if kind=='presentation':continue
         own=[r for r in rows if r['kind']==kind]
         if not own:continue
         body+=group(b,title,own,slug(title),first,filterkey='other' if kind=='images' else kind);first=False
@@ -97,10 +111,7 @@ def tools(b):
     for key,title,steps in guides:
         body+='<section class="content-section guide-section" id="'+key+'"><h2>'+title+'</h2>'+ (b.section_aside('tools') if key=='ai-guide' else '')+'<ol class="guide-steps">'+''.join('<li><h3>'+e(t)+'</h3><p>'+e(d)+'</p></li>' for t,d in steps)+'</ol></section>'
     from homepage import CONTENT
-    charts=[b.CATALOGUE[rid] for rid in CONTENT['chartIds'] if rid in b.CATALOGUE]
-    body+='<section class="content-section" id="charts-tables"><h2>Charts &amp; Tables</h2><p>Study charts and statistical tables from the subject collections.</p><div class="file-list">'+''.join(teaser(b,r) for r in charts)+'</div></section>'
-    body+='<section class="content-section guide-section" id="templates-formats"><h2>Templates &amp; Formats</h2><p>Copy these simple outlines into your own document. Adapt practical records to your department’s required format.</p><h3>One-topic revision note</h3><p>Topic · Definition · Key points · Labelled diagram · Common confusions · Source and page.</p><h3>Practical record outline</h3><p>Date · Title · Aim · Materials · Method · Observations · Result · Precautions · Reference.</p></section>'
-    body+='<section class="content-section" id="useful-links"><h2>Useful Links</h2><p>Go straight to the part of the library you need.</p><div class="related-links">'+''.join(b.link(u,t+b.icon('arrow')) for u,t in [('/bvsc/','BVSc notes and books'),('/objective/','Objective questions and books'),('/clinical/','Clinical handbooks and references')])+'</div></section>'
+    body+='<section class="content-section" id="tips"><h2>Tips</h2><p>Four simple roadmaps for moving through the professional years.</p><div class="related-links">'+''.join(b.link('/bvsc/year-'+str(y)+'/#road-map',CONTENT['tips'][y-1]['title']+b.icon('map')) for y in range(1,5))+'</div></section>'
     b.write_page('/study-tools/','Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'],body+'</div>',[(t,b.ROUTES[k]) for k,t,_ in guides])
 def other(b):
     body=b.article_intro('About Notes.ThatVetGuy',b.geo.META['/about/']['summary'])+'<section class="content-section prose"><h2>A useful place to start.</h2><p>Pick your professional year, find a subject and get to the reading. Notes.ThatVetGuy brings notes, books and practical material together for veterinary students.</p><h2>People behind the pages</h2><p>Site guidance and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. Linked materials retain their original authorship. Inclusion does not imply medical review or ownership.</p><h2>Help the next student</h2><p>A missing topic, a broken file or a credit that needs correcting: tell us so the library can get better.</p>'+b.link('/request-resource/','Request or report a resource '+b.icon('arrow'),'button secondary')+'</section></div>'

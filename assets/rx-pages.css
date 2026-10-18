@@ -1,0 +1,61 @@
+/* Shared Study Clinic skin for every non-home page. */
+@font-face{font-family:'Balsamiq';src:url('/assets/fonts/balsamiq-latin.woff2') format('woff2');font-weight:700;font-style:normal;font-display:optional}
+html[data-ui=rx]{
+  --paper:#eaf8ff;--surface:#fff;--text:#101b43;--muted:#475571;--line:#cbd7e7;
+  --hairline:#e6edf4;--rx-blue:#0769ce;--rx-blue-hover:#0558ae;--rx-tab:#eef6fb;
+  --rx-field:#f2f5fb;--rx-yellow:#fff8df;--rx-mint:#eaf9f1;--rx-peach:#fff2e8;
+  --rx-sky:#e8f6ff;--rx-radius:20px;--rx-shadow:0 4px 20px #69b3d413;
+  --rx-heading:'Balsamiq','Bricolage',Inter,system-ui,sans-serif;color-scheme:light
+}
+html[data-ui=rx][data-theme=dark{--paper:#112433;--surface:#192f42;--text:#f0f6ff;--muted:#c5d6e8;--line:#8098ad;--hairline:#385267;--rx-tab:#243e53;--rx-field:#21394e;--rx-shadow:0 4px 20px #0002;color-scheme:dark}
+@media(prefers-color-scheme:dark){html[data-ui=rx]:not([data-theme=light]){--paper:#112433;--surface:#192f42;--text:#f0f6ff;--muted:#c5d6e8;--line:#8098ad;--hairline:#385267;--rx-tab:#243e53;--rx-field:#21394e;--rx-shadow:0 4px 20px #0002;color-scheme:dark}}
+html[data-ui=rx] body{background:var(--paper);color:var(--text)}
+html[data-ui=rx] h1,html[data-ui=rx] h2,html[data-ui=rx] h3{font-family:var(--rx-heading);color:var(--text);letter-spacing:-.025em}
+html[data-ui=rx] .site-header{background:var(--paper);border-bottom:0;padding:10px 0}
+html[data-ui=rx] .header-inner{min-height:64px;background:var(--surface);border:1px solid var(--hairline);border-radius:18px;padding-inline:16px;box-shadow:var(--rx-shadow)}
+html[data-ui=rx] .brand{color:var(--text);font-family:var(--rx-heading);font-size:20px}
+html[data-ui=rx] .brand>.icon-svg{color:#1681ce}
+html[data-ui=rx] .nav-link[aria-current=page]:after{background:var(--rx-blue)}
+html[data-ui=rx] .theme-toggle{border-color:var(--line)}
+html[data-ui=rx] .reading-page{padding-top:22px;padding-bottom:30px}
+html[data-ui=rx] .breadcrumbs{font-size:13px;color:var(--muted);margin-bottom:18px}
+html[data-ui=rx] .reading-header{background:var(--surface);border:1px solid var(--hairline);border-radius:var(--rx-radius);padding:24px;box-shadow:var(--rx-shadow);margin-bottom:24px}
+html[data-ui=rx] .reading-header h1{font-size:clamp(30px,6vw,52px);margin-bottom:8px}
+html[data-ui=rx] .reading-header p,html[data-ui=rx] .collection-meta,html[data-ui=rx] .source-note{color:var(--muted)}
+html[data-ui=rx] .content-section,html[data-ui=rx] .resource-group,html[data-ui=rx] .syllabus,html[data-ui=rx] .extras-section{background:var(--surface);border:1px solid var(--hairline);border-radius:var(--rx-radius);box-shadow:var(--rx-shadow);padding:20px;margin:24px 0}
+html[data-ui=rx] .content-section>h2,html[data-ui=rx] .extras-section>h2{font-size:26px;margin-bottom:8px}
+html[data-ui=rx] .content-section>p{color:var(--muted)}
+html[data-ui=rx] .button{background:var(--rx-blue);border-color:var(--rx-blue);color:#fff}
+html[data-ui=rx] .button.secondary{background:transparent;color:var(--rx-blue);border-color:var(--rx-blue)}
+html[data-ui=rx] .year-grid{gap:14px;margin:20px 0 26px}
+html[data-ui=rx] .year-tile{border:1px solid #ffffffaa;border-radius:18px;box-shadow:var(--rx-shadow);color:#101b43;transition:transform 160ms ease-out,box-shadow 160ms ease-out}
+html[data-ui=rx] .year-tile:hover,html[data-ui=rx] .subject-card:hover,html[data-ui=rx] .subject-shortcut:hover{transform:translateY(-2px)}
+html[data-ui=rx] .subject-grid{gap:12px;margin-top:18px}
+html[data-ui=rx] .subject-card{background:var(--surface);border:1px solid var(--hairline);border-radius:16px;box-shadow:var(--rx-shadow);padding:18px;min-height:150px;transition:transform 160ms ease-out,box-shadow 160ms ease-out}
+html[data-ui=rx] .subject-card h2{font-size:21px;margin:14px 0 7px}
+html[data-ui=rx] .subject-card .kind-counts{color:var(--muted);font-size:13px}
+html[data-ui=rx] .subject-card.unavailable{opacity:.68}
+html[data-ui=rx] .library-controls{background:var(--rx-field);border:1px solid var(--hairline);border-radius:14px;padding:10px;margin-bottom:14px}
+html[data-ui=rx] .inline-search input{background:var(--surface);border-color:var(--hairline)}
+html[data-ui=rx] .filter-chips button[aria-pressed=true]{background:var(--rx-blue);color:#fff;border-color:var(--rx-blue)}
+html[data-ui=rx] .resource-group{padding:0;overflow:hidden}
+html[data-ui=rx] .resource-group>summary{padding:17px 20px;background:var(--rx-tab);color:var(--text)}
+html[data-ui=rx] .resource-group .group-body{padding:0 14px 14px}
+html[data-ui=rx] .teaser{border-bottom:1px solid var(--hairline);padding:12px 0}
+html[data-ui=rx] .teaser:last-child{border-bottom:0}
+html[data-ui=rx] .file-row{border-bottom:1px solid var(--hairline);padding-block:10px;min-height:68px}
+html[data-ui=rx] .file-row:last-child{border-bottom:0}
+html[data-ui=rx] .file-open{color:var(--rx-blue);font-weight:600}
+html[data-ui=rx] .format-icon{background:var(--rx-peach);color:#9d4228;border-radius:9px}
+html[data-ui=rx] .guide-section{border-left:4px solid #9ccdf3}
+html[data-ui=rx] .guide-steps li::marker{color:var(--rx-blue)}
+html[data-ui=rx] .clinical-callout{background:var(--rx-yellow);border:1px solid #eadb9e;border-radius:14px;padding:14px 16px;color:#3f4656}
+html[data-ui=rx] .clinical-subjects{gap:12px}
+html[data-ui=rx] .subject-shortcut{background:var(--rx-mint);border:1px solid #c3e7d2;border-radius:16px;padding:18px;color:#174d3d;box-shadow:var(--rx-shadow);transition:transform 160ms ease-out}
+html[data-ui=rx] .related-links a{min-height:56px;border-color:var(--hairline);color:var(--rx-blue)}
+html[data-ui=rx] .site-footer{background:var(--surface);border-top:1px solid var(--hairline)}
+html[data-ui=rx] .bottom-nav{background:var(--surface);border-top:1px solid var(--hairline)}
+html[data-ui=rx] .bottom-nav [aria-current=page]{background:#ffeb9f;color:#101b43}
+html[data-ui=rx] dialog.sheet{background:var(--surface);color:var(--text);border-color:var(--line)}
+@media(max-width:599px){html[data-ui=rx] .container{width:min(calc(100% - 24px),1100px)}html[data-ui=rx] .reading-page{padding-top:14px}html[data-ui=rx] .reading-header{padding:18px;margin-bottom:18px}html[data-ui=rx] .reading-header h1{font-size:32px}html[data-ui=rx] .content-section,html[data-ui=rx] .resource-group,html[data-ui=rx] .syllabus,html[data-ui=rx] .extras-section{padding:16px;margin:18px 0}html[data-ui=rx] .subject-card{min-height:138px;padding:15px}}
+@media(prefers-reduced-motion:reduce){html[data-ui=rx] *{scroll-behavior:auto!important;transition:none!important}}

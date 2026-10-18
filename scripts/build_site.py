@@ -3,10 +3,19 @@ from pathlib import Path
 from html import escape
 import hashlib,json,re,sys,os
 from library import build_library,slug
+from library_views import keep_complete_resource
 from ui import icon,link
 import geo,site_shell,library_pages,homepage
 ROOT=Path(__file__).resolve().parent.parent
 LIBRARY=build_library(refresh=bool(os.getenv('DRIVE_API_KEY')))
+for _year in LIBRARY['years']:
+    _visible=0
+    for _subject in _year['subjects']:
+        _rows=[r for r in LIBRARY['files'] if r['id'] in _subject['resourceIds'] and keep_complete_resource(r)]
+        _subject['count']=len(_rows)
+        _subject['groups']={k:sum(r['kind']==k for r in _rows) for k in set(r['kind'] for r in _rows)}
+        _visible+=len(_rows)
+    _year['count']=_visible
 RECORDS=LIBRARY['files'];CATALOGUE={r['id']:r for r in RECORDS}
 DATA=json.loads((ROOT/'data/site-content.json').read_text())
 SUBJECTS=json.loads((ROOT/'data/subjects.json').read_text())
@@ -27,11 +36,12 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433') if home else ('#FFF8EC','#0F1714')
-    extra_assets=(f'<link rel="stylesheet" href="/assets/homepage.css?v={VERSION}"><script src="/assets/homepage.js?v={VERSION}" defer></script>') if home else ''
+    extra_assets=f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}">'
+    if home:extra_assets+=f'<link rel="stylesheet" href="/assets/homepage.css?v={VERSION}"><script src="/assets/homepage.js?v={VERSION}" defer></script>'
     preload='balsamiq' if home else 'bricolage'
     page_header=homepage.header() if home else site_shell.header(path)
     page_footer=homepage.footer() if home else site_shell.footer(sys.modules[__name__])
-    html=f'''<!doctype html><html lang="en"{' data-ui="rx"' if home else ''}><head>
+    html=f'''<!doctype html><html lang="en" data-ui="rx"><head>
 <meta charset="utf-8"><meta name="site-build" content="{VERSION}"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
 <meta name="theme-color" content="{light}" media="(prefers-color-scheme: light)"><meta name="theme-color" content="{dark}" media="(prefers-color-scheme: dark)">

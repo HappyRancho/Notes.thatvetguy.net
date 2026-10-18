@@ -76,7 +76,7 @@ assert len(xml.findall('s:url',ns))==sum('content="noindex,follow"' not in p.rea
 assert all(el.find('s:lastmod',ns) is not None for el in xml.findall('s:url',ns))
 assert all((ROOT/x).exists() for x in ['llms.txt','llms-full.txt','robots.txt','search-index.json'])
 runtime=sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['theme.js','logic.js','site.js','motion.js','homepage.js']);assert runtime<60_000
-payload=runtime+len(gzip.compress(home.encode()))+sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['site.css','homepage.css']);assert payload<150_000
+payload=runtime+len(gzip.compress(home.encode()))+sum(len(gzip.compress((ROOT/'assets'/p).read_bytes())) for p in ['site.css','homepage.css','rx-pages.css']);assert payload<150_000
 spec=importlib.util.spec_from_file_location('policy',ROOT/'scripts/check-link-policy.py');policy=importlib.util.module_from_spec(spec);spec.loader.exec_module(policy);policy.check_policy()
 out=ROOT/'docs/qa/task3';out.mkdir(parents=True,exist_ok=True)
 (out/'counts.json').write_text(json.dumps({'years':data['years'],'cleanup':report,'homeGzipBytes':payload,'jsGzipBytes':runtime},indent=2)+'\n')
