@@ -45,6 +45,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433')
     extra_assets=f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
+    if path in ['/objective/','/clinical/drug-index/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
     preload='balsamiq'
     page_header=homepage.header(path,home)

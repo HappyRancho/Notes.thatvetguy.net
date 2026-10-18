@@ -79,7 +79,7 @@ assert {r['url'] for r in records}=={r['url'] for r in source['notes']}|{r['url'
 for p in pages:
     for row in re.findall(r'<article class="file-row[^"]*"[^>]*>.*?</article>',p.read_text(),re.S):
         assert row.count('<a ')==1 and '<button' not in row and '<details' not in row,(p,'resource must have exactly one Open action')
-        assert '<span class="open-label">Open</span>' in row
+        assert ('<span class="open-label">Open Book</span>' if 'rx-book-card' in row else '<span class="open-label">Open</span>') in row
 assert all(r.get('unit') and r.get('sourcePage') for r in records),'missing source context'
 assert not any('icar-pyq' in r['collections'] for r in records if 'transfer of technology' in r['title'].lower())
 home=(ROOT/'index.html').read_text();assert all(x not in home for x in ['faq-list','Recently Added','quick-tiles'])
