@@ -12,19 +12,19 @@ Notes, books and practical material for 4th Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Medicine
 
-Practical 9 · Images 2 · Notes 44 · Books 17 · Objective 3 · Extras 19
+Notes 44 · Practical 9 · Images 2 · Books 17 · Extras 19 · Objective 3
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[62 resources
 
 ## Veterinary Surgery and Radiology
 
-Practical 18 · Images 8 · Notes 12 · Books 8 · Objective 9 · Extras 7
+Notes 12 · Images 8 · Extras 7 · Books 8 · Practical 18 · Objective 9
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[50 resources
 
 ## Veterinary Gynaecology and Obstetrics
 
-Practical 16 · Images 1 · Notes 15 · Books 8 · Objective 4 · Extras 6
+Notes 15 · Images 1 · Extras 6 · Books 8 · Practical 16 · Objective 4
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 

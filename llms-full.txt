@@ -1911,19 +1911,19 @@ Notes, books and practical material for 1st Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Anatomy
 
-Practical 8 · Images 12 · Notes 5 · Books 5 · Objective 49 · Extras 5
+Notes 5 · Practical 8 · Images 12 · Books 5 · Extras 5 · Objective 49
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[27 resources
 
 ## Veterinary Physiology
 
-Books 4 · Objective 12 · Extras 2 · Notes 9
+Books 4 · Extras 2 · Notes 9 · Objective 12
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[86 resources
 
 ## Livestock Production Management
 
-Practical 55 · Images 1 · Notes 22 · Books 1 · Objective 2 · Extras 5
+Notes 22 · Practical 55 · Images 1 · Books 1 · Extras 5 · Objective 2
 
 ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
@@ -3454,31 +3454,31 @@ Notes, books and practical material for 2nd Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Biochemistry
 
-Notes 3 · Extras 10 · Objective 1 · Practical 6
+Extras 10 · Practical 6 · Objective 1 · Notes 3
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[52 resources
 
 ## Veterinary Microbiology
 
-Practical 21 · Notes 11 · Books 4 · Objective 3 · Extras 13
+Notes 11 · Practical 21 · Books 4 · Extras 13 · Objective 3
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[25 resources
 
 ## Veterinary Pathology
 
-Practical 7 · Images 1 · Notes 5 · Books 3 · Objective 2 · Extras 7
+Notes 5 · Practical 7 · Images 1 · Books 3 · Extras 7 · Objective 2
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[35 resources
 
 ## Animal Genetics and Breeding
 
-Objective 3 · Extras 7 · Notes 10 · Practical 15
+Extras 7 · Practical 15 · Notes 10 · Objective 3
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[21 resources
 
 ## Animal Nutrition
 
-Practical 2 · Images 1 · Notes 5 · Books 3 · Objective 2 · Extras 8
+Notes 5 · Images 1 · Extras 8 · Books 3 · Practical 2 · Objective 2
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
@@ -6001,43 +6001,43 @@ Notes, books and practical material for 3rd Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Pharmacology and Toxicology
 
-Practical 5 · Images 6 · Notes 10 · Books 5 · Objective 3 · Extras 25
+Notes 10 · Practical 5 · Images 6 · Books 5 · Extras 25 · Objective 3
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[41 resources
 
 ## Veterinary Parasitology
 
-Practical 5 · Images 5 · Notes 15 · Books 1 · Objective 4 · Extras 11
+Notes 15 · Practical 5 · Images 5 · Books 1 · Extras 11 · Objective 4
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[25 resources
 
 ## Veterinary Public Health and Epidemiology
 
-Practical 2 · Images 1 · Notes 13 · Books 1 · Objective 3 · Extras 5
+Notes 13 · Practical 2 · Images 1 · Books 1 · Extras 5 · Objective 3
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[63 resources
 
 ## Livestock Products Technology
 
-Practical 2 · Images 1 · Notes 35 · Books 5 · Objective 2 · Extras 18
+Notes 35 · Practical 2 · Images 1 · Books 5 · Extras 18 · Objective 2
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[75 resources
 
 ## Veterinary and Animal Husbandry Extension Education
 
-Images 28 · Notes 13 · Books 2 · Objective 2 · Extras 30
+Notes 13 · Images 28 · Books 2 · Extras 30 · Objective 2
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[2 resources
 
 ## Veterinary Clinical Practices I
 
-Images 1 · Extras 1
+Extras 1 · Images 1
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[2 resources
 
 ## Livestock Farm Practices
 
-Images 1 · Extras 1
+Extras 1 · Images 1
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
@@ -7937,19 +7937,19 @@ Notes, books and practical material for 4th Year BVSc & AH. Choose a subject to 
 
 ## Veterinary Medicine
 
-Practical 9 · Images 2 · Notes 44 · Books 17 · Objective 3 · Extras 19
+Notes 44 · Practical 9 · Images 2 · Books 17 · Extras 19 · Objective 3
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[62 resources
 
 ## Veterinary Surgery and Radiology
 
-Practical 18 · Images 8 · Notes 12 · Books 8 · Objective 9 · Extras 7
+Notes 12 · Images 8 · Extras 7 · Books 8 · Practical 18 · Objective 9
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[50 resources
 
 ## Veterinary Gynaecology and Obstetrics
 
-Practical 16 · Images 1 · Notes 15 · Books 8 · Objective 4 · Extras 6
+Notes 15 · Images 1 · Extras 6 · Books 8 · Practical 16 · Objective 4
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
