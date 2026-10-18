@@ -76,7 +76,7 @@ def parse(url,year,subject=None,course=None):
     match=re.search(r'/folders/([\w-]+)',href);fid=match[1] if match else None
    if not fid:continue
    rows.append({'year':year,'subject':subject,'unit':unit,'id':fid,'name':title,'title':re.sub(r'\s+(?:pdf|pptx?|docx?)\s*$','',title,flags=re.I).strip(),'url':href,'sourcePage':final,'sourceLabel':'VetBVSc','sourceCredit':next((u for u in ['TANUVAS','KVASU','KVAFSU','ICAR','VCI'] if u.lower() in title.lower()),None),'collection':'TANUVAS' if course else 'Unit notes','format':'VIDEO' if re.search(r'\bmp4\b',title,re.I) else 'PDF'})
-  elif subject and host in ['vetbvsc.in','www.vetbvsc.in'] and re.match(r'^(VAN|VPB|LPM|ANN|VPP|VMC|AGB)[ -]*\d',title,re.I):
+  elif subject and host in ['vetbvsc.in','www.vetbvsc.in'] and not re.search(r'\.(pdf|docx?|pptx?)(?:$|[?#])',href,re.I) and re.match(r'^(VAN|VPB|LPM|ANN|VPP|VMC|AGB)[ -]*\d',title,re.I):
    children.append((href,year,subject,title))
  return rows,children,{'url':final,'year':year,'links':len(rows),'courses':len(children)}
 
