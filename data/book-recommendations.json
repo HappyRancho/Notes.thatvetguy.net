@@ -1,0 +1,212 @@
+{
+  "reviewed": "2026-10-18",
+  "books": [
+    {
+      "year": 1,
+      "subject": "Veterinary Anatomy",
+      "title": "Primary Veterinary Anatomy",
+      "author": "R. K. Ghosh",
+      "description": "A practical starting text for anatomical terminology, organ systems and exam preparation.",
+      "reference": "https://currentbooksint.com/product/primary-veterinary-anatomy-9ed-by-r-k-ghosh",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 1,
+      "subject": "Veterinary Anatomy",
+      "title": "Textbook of Veterinary Anatomy",
+      "author": "K. M. Dyce, W. O. Sack and C. J. G. Wensing",
+      "description": "Use alongside dissection to compare structures across domestic species.",
+      "reference": "https://shop.elsevier.com/books/textbook-of-veterinary-anatomy/dyce/978-1-4160-6607-1",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 1,
+      "subject": "Veterinary Physiology",
+      "title": "Dukes’ Physiology of Domestic Animals",
+      "author": "William O. Reece et al. (editors, 13th edition)",
+      "description": "Build a veterinary foundation in how body systems work and interact.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 1,
+      "subject": "Veterinary Physiology",
+      "title": "Cunningham’s Textbook of Veterinary Physiology",
+      "author": "Bradley G. Klein (editor)",
+      "description": "A companion for understanding mechanisms before memorising values.",
+      "reference": "https://www.drvet.in/p/veterinary-book-bank.html",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 1,
+      "subject": "Livestock Production Management",
+      "title": "Livestock Production Management",
+      "author": "N. S. R. Sastry and C. K. Thomas",
+      "description": "Connect housing, handling and routine management with species-specific husbandry.",
+      "reference": "https://books.google.com/books/about/Livestock_Production_Management.html?id=SuNkAAAACAAJ",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 1,
+      "subject": "Livestock Production Management",
+      "title": "A Textbook of Animal Husbandry",
+      "author": "G. C. Banerjee",
+      "description": "A broader reference for breeds, production systems and farm management.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 2,
+      "subject": "Veterinary Biochemistry",
+      "title": "Biochemistry",
+      "author": "U. Satyanarayana and U. Chakrapani",
+      "description": "Use for core pathways and biomolecules; pair with veterinary examples from class.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 2,
+      "subject": "Veterinary Microbiology",
+      "title": "Veterinary Microbiology and Microbial Disease",
+      "author": "P. J. Quinn et al.",
+      "description": "Connect organism characteristics with the infections they cause in animals.",
+      "reference": "https://uat.store.wiley.com/en-us/veterinary-microbiology-and-microbial-disease-3rd-edition-p-9781119716785",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 2,
+      "subject": "Veterinary Pathology",
+      "title": "A Textbook of Veterinary General Pathology",
+      "author": "J. L. Vegad",
+      "description": "Start with injury, inflammation and repair before moving to individual diseases.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 2,
+      "subject": "Animal Genetics and Breeding",
+      "title": "Text Book on Animal Genetics and Breeding",
+      "author": "P. Kanakaraj",
+      "description": "A subject-focused companion for inheritance, population genetics and breeding principles.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 2,
+      "subject": "Animal Nutrition",
+      "title": "Animal Nutrition",
+      "author": "P. McDonald et al.",
+      "description": "A detailed reference for nutrients, digestion and ration-related concepts.",
+      "reference": "https://www.pearson.com/en-gb/subject-catalog/p/animal-nutrition/P200000007549",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 2,
+      "subject": "Animal Nutrition",
+      "title": "Principles of Animal Nutrition and Feed Technology",
+      "author": "D. V. Reddy",
+      "description": "Link nutritional principles with feeds and feed processing.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 3,
+      "subject": "Veterinary Pharmacology and Toxicology",
+      "title": "Essentials of Veterinary Pharmacology and Therapeutics",
+      "author": "H. S. Sandhu",
+      "description": "Organise drug classes by mechanism, action and therapeutic use.",
+      "reference": "https://books.google.com/books/about/Essentials_of_Veterinary_Pharmacology_an.html?id=peXnoAEACAAJ",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 3,
+      "subject": "Veterinary Parasitology",
+      "title": "Veterinary Parasitology",
+      "author": "M. A. Taylor, R. L. Coop and R. L. Wall (4th edition)",
+      "description": "Use life cycles, host relationships and diagnostic features as your organising framework.",
+      "reference": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119073680",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 3,
+      "subject": "Veterinary Public Health and Epidemiology",
+      "title": "Veterinary Epidemiology",
+      "author": "Michael Thrusfield and Robert Christley",
+      "description": "A reference for disease patterns, study design and interpreting diagnostic tests.",
+      "reference": "https://books.wiley.com/titles/9781118280270/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 3,
+      "subject": "Livestock Products Technology",
+      "title": "Outlines of Dairy Technology",
+      "author": "Sukumar De",
+      "description": "Support your study of milk processing, preservation and dairy products.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 3,
+      "subject": "Livestock Products Technology",
+      "title": "Meat and Meat Products Technology",
+      "author": "B. D. Sharma",
+      "description": "Read alongside abattoir and meat-science teaching for processing and product concepts.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 3,
+      "subject": "Veterinary and Animal Husbandry Extension Education",
+      "title": "Textbook of Animal Husbandry and Livestock Extension",
+      "author": "P. Mathialagan",
+      "description": "Connect extension methods with communication and livestock development.",
+      "reference": "https://books.google.com/books/about/Textbook_Of_Animal_Husbandry_And_Livesto.html?id=3Tp6hFSjulcC",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 4,
+      "subject": "Veterinary Medicine",
+      "title": "Veterinary Medicine",
+      "author": "Peter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg (11th edition)",
+      "description": "A substantial large-animal reference for disease mechanisms, diagnosis and management.",
+      "reference": "https://shop.elsevier.com/books/veterinary-medicine/constable/978-0-7020-5246-0",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 4,
+      "subject": "Veterinary Medicine",
+      "title": "Textbook of Clinical Veterinary Medicine",
+      "author": "Amalendu Chakrabarti",
+      "description": "A companion for clinical examination and a systematic approach to disease.",
+      "reference": "https://vetbvsc.in/vet-books/",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 4,
+      "subject": "Veterinary Surgery and Radiology",
+      "title": "Ruminant Surgery",
+      "author": "R. P. S. Tyagi and Jit Singh",
+      "description": "A species-focused reference to pair with supervised surgical teaching.",
+      "reference": "https://www.drvet.in/p/veterinary-book-bank.html",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 4,
+      "subject": "Veterinary Surgery and Radiology",
+      "title": "Farm Animal Surgery",
+      "author": "Susan L. Fubini and Norm Ducharme (editors)",
+      "description": "Use for operative principles and procedure context in farm animals.",
+      "reference": "https://shop.elsevier.com/books/farm-animal-surgery/fubini/978-0-323-31665-1",
+      "lastVerified": "2026-10-18"
+    },
+    {
+      "year": 4,
+      "subject": "Veterinary Gynaecology and Obstetrics",
+      "title": "Veterinary Reproduction and Obstetrics",
+      "author": "David E. Noakes, Timothy J. Parkinson and Gary C. W. England (10th edition)",
+      "description": "Follow reproductive physiology through fertility, pregnancy and obstetrical problems.",
+      "reference": "https://shop.elsevier.com/books/veterinary-reproduction-and-obstetrics/noakes/978-0-7020-7233-8",
+      "lastVerified": "2026-10-18"
+    }
+  ]
+}

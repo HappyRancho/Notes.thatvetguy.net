@@ -65,7 +65,7 @@ def parse(url,year,subject=None,course=None):
    for text in texts[:2]:
     if len(text)<130:
      found=subject_heading(text,year)
-     if found:subject=found;unit=course or 'Subject notes'
+     if found and found!=subject:subject=found;unit=course or 'Subject notes'
      if re.match(r'^Unit\s+\d',text,re.I):unit=re.sub(r'\s+',' ',text).strip()
      elif re.match(r'^Extra Notes',text,re.I):unit='Additional subject notes'
   if node.name!='a':continue
@@ -97,6 +97,8 @@ def run():
    excluded.append(r);continue
   if r['id'] in seen:
    seen[r['id']]['alsoListedAt'].append({'page':r['sourcePage'],'unit':r['unit'],'year':r['year'],'subject':r['subject']});continue
+  if r['subject']=='Veterinary Anatomy' and r['unit']=='Subject notes':
+   n=r['title'].lower();r['unit']='Unit 8 – Veterinary Embryology' if 'embryology' in n else 'Unit 7 – Veterinary Histology' if 'histology' in n else 'Units 1–6 – Gross and Applied Anatomy'
   r['alsoListedAt']=[];seen[r['id']]=r;rows.append(r)
  # The books page is research metadata only, not an automatic PDF-book import.
  content,books_page=fetch('https://vetbvsc.in/vet-books/');book_references=[];subject=None
