@@ -34,3 +34,8 @@ html[data-ui=rx][data-theme=dark]{--paper:#112433;--surface:#192f42;--text:#f0f6
 html[data-ui=rx]{--rx-link:#0769ce}html[data-ui=rx][data-theme=dark]{--rx-link:#99cfff}
 @media(prefers-color-scheme:dark){html[data-ui=rx]:not([data-theme=light]){--rx-link:#99cfff}}
 .rx-explore{color:var(--rx-link)}.mockup-home :is(a,button,input):focus-visible{outline-color:var(--rx-link)}
+.rx-menu{color:#101b43!important}.rx-clinical-art{height:auto}.rx-clinical-heading>span>.icon-svg,.rx-heading-icon.sky{color:var(--rx-link)}
+.rx-paper :focus-visible,.rx-clinical-card:focus-visible,.rx-roadmap a:focus-visible,.rx-community-card:focus-visible,.rx-revision-card a:focus-visible{outline-color:#0769ce!important}
+.rx-footer nav a{min-width:48px}.rx-unavailable{opacity:1;color:var(--muted);background:var(--rx-field)}.rx-unavailable:hover{background:var(--rx-field)}
+html[data-ui=rx][data-theme=dark] .rx-heading-icon.mint{color:#8cd8bc}
+@media(prefers-color-scheme:dark){html[data-ui=rx]:not([data-theme=light]) .rx-heading-icon.mint{color:#8cd8bc}}
