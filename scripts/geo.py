@@ -91,6 +91,10 @@ def structured(path,title,description,items,home,body,records,date):
         if not r['url'] or escape(r['url'],quote=True) not in body:continue
         for variant in r['variants']:
             graph.append({'@type':'LearningResource','@id':BASE+'/#resource-'+variant['id'],'name':r['title'],'url':variant['url'],'description':r['description'],'learningResourceType':r['type'],'educationalLevel':'BVSc & AH','teaches':r['subject'] or 'Veterinary study','inLanguage':'en','encodingFormat':variant['mime'],'isBasedOn':{'@type':'WebPage','url':variant['url']},**({'creditText':r['sourceCredit']} if r.get('sourceCredit') else {}),**({'dateModified':variant['updated']} if variant.get('updated') else {})})
+    from course_outlines import DATA as OUTLINES
+    for professional,outline in OUTLINES['years'].items():
+        if outline['url'] not in body:continue
+        graph.append({'@type':'LearningResource','@id':BASE+outline['url'],'name':outline['label']+' BVSc & AH Course Outline','url':BASE+outline['url'],'learningResourceType':'Course outline','educationalLevel':'BVSc & AH — '+outline['label'],'teaches':'Veterinary curriculum, theory and practical course contents','inLanguage':'en','encodingFormat':'application/pdf','creditText':'The Gazette of India: Extraordinary','dateModified':OUTLINES['reviewed']})
     return json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')
 
 def social(path):

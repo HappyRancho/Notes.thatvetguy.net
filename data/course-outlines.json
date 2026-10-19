@@ -1,0 +1,119 @@
+{
+  "reviewed": "2026-10-19",
+  "years": {
+    "1": {
+      "label": "1st Year",
+      "url": "/assets/course-outlines/1st-year-course-outline.pdf",
+      "pages": 10,
+      "sha256": "2b7202ab0451c538041201e67808a2acc56f97f81c51cfb320e026ad13223174",
+      "originalFilename": "2-1632649358.FIRST-PROFESSIONAL.pdf"
+    },
+    "2": {
+      "label": "2nd Year",
+      "url": "/assets/course-outlines/2nd-year-course-outline.pdf",
+      "pages": 8,
+      "sha256": "a570dfb235dcff586755db07bd663a9e82ec58eb3bab739add5b78352afbe933",
+      "originalFilename": "3-1632649406.SecondPROFESSIONAL-1-.pdf"
+    },
+    "3": {
+      "label": "3rd Year",
+      "url": "/assets/course-outlines/3rd-year-course-outline.pdf",
+      "pages": 13,
+      "sha256": "6cac829ba12eaeff4287783540620626d6705e2b9c6ad70b849f8adb12f698ae",
+      "originalFilename": "4-1632649436.THIRD-PROFESSIONAL-1-.pdf"
+    },
+    "4": {
+      "label": "4th Year",
+      "url": "/assets/course-outlines/4th-year-course-outline.pdf",
+      "pages": 9,
+      "sha256": "9d30ba4ad124058f0ff61d72b132562d1f9ba1faaf6240914e21c8d57d09bbbf",
+      "originalFilename": "5-1632649477.Fourth-Professional-1-.pdf"
+    }
+  },
+  "subjects": {
+    "1": {
+      "Veterinary Anatomy": {
+        "pdfYear": 1,
+        "page": 1
+      },
+      "Veterinary Physiology": {
+        "pdfYear": 1,
+        "page": 4
+      },
+      "Livestock Production Management": {
+        "pdfYear": 1,
+        "page": 7
+      }
+    },
+    "2": {
+      "Veterinary Biochemistry": {
+        "pdfYear": 1,
+        "page": 6
+      },
+      "Veterinary Microbiology": {
+        "pdfYear": 2,
+        "page": 1
+      },
+      "Veterinary Pathology": {
+        "pdfYear": 2,
+        "page": 3
+      },
+      "Animal Genetics and Breeding": {
+        "pdfYear": 2,
+        "page": 6
+      },
+      "Animal Nutrition": {
+        "pdfYear": 2,
+        "page": 7
+      }
+    },
+    "3": {
+      "Veterinary Pharmacology and Toxicology": {
+        "pdfYear": 3,
+        "page": 1
+      },
+      "Veterinary Parasitology": {
+        "pdfYear": 3,
+        "page": 5
+      },
+      "Veterinary Public Health and Epidemiology": {
+        "pdfYear": 3,
+        "page": 3
+      },
+      "Livestock Products Technology": {
+        "pdfYear": 3,
+        "page": 7
+      },
+      "Veterinary and Animal Husbandry Extension Education": {
+        "pdfYear": 3,
+        "page": 9
+      },
+      "Veterinary Clinical Practices I": {
+        "pdfYear": 3,
+        "page": 11
+      },
+      "Livestock Farm Practices": {
+        "pdfYear": 3,
+        "page": 13
+      }
+    },
+    "4": {
+      "Veterinary Medicine": {
+        "pdfYear": 4,
+        "page": 5
+      },
+      "Veterinary Surgery and Radiology": {
+        "pdfYear": 4,
+        "page": 1
+      },
+      "Veterinary Gynaecology and Obstetrics": {
+        "pdfYear": 4,
+        "page": 6
+      },
+      "Veterinary Clinical Practices II": {
+        "pdfYear": 4,
+        "page": 9
+      }
+    }
+  }
+}

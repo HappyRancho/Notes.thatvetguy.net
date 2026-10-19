@@ -54,6 +54,7 @@ def subject_icon(name):
     return 'book','mint'
 
 def academics(b):
+    from course_outlines import outline_url
     ident='year';body=heading('BVSc &amp; AH Resources','Four years. Infinite syllabus. Character development included.','cap','mint','<span class="rx-section-paw" aria-hidden="true">'+icon('paw')+'</span>')
     body+=tabs(ident,[(b.DATA['labels'][str(y['year'])],'/bvsc/year-'+str(y['year'])+'/') for y in b.LIBRARY['years']])
     for i,y in enumerate(b.LIBRARY['years']):
@@ -61,7 +62,7 @@ def academics(b):
         for s in y['subjects']:
             name=s['name'];ic,tone=subject_icon(name);name='Livestock Production & Management' if name=='Livestock Production Management' else name
             subjects+=row(name,base+'#'+s['slug'],ic,tone) if s['count'] else '<div class="rx-row rx-unavailable"><span class="rx-row-icon '+tone+'">'+icon(ic)+'</span><span class="rx-row-label">'+e(name)+'<small>Coming soon</small></span></div>'
-        roadmap='<aside class="rx-roadmap"><div class="rx-map-heading">'+icon('map')+burst()+'<h3>'+label+'<br>Road Map</h3></div><p class="rx-hand">'+CONTENT['roadmaps'][str(y['year'])]['description']+'</p>'+link(base+'#road-map','View Road Map '+icon('arrow'),'rx-button')+'</aside>'
+        roadmap='<aside class="rx-roadmap"><div class="rx-map-heading">'+icon('map')+burst()+'<h3>'+label+'<br>Road Map</h3></div><p class="rx-hand">'+CONTENT['roadmaps'][str(y['year'])]['description']+'</p>'+'<div class="rx-roadmap-actions">'+link(base+'#road-map','Road Map '+icon('arrow'),'rx-button rx-roadmap-button')+link(outline_url(y['year']),icon('paper')+'<span>Course Outline</span>','rx-course-outline')+'</div></aside>'
         footer='<div class="rx-year-footer"><span>'+icon('book')+'<span class="rx-hand">'+str(len(y['subjects']))+' subjects <span class="rx-footer-detail">· notes &amp; books</span></span></span>'+link(base,'Explore '+label+' '+icon('arrow'),'rx-explore')+'</div>'
         body+=panel(ident,i,'<div class="rx-year-drawer"><div class="rx-subjects">'+subjects+'</div>'+roadmap+'</div>'+footer)
     return '<section class="rx-section rx-academics" id="notes" data-home-tabs>'+body+'</section>'

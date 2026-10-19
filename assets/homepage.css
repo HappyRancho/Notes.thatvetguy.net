@@ -65,3 +65,11 @@ html[data-ui=rx][data-theme=dark] .rx-heading-icon.mint{color:#8cd8bc}
 @media(min-width:768px){.rx-resource-row .rx-row-label{font-size:16px}.rx-clinical-icon-card>img{max-height:240px!important}}
 
 html:not(.js) .rx-inner .rx-panel[hidden],html:not(.js) .rx-objective .rx-panel[hidden]{display:block!important}
+/* Two compact, real destinations inside each existing year roadmap tile. */
+.rx-academics .rx-roadmap-actions{display:grid;gap:7px;width:100%;max-width:230px;margin-top:3px}
+.rx-academics .rx-roadmap-actions .rx-roadmap-button{width:100%;min-height:48px;margin:0;padding:7px 6px;font-size:13px;gap:5px;flex-wrap:nowrap}
+.rx-academics .rx-roadmap-button>.icon-svg{width:16px;height:16px}
+.rx-academics .rx-course-outline{display:flex;align-items:center;justify-content:center;gap:5px;min-height:48px;padding:7px 6px;border:1px solid #9ab9d1;border-radius:10px;background:#ffffffa6;color:#101b43;font:600 12px/1.25 var(--ui);text-align:center}
+.rx-academics .rx-course-outline>span{min-width:0}
+.rx-academics .rx-course-outline>.icon-svg{width:15px;height:18px}
+@media(min-width:600px){.rx-academics .rx-roadmap-actions{gap:8px}.rx-academics .rx-roadmap-actions .rx-roadmap-button{font-size:15px;padding:8px 12px}.rx-academics .rx-course-outline{font-size:14px;padding:8px 12px}}
