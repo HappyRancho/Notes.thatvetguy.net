@@ -12,8 +12,6 @@ Quick clinical references for everyday veterinary practice.
 
 ### Ultimate Vet handbook.pdf
 
-84.7 MB
-
 DVM standards handbook for Crisp Veterinary Clinical Knowledge.
 
 [Open Book: Ultimate Vet handbook.pdf](https://t.me/Vethandbooks/3)
@@ -21,8 +19,6 @@ DVM standards handbook for Crisp Veterinary Clinical Knowledge.
 #2
 
 ### Handbook for Veterinary Clinician.pdf
-
-38.5 MB
 
 Veterinary Clinician Handbook by A U Bhikane.
 
@@ -32,8 +28,6 @@ Veterinary Clinician Handbook by A U Bhikane.
 
 ### Pocket Handbook of Small Animal Medicine.pdf
 
-4.8 MB
-
 Pocket Handbook of Small Animal Medicine.
 
 [Open Book: Pocket Handbook of Small Animal Medicine.pdf](https://t.me/Vethandbooks/5)
@@ -41,8 +35,6 @@ Pocket Handbook of Small Animal Medicine.
 #4
 
 ### Veterinary practice handbook.pdf
-
-1.5 MB
 
 Preliminary Veterinary Handbooks by RK Chandolia.
 
@@ -52,8 +44,6 @@ Preliminary Veterinary Handbooks by RK Chandolia.
 
 ### Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...
 
-20.7 MB
-
 Handbook of Small Animal Radiology and Ultrasound.
 
 [Open Book: Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...](https://t.me/Vethandbooks/8)
@@ -61,8 +51,6 @@ Handbook of Small Animal Radiology and Ultrasound.
 #6
 
 ### A_Color_Handbook_of_Small_Animal.pdf
-
-11.0 MB
 
 Colour handbook of Small Animal Emergency and Critical care.
 
