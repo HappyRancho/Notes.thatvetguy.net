@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastInspected": "2026-10-18",
+  "lastInspected": "2026-10-19",
   "files": [
     {
       "year": 1,
@@ -25539,7 +25539,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-dhruv-desai",
       "sourcePage": "https://t.me/veterinary_objectives/2?single",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "objective-notes"
       ],
@@ -25590,7 +25590,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-animal-science-refresher",
       "sourcePage": "https://t.me/veterinary_objectives/5",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "objective-notes"
       ],
@@ -25641,7 +25641,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-review-veterinary-science",
       "sourcePage": "https://t.me/veterinary_objectives/7",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "objective-notes"
       ],
@@ -25692,7 +25692,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-review-animal-science",
       "sourcePage": "https://t.me/veterinary_objectives/8",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "objective-notes"
       ],
@@ -25743,7 +25743,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-veterinary-capsule",
       "sourcePage": "https://t.me/veterinary_objectives/3?single",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "objective-notes"
       ],
@@ -25794,7 +25794,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-tanuvas-qbank",
       "sourcePage": "https://t.me/veterinary_question_bank/3",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "question-banks"
       ],
@@ -25845,7 +25845,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-ndri-qbank",
       "sourcePage": "https://t.me/veterinary_question_bank/6",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "question-banks"
       ],
@@ -25896,7 +25896,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-vet-scorer",
       "sourcePage": "https://t.me/veterinary_question_bank/12",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "question-banks"
       ],
@@ -25947,7 +25947,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-kvafsu-qbank",
       "sourcePage": "https://t.me/veterinary_question_bank/5",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "question-banks"
       ],
@@ -25998,7 +25998,7 @@
       "page": "/objective/",
       "permalink": "/objective/#file-telegram-e-nanu-qbank",
       "sourcePage": "https://t.me/veterinary_question_bank/4",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "question-banks"
       ],
@@ -26049,7 +26049,7 @@
       "page": "/clinical/drug-index/",
       "permalink": "/clinical/drug-index/#file-telegram-vendex",
       "sourcePage": "https://t.me/c/4430259212/3",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "drug-index"
       ],
@@ -26100,7 +26100,7 @@
       "page": "/clinical/drug-index/",
       "permalink": "/clinical/drug-index/#file-telegram-navsari-drug-index",
       "sourcePage": "https://t.me/c/4430259212/4",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "drug-index"
       ],
@@ -26151,7 +26151,7 @@
       "page": "/clinical/drug-index/",
       "permalink": "/clinical/drug-index/#file-telegram-plumbs-handbook",
       "sourcePage": "https://t.me/c/4430259212/5",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "drug-index"
       ],
@@ -26202,7 +26202,7 @@
       "page": "/clinical/drug-index/",
       "permalink": "/clinical/drug-index/#file-telegram-wall-drug-dose",
       "sourcePage": "https://t.me/c/4430259212/7",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "drug-index"
       ],
@@ -26253,13 +26253,325 @@
       "page": "/clinical/drug-index/",
       "permalink": "/clinical/drug-index/#file-telegram-vaccination-schedule",
       "sourcePage": "https://t.me/c/4430259212/6",
-      "lastVerified": "2026-10-18",
+      "lastVerified": "2026-10-19",
       "collections": [
         "drug-index"
       ],
       "keywords": [
         "Vaccination Schedule of All Animals",
         "A vaccination-schedule reference to compare with species, local guidance and product labels."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-ultimate-vet-handbook",
+      "collection": "handbooks",
+      "title": "Ultimate Vet handbook.pdf",
+      "description": "DVM standards handbook for Crisp Veterinary Clinical Knowledge.",
+      "displaySize": "84.7 MB",
+      "url": "https://t.me/Vethandbooks/3",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Ultimate Vet handbook.pdf",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Handbooks",
+      "subjectSlug": null,
+      "path": "handbooks/Ultimate Vet handbook.pdf",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-ultimate-vet-handbook",
+          "name": "Ultimate Vet handbook.pdf",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/Vethandbooks/3",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/handbooks/",
+      "permalink": "/clinical/handbooks/#file-telegram-ultimate-vet-handbook",
+      "sourcePage": "https://t.me/Vethandbooks/3",
+      "lastVerified": "2026-10-19",
+      "collections": [
+        "handbooks"
+      ],
+      "keywords": [
+        "Ultimate Vet handbook.pdf",
+        "DVM standards handbook for Crisp Veterinary Clinical Knowledge."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-veterinary-clinician-handbook",
+      "collection": "handbooks",
+      "title": "Handbook for Veterinary Clinician.pdf",
+      "description": "Veterinary Clinician Handbook by A U Bhikane.",
+      "displaySize": "38.5 MB",
+      "url": "https://t.me/Vethandbooks/4",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "A U Bhikane",
+      "name": "Handbook for Veterinary Clinician.pdf",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Handbooks",
+      "subjectSlug": null,
+      "path": "handbooks/Handbook for Veterinary Clinician.pdf",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-veterinary-clinician-handbook",
+          "name": "Handbook for Veterinary Clinician.pdf",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/Vethandbooks/4",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/handbooks/",
+      "permalink": "/clinical/handbooks/#file-telegram-veterinary-clinician-handbook",
+      "sourcePage": "https://t.me/Vethandbooks/4",
+      "lastVerified": "2026-10-19",
+      "collections": [
+        "handbooks"
+      ],
+      "keywords": [
+        "Handbook for Veterinary Clinician.pdf",
+        "Veterinary Clinician Handbook by A U Bhikane."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-small-animal-medicine-handbook",
+      "collection": "handbooks",
+      "title": "Pocket Handbook of Small Animal Medicine.pdf",
+      "description": "Pocket Handbook of Small Animal Medicine.",
+      "displaySize": "4.8 MB",
+      "url": "https://t.me/Vethandbooks/5",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Pocket Handbook of Small Animal Medicine.pdf",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Handbooks",
+      "subjectSlug": null,
+      "path": "handbooks/Pocket Handbook of Small Animal Medicine.pdf",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-small-animal-medicine-handbook",
+          "name": "Pocket Handbook of Small Animal Medicine.pdf",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/Vethandbooks/5",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/handbooks/",
+      "permalink": "/clinical/handbooks/#file-telegram-small-animal-medicine-handbook",
+      "sourcePage": "https://t.me/Vethandbooks/5",
+      "lastVerified": "2026-10-19",
+      "collections": [
+        "handbooks"
+      ],
+      "keywords": [
+        "Pocket Handbook of Small Animal Medicine.pdf",
+        "Pocket Handbook of Small Animal Medicine."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-veterinary-practice-handbook",
+      "collection": "handbooks",
+      "title": "Veterinary practice handbook.pdf",
+      "description": "Preliminary Veterinary Handbooks by RK Chandolia.",
+      "displaySize": "1.5 MB",
+      "url": "https://t.me/Vethandbooks/7",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "RK Chandolia",
+      "name": "Veterinary practice handbook.pdf",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Handbooks",
+      "subjectSlug": null,
+      "path": "handbooks/Veterinary practice handbook.pdf",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-veterinary-practice-handbook",
+          "name": "Veterinary practice handbook.pdf",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/Vethandbooks/7",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/handbooks/",
+      "permalink": "/clinical/handbooks/#file-telegram-veterinary-practice-handbook",
+      "sourcePage": "https://t.me/Vethandbooks/7",
+      "lastVerified": "2026-10-19",
+      "collections": [
+        "handbooks"
+      ],
+      "keywords": [
+        "Veterinary practice handbook.pdf",
+        "Preliminary Veterinary Handbooks by RK Chandolia."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-small-animal-radiology-handbook",
+      "collection": "handbooks",
+      "title": "Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...",
+      "description": "Handbook of Small Animal Radiology and Ultrasound.",
+      "displaySize": "20.7 MB",
+      "url": "https://t.me/Vethandbooks/8",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Handbooks",
+      "subjectSlug": null,
+      "path": "handbooks/Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-small-animal-radiology-handbook",
+          "name": "Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/Vethandbooks/8",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/handbooks/",
+      "permalink": "/clinical/handbooks/#file-telegram-small-animal-radiology-handbook",
+      "sourcePage": "https://t.me/Vethandbooks/8",
+      "lastVerified": "2026-10-19",
+      "collections": [
+        "handbooks"
+      ],
+      "keywords": [
+        "Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...",
+        "Handbook of Small Animal Radiology and Ultrasound."
+      ],
+      "new": false
+    },
+    {
+      "id": "telegram-small-animal-colour-handbook",
+      "collection": "handbooks",
+      "title": "A_Color_Handbook_of_Small_Animal.pdf",
+      "description": "Colour handbook of Small Animal Emergency and Critical care.",
+      "displaySize": "11.0 MB",
+      "url": "https://t.me/Vethandbooks/9",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null,
+      "name": "A_Color_Handbook_of_Small_Animal.pdf",
+      "year": null,
+      "subject": "Clinical References",
+      "unit": "Handbooks",
+      "subjectSlug": null,
+      "path": "handbooks/A_Color_Handbook_of_Small_Animal.pdf",
+      "mime": "application/pdf",
+      "size": null,
+      "updated": null,
+      "kind": "other",
+      "group": "Clinical References",
+      "format": "PDF",
+      "variants": [
+        {
+          "id": "telegram-small-animal-colour-handbook",
+          "name": "A_Color_Handbook_of_Small_Animal.pdf",
+          "mime": "application/pdf",
+          "size": null,
+          "updated": null,
+          "url": "https://t.me/Vethandbooks/9",
+          "format": "PDF",
+          "extension": "PDF",
+          "download": null
+        }
+      ],
+      "duplicateIds": [],
+      "photoIds": [],
+      "type": "Handbook",
+      "page": "/clinical/handbooks/",
+      "permalink": "/clinical/handbooks/#file-telegram-small-animal-colour-handbook",
+      "sourcePage": "https://t.me/Vethandbooks/9",
+      "lastVerified": "2026-10-19",
+      "collections": [
+        "handbooks"
+      ],
+      "keywords": [
+        "A_Color_Handbook_of_Small_Animal.pdf",
+        "Colour handbook of Small Animal Emergency and Critical care."
       ],
       "new": false
     }
@@ -26990,8 +27302,8 @@
   ],
   "stats": {
     "rawFiles": 499,
-    "canonicalResources": 514,
-    "curatedResources": 15,
+    "canonicalResources": 520,
+    "curatedResources": 21,
     "duplicatesHidden": 7,
     "imagesGrouped": 0
   },

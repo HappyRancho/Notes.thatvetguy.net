@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-19 -->
 
 # Free Veterinary Academic Resources
 
@@ -112,4 +112,4 @@ Can’t find a resource? Ask for it.
 
 Students today. Better vets tomorrow.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

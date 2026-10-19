@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/Objective & Competition Resources
 
@@ -28,8 +28,6 @@ Dhruv N Desai
 
 A broad animal-science revision companion for reviewing core concepts.
 
-Telegram
-
 [Open Book: Animal Science Refresher](https://t.me/veterinary_objectives/5)
 
 #3
@@ -37,8 +35,6 @@ Telegram
 ### Review of Veterinary Science
 
 Revisit veterinary subjects and consolidate key points before an exam.
-
-Telegram
 
 [Open Book: Review of Veterinary Science](https://t.me/veterinary_objectives/7)
 
@@ -48,8 +44,6 @@ Telegram
 
 Review important animal-science topics alongside your syllabus and class notes.
 
-Telegram
-
 [Open Book: Review of Animal Science](https://t.me/veterinary_objectives/8)
 
 #5
@@ -57,8 +51,6 @@ Telegram
 ### All in One Veterinary Capsule
 
 A compact veterinary revision resource for a final pass through key topics.
-
-Telegram
 
 [Open Book: All in One Veterinary Capsule](https://t.me/veterinary_objectives/3?single)
 
@@ -90,8 +82,6 @@ NDRI
 
 A veterinary objective-practice resource; use this 2022 edition with current notes.
 
-Telegram
-
 [Open Book: Vet Scorer 2022 — 1st Edition](https://t.me/veterinary_question_bank/12)
 
 #4
@@ -114,4 +104,4 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://t.me/veterinary_question_bank/4)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

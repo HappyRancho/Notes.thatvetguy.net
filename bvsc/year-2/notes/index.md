@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year Topic-wise Notes
 
@@ -725,4 +725,4 @@ Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://dr
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

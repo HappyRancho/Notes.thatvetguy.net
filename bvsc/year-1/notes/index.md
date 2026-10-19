@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year Topic-wise Notes
 
@@ -243,4 +243,4 @@ Swine Production Management Note[Open Swine Production Management Note](https://
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

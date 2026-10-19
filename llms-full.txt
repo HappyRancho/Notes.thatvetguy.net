@@ -6,12 +6,12 @@ A free academic library for BVSc & AH students. Site summaries: Dr. Chirag Patid
 
 Main website: https://thatvetguy.net
 Author: Dr. Chirag Patidar
-Last source review: 2026-10-18. File access settings can change.
+Last source review: 2026-10-19. File access settings can change.
 
 ---
 Canonical: https://notes.thatvetguy.net/
 
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-19 -->
 
 # Free Veterinary Academic Resources
 
@@ -125,13 +125,13 @@ Can’t find a resource? Ask for it.
 
 Students today. Better vets tomorrow.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/BVSc Notes & Books
 
@@ -291,13 +291,13 @@ Roadmap available
 
 Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/1st Year Books & Notes
 
@@ -376,13 +376,13 @@ Roadmap
 
 Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year Topic-wise Notes
 
@@ -627,13 +627,13 @@ Swine Production Management Note[Open Swine Production Management Note](https://
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year Books & Notes
 
@@ -742,13 +742,13 @@ Roadmap
 
 Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year Topic-wise Notes
 
@@ -1475,13 +1475,13 @@ Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://dr
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Books & Notes
 
@@ -1622,13 +1622,13 @@ Roadmap
 
 Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year Topic-wise Notes
 
@@ -2310,13 +2310,13 @@ Livestock Farm Practices[Open Livestock Farm Practices](https://drive.google.com
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/4th Year Books & Notes
 
@@ -2409,13 +2409,13 @@ Roadmap
 
 Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year Topic-wise Notes
 
@@ -2694,13 +2694,13 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/objective/
 
-<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/Objective & Competition Resources
 
@@ -2730,8 +2730,6 @@ Dhruv N Desai
 
 A broad animal-science revision companion for reviewing core concepts.
 
-Telegram
-
 [Open Book: Animal Science Refresher](https://t.me/veterinary_objectives/5)
 
 #3
@@ -2739,8 +2737,6 @@ Telegram
 ### Review of Veterinary Science
 
 Revisit veterinary subjects and consolidate key points before an exam.
-
-Telegram
 
 [Open Book: Review of Veterinary Science](https://t.me/veterinary_objectives/7)
 
@@ -2750,8 +2746,6 @@ Telegram
 
 Review important animal-science topics alongside your syllabus and class notes.
 
-Telegram
-
 [Open Book: Review of Animal Science](https://t.me/veterinary_objectives/8)
 
 #5
@@ -2759,8 +2753,6 @@ Telegram
 ### All in One Veterinary Capsule
 
 A compact veterinary revision resource for a final pass through key topics.
-
-Telegram
 
 [Open Book: All in One Veterinary Capsule](https://t.me/veterinary_objectives/3?single)
 
@@ -2792,8 +2784,6 @@ NDRI
 
 A veterinary objective-practice resource; use this 2022 edition with current notes.
 
-Telegram
-
 [Open Book: Vet Scorer 2022 — 1st Edition](https://t.me/veterinary_question_bank/12)
 
 #4
@@ -2816,60 +2806,13 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://t.me/veterinary_question_bank/4)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
-
-
----
-Canonical: https://notes.thatvetguy.net/clinical/
-
-<!-- Canonical: https://notes.thatvetguy.net/clinical/; updated: 2026-10-18 -->
-
-[Home](https://notes.thatvetguy.net/)/Clinical Resources
-
-# Clinical Resources
-
-Veterinary handbooks and pharmacology notes for students preparing for clinical work. Start with a reference or explore Medicine, Surgery, Pathology and Pharmacology.
-
-For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.
-
-↳ Check the dose. Then check it again. The patient can't.
-
-## Handbooks
-
-[Browse the Handbooks Collection ](https://notes.thatvetguy.net/clinical/handbooks/)
-
-## Drug Index Collection
-
-[Open the Drug Index Collection ](https://notes.thatvetguy.net/clinical/drug-index/)
-
-### Pharmacology notes
-
-Start with these topics, then explore the full subject.
-
-[PDFFactors modifying Drug effect and DosageVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9)
-[PDFGeneral Pharmacology IntroductionVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1q4bdnC-rttiPMMyMbhf35ErKHy_SzGeT)
-[PDFGeneral Pharmacology NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-11XmEsBUWnEGqALvnKU8tTTl-NSCz4LgA)
-[PDFPharmacodynamicsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1UXt4V4WrRVh8Gx9zCuIbf4bujusggr0S)
-[PDFPharmacokineticsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-19t5npwxtScJNrAZlK_ArYtIxtMTVssXN)
-[PDFAutacoidsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ)
-[PDFDrugs Acting on ANS NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1HYkpdfCtZ-f_xUtq88BPzqmWokf9eC9i)
-[PDFDrugs acting on Autonomic Nervous SystemVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1VNcfppaa7YyTXWy6Dqt__K3Rf_2pSAsY)
-[PDFDrugs Acting on Autonomic Nervous System NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1WngNRKbPOJ6PoucchwftteGhfkCV7Orf)
-[PDFAnaleptics and other CNS StimulantsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i)
-[PDFDrugs Acting on Central Nervous System (CNS) NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-16MeShxNxmC3rxhwSlRnk4efycFjplHqh)
-[PDFHistory, Mechanism and Stages of AnaesthesiaVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/notes/#file-1JRzK1TBW8enbryTfX6cSvTMhNMfzX_XO)[See all Pharmacology resources ](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology)
-
-## Go straight to the subject.
-
-[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-pathology)[Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-medicine)[Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-surgery-and-radiology)[Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-pharmacology-and-toxicology)
-
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/study-tools/
 
-<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/Tips & Tools for Vet Study
 
@@ -2943,13 +2886,13 @@ Record the author, edition, species and date where relevant. A saved file still 
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/#road-map)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/#road-map)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/#road-map)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/about/
 
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/About Notes.ThatVetGuy
 
@@ -2981,13 +2924,13 @@ Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/request-resource/
 
-<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/Can’t find what you need?
 
@@ -3029,13 +2972,13 @@ Can I contribute a resource?
 
 Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/search/
 
-<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/Find your next read.
 
@@ -3108,39 +3051,93 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/clinical/handbooks/
 
-<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-19 -->
 
-[Home](https://notes.thatvetguy.net/)/[Clinical](https://notes.thatvetguy.net/clinical/)/Handbooks Collection
+[Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Handbooks
 
-# Handbooks Collection
+# Handbooks
 
-Veterinary handbook material in one place for BVSc & AH students. Check the original edition and use clinical references alongside supervised training.
+Quick clinical references for everyday veterinary practice.
 
-For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.
+## Handbook collection
 
-## Available handbooks
+#1
 
-Handbooks are coming soon
+### Ultimate Vet handbook.pdf
 
-Nothing here yet. Even a calf needs a minute to stand.
+84.7 MB
 
-[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+DVM standards handbook for Crisp Veterinary Clinical Knowledge.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+[Open Book: Ultimate Vet handbook.pdf](https://t.me/Vethandbooks/3)
+
+#2
+
+### Handbook for Veterinary Clinician.pdf
+
+38.5 MB
+
+Veterinary Clinician Handbook by A U Bhikane.
+
+[Open Book: Handbook for Veterinary Clinician.pdf](https://t.me/Vethandbooks/4)
+
+#3
+
+### Pocket Handbook of Small Animal Medicine.pdf
+
+4.8 MB
+
+Pocket Handbook of Small Animal Medicine.
+
+[Open Book: Pocket Handbook of Small Animal Medicine.pdf](https://t.me/Vethandbooks/5)
+
+#4
+
+### Veterinary practice handbook.pdf
+
+1.5 MB
+
+Preliminary Veterinary Handbooks by RK Chandolia.
+
+[Open Book: Veterinary practice handbook.pdf](https://t.me/Vethandbooks/7)
+
+#5
+
+### Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...
+
+20.7 MB
+
+Handbook of Small Animal Radiology and Ultrasound.
+
+[Open Book: Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...](https://t.me/Vethandbooks/8)
+
+#6
+
+### A_Color_Handbook_of_Small_Animal.pdf
+
+11.0 MB
+
+Colour handbook of Small Animal Emergency and Critical care.
+
+[Open Book: A_Color_Handbook_of_Small_Animal.pdf](https://t.me/Vethandbooks/9)
+
+These books open in Telegram. Use clinical references alongside supervised training and current guidance.
+
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/clinical/drug-index/
 
-<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-19 -->
 
-[Home](https://notes.thatvetguy.net/)/[Clinical](https://notes.thatvetguy.net/clinical/)/Drug Index Collection
+[Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Drug Index Collection
 
 # Drug Index Collection
 
@@ -3155,8 +3152,6 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 ### VENDEX: The Fundamental Veterinary Drug Index
 
 A veterinary drug-index reference to consult alongside current product information.
-
-Telegram
 
 [Open Book: VENDEX: The Fundamental Veterinary Drug Index](https://t.me/c/4430259212/3)
 
@@ -3176,8 +3171,6 @@ NAVSARI
 
 A drug-handbook reference. Check the edition and species-specific guidance before use.
 
-Telegram
-
 [Open Book: Plumb’s Veterinary Drug Handbook](https://t.me/c/4430259212/5)
 
 #4
@@ -3185,8 +3178,6 @@ Telegram
 ### Drug Dose — Wall Reference
 
 A printable quick-reference sheet; verify every dose against current clinical guidance.
-
-Telegram
 
 [Open Book: Drug Dose — Wall Reference](https://t.me/c/4430259212/7)
 
@@ -3196,19 +3187,17 @@ Telegram
 
 A vaccination-schedule reference to compare with species, local guidance and product labels.
 
-Telegram
-
 [Open Book: Vaccination Schedule of All Animals](https://t.me/c/4430259212/6)
 
 These links open a private Telegram collection. You need access to that collection to view its posts.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/404/
 
-<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/404: this page has left the herd.
 
@@ -3218,4 +3207,4 @@ Try a subject or search for the resource you need.
 
 [Back to the notes ](https://notes.thatvetguy.net/bvsc/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

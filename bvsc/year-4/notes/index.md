@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year Topic-wise Notes
 
@@ -277,4 +277,4 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/About Notes.ThatVetGuy
 
@@ -30,4 +30,4 @@ Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
