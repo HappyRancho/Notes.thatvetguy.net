@@ -1,0 +1,60 @@
+/* The approved year-page composition. Loaded only on the four year hubs. */
+.rx-inner .year-page .reading-header{display:grid;grid-template-columns:42px minmax(0,1fr);gap:8px 12px;padding:20px 18px;border-radius:22px;margin-bottom:16px}
+.rx-inner .year-page .rx-page-title{display:contents}
+.rx-inner .year-page .rx-page-title>.rx-row-icon{grid-column:1;grid-row:1;width:42px;height:46px;border-radius:12px}
+.rx-inner .year-page .rx-page-title>.rx-row-icon .icon-svg{width:32px;height:32px}
+.rx-inner .year-page .rx-page-title h1{grid-column:2;grid-row:1;align-self:center;margin:0;font:700 27px/1.15 var(--rx-heading);max-width:none}
+.rx-inner .year-page .reading-header>p{grid-column:2;margin:0;color:var(--muted);font:500 22px/1.25 Caveat,cursive}
+.rx-inner .year-page .year-roadmap-cta{display:grid;grid-template-columns:42px minmax(0,1fr) 48px;align-items:center;gap:12px;padding:17px 16px;margin:0 0 20px;border:1px solid #f3e8bc;border-radius:20px;background:var(--rx-yellow);color:#101b43;box-shadow:var(--rx-shadow);min-height:92px}
+.rx-inner .year-page .year-map-art{display:grid;place-items:center}
+.rx-inner .year-page .year-map-art>.icon-svg{width:42px;height:48px;stroke:#18375c;fill:#d3f2e8;stroke-width:1.6}
+.rx-inner .year-page .year-roadmap-cta strong{display:block;font:700 19px/1.2 var(--rx-heading);color:inherit}
+.rx-inner .year-page .year-roadmap-cta .rx-hand{display:block;font-size:21px;line-height:1.15;margin-top:4px;color:#475571}
+.rx-inner .year-page .year-roadmap-arrow{display:grid;place-items:center;width:48px;height:48px;border-radius:16px;background:var(--rx-blue);color:#fff}
+.rx-inner .year-page .year-roadmap-arrow>.icon-svg{width:24px;height:24px}
+.rx-inner .year-page .year-subject-sections{gap:20px}
+.rx-inner .year-page .year-subject-section{padding:20px 18px;border-radius:22px;scroll-margin-top:20px}
+.rx-inner .year-page .year-subject-section>header{align-items:center;gap:12px;margin-bottom:16px}
+.rx-inner .year-page .year-subject-section>header>.rx-row-icon{width:40px;height:46px;flex-basis:40px;border-radius:12px}
+.rx-inner .year-page .year-subject-section>header .icon-svg{width:28px;height:30px}
+.rx-inner .year-page .year-subject-section h2{font-size:22px;line-height:1.2;min-width:0;margin:0}
+.rx-inner .year-page .year-subject-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:0 0 18px}
+.rx-inner .year-page .year-subject-actions>:is(a,span){display:flex;align-items:center;justify-content:flex-start;gap:6px;min-width:0;min-height:54px;border-radius:12px;padding:9px 8px;box-shadow:none;font:500 13px/1.3 var(--ui);transition:transform 150ms ease-out,filter 150ms ease-out}
+.rx-inner .year-page .year-course-link{background:var(--rx-tone);color:#101b43}
+.rx-inner .year-page .year-notes-link{background:var(--rx-sky);color:#101b43}
+.rx-inner .year-page .year-subject-actions>a>span{flex:1;min-width:0}
+.rx-inner .year-page .year-subject-actions>:is(a,span)>.icon-svg:first-child{width:20px;height:24px;flex:0 0 20px}
+.rx-inner .year-page .year-course-link>.icon-svg:first-child{color:#b34d25}
+.rx-inner .year-page .year-course-link.mint>.icon-svg:first-child{color:#226c4a}
+.rx-inner .year-page .year-notes-link>.icon-svg:first-child{color:#086ec1}
+.rx-inner .year-page .year-subject-actions>a>.icon-svg:last-child{width:12px;height:16px;margin-left:0}
+.rx-inner .year-page .year-notes-unavailable{background:var(--rx-field);color:var(--muted);font-size:12px}
+.rx-inner .year-page .year-subject-actions>a:hover{filter:brightness(.98)}
+.rx-inner .year-page .year-subject-actions>a:active{transform:translateY(1px)}
+.rx-inner .year-page .year-outline-note{margin:-7px 2px 15px;font-size:12px;line-height:1.45;color:var(--muted)}
+.rx-inner .year-page .year-books-heading{display:flex;align-items:center;gap:8px;font:600 15px/1.4 var(--ui);color:var(--text);margin:0 0 12px}
+.rx-inner .year-page .year-books-heading>.icon-svg{width:21px;height:22px}
+.rx-inner .year-page .year-books-heading:after{content:'';height:1px;flex:1;margin-left:3px;background:var(--hairline)}
+.rx-inner .year-page .year-book-list{display:block;border:1px solid var(--hairline);border-radius:14px;overflow:hidden;margin:0;padding:0}
+.rx-inner .year-page .year-book-list>li{display:block;padding:0;border-bottom:1px solid var(--hairline)}
+.rx-inner .year-page .year-book-list>li:last-child{border:0}
+.rx-inner .year-page .year-book-detail>summary{display:flex;align-items:center;gap:10px;min-height:76px;padding:13px 11px;cursor:pointer;list-style:none;background:var(--surface)}
+.rx-inner .year-page .year-book-detail>summary>.rx-row-icon{width:31px;height:36px;flex:0 0 31px;border-radius:9px}
+.rx-inner .year-page .year-book-detail>summary>.rx-row-icon>.icon-svg{width:23px;height:23px;color:#086ec1}
+.rx-inner .year-page .year-book-copy{display:block;min-width:0;flex:1}
+.rx-inner .year-page .year-book-copy strong{font:500 14px/1.4 var(--ui);letter-spacing:0;overflow-wrap:anywhere}
+.rx-inner .year-page .year-book-copy>span{display:block;font-size:13px;line-height:1.45;color:var(--muted);margin-top:4px}
+.rx-inner .year-page .year-book-detail>summary>.icon-svg:last-child{width:14px;height:18px;transition:transform 180ms ease-out}
+.rx-inner .year-page .year-book-detail[open]>summary>.icon-svg:last-child{transform:rotate(90deg)}
+.rx-inner .year-page .year-book-detail>summary:hover{background:var(--rx-tab)}
+.rx-inner .year-page .year-book-guidance{padding:0 13px 14px 52px;font-size:14px;line-height:1.5}
+.rx-inner .year-page .year-book-guidance p{margin:0 0 8px}
+.rx-inner .year-page .year-book-status{font-size:12px;color:var(--muted)}
+.rx-inner .year-page .year-margin-note{margin:0 7px;font-size:18px}
+.rx-inner .year-page .year-roadmap-details{margin-top:24px}
+.rx-inner .year-page .year-full-outline{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;margin:0 0 16px;padding:10px 12px;border:1px solid var(--line);border-radius:12px;font-size:14px;color:var(--rx-link)}
+.rx-inner .year-page .year-full-outline>.icon-svg{width:20px;height:20px}
+.rx-inner .year-page .year-book-detail>summary:focus-visible,.rx-inner .year-page .year-roadmap-details>summary:focus-visible{outline:3px solid var(--rx-blue);outline-offset:-3px}
+@media(min-width:600px){.rx-inner .year-page .reading-header{grid-template-columns:54px minmax(0,1fr);gap:10px 16px;padding:26px}.rx-inner .year-page .rx-page-title h1{font-size:34px}.rx-inner .year-page .reading-header>p{font-size:26px}.rx-inner .year-page .rx-page-title>.rx-row-icon{width:54px;height:60px}.rx-inner .year-page .year-roadmap-cta{grid-template-columns:55px minmax(0,1fr) 50px;gap:18px;padding:20px 24px}.rx-inner .year-page .year-roadmap-cta strong{font-size:24px}.rx-inner .year-page .year-roadmap-cta .rx-hand{font-size:25px}.rx-inner .year-page .year-map-art>.icon-svg{width:52px;height:55px}.rx-inner .year-page .year-subject-section{padding:24px}.rx-inner .year-page .year-subject-section h2{font-size:26px}.rx-inner .year-page .year-subject-section>header{margin-bottom:18px}.rx-inner .year-page .year-subject-actions>:is(a,span){padding:12px 14px;font-size:15px;gap:10px;min-height:58px}.rx-inner .year-page .year-subject-actions>a>.icon-svg:last-child{width:16px}.rx-inner .year-page .year-subject-actions{gap:14px;margin-bottom:20px}.rx-inner .year-page .year-book-copy strong{font-size:16px}.rx-inner .year-page .year-book-copy>span{font-size:14px}.rx-inner .year-page .year-book-detail>summary{padding:15px 16px;min-height:80px;gap:13px}.rx-inner .year-page .year-book-guidance{padding-left:60px}}
+@media(min-width:1000px){.rx-inner .year-page .reading-header{padding:28px}.rx-inner .year-page .rx-page-title h1{font-size:38px}.rx-inner .year-page .year-subject-section{padding:28px}.rx-inner .year-page .year-subject-sections{gap:24px}.rx-inner .year-page .year-subject-actions{max-width:760px}.rx-inner .year-page .year-subject-section>header>.rx-row-icon{width:46px;height:50px;flex-basis:46px}}
+@media(prefers-reduced-motion:reduce){.rx-inner .year-page .year-subject-actions>a,.rx-inner .year-page .year-book-detail>summary>.icon-svg:last-child{transition:none;transform:none}}

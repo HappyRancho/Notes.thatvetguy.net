@@ -50,6 +50,11 @@ for p,page in pages.items():
         elif u.path.endswith('/'):dest=dest/'index.html'
         assert dest.exists(),(p,'missing destination',url)
         if u.fragment and dest in pages:assert unquote(u.fragment) in pages[dest].ids,(p,'missing anchor',url)
+outlines=json.loads((ROOT/'data/course-outlines.json').read_text())
+import hashlib
+for outline in outlines['years'].values():
+ pdf=ROOT/outline['url'].lstrip('/');rawpdf=pdf.read_bytes();assert rawpdf.startswith(b'%PDF-') and hashlib.sha256(rawpdf).hexdigest()==outline['sha256'],'Original course outline changed'
+
 data=json.loads((ROOT/'data/resources.json').read_text());records=data['files'];raw=json.loads((ROOT/'data/drive_manifest.json').read_text());report=json.loads((ROOT/'data/duplicates-report.json').read_text());search=json.loads((ROOT/'search-index.json').read_text())
 rawids={f['id'] for f in raw};accounted=[]
 for r in records:
