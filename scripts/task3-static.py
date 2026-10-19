@@ -79,7 +79,7 @@ assert {r['url'] for r in records}=={r['url'] for r in source['notes']}|{r['url'
 assert not (ROOT/'clinical/index.html').exists() and not (ROOT/'clinical/index.md').exists(),'Clinical landing page still exists'
 handbooks=[r for r in curated if r['collection']=='handbooks']
 assert [r['url'] for r in handbooks]==['https://t.me/Vethandbooks/'+n for n in ['3','4','5','7','8','9']],'Handbook sequence changed'
-assert all(r.get('displaySize') for r in handbooks),'Missing screenshot file-size labels'
+assert not any('displaySize' in r for r in curated),'Book sizes must not be displayed'
 for p in pages:
     for row in re.findall(r'<article class="file-row[^"]*"[^>]*>.*?</article>',p.read_text(),re.S):
         assert row.count('<a ')==1 and '<button' not in row and '<details' not in row,(p,'resource must have exactly one Open action')
