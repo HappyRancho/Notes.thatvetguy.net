@@ -1,15 +1,16 @@
 /* The approved year-page composition. Loaded only on the four year hubs. */
+@font-face{font-family:RxYearHand;src:url('/assets/fonts/caveat-latin.woff2') format('woff2');font-weight:500;font-style:normal;font-display:optional}
 .rx-inner .year-page .reading-header{display:grid;grid-template-columns:42px minmax(0,1fr);gap:8px 12px;padding:20px 18px;border-radius:22px;margin-bottom:16px}
 .rx-inner .year-page .rx-page-title{display:contents}
 .rx-inner .year-page .rx-page-title>.rx-row-icon{grid-column:1;grid-row:1;width:42px;height:46px;border-radius:12px}
 .rx-inner .year-page .rx-page-title>.rx-row-icon .icon-svg{width:32px;height:32px}
 .rx-inner .year-page .rx-page-title h1{grid-column:2;grid-row:1;align-self:center;margin:0;font:700 27px/1.15 var(--rx-heading);max-width:none}
-.rx-inner .year-page .reading-header>p{grid-column:2;margin:0;color:var(--muted);font:500 22px/1.25 Caveat,cursive}
+.rx-inner .year-page .reading-header>p{grid-column:2;margin:0;color:var(--muted);font:500 22px/1.25 RxYearHand,cursive}
 .rx-inner .year-page .year-roadmap-cta{display:grid;grid-template-columns:42px minmax(0,1fr) 48px;align-items:center;gap:12px;padding:17px 16px;margin:0 0 20px;border:1px solid #f3e8bc;border-radius:20px;background:var(--rx-yellow);color:#101b43;box-shadow:var(--rx-shadow);min-height:92px}
 .rx-inner .year-page .year-map-art{display:grid;place-items:center}
 .rx-inner .year-page .year-map-art>.icon-svg{width:42px;height:48px;stroke:#18375c;fill:#d3f2e8;stroke-width:1.6}
 .rx-inner .year-page .year-roadmap-cta strong{display:block;font:700 19px/1.2 var(--rx-heading);color:inherit}
-.rx-inner .year-page .year-roadmap-cta .rx-hand{display:block;font-size:21px;line-height:1.15;margin-top:4px;color:#475571}
+.rx-inner .year-page .year-roadmap-cta .rx-hand{font-family:RxYearHand,cursive;display:block;font-size:21px;line-height:1.15;margin-top:4px;color:#475571}
 .rx-inner .year-page .year-roadmap-arrow{display:grid;place-items:center;width:48px;height:48px;border-radius:16px;background:var(--rx-blue);color:#fff}
 .rx-inner .year-page .year-roadmap-arrow>.icon-svg{width:24px;height:24px}
 .rx-inner .year-page .year-subject-sections{gap:20px}

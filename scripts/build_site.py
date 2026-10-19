@@ -53,6 +53,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     page_header=homepage.header(path,home)
     page_footer=homepage.footer()
     font_preload='' if home else '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>'
+    if re.fullmatch(r'/bvsc/year-[1-4]/',path):font_preload+='<link rel="preload" href="/assets/fonts/caveat-latin.woff2" as="font" type="font/woff2" crossorigin>'
     page_search=''
     html=f'''<!doctype html><html lang="en" data-ui="rx"><head>
 <meta charset="utf-8"><meta name="site-build" content="{VERSION}"><meta name="viewport" content="width=device-width,initial-scale=1">
