@@ -76,6 +76,10 @@ source=json.loads((ROOT/'data/vetbvsc-source.json').read_text())
 curated=json.loads((ROOT/'data/collections.json').read_text())['resources']
 assert {r['id'] for r in records}=={r['id'] for r in source['notes']}|{'telegram-'+r['id'] for r in curated},'active catalogue contains an unreviewed ID'
 assert {r['url'] for r in records}=={r['url'] for r in source['notes']}|{r['url'] for r in curated},'source URLs changed'
+assert not (ROOT/'clinical/index.html').exists() and not (ROOT/'clinical/index.md').exists(),'Clinical landing page still exists'
+handbooks=[r for r in curated if r['collection']=='handbooks']
+assert [r['url'] for r in handbooks]==['https://t.me/Vethandbooks/'+n for n in ['3','4','5','7','8','9']],'Handbook sequence changed'
+assert not any('displaySize' in r for r in curated),'Book sizes must not be displayed'
 for p in pages:
     for row in re.findall(r'<article class="file-row[^"]*"[^>]*>.*?</article>',p.read_text(),re.S):
         assert row.count('<a ')==1 and '<button' not in row and '<details' not in row,(p,'resource must have exactly one Open action')

@@ -47,15 +47,6 @@
       ]
     ]
   },
-  "/clinical/": {
-    "summary": "Veterinary handbooks and pharmacology notes for students preparing for clinical work. Start with a reference or explore Medicine, Surgery, Pathology and Pharmacology.",
-    "faq": [
-      [
-        "Is this a complete clinical or drug reference?",
-        "No. This page lists matching files in the supplied collection, rather than maintaining complete drug monographs or prescribing instructions."
-      ]
-    ]
-  },
   "/search/": {
     "summary": "Find veterinary notes, books and practical material by topic, subject or year. Search the whole collection or start with a suggested topic.",
     "faq": [

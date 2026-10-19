@@ -1,6 +1,6 @@
-<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-19 -->
 
-[Home](https://notes.thatvetguy.net/)/[Clinical](https://notes.thatvetguy.net/clinical/)/Drug Index Collection
+[Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Drug Index Collection
 
 # Drug Index Collection
 
@@ -15,8 +15,6 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 ### VENDEX: The Fundamental Veterinary Drug Index
 
 A veterinary drug-index reference to consult alongside current product information.
-
-Telegram
 
 [Open Book: VENDEX: The Fundamental Veterinary Drug Index](https://t.me/c/4430259212/3)
 
@@ -36,8 +34,6 @@ NAVSARI
 
 A drug-handbook reference. Check the edition and species-specific guidance before use.
 
-Telegram
-
 [Open Book: Plumb’s Veterinary Drug Handbook](https://t.me/c/4430259212/5)
 
 #4
@@ -45,8 +41,6 @@ Telegram
 ### Drug Dose — Wall Reference
 
 A printable quick-reference sheet; verify every dose against current clinical guidance.
-
-Telegram
 
 [Open Book: Drug Dose — Wall Reference](https://t.me/c/4430259212/7)
 
@@ -56,10 +50,8 @@ Telegram
 
 A vaccination-schedule reference to compare with species, local guidance and product labels.
 
-Telegram
-
 [Open Book: Vaccination Schedule of All Animals](https://t.me/c/4430259212/6)
 
 These links open a private Telegram collection. You need access to that collection to view its posts.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

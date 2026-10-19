@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-18",
+  "reviewed": "2026-10-19",
   "resources": [
     {
       "id": "dhruv-desai",
@@ -163,6 +163,72 @@
       "description": "A vaccination-schedule reference to compare with species, local guidance and product labels.",
       "icon": "shield",
       "tone": "yellow",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "ultimate-vet-handbook",
+      "collection": "handbooks",
+      "title": "Ultimate Vet handbook.pdf",
+      "description": "DVM standards handbook for Crisp Veterinary Clinical Knowledge.",
+      "url": "https://t.me/Vethandbooks/3",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "veterinary-clinician-handbook",
+      "collection": "handbooks",
+      "title": "Handbook for Veterinary Clinician.pdf",
+      "description": "Veterinary Clinician Handbook by A U Bhikane.",
+      "url": "https://t.me/Vethandbooks/4",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "A U Bhikane"
+    },
+    {
+      "id": "small-animal-medicine-handbook",
+      "collection": "handbooks",
+      "title": "Pocket Handbook of Small Animal Medicine.pdf",
+      "description": "Pocket Handbook of Small Animal Medicine.",
+      "url": "https://t.me/Vethandbooks/5",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "veterinary-practice-handbook",
+      "collection": "handbooks",
+      "title": "Veterinary practice handbook.pdf",
+      "description": "Preliminary Veterinary Handbooks by RK Chandolia.",
+      "url": "https://t.me/Vethandbooks/7",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": "RK Chandolia"
+    },
+    {
+      "id": "small-animal-radiology-handbook",
+      "collection": "handbooks",
+      "title": "Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...",
+      "description": "Handbook of Small Animal Radiology and Ultrasound.",
+      "url": "https://t.me/Vethandbooks/8",
+      "icon": "book",
+      "tone": "mint",
+      "source": "Telegram",
+      "sourceCredit": null
+    },
+    {
+      "id": "small-animal-colour-handbook",
+      "collection": "handbooks",
+      "title": "A_Color_Handbook_of_Small_Animal.pdf",
+      "description": "Colour handbook of Small Animal Emergency and Critical care.",
+      "url": "https://t.me/Vethandbooks/9",
+      "icon": "book",
+      "tone": "mint",
       "source": "Telegram",
       "sourceCredit": null
     }

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-18 -->
+<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-19 -->
 
 [Home](https://notes.thatvetguy.net/)/Can’t find what you need?
 
@@ -40,4 +40,4 @@ Can I contribute a resource?
 
 Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
 
-Last checked: 2026-10-18. This date records source review, not a guarantee of external file availability.
+Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.

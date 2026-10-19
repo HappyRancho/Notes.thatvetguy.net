@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import {spawn} from 'node:child_process';
 const phase=process.argv[2]||'after',root=process.cwd(),out=path.join(root,'docs/qa',phase);fs.mkdirSync(out,{recursive:true});
 const serveRoot=process.env.QA_ROOT||root,base=process.env.QA_BASE_URL||'http://127.0.0.1:8000',widths=(process.env.QA_WIDTHS||'360,390,412,768,1024,1440').split(',').map(Number),skipInteractions=process.env.QA_SKIP_INTERACTIONS==='1'||phase.includes('before');
-const pages=['/','/bvsc/','/objective/','/study-tools/','/clinical/','/search/','/about/','/request-resource/'];
+const pages=['/','/bvsc/','/objective/','/study-tools/','/clinical/handbooks/','/clinical/drug-index/','/search/','/about/','/request-resource/'];
 const report={phase,generated:new Date().toISOString(),runs:[],lighthouse:[],blocked:[],visualBugs:[],interactionChecks:[],knownExceptions:[{url:'/search/',category:'seo',reason:'Intentionally noindex, as requested.'}]};let browser,server;
 try{
  const {chromium}=await import('playwright');const {default:AxeBuilder}=await import('@axe-core/playwright');

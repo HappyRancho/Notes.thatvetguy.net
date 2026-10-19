@@ -6,7 +6,7 @@ A free academic library for BVSc & AH students. Site summaries: Dr. Chirag Patid
 
 Main website: https://thatvetguy.net
 Author: Dr. Chirag Patidar
-Last source review: 2026-10-18. File access settings can change.
+Last source review: 2026-10-19. File access settings can change.
 
 ## Sections and subject guides
 
@@ -32,15 +32,13 @@ Last source review: 2026-10-18. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/notes/index.md
 - [Objective & Competition Resources](https://notes.thatvetguy.net/objective/): Objective notes and veterinary question banks for BVSc & AH revision. Browse Dhruv N Desai, Animal Science Refresher, TANUVAS and more, with direct Telegram access.
   - Markdown: https://notes.thatvetguy.net/objective/index.md
-- [Clinical Resources](https://notes.thatvetguy.net/clinical/): Veterinary handbooks and pharmacology notes for students preparing for clinical work. Start with a reference or explore Medicine, Surgery, Pathology and Pharmacology.
-  - Markdown: https://notes.thatvetguy.net/clinical/index.md
 - [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
   - Markdown: https://notes.thatvetguy.net/study-tools/index.md
 - [About Notes.ThatVetGuy](https://notes.thatvetguy.net/about/): Notes.ThatVetGuy is a free academic library for BVSc & AH students. Find notes, books and practical material by year, with study guides to help you choose what to read next.
   - Markdown: https://notes.thatvetguy.net/about/index.md
 - [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
   - Markdown: https://notes.thatvetguy.net/request-resource/index.md
-- [Handbooks Collection](https://notes.thatvetguy.net/clinical/handbooks/): Veterinary handbook material in one place for BVSc & AH students. Check the original edition and use clinical references alongside supervised training.
+- [Handbooks](https://notes.thatvetguy.net/clinical/handbooks/): Quick clinical references for everyday veterinary practice.
   - Markdown: https://notes.thatvetguy.net/clinical/handbooks/index.md
 - [Drug Index Collection](https://notes.thatvetguy.net/clinical/drug-index/): Veterinary drug indexes, a drug handbook, a wall reference and vaccination schedules in one collection. Open a resource in Telegram and check its edition before clinical use.
   - Markdown: https://notes.thatvetguy.net/clinical/drug-index/index.md
