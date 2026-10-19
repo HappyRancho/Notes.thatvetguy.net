@@ -73,3 +73,16 @@ html:not(.js) .rx-inner .rx-panel[hidden],html:not(.js) .rx-objective .rx-panel[
 .rx-academics .rx-course-outline>span{min-width:0}
 .rx-academics .rx-course-outline>.icon-svg{width:15px;height:18px}
 @media(min-width:600px){.rx-academics .rx-roadmap-actions{gap:8px}.rx-academics .rx-roadmap-actions .rx-roadmap-button{font-size:15px;padding:8px 12px}.rx-academics .rx-course-outline{font-size:14px;padding:8px 12px}}
+/* Keep the first-year subject column flush with the compact roadmap panel. */
+.rx-academics #year-panel-0 .rx-subjects{grid-auto-rows:1fr;align-content:stretch}
+.rx-academics .rx-roadmap{padding:10px 8px;gap:6px}
+.rx-academics .rx-map-heading{flex-direction:row;justify-content:center;gap:6px}
+.rx-academics .rx-map-heading>.icon-svg{width:24px;height:30px;flex:0 0 24px}
+.rx-academics .rx-map-heading h3{font-size:16px;line-height:1.15;text-align:left}
+.rx-academics .rx-map-heading .rx-burst{display:none}
+.rx-academics .rx-roadmap>.rx-hand{font-size:18px;line-height:1.15;max-width:none;margin:0}
+.rx-academics .rx-roadmap-actions{gap:6px;margin-top:0}
+.mockup-home .more-links>.more-shelf-button{display:flex;align-items:center;gap:10px;min-height:52px;width:100%;padding:12px 0;border-bottom:1px solid var(--hairline);font:inherit;color:var(--text);text-align:left}
+.mockup-home .more-shelf-button>.icon-svg{width:21px;height:21px}
+.mockup-home .more-shelf-button>.icon-svg:last-child{margin-left:auto}
+@media(min-width:600px){.rx-academics .rx-roadmap{padding:12px;gap:7px}.rx-academics .rx-map-heading{gap:9px}.rx-academics .rx-map-heading>.icon-svg{width:32px;height:36px;flex-basis:32px}.rx-academics .rx-map-heading h3{font-size:20px}.rx-academics .rx-roadmap>.rx-hand{font-size:20px}}

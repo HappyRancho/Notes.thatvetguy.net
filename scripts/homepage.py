@@ -102,7 +102,7 @@ def involved():
     return '<section class="rx-section rx-involved" id="community">'+body+'</section>'
 
 def footer():
-    return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><div class="rx-footer-ecosystem"><nav aria-label="ThatVetGuy ecosystem">'+link('https://thatvetguy.net','ThatVetGuy')+'<span>Notes</span>'+link('https://blog.thatvetguy.net','Blog')+'</nav><button class="text-button js-only" data-dialog="personal-library">'+icon('book')+' Saved & recent</button></div><p class="footer-note">Notes open on Google Drive; collection resources open in Telegram. Credit remains with their original authors. © 2026 ThatVetGuy.</p></div></footer>'
+    return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><p class="footer-note">Free resources for future vets. Credit to the original authors. © 2026 ThatVetGuy.</p></div></footer>'
 
 def render(b):
     content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()
