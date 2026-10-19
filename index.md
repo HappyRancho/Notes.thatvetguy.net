@@ -16,7 +16,7 @@ Four years. Infinite syllabus. Character development included.
 
 Your guide to a strong start.
 
-[View Road Map ](https://notes.thatvetguy.net/bvsc/year-1/#road-map)
+[Road Map ](https://notes.thatvetguy.net/bvsc/year-1/#road-map)[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf)
 3 subjects · notes & books[Explore 1st Year ](https://notes.thatvetguy.net/bvsc/year-1/)
 
 [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-biochemistry)[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-microbiology)[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-pathology)[Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/#animal-genetics-and-breeding)[Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/#animal-nutrition)
@@ -25,7 +25,7 @@ Your guide to a strong start.
 
 Connect the foundations.
 
-[View Road Map ](https://notes.thatvetguy.net/bvsc/year-2/#road-map)
+[Road Map ](https://notes.thatvetguy.net/bvsc/year-2/#road-map)[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf)
 5 subjects · notes & books[Explore 2nd Year ](https://notes.thatvetguy.net/bvsc/year-2/)
 
 [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-pharmacology-and-toxicology)[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-parasitology)[Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-public-health-and-epidemiology)[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/#livestock-products-technology)[Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-and-animal-husbandry-extension-education)[Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-clinical-practices-i)[Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/#livestock-farm-practices)
@@ -34,7 +34,7 @@ Connect the foundations.
 
 Bring the subjects together.
 
-[View Road Map ](https://notes.thatvetguy.net/bvsc/year-3/#road-map)
+[Road Map ](https://notes.thatvetguy.net/bvsc/year-3/#road-map)[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 7 subjects · notes & books[Explore 3rd Year ](https://notes.thatvetguy.net/bvsc/year-3/)
 
 [Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-medicine)[Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-surgery-and-radiology)[Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-gynaecology-and-obstetrics)
@@ -44,7 +44,7 @@ Veterinary Clinical Practices IIComing soon
 
 From notes to clinical thinking.
 
-[View Road Map ](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
+[Road Map ](https://notes.thatvetguy.net/bvsc/year-4/#road-map)[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf)
 4 subjects · notes & books[Explore 4th Year ](https://notes.thatvetguy.net/bvsc/year-4/)
 
 ## Objective & Competition Resources

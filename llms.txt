@@ -14,19 +14,19 @@ Last source review: 2026-10-19. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/index.md
 - [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Recommended books, topic-wise notes and roadmaps for BVSc & AH. Choose a subject to open its section in the right year.
   - Markdown: https://notes.thatvetguy.net/bvsc/index.md
-- [1st Year BVSc Books, Notes & Roadmaps](https://notes.thatvetguy.net/bvsc/year-1/): 1st Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
+- [1st Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-1/): 1st Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/index.md
 - [1st Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-1/notes/): Topic-wise 1st Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/notes/index.md
-- [2nd Year BVSc Books, Notes & Roadmaps](https://notes.thatvetguy.net/bvsc/year-2/): 2nd Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
+- [2nd Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-2/): 2nd Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/index.md
 - [2nd Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/): Topic-wise 2nd Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/notes/index.md
-- [3rd Year BVSc Books, Notes & Roadmaps](https://notes.thatvetguy.net/bvsc/year-3/): 3rd Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
+- [3rd Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-3/): 3rd Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/index.md
 - [3rd Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-3/notes/): Topic-wise 3rd Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/notes/index.md
-- [4th Year BVSc Books, Notes & Roadmaps](https://notes.thatvetguy.net/bvsc/year-4/): 4th Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
+- [4th Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-4/): 4th Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/index.md
 - [4th Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-4/notes/): Topic-wise 4th Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/notes/index.md

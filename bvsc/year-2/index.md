@@ -1,25 +1,100 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-19 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year Books & Notes
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year Notes & Books
 
-# 2nd Year Books & Notes
+# 2nd Year Notes & Books
 
-2nd Year BVSc & AH books, topic-wise notes and study roadmaps, organised by subject. Start with your subject and get straight to the reading.
+2nd Year BVSc & AH notes, books and study roadmaps, organised by subject.
 
-5 subjects · 207 notes
-
-Books are reading recommendations. Choose your department’s prescribed edition.
+[2nd Year BVSc Road MapConnect the foundations.](#road-map)
 
 ## Veterinary Biochemistry
 
-21 notes
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=6)[Topic-wise Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-biochemistry)
 
-[Topic-wise notes21 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-biochemistry)
+Biochemistry is included in the 1st Year outline PDF.
 
-### Recommended books
+### Books
 
 - 
+
 BiochemistryU. Satyanarayana and U. Chakrapani
+
+Use for core pathways and biomolecules; pair with veterinary examples from class.
+
+Reading recommendation · no linked copy available.
+
+Your tabs are organised. Your sleep schedule can wait.
+
+## Veterinary Microbiology
+
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)[Topic-wise Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-microbiology)
+
+### Books
+
+- 
+
+Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al.
+
+Connect organism characteristics with the infections they cause in animals.
+
+Reading recommendation · no linked copy available.
+
+## Veterinary Pathology
+
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=3)[Topic-wise Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-pathology)
+
+### Books
+
+- 
+
+A Textbook of Veterinary General PathologyJ. L. Vegad
+
+Start with injury, inflammation and repair before moving to individual diseases.
+
+Reading recommendation · no linked copy available.
+
+## Animal Genetics and Breeding
+
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=6)[Topic-wise Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-genetics-and-breeding)
+
+### Books
+
+- 
+
+Text Book on Animal Genetics and BreedingP. Kanakaraj
+
+A subject-focused companion for inheritance, population genetics and breeding principles.
+
+Reading recommendation · no linked copy available.
+
+## Animal Nutrition
+
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=7)[Topic-wise Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-nutrition)
+
+### Books
+
+- 
+
+Animal NutritionP. McDonald et al.
+
+A detailed reference for nutrients, digestion and ration-related concepts.
+
+Reading recommendation · no linked copy available.
+
+- 
+
+Principles of Animal Nutrition and Feed TechnologyD. V. Reddy
+
+Link nutritional principles with feeds and feed processing.
+
+Reading recommendation · no linked copy available.
+
+2nd Year Road Map 
+
+- Use your syllabus to plan Biochemistry, Microbiology and Pathology together.
+- Keep Genetics and Nutrition calculations beside the worked examples in your notes.
+- Review practical observations alongside the related theory.[Full 2nd Year Course Outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf)
 
 Roadmap
 
@@ -27,35 +102,11 @@ Roadmap
 - Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 - Revisit Carbohydrate, lipid and protein metabolism, Enzymes and biological oxidation, then test your recall without the notes.
 
-Your tabs are organised. Your sleep schedule can wait.
-
-## Veterinary Microbiology
-
-63 notes
-
-[Topic-wise notes63 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-microbiology)
-
-### Recommended books
-
-- 
-Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al.
-
 Roadmap
 
 - Make a checklist from your university syllabus.
 - Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 - Revisit Bacteriology and mycology, Veterinary virology, then test your recall without the notes.
-
-## Veterinary Pathology
-
-48 notes
-
-[Topic-wise notes48 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-pathology)
-
-### Recommended books
-
-- 
-A Textbook of Veterinary General PathologyJ. L. Vegad
 
 Roadmap
 
@@ -63,35 +114,11 @@ Roadmap
 - Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
 - Revisit Cell injury and inflammation, Circulatory disturbances, then test your recall without the notes.
 
-## Animal Genetics and Breeding
-
-45 notes
-
-[Topic-wise notes45 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-genetics-and-breeding)
-
-### Recommended books
-
-- 
-Text Book on Animal Genetics and BreedingP. Kanakaraj
-
 Roadmap
 
 - Make a checklist from your university syllabus.
 - Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 - Revisit Mendelian and molecular genetics, Population and quantitative genetics, then test your recall without the notes.
-
-## Animal Nutrition
-
-30 notes
-
-[Topic-wise notes30 notes · browse by unit](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-nutrition)
-
-### Recommended books
-
-- 
-Animal NutritionP. McDonald et al.
-- 
-Principles of Animal Nutrition and Feed TechnologyD. V. Reddy
 
 Roadmap
 
@@ -99,12 +126,6 @@ Roadmap
 - Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
 - Revisit Feed evaluation and digestion, Energy and protein nutrition, then test your recall without the notes.
 
-2nd Year Road Map 
-
-- Use your syllabus to plan Biochemistry, Microbiology and Pathology together.
-- Keep Genetics and Nutrition calculations beside the worked examples in your notes.
-- Review practical observations alongside the related theory.
-
-Year grouping may vary by university. Check your syllabus.
+Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
 Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
