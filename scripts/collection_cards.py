@@ -6,7 +6,7 @@ def intro(b,title,description,crumbs=None,clinical=False,handbooks=False):
     variant=' rx-handbook-collection' if handbooks else ' rx-drug-collection' if clinical else ' rx-objective-collection'
     html=html.replace('container reading-page','container reading-page rx-collections'+variant,1)
     if handbooks:
-        html=html.replace('</header>','<img class="rx-collection-art" src="/assets/collections/handbook-stack.svg" width="210" height="150" alt="" aria-hidden="true" decoding="async"></header>',1)
+        html=html.replace('</header>','<svg class="rx-collection-art" viewBox="20 94 244 158" width="244" height="158" aria-hidden="true" focusable="false"><defs><clipPath id="handbook-art-clip"><path d="M90 97 234 109 238 115 236 142 255 146 259 153 252 173 260 194 255 217 257 226 208 250 67 226 61 218 65 187 72 173 73 153 70 145 68 135 72 115 77 106Z"/><path d="m42 101 7-2 10 17-7 6Zm-17 20 20 3-1 10-20-4Zm3 18 18-4 3 10-19 7Z"/></clipPath></defs><image href="/assets/collections/handbook-reference.png" width="312" height="295" clip-path="url(#handbook-art-clip)"/></svg></header>',1)
     if clinical:
         warning='<svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 10 18H2Z"/><path d="M12 9v5m0 3h.01"/></svg>'
         html=html.replace('</header>','<div class="clinical-callout" role="note">'+warning+'<p>For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.</p></div></header>',1)
