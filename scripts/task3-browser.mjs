@@ -3,7 +3,7 @@ import fs from 'node:fs';import path from 'node:path';import {spawn} from 'node:
 import {chromium} from 'playwright';import AxeBuilder from '@axe-core/playwright';import lighthouse from 'lighthouse';import * as launcher from 'chrome-launcher';
 const phase=process.argv[2]||'after',before=phase.startsWith('before'),out=`docs/qa/task3/${phase}`;fs.mkdirSync(out,{recursive:true});
 const base=process.env.QA_BASE_URL||'http://127.0.0.1:4173';
-const paths=(process.env.QA_PATHS||'/,/bvsc/,/bvsc/year-1/,/bvsc/year-1/notes/,/objective/,/clinical/,/study-tools/,/search/,/about/,/request-resource/').split(',');
+const paths=(process.env.QA_PATHS||'/,/bvsc/,/bvsc/year-1/,/bvsc/year-1/notes/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/study-tools/,/search/,/about/,/request-resource/').split(',');
 const widths=before?[390,1280]:(process.env.QA_WIDTHS||'360,375,390,412,430,768,1024,1280,1440').split(',').map(Number);
 const report={phase,views:[],lighthouse:[],errors:[],interactions:[],exceptions:['Search is deliberately noindex; its SEO score cannot reach 95 without violating the indexing policy.']};let browser,server;
 const write=()=>fs.writeFileSync(`${out}/report.json`,JSON.stringify(report,null,2));

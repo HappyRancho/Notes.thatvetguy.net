@@ -40,7 +40,7 @@ jobs:
       - name: Lighthouse and page regression
         run: npm run qa -- mockup-after
         env:
-          QA_PATHS: ${{ contains(github.event.head_commit.message, '[year-hubs]') && '/bvsc/,/bvsc/year-1/,/bvsc/year-3/,/bvsc/year-2/notes/' || contains(github.event.head_commit.message, '[collection-cards]') && '/objective/,/clinical/drug-index/' || contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/,/clinical/drug-index/,/bvsc/year-1/veterinary-anatomy/' }}
+          QA_PATHS: ${{ contains(github.event.head_commit.message, '[year-hubs]') && '/bvsc/,/bvsc/year-1/,/bvsc/year-3/,/bvsc/year-2/notes/' || contains(github.event.head_commit.message, '[collection-cards]') && '/objective/,/clinical/drug-index/,/clinical/handbooks/' || contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/bvsc/year-1/notes/' }}
           QA_WIDTHS: '360,390,430,1280'
       - uses: actions/upload-artifact@v4
         if: always()

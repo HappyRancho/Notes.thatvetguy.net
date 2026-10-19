@@ -14,7 +14,7 @@ if token and zone:
   with urlopen(req,timeout=30) as response:result=json.load(response)
   report['purge']='success' if result.get('success') else 'failed'
  except Exception as e:report['purge']='failed: '+type(e).__name__
-for path in ['/','/bvsc/','/objective/','/study-tools/','/clinical/','/search/','/about/','/request-resource/']:
+for path in ['/','/bvsc/','/objective/','/study-tools/','/clinical/handbooks/','/clinical/drug-index/','/search/','/about/','/request-resource/']:
  record={'path':path}
  try:
   req=Request('https://notes.thatvetguy.net'+path,headers={'User-Agent':'NotesThatVetGuy-DeployAudit/2','Cache-Control':'no-cache'})

@@ -4,8 +4,8 @@ from ui import icon,link
 
 def header(path):
     nav=''
-    for url,title in [('/bvsc/','Notes & Books'),('/objective/','Objective'),('/study-tools/','Study Tools'),('/clinical/','Clinical')]:
-        active=' aria-current="page"' if path.startswith(url) else ''
+    for url,title in [('/bvsc/','Notes & Books'),('/objective/','Objective'),('/study-tools/','Study Tools'),('/#clinical','Clinical')]:
+        active=' aria-current="page"' if (path.startswith(url) or url=='/#clinical' and path.startswith('/clinical/')) else ''
         nav+=f'<a class="nav-link" href="{url}"{active}>{title}</a>'
     return '<a class="skip-link" href="#main">Skip to content</a><header class="site-header"><div class="container header-inner">'+link('/',icon('paw')+'<span>Notes.<b>ThatVetGuy</b></span>','brand')+'<nav class="desktop-nav" aria-label="Main">'+nav+'</nav><div class="header-actions">'+link('/search/',icon('search')+'<span class="sr-only">Search resources</span>','icon-button header-search command-trigger')+'<button class="icon-button theme-toggle js-only" type="button" aria-label="Switch to dark theme" aria-pressed="false"><span aria-hidden="true">◐</span></button></div></div></header>'
 
@@ -16,7 +16,7 @@ def navigation(path):
         active=' aria-current="page"' if (path==url or url!="/" and path.startswith(url)) else ''
         links+=f'<a href="{url}"{active}>'+icon(ic)+'<span>'+title+'</span></a>'
     more=[('/about/','About'),('/request-resource/','Request Resource'),('/request-resource/#contribute','Contribute'),('/request-resource/#report','Report an error'),('https://t.me/vetshortnotesbytvg','Short notes on Telegram'),('https://t.me/jobupdatesbytvg','Job updates on Telegram')]
-    more=[('/study-tools/','Tools & Tips'),('/clinical/','Clinical Resources')]+more
+    more=[('/study-tools/','Tools & Tips'),('/#clinical','Clinical Resources')]+more
     theme='<div class="rx-theme-option"><span>Light / dark appearance</span><button class="icon-button theme-toggle js-only" type="button" aria-label="Switch to dark theme" aria-pressed="false"><span aria-hidden="true">◐</span></button></div>'
     return '<nav class="bottom-nav" aria-label="Mobile">'+links+'<button type="button" class="js-only" data-dialog="more-sheet" aria-controls="more-sheet" aria-expanded="false">'+icon('menu')+'<span>More</span></button><a class="nojs-only" href="/about/">About</a></nav><dialog id="more-sheet" class="sheet" aria-labelledby="more-title"><div class="dialog-head"><div id="more-title" class="dialog-title">A little more.</div><button class="icon-button" data-close aria-label="Close menu">'+icon('close')+'</button></div><nav class="more-links" aria-label="Community and information">'+''.join(link(u,t+icon('arrow')) for u,t in more)+'</nav>'+theme+'</dialog>'
 

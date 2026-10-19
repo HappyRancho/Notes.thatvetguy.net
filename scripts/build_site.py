@@ -22,7 +22,7 @@ SUBJECTS=json.loads((ROOT/'data/subjects.json').read_text())
 MICROCOPY=json.loads((ROOT/'data/microcopy.json').read_text())
 DATA['lastChecked']=LIBRARY['lastInspected']
 BASE='https://notes.thatvetguy.net'
-ROUTES={'ai-guide':'/study-tools/#ai-guide','free-apps':'/study-tools/#free-apps','useful-tools':'/study-tools/#useful-tools','icar-pyq':'/objective/#icar-pyq','objective-questions':'/objective/#subject-wise','objective-books':'/objective/#books','handbooks':'/clinical/#handbooks','drug-index':'/clinical/#drug-index','clinical-other':'/clinical/#other-resources'}
+ROUTES={'ai-guide':'/study-tools/#ai-guide','free-apps':'/study-tools/#free-apps','useful-tools':'/study-tools/#useful-tools','icar-pyq':'/objective/#icar-pyq','objective-questions':'/objective/#subject-wise','objective-books':'/objective/#books','handbooks':'/clinical/handbooks/','drug-index':'/clinical/drug-index/','clinical-other':'/#clinical'}
 VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
@@ -45,7 +45,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433')
     extra_assets=f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
-    if path in ['/objective/','/clinical/drug-index/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
+    if path in ['/objective/','/clinical/drug-index/','/clinical/handbooks/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
     preload='balsamiq'
@@ -79,15 +79,18 @@ def discovery():
     for stale in (ROOT/'bvsc').rglob('index.html'):
         route='/'+str(stale.parent.relative_to(ROOT))+'/'
         if route not in geo.PAGES:stale.unlink();stale.with_suffix('.md').unlink(missing_ok=True)
+    # Clinical collections remain available; the old landing page returns to the home section.
+    for retired in ['clinical/index.html','clinical/index.md']:(ROOT/retired).unlink(missing_ok=True)
     # Retired overview/subject URLs retain useful destinations, including file hashes.
     redirects=ROOT/'_redirects';text=redirects.read_text() if redirects.exists() else ''
-    lines=[line for line in text.splitlines() if not line.startswith('/bvsc/')]
+    lines=[line for line in text.splitlines() if not line.startswith(('/bvsc/','/clinical/ '))]
     for y in LIBRARY['years']:
         base='/bvsc/year-'+str(y['year'])+'/'
         lines.append(base+'books/ '+base+'#books 301')
         for subject in y['subjects']:
             ss=subject['slug']
             lines.extend(['/bvsc/'+ss+'/ '+base+'#'+ss+' 301',base+ss+'/ '+base+'notes/ 301'])
+    lines.append('/clinical/ /#clinical 301')
     for y in [2,4]:lines.append('/bvsc/year-'+str(y)+'/unsorted/ /bvsc/year-'+str(y)+'/ 301')
     redirects.write_text('\n'.join(lines)+'\n');(ROOT/'.nojekyll').touch()
 def run():
