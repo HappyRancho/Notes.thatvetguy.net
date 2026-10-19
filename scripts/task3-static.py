@@ -38,6 +38,7 @@ for p in ROOT.rglob('index.html'):
     assert not re.search(r'\b(supplied|indexed|matching files|Drive library|original revision guidance)\b',raw,re.I),(p,'developer copy')
     assert '<h2>Explore.' not in raw and 'Unsorted' not in raw
     assert p.with_suffix('.md').exists(),(p,'markdown')
+    assert 'page-checked' not in raw and 'rx-footer-ecosystem' not in raw,(p,'Removed footer clutter returned')
     types={g['@type'] for g in page.schema};assert {'Organization','Person','WebSite'}<=types
     assert ('FAQPage' in types)==(p.parent.name in ['about','request-resource'])
     if p!=ROOT/'index.html':assert 'BreadcrumbList' in types
