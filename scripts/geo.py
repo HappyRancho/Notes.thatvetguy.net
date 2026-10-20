@@ -1,5 +1,6 @@
 """Static discovery outputs derived from the same visible page content and catalogue."""
-import json,re
+import json,re,hashlib
+from datetime import datetime,timezone
 from pathlib import Path
 from html import escape,unescape
 from html.parser import HTMLParser
@@ -9,6 +10,17 @@ BASE='https://notes.thatvetguy.net'
 META=json.loads((ROOT/'data/page-meta.json').read_text())
 AUTHOR='Dr. Chirag Patidar'
 PAGES={}
+HISTORY_PATH=ROOT/'data/page-history.json'
+HISTORY=json.loads(HISTORY_PATH.read_text()) if HISTORY_PATH.exists() else {}
+SEARCH_META=json.loads((ROOT/'data/search-metadata.json').read_text())
+
+def page_modified(path,title,description,body):
+    """Track content changes, independently of source review and deploy dates."""
+    digest=hashlib.sha256(json.dumps([title,description,body],ensure_ascii=False).encode()).hexdigest()
+    previous=HISTORY.get(path,{})
+    date=previous.get('modified') if previous.get('sha256')==digest else datetime.now(timezone.utc).date().isoformat()
+    HISTORY[path]={'sha256':digest,'modified':date}
+    return date
 
 def faq_for(path):
     return META.get(path,{}).get('faq',[])[:2] if path in ['/about/','/request-resource/'] else []
@@ -62,9 +74,9 @@ class Markdown(HTMLParser):
         if not self.hide:self.out.append(data)
     def result(self):return re.sub(r'\n{3,}','\n\n',''.join(self.out)).strip()+'\n'
 
-def register(path,title,desc,body,date):
+def register(path,title,desc,body,date,source_review=None):
     mirror=Markdown();mirror.feed(body)
-    md=f'<!-- Canonical: {BASE+path}; updated: {date} -->\n\n'+mirror.result()+f'\nLast checked: {date}. This date records source review, not a guarantee of external file availability.\n'
+    md=f'<!-- Canonical: {BASE+path}; updated: {date} -->\n\n'+mirror.result()+f'\nPage updated: {date}. Sources last reviewed: {source_review or date}; external file availability can change.\n'
     dest=ROOT/path.strip('/')/'index.md';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(md)
     PAGES[path]={'title':title,'description':desc,'markdown':md,'lastmod':date}
 
@@ -72,7 +84,7 @@ def structured(path,title,description,items,home,body,records,date):
     orgid=BASE+'/#organization';personid=BASE+'/#author';siteid=BASE+'/#website'
     org={'@type':'Organization','@id':orgid,'name':'ThatVetGuy','url':'https://thatvetguy.net','logo':BASE+'/assets/favicon.svg','sameAs':['https://thatvetguy.net','https://t.me/vetshortnotesbytvg','https://t.me/jobupdatesbytvg']}
     person={'@type':'Person','@id':personid,'name':'Dr. Chirag Patidar','url':'https://www.thatvetguy.net/chirag','sameAs':['https://thatvetguy.net'],'hasCredential':[{'@type':'EducationalOccupationalCredential','name':'BVSc & AH'},{'@type':'EducationalOccupationalCredential','name':'MVSc'}]}
-    site={'@type':'WebSite','@id':siteid,'name':'Notes.ThatVetGuy','url':BASE+'/','inLanguage':'en','publisher':{'@id':orgid},'potentialAction':{'@type':'SearchAction','target':{'@type':'EntryPoint','urlTemplate':BASE+'/search/?q={search_term_string}'},'query-input':'required name=search_term_string'}}
+    site={'@type':'WebSite','@id':siteid,'name':'Notes.ThatVetGuy','alternateName':'Rx Notes by ThatVetGuy','url':BASE+'/','inLanguage':'en','publisher':{'@id':orgid},'potentialAction':{'@type':'SearchAction','target':{'@type':'EntryPoint','urlTemplate':BASE+'/search/?q={search_term_string}'},'query-input':'required name=search_term_string'}}
     page={'@type':'CollectionPage' if items is not None else 'WebPage','@id':BASE+path+'#webpage','name':title,'url':BASE+path,'description':description,'dateModified':date,'inLanguage':'en','isPartOf':{'@id':siteid},'author':{'@id':personid},'publisher':{'@id':orgid}}
     graph=[org,person,site,page]
     if items is not None:
@@ -103,14 +115,19 @@ def social(path):
     return '/assets/social/'+section+'.webp'
 
 def discovery(date,index):
+    HISTORY_PATH.write_text(json.dumps({p:HISTORY[p] for p in PAGES},indent=2)+'\n')
     bots=['*','GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','PerplexityBot','Google-Extended','Applebot-Extended','CCBot']
     (ROOT/'robots.txt').write_text(''.join(f'User-agent: {b}\nAllow: /\n\n' for b in bots)+'Sitemap: '+BASE+'/sitemap.xml\n')
     indexed={p:d for p,d in PAGES.items() if p not in ['/search/','/404/']}
     (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE+p}</loc><lastmod>{d["lastmod"]}</lastmod></url>\n' for p,d in indexed.items())+'</urlset>\n')
-    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nA free academic library for BVSc & AH students. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes, books and practical material are organised by professional year and subject. File links open on Google Drive. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
+    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive; objective and clinical collections open in Telegram. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
     mapping='## Sections and subject guides\n\n'+''.join(f'- [{d["title"]}]({BASE+p}): {d["description"]}\n  - Markdown: {BASE+p}index.md\n' for p,d in indexed.items())
     retrieval='\n## Machine retrieval\n\n- Full visible page content: '+BASE+'/llms-full.txt\n- Resource index: '+BASE+'/search-index.json\n- Sitemap: '+BASE+'/sitemap.xml\n- Search (noindex): '+BASE+'/search/\n\n## Community\n\n- Short notes: https://t.me/vetshortnotesbytvg\n- Jobs: https://t.me/jobupdatesbytvg\n- Requests and contact: '+BASE+'/request-resource/\n'
     (ROOT/'llms.txt').write_text(intro+mapping+retrieval)
     (ROOT/'llms-full.txt').write_text(intro+'\n\n'.join('---\nCanonical: '+BASE+p+'\n\n'+d['markdown'] for p,d in PAGES.items()))
     raw=json.dumps(index,ensure_ascii=False,separators=(',',':'))+'\n'
     (ROOT/'search-index.json').write_text(raw);(ROOT/'assets/catalogue.json').write_text(raw)
+    # Keep text mirrors retrievable while pointing duplicate representations at HTML.
+    headers=ROOT/'_headers';existing=headers.read_text().split('# BEGIN GENERATED DISCOVERY')[0].rstrip()
+    mirrors='\n'.join(p+'index.md\n  Link: <'+BASE+p+'>; rel="canonical"' for p in PAGES)
+    headers.write_text(existing+'\n\n# BEGIN GENERATED DISCOVERY\n'+mirrors+'\n# END GENERATED DISCOVERY\n')

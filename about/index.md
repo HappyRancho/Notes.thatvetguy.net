@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/About Notes.ThatVetGuy
 
@@ -22,12 +22,12 @@ A missing topic, a broken file or a credit that needs correcting: tell us so the
 
 ## Questions, answered
 
-Where do files open?
+Where do resources open?
 
-Resources open on Google Drive. Photo batches appear as one set, alternate formats share a row, and exact duplicates are hidden. Original authors retain credit.
+Topic-wise notes open on Google Drive. Objective notes, question banks, drug references and handbooks open in Telegram; some collections require access. Recommended books do not always have a linked copy. Original authors retain credit.
 
 Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

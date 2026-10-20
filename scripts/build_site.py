@@ -40,8 +40,11 @@ def article_intro(title,description,crumbs=None):
 def search_form(page=False):return site_shell.search(sys.modules[__name__],page)
 def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None):
     body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
-    modified=LIBRARY['lastInspected']
-    geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified);social=geo.social(path);page_title=title if home else title+' | Notes.ThatVetGuy'
+    search_meta=geo.SEARCH_META.get(path,{})
+    description=search_meta.get('description',description)
+    page_title=search_meta.get('title',title if home else title+' | Notes.ThatVetGuy')
+    modified=geo.page_modified(path,page_title,description,body)
+    geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified,DATA['lastChecked']);social=geo.social(path)
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433')
     extra_assets=f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
@@ -60,8 +63,8 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
 <title>{escape(page_title)}</title><meta name="description" content="{escape(description,quote=True)}">
 <meta name="theme-color" content="{light}" media="(prefers-color-scheme: light)"><meta name="theme-color" content="{dark}" media="(prefers-color-scheme: dark)">
 <script src="/assets/theme.js?v={VERSION}"></script><meta name="robots" content="{'noindex,follow' if noindex else 'index,follow,max-image-preview:large'}">
-<link rel="canonical" href="{BASE+path}"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Notes.ThatVetGuy — Vet school notes, sorted.">
+<link rel="canonical" href="{BASE+path}"><link rel="alternate" type="text/markdown" href="{BASE+path}index.md" title="Markdown version"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{escape(title,quote=True)} — Rx Notes by ThatVetGuy">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}">
 <link rel="stylesheet" href="/assets/site.css?v={VERSION}">{extra_assets}<link rel="preload" href="/assets/fonts/{preload}-latin.woff2" as="font" type="font/woff2" crossorigin>{font_preload}
 <script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>
@@ -91,7 +94,7 @@ def discovery():
         lines.append(base+'books/ '+base+'#books 301')
         for subject in y['subjects']:
             ss=subject['slug']
-            lines.extend(['/bvsc/'+ss+'/ '+base+'#'+ss+' 301',base+ss+'/ '+base+'notes/ 301'])
+            lines.extend(['/bvsc/'+ss+'/ '+base+'#'+ss+' 301',base+ss+'/ '+base+'notes/#'+ss+' 301'])
     lines.append('/clinical/ /#clinical 301')
     for y in [2,4]:lines.append('/bvsc/year-'+str(y)+'/unsorted/ /bvsc/year-'+str(y)+'/ 301')
     redirects.write_text('\n'.join(lines)+'\n');(ROOT/'.nojekyll').touch()

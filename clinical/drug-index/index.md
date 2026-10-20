@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Drug Index Collection
 
@@ -54,4 +54,4 @@ A vaccination-schedule reference to compare with species, local guidance and pro
 
 These links open a private Telegram collection. You need access to that collection to view its posts.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

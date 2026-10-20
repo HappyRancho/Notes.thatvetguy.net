@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year Notes & Books
 
@@ -128,4 +128,4 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

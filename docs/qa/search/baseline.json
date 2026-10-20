@@ -1,0 +1,523 @@
+{
+  "label": "baseline",
+  "checkedAt": "2026-10-20T18:27:18Z",
+  "pages": [
+    {
+      "url": "https://notes.thatvetguy.net/",
+      "finalURL": "https://notes.thatvetguy.net/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.296,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.272,
+      "title": "BVSc Notes &amp; Books | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-1/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-1/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.325,
+      "title": "1st Year BVSc Notes, Books &amp; Course Outline | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-1/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-1/notes/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-1/notes/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.525,
+      "title": "1st Year Topic-wise BVSc Notes | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-1/notes/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-2/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-2/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.388,
+      "title": "2nd Year BVSc Notes, Books &amp; Course Outline | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-2/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-2/notes/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-2/notes/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.56,
+      "title": "2nd Year Topic-wise BVSc Notes | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-2/notes/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-3/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-3/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.494,
+      "title": "3rd Year BVSc Notes, Books &amp; Course Outline | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-3/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-3/notes/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-3/notes/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.499,
+      "title": "3rd Year Topic-wise BVSc Notes | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-3/notes/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-4/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-4/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.37,
+      "title": "4th Year BVSc Notes, Books &amp; Course Outline | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-4/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-4/notes/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-4/notes/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.348,
+      "title": "4th Year Topic-wise BVSc Notes | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-4/notes/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/objective/",
+      "finalURL": "https://notes.thatvetguy.net/objective/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.163,
+      "title": "Objective &amp; Competition Resources | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/objective/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/study-tools/",
+      "finalURL": "https://notes.thatvetguy.net/study-tools/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.236,
+      "title": "Tips &amp; Tools for Vet Study | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/study-tools/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/about/",
+      "finalURL": "https://notes.thatvetguy.net/about/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.174,
+      "title": "About Notes.ThatVetGuy | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/about/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/request-resource/",
+      "finalURL": "https://notes.thatvetguy.net/request-resource/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.215,
+      "title": "Request a Resource | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/request-resource/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/clinical/handbooks/",
+      "finalURL": "https://notes.thatvetguy.net/clinical/handbooks/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.211,
+      "title": "Handbooks | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/clinical/handbooks/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/clinical/drug-index/",
+      "finalURL": "https://notes.thatvetguy.net/clinical/drug-index/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.412,
+      "title": "Drug Index Collection | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/clinical/drug-index/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/robots.txt",
+      "finalURL": "https://notes.thatvetguy.net/robots.txt",
+      "status": 200,
+      "headers": {
+        "content-type": "text/plain; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "REVALIDATED"
+      },
+      "seconds": 0.25,
+      "title": null,
+      "canonical": null,
+      "robots": null,
+      "build": null,
+      "h1Count": 0
+    },
+    {
+      "url": "https://notes.thatvetguy.net/sitemap.xml",
+      "finalURL": "https://notes.thatvetguy.net/sitemap.xml",
+      "status": 200,
+      "headers": {
+        "content-type": "application/xml",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.266,
+      "title": null,
+      "canonical": null,
+      "robots": null,
+      "build": null,
+      "h1Count": 0
+    },
+    {
+      "url": "https://notes.thatvetguy.net/llms.txt",
+      "finalURL": "https://notes.thatvetguy.net/llms.txt",
+      "status": 200,
+      "headers": {
+        "content-type": "text/plain; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.303,
+      "title": null,
+      "canonical": null,
+      "robots": null,
+      "build": null,
+      "h1Count": 0
+    },
+    {
+      "url": "https://notes.thatvetguy.net/llms-full.txt",
+      "finalURL": "https://notes.thatvetguy.net/llms-full.txt",
+      "status": 200,
+      "headers": {
+        "content-type": "text/plain; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.339,
+      "title": null,
+      "canonical": null,
+      "robots": null,
+      "build": null,
+      "h1Count": 0
+    },
+    {
+      "url": "https://notes.thatvetguy.net/search-index.json",
+      "finalURL": "https://notes.thatvetguy.net/search-index.json",
+      "status": 200,
+      "headers": {
+        "content-type": "application/json",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.856,
+      "title": null,
+      "canonical": null,
+      "robots": null,
+      "build": null,
+      "h1Count": 0
+    },
+    {
+      "url": "https://notes.thatvetguy.net/search/",
+      "finalURL": "https://notes.thatvetguy.net/search/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.247,
+      "title": "Search Veterinary Resources | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/search/",
+      "robots": "noindex,follow",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/definitely-missing-search-health-check/",
+      "finalURL": "https://notes.thatvetguy.net/definitely-missing-search-health-check/",
+      "status": 404,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.203,
+      "title": "Page not found | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/404/",
+      "robots": "noindex,follow",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-1/notes/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.282,
+      "title": "1st Year Topic-wise BVSc Notes | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-1/notes/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes.thatvetguy.net/bvsc/year-1/notes/index.md",
+      "finalURL": "https://notes.thatvetguy.net/bvsc/year-1/notes/index.md",
+      "status": 200,
+      "headers": {
+        "content-type": "text/markdown; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.26,
+      "title": null,
+      "canonical": null,
+      "robots": null,
+      "build": null,
+      "h1Count": 0
+    },
+    {
+      "url": "https://notes.thatvetguy.net/index.html",
+      "finalURL": "https://notes.thatvetguy.net/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.271,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "http://notes.thatvetguy.net/",
+      "finalURL": "https://notes.thatvetguy.net/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.171,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes-thatvetguy-net.pages.dev/",
+      "finalURL": "https://notes-thatvetguy-net.pages.dev/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare"
+      },
+      "seconds": 0.152,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    },
+    {
+      "url": "https://notes-thatvetguy-net.pages.dev/bvsc/year-1/",
+      "finalURL": "https://notes-thatvetguy-net.pages.dev/bvsc/year-1/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare"
+      },
+      "seconds": 0.107,
+      "title": "1st Year BVSc Notes, Books &amp; Course Outline | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-1/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1
+    }
+  ],
+  "findings": [],
+  "botUserAgentProbes": [
+    {
+      "url": "https://notes.thatvetguy.net/",
+      "finalURL": "https://notes.thatvetguy.net/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.166,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1,
+      "name": "Googlebot"
+    },
+    {
+      "url": "https://notes.thatvetguy.net/",
+      "finalURL": "https://notes.thatvetguy.net/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.159,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1,
+      "name": "Bingbot"
+    },
+    {
+      "url": "https://notes.thatvetguy.net/",
+      "finalURL": "https://notes.thatvetguy.net/",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC"
+      },
+      "seconds": 0.345,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "cf3503dfdb94",
+      "h1Count": 1,
+      "name": "OAI-SearchBot"
+    }
+  ],
+  "robotsText": "User-agent: *\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: Claude-SearchBot\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: Applebot-Extended\nAllow: /\n\nUser-agent: CCBot\nAllow: /\n\nSitemap: https://notes.thatvetguy.net/sitemap.xml\n"
+}

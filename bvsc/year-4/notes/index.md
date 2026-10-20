@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year Topic-wise Notes
 
@@ -9,6 +9,8 @@ Topic-wise 4th Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Medicine
+
+Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
 
 ### Unit 1 – General
 
@@ -113,6 +115,8 @@ List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary
 
 ## Veterinary Surgery and Radiology
 
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+
 ### Unit 1 – Veterinary General Surgery
 
 1
@@ -212,6 +216,8 @@ Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/f
 
 ## Veterinary Gynaecology and Obstetrics
 
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+
 ### Unit 1 – Veterinary Gynaecology
 
 3
@@ -269,6 +275,8 @@ Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google
 
 ## Veterinary Clinical Practices II
 
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
+
 Notes are coming soon
 
 Nothing here yet. Even a calf needs a minute to stand.
@@ -277,4 +285,4 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

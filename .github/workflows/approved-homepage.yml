@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add _redirects index.html index.md 404.html 404/ bvsc/ objective/ clinical/ study-tools/ search/ about/ request-resource/ assets/fonts/ data/drive_manifest.json data/resources.json data/catalogue.json data/duplicates-report.json assets/catalogue.json search-index.json build-info.json robots.txt sitemap.xml llms.txt llms-full.txt docs/qa/task3/counts.json docs/qa/task3/contrast.json
+          git add _headers _redirects index.html index.md 404.html 404/ bvsc/ objective/ clinical/ study-tools/ search/ about/ request-resource/ assets/fonts/ data/page-history.json data/drive_manifest.json data/resources.json data/catalogue.json data/duplicates-report.json assets/catalogue.json search-index.json build-info.json robots.txt sitemap.xml llms.txt llms-full.txt docs/qa/task3/counts.json docs/qa/task3/contrast.json
           if ! git diff --cached --quiet; then
             git commit -m 'Homepage — render approved mockup UI and retrieval pages [generated]'
             git push origin HEAD:homepage-approved-mockups

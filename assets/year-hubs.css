@@ -27,6 +27,7 @@
 .rx-inner .year-subject-roadmap li+li{margin-top:8px}
 .rx-inner .year-margin-note{font-family:Caveat,cursive;font-size:18px;line-height:1.35;color:var(--muted);margin:-4px 7px 0}
 .rx-inner .year-note-subject{margin:20px 0;scroll-margin-top:16px;min-width:0}
+.rx-inner .year-subject-summary{max-width:65ch;font-size:14px;line-height:1.6;color:var(--muted);margin:0 0 14px}
 .rx-inner .year-note-subject>header{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin:0 0 10px}
 .rx-inner .year-note-subject>header h2{font:700 23px/1.2 var(--rx-heading);margin:0;min-width:0;max-width:26ch}
 .rx-inner .year-notes-reader .filter-chips button{font-size:13px;max-width:260px;white-space:normal;text-align:left}
