@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/Find your next read.
 
@@ -71,4 +71,4 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

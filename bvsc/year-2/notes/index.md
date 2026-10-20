@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year Topic-wise Notes
 
@@ -9,6 +9,8 @@ Topic-wise 2nd Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Biochemistry
+
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
 ### Unit 1 – General Veterinary Biochemistry
 
@@ -86,6 +88,8 @@ PDF
 Liver Function Tests[Open Liver Function Tests](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
 
 ## Veterinary Microbiology
+
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 
 ### Unit 1 – General and Systematic Veterinary Bacteriology
 
@@ -298,6 +302,8 @@ Veterinary Virology Overall Note[Open Veterinary Virology Overall Note](https://
 
 ## Veterinary Pathology
 
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
+
 ### Unit 1 – General Veterinary Pathology
 
 10
@@ -468,6 +474,8 @@ Pathology of Diseases of Laboratory Animals[Open Pathology of Diseases of Labora
 
 ## Animal Genetics and Breeding
 
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
+
 ### Unit 1 – Biostatistics and Computer Application
 
 20
@@ -617,6 +625,8 @@ West Bengal Goat Breeding Policy[Open West Bengal Goat Breeding Policy](https://
 
 ## Animal Nutrition
 
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+
 ### Unit 1 – Principles of Animal Nutrition and Feed Technology
 
 13
@@ -725,4 +735,4 @@ Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://dr
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

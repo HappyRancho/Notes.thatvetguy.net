@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year Topic-wise Notes
 
@@ -9,6 +9,8 @@ Topic-wise 3rd Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Pharmacology and Toxicology
+
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 
 ### Unit 1 – General Pharmacology
 
@@ -116,6 +118,8 @@ PDF
 Veterinary Toxicology Note[Open Veterinary Toxicology Note](https://drive.google.com/file/d/1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu/view?usp=sharing)
 
 ## Veterinary Parasitology
+
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 
 ### Unit 1 – General Veterinary Parasitology
 
@@ -280,6 +284,8 @@ Veterinary Protozoology Note by TANUVASTANUVAS[Open Veterinary Protozoology Note
 
 ## Veterinary Public Health and Epidemiology
 
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+
 ### Unit 1 – Veterinary Public Health and Food Safety
 
 4
@@ -402,6 +408,8 @@ PDF
 Noise and Radiation Pollution[Open Noise and Radiation Pollution](https://drive.google.com/file/d/1DumDtiG3vdMlHug2sV3QgfwWJuI0_-p-/view)
 
 ## Livestock Products Technology
+
+Livestock Products Technology focuses on following animal products from production through processing and safety. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
 ### Unit 1 – Milk and Milk Products Technology
 
@@ -559,6 +567,8 @@ Structure and Composition of Muscle[Open Structure and Composition of Muscle](ht
 
 ## Veterinary and Animal Husbandry Extension Education
 
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. Match the communication method to the audience and explain how you would assess whether the advice was understood.
+
 ### Unit 1 – Livestock Based Livelihoods and Their Evolution
 
 2
@@ -662,6 +672,8 @@ Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livesto
 
 ## Veterinary Clinical Practices I
 
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
+
 ### Subject notes
 
 1
@@ -670,6 +682,8 @@ PDF
 Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
 ## Livestock Farm Practices
+
+Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
 ### Subject notes
 
@@ -680,4 +694,4 @@ Livestock Farm Practices[Open Livestock Farm Practices](https://drive.google.com
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

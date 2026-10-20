@@ -2,35 +2,35 @@
 
 > Free academic resources, thoughtfully made for future vets.
 
-A free academic library for BVSc & AH students. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes, books and practical material are organised by professional year and subject. File links open on Google Drive. Known source credits are preserved; inclusion does not imply authorship or medical review.
+Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive; objective and clinical collections open in Telegram. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.
 
 Main website: https://thatvetguy.net
 Author: Dr. Chirag Patidar
-Last source review: 2026-10-19. File access settings can change.
+Last source review: 2026-10-20. File access settings can change.
 
 ## Sections and subject guides
 
-- [Free Veterinary Notes, Books & Study Resources | ThatVetGuy](https://notes.thatvetguy.net/): Free academic resources, thoughtfully made for future vets. Find BVSc & AH notes, books, objective questions and clinical references by year.
+- [Free Veterinary Notes, Books & Study Resources | ThatVetGuy](https://notes.thatvetguy.net/): Free BVSc & AH veterinary notes, recommended books, objective question banks, clinical handbooks and drug references. Browse by year or search a topic.
   - Markdown: https://notes.thatvetguy.net/index.md
-- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Recommended books, topic-wise notes and roadmaps for BVSc & AH. Choose a subject to open its section in the right year.
+- [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Find BVSc & AH notes, recommended veterinary books and course outlines for 1st, 2nd, 3rd and 4th Year. Browse by professional year and subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/index.md
 - [1st Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-1/): 1st Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/index.md
-- [1st Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-1/notes/): Topic-wise 1st Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
+- [1st Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-1/notes/): 1st Year BVSc & AH notes in veterinary anatomy, physiology and livestock production management. Browse topic-wise PDFs by subject and unit.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/notes/index.md
 - [2nd Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-2/): 2nd Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/index.md
-- [2nd Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/): Topic-wise 2nd Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
+- [2nd Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-2/notes/): 2nd Year BVSc & AH notes in biochemistry, microbiology, pathology, animal genetics and nutrition. Browse topic-wise notes by subject and unit.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/notes/index.md
 - [3rd Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-3/): 3rd Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/index.md
-- [3rd Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-3/notes/): Topic-wise 3rd Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
+- [3rd Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-3/notes/): 3rd Year BVSc & AH notes in pharmacology, parasitology, public health, livestock products, extension and practical subjects. Browse by topic.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/notes/index.md
 - [4th Year BVSc Notes, Books & Course Outline](https://notes.thatvetguy.net/bvsc/year-4/): 4th Year BVSc & AH notes, books and study roadmaps, organised by subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/index.md
-- [4th Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-4/notes/): Topic-wise 4th Year BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.
+- [4th Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-4/notes/): 4th Year BVSc & AH notes in veterinary medicine, surgery, radiology, gynaecology and obstetrics. Find topic-wise reading grouped by subject and unit.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/notes/index.md
-- [Objective & Competition Resources](https://notes.thatvetguy.net/objective/): Objective notes and veterinary question banks for BVSc & AH revision. Browse Dhruv N Desai, Animal Science Refresher, TANUVAS and more, with direct Telegram access.
+- [Objective & Competition Resources](https://notes.thatvetguy.net/objective/): Browse veterinary objective notes and question banks: Dhruv N Desai, Animal Science Refresher, TANUVAS, NDRI, Vet Scorer, KVAFSU and E. Nanu.
   - Markdown: https://notes.thatvetguy.net/objective/index.md
 - [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
   - Markdown: https://notes.thatvetguy.net/study-tools/index.md
@@ -38,9 +38,9 @@ Last source review: 2026-10-19. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/about/index.md
 - [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
   - Markdown: https://notes.thatvetguy.net/request-resource/index.md
-- [Handbooks](https://notes.thatvetguy.net/clinical/handbooks/): Quick clinical references for everyday veterinary practice.
+- [Handbooks](https://notes.thatvetguy.net/clinical/handbooks/): Find veterinary handbooks for clinical study, small animal medicine, radiology, ultrasound and emergency care. Six references with Telegram access.
   - Markdown: https://notes.thatvetguy.net/clinical/handbooks/index.md
-- [Drug Index Collection](https://notes.thatvetguy.net/clinical/drug-index/): Veterinary drug indexes, a drug handbook, a wall reference and vaccination schedules in one collection. Open a resource in Telegram and check its edition before clinical use.
+- [Drug Index Collection](https://notes.thatvetguy.net/clinical/drug-index/): Browse VENDEX, NAVSARI, Plumb's Veterinary Drug Handbook, a drug-dose wall reference and animal vaccination schedules for veterinary study.
   - Markdown: https://notes.thatvetguy.net/clinical/drug-index/index.md
 
 ## Machine retrieval

@@ -2,16 +2,16 @@
 
 > Free academic resources, thoughtfully made for future vets.
 
-A free academic library for BVSc & AH students. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes, books and practical material are organised by professional year and subject. File links open on Google Drive. Known source credits are preserved; inclusion does not imply authorship or medical review.
+Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive; objective and clinical collections open in Telegram. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.
 
 Main website: https://thatvetguy.net
 Author: Dr. Chirag Patidar
-Last source review: 2026-10-19. File access settings can change.
+Last source review: 2026-10-20. File access settings can change.
 
 ---
 Canonical: https://notes.thatvetguy.net/
 
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-20 -->
 
 # Free Veterinary Academic Resources
 
@@ -125,13 +125,13 @@ Can’t find a resource? Ask for it.
 
 Students today. Better vets tomorrow.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/BVSc Notes & Books
 
@@ -291,13 +291,13 @@ Roadmap available
 
 Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/1st Year Notes & Books
 
@@ -401,13 +401,13 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year Topic-wise Notes
 
@@ -418,6 +418,8 @@ Topic-wise 1st Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Anatomy
+
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
 ### Units 1–6 – Gross and Applied Anatomy
 
@@ -477,6 +479,8 @@ PDF
 Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
 
 ## Veterinary Physiology
+
+Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
 
 ### Unit 1 – Blood, Cardiovascular, Nervous and Muscular Systems
 
@@ -538,6 +542,8 @@ PDF
 Veterinary Physiology Note by TANUVASTANUVAS[Open Veterinary Physiology Note by TANUVAS](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
 
 ## Livestock Production Management
+
+Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
 
 ### Unit 1 – General Livestock Management
 
@@ -652,13 +658,13 @@ Swine Production Management Note[Open Swine Production Management Note](https://
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year Notes & Books
 
@@ -788,13 +794,13 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year Topic-wise Notes
 
@@ -805,6 +811,8 @@ Topic-wise 2nd Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Biochemistry
+
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
 ### Unit 1 – General Veterinary Biochemistry
 
@@ -882,6 +890,8 @@ PDF
 Liver Function Tests[Open Liver Function Tests](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
 
 ## Veterinary Microbiology
+
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 
 ### Unit 1 – General and Systematic Veterinary Bacteriology
 
@@ -1094,6 +1104,8 @@ Veterinary Virology Overall Note[Open Veterinary Virology Overall Note](https://
 
 ## Veterinary Pathology
 
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
+
 ### Unit 1 – General Veterinary Pathology
 
 10
@@ -1264,6 +1276,8 @@ Pathology of Diseases of Laboratory Animals[Open Pathology of Diseases of Labora
 
 ## Animal Genetics and Breeding
 
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
+
 ### Unit 1 – Biostatistics and Computer Application
 
 20
@@ -1413,6 +1427,8 @@ West Bengal Goat Breeding Policy[Open West Bengal Goat Breeding Policy](https://
 
 ## Animal Nutrition
 
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+
 ### Unit 1 – Principles of Animal Nutrition and Feed Technology
 
 13
@@ -1521,13 +1537,13 @@ Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://dr
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Notes & Books
 
@@ -1683,13 +1699,13 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year Topic-wise Notes
 
@@ -1700,6 +1716,8 @@ Topic-wise 3rd Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Pharmacology and Toxicology
+
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 
 ### Unit 1 – General Pharmacology
 
@@ -1807,6 +1825,8 @@ PDF
 Veterinary Toxicology Note[Open Veterinary Toxicology Note](https://drive.google.com/file/d/1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu/view?usp=sharing)
 
 ## Veterinary Parasitology
+
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 
 ### Unit 1 – General Veterinary Parasitology
 
@@ -1971,6 +1991,8 @@ Veterinary Protozoology Note by TANUVASTANUVAS[Open Veterinary Protozoology Note
 
 ## Veterinary Public Health and Epidemiology
 
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+
 ### Unit 1 – Veterinary Public Health and Food Safety
 
 4
@@ -2093,6 +2115,8 @@ PDF
 Noise and Radiation Pollution[Open Noise and Radiation Pollution](https://drive.google.com/file/d/1DumDtiG3vdMlHug2sV3QgfwWJuI0_-p-/view)
 
 ## Livestock Products Technology
+
+Livestock Products Technology focuses on following animal products from production through processing and safety. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
 ### Unit 1 – Milk and Milk Products Technology
 
@@ -2250,6 +2274,8 @@ Structure and Composition of Muscle[Open Structure and Composition of Muscle](ht
 
 ## Veterinary and Animal Husbandry Extension Education
 
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. Match the communication method to the audience and explain how you would assess whether the advice was understood.
+
 ### Unit 1 – Livestock Based Livelihoods and Their Evolution
 
 2
@@ -2353,6 +2379,8 @@ Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livesto
 
 ## Veterinary Clinical Practices I
 
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
+
 ### Subject notes
 
 1
@@ -2361,6 +2389,8 @@ PDF
 Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
 ## Livestock Farm Practices
+
+Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
 ### Subject notes
 
@@ -2371,13 +2401,13 @@ Livestock Farm Practices[Open Livestock Farm Practices](https://drive.google.com
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/4th Year Notes & Books
 
@@ -2487,13 +2517,13 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year Topic-wise Notes
 
@@ -2504,6 +2534,8 @@ Topic-wise 4th Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Medicine
+
+Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
 
 ### Unit 1 – General
 
@@ -2608,6 +2640,8 @@ List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary
 
 ## Veterinary Surgery and Radiology
 
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+
 ### Unit 1 – Veterinary General Surgery
 
 1
@@ -2707,6 +2741,8 @@ Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/f
 
 ## Veterinary Gynaecology and Obstetrics
 
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+
 ### Unit 1 – Veterinary Gynaecology
 
 3
@@ -2764,6 +2800,8 @@ Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google
 
 ## Veterinary Clinical Practices II
 
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
+
 Notes are coming soon
 
 Nothing here yet. Even a calf needs a minute to stand.
@@ -2772,13 +2810,13 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/objective/
 
-<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/Objective & Competition Resources
 
@@ -2884,13 +2922,13 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://t.me/veterinary_question_bank/4)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/study-tools/
 
-<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/Tips & Tools for Vet Study
 
@@ -2964,13 +3002,13 @@ Record the author, edition, species and date where relevant. A saved file still 
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/#road-map)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/#road-map)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/#road-map)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/about/
 
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/About Notes.ThatVetGuy
 
@@ -2994,21 +3032,21 @@ A missing topic, a broken file or a credit that needs correcting: tell us so the
 
 ## Questions, answered
 
-Where do files open?
+Where do resources open?
 
-Resources open on Google Drive. Photo batches appear as one set, alternate formats share a row, and exact duplicates are hidden. Original authors retain credit.
+Topic-wise notes open on Google Drive. Objective notes, question banks, drug references and handbooks open in Telegram; some collections require access. Recommended books do not always have a linked copy. Original authors retain credit.
 
 Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/request-resource/
 
-<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/Can’t find what you need?
 
@@ -3050,13 +3088,13 @@ Can I contribute a resource?
 
 Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/search/
 
-<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/Find your next read.
 
@@ -3129,13 +3167,13 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/clinical/handbooks/
 
-<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Handbooks
 
@@ -3195,13 +3233,13 @@ Colour handbook of Small Animal Emergency and Critical care.
 
 These books open in Telegram. Use clinical references alongside supervised training and current guidance.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/clinical/drug-index/
 
-<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Drug Index Collection
 
@@ -3257,13 +3295,13 @@ A vaccination-schedule reference to compare with species, local guidance and pro
 
 These links open a private Telegram collection. You need access to that collection to view its posts.
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/404/
 
-<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/404: this page has left the herd.
 
@@ -3273,4 +3311,4 @@ Try a subject or search for the resource you need.
 
 [Back to the notes ](https://notes.thatvetguy.net/bvsc/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

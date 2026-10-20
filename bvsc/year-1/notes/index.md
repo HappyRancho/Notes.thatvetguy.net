@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year Topic-wise Notes
 
@@ -9,6 +9,8 @@ Topic-wise 1st Year BVSc & AH notes, grouped by subject and unit. Pick a subject
 Search this collection
 
 ## Veterinary Anatomy
+
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
 ### Units 1–6 – Gross and Applied Anatomy
 
@@ -68,6 +70,8 @@ PDF
 Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
 
 ## Veterinary Physiology
+
+Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
 
 ### Unit 1 – Blood, Cardiovascular, Nervous and Muscular Systems
 
@@ -129,6 +133,8 @@ PDF
 Veterinary Physiology Note by TANUVASTANUVAS[Open Veterinary Physiology Note by TANUVAS](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
 
 ## Livestock Production Management
+
+Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
 
 ### Unit 1 – General Livestock Management
 
@@ -243,4 +249,4 @@ Swine Production Management Note[Open Swine Production Management Note](https://
 
 No notes match. [Request a topic](https://notes.thatvetguy.net/request-resource/)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.

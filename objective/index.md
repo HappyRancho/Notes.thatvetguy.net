@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-19 -->
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-20 -->
 
 [Home](https://notes.thatvetguy.net/)/Objective & Competition Resources
 
@@ -104,4 +104,4 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://t.me/veterinary_question_bank/4)
 
-Last checked: 2026-10-19. This date records source review, not a guarantee of external file availability.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
