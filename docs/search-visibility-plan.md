@@ -36,6 +36,16 @@ Raw results: [baseline.json](qa/search/baseline.json). Reproduce with `python3 s
 
 No theme redesign, new subject routes, invented downloads, meta-keywords, hidden keyword text, fabricated FAQs/reviews, or ranking promises were introduced.
 
+## Publication status — deployment mismatch confirmed
+
+The improvements and generated pages are committed to `main` in `ab3c97d850b3348fe1c5177d5c660ee4c1eff99b`. Review QA passed: 12 homepage views, 40 additional page views, no reported browser/axe failures, and Lighthouse scores on five pages of 97–99 Performance and 100 Accessibility / Best Practices / SEO. These are review-build measurements, not new production scores. Handbooks LCP was 2.41 seconds in that run, so the earlier under-2-second target was not met there.
+
+After publication, the production job checked nine live routes repeatedly and correctly failed: every route still served build `cf3503dfdb94`, while `main` expects `f22744229921`. Both the custom domain and pages.dev alias served that same old build. See [deployment-mismatch.json](qa/search/deployment-mismatch.json). No cache purge was attempted because Cloudflare API token/zone bindings were unavailable. No new Cloudflare Pages check appeared on the publication commit during this verification window; that observation alone does not establish the cause.
+
+**Hosting action required:** In Cloudflare → Workers & Pages → `notes-thatvetguy-net`, inspect the latest production deployment and Git integration. Confirm the repository is `HappyRancho/Notes.thatvetguy.net`, the production branch is `main`, and production deployments are enabled; inspect build-watch exclusions, skipped builds and any build error. Deploy the current `main` commit, then verify `/build-info.json` reports `f22744229921` and the page HTML has the same `site-build` marker. If the Pages alias updates but the custom domain does not, investigate custom-domain routing/cache next. A cache purge by itself cannot publish a commit that was never deployed.
+
+Until that mismatch is resolved, the fixes are **committed and validated, but not verified live**. This deployment issue is separate from the baseline crawl findings: the older live pages remain publicly accessible and indexable.
+
 ## What is probably limiting visibility
 
 - **Indexing/discovery is still unconfirmed.** Search Console must distinguish unknown URLs, discovered-not-indexed, crawled-not-indexed and indexed-but-low-ranking. Each needs a different response.
@@ -48,6 +58,7 @@ No theme redesign, new subject routes, invented downloads, meta-keywords, hidden
 
 | Priority / timing | Action | Owner / evidence of success |
 | --- | --- | --- |
+| P0 — first | Resolve the production/repository mismatch described above. Publish current main through the existing Cloudflare Pages project. | Cloudflare owner. Both hosts serve the expected build marker; the exact-build verification passes. |
 | P0 — now | Verify a Google Search Console Domain property for thatvetguy.net, or URL-prefix property for https://notes.thatvetguy.net/. Submit https://notes.thatvetguy.net/sitemap.xml. Inspect Home, /bvsc/, one year hub and one year note reader; run Live Test. Request indexing once after fixes. | Property owner. Record indexed status, last crawl, Google-selected canonical, successful sitemap processing and indexed page count. Do not repeatedly submit the same URLs. |
 | P0 — now | Check Search Console Manual Actions, Security Issues and Page indexing reports. In Cloudflare Security Events, inspect verified Googlebot/Bingbot/OpenAI search requests for blocks/challenges. Keep robots and important assets accessible. | Property owner. Authenticated crawl evidence and the actual exclusion reasons; UA probes alone cannot establish this. |
 | P1 — this week | Add a natural “Free BVSc notes and veterinary study resources” link from the main website and author profile, plus relevant blog articles. Verify Bing Webmaster Tools and submit the same canonical sitemap. | Main-site owner. Followable HTML links, successful sitemap processing and first crawler visits/impressions. Main website was not modified in this task. |

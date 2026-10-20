@@ -27,6 +27,8 @@ jobs:
       - name: Check both hostnames
         if: always()
         run: python3 scripts/task3-hosting.py
+      - name: Audit search endpoints after exact-build verification
+        run: python3 scripts/search-health.py --label production
       - name: Production Lighthouse and axe
         run: npm run qa -- production
         env:
@@ -40,3 +42,4 @@ jobs:
             docs/qa/task3/production/
             docs/qa/task3/hosting.json
             docs/qa/task2-production/deployment.json
+            docs/qa/search/production.json

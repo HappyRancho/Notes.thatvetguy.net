@@ -1,0 +1,234 @@
+{
+  "expectedCommit": "ab3c97d850b3348fe1c5177d5c660ee4c1eff99b",
+  "deployment": {
+    "purge": "not attempted: Cloudflare token/zone unavailable",
+    "pages": [
+      {
+        "path": "/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7a5bd6aef8-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "e84df986908ce09a2eb7a980d47c8508e575f08f286897516c19f1edabf8b544",
+        "repoSha256": "5adfe6805bd1e6e55e32664d1fac41ddb0b84e8d40fd3765f6450b943232512e",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7b2fdf489a-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "1cc425caaaa0a54d18cada2fdcbee444853b80b072059ff868a03da35bc80f1f",
+        "repoSha256": "e4bdfdb3a30a436d960b66f8c5fc32ed2dfab04831785209d17fff742d2a4310",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/objective/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7bbcf2b6a4-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "4b8d6d9d6b2eba9f5d2ff52e5d1588bf2eadf8f53ac92e8abcdbfa08f2ea6c84",
+        "repoSha256": "33eb7b4cb0aece69c988be1fdda2b480b5aec919734efb32966f375ca4ee71bd",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/study-tools/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7c8d24ccff-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "29a180a3bef881a29fe772efdee8103a23518f708e5c75cc09abf4b6d2166dce",
+        "repoSha256": "f6ab11ff230e383242b1e4c495c733c7c5b224d6a7d3440022597f0f7be2c269",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/clinical/handbooks/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7d398f4a89-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "779c9a507c2a5ca3a016ae6d0726186d10d4a4fe43211be04c45f53d4f044854",
+        "repoSha256": "0774b666d512603a32142ae79832ce386f361f548f4f98fd1b18e5700a1cb013",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/clinical/drug-index/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7e0cc05397-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "9d4424daac84b6a976618fc4d8369e01d267342c56b0f1047068081cda4772db",
+        "repoSha256": "f2cc95fa6a16a9e0547ee8a542651f4fe0471479ff3c917cee35e3cbf38e1f1d",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/search/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7e8d1397ca-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "f7118be635592a91a7ee1d77c1b5a78db186185c49ebddd2511250f87449335f",
+        "repoSha256": "2fb9bca5e578ae4debd88cea3d6b59ffc1407b1da8ccc1b46f9ff71039b9a976",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/about/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7f2b1f51f0-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "be5e730ba6ae392735014d118d06ded8a112e77760ce1b2d3755d8145b9c73a8",
+        "repoSha256": "67512bb6b9e77bfecc8eab53edf30ffab2c5867ce2e627690f88b5e3c616dc03",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/request-resource/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a4da2a7faf351f54-LAX"
+        },
+        "buildMatches": false,
+        "liveBuild": "cf3503dfdb94",
+        "repoBuild": "f22744229921",
+        "assetVersionsMatch": false,
+        "sha256": "a712c1d6a846e9f03c000d6fca685188ad4b734120e3610a44f12afd34a88c48",
+        "repoSha256": "4f629db74495718d34f3370286af264c6943e8ef76d087a7be9d8fa8683d4bc0",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      }
+    ]
+  },
+  "hosts": [
+    {
+      "host": "notes-thatvetguy-net.pages.dev",
+      "addresses": [
+        "172.66.44.165",
+        "172.66.47.91",
+        "2606:4700:310c::ac42:2ca5",
+        "2606:4700:310c::ac42:2f5b"
+      ],
+      "status": 200,
+      "finalURL": "https://notes-thatvetguy-net.pages.dev/",
+      "headers": {
+        "server": "cloudflare",
+        "cf-cache-status": null,
+        "location": null,
+        "cf-ray": "a4da2a813ec4262b-LAX"
+      },
+      "liveBuild": "cf3503dfdb94",
+      "expectedBuild": "f22744229921",
+      "matchesBuild": false,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "bodyExcerpt": "   \n   \n Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy  \n  \n   \n  \n         \n    \n      \n {\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Organization\", \"@id\": \"https://notes.thatvetguy.net/#organization\", \"name\": \"ThatVetGuy\", \"url\": \"https://thatvetguy.net\", \"logo\": \"https://notes.thatvetguy.net/assets/favicon.svg\", \"sameAs\": [\"https://thatvetguy.net\", \"https://t.me/vetshortnotesbytvg\", \"https://t.me/jobupdatesbytvg\"]}, {\"@type\": \"Person\", \"@id\": \"https://notes.thatvetguy.net/#author\", \"name\": \"Dr. Chirag Patidar\", \"url\": \"https://www.thatvetguy.net/chirag\", \"sameA"
+    },
+    {
+      "host": "notes.thatvetguy.net",
+      "addresses": [
+        "104.21.94.179",
+        "172.67.139.21",
+        "2606:4700:3031::6815:5eb3",
+        "2606:4700:3037::ac43:8b15"
+      ],
+      "status": 200,
+      "finalURL": "https://notes.thatvetguy.net/",
+      "headers": {
+        "server": "cloudflare",
+        "cf-cache-status": "DYNAMIC",
+        "location": null,
+        "cf-ray": "a4da2a81bbbdd2bd-LAX"
+      },
+      "liveBuild": "cf3503dfdb94",
+      "expectedBuild": "f22744229921",
+      "matchesBuild": false,
+      "title": "Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy",
+      "bodyExcerpt": "   \n   \n Free Veterinary Notes, Books &amp; Study Resources | ThatVetGuy  \n  \n   \n  \n         \n    \n      \n {\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Organization\", \"@id\": \"https://notes.thatvetguy.net/#organization\", \"name\": \"ThatVetGuy\", \"url\": \"https://thatvetguy.net\", \"logo\": \"https://notes.thatvetguy.net/assets/favicon.svg\", \"sameAs\": [\"https://thatvetguy.net\", \"https://t.me/vetshortnotesbytvg\", \"https://t.me/jobupdatesbytvg\"]}, {\"@type\": \"Person\", \"@id\": \"https://notes.thatvetguy.net/#author\", \"name\": \"Dr. Chirag Patidar\", \"url\": \"https://www.thatvetguy.net/chirag\", \"sameA"
+    }
+  ]
+}
