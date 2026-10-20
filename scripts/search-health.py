@@ -15,7 +15,7 @@ def fetch(url, ua='NotesThatVetGuy-SearchHealth/1'):
         except HTTPError as error: response = error
         with response:
             raw = response.read(3000000).decode('utf-8', 'replace')
-            headers = {k.lower(): v for k, v in response.headers.items() if k.lower() in ['content-type','x-robots-tag','cf-mitigated','server','location','cf-cache-status']}
+            headers = {k.lower(): v for k, v in response.headers.items() if k.lower() in ['content-type','x-robots-tag','cf-mitigated','server','location','link','cf-cache-status']}
             result = {'url':url,'finalURL':response.url,'status':response.status,'headers':headers,'seconds':round(time.monotonic()-start,3)}
         for key, pattern in {'title':r'<title>(.*?)</title>','canonical':r'<link rel="canonical" href="([^"]+)"','robots':r'<meta name="robots" content="([^"]+)"','build':r'<meta name="site-build" content="([^"]+)"'}.items():
             match = re.search(pattern, raw, re.S|re.I);result[key]=match[1] if match else None

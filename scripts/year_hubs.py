@@ -29,6 +29,10 @@ def notes_page(b,y):
     for si,s in enumerate(y['subjects']):
         rows=[b.CATALOGUE[r] for r in s['resourceIds']];allrows+=rows
         body+='<section class="year-note-subject" data-subject-section id="'+s['slug']+'"><header><h2>'+e(s['name'])+'</h2><button type="button" class="studied-button js-only" data-studied="'+s['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></header>'
+        guide=b.SUBJECTS.get(s['name'],{})
+        if guide.get('summary'):
+            intro=guide['summary'].split('. ',1)[0]+'. '+guide.get('studyTip','')
+            body+='<p class="year-subject-summary">'+e(intro)+'</p>'
         units=sorted({r['unit'] for r in rows},key=lambda u:(int(re.search(r'\d+',u)[0]) if re.search(r'\d+',u) else 999,natural(u)))
         for ui,unit in enumerate(units):body+=group(b,unit,[r for r in rows if r['unit']==unit],s['slug']+'-'+slug(unit),si==0 and ui==0,level=3,filterkey=s['slug'])
         if not rows:body+=empty(b,'Notes are coming soon')

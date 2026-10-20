@@ -1,0 +1,12 @@
+{
+  "/": {"description": "Free BVSc & AH veterinary notes, recommended books, objective question banks, clinical handbooks and drug references. Browse by year or search a topic."},
+  "/bvsc/": {"title": "BVSc Notes & Recommended Veterinary Books | ThatVetGuy", "description": "Find BVSc & AH notes, recommended veterinary books and course outlines for 1st, 2nd, 3rd and 4th Year. Browse by professional year and subject."},
+  "/objective/": {"title": "Veterinary Objective Notes & Question Banks | ThatVetGuy", "description": "Browse veterinary objective notes and question banks: Dhruv N Desai, Animal Science Refresher, TANUVAS, NDRI, Vet Scorer, KVAFSU and E. Nanu."},
+  "/clinical/handbooks/": {"title": "Veterinary Clinical Handbooks Collection | ThatVetGuy", "description": "Find veterinary handbooks for clinical study, small animal medicine, radiology, ultrasound and emergency care. Six references with Telegram access."},
+  "/clinical/drug-index/": {"title": "Veterinary Drug Index & Vaccination References | ThatVetGuy", "description": "Browse VENDEX, NAVSARI, Plumb's Veterinary Drug Handbook, a drug-dose wall reference and animal vaccination schedules for veterinary study."},
+  "/about/": {"title": "About Notes.ThatVetGuy | Free BVSc Study Resources"},
+  "/bvsc/year-1/notes/": {"description": "1st Year BVSc & AH notes in veterinary anatomy, physiology and livestock production management. Browse topic-wise PDFs by subject and unit."},
+  "/bvsc/year-2/notes/": {"description": "2nd Year BVSc & AH notes in biochemistry, microbiology, pathology, animal genetics and nutrition. Browse topic-wise notes by subject and unit."},
+  "/bvsc/year-3/notes/": {"description": "3rd Year BVSc & AH notes in pharmacology, parasitology, public health, livestock products, extension and practical subjects. Browse by topic."},
+  "/bvsc/year-4/notes/": {"description": "4th Year BVSc & AH notes in veterinary medicine, surgery, radiology, gynaecology and obstetrics. Find topic-wise reading grouped by subject and unit."}
+}

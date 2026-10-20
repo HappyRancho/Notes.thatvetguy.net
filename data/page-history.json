@@ -1,0 +1,74 @@
+{
+  "/": {
+    "sha256": "df6f9b550fa2a1d870072621e3b2b5eb352212069f1f8dd44d927376d6ffe623",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/": {
+    "sha256": "70e6ac1a99851ce259ce33fb80f11e02b962c2759425e09c73a569450a719796",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-1/": {
+    "sha256": "cf847bdc864214c2a52bc392835c3ae220ee01e28d3d9f63a00193ef4e31356c",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-1/notes/": {
+    "sha256": "d72800a7b1d6c663d3e153c33ce4c0e974b9bf4c71d9806059679c33a0d236fc",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-2/": {
+    "sha256": "4f1026b7aea4db6f01b6a9a9e754c0298dd5ec8e5d639996a77c2b007491112e",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-2/notes/": {
+    "sha256": "70b357fc1b8a9ba8182cb5860f681fb517a43a68356595b1e17e9c5c2e6e8164",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-3/": {
+    "sha256": "3447ba90a95a88d0480b8931b062a41019899fb376b95290af2c00bbb0e8eba7",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-3/notes/": {
+    "sha256": "b07471a9a58aa1b1ec78e4155fcda4b64c1718f3879d36d0a7105963cee7150c",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-4/": {
+    "sha256": "5723ddf70242d05875e1ef48ec7ef1711fe112f4241141103cdb5cfca82b02ea",
+    "modified": "2026-10-20"
+  },
+  "/bvsc/year-4/notes/": {
+    "sha256": "c15060d0043cb5e35af3625ccab8b590a19ed385694809f51a2311ab7a0fe767",
+    "modified": "2026-10-20"
+  },
+  "/objective/": {
+    "sha256": "512b18d5edb91259b3620c2da29932ef2ffd306940ea992b9c352bf69f6fbf6a",
+    "modified": "2026-10-20"
+  },
+  "/study-tools/": {
+    "sha256": "c62d90515f953c9a2b03231d0b40638d23392954142214f0c9e859dec014b646",
+    "modified": "2026-10-20"
+  },
+  "/about/": {
+    "sha256": "3c53ad38d3cfe438bc99b66aa7e2d93d4823904f9dda0bf96b9c7b835a6e05da",
+    "modified": "2026-10-20"
+  },
+  "/request-resource/": {
+    "sha256": "6873170843fa02966ccb83e0d5da5267bb6a42031fc286546a476df589cef78a",
+    "modified": "2026-10-20"
+  },
+  "/search/": {
+    "sha256": "1a9395822ef3554b3f8ff260a2bcae92caa2e6704828d7cf80b51cf9a15a886d",
+    "modified": "2026-10-20"
+  },
+  "/clinical/handbooks/": {
+    "sha256": "8d77796c2046be57a676465e0c25e8b3f781d910408abd244b5d1a1fe6ba3d4e",
+    "modified": "2026-10-20"
+  },
+  "/clinical/drug-index/": {
+    "sha256": "7e117a09c34db0a2d49dc2cd9c9feb9c522b24af95fedaab848913273c9d968d",
+    "modified": "2026-10-20"
+  },
+  "/404/": {
+    "sha256": "f43a0521e288cb1c768bd55f04d291a4699cc892030a5b3769e3af234741dd73",
+    "modified": "2026-10-20"
+  }
+}
