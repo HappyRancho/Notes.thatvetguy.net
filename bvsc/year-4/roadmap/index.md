@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year BVSc & AH Roadmap
 
-# 4th Year BVSc & AH Roadmap
+# 4th Year Roadmap
 
 From knowing the answer to explaining your next step.
 
@@ -12,12 +12,14 @@ From knowing the answer to explaining your next step.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 ## Year at a glance
 
 - 17credits8 theory + 9 practical
-- 4core coursesthe complete professional-year subject list
+- 4core coursesTheory and practical courses
 - 1.5years18 months before the separate internship
 - 50%to passtheory and practical, counted separately
 

@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year BVSc & AH Roadmap
 
-# 1st Year BVSc & AH Roadmap
+# 1st Year Roadmap
 
 Learn the normal. The abnormal can wait one year.
 
@@ -12,6 +12,8 @@ Learn the normal. The abnormal can wait one year.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 Course-outline note. The uploaded 1st Year outline also includes Biochemistry and prints 21 credits. This guide uses the 18-credit MSVE professional-year distribution; Biochemistry is in 2nd Year here. Check your university's allocation.
@@ -19,7 +21,7 @@ Course-outline note. The uploaded 1st Year outline also includes Biochemistry an
 ## Year at a glance
 
 - 18credits12 theory + 6 practical
-- 3core coursesAnatomy, Physiology, Livestock Production
+- 3core coursesAnatomy · Physiology · LPM
 - 50%to passtheory and practical, counted separately
 - 210teaching daysminimum; annual exam days excluded
 
