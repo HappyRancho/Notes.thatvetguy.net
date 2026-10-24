@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year BVSc & AH Roadmap
 
-# 2nd Year BVSc & AH Roadmap
+# 2nd Year Roadmap
 
 Five subjects. Connect the dots, not five new notebooks.
 
@@ -12,6 +12,8 @@ Five subjects. Connect the dots, not five new notebooks.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 Course-outline note. Biochemistry appears in the uploaded 1st Year outline PDF. The MSVE professional-year distribution used here places it in 2nd Year.
@@ -19,9 +21,9 @@ Course-outline note. Biochemistry appears in the uploaded 1st Year outline PDF. 
 ## Year at a glance
 
 - 22credits15 theory + 7 practical
-- 5core coursesthe complete professional-year subject list
+- 5core coursesTheory and practical courses
 - 50%to passtheory and practical, counted separately
-- 3 × 40internal assessmentsthree scheduled tests; 40 marks each
+- 3 × 40internal marksthree scheduled tests; 40 marks each
 
 - Connect Pathology and Microbiology, but keep regular slots for Genetics and Nutrition calculations.
 - Finish practical records alongside the laboratory work; explain the observation, not just the result.

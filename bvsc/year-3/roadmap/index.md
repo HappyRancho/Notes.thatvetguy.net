@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year BVSc & AH Roadmap
 
-# 3rd Year BVSc & AH Roadmap
+# 3rd Year Roadmap
 
 Now the earlier years start asking to be remembered.
 
@@ -12,14 +12,16 @@ Now the earlier years start asking to be remembered.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 ## Year at a glance
 
 - 24credits15 theory + 9 practical
-- 7core coursesthe complete professional-year subject list
+- 7core coursesTheory and practical courses
 - 50%to passtheory and practical, counted separately
-- 3 × 40internal assessmentsthree scheduled tests; 40 marks each
+- 3 × 40internal marksthree scheduled tests; 40 marks each
 
 - Link the agent, disease process and prevention or treatment principle across subjects.
 - Clinical Practices I and Livestock Farm Practices are practical courses; keep their records and assessment dates visible.

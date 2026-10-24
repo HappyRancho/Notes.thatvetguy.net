@@ -2820,7 +2820,7 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year BVSc & AH Roadmap
 
-# 1st Year BVSc & AH Roadmap
+# 1st Year Roadmap
 
 Learn the normal. The abnormal can wait one year.
 
@@ -2830,6 +2830,8 @@ Learn the normal. The abnormal can wait one year.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 Course-outline note. The uploaded 1st Year outline also includes Biochemistry and prints 21 credits. This guide uses the 18-credit MSVE professional-year distribution; Biochemistry is in 2nd Year here. Check your university's allocation.
@@ -2837,7 +2839,7 @@ Course-outline note. The uploaded 1st Year outline also includes Biochemistry an
 ## Year at a glance
 
 - 18credits12 theory + 6 practical
-- 3core coursesAnatomy, Physiology, Livestock Production
+- 3core coursesAnatomy · Physiology · LPM
 - 50%to passtheory and practical, counted separately
 - 210teaching daysminimum; annual exam days excluded
 
@@ -3014,7 +3016,7 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year BVSc & AH Roadmap
 
-# 2nd Year BVSc & AH Roadmap
+# 2nd Year Roadmap
 
 Five subjects. Connect the dots, not five new notebooks.
 
@@ -3024,6 +3026,8 @@ Five subjects. Connect the dots, not five new notebooks.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 Course-outline note. Biochemistry appears in the uploaded 1st Year outline PDF. The MSVE professional-year distribution used here places it in 2nd Year.
@@ -3031,9 +3035,9 @@ Course-outline note. Biochemistry appears in the uploaded 1st Year outline PDF. 
 ## Year at a glance
 
 - 22credits15 theory + 7 practical
-- 5core coursesthe complete professional-year subject list
+- 5core coursesTheory and practical courses
 - 50%to passtheory and practical, counted separately
-- 3 × 40internal assessmentsthree scheduled tests; 40 marks each
+- 3 × 40internal marksthree scheduled tests; 40 marks each
 
 - Connect Pathology and Microbiology, but keep regular slots for Genetics and Nutrition calculations.
 - Finish practical records alongside the laboratory work; explain the observation, not just the result.
@@ -3234,7 +3238,7 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year BVSc & AH Roadmap
 
-# 3rd Year BVSc & AH Roadmap
+# 3rd Year Roadmap
 
 Now the earlier years start asking to be remembered.
 
@@ -3244,14 +3248,16 @@ Now the earlier years start asking to be remembered.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 ## Year at a glance
 
 - 24credits15 theory + 9 practical
-- 7core coursesthe complete professional-year subject list
+- 7core coursesTheory and practical courses
 - 50%to passtheory and practical, counted separately
-- 3 × 40internal assessmentsthree scheduled tests; 40 marks each
+- 3 × 40internal marksthree scheduled tests; 40 marks each
 
 - Link the agent, disease process and prevention or treatment principle across subjects.
 - Clinical Practices I and Livestock Farm Practices are practical courses; keep their records and assessment dates visible.
@@ -3480,7 +3486,7 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year BVSc & AH Roadmap
 
-# 4th Year BVSc & AH Roadmap
+# 4th Year Roadmap
 
 From knowing the answer to explaining your next step.
 
@@ -3490,12 +3496,14 @@ From knowing the answer to explaining your next step.
 - [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
+MSVE 2016 · Syllabus & outline notes
+
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
 ## Year at a glance
 
 - 17credits8 theory + 9 practical
-- 4core coursesthe complete professional-year subject list
+- 4core coursesTheory and practical courses
 - 1.5years18 months before the separate internship
 - 50%to passtheory and practical, counted separately
 
