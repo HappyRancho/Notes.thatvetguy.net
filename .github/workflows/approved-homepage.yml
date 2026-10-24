@@ -40,10 +40,12 @@ jobs:
         if: contains(github.event.head_commit.message, '[collection-cards]')
       - run: node scripts/year-hubs-qa.mjs
         if: contains(github.event.head_commit.message, '[year-hubs]')
+      - run: node scripts/roadmaps-qa.mjs
+        if: contains(github.event.head_commit.message, '[roadmaps]')
       - name: Lighthouse and page regression
         run: npm run qa -- mockup-after
         env:
-          QA_PATHS: ${{ contains(github.event.head_commit.message, '[home-spacing]') && '/,/bvsc/year-1/,/objective/' || contains(github.event.head_commit.message, '[year-hubs]') && '/,/bvsc/year-1/,/bvsc/year-2/,/bvsc/year-3/,/bvsc/year-4/' || contains(github.event.head_commit.message, '[collection-cards]') && '/objective/,/clinical/drug-index/,/clinical/handbooks/' || contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/bvsc/year-1/notes/' }}
+          QA_PATHS: ${{ contains(github.event.head_commit.message, '[roadmaps]') && '/bvsc/year-1/roadmap/,/bvsc/year-2/roadmap/,/bvsc/year-3/roadmap/,/bvsc/year-4/roadmap/' || contains(github.event.head_commit.message, '[home-spacing]') && '/,/bvsc/year-1/,/objective/' || contains(github.event.head_commit.message, '[year-hubs]') && '/,/bvsc/year-1/,/bvsc/year-2/,/bvsc/year-3/,/bvsc/year-4/' || contains(github.event.head_commit.message, '[collection-cards]') && '/objective/,/clinical/drug-index/,/clinical/handbooks/' || contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/bvsc/year-1/notes/' }}
           QA_WIDTHS: '360,390,430,1280'
       - uses: actions/upload-artifact@v4
         if: always()
@@ -51,6 +53,7 @@ jobs:
           name: approved-homepage
           path: |
             docs/qa/year-hubs/
+            docs/qa/roadmaps/
             docs/qa/collection-cards/
             docs/qa/mockup-homepage/
             docs/qa/task3/mockup-after/

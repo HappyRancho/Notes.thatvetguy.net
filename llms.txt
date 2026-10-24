@@ -30,6 +30,14 @@ Last source review: 2026-10-20. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/index.md
 - [4th Year Topic-wise BVSc Notes](https://notes.thatvetguy.net/bvsc/year-4/notes/): 4th Year BVSc & AH notes in veterinary medicine, surgery, radiology, gynaecology and obstetrics. Find topic-wise reading grouped by subject and unit.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/notes/index.md
+- [1st Year BVSc Roadmap: Subjects, Credits & Study Plan](https://notes.thatvetguy.net/bvsc/year-1/roadmap/): 1st Year BVSc & AH study roadmap: subjects, theory and practical credits, exam checkpoints and practical revision advice. Based on the MSVE 2016 professional-year scheme.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-1/roadmap/index.md
+- [2nd Year BVSc Roadmap: Subjects, Credits & Study Plan](https://notes.thatvetguy.net/bvsc/year-2/roadmap/): 2nd Year BVSc & AH study roadmap: subjects, theory and practical credits, exam checkpoints and practical revision advice. Based on the MSVE 2016 professional-year scheme.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-2/roadmap/index.md
+- [3rd Year BVSc Roadmap: Subjects, Credits & Study Plan](https://notes.thatvetguy.net/bvsc/year-3/roadmap/): 3rd Year BVSc & AH study roadmap: subjects, theory and practical credits, exam checkpoints and practical revision advice. Based on the MSVE 2016 professional-year scheme.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-3/roadmap/index.md
+- [4th Year BVSc Roadmap: Subjects, Credits & Study Plan](https://notes.thatvetguy.net/bvsc/year-4/roadmap/): 4th Year BVSc & AH study roadmap: subjects, theory and practical credits, exam checkpoints and practical revision advice. Based on the MSVE 2016 professional-year scheme.
+  - Markdown: https://notes.thatvetguy.net/bvsc/year-4/roadmap/index.md
 - [Objective & Competition Resources](https://notes.thatvetguy.net/objective/): Browse veterinary objective notes and question banks: Dhruv N Desai, Animal Science Refresher, TANUVAS, NDRI, Vet Scorer, KVAFSU and E. Nanu.
   - Markdown: https://notes.thatvetguy.net/objective/index.md
 - [Tips & Tools for Vet Study](https://notes.thatvetguy.net/study-tools/): Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.

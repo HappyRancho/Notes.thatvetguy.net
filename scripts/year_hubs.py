@@ -68,7 +68,7 @@ def render(b):
         body=b.article_intro(label+' Notes & Books',desc,[('BVSc','/bvsc/')])
         body=body.replace('<div class="container reading-page">','<div class="container reading-page year-page">',1)
         body=body.replace(b.icon('book'),b.icon('cap'),1)
-        body+='<a href="#road-map" class="year-roadmap-cta"><span class="year-map-art" aria-hidden="true">'+b.icon('map')+'</span><span><strong>'+label+' BVSc Road Map</strong><span class="rx-hand">'+e(CONTENT['roadmaps'][str(year)]['description'])+'</span></span><span class="year-roadmap-arrow" aria-hidden="true">'+b.icon('arrow')+'</span></a>'
+        body+='<a href="'+path+'roadmap/" class="year-roadmap-cta"><span class="year-map-art" aria-hidden="true">'+b.icon('map')+'</span><span><strong>'+label+' BVSc Road Map</strong><span class="rx-hand">'+e(CONTENT['roadmaps'][str(year)]['description'])+'</span></span><span class="year-roadmap-arrow" aria-hidden="true">'+b.icon('arrow')+'</span></a>'
         body+='<span id="books" class="anchor-alias"></span><div class="year-subject-sections">'
         for i,subject in enumerate(y['subjects']):
             name=subject['name'];own=[r for r in books if r['year']==year and r['subject']==name];ic,tone=subject_icon(name)
@@ -81,6 +81,8 @@ def render(b):
             if name=='Veterinary Biochemistry':body+='<p class="year-outline-note">Biochemistry is included in the 1st Year outline PDF.</p>'
             body+='<h3 class="year-books-heading">'+b.icon('book')+'<span>Books</span></h3>'+subject_books(b,own)+'</section>'
             if i==0:body+='<p class="year-margin-note">'+e(copy[str(year)])+'</p>'
-        body+='</div><details class="syllabus year-roadmap-details" id="road-map"><summary>'+e(label)+' Road Map '+b.icon('map')+'</summary><ol class="topic-list">'+''.join('<li>'+e(step)+'</li>' for step in CONTENT['roadmaps'][str(year)]['steps'])+'</ol>'+b.link(outline_url(year),'Full '+label+' Course Outline (PDF) '+b.icon('paper'),'year-full-outline')
+        body+='</div><details class="syllabus year-roadmap-details" id="road-map"><summary>'+e(label)+' Road Map '+b.icon('map')+'</summary>'+b.link(path+'roadmap/','Explore the complete '+label+' Roadmap '+b.icon('arrow'),'year-full-outline')+'<ol class="topic-list">'+''.join('<li>'+e(step)+'</li>' for step in CONTENT['roadmaps'][str(year)]['steps'])+'</ol>'+b.link(outline_url(year),'Full '+label+' Course Outline (PDF) '+b.icon('paper'),'year-full-outline')
         body+=''.join(roadmap(b,subject['name'],subject['slug']) for subject in y['subjects'])+'</details><p class="source-note">Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.</p></div>'
         b.write_page(path,label+' BVSc Notes, Books & Course Outline',desc,body,[(label+' Course Outline',outline_url(year)),(label+' Road Map',path+'#road-map')]+[(subject['name'],path+'#'+subject['slug']) for subject in y['subjects']]);notes_page(b,y)
+    from roadmaps import render as render_roadmaps
+    render_roadmaps(b)

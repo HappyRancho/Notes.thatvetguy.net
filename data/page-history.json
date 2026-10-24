@@ -1,51 +1,67 @@
 {
   "/": {
-    "sha256": "df6f9b550fa2a1d870072621e3b2b5eb352212069f1f8dd44d927376d6ffe623",
-    "modified": "2026-10-20"
+    "sha256": "2e5bad893f01e22c291f455ec362d79087db99a0b3452b7506ba1b5b4929ff23",
+    "modified": "2026-10-24"
   },
   "/bvsc/": {
     "sha256": "70e6ac1a99851ce259ce33fb80f11e02b962c2759425e09c73a569450a719796",
     "modified": "2026-10-20"
   },
   "/bvsc/year-1/": {
-    "sha256": "cf847bdc864214c2a52bc392835c3ae220ee01e28d3d9f63a00193ef4e31356c",
-    "modified": "2026-10-20"
+    "sha256": "14351fb89fc69fe9c65e2ed983724d95c0fd499ca610a90b090acbeb1810a76d",
+    "modified": "2026-10-24"
   },
   "/bvsc/year-1/notes/": {
     "sha256": "d72800a7b1d6c663d3e153c33ce4c0e974b9bf4c71d9806059679c33a0d236fc",
     "modified": "2026-10-20"
   },
   "/bvsc/year-2/": {
-    "sha256": "4f1026b7aea4db6f01b6a9a9e754c0298dd5ec8e5d639996a77c2b007491112e",
-    "modified": "2026-10-20"
+    "sha256": "72ac503afa094930ff5efb66b0df51a9f23d6c9733b258261a99835e10f26a40",
+    "modified": "2026-10-24"
   },
   "/bvsc/year-2/notes/": {
     "sha256": "70b357fc1b8a9ba8182cb5860f681fb517a43a68356595b1e17e9c5c2e6e8164",
     "modified": "2026-10-20"
   },
   "/bvsc/year-3/": {
-    "sha256": "3447ba90a95a88d0480b8931b062a41019899fb376b95290af2c00bbb0e8eba7",
-    "modified": "2026-10-20"
+    "sha256": "1d3618dd86e0b8998ce36423953f3da50a26843051ae9e29978c57c6d00aed7e",
+    "modified": "2026-10-24"
   },
   "/bvsc/year-3/notes/": {
     "sha256": "b07471a9a58aa1b1ec78e4155fcda4b64c1718f3879d36d0a7105963cee7150c",
     "modified": "2026-10-20"
   },
   "/bvsc/year-4/": {
-    "sha256": "5723ddf70242d05875e1ef48ec7ef1711fe112f4241141103cdb5cfca82b02ea",
-    "modified": "2026-10-20"
+    "sha256": "3f2ebc0aec3541dbd15dfbcd2e95b060a9bc10de51179dc3d790db43d5b0e9db",
+    "modified": "2026-10-24"
   },
   "/bvsc/year-4/notes/": {
     "sha256": "c15060d0043cb5e35af3625ccab8b590a19ed385694809f51a2311ab7a0fe767",
     "modified": "2026-10-20"
+  },
+  "/bvsc/year-1/roadmap/": {
+    "sha256": "9203498942b8c86072ba6eae46e96c664c4d77e53d5416dc894bff5f5fec2a93",
+    "modified": "2026-10-24"
+  },
+  "/bvsc/year-2/roadmap/": {
+    "sha256": "5efd69e61fa66bae1566197b38e6e72b77d184a83080cf46381d0d2ba196c247",
+    "modified": "2026-10-24"
+  },
+  "/bvsc/year-3/roadmap/": {
+    "sha256": "a818205980fa97cc091ee4ab3962f217cf036ff044dae17d0d10791c82d98296",
+    "modified": "2026-10-24"
+  },
+  "/bvsc/year-4/roadmap/": {
+    "sha256": "eb23486a556a62853f325d7a1dde13fce16a089d8bafcb8b1c406b1f58105c39",
+    "modified": "2026-10-24"
   },
   "/objective/": {
     "sha256": "512b18d5edb91259b3620c2da29932ef2ffd306940ea992b9c352bf69f6fbf6a",
     "modified": "2026-10-20"
   },
   "/study-tools/": {
-    "sha256": "c62d90515f953c9a2b03231d0b40638d23392954142214f0c9e859dec014b646",
-    "modified": "2026-10-20"
+    "sha256": "3c97d31cd49ffe3671be4c78cfeb11a12ccb6e3f4a56fbdcaec64dc30d747637",
+    "modified": "2026-10-24"
   },
   "/about/": {
     "sha256": "3c53ad38d3cfe438bc99b66aa7e2d93d4823904f9dda0bf96b9c7b835a6e05da",

@@ -87,6 +87,11 @@ def structured(path,title,description,items,home,body,records,date):
     site={'@type':'WebSite','@id':siteid,'name':'Notes.ThatVetGuy','alternateName':'Rx Notes by ThatVetGuy','url':BASE+'/','inLanguage':'en','publisher':{'@id':orgid},'potentialAction':{'@type':'SearchAction','target':{'@type':'EntryPoint','urlTemplate':BASE+'/search/?q={search_term_string}'},'query-input':'required name=search_term_string'}}
     page={'@type':'CollectionPage' if items is not None else 'WebPage','@id':BASE+path+'#webpage','name':title,'url':BASE+path,'description':description,'dateModified':date,'inLanguage':'en','isPartOf':{'@id':siteid},'author':{'@id':personid},'publisher':{'@id':orgid}}
     graph=[org,person,site,page]
+    if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):
+        from roadmaps import DATA as ROADMAPS
+        yr=path.split('/')[2][-1]
+        guide={'@type':'LearningResource','@id':BASE+path+'#guide','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+yr,'learningResourceType':'Study guide','teaches':[s['name'] for s in ROADMAPS['years'][yr]['subjects']],'inLanguage':'en','author':{'@id':personid},'dateModified':date,'citation':[s['title']+'; '+s['location'] for s in ROADMAPS['academicSources'][:2]]}
+        graph.append(guide);page['hasPart']={'@id':guide['@id']}
     if items is not None:
         listing={'@type':'ItemList','@id':BASE+path+'#contents','numberOfItems':len(items),'itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'url':u if u.startswith('https:') else BASE+u} for i,(n,u) in enumerate(items)]}
         graph.append(listing);page['mainEntity']={'@id':listing['@id']}

@@ -54,7 +54,7 @@ def tools(b):
     for i,(key,title,steps) in enumerate(guides):
         ic,tone=[('spark','purple'),('phone','mint'),('book','peach')][i]
         tool_rows+='<details class="guide-section" id="'+key+'"'+(' open' if i==0 else '')+'><summary><span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><h2>'+title+'</h2>'+b.icon('chevron')+'</summary><div class="group-body"><ol class="guide-steps">'+''.join('<li><h3>'+e(t)+'</h3><p>'+e(d)+'</p></li>' for t,d in steps)+'</ol></div></details>'
-    tip_rows='<section id="tips"><h2 class="sr-only">Year Roadmaps</h2><div class="rx-row-drawer">'+''.join(row(CONTENT['tips'][y-1]['title'],'/bvsc/year-'+str(y)+'/#road-map','map',['yellow','peach','sky','mint'][y-1]) for y in range(1,5))+'</div></section>'
+    tip_rows='<section id="tips"><h2 class="sr-only">Year Roadmaps</h2><div class="rx-row-drawer">'+''.join(row(CONTENT['tips'][y-1]['title'],'/bvsc/year-'+str(y)+'/roadmap/','map',['yellow','peach','sky','mint'][y-1]) for y in range(1,5))+'</div></section>'
     body+='<section class="content-section" data-home-tabs>'+tabs('study-page',[('Tools','/study-tools/#tools'),('Tips','/study-tools/#tips')])+panel('study-page',0,tool_rows)+panel('study-page',1,tip_rows)+'</section></div>'
     b.write_page('/study-tools/','Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'],body,[(t,b.ROUTES[k]) for k,t,_ in guides])
 

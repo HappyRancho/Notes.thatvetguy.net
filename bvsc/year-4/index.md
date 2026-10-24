@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-24 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/4th Year Notes & Books
 
@@ -6,7 +6,7 @@
 
 4th Year BVSc & AH notes, books and study roadmaps, organised by subject.
 
-[4th Year BVSc Road MapFrom notes to clinical thinking.](#road-map)
+[4th Year BVSc Road MapFrom notes to clinical thinking.](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
 ## Veterinary Medicine
 
@@ -76,7 +76,7 @@ Reading recommendation · no linked copy available.
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
-4th Year Road Map 
+4th Year Road Map [Explore the complete 4th Year Roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
 - Organise Medicine, Surgery and Gynaecology notes by your syllabus topics.
 - Connect each case discussion with the relevant subject notes and practical record.
@@ -108,4 +108,4 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.

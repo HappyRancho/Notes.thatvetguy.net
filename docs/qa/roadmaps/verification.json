@@ -1,0 +1,66 @@
+{
+  "reviewCommit": "97cfbdb03aece118db6f78258b5efbe3e7e15364",
+  "workflowRun": 40105079175,
+  "roadmaps": {
+    "views": 48,
+    "errors": [],
+    "interactions": [
+      "Four year CTA routes, active year navigation, all credit targets, subject/source disclosures, internship anchor, no-JS content and reduced motion."
+    ]
+  },
+  "homepage": {
+    "views": 12,
+    "errors": [],
+    "interactions": [
+      "All years and both Objective/Tools panels, keyboard arrows/Home/End, menus, search, roadmap anchors, Objective resource links, Explore more, all question banks and five drug references, no-JS year links."
+    ]
+  },
+  "regression": {
+    "phase": "mockup-after",
+    "views": 32,
+    "bugs": [],
+    "lighthouse": 4,
+    "scoreFailures": [],
+    "errors": []
+  },
+  "lighthouse": [
+    {
+      "path": "/bvsc/year-1/roadmap/",
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "lcpMs": 1963.77015,
+      "cls": 0
+    },
+    {
+      "path": "/bvsc/year-2/roadmap/",
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "lcpMs": 1962.7296000000001,
+      "cls": 0
+    },
+    {
+      "path": "/bvsc/year-3/roadmap/",
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "lcpMs": 1959.37665,
+      "cls": 0
+    },
+    {
+      "path": "/bvsc/year-4/roadmap/",
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "lcpMs": 1962.4477499999998,
+      "cls": 0
+    }
+  ],
+  "sources": "docs/roadmaps-research.md",
+  "note": "Review-build measurements. Production deployment is verified separately."
+}
