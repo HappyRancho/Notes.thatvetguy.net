@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-24 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year Notes & Books
 
@@ -6,7 +6,7 @@
 
 2nd Year BVSc & AH notes, books and study roadmaps, organised by subject.
 
-[2nd Year BVSc Road MapConnect the foundations.](#road-map)
+[2nd Year BVSc Road MapConnect the foundations.](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
 
 ## Veterinary Biochemistry
 
@@ -90,7 +90,7 @@ Link nutritional principles with feeds and feed processing.
 
 Reading recommendation · no linked copy available.
 
-2nd Year Road Map 
+2nd Year Road Map [Explore the complete 2nd Year Roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
 
 - Use your syllabus to plan Biochemistry, Microbiology and Pathology together.
 - Keep Genetics and Nutrition calculations beside the worked examples in your notes.
@@ -128,4 +128,4 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.

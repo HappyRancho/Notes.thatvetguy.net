@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-24 -->
 
 [Home](https://notes.thatvetguy.net/)/Tips & Tools for Vet Study
 
@@ -70,6 +70,6 @@ Record the author, edition, species and date where relevant. A saved file still 
 
 ## Year Roadmaps
 
-[1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/#road-map)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/#road-map)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/#road-map)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/#road-map)
+[1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-24 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Notes & Books
 
@@ -6,7 +6,7 @@
 
 3rd Year BVSc & AH notes, books and study roadmaps, organised by subject.
 
-[3rd Year BVSc Road MapBring the subjects together.](#road-map)
+[3rd Year BVSc Road MapBring the subjects together.](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
 ## Veterinary Pharmacology and Toxicology
 
@@ -104,7 +104,7 @@ No book recommendation listed yet. Check your department’s prescribed practica
 
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
-3rd Year Road Map 
+3rd Year Road Map [Explore the complete 3rd Year Roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
 - Build a subject checklist from your current university syllabus.
 - Connect Pharmacology and Parasitology topics with Public Health concepts.
@@ -154,4 +154,4 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.

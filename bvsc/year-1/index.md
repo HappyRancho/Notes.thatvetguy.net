@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-24 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/1st Year Notes & Books
 
@@ -6,7 +6,7 @@
 
 1st Year BVSc & AH notes, books and study roadmaps, organised by subject.
 
-[1st Year BVSc Road MapYour guide to a strong start.](#road-map)
+[1st Year BVSc Road MapYour guide to a strong start.](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
 
 ## Veterinary Anatomy
 
@@ -76,7 +76,7 @@ A broader reference for breeds, production systems and farm management.
 
 Reading recommendation · no linked copy available.
 
-1st Year Road Map 
+1st Year Road Map [Explore the complete 1st Year Roadmap ](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
 
 - Keep your university syllabus beside your subject notes.
 - Connect Anatomy structures with Physiology functions; revise diagrams together.
@@ -102,4 +102,4 @@ Roadmap
 
 Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.
