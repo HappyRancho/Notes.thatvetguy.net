@@ -24,10 +24,10 @@ def stages(b,year):
 
 def glance(b,year,d):
     total=d['theory']+d['practical'];r=DATA['rules']
-    fourth_stat=('210','teaching days','minimum; annual exam days excluded') if year==1 else ('3 × 40','internal assessments','three scheduled tests; 40 marks each')
+    fourth_stat=('210','teaching days','minimum; annual exam days excluded') if year==1 else ('3 × 40','internal marks','three scheduled tests; 40 marks each')
     third=('1.5','years','18 months before the separate internship') if year==4 else ('50%','to pass','theory and practical, counted separately')
     if year==4:fourth_stat=('50%','to pass','theory and practical, counted separately')
-    stats=[(str(total),'credits',f'{d["theory"]} theory + {d["practical"]} practical'),(str(len(d['subjects'])),'core courses',', '.join(s['short'] for s in d['subjects']) if year==1 else 'the complete professional-year subject list'),third,fourth_stat]
+    stats=[(str(total),'credits',f'{d["theory"]} theory + {d["practical"]} practical'),(str(len(d['subjects'])),'core courses','Anatomy · Physiology · LPM' if year==1 else 'Theory and practical courses'),third,fourth_stat]
     body='<section class="road-card">'+section(b,'Year at a glance','spark')+'<ul class="road-stats">'
     for tone,(value,label,detail) in zip(['yellow','peach','sky','mint'],stats):
         body+='<li class="'+tone+'"><strong>'+e(value)+'</strong><span>'+e(label)+'</span><small>'+e(detail)+'</small></li>'
@@ -83,9 +83,11 @@ def render(b):
         body=b.article_intro(label+' BVSc & AH Roadmap',description,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')])
         body=body.replace('container reading-page','container reading-page roadmap-page',1)
         # The shell, header and bottom navigation are the existing shared components.
+        body=body.replace('<h1>'+e(label+' BVSc & AH Roadmap')+'</h1>','<h1>'+e(label+' Roadmap')+'</h1>',1)
         body=body.replace('<p>'+e(description)+'</p>','<p class="road-hand">'+e(d['subtitle'])+'</p>',1)
-        body+=stages(b,year)+'<p class="road-scope">'+e(DATA['scope'])+'</p>'
-        if year in [1,2]:body+='<p class="road-outline-note"><strong>Course-outline note.</strong> '+e(d['outlineNote'])+'</p>'
+        body+=stages(b,year)+'<details class="road-academic-brief"><summary><span>MSVE 2016 · Syllabus &amp; outline notes</span>'+b.icon('chevron')+'</summary><div><p>'+e(DATA['scope'])+'</p>'
+        if year in [1,2]:body+='<p><strong>Course-outline note.</strong> '+e(d['outlineNote'])+'</p>'
+        body+='</div></details>'
         body+='<div class="roadmap-columns"><div class="roadmap-column">'+glance(b,year,d)+credits(b,year,d)+checkpoints(b,year)+'</div><div class="roadmap-column">'+playbook(b,year,d)+habits(b,d)
         if year==4:body+='<section class="road-card" id="internship">'+section(b,'Next stop: internship','stethoscope')+'<p>After passing the fourth professional and completing the required credits, the MSVE 2016 programme includes a separate compulsory 12-month rotating internship.</p><p>Follow your university’s posting schedule, supervision, logbook and completion requirements. Clinical Practices II is part of the fourth professional; it is not the internship.</p></section>'
         body+='</div></div>'+sources(b,year,d)+'</div>'

@@ -22,6 +22,8 @@ for key,year in data['years'].items():
  assert html.count('class="road-check-track"')==4
  assert 'MSVE 2016' in html and 'current syllabus' in html
  assert 'LearningResource' in html and 'Sources &amp; academic notes' in html
+ assert '<details class="road-academic-brief">' in html and 'Syllabus &amp; outline notes' in html
+ assert f'<h1 id="{n}'+['st','nd','rd','th'][n-1]+'-year-roadmap">' in html
  assert '/assets/roadmaps.css?' in html and path in (ROOT/'sitemap.xml').read_text()
  assert path in (ROOT/'llms.txt').read_text() and (ROOT/path.strip('/')/'index.md').exists()
  assert path in (ROOT/'index.html').read_text() and path in (ROOT/f'bvsc/year-{n}/index.html').read_text()
