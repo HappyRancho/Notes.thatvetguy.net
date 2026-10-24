@@ -61,25 +61,25 @@
       "title": "1st Year Roadmap",
       "icon": "map",
       "tone": "yellow",
-      "url": "/bvsc/year-1/#road-map"
+      "url": "/bvsc/year-1/roadmap/"
     },
     {
       "title": "2nd Year Roadmap",
       "icon": "map",
       "tone": "peach",
-      "url": "/bvsc/year-2/#road-map"
+      "url": "/bvsc/year-2/roadmap/"
     },
     {
       "title": "3rd Year Roadmap",
       "icon": "map",
       "tone": "sky",
-      "url": "/bvsc/year-3/#road-map"
+      "url": "/bvsc/year-3/roadmap/"
     },
     {
       "title": "4th Year Roadmap",
       "icon": "map",
       "tone": "mint",
-      "url": "/bvsc/year-4/#road-map"
+      "url": "/bvsc/year-4/roadmap/"
     }
   ],
   "roadmaps": {
