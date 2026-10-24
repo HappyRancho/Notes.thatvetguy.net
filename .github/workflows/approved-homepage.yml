@@ -35,7 +35,7 @@ jobs:
             git push origin HEAD:homepage-approved-mockups
           fi
       - run: node scripts/homepage-qa.mjs
-        if: "!contains(github.event.head_commit.message, '[subject-row-fix]') && !contains(github.event.head_commit.message, '[collection-cards]') && !contains(github.event.head_commit.message, '[year-hubs]')"
+        if: "!contains(github.event.head_commit.message, '[subject-row-fix]') && !contains(github.event.head_commit.message, '[collection-cards]') && !contains(github.event.head_commit.message, '[year-hubs]') && !contains(github.event.head_commit.message, '[roadmap-spacing]')"
       - run: node scripts/collection-cards-qa.mjs
         if: contains(github.event.head_commit.message, '[collection-cards]')
       - run: node scripts/year-hubs-qa.mjs
