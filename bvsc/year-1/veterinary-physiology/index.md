@@ -4,20 +4,21 @@
 
 # Veterinary Physiology
 
-Topic-wise notes and TANUVAS material for 1st Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes12 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=4)[Recommended Books](#books)
+1st Year · 15 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=4)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-12
+5 units · 12 notes
 
-### Unit 1 – Blood, Cardiovascular, Nervous and Muscular Systems
+### Unit 1Blood, Cardiovascular, Nervous and Muscular Systems
 
-4
+4 notes
 
 PDF
 Blood Physiology and Cardiovascular System[Open Blood Physiology and Cardiovascular System](https://drive.google.com/file/d/1lN7rD4i7BjkxbDv0ZwMCFeVLdeoeHPcq/view?usp=sharing)
@@ -31,9 +32,9 @@ Nervous System[Open Nervous System](https://drive.google.com/file/d/1AVaAZetnsD5
 PDF
 Taste, Smell, Pain, Vision and Hearing Senses Physiology[Open Taste, Smell, Pain, Vision and Hearing Senses Physiology](https://drive.google.com/file/d/1rnhrgWdHAwd5ie3Dc2Vc1StxTIpWKzJ4/view?usp=sharing)
 
-### Unit 2 – Digestive and Respiratory Systems
+### Unit 2Digestive and Respiratory Systems
 
-2
+2 notes
 
 PDF
 Digestive System of Domestic Animals[Open Digestive System of Domestic Animals](https://drive.google.com/file/d/1Il-WwlH3w_RXc4HBlfcFV2f5HXAYQRUo/view?usp=sharing)
@@ -41,9 +42,9 @@ Digestive System of Domestic Animals[Open Digestive System of Domestic Animals](
 PDF
 Respiratory System of Domestic Animals[Open Respiratory System of Domestic Animals](https://drive.google.com/file/d/1ma5nC3Rga-ZTl65bH5E4g3hKRSFZ17ub/view?usp=sharing)
 
-### Unit 3 – Excretory and Endocrine Systems
+### Unit 3Excretory and Endocrine Systems
 
-2
+2 notes
 
 PDF
 Endocrine System of Domestic Animals[Open Endocrine System of Domestic Animals](https://drive.google.com/file/d/1AAJpZ_NP5THpdSXhKc2pO9JXg-e1XrRd/view?usp=sharing)
@@ -51,9 +52,9 @@ Endocrine System of Domestic Animals[Open Endocrine System of Domestic Animals](
 PDF
 Excretory System of Domestic Animals[Open Excretory System of Domestic Animals](https://drive.google.com/file/d/115QHy3OdWUAi2dhZVuwFCFA7qIku7s34/view?usp=sharing)
 
-### Unit 4 – Reproduction, Lactation, Growth and Environmental Physiology
+### Unit 4Reproduction, Lactation, Growth and Environmental Physiology
 
-3
+3 notes
 
 PDF
 Growth and Environmental Physiology of Domestic Animals[Open Growth and Environmental Physiology of Domestic Animals](https://drive.google.com/file/d/1G4VB6Ruf6scRbOGp1wIK3aw2LVehJ3Cr/view?usp=sharing)
@@ -66,41 +67,33 @@ Reproduction System of Domestic Animals[Open Reproduction System of Domestic Ani
 
 ### Additional subject notes
 
-1
+1 notes
 
 PDF
 Veterinary Physiology Note by KVASUKVASU[Open Veterinary Physiology Note by KVASU](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
 
 ## TANUVAS Notes
 
-3
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### Additional subject notes
-
-1
+3 notes
 
 PDF
 Veterinary Physiology Note by TANUVASTANUVAS[Open Veterinary Physiology Note by TANUVAS](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
 
-### VPB-111 · Veterinary Physiology-I
-
-1
-
 PDF
 VPB -111 Veterinary Physiology-ITANUVAS · listed by VetBVSc[Open VPB -111 Veterinary Physiology-I](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-111.pdf)
-
-### VPB-121 · Veterinary Physiology-II
-
-1
 
 PDF
 VPB -121 Veterinary Physiology-IITANUVAS · listed by VetBVSc[Open VPB -121 Veterinary Physiology-II](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+2 books
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -118,7 +111,13 @@ A companion for understanding mechanisms before memorising values.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
 

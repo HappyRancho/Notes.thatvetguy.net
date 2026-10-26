@@ -4,20 +4,21 @@
 
 # Animal Genetics and Breeding
 
-Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes45 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=6)[Recommended Books](#books)
+2nd Year · 48 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=6)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-45
+3 units · 45 notes
 
-### Unit 1 – Biostatistics and Computer Application
+### Unit 1Biostatistics and Computer Application
 
-20
+20 notes
 
 PDF
 Analysis of Data using MS Excel[Open Analysis of Data using MS Excel](https://drive.google.com/file/d/16_dng4BTAZRQiTFoac6SFE0X8nZ497ZD/view)
@@ -79,9 +80,9 @@ Tests of Significance – t-test, Z-test, Chi-square test and F-test[Open Tests 
 PDF
 Types and Conversions of Number System[Open Types and Conversions of Number System](https://drive.google.com/file/d/1ggitlMRXACXkDkTHaRFk3aNRmh9oQyUs/view)
 
-### Unit 2 – Principles of Animal and Population Genetics
+### Unit 2Principles of Animal and Population Genetics
 
-12
+12 notes
 
 PDF
 Breeding Value, Variance, Genotype-Environment Correlation and Interaction[Open Breeding Value, Variance, Genotype-Environment Correlation and Interaction](https://drive.google.com/file/d/1gMxJoliJRKhQeHVcPPFppb5jO9kk0CJ5/view)
@@ -119,9 +120,9 @@ Overview of Mendelian Genetics[Open Overview of Mendelian Genetics](https://driv
 PDF
 Population Genetics – Hardy Weinberg Law[Open Population Genetics – Hardy Weinberg Law](https://drive.google.com/file/d/1bNO7SBq4tiS0ih60UjKWGlCSOfmrO4bS/view)
 
-### Unit 3 – Principles of Animal Breeding
+### Unit 3Principles of Animal Breeding
 
-13
+13 notes
 
 PDF
 Breeding policy strategies for genetic improvement of Cattle and Buffaloes in India[Open Breeding policy strategies for genetic improvement of Cattle and Buffaloes in India](https://drive.google.com/file/d/100rc1u1L1Wrb4l3_AjSCPjm4Ru1PrQs4/view?usp=sharing)
@@ -164,34 +165,26 @@ West Bengal Goat Breeding Policy[Open West Bengal Goat Breeding Policy](https://
 
 ## TANUVAS Notes
 
-3
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### AGB-111 · Bio- Statistics and Computer Application
-
-1
+3 notes
 
 PDF
 AGB 111 Bio- Statistics and Computer ApplicationTANUVAS · listed by VetBVSc[Open AGB 111 Bio- Statistics and Computer Application](https://vetbvsc.in/wp-content/uploads/2025/02/agb-111-bio-statistics-and-computer-application-1.pdf)
 
-### AGB-121 · Principles Of Animal Genetics And Population Genetics
-
-1
-
 PDF
 AGB 121 Principles Of Animal Genetics And Population GeneticsTANUVAS · listed by VetBVSc[Open AGB 121 Principles Of Animal Genetics And Population Genetics](https://vetbvsc.in/wp-content/uploads/2025/02/agb-121-principles-of-animal-genetics-and-population-genetics-1.pdf)
-
-### AGB-211 · Livestock and Poultry Breeding
-
-1
 
 PDF
 AGB 211 Livestock and Poultry BreedingTANUVAS · listed by VetBVSc[Open AGB 211 Livestock and Poultry Breeding](https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -201,7 +194,13 @@ A subject-focused companion for inheritance, population genetics and breeding pr
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 

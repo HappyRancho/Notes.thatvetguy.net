@@ -4,27 +4,28 @@
 
 # Veterinary Gynaecology and Obstetrics
 
-Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes11 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=6)[Recommended Books](#books)
+4th Year · 13 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=6)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-11
+4 units · 11 notes
 
-### Unit 1 – Veterinary Gynaecology
+### Unit 1Veterinary Gynaecology
 
-1
+1 notes
 
 PDF
 Veterinary Gynaecology Note by KVASUKVASU[Open Veterinary Gynaecology Note by KVASU](https://drive.google.com/file/d/1mlDj00eiatKj0EXaz7RV-J4R70vaP4V1/view?usp=sharing)
 
-### Unit 2 – Veterinary Obstetrics
+### Unit 2Veterinary Obstetrics
 
-2
+2 notes
 
 PDF
 Veterinary Obstetrics[Open Veterinary Obstetrics](https://drive.google.com/file/d/1XAlIcqJsEZwptRcQyG6OK6aGkneVV7-n/view?usp=sharing)
@@ -32,9 +33,9 @@ Veterinary Obstetrics[Open Veterinary Obstetrics](https://drive.google.com/file/
 PDF
 Veterinary Obstetrics Note by KVASUKVASU[Open Veterinary Obstetrics Note by KVASU](https://drive.google.com/file/d/1kxVOV0V-yP7jhgxAJUdhLmWOs4BaO3A1/view?usp=sharing)
 
-### Unit 3 – Veterinary Andrology and AI
+### Unit 3Veterinary Andrology and AI
 
-2
+2 notes
 
 PDF
 Veterinary Andrology and AI[Open Veterinary Andrology and AI](https://drive.google.com/file/d/1WMGHtLML8XYPIuhdcKZxbg-pNTYhCVQZ/view?usp=sharing)
@@ -44,7 +45,7 @@ Veterinary Andrology and Artificial Insemination Note by KVASUKVASU[Open Veterin
 
 ### Additional subject notes
 
-6
+6 notes
 
 PDF
 Caesarean Section in Farm Animals[Open Caesarean Section in Farm Animals](https://drive.google.com/file/d/1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B/view?usp=sharing)
@@ -66,13 +67,7 @@ Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google
 
 ## TANUVAS Notes
 
-2
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### Unit 1 – Veterinary Gynaecology
-
-2
+2 notes
 
 PDF
 Veterinary Gynaecology Note by TANUVAS part 1TANUVAS[Open Veterinary Gynaecology Note by TANUVAS part 1](https://drive.google.com/file/d/11YlCJulYov70ZCtrc05P3daHtp2VFn-r/view?usp=sharing)
@@ -80,9 +75,15 @@ Veterinary Gynaecology Note by TANUVAS part 1TANUVAS[Open Veterinary Gynaecology
 PDF
 Veterinary Gynaecology Note by TANUVAS part 2TANUVAS[Open Veterinary Gynaecology Note by TANUVAS part 2](https://drive.google.com/file/d/10MYo0iILewFOJoY75HkdlLelJ50SlIRY/view?usp=sharing)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -92,7 +93,13 @@ Follow reproductive physiology through fertility, pregnancy and obstetrical prob
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
 

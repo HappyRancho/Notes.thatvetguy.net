@@ -4,20 +4,21 @@
 
 # Veterinary Pathology
 
-Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes48 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=3)[Recommended Books](#books)
+2nd Year · 52 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=3)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-48
+6 units · 48 notes
 
-### Unit 1 – General Veterinary Pathology
+### Unit 1General Veterinary Pathology
 
-10
+10 notes
 
 PDF
 Causes of Disease or Etiology[Open Causes of Disease or Etiology](https://drive.google.com/file/d/12qH_M5E9iEUuN554pPOjrm-jDwd-pjUP/view)
@@ -49,9 +50,9 @@ Pigmentations and Calcification[Open Pigmentations and Calcification](https://dr
 PDF
 Wound Healing including Growth Factors[Open Wound Healing including Growth Factors](https://drive.google.com/file/d/13-JlmRCEUMssX6gp0u3pAKFx-DAnzg9I/view)
 
-### Unit 2 – Systemic Veterinary Pathology
+### Unit 2Systemic Veterinary Pathology
 
-12
+12 notes
 
 PDF
 Pathology of Cardiovascular System[Open Pathology of Cardiovascular System](https://drive.google.com/file/d/1J_6IwfzXz2KOBwndR1ObLLO-Se8FD0t-/view)
@@ -89,9 +90,9 @@ Pathology of Skin and Appendages[Open Pathology of Skin and Appendages](https://
 PDF
 Pathology of Urinary System[Open Pathology of Urinary System](https://drive.google.com/file/d/1vejNW1hNB6cs85MtLty_laCHunUyIHP0/view)
 
-### Unit 3 – Animal Oncology, Veterinary Clinical Pathology and Necropsy
+### Unit 3Animal Oncology, Veterinary Clinical Pathology and Necropsy
 
-10
+10 notes
 
 PDF
 Animal Oncology Note[Open Animal Oncology Note](https://drive.google.com/file/d/1D7PklFw14WQM4AnH7wqO3dMRR5UXjqC7/view?usp=sharing)
@@ -123,9 +124,9 @@ Microbiological Examination of Clinical Specimens[Open Microbiological Examinati
 PDF
 Necropsy (Post Mortem Examination) Note[Open Necropsy (Post Mortem Examination) Note](https://drive.google.com/file/d/16nSz6y1Wnlnn2dZPdkRX6ZqD7WIhWi4G/view?usp=sharing)
 
-### Unit 4 – Pathology of Infectious and Non-Infectious Diseases of Domestic Animals
+### Unit 4Pathology of Infectious and Non-Infectious Diseases of Domestic Animals
 
-8
+8 notes
 
 PDF
 Pathology of Bacterial Infection[Open Pathology of Bacterial Infection](https://drive.google.com/file/d/1m28FqCdMAkj-cg0Xn8xFWtaW5VZWZiID/view)
@@ -151,9 +152,9 @@ Pathology of Viral and Prion Diseases[Open Pathology of Viral and Prion Diseases
 PDF
 Pathology of Viral Diseases by KVAFSUKVAFSU[Open Pathology of Viral Diseases by KVAFSU](https://drive.google.com/file/d/1d1NoquFaJGHxPPgxJNi1phiDh4cH3hCO/view?usp=sharing)
 
-### Unit 5 – Avian Pathology
+### Unit 5Avian Pathology
 
-6
+6 notes
 
 PDF
 Avian Pathology of Bacterial Diseases[Open Avian Pathology of Bacterial Diseases](https://drive.google.com/file/d/1JIWx6e_zt7HhLvMMEGXjTxo4LZZPZzFC/view)
@@ -173,9 +174,9 @@ Avian Pathology of Parasitic Diseases[Open Avian Pathology of Parasitic Diseases
 PDF
 Avian Pathology of Viral Diseases[Open Avian Pathology of Viral Diseases](https://drive.google.com/file/d/1qXR72fmDHTDJF6OookkhY1RYfR42TiNA/view)
 
-### Unit 6 – Pathology of Diseases of Laboratory and Wild Animals
+### Unit 6Pathology of Diseases of Laboratory and Wild Animals
 
-2
+2 notes
 
 PDF
 Pathology of Diseases of Laboratory and Wild Animals[Open Pathology of Diseases of Laboratory and Wild Animals](https://drive.google.com/file/d/1UaPagZbp-7nxLzWKtAqMI0mkn95ZjwlF/view)
@@ -185,41 +186,29 @@ Pathology of Diseases of Laboratory Animals[Open Pathology of Diseases of Labora
 
 ## TANUVAS Notes
 
-4
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### VPP-211 · General Veterinary Pathology
-
-1
+4 notes
 
 PDF
 VPP 211 General Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 211 General Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-211-general-veterinary-pathology-1.pdf)
 
-### VPP-221 · Systemic Veterinary Pathology
-
-1
-
 PDF
 VPP 221 Systemic Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 221 Systemic Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-221-systemic-veterinary-pathology-1.pdf)
-
-### VPP-311 · Special Veterinary Pathology
-
-1
 
 PDF
 VPP 311 Special Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 311 Special Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-311-special-veterinary-pathology-1.pdf)
 
-### VPP-321 · Avian Pathology
-
-1
-
 PDF
 VPP 321 Avian PathologyTANUVAS · listed by VetBVSc[Open VPP 321 Avian Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-321-avian-pathology-1.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -229,7 +218,13 @@ Start with injury, inflammation and repair before moving to individual diseases.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
 

@@ -4,17 +4,19 @@
 
 # Veterinary Clinical Practices II
 
-Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes0 resources](#notes)[TANUVAS Notes0 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=9)[Recommended Books](#books)
+4th Year · 0 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=9)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-0
-Topic-wise notes coming soon
+0 notes
+
+Notes coming soon
 
 Nothing here yet. Even a calf needs a minute to stand.
 
@@ -22,17 +24,29 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 ## TANUVAS Notes
 
-0
+0 notes
 
-No separate TANUVAS collection is listed for this subject yet.
+Notes coming soon
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+Nothing here yet. Even a calf needs a minute to stand.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
 ## Recommended Books
 
+0 books
+
+Reading recommendations. Expand a title for guidance.
+
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
 

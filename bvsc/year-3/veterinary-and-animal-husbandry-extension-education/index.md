@@ -4,20 +4,21 @@
 
 # Veterinary and Animal Husbandry Extension Education
 
-Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes23 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=9)[Recommended Books](#books)
+3rd Year · 25 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=9)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-23
+8 units · 23 notes
 
-### Unit 1 – Livestock Based Livelihoods and Their Evolution
+### Unit 1Livestock Based Livelihoods and Their Evolution
 
-2
+2 notes
 
 PDF
 Livestock based Livelihood and their Evolution Note[Open Livestock based Livelihood and their Evolution Note](https://drive.google.com/file/d/1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5/view?usp=sharing)
@@ -25,9 +26,9 @@ Livestock based Livelihood and their Evolution Note[Open Livestock based Livelih
 PDF
 Livestock Based Livelihoods and Their Evolution[Open Livestock Based Livelihoods and Their Evolution](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
 
-### Unit 2 – Extension Education and Development
+### Unit 2Extension Education and Development
 
-4
+4 notes
 
 PDF
 Extension Education and Development[Open Extension Education and Development](https://drive.google.com/file/d/18ydS53eeJomMPxTVthCRR9CJ0qa67NDT/view)
@@ -41,9 +42,9 @@ Rural Sociology in Veterinary Extension[Open Rural Sociology in Veterinary Exten
 PDF
 Rural Sociology in Veterinary Extension Note[Open Rural Sociology in Veterinary Extension Note](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
 
-### Unit 4 – Transfer of Technology for Livestock Development
+### Unit 4Transfer of Technology for Livestock Development
 
-3
+3 notes
 
 PDF
 Dairy Development Programme and Concept of Cooperation[Open Dairy Development Programme and Concept of Cooperation](https://drive.google.com/file/d/1RCpoytcPU1hPiv5Qy0I_j-rvf9l4D4G-/view)
@@ -54,9 +55,9 @@ Transfer of Technology for Livestock Development Overall Note[Open Transfer of T
 PDF
 Transfer of Technology Projects of ICARICAR[Open Transfer of Technology Projects of ICAR](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
 
-### Unit 5 – Communication and Extension Teaching Methods
+### Unit 5Communication and Extension Teaching Methods
 
-2
+2 notes
 
 PDF
 Communication and Extension Teaching Methods[Open Communication and Extension Teaching Methods](https://drive.google.com/file/d/11ch0vUSzvqqMMkGy7nAHDwuLbVhkuQp6/view)
@@ -64,9 +65,9 @@ Communication and Extension Teaching Methods[Open Communication and Extension Te
 PDF
 Communication and Extension teaching methods Note[Open Communication and Extension teaching methods Note](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
 
-### Unit 6 – Livestock Economics and Marketing
+### Unit 6Livestock Economics and Marketing
 
-4
+4 notes
 
 PDF
 Livestock Economics[Open Livestock Economics](https://drive.google.com/file/d/1n6fzY9scu5Ca4pNixtT_bWZ8uzRFi6bU/view)
@@ -80,9 +81,9 @@ Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and 
 PDF
 Livestock Marketing- Concept, Structure and Classification[Open Livestock Marketing- Concept, Structure and Classification](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
 
-### Unit 7 – Livestock Entrepreneurship
+### Unit 7Livestock Entrepreneurship
 
-6
+6 notes
 
 PDF
 Accounting – Personnel and Resource Management[Open Accounting – Personnel and Resource Management](https://drive.google.com/file/d/1tu6Ow71sO9QoI4xQpu5AQ4v0I7stiIJY/view)
@@ -102,43 +103,39 @@ Livestock Entrepreneurship Overall Note[Open Livestock Entrepreneurship Overall 
 PDF
 Project Appraisal and Capital Budgeting[Open Project Appraisal and Capital Budgeting](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
 
-### Unit 8 – Information and Communication Technology
+### Unit 8Information and Communication Technology
 
-1
+1 notes
 
 PDF
 Information and Communication Technology Note[Open Information and Communication Technology Note](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
 
-### Unit 9 – Contemporary Issues in Livestock Enterprises
+### Unit 9Contemporary Issues in Livestock Enterprises
 
-1
+1 notes
 
 PDF
 Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livestock Enterprises](https://drive.google.com/file/d/12EAS1o4GHCpAvou4pASwrJD-_THHhGeX/view)
 
 ## TANUVAS Notes
 
-2
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### VAE-311 · Principles And Techniques of Veterinary And Animal Husbandry Extension
-
-1
+2 notes
 
 PDF
 VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionTANUVAS · listed by VetBVSc[Open VAE-311 Principles And Techniques of Veterinary And Animal Husbandry Extension](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae311.pdf)
 
-### VAE-321 · Livestock Economics, Marketing And BusinessManagement
-
-1
-
 PDF
 VAE-321 Livestock Economics, Marketing And Business ManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And Business Management](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -148,7 +145,13 @@ Connect extension methods with communication and livestock development.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
 

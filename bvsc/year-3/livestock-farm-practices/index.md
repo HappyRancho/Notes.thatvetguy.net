@@ -4,37 +4,50 @@
 
 # Livestock Farm Practices
 
-Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes1 resource](#notes)[TANUVAS Notes0 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=13)[Recommended Books](#books)
+3rd Year · 1 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=13)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-1
+1 unit · 1 note
 
 ### Subject notes
 
-1
+1 notes
 
 PDF
 Livestock Farm Practices[Open Livestock Farm Practices](https://drive.google.com/file/d/1cbm37Z7iAyVmuJZ0CJ3wxXI9pShZYHsy/view?usp=sharing)
 
 ## TANUVAS Notes
 
-0
+0 notes
 
-No separate TANUVAS collection is listed for this subject yet.
+Notes coming soon
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+Nothing here yet. Even a calf needs a minute to stand.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
 ## Recommended Books
 
+0 books
+
+Reading recommendations. Expand a title for guidance.
+
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 

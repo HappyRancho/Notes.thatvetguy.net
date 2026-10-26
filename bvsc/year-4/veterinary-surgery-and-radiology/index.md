@@ -4,27 +4,28 @@
 
 # Veterinary Surgery and Radiology
 
-Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes22 resources](#notes)[TANUVAS Notes1 resource](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=1)[Recommended Books](#books)
+4th Year · 23 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=1)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-22
+7 units · 22 notes
 
-### Unit 1 – Veterinary General Surgery
+### Unit 1Veterinary General Surgery
 
-1
+1 notes
 
 PDF
 Veterinary General Surgery[Open Veterinary General Surgery](https://drive.google.com/file/d/1O_mEAfwD8Xl3ZKxY84amGfHRg3GD9Yuk/view?usp=sharing)
 
-### Unit 2 – Veterinary Anaesthesiology
+### Unit 2Veterinary Anaesthesiology
 
-2
+2 notes
 
 PDF
 Veterinary Anaesthesiology[Open Veterinary Anaesthesiology](https://drive.google.com/file/d/1pHbznMH3RLQwC_ANanejnh0ctuVUmCF5/view?usp=sharing)
@@ -32,9 +33,9 @@ Veterinary Anaesthesiology[Open Veterinary Anaesthesiology](https://drive.google
 PDF
 Veterinary Anaesthesiology Note[Open Veterinary Anaesthesiology Note](https://drive.google.com/file/d/1GYTCj_tUTjoowBtjKxO9O2NOTa8QurbI/view?usp=sharing)
 
-### Unit 3 – Veterinary Diagnostic Imaging Techniques
+### Unit 3Veterinary Diagnostic Imaging Techniques
 
-2
+2 notes
 
 PDF
 Veterinary Diagnostic Imaging Techniques[Open Veterinary Diagnostic Imaging Techniques](https://drive.google.com/file/d/1IYZMqh7nYa7cAYHvpoIPZLt_gEpEfSAE/view?usp=sharing)
@@ -42,9 +43,9 @@ Veterinary Diagnostic Imaging Techniques[Open Veterinary Diagnostic Imaging Tech
 PDF
 Veterinary Diagnostic Imaging Techniques Note[Open Veterinary Diagnostic Imaging Techniques Note](https://drive.google.com/file/d/196AtHV_G_jWKEcHJ_UUOkeCWvvCUEhX0/view?usp=sharing)
 
-### Unit 4 – Regional Surgery – I
+### Unit 4Regional Surgery – I
 
-4
+4 notes
 
 PDF
 Affections of Eye and their Treatment (Ophthalmology)[Open Affections of Eye and their Treatment (Ophthalmology)](https://drive.google.com/file/d/1T0TaOGOaEE0QV1Z4djEAG-ZBf2c06P2L/view?usp=sharing)
@@ -58,9 +59,9 @@ Regional Surgery of Head and Neck region[Open Regional Surgery of Head and Neck 
 PDF
 Regional Surgery – Head and Neck Note[Open Regional Surgery – Head and Neck Note](https://drive.google.com/file/d/1n3PryDPFwf-ItY4gyI49REjumLtPOOH5/view?usp=sharing)
 
-### Unit 5 – Regional Surgery – II
+### Unit 5Regional Surgery – II
 
-2
+2 notes
 
 PDF
 Regional Surgery of Thorax and Abdomen by KVASUKVASU[Open Regional Surgery of Thorax and Abdomen by KVASU](https://drive.google.com/file/d/1ISDzafl9s4r1dakDyb15w0nMOZ2kP6qH/view?usp=sharing)
@@ -68,9 +69,9 @@ Regional Surgery of Thorax and Abdomen by KVASUKVASU[Open Regional Surgery of Th
 PDF
 Regional Surgery of Thorax and Abdomen region[Open Regional Surgery of Thorax and Abdomen region](https://drive.google.com/file/d/1lKrap5bzsNtcAm5pOg16DDb0_qZxnBjG/view?usp=sharing)
 
-### Unit 6 – Orthopedics and Lameness
+### Unit 6Orthopedics and Lameness
 
-7
+7 notes
 
 PDF
 Bovine Lameness[Open Bovine Lameness](https://drive.google.com/file/d/1yyAN6N8JwnloOkgC6d2Pf9uF-mP-q1LO/view?usp=sharing)
@@ -95,7 +96,7 @@ Orthopedics and Lameness Note by KVASUKVASU[Open Orthopedics and Lameness Note b
 
 ### Additional subject notes
 
-4
+4 notes
 
 PDF
 Surgical Instruments VCP (S)[Open Surgical Instruments VCP (S)](https://drive.google.com/file/d/1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU/view?usp=sharing)
@@ -111,20 +112,20 @@ Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/f
 
 ## TANUVAS Notes
 
-1
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### Unit 6 – Orthopedics and Lameness
-
-1
+1 note
 
 PDF
 Orthopedics and Lameness Note by TANUVASTANUVAS[Open Orthopedics and Lameness Note by TANUVAS](https://drive.google.com/file/d/1UCcfQK4ebhIQikk2exqcXxJCcCd1raO_/view?usp=sharing)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+2 books
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -142,7 +143,13 @@ Use for operative principles and procedure context in farm animals.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
 
