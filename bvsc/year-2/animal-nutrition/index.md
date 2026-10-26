@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 4 units · 30 notes
 
-### Unit 1Principles of Animal Nutrition and Feed Technology
+### Unit 1 Principles of Animal Nutrition and Feed Technology
 
 13 notes
 
@@ -59,7 +59,7 @@ Protein Evaluation of Feeds[Open Protein Evaluation of Feeds](https://drive.goog
 PDF
 Role and Requirements of Water, Minerals and Vitamins and Feed Supplements[Open Role and Requirements of Water, Minerals and Vitamins and Feed Supplements](https://drive.google.com/file/d/17NCCgBrYmJfqJiinmxheIzq62HYcv980/view?usp=sharing)
 
-### Unit 2Applied Ruminant Nutrition – I
+### Unit 2 Applied Ruminant Nutrition – I
 
 2 notes
 
@@ -69,7 +69,7 @@ Applied Ruminant Nutrition-I Note[Open Applied Ruminant Nutrition-I Note](https:
 PDF
 Scientific Feeding, Digestibility and Balanced Ration[Open Scientific Feeding, Digestibility and Balanced Ration](https://drive.google.com/file/d/1G8j_jLGwYlz3NYD47TSc3RCF3VA_1XLa/view?usp=sharing)
 
-### Unit 3Applied Ruminant Nutrition – II
+### Unit 3 Applied Ruminant Nutrition – II
 
 4 notes
 
@@ -85,7 +85,7 @@ Nutrition of Cattle and Buffaloes[Open Nutrition of Cattle and Buffaloes](https:
 PDF
 Nutrition of Sheep and Goat[Open Nutrition of Sheep and Goat](https://drive.google.com/file/d/1XmxTAWTszeaEG0e9Tnfiwbx7WDrblPy0/view?usp=sharing)
 
-### Unit 4Applied Non-Ruminant Nutrition
+### Unit 4 Applied Non-Ruminant Nutrition
 
 11 notes
 

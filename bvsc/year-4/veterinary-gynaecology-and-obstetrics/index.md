@@ -16,14 +16,14 @@ Find a note in the selected collection
 
 4 units · 11 notes
 
-### Unit 1Veterinary Gynaecology
+### Unit 1 Veterinary Gynaecology
 
 1 notes
 
 PDF
 Veterinary Gynaecology Note by KVASUKVASU[Open Veterinary Gynaecology Note by KVASU](https://drive.google.com/file/d/1mlDj00eiatKj0EXaz7RV-J4R70vaP4V1/view?usp=sharing)
 
-### Unit 2Veterinary Obstetrics
+### Unit 2 Veterinary Obstetrics
 
 2 notes
 
@@ -33,7 +33,7 @@ Veterinary Obstetrics[Open Veterinary Obstetrics](https://drive.google.com/file/
 PDF
 Veterinary Obstetrics Note by KVASUKVASU[Open Veterinary Obstetrics Note by KVASU](https://drive.google.com/file/d/1kxVOV0V-yP7jhgxAJUdhLmWOs4BaO3A1/view?usp=sharing)
 
-### Unit 3Veterinary Andrology and AI
+### Unit 3 Veterinary Andrology and AI
 
 2 notes
 

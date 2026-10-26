@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 8 units · 23 notes
 
-### Unit 1Livestock Based Livelihoods and Their Evolution
+### Unit 1 Livestock Based Livelihoods and Their Evolution
 
 2 notes
 
@@ -26,7 +26,7 @@ Livestock based Livelihood and their Evolution Note[Open Livestock based Livelih
 PDF
 Livestock Based Livelihoods and Their Evolution[Open Livestock Based Livelihoods and Their Evolution](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
 
-### Unit 2Extension Education and Development
+### Unit 2 Extension Education and Development
 
 4 notes
 
@@ -42,7 +42,7 @@ Rural Sociology in Veterinary Extension[Open Rural Sociology in Veterinary Exten
 PDF
 Rural Sociology in Veterinary Extension Note[Open Rural Sociology in Veterinary Extension Note](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
 
-### Unit 4Transfer of Technology for Livestock Development
+### Unit 4 Transfer of Technology for Livestock Development
 
 3 notes
 
@@ -55,7 +55,7 @@ Transfer of Technology for Livestock Development Overall Note[Open Transfer of T
 PDF
 Transfer of Technology Projects of ICARICAR[Open Transfer of Technology Projects of ICAR](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
 
-### Unit 5Communication and Extension Teaching Methods
+### Unit 5 Communication and Extension Teaching Methods
 
 2 notes
 
@@ -65,7 +65,7 @@ Communication and Extension Teaching Methods[Open Communication and Extension Te
 PDF
 Communication and Extension teaching methods Note[Open Communication and Extension teaching methods Note](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
 
-### Unit 6Livestock Economics and Marketing
+### Unit 6 Livestock Economics and Marketing
 
 4 notes
 
@@ -81,7 +81,7 @@ Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and 
 PDF
 Livestock Marketing- Concept, Structure and Classification[Open Livestock Marketing- Concept, Structure and Classification](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
 
-### Unit 7Livestock Entrepreneurship
+### Unit 7 Livestock Entrepreneurship
 
 6 notes
 
@@ -103,14 +103,14 @@ Livestock Entrepreneurship Overall Note[Open Livestock Entrepreneurship Overall 
 PDF
 Project Appraisal and Capital Budgeting[Open Project Appraisal and Capital Budgeting](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
 
-### Unit 8Information and Communication Technology
+### Unit 8 Information and Communication Technology
 
 1 notes
 
 PDF
 Information and Communication Technology Note[Open Information and Communication Technology Note](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
 
-### Unit 9Contemporary Issues in Livestock Enterprises
+### Unit 9 Contemporary Issues in Livestock Enterprises
 
 1 notes
 

@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 3 units · 15 notes
 
-### Units 1–6Gross and Applied Anatomy
+### Units 1–6 Gross and Applied Anatomy
 
 9 notes
 
@@ -47,7 +47,7 @@ Splanchnology[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZ
 PDF
 Veterinary Anatomy Overall[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
 
-### Unit 7Veterinary Histology
+### Unit 7 Veterinary Histology
 
 3 notes
 
@@ -60,7 +60,7 @@ Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google
 PDF
 Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
 
-### Unit 8Veterinary Embryology
+### Unit 8 Veterinary Embryology
 
 3 notes
 

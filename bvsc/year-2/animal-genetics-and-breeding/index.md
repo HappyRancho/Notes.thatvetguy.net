@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 3 units · 45 notes
 
-### Unit 1Biostatistics and Computer Application
+### Unit 1 Biostatistics and Computer Application
 
 20 notes
 
@@ -80,7 +80,7 @@ Tests of Significance – t-test, Z-test, Chi-square test and F-test[Open Tests 
 PDF
 Types and Conversions of Number System[Open Types and Conversions of Number System](https://drive.google.com/file/d/1ggitlMRXACXkDkTHaRFk3aNRmh9oQyUs/view)
 
-### Unit 2Principles of Animal and Population Genetics
+### Unit 2 Principles of Animal and Population Genetics
 
 12 notes
 
@@ -120,7 +120,7 @@ Overview of Mendelian Genetics[Open Overview of Mendelian Genetics](https://driv
 PDF
 Population Genetics – Hardy Weinberg Law[Open Population Genetics – Hardy Weinberg Law](https://drive.google.com/file/d/1bNO7SBq4tiS0ih60UjKWGlCSOfmrO4bS/view)
 
-### Unit 3Principles of Animal Breeding
+### Unit 3 Principles of Animal Breeding
 
 13 notes
 

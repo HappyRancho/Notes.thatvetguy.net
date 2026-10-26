@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 4 units · 46 notes
 
-### Unit 1Milk and Milk Products Technology
+### Unit 1 Milk and Milk Products Technology
 
 14 notes
 
@@ -62,7 +62,7 @@ Preparation of Milk By-Products specially Skim Milk Powder and Whey[Open Prepara
 PDF
 Sanitation, GMP and HACCP in Milk Plant[Open Sanitation, GMP and HACCP in Milk Plant](https://drive.google.com/file/d/1ARqbvdR3z9_6a2N3VAAjnUrSkzc0mxzs/view)
 
-### Unit 2Wool Science
+### Unit 2 Wool Science
 
 3 notes
 
@@ -75,7 +75,7 @@ Post shearing operations, classification and grading of wool[Open Post shearing 
 PDF
 Properties and Impurities of wool and factors influencing the quality of wool[Open Properties and Impurities of wool and factors influencing the quality of wool](https://drive.google.com/file/d/15nBkPdWnJ_YxTF2Re14VIsscCV0bQerm/view)
 
-### Unit 3Abattoir Practices and Animal Byproducts Technology
+### Unit 3 Abattoir Practices and Animal Byproducts Technology
 
 13 notes
 
@@ -118,7 +118,7 @@ Slaughtering Methods[Open Slaughtering Methods](https://drive.google.com/file/d/
 PDF
 Treatment of Condemned Meat and Carcasses[Open Treatment of Condemned Meat and Carcasses](https://drive.google.com/file/d/1Ierj_srqEqeGQSxv9Zp6Md5jlUR_WuyZ/view)
 
-### Unit 4Meat Science
+### Unit 4 Meat Science
 
 16 notes
 

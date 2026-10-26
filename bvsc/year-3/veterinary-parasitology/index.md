@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 5 units · 46 notes
 
-### Unit 1General Veterinary Parasitology
+### Unit 1 General Veterinary Parasitology
 
 5 notes
 
@@ -35,7 +35,7 @@ Modes of Transmission and Methods of Dissemination of Parasites[Open Modes of Tr
 PDF
 Nomenclature of Parasites and Parasitic Diseases[Open Nomenclature of Parasites and Parasitic Diseases](https://drive.google.com/file/d/1O9QbkzcKu1CxUNjqhQx_cahZyFvsxm7W/view)
 
-### Unit 2Trematodes and Cestodes of Veterinary Importance
+### Unit 2 Trematodes and Cestodes of Veterinary Importance
 
 6 notes
 
@@ -57,7 +57,7 @@ Paramphistomes – Rumen Fluke[Open Paramphistomes – Rumen Fluke](https://driv
 PDF
 Trematodes (Fluke) – Introduction, Classification and General Life cycle[Open Trematodes (Fluke) – Introduction, Classification and General Life cycle](https://drive.google.com/file/d/1wYn9i2QwcY5Ra_OcePRNxDd3O1AfU5wG/view)
 
-### Unit 3Nematodes of Veterinary Importance
+### Unit 3 Nematodes of Veterinary Importance
 
 12 notes
 
@@ -97,7 +97,7 @@ Study of Anthelmintic Resistance and its types[Open Study of Anthelmintic Resist
 PDF
 Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus[Open Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus](https://drive.google.com/file/d/1q8UZWX-_cJFryIrtOBVGIlI_BxN5t_74/view?usp=sharing)
 
-### Unit 4Arthropods of Veterinary Importance
+### Unit 4 Arthropods of Veterinary Importance
 
 10 notes
 
@@ -131,7 +131,7 @@ Study of Insecticide or Acaricide Resistance[Open Study of Insecticide or Acaric
 PDF
 Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis[Open Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis](https://drive.google.com/file/d/1oL_iDGuszMSoCKiDTA5ZnR-bzgAUo0d9/view?usp=sharing)
 
-### Unit 5Protozoa of Veterinary Importance
+### Unit 5 Protozoa of Veterinary Importance
 
 13 notes
 

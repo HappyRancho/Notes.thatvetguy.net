@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 6 units · 27 notes
 
-### Unit 1General Pharmacology
+### Unit 1 General Pharmacology
 
 5 notes
 
@@ -35,7 +35,7 @@ Pharmacodynamics[Open Pharmacodynamics](https://drive.google.com/file/d/1UXt4V4W
 PDF
 Pharmacokinetics[Open Pharmacokinetics](https://drive.google.com/file/d/19t5npwxtScJNrAZlK_ArYtIxtMTVssXN/view)
 
-### Unit 2Drugs Acting on Autonomic Nervous System
+### Unit 2 Drugs Acting on Autonomic Nervous System
 
 4 notes
 
@@ -51,7 +51,7 @@ Drugs acting on Autonomic Nervous System[Open Drugs acting on Autonomic Nervous 
 PDF
 Drugs Acting on Autonomic Nervous System Note[Open Drugs Acting on Autonomic Nervous System Note](https://drive.google.com/file/d/1WngNRKbPOJ6PoucchwftteGhfkCV7Orf/view?usp=sharing)
 
-### Unit 3Drugs Acting on Central Nervous System
+### Unit 3 Drugs Acting on Central Nervous System
 
 9 notes
 
@@ -82,7 +82,7 @@ Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs[Open Opioid Analgesi
 PDF
 Psychotropic Drugs or Psycho Pharmacological Agents[Open Psychotropic Drugs or Psycho Pharmacological Agents](https://drive.google.com/file/d/1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY/view)
 
-### Unit 4Drugs Acting on Different Body Systems
+### Unit 4 Drugs Acting on Different Body Systems
 
 5 notes
 
@@ -101,7 +101,7 @@ Drugs acting on Skin and Mucous Membranes[Open Drugs acting on Skin and Mucous M
 PDF
 Drugs acting on Urogenital System[Open Drugs acting on Urogenital System](https://drive.google.com/file/d/1TLP1Fb_y6JhHnSkh-E0uNL61c4lXyzrW/view?usp=sharing)
 
-### Unit 5Veterinary Chemotherapy
+### Unit 5 Veterinary Chemotherapy
 
 2 notes
 
@@ -111,7 +111,7 @@ Veterinary Chemotherapy[Open Veterinary Chemotherapy](https://drive.google.com/f
 PDF
 Veterinary Chemotherapy Note[Open Veterinary Chemotherapy Note](https://drive.google.com/file/d/1x0btw5V5JU18SfjQflWu0Z3_45nT4agC/view?usp=sharing)
 
-### Unit 6Veterinary Toxicology
+### Unit 6 Veterinary Toxicology
 
 2 notes
 

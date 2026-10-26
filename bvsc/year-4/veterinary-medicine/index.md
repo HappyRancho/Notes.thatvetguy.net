@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 8 units · 22 notes
 
-### Unit 1General
+### Unit 1 General
 
 2 notes
 
@@ -26,7 +26,7 @@ General Veterinary Medicine[Open General Veterinary Medicine](https://drive.goog
 PDF
 General Veterinary Medicine by KVASUKVASU[Open General Veterinary Medicine by KVASU](https://drive.google.com/file/d/1N1gVdLaljq7AhJ3e0_-kdRSl4-iY9tVA/view?usp=sharing)
 
-### Unit 2Systemic Diseases
+### Unit 2 Systemic Diseases
 
 2 notes
 
@@ -36,7 +36,7 @@ Systemic Diseases of Veterinary Medicine[Open Systemic Diseases of Veterinary Me
 PDF
 Systemic Veterinary Diseases by KVASUKVASU[Open Systemic Veterinary Diseases by KVASU](https://drive.google.com/file/d/1UrzOs8THvYkb6rCt6dXaq4FhFddwdV8d/view?usp=sharing)
 
-### Unit 3Metabolic and Deficiency Disorders
+### Unit 3 Metabolic and Deficiency Disorders
 
 5 notes
 
@@ -55,7 +55,7 @@ Metabolic and Deficiency Disorders of Veterinary Medicine[Open Metabolic and Def
 PDF
 Vitamin Deficiency Disorders[Open Vitamin Deficiency Disorders](https://drive.google.com/file/d/1vHcm3fd8RINxxXZioiMjXv_TqYn9BMXs/view?usp=sharing)
 
-### Unit 4Zoo and Wild Animal Medicine
+### Unit 4 Zoo and Wild Animal Medicine
 
 3 notes
 
@@ -68,7 +68,7 @@ Zoo and Wild Animal Medicine[Open Zoo and Wild Animal Medicine](https://drive.go
 PDF
 Zoo and Wildlife Medicine Note[Open Zoo and Wildlife Medicine Note](https://drive.google.com/file/d/1mfPPdVOw_5-QmHuI9oqf_E5uag0hFnDY/view?usp=sharing)
 
-### Unit 5Bacterial, Fungal and Rickettsial Diseases
+### Unit 5 Bacterial, Fungal and Rickettsial Diseases
 
 2 notes
 
@@ -78,7 +78,7 @@ Bacterial, Fungal and Rickettsial Diseases of Veterinary Medicine[Open Bacterial
 PDF
 Veterinary Bacterial Diseases Note[Open Veterinary Bacterial Diseases Note](https://drive.google.com/file/d/1fwF8702hx6BungZJtbxdYRlcLaEWHpfg/view?usp=sharing)
 
-### Unit 6Viral and Parasitic Diseases
+### Unit 6 Viral and Parasitic Diseases
 
 3 notes
 
@@ -91,7 +91,7 @@ Veterinary Viral Diseases Note[Open Veterinary Viral Diseases Note](https://driv
 PDF
 Viral and Parasitic Diseases of Veterinary Medicine[Open Viral and Parasitic Diseases of Veterinary Medicine](https://drive.google.com/file/d/1uY2HQwK9yoLQ1lD4uymIuLJqgzy4_2sH/view?usp=sharing)
 
-### Unit 7Jurisprudence, Ethics and Animal Welfare
+### Unit 7 Jurisprudence, Ethics and Animal Welfare
 
 2 notes
 

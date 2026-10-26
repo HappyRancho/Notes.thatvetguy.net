@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 4 units · 35 notes
 
-### Unit 1Veterinary Public Health and Food Safety
+### Unit 1 Veterinary Public Health and Food Safety
 
 4 notes
 
@@ -32,7 +32,7 @@ Milk Hygiene in relation to Public Health[Open Milk Hygiene in relation to Publi
 PDF
 Veterinary Public Health and Food Safety Overall Note[Open Veterinary Public Health and Food Safety Overall Note](https://drive.google.com/file/d/12x1RKCfKggSJitGU7BDuYvxtb6ezWDYQ/view?usp=sharing)
 
-### Unit 2Veterinary Epidemiology
+### Unit 2 Veterinary Epidemiology
 
 3 notes
 
@@ -45,7 +45,7 @@ Veterinary Epidemiology[Open Veterinary Epidemiology](https://drive.google.com/f
 PDF
 Veterinary Epidemiology Overall Note[Open Veterinary Epidemiology Overall Note](https://drive.google.com/file/d/1HI5Qi-n_jFVhPR72fz0jR5Sfxwjzl1dp/view?usp=sharing)
 
-### Unit 3Zoonotic Diseases
+### Unit 3 Zoonotic Diseases
 
 21 notes
 
@@ -112,7 +112,7 @@ Tuberculosis – Zoonotic Disease[Open Tuberculosis – Zoonotic Disease](https:
 PDF
 Zoonotic Diseases Overall Note[Open Zoonotic Diseases Overall Note](https://drive.google.com/file/d/1M51Y1xswdKW-Pef-G-q1yYxjmo7xS8nd/view?usp=sharing)
 
-### Unit 4Environmental Hygiene
+### Unit 4 Environmental Hygiene
 
 7 notes
 

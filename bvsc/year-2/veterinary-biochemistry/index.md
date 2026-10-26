@@ -16,7 +16,7 @@ Find a note in the selected collection
 
 3 units · 21 notes
 
-### Unit 1General Veterinary Biochemistry
+### Unit 1 General Veterinary Biochemistry
 
 6 notes
 
@@ -38,7 +38,7 @@ General Introduction of Biochemistry[Open General Introduction of Biochemistry](
 PDF
 General Veterinary Biochemistry Note[Open General Veterinary Biochemistry Note](https://drive.google.com/file/d/121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1/view?usp=sharing)
 
-### Unit 2Intermediary Metabolism
+### Unit 2 Intermediary Metabolism
 
 7 notes
 
@@ -63,7 +63,7 @@ Regulation and Integration of Metabolism[Open Regulation and Integration of Meta
 PDF
 Veterinary Intermediary Metabolism Note[Open Veterinary Intermediary Metabolism Note](https://drive.google.com/file/d/1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR/view?usp=sharing)
 
-### Unit 3Veterinary Analytical Biochemistry
+### Unit 3 Veterinary Analytical Biochemistry
 
 8 notes
 
