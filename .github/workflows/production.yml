@@ -33,6 +33,7 @@ jobs:
         run: npm run qa -- production
         env:
           QA_BASE_URL: https://notes.thatvetguy.net
+          QA_PATHS: ${{ contains(github.event.head_commit.message, '[subject-pages]') && '/bvsc/year-1/,/bvsc/year-4/,/bvsc/year-1/veterinary-anatomy/,/bvsc/year-3/veterinary-pharmacology-and-toxicology/' || '/,/bvsc/,/bvsc/year-1/,/bvsc/year-1/veterinary-anatomy/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/study-tools/,/search/,/about/,/request-resource/' }}
           QA_WIDTHS: 360,390,412
       - uses: actions/upload-artifact@v4
         if: always()

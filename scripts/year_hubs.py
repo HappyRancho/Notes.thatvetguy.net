@@ -15,35 +15,14 @@ def subject_books(b,books):
         rows.append('<li><details class="year-book-detail"><summary>'+summary+'</summary><div class="year-book-guidance"><p>'+e(r['description'])+'</p><p class="year-book-status">Reading recommendation · no linked copy available.</p></div></details></li>')
     return '<ul class="year-book-list">'+''.join(rows)+'</ul>'
 
-def roadmap(b,name,ident):
-    m=b.SUBJECTS[name];steps=['Make a checklist from your university syllabus.',m['studyTip'],'Revisit '+', '.join(m['topics'][:2])+', then test your recall without the notes.']
-    return '<details class="year-subject-roadmap" id="roadmap-'+ident+'"><summary>'+b.icon('map')+'<span>Roadmap</span>'+b.icon('chevron')+'</summary><ol>'+''.join('<li>'+e(t)+'</li>' for t in steps)+'</ol></details>'
-
 def notes_page(b,y):
-    from library_views import controls,group,empty
-    year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/notes/'
-    desc=f'Topic-wise {label} BVSc & AH notes, grouped by subject and unit. Pick a subject below or search for the topic you need.'
-    body=b.article_intro(label+' Topic-wise Notes',desc,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')])
-    body+='<div class="filter-collection year-notes-reader" data-filter-subjects>'+controls(b,[(s['slug'],s['name']) for s in y['subjects'] if s['count']],f'year-{year}',True)
-    allrows=[]
-    for si,s in enumerate(y['subjects']):
-        rows=[b.CATALOGUE[r] for r in s['resourceIds']];allrows+=rows
-        body+='<section class="year-note-subject" data-subject-section id="'+s['slug']+'"><header><h2>'+e(s['name'])+'</h2><button type="button" class="studied-button js-only" data-studied="'+s['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></header>'
-        guide=b.SUBJECTS.get(s['name'],{})
-        if guide.get('summary'):
-            intro=guide['summary'].split('. ',1)[0]+'. '+guide.get('studyTip','')
-            body+='<p class="year-subject-summary">'+e(intro)+'</p>'
-        units=sorted({r['unit'] for r in rows},key=lambda u:(int(re.search(r'\d+',u)[0]) if re.search(r'\d+',u) else 999,natural(u)))
-        for ui,unit in enumerate(units):body+=group(b,unit,[r for r in rows if r['unit']==unit],s['slug']+'-'+slug(unit),si==0 and ui==0,level=3,filterkey=s['slug'])
-        if not rows:body+=empty(b,'Notes are coming soon')
-        body+='</section>'
-    body+='<p class="filter-empty" hidden>No notes match. '+b.link('/request-resource/','Request a topic')+'</p></div></div>'
-    b.write_page(path,label+' Topic-wise BVSc Notes',desc,body,[(r['title'],r['url']) for r in allrows])
+    from subject_pages import legacy_notes
+    legacy_notes(b,y)
 
 def index(b):
     from homepage import subject_icon
     books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books']
-    desc='Recommended books, topic-wise notes and roadmaps for BVSc & AH. Choose a subject to open its section in the right year.'
+    desc='BVSc & AH notes, TANUVAS material and recommended books, organised by professional year. Choose a year or open a subject directly.'
     body=b.article_intro('BVSc Notes & Books',desc)+'<div class="bvsc-year-sections">';items=[]
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/';tone=['yellow','peach','sky','mint'][year-1]
@@ -52,7 +31,7 @@ def index(b):
             ic,icon_tone=subject_icon(subject['name']);nbooks=sum(r['year']==year and r['subject']==subject['name'] for r in books)
             meta=(str(nbooks)+' '+('book' if nbooks==1 else 'books')+' · ' if nbooks else '')+str(subject['count'])+' '+('note' if subject['count']==1 else 'notes')
             if not nbooks and not subject['count']:meta='Roadmap available'
-            url=path+'#'+subject['slug'];items.append((subject['name']+' · '+label,url))
+            url=path+subject['slug']+'/';items.append((subject['name']+' · '+label,url))
             body+=b.link(url,'<span class="rx-row-icon '+icon_tone+'" aria-hidden="true">'+b.icon(ic)+'</span>'+b.icon('chevron')+'<h3>'+e(subject['name'])+'</h3><p>'+e(meta)+'</p>','bvsc-subject-tile')
         body+='</div></section>'
     body+='</div><p class="source-note bvsc-syllabus-note">Year grouping may vary by university. Check your syllabus.</p></div>'
@@ -60,29 +39,20 @@ def index(b):
 
 def render(b):
     from course_outlines import outline_url
-    books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books'];copy=json.loads((ROOT/'data/year-hub-microcopy.json').read_text())
-    from homepage import subject_icon,CONTENT
+    from subject_pages import year_nav,subject_tile,render as render_subject
+    from homepage import CONTENT
+    books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books']
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/'
-        desc=f'{label} BVSc & AH notes, books and study roadmaps, organised by subject.'
-        body=b.article_intro(label+' Notes & Books',desc,[('BVSc','/bvsc/')])
-        body=body.replace('<div class="container reading-page">','<div class="container reading-page year-page">',1)
-        body=body.replace(b.icon('book'),b.icon('cap'),1)
-        body+='<a href="'+path+'roadmap/" class="year-roadmap-cta"><span class="year-map-art" aria-hidden="true">'+b.icon('map')+'</span><span><strong>'+label+' BVSc Road Map</strong><span class="rx-hand">'+e(CONTENT['roadmaps'][str(year)]['description'])+'</span></span><span class="year-roadmap-arrow" aria-hidden="true">'+b.icon('arrow')+'</span></a>'
-        body+='<span id="books" class="anchor-alias"></span><div class="year-subject-sections">'
-        for i,subject in enumerate(y['subjects']):
-            name=subject['name'];own=[r for r in books if r['year']==year and r['subject']==name];ic,tone=subject_icon(name)
-            display='Livestock Production & Management' if name=='Livestock Production Management' else name
-            body+='<section class="year-subject-section" id="'+subject['slug']+'"><header><span class="rx-row-icon '+tone+'" aria-hidden="true">'+b.icon(ic)+'</span><h2>'+e(display)+'</h2></header><div class="year-subject-actions">'
-            body+=b.link(outline_url(year,name),b.icon('paper')+'<span>Course Outline</span>'+b.icon('chevron'),'year-course-link '+('mint' if tone=='mint' else 'peach'))
-            if subject['count']:body+=b.link(path+'notes/#'+subject['slug'],b.icon('paper')+'<span>Topic-wise Notes</span>'+b.icon('chevron'),'year-notes-link')
-            else:body+='<span class="year-notes-unavailable">'+b.icon('paper')+'<span>Notes coming soon</span></span>'
-            body+='</div>'
-            if name=='Veterinary Biochemistry':body+='<p class="year-outline-note">Biochemistry is included in the 1st Year outline PDF.</p>'
-            body+='<h3 class="year-books-heading">'+b.icon('book')+'<span>Books</span></h3>'+subject_books(b,own)+'</section>'
-            if i==0:body+='<p class="year-margin-note">'+e(copy[str(year)])+'</p>'
-        body+='</div><details class="syllabus year-roadmap-details" id="road-map"><summary>'+e(label)+' Road Map '+b.icon('map')+'</summary>'+b.link(path+'roadmap/','Explore the complete '+label+' Roadmap '+b.icon('arrow'),'year-full-outline')+'<ol class="topic-list">'+''.join('<li>'+e(step)+'</li>' for step in CONTENT['roadmaps'][str(year)]['steps'])+'</ol>'+b.link(outline_url(year),'Full '+label+' Course Outline (PDF) '+b.icon('paper'),'year-full-outline')
-        body+=''.join(roadmap(b,subject['name'],subject['slug']) for subject in y['subjects'])+'</details><p class="source-note">Books are reading recommendations; tap a row for guidance. Year grouping may vary by university. Check your syllabus.</p></div>'
-        b.write_page(path,label+' BVSc Notes, Books & Course Outline',desc,body,[(label+' Course Outline',outline_url(year)),(label+' Road Map',path+'#road-map')]+[(subject['name'],path+'#'+subject['slug']) for subject in y['subjects']]);notes_page(b,y)
+        desc=f'{label} BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.'
+        body=b.article_intro(label+' Notes & Books',desc,[('BVSc','/bvsc/')]).replace('container reading-page','container reading-page year-page year-directory',1)
+        body+=year_nav(b,year)+'<div class="year-essentials">'
+        body+=b.link(path+'roadmap/','<span class="rx-row-icon yellow">'+b.icon('map')+'</span><span><strong>'+label+' Roadmap</strong><small>Plan your year</small></span>'+b.icon('chevron'),'year-essential year-roadmap-cta').replace('<a ','<a id="road-map" ',1)
+        body+=b.link(outline_url(year),'<span class="rx-row-icon peach">'+b.icon('paper')+'</span><span><strong>Course Outline</strong><small>Read the year syllabus</small></span>'+b.icon('chevron'),'year-essential year-outline-cta')+'</div>'
+        body+='<section class="year-directory-section" id="books"><header><h2>Choose a subject</h2><p>'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' resources</p></header><ul class="academic-subject-list">'+''.join(subject_tile(b,year,s,books) for s in y['subjects'])+'</ul></section>'
+        body+='<p class="source-note">Year grouping may vary by university. Check your syllabus.</p></div>'
+        b.write_page(path,label+' BVSc Notes, TANUVAS Material & Books',desc,body,[(s['name'],path+s['slug']+'/') for s in y['subjects']])
+        for subject in y['subjects']:render_subject(b,year,subject,books)
+        notes_page(b,y)
     from roadmaps import render as render_roadmaps
     render_roadmaps(b)

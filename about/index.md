@@ -30,4 +30,4 @@ Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-26; external file availability can change.

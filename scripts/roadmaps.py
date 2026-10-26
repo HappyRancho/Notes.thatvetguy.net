@@ -41,7 +41,7 @@ def credits(b,year,d):
     for s in d['subjects']:
         total=s['theory']+s['practical'];label=f'{s["theory"]} theory + {s["practical"]} practical'
         chart='<span class="road-bar" aria-hidden="true"><i class="road-theory" style="width:'+f'{s["theory"]/maximum*100:.4f}'+'%"></i><i class="road-practical" style="width:'+f'{s["practical"]/maximum*100:.4f}'+'%"></i></span>'
-        body+='<li>'+b.link(f'/bvsc/year-{year}/#'+slug(s['name']),'<span class="road-credit-label">'+e(s['short'])+'<small>'+e(label)+'</small></span>'+chart+'<strong>'+str(total)+'<span class="sr-only"> credits</span></strong>','road-credit')+'</li>'
+        body+='<li>'+b.link(f'/bvsc/year-{year}/'+slug(s['name'])+'/' ,'<span class="road-credit-label">'+e(s['short'])+'<small>'+e(label)+'</small></span>'+chart+'<strong>'+str(total)+'<span class="sr-only"> credits</span></strong>','road-credit')+'</li>'
     body+='</ul><p class="road-rule">'+str(d['theory']+d['practical'])+' credits in total · '+str(d['theory'])+' theory + '+str(d['practical'])+' practical.</p></section>'
     return body
 
@@ -57,9 +57,9 @@ def checkpoints(b,year):
 def playbook(b,year,d):
     body='<section class="road-card road-playbook">'+section(b,'Your subject playbook','book','Know what to learn. Know how to revise.')
     for i,s in enumerate(d['subjects']):
-        body+='<details class="road-subject"'+(' open' if i==0 else '')+'><summary><span class="road-subject-number" aria-hidden="true">'+str(i+1)+'</span><h3>'+e(s['name'])+'</h3>'+b.icon('chevron')+'</summary><div class="road-subject-body"><p><strong>Focus on</strong> '+e(s['focus'])+'</p><p><strong>Try this</strong> '+e(s['method'])+'</p><p class="road-small-tip">'+e(s['pitfall'])+'</p><div class="road-subject-links">'+b.link(f'/bvsc/year-{year}/#'+slug(s['name']),'Books & course outline '+b.icon('arrow'))
+        body+='<details class="road-subject"'+(' open' if i==0 else '')+'><summary><span class="road-subject-number" aria-hidden="true">'+str(i+1)+'</span><h3>'+e(s['name'])+'</h3>'+b.icon('chevron')+'</summary><div class="road-subject-body"><p><strong>Focus on</strong> '+e(s['focus'])+'</p><p><strong>Try this</strong> '+e(s['method'])+'</p><p class="road-small-tip">'+e(s['pitfall'])+'</p><div class="road-subject-links">'+b.link(f'/bvsc/year-{year}/'+slug(s['name'])+'/#books','Books & course outline '+b.icon('arrow'))
         own=next(y for y in b.LIBRARY['years'] if y['year']==year);subject=next(x for x in own['subjects'] if x['name']==s['name'])
-        if subject['count']:body+=b.link(f'/bvsc/year-{year}/notes/#'+slug(s['name']),'Topic-wise notes '+b.icon('arrow'))
+        if subject['count']:body+=b.link(f'/bvsc/year-{year}/'+slug(s['name'])+'/#notes','Topic-wise notes '+b.icon('arrow'))
         body+='</div></div></details>'
     return body+'</section>'
 
@@ -91,4 +91,4 @@ def render(b):
         body+='<div class="roadmap-columns"><div class="roadmap-column">'+glance(b,year,d)+credits(b,year,d)+checkpoints(b,year)+'</div><div class="roadmap-column">'+playbook(b,year,d)+habits(b,d)
         if year==4:body+='<section class="road-card" id="internship">'+section(b,'Next stop: internship','stethoscope')+'<p>After passing the fourth professional and completing the required credits, the MSVE 2016 programme includes a separate compulsory 12-month rotating internship.</p><p>Follow your university’s posting schedule, supervision, logbook and completion requirements. Clinical Practices II is part of the fourth professional; it is not the internship.</p></section>'
         body+='</div></div>'+sources(b,year,d)+'</div>'
-        b.write_page(path,label+' BVSc Roadmap: Subjects, Credits & Study Plan',description,body,[(s['name'],f'/bvsc/year-{year}/#'+slug(s['name'])) for s in d['subjects']])
+        b.write_page(path,label+' BVSc Roadmap: Subjects, Credits & Study Plan',description,body,[(s['name'],f'/bvsc/year-{year}/'+slug(s['name'])+'/') for s in d['subjects']])

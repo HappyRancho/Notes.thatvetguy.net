@@ -74,11 +74,11 @@ class Markdown(HTMLParser):
         if not self.hide:self.out.append(data)
     def result(self):return re.sub(r'\n{3,}','\n\n',''.join(self.out)).strip()+'\n'
 
-def register(path,title,desc,body,date,source_review=None):
+def register(path,title,desc,body,date,source_review=None,noindex=False):
     mirror=Markdown();mirror.feed(body)
     md=f'<!-- Canonical: {BASE+path}; updated: {date} -->\n\n'+mirror.result()+f'\nPage updated: {date}. Sources last reviewed: {source_review or date}; external file availability can change.\n'
     dest=ROOT/path.strip('/')/'index.md';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(md)
-    PAGES[path]={'title':title,'description':desc,'markdown':md,'lastmod':date}
+    PAGES[path]={'title':title,'description':desc,'markdown':md,'lastmod':date,'noindex':noindex}
 
 def structured(path,title,description,items,home,body,records,date):
     orgid=BASE+'/#organization';personid=BASE+'/#author';siteid=BASE+'/#website'
@@ -123,9 +123,9 @@ def discovery(date,index):
     HISTORY_PATH.write_text(json.dumps({p:HISTORY[p] for p in PAGES},indent=2)+'\n')
     bots=['*','GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','PerplexityBot','Google-Extended','Applebot-Extended','CCBot']
     (ROOT/'robots.txt').write_text(''.join(f'User-agent: {b}\nAllow: /\n\n' for b in bots)+'Sitemap: '+BASE+'/sitemap.xml\n')
-    indexed={p:d for p,d in PAGES.items() if p not in ['/search/','/404/']}
+    indexed={p:d for p,d in PAGES.items() if not d.get('noindex')}
     (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE+p}</loc><lastmod>{d["lastmod"]}</lastmod></url>\n' for p,d in indexed.items())+'</urlset>\n')
-    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive; objective and clinical collections open in Telegram. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
+    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open in Telegram. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
     mapping='## Sections and subject guides\n\n'+''.join(f'- [{d["title"]}]({BASE+p}): {d["description"]}\n  - Markdown: {BASE+p}index.md\n' for p,d in indexed.items())
     retrieval='\n## Machine retrieval\n\n- Full visible page content: '+BASE+'/llms-full.txt\n- Resource index: '+BASE+'/search-index.json\n- Sitemap: '+BASE+'/sitemap.xml\n- Search (noindex): '+BASE+'/search/\n\n## Community\n\n- Short notes: https://t.me/vetshortnotesbytvg\n- Jobs: https://t.me/jobupdatesbytvg\n- Requests and contact: '+BASE+'/request-resource/\n'
     (ROOT/'llms.txt').write_text(intro+mapping+retrieval)

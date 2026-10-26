@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/; updated: 2026-10-24 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/; updated: 2026-10-26 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year BVSc & AH Roadmap
 
@@ -38,9 +38,9 @@ TheoryPractical
 
 Tap a row to find its books and notes.
 
-- [Anatomy4 theory + 3 practical7 credits](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-anatomy)
-- [Physiology4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-physiology)
-- [Livestock Production4 theory + 2 practical6 credits](https://notes.thatvetguy.net/bvsc/year-1/#livestock-production-management)
+- [Anatomy4 theory + 3 practical7 credits](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
+- [Physiology4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
+- [Livestock Production4 theory + 2 practical6 credits](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
 18 credits in total · 12 theory + 6 practical.
 
@@ -93,7 +93,7 @@ Try this Learn a structure with its location, relations and function. Redraw it,
 
 A beautiful diagram with no labels is still an expensive doodle.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-anatomy)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-anatomy)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#notes)
 
 2
 
@@ -105,7 +105,7 @@ Try this Explain each process as a sequence with feedback. Connect the practical
 
 If you cannot explain the feedback loop, rereading the arrow will not help.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-1/#veterinary-physiology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-1/notes/#veterinary-physiology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#notes)
 
 3
 
@@ -117,7 +117,7 @@ Try this Compare species and life stages in a small table. Link each management 
 
 Do not leave LPM for the evening before the practical.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-1/#livestock-production-management)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-1/notes/#livestock-production-management)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#notes)
 
 ## A week that works
 
@@ -188,4 +188,4 @@ Research checked 24 October 2026.
 
 [Read the 1st Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf)
 
-Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.

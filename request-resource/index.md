@@ -40,4 +40,4 @@ Can I contribute a resource?
 
 Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-26; external file availability can change.

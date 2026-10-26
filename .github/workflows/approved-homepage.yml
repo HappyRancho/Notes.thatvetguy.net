@@ -22,8 +22,11 @@ jobs:
         with:
           node-version: '22'
       - run: pip install fonttools brotli pillow
+        if: "!contains(github.event.head_commit.message, '[search-keywords]')"
       - run: python3 scripts/prepare-fonts.py
+        if: "!contains(github.event.head_commit.message, '[search-keywords]')"
       - run: npm install && npx playwright install --with-deps chromium
+        if: "!contains(github.event.head_commit.message, '[search-keywords]')"
       - run: npm run build && npm run check
       - name: Render approved homepage
         run: |
@@ -35,23 +38,29 @@ jobs:
             git push origin HEAD:homepage-approved-mockups
           fi
       - run: node scripts/homepage-qa.mjs
-        if: "!contains(github.event.head_commit.message, '[subject-row-fix]') && !contains(github.event.head_commit.message, '[collection-cards]') && !contains(github.event.head_commit.message, '[year-hubs]') && !contains(github.event.head_commit.message, '[roadmap-spacing]')"
+        if: "!contains(github.event.head_commit.message, '[subject-row-fix]') && !contains(github.event.head_commit.message, '[collection-cards]') && !contains(github.event.head_commit.message, '[year-hubs]') && !contains(github.event.head_commit.message, '[roadmap-spacing]') && !contains(github.event.head_commit.message, '[subject-refinement]') && !contains(github.event.head_commit.message, '[search-keywords]')"
       - run: node scripts/collection-cards-qa.mjs
         if: contains(github.event.head_commit.message, '[collection-cards]')
       - run: node scripts/year-hubs-qa.mjs
         if: contains(github.event.head_commit.message, '[year-hubs]')
       - run: node scripts/roadmaps-qa.mjs
         if: contains(github.event.head_commit.message, '[roadmaps]')
+      - run: node scripts/academic-pages-qa.mjs
+        if: contains(github.event.head_commit.message, '[subject-pages]')
+        env:
+          QA_ACADEMIC_SMOKE: ${{ contains(github.event.head_commit.message, '[subject-refinement]') && '1' || '' }}
       - name: Lighthouse and page regression
+        if: "!contains(github.event.head_commit.message, '[search-keywords]')"
         run: npm run qa -- mockup-after
         env:
-          QA_PATHS: ${{ contains(github.event.head_commit.message, '[roadmaps]') && '/bvsc/year-1/roadmap/,/bvsc/year-2/roadmap/,/bvsc/year-3/roadmap/,/bvsc/year-4/roadmap/' || contains(github.event.head_commit.message, '[home-spacing]') && '/,/bvsc/year-1/,/objective/' || contains(github.event.head_commit.message, '[year-hubs]') && '/,/bvsc/year-1/,/bvsc/year-2/,/bvsc/year-3/,/bvsc/year-4/' || contains(github.event.head_commit.message, '[collection-cards]') && '/objective/,/clinical/drug-index/,/clinical/handbooks/' || contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/bvsc/year-1/notes/' }}
+          QA_PATHS: ${{ contains(github.event.head_commit.message, '[subject-pages]') && '/bvsc/year-1/,/bvsc/year-4/,/bvsc/year-1/veterinary-anatomy/,/bvsc/year-3/veterinary-pharmacology-and-toxicology/' || contains(github.event.head_commit.message, '[roadmaps]') && '/bvsc/year-1/roadmap/,/bvsc/year-2/roadmap/,/bvsc/year-3/roadmap/,/bvsc/year-4/roadmap/' || contains(github.event.head_commit.message, '[home-spacing]') && '/,/bvsc/year-1/,/objective/' || contains(github.event.head_commit.message, '[year-hubs]') && '/,/bvsc/year-1/,/bvsc/year-2/,/bvsc/year-3/,/bvsc/year-4/' || contains(github.event.head_commit.message, '[collection-cards]') && '/objective/,/clinical/drug-index/,/clinical/handbooks/' || contains(github.event.head_commit.message, '[subject-row-fix]') && '/bvsc/year-1/veterinary-anatomy/' || '/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/bvsc/year-1/veterinary-anatomy/' }}
           QA_WIDTHS: '360,390,430,1280'
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: approved-homepage
           path: |
+            docs/qa/academic-pages/
             docs/qa/year-hubs/
             docs/qa/roadmaps/
             docs/qa/collection-cards/

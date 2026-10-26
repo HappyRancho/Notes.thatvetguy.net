@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/; updated: 2026-10-24 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/; updated: 2026-10-26 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year BVSc & AH Roadmap
 
@@ -38,11 +38,11 @@ TheoryPractical
 
 Tap a row to find its books and notes.
 
-- [Pathology4 theory + 2 practical6 credits](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-pathology)
-- [Microbiology3 theory + 2 practical5 credits](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-microbiology)
-- [Nutrition3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-2/#animal-nutrition)
-- [Genetics & Breeding3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-2/#animal-genetics-and-breeding)
-- [Biochemistry2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-biochemistry)
+- [Pathology4 theory + 2 practical6 credits](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- [Microbiology3 theory + 2 practical5 credits](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- [Nutrition3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+- [Genetics & Breeding3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
+- [Biochemistry2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 
 22 credits in total · 15 theory + 7 practical.
 
@@ -95,7 +95,7 @@ Try this Link cause, mechanism, gross lesion and microscopic change. Practise de
 
 A disease name is not a lesion description.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-pathology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-pathology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#notes)
 
 2
 
@@ -107,7 +107,7 @@ Try this Compare organisms by transmission, pathogenesis and diagnostic approach
 
 Organism names are not a substitute for understanding the test.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-microbiology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-microbiology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#notes)
 
 3
 
@@ -119,7 +119,7 @@ Try this Work through ration and requirement examples with units shown. Explain 
 
 The calculator cannot rescue the wrong units.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/#animal-nutrition)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-nutrition)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#notes)
 
 4
 
@@ -131,7 +131,7 @@ Try this Write what each symbol means before using a formula. Solve fresh exampl
 
 Memorising the formula is step one, not the whole personality.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/#animal-genetics-and-breeding)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/notes/#animal-genetics-and-breeding)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#notes)
 
 5
 
@@ -143,7 +143,7 @@ Try this Map inputs, outputs and regulation of pathways. Connect biochemical tes
 
 Do not turn a pathway into a list of unrelated reaction names.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/#veterinary-biochemistry)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/notes/#veterinary-biochemistry)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#notes)
 
 ## A week that works
 
@@ -214,4 +214,4 @@ Research checked 24 October 2026.
 
 [Read the 2nd Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf)
 
-Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
