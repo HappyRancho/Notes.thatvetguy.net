@@ -83,12 +83,13 @@ def resolve(item):
     if verification['status']!='verified':problems.append({'url':target,'course':code,**verification});continue
     fid='tanuvas-'+hashlib.sha256(target.encode()).hexdigest()[:18]
    display=title if len(candidates)==1 else code+' · '+(label if label.lower() not in ['download','download pdf','click here','here'] else unquote(urlsplit(target).path.rsplit('/',1)[-1]))
+   original_title=title
    # The linked Word file contains entomology, despite the source landing label.
    if target.endswith('/vpa-211-entomology.docx'):
     display='Veterinary Entomology (TANUVAS)'
     title='VPA-211 Veterinary Entomology'
     problems.append({'url':target,'status':'corrected-source-label','course':code,'reason':'DOCX opens with Arthropoda/Insecta; display corrected to Veterinary Entomology'})
-   rows.append({'id':fid,'year':year,'subject':subject,'unit':code+' · '+re.sub(r'^.*?\b'+re.escape(code.split('-')[1])+r'\b\s*','',title).strip(' -–—'),'name':display,'title':re.sub(r'\.(pdf|docx)$','',display,flags=re.I),'url':target,'sourcePage':url,'sourceIndex':index,'sourceLabel':'VetBVSc TANUVAS collection','sourceCredit':'TANUVAS · listed by VetBVSc','collection':'TANUVAS','format':'DOCX' if re.search(r'\.docx(?:$|[?#])',target,re.I) else 'PDF','courseCode':code,'verification':verification,'alsoListedAt':[]})
+   rows.append({'id':fid,'year':year,'subject':subject,'unit':code+' · '+re.sub(r'^.*?\b'+re.escape(code.split('-')[1])+r'\b\s*','',title).strip(' -–—'),'name':display,'originalSourceTitle':original_title,'title':re.sub(r'\.(pdf|docx)$','',display,flags=re.I),'url':target,'sourcePage':url,'sourceIndex':index,'sourceLabel':'VetBVSc TANUVAS collection','sourceCredit':'TANUVAS · listed by VetBVSc','collection':'TANUVAS','format':'DOCX' if re.search(r'\.docx(?:$|[?#])',target,re.I) else 'PDF','courseCode':code,'verification':verification,'alsoListedAt':[]})
   return rows,problems,{'url':url,'course':code,'resources':len(rows),'candidates':len(candidates)}
  except Exception as error:return [],[{'url':url,'course':code,'status':'unavailable','reason':str(error)}],{'url':url,'course':code,'resources':0}
 

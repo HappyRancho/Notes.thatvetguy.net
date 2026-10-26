@@ -44,12 +44,12 @@ def render(b):
     books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books']
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/'
-        desc=f'{label} BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.'
+        desc=f'{label} BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.'
         body=b.article_intro(label+' Notes & Books',desc,[('BVSc','/bvsc/')]).replace('container reading-page','container reading-page year-page year-directory',1)
         body+=year_nav(b,year)+'<div class="year-essentials">'
         body+=b.link(path+'roadmap/','<span class="rx-row-icon yellow">'+b.icon('map')+'</span><span><strong>'+label+' Roadmap</strong><small>Plan your year</small></span>'+b.icon('chevron'),'year-essential year-roadmap-cta').replace('<a ','<a id="road-map" ',1)
         body+=b.link(outline_url(year),'<span class="rx-row-icon peach">'+b.icon('paper')+'</span><span><strong>Course Outline</strong><small>Read the year syllabus</small></span>'+b.icon('chevron'),'year-essential year-outline-cta')+'</div>'
-        body+='<section class="year-directory-section" id="books"><header><h2>Choose a subject</h2><p>'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' notes and PDFs</p></header><ul class="academic-subject-list">'+''.join(subject_tile(b,year,s,books) for s in y['subjects'])+'</ul></section>'
+        body+='<section class="year-directory-section" id="books"><header><h2>Choose a subject</h2><p>'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' resources</p></header><ul class="academic-subject-list">'+''.join(subject_tile(b,year,s,books) for s in y['subjects'])+'</ul></section>'
         body+='<p class="source-note">Year grouping may vary by university. Check your syllabus.</p></div>'
         b.write_page(path,label+' BVSc Notes, TANUVAS Material & Books',desc,body,[(s['name'],path+s['slug']+'/') for s in y['subjects']])
         for subject in y['subjects']:render_subject(b,year,subject,books)

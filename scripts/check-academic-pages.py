@@ -30,5 +30,6 @@ assert len({r['url'] for r in tanuvas['notes']})==len(tanuvas['notes'])
 for r in tanuvas['notes']:
  assert r['id'] in rows and 'tanuvas' in rows[r['id']]['collections']
  assert rows[r['id']]['url']==r['url']
+assert all('TANUVAS' in r['keywords'] for r in rows.values() if 'tanuvas' in r['collections'])
 assert len(routes)==19
 print(f'PASS: {len(routes)} canonical subject pages; four compact year hubs; old file anchors preserved; {len(tanuvas["notes"])} TANUVAS source entries reconciled.')

@@ -3,6 +3,7 @@ import fs from 'node:fs';import {spawn} from 'node:child_process';
 import {chromium} from 'playwright';import AxeBuilder from '@axe-core/playwright';
 const data=JSON.parse(fs.readFileSync('data/resources.json')),out='docs/qa/academic-pages',base='http://127.0.0.1:4173';fs.mkdirSync(out,{recursive:true});
 const report={views:[],before:[],interactions:[],errors:[]};let browser,server;
+const smoke=!!process.env.QA_ACADEMIC_SMOKE;
 const subjects=data.years.flatMap(y=>y.subjects.map(s=>({...s,year:y.year,path:`/bvsc/year-${y.year}/${s.slug}/`})));
 async function inspect(page,path,theme,width){
  await page.goto(base+path,{waitUntil:'networkidle'});await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(180);
@@ -19,11 +20,11 @@ try{
  server=spawn('python3',['scripts/qa-server.py',process.cwd()],{stdio:'ignore'});for(let n=0;n<50;n++){try{if((await fetch(base)).ok)break}catch{}await new Promise(r=>setTimeout(r,100))}
  browser=await chromium.launch({headless:true,args:['--no-sandbox']});
  const before=await browser.newContext({viewport:{width:390,height:844}}),bp=await before.newPage();
- for(const path of ['/bvsc/year-1/','/bvsc/year-4/']){try{await bp.goto('https://notes.thatvetguy.net'+path,{waitUntil:'networkidle',timeout:15000});await bp.screenshot({path:`${out}/before-${path.split('/')[2]}-390.png`,fullPage:true,animations:'disabled'});report.before.push({path,captured:true})}catch(error){report.before.push({path,error:String(error)})}}await before.close();
- for(const theme of ['light','dark'])for(const width of [360,390,430,768,1024,1280,1440]){
+ for(const path of (smoke?[]:['/bvsc/year-1/','/bvsc/year-4/'])){try{await bp.goto('https://notes.thatvetguy.net'+path,{waitUntil:'networkidle',timeout:15000});await bp.screenshot({path:`${out}/before-${path.split('/')[2]}-390.png`,fullPage:true,animations:'disabled'});report.before.push({path,captured:true})}catch(error){report.before.push({path,error:String(error)})}}await before.close();
+ for(const theme of ['light','dark'])for(const width of (smoke?[360,390,1280]:[360,390,430,768,1024,1280,1440])){
   const c=await browser.newContext({viewport:{width,height:844},colorScheme:theme});await c.addInitScript(t=>localStorage.setItem('tvg-theme',t),theme);const p=await c.newPage();
-  for(const y of data.years){const path=`/bvsc/year-${y.year}/`;await inspect(p,path,theme,width);if(await p.locator('.year-subject-roadmap,.year-roadmap-details').count())throw Error('Bottom roadmap remains');if(await p.locator('.academic-year-nav a').count()!==4||await p.locator('.academic-year-nav [aria-current=page]').getAttribute('href')!==path)throw Error('Year navigation');if(await p.locator('.year-directory-section .academic-subject-card').count()!==y.subjects.length)throw Error('Subject count')}
-  const subset=width===390?subjects:subjects.filter(s=>['veterinary-anatomy','veterinary-pharmacology-and-toxicology','veterinary-clinical-practices-ii'].includes(s.slug));
+  for(const y of data.years.filter(y=>!smoke||[1,4].includes(y.year))){const path=`/bvsc/year-${y.year}/`;await inspect(p,path,theme,width);if(await p.locator('.year-subject-roadmap,.year-roadmap-details').count())throw Error('Bottom roadmap remains');if(await p.locator('.academic-year-nav a').count()!==4||await p.locator('.academic-year-nav [aria-current=page]').getAttribute('href')!==path)throw Error('Year navigation');if(await p.locator('.year-directory-section .academic-subject-card').count()!==y.subjects.length)throw Error('Subject count')}
+  const subset=smoke?subjects.filter(s=>['veterinary-anatomy','veterinary-pharmacology-and-toxicology','veterinary-clinical-practices-ii'].includes(s.slug)):width===390?subjects:subjects.filter(s=>['veterinary-anatomy','veterinary-pharmacology-and-toxicology','veterinary-clinical-practices-ii'].includes(s.slug));
   for(const subject of subset){await inspect(p,subject.path,theme,width);if(await p.locator('.file-row').count()!==subject.count)throw Error('Subject row count '+subject.path);for(const row of await p.locator('.file-row').all()){if(await row.locator('a').count()!==1||await row.locator('button,details').count())throw Error('Multiple file actions')}}
   await c.close();
  }

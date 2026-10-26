@@ -19,7 +19,7 @@ def subject_tile(b,year,subject,books):
 
 def groups(b,rows,subject,category):
     from library_views import group,empty
-    if not rows:return empty(b,'No '+('TANUVAS notes' if category=='tanuvas' else 'topic-wise notes')+' listed yet')
+    if not rows:return '<p class="subject-source-note">No separate TANUVAS collection is listed for this subject yet.</p>' if category=='tanuvas' else empty(b,'Topic-wise notes coming soon')
     units=sorted({r['unit'] for r in rows},key=natural)
     return ''.join(group(b,unit,[r for r in rows if r['unit']==unit],subject['slug']+('-tanuvas-' if category=='tanuvas' else '-')+slug(unit),i==0,level=3,filterkey=category) for i,unit in enumerate(units))
 
@@ -29,9 +29,10 @@ def render(b,year,subject,books):
     name=subject['name'];label=b.DATA['labels'][str(year)];path=url(year,name);guide=b.SUBJECTS[name];rows=[b.CATALOGUE[r] for r in subject['resourceIds']]
     tanuvas=[r for r in rows if 'tanuvas' in r['collections']];topics=[r for r in rows if 'tanuvas' not in r['collections']];own=[r for r in books if r['year']==year and r['subject']==name]
     description=guide['summary'].split('. ',1)[0]+'. '+f'Find {label} BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.'
-    body=b.article_intro(name+' Notes & Books',description,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')]).replace('container reading-page','container reading-page subject-page',1)
+    intro=f'Topic-wise notes and TANUVAS material for {label} BVSc & AH. Books and course outlines, all in one place.'
+    body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')]).replace('container reading-page','container reading-page subject-page',1)
     body+='<nav class="subject-jump-links" aria-label="Subject resources">'+b.link('#notes',b.icon('paper')+'<span>Topic-wise Notes<small>'+str(len(topics))+' '+('resource' if len(topics)==1 else 'resources')+'</small></span>'+b.icon('arrow'),'subject-topic-jump')+b.link('#tanuvas',b.icon('book')+'<span>TANUVAS Notes<small>'+str(len(tanuvas))+' '+('resource' if len(tanuvas)==1 else 'resources')+'</small></span>'+b.icon('arrow'),'subject-tanuvas-jump')+'</nav>'
-    body+='<div class="subject-outline-links">'+b.link(outline_url(year,name),b.icon('paper')+'Course Outline')+b.link('#books',b.icon('book')+'Recommended Books')+'<button type="button" class="studied-button js-only" data-studied="'+subject['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></div>'
+    body+='<div class="subject-outline-links">'+b.link(outline_url(year,name),b.icon('paper')+'Course Outline')+b.link('#books',b.icon('book')+'Recommended Books')+'</div>'
     if name=='Veterinary Biochemistry':body+='<p class="source-note">Biochemistry appears in the 1st Year outline PDF; it is grouped in 2nd Year here. Check your university’s syllabus.</p>'
     body+='<div class="filter-collection subject-notes-collection" data-filter-subjects>'+controls(b,[('topic','Topic-wise'),('tanuvas','TANUVAS')],subject['slug'],True)
     for ident,title,records,category,tone in [('notes','Topic-wise Notes',topics,'topic','sky'),('tanuvas','TANUVAS Notes',tanuvas,'tanuvas','mint')]:
@@ -40,8 +41,8 @@ def render(b,year,subject,books):
         body+=groups(b,records,subject,category)+'</section>'
     body+='<p class="filter-empty" hidden>No notes match. '+b.link('/request-resource/','Request a resource')+'</p></div>'
     body+='<section class="subject-reading-section" id="books"><header><span class="rx-row-icon yellow">'+b.icon('book')+'</span><h2>Recommended Books</h2></header>'+subject_books(b,own)+'</section>'
-    body+='<details class="subject-study-guide"><summary>What to cover '+b.icon('chevron')+'</summary><ul>'+''.join('<li>'+e(t)+'</li>' for t in guide['topics'])+'</ul><p>'+e(guide['studyTip'])+'</p></details>'
-    body+='<nav class="subject-bottom-nav" aria-label="More study material">'+b.link(f'/bvsc/year-{year}/','All '+label+' subjects '+b.icon('arrow'))+b.link(f'/bvsc/year-{year}/roadmap/','Year roadmap '+b.icon('map'))+'</nav></div>'
+    body+='<details class="subject-study-guide"><summary>What to cover '+b.icon('chevron')+'</summary><p>'+e(guide['summary'])+'</p><ul>'+''.join('<li>'+e(t)+'</li>' for t in guide['topics'])+'</ul><p>'+e(guide['studyTip'])+'</p></details>'
+    body+='<nav class="subject-bottom-nav" aria-label="More study material">'+b.link(f'/bvsc/year-{year}/','All '+label+' subjects '+b.icon('arrow'))+b.link(f'/bvsc/year-{year}/roadmap/','Year roadmap '+b.icon('map'))+'<button type="button" class="studied-button js-only" data-studied="'+subject['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></nav></div>'
     b.write_page(path,name+' Notes, TANUVAS Material & Books',description,body,[(r['title'],r['url']) for r in rows])
 
 def legacy_notes(b,y):
