@@ -54,6 +54,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
     if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
+    reader_script=f'<script src="/assets/subject-reader.js?v={VERSION}" defer></script>' if 'data-subject-reader' in body else ''
     preload='balsamiq'
     page_header=homepage.header(path,home)
     page_footer=homepage.footer()
@@ -70,7 +71,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{escape(title,quote=True)} — Rx Notes by ThatVetGuy">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}">
 <link rel="stylesheet" href="/assets/site.css?v={VERSION}">{extra_assets}<link rel="preload" href="/assets/fonts/{preload}-latin.woff2" as="font" type="font/woff2" crossorigin>{font_preload}
-<script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>
+<script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>{reader_script}
 </head><body class="mockup-home{' rx-inner' if not home else ''}{' rx-academic' if path.startswith('/bvsc/') else ''}">{page_header}<main id="main">{page_search}{body}</main>{page_footer}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
 def discovery():
