@@ -38,3 +38,7 @@ Full QA: https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/403016
 Final compact-copy/empty-state refinement: 30 focused browser views and 32 general views passed. Four Lighthouse audits again scored 99/100/100/100. Subject LCP improved to 1.81–1.89s; year-directory LCP was 2.04–2.11s. TANUVAS collection keywords are now included in the public search index and verified against every one of the 47 TANUVAS-labelled entries using the production search function. Unit groups sort numerically (Units 1–6 before Unit 7).
 
 Refinement QA: https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40303028852 Production verification then compares the deployed build marker and asset versions, including new year and subject routes.
+
+## Wider regression
+
+The main-branch audit measured 198 views and 11 Lighthouse audits. All academic, objective, clinical, tools, search, about and request views passed. It caught a pre-existing homepage font-load shift at 768px (CLS 0.119): the cursive fallback wrapped the academic subtitle to two lines before Caveat loaded. The approved final typography is unchanged. A locally available fallback is adjusted to 76.09%, measured from the actual Caveat and Liberation Sans advance widths for that subtitle; the correction receives a focused nine-width light/dark CLS regression. Search remains intentionally noindex (Lighthouse SEO 66); all indexable audited pages scored 100 SEO and accessibility, performance 97–99.

@@ -13,7 +13,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm install && npx playwright install --with-deps chromium
       - name: Wait for the exact production build
         run: |
           for attempt in 1 2 3 4 5 6; do
@@ -29,6 +28,9 @@ jobs:
         run: python3 scripts/task3-hosting.py
       - name: Audit search endpoints after exact-build verification
         run: python3 scripts/search-health.py --label production
+      - name: Install browser audit dependencies
+        run: npm install && npx playwright install --with-deps chromium
+        timeout-minutes: 8
       - name: Production Lighthouse and axe
         run: npm run qa -- production
         env:
