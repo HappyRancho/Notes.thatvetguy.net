@@ -37,8 +37,6 @@ Nothing here yet. Even a calf needs a minute to stand.
 
 0 books
 
-Reading recommendations. Expand a title for guidance.
-
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
 No notes found.
