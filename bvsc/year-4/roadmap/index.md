@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/; updated: 2026-10-24 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/; updated: 2026-10-26 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year BVSc & AH Roadmap
 
@@ -36,10 +36,10 @@ TheoryPractical
 
 Tap a row to find its books and notes.
 
-- [Medicine4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-medicine)
-- [Surgery & Radiology2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-surgery-and-radiology)
-- [Gynaecology & Obstetrics2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-gynaecology-and-obstetrics)
-- [Clinical Practices II0 theory + 6 practical6 credits](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-clinical-practices-ii)
+- [Medicine4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- [Surgery & Radiology2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- [Gynaecology & Obstetrics2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- [Clinical Practices II0 theory + 6 practical6 credits](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
 17 credits in total · 8 theory + 9 practical.
 
@@ -94,7 +94,7 @@ Try this Present a case as history, findings, problem list and differentials. Ex
 
 A list of diseases is not yet a differential diagnosis.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-medicine)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-medicine)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#notes)
 
 2
 
@@ -106,7 +106,7 @@ Try this Learn the indication and anatomical basis of a procedure with its prepa
 
 Knowing the instrument's name is the opening scene, not the whole surgery.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-surgery-and-radiology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-surgery-and-radiology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#notes)
 
 3
 
@@ -118,7 +118,7 @@ Try this Link normal reproductive physiology to clinical findings. Compare speci
 
 Species differences have entered the chat.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-gynaecology-and-obstetrics)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-4/notes/#veterinary-gynaecology-and-obstetrics)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#notes)
 
 4
 
@@ -130,7 +130,7 @@ Try this Keep a de-identified case log: what you observed, your reasoning, feedb
 
 The logbook is evidence of learning, not a scrapbook of signatures.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/#veterinary-clinical-practices-ii)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/#books)
 
 ## A week that works
 
@@ -207,4 +207,4 @@ Research checked 24 October 2026.
 
 [Read the 4th Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf)
 
-Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.

@@ -6,9 +6,9 @@
         {
           "name": "Veterinary Anatomy",
           "slug": "veterinary-anatomy",
-          "count": 15,
+          "count": 19,
           "groups": {
-            "notes": 15
+            "notes": 19
           },
           "resourceIds": [
             "1P6FkelJcdHlcjNgA7R261foED4na_0Xb",
@@ -25,15 +25,19 @@
             "1ccSkEH3ddWp67okEFIBj9HqgKA_2NJMd",
             "1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI",
             "1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7",
-            "17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise"
+            "17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise",
+            "tanuvas-a240ff27a67c927577",
+            "tanuvas-4592eea910f6434b9b",
+            "tanuvas-59823e1aa0ff394eac",
+            "tanuvas-216315ab36b590d7a5"
           ]
         },
         {
           "name": "Veterinary Physiology",
           "slug": "veterinary-physiology",
-          "count": 13,
+          "count": 15,
           "groups": {
-            "notes": 13
+            "notes": 15
           },
           "resourceIds": [
             "1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR",
@@ -48,17 +52,23 @@
             "115QHy3OdWUAi2dhZVuwFCFA7qIku7s34",
             "1G4VB6Ruf6scRbOGp1wIK3aw2LVehJ3Cr",
             "1ThiSbeyYn-GCDEqvDQ0WagiRTZx8eR_N",
-            "1Ji7mcCxsitxUa8sAh0uc3rt38Z_fzlQb"
+            "1Ji7mcCxsitxUa8sAh0uc3rt38Z_fzlQb",
+            "tanuvas-f0ac6816f9b6096d39",
+            "tanuvas-8f9640a9a4d85763ca"
           ]
         },
         {
           "name": "Livestock Production Management",
           "slug": "livestock-production-management",
-          "count": 25,
+          "count": 29,
           "groups": {
-            "notes": 25
+            "notes": 29
           },
           "resourceIds": [
+            "tanuvas-aae6e7ecda0ae1f517",
+            "tanuvas-8e2824e2841fa45060",
+            "tanuvas-32b729a73dd389fa5e",
+            "tanuvas-9fadb473c67ffdd86e",
             "1AGbIMXNivCW5o-pFaPm7rbKehpUBqnoN",
             "1HJ6X0mF8E_7V_0RYdaNNozGVCBcq7sFi",
             "1x85Z3MK8berY8uBAWxHXnrFEznDs3Fry",
@@ -87,10 +97,10 @@
           ]
         }
       ],
-      "count": 53,
+      "count": 63,
       "extras": [],
-      "rawCount": 53,
-      "fileCount": 53
+      "rawCount": 63,
+      "fileCount": 63
     },
     {
       "year": 2,
@@ -98,9 +108,9 @@
         {
           "name": "Veterinary Biochemistry",
           "slug": "veterinary-biochemistry",
-          "count": 21,
+          "count": 23,
           "groups": {
-            "notes": 21
+            "notes": 23
           },
           "resourceIds": [
             "15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY",
@@ -123,15 +133,17 @@
             "1x_5EtNhb-gmBYWiuahg6FW8uFovfVeT8",
             "1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS",
             "1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG",
-            "1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb"
+            "1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb",
+            "tanuvas-28e8e22b829dc09f95",
+            "tanuvas-a18c3b0a11e67fd451"
           ]
         },
         {
           "name": "Veterinary Microbiology",
           "slug": "veterinary-microbiology",
-          "count": 63,
+          "count": 67,
           "groups": {
-            "notes": 63
+            "notes": 67
           },
           "resourceIds": [
             "1f1O_7UQdwCgEPp8JurA5Qlv0cCf14_kN",
@@ -196,15 +208,19 @@
             "1WX_q1L9vNR9b9W_E1Gy00AuWfC9TVe5I",
             "1QV1lI2cDCO2pMt05GhdJoZozUAdiS2f6",
             "10nke7B2QTC-VrheN9mPfyIV_aq4hvzbN",
-            "1BrDcnVBIbSX4GhaMWkARDvm-YGQnMLiO"
+            "1BrDcnVBIbSX4GhaMWkARDvm-YGQnMLiO",
+            "tanuvas-7b3fe113f519aa39e0",
+            "tanuvas-e68e63191275fc8e67",
+            "tanuvas-7199850f921ed4bfd0",
+            "tanuvas-8efdd47d9a4dbf9bc1"
           ]
         },
         {
           "name": "Veterinary Pathology",
           "slug": "veterinary-pathology",
-          "count": 48,
+          "count": 52,
           "groups": {
-            "notes": 48
+            "notes": 52
           },
           "resourceIds": [
             "12qH_M5E9iEUuN554pPOjrm-jDwd-pjUP",
@@ -254,17 +270,24 @@
             "18dMEUhdMlhgDh7xNpqwMgRriEyhjicOd",
             "1qXR72fmDHTDJF6OookkhY1RYfR42TiNA",
             "1UaPagZbp-7nxLzWKtAqMI0mkn95ZjwlF",
-            "1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL"
+            "1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL",
+            "tanuvas-2e62388b8442f0ab95",
+            "tanuvas-3960a97ac3fa06f531",
+            "tanuvas-7665f98c27c5951327",
+            "tanuvas-7595d0ff8a8fd7c032"
           ]
         },
         {
           "name": "Animal Genetics and Breeding",
           "slug": "animal-genetics-and-breeding",
-          "count": 45,
+          "count": 48,
           "groups": {
-            "notes": 45
+            "notes": 48
           },
           "resourceIds": [
+            "tanuvas-8e65bbc2a6e017a0f4",
+            "tanuvas-8163e18a0fb3652abd",
+            "tanuvas-9754615e9e90e7af81",
             "16_dng4BTAZRQiTFoac6SFE0X8nZ497ZD",
             "1_M7m5N5pmHVydSGZIetQi2v2w3L1CXGV",
             "1XiCkmx9J0P01yipLtS_8lC793iZ0FN6u",
@@ -315,11 +338,14 @@
         {
           "name": "Animal Nutrition",
           "slug": "animal-nutrition",
-          "count": 30,
+          "count": 33,
           "groups": {
-            "notes": 30
+            "notes": 33
           },
           "resourceIds": [
+            "tanuvas-75096a726d023fa51d",
+            "tanuvas-0fda36c330ea1bab4e",
+            "tanuvas-1545f30134be435b5d",
             "1gMgO4jwRNG1fca2SAVQhSlt3NqbF8Sm9",
             "1Btdb3TxEQO8rJeCDeT0D32GkZl9cwIiT",
             "1JThVtR7woX1TZXdEXlVrsa8LfGMZR2Eg",
@@ -353,10 +379,10 @@
           ]
         }
       ],
-      "count": 207,
+      "count": 223,
       "extras": [],
-      "rawCount": 207,
-      "fileCount": 207
+      "rawCount": 223,
+      "fileCount": 223
     },
     {
       "year": 3,
@@ -364,9 +390,9 @@
         {
           "name": "Veterinary Pharmacology and Toxicology",
           "slug": "veterinary-pharmacology-and-toxicology",
-          "count": 27,
+          "count": 31,
           "groups": {
-            "notes": 27
+            "notes": 31
           },
           "resourceIds": [
             "1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9",
@@ -395,15 +421,19 @@
             "1rKLo-enn3y1_EndqEdWnXM773-7pTLlz",
             "1x0btw5V5JU18SfjQflWu0Z3_45nT4agC",
             "1MSf3Em3drGbth-qhpMenQly6ARAGOvRr",
-            "1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu"
+            "1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu",
+            "tanuvas-ad1bc125cc713fa59a",
+            "tanuvas-ad20907ccd018cf7d1",
+            "tanuvas-7850b7fea3a950fcdb",
+            "tanuvas-830298dc73f5d32fe4"
           ]
         },
         {
           "name": "Veterinary Parasitology",
           "slug": "veterinary-parasitology",
-          "count": 47,
+          "count": 50,
           "groups": {
-            "notes": 47
+            "notes": 50
           },
           "resourceIds": [
             "10_zxvjAdbkJ8ots_sjK4S2aFJxAX4dK9",
@@ -452,15 +482,18 @@
             "1KkuQ3zk6ZJcmmVVbh-ErKgk4RwGIXZbj",
             "1ASO8cl3rBGItKZniGfMYDk04S4xoAIhR",
             "1CZI5OUbNThzh0WUKwWY7DFYSFxTyudfn",
-            "1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k"
+            "1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k",
+            "tanuvas-8ac1ab24b34875c74e",
+            "tanuvas-50d455d3b407629d78",
+            "tanuvas-0e8f81a4680616b274"
           ]
         },
         {
           "name": "Veterinary Public Health and Epidemiology",
           "slug": "veterinary-public-health-and-epidemiology",
-          "count": 35,
+          "count": 38,
           "groups": {
-            "notes": 35
+            "notes": 38
           },
           "resourceIds": [
             "1qOGQ88LK_WPCYaczN5B-qr77MCqM_RHP",
@@ -497,17 +530,23 @@
             "14KPDsj0qc5G1Bl9P8Yz5qHVK9654DA2T",
             "1UmOf5kLRtioqrxAKFdttc8W_19cgdbpB",
             "1YYO0oGZcvN3gUMMFbLNwMvMvg3YcJHbU",
-            "1DumDtiG3vdMlHug2sV3QgfwWJuI0_-p-"
+            "1DumDtiG3vdMlHug2sV3QgfwWJuI0_-p-",
+            "tanuvas-57baa9b11145fd22cb",
+            "tanuvas-cdd381ca5a135c4b60",
+            "tanuvas-b49b6feba3bacf870c"
           ]
         },
         {
           "name": "Livestock Products Technology",
           "slug": "livestock-products-technology",
-          "count": 46,
+          "count": 49,
           "groups": {
-            "notes": 46
+            "notes": 49
           },
           "resourceIds": [
+            "tanuvas-2485877b5d3702ce02",
+            "tanuvas-b00b3cc5da5b5c0286",
+            "tanuvas-ab4c2774328381bd7b",
             "1svCrcIi4ceCoCp6pf4tAYCcfVGdexysb",
             "1dRklNbpfrdBb-YoQWKP8R_qZ06vux-A3",
             "1iwPIm6WlZ-n55a1qtssQGSV0rYJ-kAYl",
@@ -559,9 +598,9 @@
         {
           "name": "Veterinary and Animal Husbandry Extension Education",
           "slug": "veterinary-and-animal-husbandry-extension-education",
-          "count": 23,
+          "count": 25,
           "groups": {
-            "notes": 23
+            "notes": 25
           },
           "resourceIds": [
             "1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5",
@@ -586,7 +625,9 @@
             "1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6",
             "1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO",
             "1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3",
-            "12EAS1o4GHCpAvou4pASwrJD-_THHhGeX"
+            "12EAS1o4GHCpAvou4pASwrJD-_THHhGeX",
+            "tanuvas-bba8df4d430f7f95c6",
+            "tanuvas-98209b61b6e8c3e754"
           ]
         },
         {
@@ -612,10 +653,10 @@
           ]
         }
       ],
-      "count": 180,
+      "count": 195,
       "extras": [],
-      "rawCount": 180,
-      "fileCount": 180
+      "rawCount": 195,
+      "fileCount": 195
     },
     {
       "year": 4,
@@ -732,6 +773,6 @@
     "reclassified": [],
     "extras": []
   },
-  "homeGzipBytes": 34874,
-  "jsGzipBytes": 8254
+  "homeGzipBytes": 35001,
+  "jsGzipBytes": 8379
 }

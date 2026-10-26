@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-10-24 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-10-26 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year BVSc & AH Roadmap
 
@@ -36,13 +36,13 @@ TheoryPractical
 
 Tap a row to find its books and notes.
 
-- [Pharmacology & Toxicology4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-pharmacology-and-toxicology)
-- [Parasitology3 theory + 2 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-parasitology)
-- [Public Health & Epidemiology3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-public-health-and-epidemiology)
-- [Extension Education3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-and-animal-husbandry-extension-education)
-- [Livestock Products Tech2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-3/#livestock-products-technology)
-- [Clinical Practices I0 theory + 1 practical1 credits](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-clinical-practices-i)
-- [Livestock Farm Practices0 theory + 2 practical2 credits](https://notes.thatvetguy.net/bvsc/year-3/#livestock-farm-practices)
+- [Pharmacology & Toxicology4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+- [Parasitology3 theory + 2 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- [Public Health & Epidemiology3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- [Extension Education3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- [Livestock Products Tech2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
+- [Clinical Practices I0 theory + 1 practical1 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
+- [Livestock Farm Practices0 theory + 2 practical2 credits](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
 24 credits in total · 15 theory + 9 practical.
 
@@ -97,7 +97,7 @@ Try this Organise each class by mechanism, uses, adverse effects and important c
 
 A brand name is not a mechanism of action.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-pharmacology-and-toxicology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-pharmacology-and-toxicology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#notes)
 
 2
 
@@ -109,7 +109,7 @@ Try this Draw a life cycle with host, infective stage and diagnostic stage. Link
 
 Do not mix up the infective stage and the stage you identify.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-parasitology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-parasitology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#notes)
 
 3
 
@@ -121,7 +121,7 @@ Try this Connect the source, transmission route and prevention. Work through epi
 
 The denominator is doing more work than the highlighter.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-public-health-and-epidemiology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-public-health-and-epidemiology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#notes)
 
 4
 
@@ -133,7 +133,7 @@ Try this Apply each method to a real livestock-owner situation. Practise explain
 
 A perfectly memorised message still needs someone to understand it.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-and-animal-husbandry-extension-education)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-and-animal-husbandry-extension-education)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#notes)
 
 5
 
@@ -145,7 +145,7 @@ Try this Make process flows with the purpose of each stage. Link a quality test 
 
 Learn why the process exists, not just the arrows between boxes.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/#livestock-products-technology)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-products-technology)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#notes)
 
 6
 
@@ -157,7 +157,7 @@ Try this Observe a structured examination with your supervisor. Record findings,
 
 A case log is more useful before the memory expires.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/#veterinary-clinical-practices-i)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/notes/#veterinary-clinical-practices-i)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/#notes)
 
 7
 
@@ -169,7 +169,7 @@ Try this Keep the day's farm activity and its purpose together. Ask for feedback
 
 Farm records do not become easier when copied from memory in bulk.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/#livestock-farm-practices)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/notes/#livestock-farm-practices)
+[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#notes)
 
 ## A week that works
 
@@ -240,4 +240,4 @@ Research checked 24 October 2026.
 
 [Read the 3rd Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 
-Page updated: 2026-10-24. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.

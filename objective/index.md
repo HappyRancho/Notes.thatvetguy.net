@@ -104,4 +104,4 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://t.me/veterinary_question_bank/4)
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-26; external file availability can change.

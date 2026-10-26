@@ -58,4 +58,4 @@ Colour handbook of Small Animal Emergency and Critical care.
 
 These books open in Telegram. Use clinical references alongside supervised training and current guidance.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-20; external file availability can change.
+Page updated: 2026-10-20. Sources last reviewed: 2026-10-26; external file availability can change.
