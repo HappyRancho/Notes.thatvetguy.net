@@ -5,6 +5,10 @@ const index=JSON.parse(fs.readFileSync(path.join(__dirname,'../search-index.json
 assert.equal(normal('  Gynæcology — café  '),'gyn cology cafe');
 for(const query of ['Pharmacology','Haemonchus','NSAIDs','Surgery books']){const results=find(query,index);assert.ok(results.every(r=>normal([r.title,r.subject,r.type,r.path,r.group,r.keywords].join(' ')).includes(normal(query).split(' ')[0])),query)}
 assert.equal(find('doesnotexist-948839',index).length,0);
+const catalogue=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/resources.json'),'utf8'));
+const tanuvas=catalogue.files.filter(r=>r.collections.includes('tanuvas'));
+const tanuvasMatches=new Set(find('TANUVAS',index).map(r=>r.id));
+assert.ok(tanuvas.every(r=>tanuvasMatches.has(r.id)),'Every TANUVAS resource is searchable by collection name');
 assert.ok(find('veterinary pharmacology',index).some(r=>r.title.includes('Pharmacology')));
 const bad=store({getItem(){throw Error('blocked')},setItem(){throw Error('blocked')}});
 assert.deepEqual(bad.read('saved',[]),[]);assert.equal(bad.write('saved',['one']),false);assert.deepEqual(bad.read('saved',[]),['one']);

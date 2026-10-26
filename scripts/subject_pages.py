@@ -1,5 +1,6 @@
 """One canonical subject page for books, topic notes and TANUVAS collections."""
 from html import escape as e
+import re
 from library import slug,natural,normal
 from course_outlines import outline_url
 
@@ -20,7 +21,7 @@ def subject_tile(b,year,subject,books):
 def groups(b,rows,subject,category):
     from library_views import group,empty
     if not rows:return '<p class="subject-source-note">No separate TANUVAS collection is listed for this subject yet.</p>' if category=='tanuvas' else empty(b,'Topic-wise notes coming soon')
-    units=sorted({r['unit'] for r in rows},key=natural)
+    units=sorted({r['unit'] for r in rows},key=lambda u:(int(m[1]) if (m:=re.match(r'Units?\s+(\d+)',u,re.I)) else 100000,natural(u)))
     return ''.join(group(b,unit,[r for r in rows if r['unit']==unit],subject['slug']+('-tanuvas-' if category=='tanuvas' else '-')+slug(unit),i==0,level=3,filterkey=category) for i,unit in enumerate(units))
 
 def render(b,year,subject,books):

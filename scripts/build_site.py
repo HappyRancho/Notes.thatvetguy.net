@@ -81,7 +81,7 @@ def discovery():
     for r in RECORDS:
         if not keep_complete_resource(r):
             continue
-        item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink']};item['fileIds']=(r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
+        item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink','keywords']};item['fileIds']=(r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').rglob('index.html'):

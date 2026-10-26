@@ -29,4 +29,12 @@ The source pass reviewed 42 unique TANUVAS entries: 40 PDFs/Drive resources and 
 
 Static checks pass: all 499 original notes accounted for; 561 catalogue/search rows; one canonical file row per resource; 19 subject routes; all old file aliases; 35 reachable indexable sitemap pages; no broken internal file/anchor targets; original course PDF hashes; strict reviewed-link policy; heading/schema/metadata checks; 64 approved contrast pairs.
 
-Browser and deployment results are recorded in the linked Actions run and QA artifact.
+Full browser regression: 130 academic views (all four years at 360/390/430/768/1024/1280/1440, all 19 subjects at 390 in light/dark, plus representative subjects at the other widths), zero overflow or serious/critical axe findings. Homepage regression: 12 views, all interactions passed. General page regression: 32 views, no bugs.
+
+Lighthouse mobile on Year 1, Year 4, Anatomy and Pharmacology: 99 performance, 100 accessibility, 100 best practices, 100 SEO on all four. LCP 1.96–2.11 seconds; CLS 0–0.006. The 2.0-second LCP target was slightly exceeded by the two year directories in this lab pass; no faster score is claimed.
+
+Full QA: https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40301657298
+
+Final compact-copy/empty-state refinement: 30 focused browser views and 32 general views passed. Four Lighthouse audits again scored 99/100/100/100. Subject LCP improved to 1.81–1.89s; year-directory LCP was 2.04–2.11s. TANUVAS collection keywords are now included in the public search index and verified against every one of the 47 TANUVAS-labelled entries using the production search function. Unit groups sort numerically (Units 1–6 before Unit 7).
+
+Refinement QA: https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40303028852 Production verification then compares the deployed build marker and asset versions, including new year and subject routes.

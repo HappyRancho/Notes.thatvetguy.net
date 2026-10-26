@@ -31,5 +31,7 @@ for r in tanuvas['notes']:
  assert r['id'] in rows and 'tanuvas' in rows[r['id']]['collections']
  assert rows[r['id']]['url']==r['url']
 assert all('TANUVAS' in r['keywords'] for r in rows.values() if 'tanuvas' in r['collections'])
+anatomy=(ROOT/'bvsc/year-1/veterinary-anatomy/index.html').read_text().split('<main',1)[1]
+assert anatomy.index('Units 1–6')<anatomy.index('Unit 7'), 'Unit order must be numeric'
 assert len(routes)==19
 print(f'PASS: {len(routes)} canonical subject pages; four compact year hubs; old file anchors preserved; {len(tanuvas["notes"])} TANUVAS source entries reconciled.')
