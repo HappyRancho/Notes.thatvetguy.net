@@ -41,7 +41,8 @@ $$('.filter-collection').forEach(collection=>{const query=$('.collection-query',
 });
 // Open an anchored row, preset or group even when its parent accordion is closed.
 function revealHash(){let id;try{id=decodeURIComponent(location.hash.slice(1))}catch{return}const target=document.getElementById(id);if(!target)return;let parent=target;while(parent){if(parent.tagName==='DETAILS')parent.open=true;parent=parent.parentElement}if(target.matches('[data-subject-section]'))target.querySelector('.resource-group')?.setAttribute('open','');requestAnimationFrame(()=>target.scrollIntoView({block:'start',behavior:'instant'}))}
-window.addEventListener('hashchange',revealHash);if(location.hash)revealHash();
+function legacyNoteTarget(){const gateway=$('.legacy-notes-gateway');if(!gateway||!location.hash)return false;let id;try{id=decodeURIComponent(location.hash.slice(1))}catch{return false}const node=document.getElementById(id),destination=node?.dataset.destination;if(node&&gateway.contains(node)&&destination?.startsWith('/bvsc/')){location.replace(destination);return true}return false}
+window.addEventListener('hashchange',()=>{if(!legacyNoteTarget())revealHash()});if(location.hash&&!legacyNoteTarget())revealHash();
 const savedKey='tvg-bookmarks',recentKey='tvg-recent',studiedKey='tvg-studied';
 const legacyStudied=store.read(studiedKey,{});if(Array.isArray(legacyStudied))store.write(studiedKey,Object.fromEntries(legacyStudied.map(id=>[id,true])));
 function savedIds(){const a=store.read(savedKey,[]);return Array.isArray(a)?a:[]}

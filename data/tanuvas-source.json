@@ -1075,9 +1075,9 @@
       "id": "tanuvas-8ac1ab24b34875c74e",
       "year": 3,
       "subject": "Veterinary Parasitology",
-      "unit": "VPA-211 · General Veterinary Parasitology And Helminthology",
-      "name": "VPA-211 General Veterinary Parasitology And Helminthology",
-      "title": "VPA-211 General Veterinary Parasitology And Helminthology",
+      "unit": "VPA-211 · Veterinary Entomology",
+      "name": "Veterinary Entomology (TANUVAS)",
+      "title": "Veterinary Entomology (TANUVAS)",
       "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
       "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
       "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
@@ -1092,7 +1092,8 @@
         "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml",
         "documentOpening": "MODULE- 1 :  ARTHROPODA -  INSECTA Learning objectives This module deals with, classification of arthropoda, general features of arthropoda, metamorphosis, types of larva and pupa, characteristics of insecta and general  features of dipteran fly. PHYLUM ARTHROPODA Arthropoda is a greek word meaning ‘arthros’-joint; ‘podos’-foot which  refers to the"
       },
-      "alsoListedAt": []
+      "alsoListedAt": [],
+      "originalSourceTitle": "VPA-211 General Veterinary Parasitology And Helminthology"
     },
     {
       "id": "tanuvas-50d455d3b407629d78",
@@ -1268,6 +1269,12 @@
       "status": "conflicting-source-label",
       "course": "VAE-511",
       "reason": "Same file is labelled for different subjects; retained once under Veterinary Public Health and Epidemiology"
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
+      "status": "corrected-source-label",
+      "course": "VPA-211",
+      "reason": "DOCX opens with Arthropoda/Insecta; display corrected to Veterinary Entomology"
     }
   ],
   "stats": {
@@ -1279,6 +1286,6 @@
       "4": 0
     },
     "duplicatesMerged": 1,
-    "unavailable": 2
+    "unavailable": 3
   }
 }

@@ -44,7 +44,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     description=search_meta.get('description',description)
     page_title=search_meta.get('title',title if home else title+' | Notes.ThatVetGuy')
     modified=geo.page_modified(path,page_title,description,body)
-    geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified,DATA['lastChecked']);social=geo.social(path)
+    geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified,DATA['lastChecked'],noindex=noindex);social=geo.social(path)
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433')
     extra_assets=f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
@@ -52,6 +52,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
+    if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
     preload='balsamiq'
     page_header=homepage.header(path,home)
@@ -96,7 +97,7 @@ def discovery():
         lines.append(base+'books/ '+base+'#books 301')
         for subject in y['subjects']:
             ss=subject['slug']
-            lines.extend(['/bvsc/'+ss+'/ '+base+'#'+ss+' 301',base+ss+'/ '+base+'notes/#'+ss+' 301'])
+            lines.append('/bvsc/'+ss+'/ '+base+ss+'/ 301')
     lines.append('/clinical/ /#clinical 301')
     for y in [2,4]:lines.append('/bvsc/year-'+str(y)+'/unsorted/ /bvsc/year-'+str(y)+'/ 301')
     redirects.write_text('\n'.join(lines)+'\n');(ROOT/'.nojekyll').touch()
