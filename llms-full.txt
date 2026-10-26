@@ -340,32 +340,6 @@ Search this collection
 
 15
 
-### Unit 7 – Veterinary Histology
-
-3
-
-PDF
-Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
-
-PDF
-Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
-
-PDF
-Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
-
-### Unit 8 – Veterinary Embryology
-
-3
-
-PDF
-Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
-
-PDF
-Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
-
-PDF
-Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
-
 ### Units 1–6 – Gross and Applied Anatomy
 
 9
@@ -396,6 +370,32 @@ Splanchnology[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZ
 
 PDF
 Veterinary Anatomy Overall[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
+
+### Unit 7 – Veterinary Histology
+
+3
+
+PDF
+Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
+
+PDF
+Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
+
+PDF
+Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
+
+### Unit 8 – Veterinary Embryology
+
+3
+
+PDF
+Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
+
+PDF
+Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
+
+PDF
+Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
 
 ## TANUVAS Notes
 
@@ -487,13 +487,6 @@ Search this collection
 
 12
 
-### Additional subject notes
-
-1
-
-PDF
-Veterinary Physiology Note by KVASUKVASU[Open Veterinary Physiology Note by KVASU](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
-
 ### Unit 1 – Blood, Cardiovascular, Nervous and Muscular Systems
 
 4
@@ -542,6 +535,13 @@ Lactation Physiology of Domestic Animals[Open Lactation Physiology of Domestic A
 
 PDF
 Reproduction System of Domestic Animals[Open Reproduction System of Domestic Animals](https://drive.google.com/file/d/1Ji7mcCxsitxUa8sAh0uc3rt38Z_fzlQb/view?usp=sharing)
+
+### Additional subject notes
+
+1
+
+PDF
+Veterinary Physiology Note by KVASUKVASU[Open Veterinary Physiology Note by KVASU](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
 
 ## TANUVAS Notes
 
@@ -3211,19 +3211,6 @@ Search this collection
 
 22
 
-### Additional subject notes
-
-3
-
-PDF
-All Diseases of Elephant[Open All Diseases of Elephant](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
-
-PDF
-Different Biological Parameters of Animals[Open Different Biological Parameters of Animals](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
-
-PDF
-List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary (PVM)](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
-
 ### Unit 1 – General
 
 2
@@ -3309,6 +3296,19 @@ Animal Welfare of Veterinary Medicine[Open Animal Welfare of Veterinary Medicine
 PDF
 Jurisprudence, Ethics and Animal Welfare by KVASUKVASU[Open Jurisprudence, Ethics and Animal Welfare by KVASU](https://drive.google.com/file/d/1v-NH4PsLAmh2euiUMUSWjwN0AdlUBu3e/view?usp=sharing)
 
+### Additional subject notes
+
+3
+
+PDF
+All Diseases of Elephant[Open All Diseases of Elephant](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
+
+PDF
+Different Biological Parameters of Animals[Open Different Biological Parameters of Animals](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
+
+PDF
+List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary (PVM)](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
+
 ## TANUVAS Notes
 
 1
@@ -3377,22 +3377,6 @@ Search this collection
 ## Topic-wise Notes
 
 22
-
-### Additional subject notes
-
-4
-
-PDF
-Surgical Instruments VCP (S)[Open Surgical Instruments VCP (S)](https://drive.google.com/file/d/1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU/view?usp=sharing)
-
-PDF
-Veterinary Surgical Instruments[Open Veterinary Surgical Instruments](https://drive.google.com/file/d/12hseXIppM1376EIQjbyZsRT6XSrijM7l/view?usp=sharing)
-
-PDF
-Veterinary Ultrasonography (USG)[Open Veterinary Ultrasonography (USG)](https://drive.google.com/file/d/1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB/view?usp=sharing)
-
-PDF
-Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/file/d/1um601lvkyKJDKQqhoJ59aEyO1knB2iRX/view?usp=sharing)
 
 ### Unit 1 – Veterinary General Surgery
 
@@ -3472,6 +3456,22 @@ Orthopedics and Lameness[Open Orthopedics and Lameness](https://drive.google.com
 PDF
 Orthopedics and Lameness Note by KVASUKVASU[Open Orthopedics and Lameness Note by KVASU](https://drive.google.com/file/d/1hFMUUYYkE4FCf_YSr-DoJgnk26O6ym2S/view?usp=sharing)
 
+### Additional subject notes
+
+4
+
+PDF
+Surgical Instruments VCP (S)[Open Surgical Instruments VCP (S)](https://drive.google.com/file/d/1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU/view?usp=sharing)
+
+PDF
+Veterinary Surgical Instruments[Open Veterinary Surgical Instruments](https://drive.google.com/file/d/12hseXIppM1376EIQjbyZsRT6XSrijM7l/view?usp=sharing)
+
+PDF
+Veterinary Ultrasonography (USG)[Open Veterinary Ultrasonography (USG)](https://drive.google.com/file/d/1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB/view?usp=sharing)
+
+PDF
+Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/file/d/1um601lvkyKJDKQqhoJ59aEyO1knB2iRX/view?usp=sharing)
+
 ## TANUVAS Notes
 
 1
@@ -3541,28 +3541,6 @@ Search this collection
 
 11
 
-### Additional subject notes
-
-6
-
-PDF
-Caesarean Section in Farm Animals[Open Caesarean Section in Farm Animals](https://drive.google.com/file/d/1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B/view?usp=sharing)
-
-PDF
-Different Parts of Female Reproductive System[Open Different Parts of Female Reproductive System](https://drive.google.com/file/d/17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V/view?usp=sharing)
-
-PDF
-Dystocia[Open Dystocia](https://drive.google.com/file/d/1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9/view?usp=sharing)
-
-PDF
-Pregnancy Diagnosis and Artificial Insemination Note by Vet Study[Open Pregnancy Diagnosis and Artificial Insemination Note by Vet Study](https://drive.google.com/file/d/1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy/view?usp=sharing)
-
-PDF
-Veterinary Gynaecology and Obstetrics Note by H.M. Barot[Open Veterinary Gynaecology and Obstetrics Note by H.M. Barot](https://drive.google.com/file/d/11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR/view?usp=sharing)
-
-PDF
-Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google.com/file/d/1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H/view?usp=sharing)
-
 ### Unit 1 – Veterinary Gynaecology
 
 1
@@ -3589,6 +3567,28 @@ Veterinary Andrology and AI[Open Veterinary Andrology and AI](https://drive.goog
 
 PDF
 Veterinary Andrology and Artificial Insemination Note by KVASUKVASU[Open Veterinary Andrology and Artificial Insemination Note by KVASU](https://drive.google.com/file/d/1Ef69on82Q3UzeyQgpsEDsqRtcSsWy5lk/view?usp=sharing)
+
+### Additional subject notes
+
+6
+
+PDF
+Caesarean Section in Farm Animals[Open Caesarean Section in Farm Animals](https://drive.google.com/file/d/1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B/view?usp=sharing)
+
+PDF
+Different Parts of Female Reproductive System[Open Different Parts of Female Reproductive System](https://drive.google.com/file/d/17FhuCbWB7iCZIltbkrxL9uQk8-Bqnz3V/view?usp=sharing)
+
+PDF
+Dystocia[Open Dystocia](https://drive.google.com/file/d/1r-6u2kJZBz7CK5JeIiHnVoozNLatRaT9/view?usp=sharing)
+
+PDF
+Pregnancy Diagnosis and Artificial Insemination Note by Vet Study[Open Pregnancy Diagnosis and Artificial Insemination Note by Vet Study](https://drive.google.com/file/d/1fv-tI1c1dNh1GOJXLAsQLB2nlq5nYKwy/view?usp=sharing)
+
+PDF
+Veterinary Gynaecology and Obstetrics Note by H.M. Barot[Open Veterinary Gynaecology and Obstetrics Note by H.M. Barot](https://drive.google.com/file/d/11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR/view?usp=sharing)
+
+PDF
+Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google.com/file/d/1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H/view?usp=sharing)
 
 ## TANUVAS Notes
 

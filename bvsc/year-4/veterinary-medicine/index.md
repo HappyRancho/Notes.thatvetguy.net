@@ -15,19 +15,6 @@ Search this collection
 
 22
 
-### Additional subject notes
-
-3
-
-PDF
-All Diseases of Elephant[Open All Diseases of Elephant](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
-
-PDF
-Different Biological Parameters of Animals[Open Different Biological Parameters of Animals](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
-
-PDF
-List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary (PVM)](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
-
 ### Unit 1 – General
 
 2
@@ -112,6 +99,19 @@ Animal Welfare of Veterinary Medicine[Open Animal Welfare of Veterinary Medicine
 
 PDF
 Jurisprudence, Ethics and Animal Welfare by KVASUKVASU[Open Jurisprudence, Ethics and Animal Welfare by KVASU](https://drive.google.com/file/d/1v-NH4PsLAmh2euiUMUSWjwN0AdlUBu3e/view?usp=sharing)
+
+### Additional subject notes
+
+3
+
+PDF
+All Diseases of Elephant[Open All Diseases of Elephant](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
+
+PDF
+Different Biological Parameters of Animals[Open Different Biological Parameters of Animals](https://drive.google.com/file/d/1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH/view?usp=sharing)
+
+PDF
+List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary (PVM)](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
 
 ## TANUVAS Notes
 

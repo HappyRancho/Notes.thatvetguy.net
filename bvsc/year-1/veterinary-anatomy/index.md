@@ -15,32 +15,6 @@ Search this collection
 
 15
 
-### Unit 7 – Veterinary Histology
-
-3
-
-PDF
-Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
-
-PDF
-Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
-
-PDF
-Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
-
-### Unit 8 – Veterinary Embryology
-
-3
-
-PDF
-Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
-
-PDF
-Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
-
-PDF
-Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
-
 ### Units 1–6 – Gross and Applied Anatomy
 
 9
@@ -71,6 +45,32 @@ Splanchnology[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZ
 
 PDF
 Veterinary Anatomy Overall[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
+
+### Unit 7 – Veterinary Histology
+
+3
+
+PDF
+Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
+
+PDF
+Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google.com/file/d/1G0V5_hnXaMWb6Ty4dSsWxi9B3NLInX9B/view?usp=sharing)
+
+PDF
+Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
+
+### Unit 8 – Veterinary Embryology
+
+3
+
+PDF
+Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
+
+PDF
+Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.google.com/file/d/1TSWHP1GIGVxijfjMjmyhwSb0szKG-hrl/view?usp=sharing)
+
+PDF
+Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
 
 ## TANUVAS Notes
 
