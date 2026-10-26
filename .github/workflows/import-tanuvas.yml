@@ -1,0 +1,30 @@
+name: Verify VetBVSc TANUVAS collection links
+on:
+  push:
+    branches: [homepage-approved-mockups]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  source:
+    if: contains(github.event.head_commit.message, '[tanuvas-import]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/import-tanuvas.py
+      - name: Save verified source metadata
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/tanuvas-source.json
+          git commit -m 'Record verified TANUVAS collections and unavailable sources [generated]'
+          git push origin HEAD:homepage-approved-mockups
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: tanuvas-source-review
+          path: data/tanuvas-source.json
