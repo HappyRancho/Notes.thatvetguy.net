@@ -37,7 +37,7 @@ def groups(b,rows,subject,category):
     result=[]
     for i,unit in enumerate(units):
         own=[r for r in rows if r['unit']==unit];code,title=unit_parts(unit);ident=subject['slug']+'-'+slug(unit)
-        heading=('<span class="reader-unit-label">'+e(code)+'</span>' if code else '')+'<span>'+e(title)+'</span>'
+        heading=('<span class="reader-unit-label">'+e(code)+'</span> ' if code else '')+'<span>'+e(title)+'</span>'
         result.append('<details class="resource-group reader-unit" id="'+ident+'" data-group="topic"'+(' open' if i==0 else '')+'><summary><h3>'+heading+'</h3><span class="group-count">'+str(len(own))+'<span class="sr-only"> notes</span></span>'+b.icon('chevron')+'</summary><div class="group-body">'+chunks(b,own)+'</div></details>')
     return ''.join(result)
 
