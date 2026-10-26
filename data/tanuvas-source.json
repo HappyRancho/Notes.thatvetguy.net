@@ -231,8 +231,8 @@
     {
       "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
       "course": "VPA-211",
-      "resources": 0,
-      "candidates": 0
+      "resources": 1,
+      "candidates": 1
     },
     {
       "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf",
@@ -243,8 +243,8 @@
     {
       "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx",
       "course": "VPA-222",
-      "resources": 0,
-      "candidates": 0
+      "resources": 1,
+      "candidates": 1
     },
     {
       "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf",
@@ -1072,6 +1072,29 @@
       ]
     },
     {
+      "id": "tanuvas-8ac1ab24b34875c74e",
+      "year": 3,
+      "subject": "Veterinary Parasitology",
+      "unit": "VPA-211 · General Veterinary Parasitology And Helminthology",
+      "name": "VPA-211 General Veterinary Parasitology And Helminthology",
+      "title": "VPA-211 General Veterinary Parasitology And Helminthology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "DOCX",
+      "courseCode": "VPA-211",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml",
+        "documentOpening": "MODULE- 1 :  ARTHROPODA -  INSECTA Learning objectives This module deals with, classification of arthropoda, general features of arthropoda, metamorphosis, types of larva and pupa, characteristics of insecta and general  features of dipteran fly. PHYLUM ARTHROPODA Arthropoda is a greek word meaning ‘arthros’-joint; ‘podos’-foot which  refers to the"
+      },
+      "alsoListedAt": []
+    },
+    {
       "id": "tanuvas-50d455d3b407629d78",
       "year": 3,
       "subject": "Veterinary Parasitology",
@@ -1091,6 +1114,29 @@
         "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf",
         "mime": "application/pdf",
         "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-0e8f81a4680616b274",
+      "year": 3,
+      "subject": "Veterinary Parasitology",
+      "unit": "VPA-222 · Veterinary Protozoology",
+      "name": "VPA-222 Veterinary Protozoology",
+      "title": "VPA-222 Veterinary Protozoology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "DOCX",
+      "courseCode": "VPA-222",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml",
+        "documentOpening": "MODULE- 1 :  PROTOZOA - INTRODUCTION Learning objectives At the end of this module, the learners are expected to have a good understanding of  protozoa of veterinary importance, their structure, locomotion, nutrition and reproduction. WHAT IS PROTOZOA? Protozoa   form a subkingdom of the kingdom   protista. They are unicellular in size and some are"
       },
       "alsoListedAt": []
     },
@@ -1216,17 +1262,23 @@
       "year": 4,
       "status": "no-resources",
       "reason": "No linked TANUVAS courses on this collection page"
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf",
+      "status": "conflicting-source-label",
+      "course": "VAE-511",
+      "reason": "Same file is labelled for different subjects; retained once under Veterinary Public Health and Epidemiology"
     }
   ],
   "stats": {
-    "resources": 40,
+    "resources": 42,
     "byYear": {
       "1": 11,
       "2": 16,
-      "3": 13,
+      "3": 15,
       "4": 0
     },
     "duplicatesMerged": 1,
-    "unavailable": 1
+    "unavailable": 2
   }
 }
