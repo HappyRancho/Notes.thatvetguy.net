@@ -7,7 +7,8 @@ from urllib.error import HTTPError
 from urllib.parse import urljoin,urlsplit,parse_qs,unquote
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime,timezone
-import hashlib,json,re,time
+import hashlib,json,re,time,zipfile,io
+import xml.etree.ElementTree as ET
 
 ROOT=Path(__file__).resolve().parent.parent
 SOURCES={1:'https://vetbvsc.in/tanuvas-1st-year-notes/',2:'https://vetbvsc.in/tanuvas-notes-for-second-year/',3:'https://vetbvsc.in/tanuvas-notes-for-3rd-year/',4:'https://vetbvsc.in/4th-year-notes/'}
@@ -40,6 +41,16 @@ def pdf_probe(url):
   return {'status':'verified' if b'%PDF-' in raw[:1024] else 'unverified','finalURL':final,'mime':mime,'reason':None if b'%PDF-' in raw[:1024] else 'No PDF signature in response'}
  except Exception as error:return {'status':'unavailable','reason':str(error)}
 
+def document_probe(url):
+ if not re.search(r'\.docx(?:$|[?#])',url,re.I):return pdf_probe(url)
+ try:
+  final,mime,raw=fetch(url,12000000)
+  with zipfile.ZipFile(io.BytesIO(raw)) as archive:
+   document=ET.fromstring(archive.read('word/document.xml'))
+   title=' '.join(n.text or '' for n in document.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}t'))[:350]
+  return {'status':'verified','finalURL':final,'mime':mime,'documentOpening':title}
+ except Exception as error:return {'status':'unavailable','reason':str(error)}
+
 def course(title):
  m=re.search(r'\b(VAN|VPB|LPM|ANN|VPP|VMC|AGB|VPT|VPE|VPA|LPT|VAE|VMD|VSR|VGO)\s*[-–— ]?\s*(\d{3})\b',title,re.I)
  if not m:return None
@@ -51,14 +62,14 @@ def resolve(item):
  url,title,year,subject,code,index=item
  try:
   # Direct PDFs and Drive viewer links are resources, not intermediate pages.
-  candidates=[(url,title)] if re.search(r'\.pdf(?:$|[?#])',url,re.I) or urlsplit(url).hostname in ['drive.google.com','docs.google.com'] else []
+  candidates=[(url,title)] if re.search(r'\.(pdf|docx)(?:$|[?#])',url,re.I) or urlsplit(url).hostname in ['drive.google.com','docs.google.com'] else []
   if not candidates:
    final,mime,raw=fetch(url)
    if 'pdf' in mime or raw.startswith(b'%PDF-'):candidates=[(final,title)]
    else:
     for href,text in Links(raw.decode('utf-8','replace')).links:
      target=urljoin(final,href);host=urlsplit(target).hostname
-     if host in HOSTS and (re.search(r'\.pdf(?:$|[?#])',target,re.I) or host in ['drive.google.com','docs.google.com']):candidates.append((target,text or title))
+     if host in HOSTS and (re.search(r'\.(pdf|docx)(?:$|[?#])',target,re.I) or host in ['drive.google.com','docs.google.com']):candidates.append((target,text or title))
   rows=[];problems=[];seen=set()
   for target,label in candidates:
    if target in seen:continue
@@ -68,11 +79,11 @@ def resolve(item):
     if not fid:continue
     verification={'status':'source-listed','reason':'Drive viewer linked by collection; file bytes not verified'}
    else:
-    verification=pdf_probe(target)
+    verification=document_probe(target)
     if verification['status']!='verified':problems.append({'url':target,'course':code,**verification});continue
     fid='tanuvas-'+hashlib.sha256(target.encode()).hexdigest()[:18]
    display=title if len(candidates)==1 else code+' · '+(label if label.lower() not in ['download','download pdf','click here','here'] else unquote(urlsplit(target).path.rsplit('/',1)[-1]))
-   rows.append({'id':fid,'year':year,'subject':subject,'unit':code+' · '+re.sub(r'^.*?\b'+re.escape(code.split('-')[1])+r'\b\s*','',title).strip(' -–—'),'name':display,'title':re.sub(r'\.pdf$','',display,flags=re.I),'url':target,'sourcePage':url,'sourceIndex':index,'sourceLabel':'VetBVSc TANUVAS collection','sourceCredit':'TANUVAS · listed by VetBVSc','collection':'TANUVAS','format':'PDF','courseCode':code,'verification':verification,'alsoListedAt':[]})
+   rows.append({'id':fid,'year':year,'subject':subject,'unit':code+' · '+re.sub(r'^.*?\b'+re.escape(code.split('-')[1])+r'\b\s*','',title).strip(' -–—'),'name':display,'title':re.sub(r'\.(pdf|docx)$','',display,flags=re.I),'url':target,'sourcePage':url,'sourceIndex':index,'sourceLabel':'VetBVSc TANUVAS collection','sourceCredit':'TANUVAS · listed by VetBVSc','collection':'TANUVAS','format':'DOCX' if re.search(r'\.docx(?:$|[?#])',target,re.I) else 'PDF','courseCode':code,'verification':verification,'alsoListedAt':[]})
   return rows,problems,{'url':url,'course':code,'resources':len(rows),'candidates':len(candidates)}
  except Exception as error:return [],[{'url':url,'course':code,'status':'unavailable','reason':str(error)}],{'url':url,'course':code,'resources':0}
 
@@ -101,7 +112,9 @@ def run():
   for found,errors,page in pool.map(resolve,jobs):rows+=found;problems+=errors;pages.append(page)
  unique={}
  for r in rows:
-  if r['id'] in unique:unique[r['id']]['alsoListedAt'].append({'page':r['sourcePage'],'unit':r['unit'],'subject':r['subject'],'year':r['year']})
+  if r['id'] in unique:
+   unique[r['id']]['alsoListedAt'].append({'page':r['sourcePage'],'unit':r['unit'],'subject':r['subject'],'year':r['year']})
+   if unique[r['id']]['subject']!=r['subject']:problems.append({'url':r['url'],'status':'conflicting-source-label','course':r['courseCode'],'reason':'Same file is labelled for different subjects; retained once under '+unique[r['id']]['subject']})
   else:unique[r['id']]=r
  data={'schemaVersion':1,'reviewed':datetime.now(timezone.utc).date().isoformat(),'sourceIndexes':indexes,'coursePages':pages,'notes':list(unique.values()),'unavailable':problems,'stats':{'resources':len(unique),'byYear':{str(y):sum(r['year']==y for r in unique.values()) for y in range(1,5)},'duplicatesMerged':len(rows)-len(unique),'unavailable':len(problems)}}
  if not unique:raise ValueError('No TANUVAS resources verified; keep the previous reviewed snapshot')
