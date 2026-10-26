@@ -13,7 +13,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm install && npx playwright install --with-deps chromium
       - name: Wait for the exact production build
         run: |
           for attempt in 1 2 3 4 5 6; do
@@ -29,12 +28,15 @@ jobs:
         run: python3 scripts/task3-hosting.py
       - name: Audit search endpoints after exact-build verification
         run: python3 scripts/search-health.py --label production
+      - name: Install browser audit dependencies
+        run: npm install && npx playwright install --with-deps chromium
+        timeout-minutes: 8
       - name: Production Lighthouse and axe
         run: npm run qa -- production
         env:
           QA_BASE_URL: https://notes.thatvetguy.net
-          QA_PATHS: ${{ contains(github.event.head_commit.message, '[subject-pages]') && '/bvsc/year-1/,/bvsc/year-4/,/bvsc/year-1/veterinary-anatomy/,/bvsc/year-3/veterinary-pharmacology-and-toxicology/' || '/,/bvsc/,/bvsc/year-1/,/bvsc/year-1/veterinary-anatomy/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/study-tools/,/search/,/about/,/request-resource/' }}
-          QA_WIDTHS: 360,390,412
+          QA_PATHS: ${{ contains(github.event.head_commit.message, '[font-stability]') && '/,/bvsc/year-1/,/bvsc/year-1/veterinary-anatomy/' || contains(github.event.head_commit.message, '[subject-pages]') && '/bvsc/year-1/,/bvsc/year-4/,/bvsc/year-1/veterinary-anatomy/,/bvsc/year-3/veterinary-pharmacology-and-toxicology/' || '/,/bvsc/,/bvsc/year-1/,/bvsc/year-1/veterinary-anatomy/,/objective/,/clinical/handbooks/,/clinical/drug-index/,/study-tools/,/search/,/about/,/request-resource/' }}
+          QA_WIDTHS: ${{ contains(github.event.head_commit.message, '[font-stability]') && '360,390,412,768' || '360,390,412' }}
       - uses: actions/upload-artifact@v4
         if: always()
         with:
