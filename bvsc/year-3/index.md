@@ -4,14 +4,14 @@
 
 # 3rd Year Notes & Books
 
-3rd Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+3rd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [3rd Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 
 ## Choose a subject
 
-7 subjects · 195 notes and PDFs
+7 subjects · 195 resources
 
 - [Veterinary Pharmacology and Toxicology27 topic notes · 4 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 - [Veterinary Parasitology46 topic notes · 4 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)

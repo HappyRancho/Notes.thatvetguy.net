@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Parasitology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Parasitology
 
-# Veterinary Parasitology Notes & Books
+# Veterinary Parasitology
 
-Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes46 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=5)[Recommended Books](#books)
@@ -220,6 +220,8 @@ Use life cycles, host relationships and diagnostic features as your organising f
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 
 - Helminthology
 - Veterinary protozoology

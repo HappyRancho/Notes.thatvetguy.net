@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Pathology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Pathology
 
-# Veterinary Pathology Notes & Books
+# Veterinary Pathology
 
-Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes48 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=3)[Recommended Books](#books)
@@ -230,6 +230,8 @@ Start with injury, inflammation and repair before moving to individual diseases.
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
 
 - Cell injury and inflammation
 - Circulatory disturbances

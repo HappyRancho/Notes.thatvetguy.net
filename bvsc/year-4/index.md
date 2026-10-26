@@ -4,14 +4,14 @@
 
 # 4th Year Notes & Books
 
-4th Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+4th Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [4th Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf)
 
 ## Choose a subject
 
-4 subjects · 59 notes and PDFs
+4 subjects · 59 resources
 
 - [Veterinary Medicine22 topic notes · 1 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 - [Veterinary Surgery and Radiology22 topic notes · 1 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)

@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Public Health and Epidemiology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Public Health and Epidemiology
 
-# Veterinary Public Health and Epidemiology Notes & Books
+# Veterinary Public Health and Epidemiology
 
-Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes35 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=3)[Recommended Books](#books)
@@ -176,6 +176,8 @@ A reference for disease patterns, study design and interpreting diagnostic tests
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
 
 - Zoonoses and One Health
 - Food safety and hygiene

@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Gynaecology and Obstetrics Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Gynaecology and Obstetrics
 
-# Veterinary Gynaecology and Obstetrics Notes & Books
+# Veterinary Gynaecology and Obstetrics
 
-Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes11 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=6)[Recommended Books](#books)
@@ -93,6 +93,8 @@ Follow reproductive physiology through fertility, pregnancy and obstetrical prob
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
 
 - Reproductive cycles and breeding
 - Infertility and reproductive disorders

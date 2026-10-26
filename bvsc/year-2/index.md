@@ -4,14 +4,14 @@
 
 # 2nd Year Notes & Books
 
-2nd Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+2nd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [2nd Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf)
 
 ## Choose a subject
 
-5 subjects · 223 notes and PDFs
+5 subjects · 223 resources
 
 - [Veterinary Biochemistry21 topic notes · 2 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - [Veterinary Microbiology63 topic notes · 4 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)

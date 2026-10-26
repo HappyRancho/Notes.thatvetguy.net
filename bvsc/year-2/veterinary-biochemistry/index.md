@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Biochemistry Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Biochemistry
 
-# Veterinary Biochemistry Notes & Books
+# Veterinary Biochemistry
 
-Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes21 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=6)[Recommended Books](#books)
@@ -125,6 +125,8 @@ Use for core pathways and biomolecules; pair with veterinary examples from class
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
 - Carbohydrate, lipid and protein metabolism
 - Enzymes and biological oxidation

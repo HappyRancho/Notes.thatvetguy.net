@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Medicine Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Medicine
 
-# Veterinary Medicine Notes & Books
+# Veterinary Medicine
 
-Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes22 resources](#notes)[TANUVAS Notes1 resource](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=5)[Recommended Books](#books)
@@ -147,6 +147,8 @@ A companion for clinical examination and a systematic approach to disease.
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
 
 - General and systemic medicine
 - Infectious and metabolic diseases

@@ -4,14 +4,14 @@
 
 # 1st Year Notes & Books
 
-1st Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+1st Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [1st Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf)
 
 ## Choose a subject
 
-3 subjects · 63 notes and PDFs
+3 subjects · 63 resources
 
 - [Veterinary Anatomy15 topic notes · 4 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - [Veterinary Physiology12 topic notes · 3 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)

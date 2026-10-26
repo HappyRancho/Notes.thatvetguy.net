@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Microbiology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Microbiology
 
-# Veterinary Microbiology Notes & Books
+# Veterinary Microbiology
 
-Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes63 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)[Recommended Books](#books)
@@ -271,6 +271,8 @@ Connect organism characteristics with the infections they cause in animals.
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 
 - Bacteriology and mycology
 - Veterinary virology

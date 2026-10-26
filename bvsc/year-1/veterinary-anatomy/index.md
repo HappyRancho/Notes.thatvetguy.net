@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Anatomy Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Anatomy
 
-# Veterinary Anatomy Notes & Books
+# Veterinary Anatomy
 
-Veterinary Anatomy focuses on relating structure to function across domestic animal species. Find 1st Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 1st Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes15 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=1)[Recommended Books](#books)
@@ -127,6 +127,8 @@ Use alongside dissection to compare structures across domestic species.
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
 - Osteology and arthrology
 - Myology and visceral anatomy

@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Products Technology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Products Technology
 
-# Livestock Products Technology Notes & Books
+# Livestock Products Technology
 
-Livestock Products Technology focuses on following animal products from production through processing and safety. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes46 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=7)[Recommended Books](#books)
@@ -187,7 +187,7 @@ LPT -311 Milk and Milk Products TechnologyTANUVAS · listed by VetBVSc[Open LPT 
 1
 
 PDF
-LPT-312 Abattoir Practices And Animal Products 5TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products 5Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
+LPT-312 Abattoir Practices And Animal Products TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
 
 ### LPT-321 · Meat Science
 
@@ -217,6 +217,8 @@ Read alongside abattoir and meat-science teaching for processing and product con
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
 - Milk processing and dairy products
 - Meat science and meat products

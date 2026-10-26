@@ -14,7 +14,7 @@ Last source review: 2026-10-26. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/index.md
 - [BVSc Notes & Books](https://notes.thatvetguy.net/bvsc/): Find BVSc & AH notes, recommended veterinary books and course outlines for 1st, 2nd, 3rd and 4th Year. Browse by professional year and subject.
   - Markdown: https://notes.thatvetguy.net/bvsc/index.md
-- [1st Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/): 1st Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+- [1st Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/): 1st Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/index.md
 - [Veterinary Anatomy Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/): Veterinary Anatomy focuses on relating structure to function across domestic animal species. Find 1st Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/index.md
@@ -22,7 +22,7 @@ Last source review: 2026-10-26. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/index.md
 - [Livestock Production Management Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/): Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. Find 1st Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/index.md
-- [2nd Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/): 2nd Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+- [2nd Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/): 2nd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/index.md
 - [Veterinary Biochemistry Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/): Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/index.md
@@ -34,7 +34,7 @@ Last source review: 2026-10-26. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/index.md
 - [Animal Nutrition Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/): Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/index.md
-- [3rd Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/): 3rd Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+- [3rd Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/): 3rd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/index.md
 - [Veterinary Pharmacology and Toxicology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/): Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/index.md
@@ -50,7 +50,7 @@ Last source review: 2026-10-26. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/index.md
 - [Livestock Farm Practices Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/): Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/index.md
-- [4th Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/): 4th Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+- [4th Year BVSc Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/): 4th Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/index.md
 - [Veterinary Medicine Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/): Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
   - Markdown: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/index.md

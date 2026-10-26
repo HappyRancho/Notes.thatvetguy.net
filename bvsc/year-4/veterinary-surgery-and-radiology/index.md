@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Surgery and Radiology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Surgery and Radiology
 
-# Veterinary Surgery and Radiology Notes & Books
+# Veterinary Surgery and Radiology
 
-Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes22 resources](#notes)[TANUVAS Notes1 resource](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=1)[Recommended Books](#books)
@@ -143,6 +143,8 @@ Use for operative principles and procedure context in farm animals.
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
 
 - Asepsis and surgical principles
 - Anaesthesiology and pain management

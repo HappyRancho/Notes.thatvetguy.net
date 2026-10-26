@@ -302,14 +302,14 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
 # 1st Year Notes & Books
 
-1st Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+1st Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [1st Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf)
 
 ## Choose a subject
 
-3 subjects · 63 notes and PDFs
+3 subjects · 63 resources
 
 - [Veterinary Anatomy15 topic notes · 4 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - [Veterinary Physiology12 topic notes · 3 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
@@ -325,11 +325,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Anatomy Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Anatomy
 
-# Veterinary Anatomy Notes & Books
+# Veterinary Anatomy
 
-Veterinary Anatomy focuses on relating structure to function across domestic animal species. Find 1st Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 1st Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes15 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=1)[Recommended Books](#books)
@@ -453,6 +453,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
+
 - Osteology and arthrology
 - Myology and visceral anatomy
 - Neuroanatomy and sense organs
@@ -470,11 +472,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Physiology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Physiology
 
-# Veterinary Physiology Notes & Books
+# Veterinary Physiology
 
-Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. Find 1st Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 1st Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes12 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=4)[Recommended Books](#books)
@@ -590,6 +592,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
+
 - Blood and cardiovascular physiology
 - Respiratory and renal physiology
 - Digestion and metabolism
@@ -607,11 +611,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-managem
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Livestock Production Management Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Livestock Production Management
 
-# Livestock Production Management Notes & Books
+# Livestock Production Management
 
-Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. Find 1st Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 1st Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes25 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=7)[Recommended Books](#books)
@@ -789,6 +793,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
+
 - Housing and animal handling
 - Cattle and buffalo management
 - Sheep and goat management
@@ -828,14 +834,14 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
 # 2nd Year Notes & Books
 
-2nd Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+2nd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [2nd Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf)
 
 ## Choose a subject
 
-5 subjects · 223 notes and PDFs
+5 subjects · 223 resources
 
 - [Veterinary Biochemistry21 topic notes · 2 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - [Veterinary Microbiology63 topic notes · 4 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
@@ -853,11 +859,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Biochemistry Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Biochemistry
 
-# Veterinary Biochemistry Notes & Books
+# Veterinary Biochemistry
 
-Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes21 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=6)[Recommended Books](#books)
@@ -979,6 +985,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
+
 - Carbohydrate, lipid and protein metabolism
 - Enzymes and biological oxidation
 - Vitamins and minerals
@@ -996,11 +1004,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Microbiology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Microbiology
 
-# Veterinary Microbiology Notes & Books
+# Veterinary Microbiology
 
-Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes63 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)[Recommended Books](#books)
@@ -1268,6 +1276,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
+
 - Bacteriology and mycology
 - Veterinary virology
 - Immunology
@@ -1285,11 +1295,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Pathology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Pathology
 
-# Veterinary Pathology Notes & Books
+# Veterinary Pathology
 
-Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes48 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=3)[Recommended Books](#books)
@@ -1516,6 +1526,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
+
 - Cell injury and inflammation
 - Circulatory disturbances
 - Systemic pathology
@@ -1533,11 +1545,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Genetics and Breeding Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Genetics and Breeding
 
-# Animal Genetics and Breeding Notes & Books
+# Animal Genetics and Breeding
 
-Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes45 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=6)[Recommended Books](#books)
@@ -1736,6 +1748,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
+
 - Mendelian and molecular genetics
 - Population and quantitative genetics
 - Selection and breeding systems
@@ -1753,11 +1767,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Nutrition Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Nutrition
 
-# Animal Nutrition Notes & Books
+# Animal Nutrition
 
-Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes30 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=7)[Recommended Books](#books)
@@ -1923,6 +1937,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
+
 - Feed evaluation and digestion
 - Energy and protein nutrition
 - Minerals and vitamins
@@ -1964,14 +1980,14 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 
 # 3rd Year Notes & Books
 
-3rd Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+3rd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [3rd Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 
 ## Choose a subject
 
-7 subjects · 195 notes and PDFs
+7 subjects · 195 resources
 
 - [Veterinary Pharmacology and Toxicology27 topic notes · 4 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 - [Veterinary Parasitology46 topic notes · 4 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
@@ -1991,11 +2007,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Pharmacology and Toxicology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Pharmacology and Toxicology
 
-# Veterinary Pharmacology and Toxicology Notes & Books
+# Veterinary Pharmacology and Toxicology
 
-Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes27 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=1)[Recommended Books](#books)
@@ -2159,6 +2175,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
+
 - General pharmacology and pharmacokinetics
 - Systemic pharmacology
 - Antimicrobial and antiparasitic agents
@@ -2176,11 +2194,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Parasitology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Parasitology
 
-# Veterinary Parasitology Notes & Books
+# Veterinary Parasitology
 
-Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes46 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=5)[Recommended Books](#books)
@@ -2397,6 +2415,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
+
 - Helminthology
 - Veterinary protozoology
 - Veterinary entomology and acarology
@@ -2414,11 +2434,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Public Health and Epidemiology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Public Health and Epidemiology
 
-# Veterinary Public Health and Epidemiology Notes & Books
+# Veterinary Public Health and Epidemiology
 
-Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes35 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=3)[Recommended Books](#books)
@@ -2591,6 +2611,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
+
 - Zoonoses and One Health
 - Food safety and hygiene
 - Measures of disease frequency
@@ -2608,11 +2630,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technolog
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Products Technology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Products Technology
 
-# Livestock Products Technology Notes & Books
+# Livestock Products Technology
 
-Livestock Products Technology focuses on following animal products from production through processing and safety. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes46 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=7)[Recommended Books](#books)
@@ -2795,7 +2817,7 @@ LPT -311 Milk and Milk Products TechnologyTANUVAS · listed by VetBVSc[Open LPT 
 1
 
 PDF
-LPT-312 Abattoir Practices And Animal Products 5TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products 5Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
+LPT-312 Abattoir Practices And Animal Products TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
 
 ### LPT-321 · Meat Science
 
@@ -2826,6 +2848,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
+
 - Milk processing and dairy products
 - Meat science and meat products
 - Poultry and egg products
@@ -2843,11 +2867,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husban
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary and Animal Husbandry Extension Education Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary and Animal Husbandry Extension Education
 
-# Veterinary and Animal Husbandry Extension Education Notes & Books
+# Veterinary and Animal Husbandry Extension Education
 
-Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes23 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=9)[Recommended Books](#books)
@@ -2977,7 +3001,7 @@ VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionTA
 1
 
 PDF
-VAE-321 Livestock Economics, Marketing And BusinessManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And BusinessManagement](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
+VAE-321 Livestock Economics, Marketing And Business ManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And Business Management](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
 
 No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
@@ -2992,6 +3016,8 @@ Connect extension methods with communication and livestock development.
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
 
 - Extension principles and teaching methods
 - Rural sociology and communication
@@ -3010,11 +3036,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Clinical Practices I Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Clinical Practices I
 
-# Veterinary Clinical Practices I Notes & Books
+# Veterinary Clinical Practices I
 
-Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes1 resource](#notes)[TANUVAS Notes0 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=11)[Recommended Books](#books)
@@ -3035,11 +3061,8 @@ Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.
 ## TANUVAS Notes
 
 0
-No TANUVAS notes listed yet
 
-Nothing here yet. Even a calf needs a minute to stand.
-
-[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+No separate TANUVAS collection is listed for this subject yet.
 
 No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
@@ -3048,6 +3071,8 @@ No notes match. [Request a resource](https://notes.thatvetguy.net/request-resour
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
 What to cover 
+
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
 
 - History taking and clinical examination
 - Animal handling and hospital routines
@@ -3066,11 +3091,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Farm Practices Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Farm Practices
 
-# Livestock Farm Practices Notes & Books
+# Livestock Farm Practices
 
-Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes1 resource](#notes)[TANUVAS Notes0 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=13)[Recommended Books](#books)
@@ -3091,11 +3116,8 @@ Livestock Farm Practices[Open Livestock Farm Practices](https://drive.google.com
 ## TANUVAS Notes
 
 0
-No TANUVAS notes listed yet
 
-Nothing here yet. Even a calf needs a minute to stand.
-
-[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+No separate TANUVAS collection is listed for this subject yet.
 
 No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
@@ -3104,6 +3126,8 @@ No notes match. [Request a resource](https://notes.thatvetguy.net/request-resour
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
 What to cover 
+
+Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
 - Routine animal care and handling
 - Feeding and housing observations
@@ -3148,14 +3172,14 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
 # 4th Year Notes & Books
 
-4th Year BVSc & AH subjects, topic-wise notes, TANUVAS material and recommended books. Open a subject to find its reading and course outline together.
+4th Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
 [1st Year](https://notes.thatvetguy.net/bvsc/year-1/)[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
 [4th Year RoadmapPlan your year](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)[Course OutlineRead the year syllabus](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf)
 
 ## Choose a subject
 
-4 subjects · 59 notes and PDFs
+4 subjects · 59 resources
 
 - [Veterinary Medicine22 topic notes · 1 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 - [Veterinary Surgery and Radiology22 topic notes · 1 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
@@ -3172,11 +3196,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Medicine Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Medicine
 
-# Veterinary Medicine Notes & Books
+# Veterinary Medicine
 
-Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes22 resources](#notes)[TANUVAS Notes1 resource](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=5)[Recommended Books](#books)
@@ -3320,6 +3344,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
+
 - General and systemic medicine
 - Infectious and metabolic diseases
 - Preventive medicine and herd health
@@ -3337,11 +3363,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radio
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Surgery and Radiology Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Surgery and Radiology
 
-# Veterinary Surgery and Radiology Notes & Books
+# Veterinary Surgery and Radiology
 
-Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes22 resources](#notes)[TANUVAS Notes1 resource](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=1)[Recommended Books](#books)
@@ -3481,6 +3507,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
+
 - Asepsis and surgical principles
 - Anaesthesiology and pain management
 - Soft tissue surgery and orthopaedics
@@ -3498,11 +3526,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-o
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Gynaecology and Obstetrics Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Gynaecology and Obstetrics
 
-# Veterinary Gynaecology and Obstetrics Notes & Books
+# Veterinary Gynaecology and Obstetrics
 
-Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes11 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=6)[Recommended Books](#books)
@@ -3592,6 +3620,8 @@ Reading recommendation · no linked copy available.
 
 What to cover 
 
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
+
 - Reproductive cycles and breeding
 - Infertility and reproductive disorders
 - Pregnancy and parturition
@@ -3609,11 +3639,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Clinical Practices II Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Clinical Practices II
 
-# Veterinary Clinical Practices II Notes & Books
+# Veterinary Clinical Practices II
 
-Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. Find 4th Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes0 resources](#notes)[TANUVAS Notes0 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=9)[Recommended Books](#books)
@@ -3623,7 +3653,7 @@ Search this collection
 ## Topic-wise Notes
 
 0
-No topic-wise notes listed yet
+Topic-wise notes coming soon
 
 Nothing here yet. Even a calf needs a minute to stand.
 
@@ -3632,11 +3662,8 @@ Nothing here yet. Even a calf needs a minute to stand.
 ## TANUVAS Notes
 
 0
-No TANUVAS notes listed yet
 
-Nothing here yet. Even a calf needs a minute to stand.
-
-[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+No separate TANUVAS collection is listed for this subject yet.
 
 No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
@@ -3645,6 +3672,8 @@ No notes match. [Request a resource](https://notes.thatvetguy.net/request-resour
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
 What to cover 
+
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
 
 - Clinical examination and diagnostic planning
 - Medical and surgical case discussions

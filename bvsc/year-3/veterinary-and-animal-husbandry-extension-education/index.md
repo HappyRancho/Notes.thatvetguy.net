@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary and Animal Husbandry Extension Education Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary and Animal Husbandry Extension Education
 
-# Veterinary and Animal Husbandry Extension Education Notes & Books
+# Veterinary and Animal Husbandry Extension Education
 
-Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. Find 3rd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes23 resources](#notes)[TANUVAS Notes2 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=9)[Recommended Books](#books)
@@ -134,7 +134,7 @@ VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionTA
 1
 
 PDF
-VAE-321 Livestock Economics, Marketing And BusinessManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And BusinessManagement](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
+VAE-321 Livestock Economics, Marketing And Business ManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And Business Management](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
 
 No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
 
@@ -149,6 +149,8 @@ Connect extension methods with communication and livestock development.
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
 
 - Extension principles and teaching methods
 - Rural sociology and communication

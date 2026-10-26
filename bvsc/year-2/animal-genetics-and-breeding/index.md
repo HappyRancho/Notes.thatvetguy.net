@@ -1,10 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-10-26 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Genetics and Breeding Notes & Books
+[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Genetics and Breeding
 
-# Animal Genetics and Breeding Notes & Books
+# Animal Genetics and Breeding
 
-Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. Find 2nd Year BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.
+Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
 
 [Topic-wise Notes45 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=6)[Recommended Books](#books)
@@ -202,6 +202,8 @@ A subject-focused companion for inheritance, population genetics and breeding pr
 Reading recommendation · no linked copy available.
 
 What to cover 
+
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 
 - Mendelian and molecular genetics
 - Population and quantitative genetics
