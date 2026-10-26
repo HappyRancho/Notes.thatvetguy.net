@@ -1,0 +1,1232 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-26",
+  "sourceIndexes": [
+    {
+      "url": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "year": 1,
+      "courses": 11
+    },
+    {
+      "url": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "year": 2,
+      "courses": 16
+    },
+    {
+      "url": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "year": 3,
+      "courses": 16
+    },
+    {
+      "url": "https://vetbvsc.in/4th-year-notes/",
+      "year": 4,
+      "courses": 0
+    }
+  ],
+  "coursePages": [
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-111-tanuvas.pdf",
+      "course": "VAN-111",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-van-121.pdf",
+      "course": "VAN-121",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/van-211-tanuvas.pdf",
+      "course": "VAN-211",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf",
+      "course": "VAN-221",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-111.pdf",
+      "course": "VPB-111",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf",
+      "course": "VPB-121",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing",
+      "course": "VPB-reference",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf",
+      "course": "LPM-111",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-121-fodder.pdf",
+      "course": "LPM-121",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-122.pdf",
+      "course": "LPM-122",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/copy-of-lpm-211.pdf",
+      "course": "LPM-211",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-111-principles-of-animal-nutrition-and-feed-technology-1.pdf",
+      "course": "ANN-111",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-121-applied-nutrition-1-ruminants-1.pdf",
+      "course": "ANN-121",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-211-applied-nutrition-ii-1.pdf",
+      "course": "ANN-211",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-211-general-veterinary-pathology-1.pdf",
+      "course": "VPP-211",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-221-systemic-veterinary-pathology-1.pdf",
+      "course": "VPP-221",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-311-special-veterinary-pathology-1.pdf",
+      "course": "VPP-311",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-321-avian-pathology-1.pdf",
+      "course": "VPP-321",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-112-general-veterinary-biochemistry-1.pdf",
+      "course": "VPB-112",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-122-veterinary-intermediary-metabolism-1.pdf",
+      "course": "VPB-122",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/VMC-211-1.pdf",
+      "course": "VMC-211",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-221-veterinary-immunology-and-serology-1.pdf",
+      "course": "VMC-221",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-311-systematic-veterinary-bacteriology-and-mycology-1.pdf",
+      "course": "VMC-311",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf",
+      "course": "VMC-321",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-111-bio-statistics-and-computer-application-1.pdf",
+      "course": "AGB-111",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-121-principles-of-animal-genetics-and-population-genetics-1.pdf",
+      "course": "AGB-121",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf",
+      "course": "AGB-211",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-311.pdf",
+      "course": "VPT-311",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-321.pdf",
+      "course": "VPT-321",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpt-411-veterinary-chemotherapy.pdf",
+      "course": "VPT-411",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf",
+      "course": "VPT-421",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-311-tanuvas.pdf",
+      "course": "VPE-311",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-321-tanuvas.pdf",
+      "course": "VPE-321",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf",
+      "course": "VPE-511",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx",
+      "course": "VPA-211",
+      "resources": 0,
+      "candidates": 0
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf",
+      "course": "VPA-221",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx",
+      "course": "VPA-222",
+      "resources": 0,
+      "candidates": 0
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf",
+      "course": "LPT-311",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf",
+      "course": "LPT-321",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf",
+      "course": "LPT-312",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae311.pdf",
+      "course": "VAE-311",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf",
+      "course": "VAE-321",
+      "resources": 1,
+      "candidates": 1
+    },
+    {
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf",
+      "course": "VAE-511",
+      "resources": 1,
+      "candidates": 1
+    }
+  ],
+  "notes": [
+    {
+      "id": "tanuvas-a240ff27a67c927577",
+      "year": 1,
+      "subject": "Veterinary Anatomy",
+      "unit": "VAN-111 · Veterinary Gross Anatomy –I",
+      "name": "VAN-111 Veterinary Gross Anatomy –I",
+      "title": "VAN-111 Veterinary Gross Anatomy –I",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-111-tanuvas.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-111-tanuvas.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VAN-111",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-111-tanuvas.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-4592eea910f6434b9b",
+      "year": 1,
+      "subject": "Veterinary Anatomy",
+      "unit": "VAN-121 · Veterinary Gross Anatomy- II",
+      "name": "VAN-121 Veterinary Gross Anatomy- II",
+      "title": "VAN-121 Veterinary Gross Anatomy- II",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-van-121.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-van-121.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VAN-121",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-van-121.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-59823e1aa0ff394eac",
+      "year": 1,
+      "subject": "Veterinary Anatomy",
+      "unit": "VAN-211 · Veterinary Histology and Embryology",
+      "name": "VAN-211 Veterinary Histology and Embryology",
+      "title": "VAN-211 Veterinary Histology and Embryology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/van-211-tanuvas.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/van-211-tanuvas.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VAN-211",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/van-211-tanuvas.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-216315ab36b590d7a5",
+      "year": 1,
+      "subject": "Veterinary Anatomy",
+      "unit": "VAN-221 · Veterinary Splanchnology And Applied Anatomy",
+      "name": "VAN-221 Veterinary Splanchnology And Applied Anatomy",
+      "title": "VAN-221 Veterinary Splanchnology And Applied Anatomy",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VAN-221",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-f0ac6816f9b6096d39",
+      "year": 1,
+      "subject": "Veterinary Physiology",
+      "unit": "VPB-111 · Veterinary Physiology-I",
+      "name": "VPB -111 Veterinary Physiology-I",
+      "title": "VPB -111 Veterinary Physiology-I",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-111.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-111.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPB-111",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-111.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-8f9640a9a4d85763ca",
+      "year": 1,
+      "subject": "Veterinary Physiology",
+      "unit": "VPB-121 · Veterinary Physiology-II",
+      "name": "VPB -121 Veterinary Physiology-II",
+      "title": "VPB -121 Veterinary Physiology-II",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPB-121",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "1cOJOgFeO95LLwXiUOWKclIZghjYNevNV",
+      "year": 1,
+      "subject": "Veterinary Physiology",
+      "unit": "VPB-reference · Veterinary Physiology Book by TANUVAS",
+      "name": "Veterinary Physiology Book by TANUVAS",
+      "title": "Veterinary Physiology Book by TANUVAS",
+      "url": "https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing",
+      "sourcePage": "https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPB-reference",
+      "verification": {
+        "status": "source-listed",
+        "reason": "Drive viewer linked by collection; file bytes not verified"
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-aae6e7ecda0ae1f517",
+      "year": 1,
+      "subject": "Livestock Production Management",
+      "unit": "LPM-111 · Livestock Production Management-I",
+      "name": "LPM-111 Livestock Production Management-I",
+      "title": "LPM-111 Livestock Production Management-I",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "LPM-111",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-8e2824e2841fa45060",
+      "year": 1,
+      "subject": "Livestock Production Management",
+      "unit": "LPM-121 · Fodder Production and Grassland Management",
+      "name": "LPM -121 Fodder Production and Grassland Management",
+      "title": "LPM -121 Fodder Production and Grassland Management",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-121-fodder.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-121-fodder.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "LPM-121",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-121-fodder.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-32b729a73dd389fa5e",
+      "year": 1,
+      "subject": "Livestock Production Management",
+      "unit": "LPM-122 · Livestock Production Management-II",
+      "name": "LPM -122 Livestock Production Management-II",
+      "title": "LPM -122 Livestock Production Management-II",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-122.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-122.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "LPM-122",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/lpm-122.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-9fadb473c67ffdd86e",
+      "year": 1,
+      "subject": "Livestock Production Management",
+      "unit": "LPM-211 · Avian Production Management",
+      "name": "LPM-211 Avian Production Management",
+      "title": "LPM-211 Avian Production Management",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/copy-of-lpm-211.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/copy-of-lpm-211.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-1st-year-notes/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "LPM-211",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/copy-of-lpm-211.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-75096a726d023fa51d",
+      "year": 2,
+      "subject": "Animal Nutrition",
+      "unit": "ANN-111 · Principles of Animal Nutrition and Feed Technology",
+      "name": "ANN-111 Principles of Animal Nutrition and Feed Technology",
+      "title": "ANN-111 Principles of Animal Nutrition and Feed Technology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-111-principles-of-animal-nutrition-and-feed-technology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-111-principles-of-animal-nutrition-and-feed-technology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "ANN-111",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-111-principles-of-animal-nutrition-and-feed-technology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-0fda36c330ea1bab4e",
+      "year": 2,
+      "subject": "Animal Nutrition",
+      "unit": "ANN-121 · Applied Nutrition- 1 (Ruminants)",
+      "name": "ANN-121 Applied Nutrition- 1 (Ruminants)",
+      "title": "ANN-121 Applied Nutrition- 1 (Ruminants)",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-121-applied-nutrition-1-ruminants-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-121-applied-nutrition-1-ruminants-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "ANN-121",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-121-applied-nutrition-1-ruminants-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-1545f30134be435b5d",
+      "year": 2,
+      "subject": "Animal Nutrition",
+      "unit": "ANN-211 · Applied Nutrition-II",
+      "name": "ANN 211 Applied Nutrition-II",
+      "title": "ANN 211 Applied Nutrition-II",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-211-applied-nutrition-ii-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-211-applied-nutrition-ii-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "ANN-211",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/ann-211-applied-nutrition-ii-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-2e62388b8442f0ab95",
+      "year": 2,
+      "subject": "Veterinary Pathology",
+      "unit": "VPP-211 · General Veterinary Pathology",
+      "name": "VPP 211 General Veterinary Pathology",
+      "title": "VPP 211 General Veterinary Pathology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-211-general-veterinary-pathology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-211-general-veterinary-pathology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPP-211",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-211-general-veterinary-pathology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-3960a97ac3fa06f531",
+      "year": 2,
+      "subject": "Veterinary Pathology",
+      "unit": "VPP-221 · Systemic Veterinary Pathology",
+      "name": "VPP 221 Systemic Veterinary Pathology",
+      "title": "VPP 221 Systemic Veterinary Pathology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-221-systemic-veterinary-pathology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-221-systemic-veterinary-pathology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPP-221",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-221-systemic-veterinary-pathology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-7665f98c27c5951327",
+      "year": 2,
+      "subject": "Veterinary Pathology",
+      "unit": "VPP-311 · Special Veterinary Pathology",
+      "name": "VPP 311 Special Veterinary Pathology",
+      "title": "VPP 311 Special Veterinary Pathology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-311-special-veterinary-pathology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-311-special-veterinary-pathology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPP-311",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-311-special-veterinary-pathology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-7595d0ff8a8fd7c032",
+      "year": 2,
+      "subject": "Veterinary Pathology",
+      "unit": "VPP-321 · Avian Pathology",
+      "name": "VPP 321 Avian Pathology",
+      "title": "VPP 321 Avian Pathology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-321-avian-pathology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-321-avian-pathology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPP-321",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpp-321-avian-pathology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-28e8e22b829dc09f95",
+      "year": 2,
+      "subject": "Veterinary Biochemistry",
+      "unit": "VPB-112 · General Veterinary Biochemistry",
+      "name": "VPB 112 General Veterinary Biochemistry",
+      "title": "VPB 112 General Veterinary Biochemistry",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-112-general-veterinary-biochemistry-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-112-general-veterinary-biochemistry-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPB-112",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-112-general-veterinary-biochemistry-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-a18c3b0a11e67fd451",
+      "year": 2,
+      "subject": "Veterinary Biochemistry",
+      "unit": "VPB-122 · Veterinary Intermediary Metabolism",
+      "name": "VPB 122 Veterinary Intermediary Metabolism",
+      "title": "VPB 122 Veterinary Intermediary Metabolism",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-122-veterinary-intermediary-metabolism-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-122-veterinary-intermediary-metabolism-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPB-122",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vpb-122-veterinary-intermediary-metabolism-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-7b3fe113f519aa39e0",
+      "year": 2,
+      "subject": "Veterinary Microbiology",
+      "unit": "VMC-211 · General Veterinary Microbiology",
+      "name": "VMC 211 General Veterinary Microbiology",
+      "title": "VMC 211 General Veterinary Microbiology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/VMC-211-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/VMC-211-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VMC-211",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/VMC-211-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-e68e63191275fc8e67",
+      "year": 2,
+      "subject": "Veterinary Microbiology",
+      "unit": "VMC-221 · Veterinary Immunology And Serology",
+      "name": "VMC 221 Veterinary Immunology And Serology",
+      "title": "VMC 221 Veterinary Immunology And Serology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-221-veterinary-immunology-and-serology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-221-veterinary-immunology-and-serology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VMC-221",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-221-veterinary-immunology-and-serology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-7199850f921ed4bfd0",
+      "year": 2,
+      "subject": "Veterinary Microbiology",
+      "unit": "VMC-311 · Systematic Veterinary Bacteriology And Mycology",
+      "name": "VMC 311 Systematic Veterinary Bacteriology And Mycology",
+      "title": "VMC 311 Systematic Veterinary Bacteriology And Mycology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-311-systematic-veterinary-bacteriology-and-mycology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-311-systematic-veterinary-bacteriology-and-mycology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VMC-311",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-311-systematic-veterinary-bacteriology-and-mycology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-8efdd47d9a4dbf9bc1",
+      "year": 2,
+      "subject": "Veterinary Microbiology",
+      "unit": "VMC-321 · Systematic Veterinary Virology",
+      "name": "VMC 321 Systematic Veterinary Virology",
+      "title": "VMC 321 Systematic Veterinary Virology",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VMC-321",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-8e65bbc2a6e017a0f4",
+      "year": 2,
+      "subject": "Animal Genetics and Breeding",
+      "unit": "AGB-111 · Bio- Statistics and Computer Application",
+      "name": "AGB 111 Bio- Statistics and Computer Application",
+      "title": "AGB 111 Bio- Statistics and Computer Application",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-111-bio-statistics-and-computer-application-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-111-bio-statistics-and-computer-application-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "AGB-111",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-111-bio-statistics-and-computer-application-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-8163e18a0fb3652abd",
+      "year": 2,
+      "subject": "Animal Genetics and Breeding",
+      "unit": "AGB-121 · Principles Of Animal Genetics And Population Genetics",
+      "name": "AGB 121 Principles Of Animal Genetics And Population Genetics",
+      "title": "AGB 121 Principles Of Animal Genetics And Population Genetics",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-121-principles-of-animal-genetics-and-population-genetics-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-121-principles-of-animal-genetics-and-population-genetics-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "AGB-121",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-121-principles-of-animal-genetics-and-population-genetics-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-9754615e9e90e7af81",
+      "year": 2,
+      "subject": "Animal Genetics and Breeding",
+      "unit": "AGB-211 · Livestock and Poultry Breeding",
+      "name": "AGB 211 Livestock and Poultry Breeding",
+      "title": "AGB 211 Livestock and Poultry Breeding",
+      "url": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf",
+      "sourcePage": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-second-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "AGB-211",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-ad1bc125cc713fa59a",
+      "year": 3,
+      "subject": "Veterinary Pharmacology and Toxicology",
+      "unit": "VPT-311 · General and Systemic Veterinary Pharmacology",
+      "name": "VPT-311 General and Systemic Veterinary Pharmacology",
+      "title": "VPT-311 General and Systemic Veterinary Pharmacology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-311.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-311.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPT-311",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-311.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-ad20907ccd018cf7d1",
+      "year": 3,
+      "subject": "Veterinary Pharmacology and Toxicology",
+      "unit": "VPT-321 · Veterinary Neuropharmacology",
+      "name": "VPT-321 Veterinary Neuropharmacology",
+      "title": "VPT-321 Veterinary Neuropharmacology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-321.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-321.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPT-321",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-321.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-7850b7fea3a950fcdb",
+      "year": 3,
+      "subject": "Veterinary Pharmacology and Toxicology",
+      "unit": "VPT-411 · Veterinary Chemotherapy",
+      "name": "VPT-411 Veterinary Chemotherapy",
+      "title": "VPT-411 Veterinary Chemotherapy",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpt-411-veterinary-chemotherapy.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpt-411-veterinary-chemotherapy.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPT-411",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpt-411-veterinary-chemotherapy.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-830298dc73f5d32fe4",
+      "year": 3,
+      "subject": "Veterinary Pharmacology and Toxicology",
+      "unit": "VPT-421 · Veterinary Toxicology",
+      "name": "VPT-421 Veterinary Toxicology",
+      "title": "VPT-421 Veterinary Toxicology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPT-421",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-57baa9b11145fd22cb",
+      "year": 3,
+      "subject": "Veterinary Public Health and Epidemiology",
+      "unit": "VPE-311 · Milk and Meat Hygiene, Food Safety and Public Health",
+      "name": "VPE-311 Milk and Meat Hygiene, Food Safety and Public Health",
+      "title": "VPE-311 Milk and Meat Hygiene, Food Safety and Public Health",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-311-tanuvas.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-311-tanuvas.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPE-311",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-311-tanuvas.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-cdd381ca5a135c4b60",
+      "year": 3,
+      "subject": "Veterinary Public Health and Epidemiology",
+      "unit": "VPE-321 · Veterinary Epidemiology And Zoonoses",
+      "name": "VPE-321 Veterinary Epidemiology And Zoonoses",
+      "title": "VPE-321 Veterinary Epidemiology And Zoonoses",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-321-tanuvas.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-321-tanuvas.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPE-321",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-321-tanuvas.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-b49b6feba3bacf870c",
+      "year": 3,
+      "subject": "Veterinary Public Health and Epidemiology",
+      "unit": "VPE-511 · Environment and Environmental Hygiene",
+      "name": "VPE–511 Environment and Environmental Hygiene",
+      "title": "VPE–511 Environment and Environmental Hygiene",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPE-511",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": [
+        {
+          "page": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf",
+          "unit": "VAE-511 · Livestock Entrepreneurship",
+          "subject": "Veterinary and Animal Husbandry Extension Education",
+          "year": 3
+        }
+      ]
+    },
+    {
+      "id": "tanuvas-50d455d3b407629d78",
+      "year": 3,
+      "subject": "Veterinary Parasitology",
+      "unit": "VPA-221 · Veterinary Entomology And Acarology",
+      "name": "VPA-221 Veterinary Entomology And Acarology",
+      "title": "VPA-221 Veterinary Entomology And Acarology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VPA-221",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-2485877b5d3702ce02",
+      "year": 3,
+      "subject": "Livestock Products Technology",
+      "unit": "LPT-311 · Milk and Milk Products Technology",
+      "name": "LPT -311 Milk and Milk Products Technology",
+      "title": "LPT -311 Milk and Milk Products Technology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "LPT-311",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-ab4c2774328381bd7b",
+      "year": 3,
+      "subject": "Livestock Products Technology",
+      "unit": "LPT-321 · Meat Science",
+      "name": "LPT -321 Meat Science",
+      "title": "LPT -321 Meat Science",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "LPT-321",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-b00b3cc5da5b5c0286",
+      "year": 3,
+      "subject": "Livestock Products Technology",
+      "unit": "LPT-312 · Abattoir Practices And Animal Products 5Technology",
+      "name": "LPT-312 Abattoir Practices And Animal Products 5Technology",
+      "title": "LPT-312 Abattoir Practices And Animal Products 5Technology",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "LPT-312",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-bba8df4d430f7f95c6",
+      "year": 3,
+      "subject": "Veterinary and Animal Husbandry Extension Education",
+      "unit": "VAE-311 · Principles And Techniques of Veterinary And Animal Husbandry Extension",
+      "name": "VAE-311 Principles And Techniques of Veterinary And Animal Husbandry Extension",
+      "title": "VAE-311 Principles And Techniques of Veterinary And Animal Husbandry Extension",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae311.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae311.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VAE-311",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae311.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    },
+    {
+      "id": "tanuvas-98209b61b6e8c3e754",
+      "year": 3,
+      "subject": "Veterinary and Animal Husbandry Extension Education",
+      "unit": "VAE-321 · Livestock Economics, Marketing And BusinessManagement",
+      "name": "VAE-321 Livestock Economics, Marketing And BusinessManagement",
+      "title": "VAE-321 Livestock Economics, Marketing And BusinessManagement",
+      "url": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf",
+      "sourcePage": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf",
+      "sourceIndex": "https://vetbvsc.in/tanuvas-notes-for-3rd-year/",
+      "sourceLabel": "VetBVSc TANUVAS collection",
+      "sourceCredit": "TANUVAS · listed by VetBVSc",
+      "collection": "TANUVAS",
+      "format": "PDF",
+      "courseCode": "VAE-321",
+      "verification": {
+        "status": "verified",
+        "finalURL": "https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf",
+        "mime": "application/pdf",
+        "reason": null
+      },
+      "alsoListedAt": []
+    }
+  ],
+  "unavailable": [
+    {
+      "url": "https://vetbvsc.in/4th-year-notes/",
+      "year": 4,
+      "status": "no-resources",
+      "reason": "No linked TANUVAS courses on this collection page"
+    }
+  ],
+  "stats": {
+    "resources": 40,
+    "byYear": {
+      "1": 11,
+      "2": 16,
+      "3": 13,
+      "4": 0
+    },
+    "duplicatesMerged": 1,
+    "unavailable": 1
+  }
+}
