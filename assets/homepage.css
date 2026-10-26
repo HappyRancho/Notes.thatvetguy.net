@@ -88,3 +88,6 @@ html:not(.js) .rx-inner .rx-panel[hidden],html:not(.js) .rx-objective .rx-panel[
 .mockup-home .more-shelf-button>.icon-svg{width:21px;height:21px}
 .mockup-home .more-shelf-button>.icon-svg:last-child{margin-left:auto}
 @media(min-width:600px){.rx-academics .rx-roadmap{padding:12px;gap:7px}.rx-academics .rx-map-heading{gap:9px}.rx-academics .rx-map-heading>.icon-svg{width:32px;height:36px;flex-basis:32px}.rx-academics .rx-map-heading h3{font-size:20px}.rx-academics .rx-roadmap>.rx-hand{font-size:20px}}
+
+/* Retain the wordmark's literal T below the syringe glyph, without changing layout. */
+.rx-glyph-t{position:absolute;inset:0;color:transparent;pointer-events:none}

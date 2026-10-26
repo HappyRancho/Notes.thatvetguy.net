@@ -4,20 +4,21 @@
 
 # Veterinary Medicine
 
-Topic-wise notes and TANUVAS material for 4th Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes22 resources](#notes)[TANUVAS Notes1 resource](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=5)[Recommended Books](#books)
+4th Year · 23 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=5)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-22
+8 units · 22 notes
 
-### Unit 1 – General
+### Unit 1 General
 
-2
+2 notes
 
 PDF
 General Veterinary Medicine[Open General Veterinary Medicine](https://drive.google.com/file/d/1fEl_Fc3D5rMXvkFAL14KqIVzy1_hgh-m/view?usp=sharing)
@@ -25,9 +26,9 @@ General Veterinary Medicine[Open General Veterinary Medicine](https://drive.goog
 PDF
 General Veterinary Medicine by KVASUKVASU[Open General Veterinary Medicine by KVASU](https://drive.google.com/file/d/1N1gVdLaljq7AhJ3e0_-kdRSl4-iY9tVA/view?usp=sharing)
 
-### Unit 2 – Systemic Diseases
+### Unit 2 Systemic Diseases
 
-2
+2 notes
 
 PDF
 Systemic Diseases of Veterinary Medicine[Open Systemic Diseases of Veterinary Medicine](https://drive.google.com/file/d/1_tkl6YFsO8LeYCZNpJt27nRZIjeQO4uZ/view?usp=sharing)
@@ -35,9 +36,9 @@ Systemic Diseases of Veterinary Medicine[Open Systemic Diseases of Veterinary Me
 PDF
 Systemic Veterinary Diseases by KVASUKVASU[Open Systemic Veterinary Diseases by KVASU](https://drive.google.com/file/d/1UrzOs8THvYkb6rCt6dXaq4FhFddwdV8d/view?usp=sharing)
 
-### Unit 3 – Metabolic and Deficiency Disorders
+### Unit 3 Metabolic and Deficiency Disorders
 
-5
+5 notes
 
 PDF
 Details of Gout[Open Details of Gout](https://drive.google.com/file/d/1ExLh8aXCRWyAMg-l52b-RhB7YJt1Cmp9/view?usp=sharing)
@@ -54,9 +55,9 @@ Metabolic and Deficiency Disorders of Veterinary Medicine[Open Metabolic and Def
 PDF
 Vitamin Deficiency Disorders[Open Vitamin Deficiency Disorders](https://drive.google.com/file/d/1vHcm3fd8RINxxXZioiMjXv_TqYn9BMXs/view?usp=sharing)
 
-### Unit 4 – Zoo and Wild Animal Medicine
+### Unit 4 Zoo and Wild Animal Medicine
 
-3
+3 notes
 
 PDF
 National And International Organizations Linked To Wild And Zoo Animals[Open National And International Organizations Linked To Wild And Zoo Animals](https://drive.google.com/file/d/1k7beoj6HwBw3OWGcLoLjHQ9JRKbfLoPu/view?usp=share_link)
@@ -67,9 +68,9 @@ Zoo and Wild Animal Medicine[Open Zoo and Wild Animal Medicine](https://drive.go
 PDF
 Zoo and Wildlife Medicine Note[Open Zoo and Wildlife Medicine Note](https://drive.google.com/file/d/1mfPPdVOw_5-QmHuI9oqf_E5uag0hFnDY/view?usp=sharing)
 
-### Unit 5 – Bacterial, Fungal and Rickettsial Diseases
+### Unit 5 Bacterial, Fungal and Rickettsial Diseases
 
-2
+2 notes
 
 PDF
 Bacterial, Fungal and Rickettsial Diseases of Veterinary Medicine[Open Bacterial, Fungal and Rickettsial Diseases of Veterinary Medicine](https://drive.google.com/file/d/1X69x9ppfEM3wgVaWsKso1QEXgKHJeme7/view?usp=sharing)
@@ -77,9 +78,9 @@ Bacterial, Fungal and Rickettsial Diseases of Veterinary Medicine[Open Bacterial
 PDF
 Veterinary Bacterial Diseases Note[Open Veterinary Bacterial Diseases Note](https://drive.google.com/file/d/1fwF8702hx6BungZJtbxdYRlcLaEWHpfg/view?usp=sharing)
 
-### Unit 6 – Viral and Parasitic Diseases
+### Unit 6 Viral and Parasitic Diseases
 
-3
+3 notes
 
 PDF
 Veterinary Parasitic Diseases Note[Open Veterinary Parasitic Diseases Note](https://drive.google.com/file/d/1WRyCKnoo_zASpcNJOO4K2X0xzyW2c45R/view?usp=sharing)
@@ -90,9 +91,9 @@ Veterinary Viral Diseases Note[Open Veterinary Viral Diseases Note](https://driv
 PDF
 Viral and Parasitic Diseases of Veterinary Medicine[Open Viral and Parasitic Diseases of Veterinary Medicine](https://drive.google.com/file/d/1uY2HQwK9yoLQ1lD4uymIuLJqgzy4_2sH/view?usp=sharing)
 
-### Unit 7 – Jurisprudence, Ethics and Animal Welfare
+### Unit 7 Jurisprudence, Ethics and Animal Welfare
 
-2
+2 notes
 
 PDF
 Animal Welfare of Veterinary Medicine[Open Animal Welfare of Veterinary Medicine](https://drive.google.com/file/d/1ciw_By2QeasUhPeHFxm9KQg1brYec-kV/view?usp=sharing)
@@ -102,7 +103,7 @@ Jurisprudence, Ethics and Animal Welfare by KVASUKVASU[Open Jurisprudence, Ethic
 
 ### Additional subject notes
 
-3
+3 notes
 
 PDF
 All Diseases of Elephant[Open All Diseases of Elephant](https://drive.google.com/file/d/17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ/view?usp=share_link)
@@ -115,20 +116,20 @@ List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary
 
 ## TANUVAS Notes
 
-1
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### Unit 7 – Jurisprudence, Ethics and Animal Welfare
-
-1
+1 note
 
 PDF
 Animal Welfare, Ethics and Jurisprudence by TANUVASTANUVAS[Open Animal Welfare, Ethics and Jurisprudence by TANUVAS](https://drive.google.com/file/d/14Zo51O6tgACim6OzSVIw0XGItdjgce8T/view?usp=sharing)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+2 books
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -146,7 +147,13 @@ A companion for clinical examination and a systematic approach to disease.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
 

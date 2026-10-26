@@ -18,6 +18,11 @@ for year in data['years']:
   path=base+subject['slug']+'/';routes.append(path)
   html=(ROOT/path.strip('/')/'index.html').read_text()
   assert f'href="{path}"' in raw
+  assert 'data-subject-reader' in html and html.count('data-reader-tab=')==3
+  assert 'subject-jump-links' not in html and 'filter-chips' not in html
+  assert html.index('/assets/logic.js?')<html.index('/assets/subject-reader.js?')
+  tanuvas_panel=html.split('id="tanuvas"',1)[1].split('id="books"',1)[0]
+  assert 'class="resource-group' not in tanuvas_panel,'Single TANUVAS files must open directly'
   assert 'id="notes"' in html and 'id="tanuvas"' in html and 'id="books"' in html
   assert set(re.findall('data-resource-id="([^"]+)"',html))==set(subject['resourceIds'])
   for rid in subject['resourceIds']:

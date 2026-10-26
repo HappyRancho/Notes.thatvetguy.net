@@ -18,32 +18,50 @@ def subject_tile(b,year,subject,books):
     # The whole subject row is a single target; no nested buttons or duplicate links.
     return '<li id="'+subject['slug']+'">'+b.link(url(year,name),body,'academic-subject-card')+'</li>'
 
+def unit_parts(unit):
+    match=re.match(r'(Units?\s+\d+(?:[–—-]\d+)?)\s*[–—-]\s*(.*)',unit,re.I)
+    return (match[1],match[2]) if match else ('',unit)
+
 def groups(b,rows,subject,category):
-    from library_views import group,empty
-    if not rows:return '<p class="subject-source-note">No separate TANUVAS collection is listed for this subject yet.</p>' if category=='tanuvas' else empty(b,'Topic-wise notes coming soon')
+    from library_views import chunks,empty,file_card
+    if not rows:return empty(b,'Notes coming soon')
     units=sorted({r['unit'] for r in rows},key=lambda u:(int(m[1]) if (m:=re.match(r'Units?\s+(\d+)',u,re.I)) else 100000,natural(u)))
-    return ''.join(group(b,unit,[r for r in rows if r['unit']==unit],subject['slug']+('-tanuvas-' if category=='tanuvas' else '-')+slug(unit),i==0,level=3,filterkey=category) for i,unit in enumerate(units))
+    if category=='tanuvas':
+        # One Open action per file; a single-file course is not another accordion.
+        seen=set()
+        def course_row(builder,record):
+            unit=record['unit'];alias='' if unit in seen else '<span class="anchor-alias" id="'+subject['slug']+'-tanuvas-'+slug(unit)+'"></span>'
+            seen.add(unit)
+            return alias+file_card(builder,record)
+        return chunks(b,sorted(rows,key=lambda r:natural(r['title'])),course_row)
+    result=[]
+    for i,unit in enumerate(units):
+        own=[r for r in rows if r['unit']==unit];code,title=unit_parts(unit);ident=subject['slug']+'-'+slug(unit)
+        heading=('<span class="reader-unit-label">'+e(code)+'</span> ' if code else '')+'<span>'+e(title)+'</span>'
+        result.append('<details class="resource-group reader-unit" id="'+ident+'" data-group="topic"'+(' open' if i==0 else '')+'><summary><h3>'+heading+'</h3><span class="group-count">'+str(len(own))+'<span class="sr-only"> notes</span></span>'+b.icon('chevron')+'</summary><div class="group-body">'+chunks(b,own)+'</div></details>')
+    return ''.join(result)
 
 def render(b,year,subject,books):
     from year_hubs import subject_books
-    from library_views import controls
+    from library_views import empty
     name=subject['name'];label=b.DATA['labels'][str(year)];path=url(year,name);guide=b.SUBJECTS[name];rows=[b.CATALOGUE[r] for r in subject['resourceIds']]
     tanuvas=[r for r in rows if 'tanuvas' in r['collections']];topics=[r for r in rows if 'tanuvas' not in r['collections']];own=[r for r in books if r['year']==year and r['subject']==name]
     description=guide['summary'].split('. ',1)[0]+'. '+f'Find {label} BVSc & AH topic-wise notes, TANUVAS material where available, course outlines and recommended reading in one place.'
-    intro=f'Topic-wise notes and TANUVAS material for {label} BVSc & AH. Books and course outlines, all in one place.'
+    intro=f'Topic-wise notes, TANUVAS material and recommended reading for {label} BVSc & AH. Choose a collection below.'
     body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')]).replace('container reading-page','container reading-page subject-page',1)
-    body+='<nav class="subject-jump-links" aria-label="Subject resources">'+b.link('#notes',b.icon('paper')+'<span>Topic-wise Notes<small>'+str(len(topics))+' '+('resource' if len(topics)==1 else 'resources')+'</small></span>'+b.icon('arrow'),'subject-topic-jump')+b.link('#tanuvas',b.icon('book')+'<span>TANUVAS Notes<small>'+str(len(tanuvas))+' '+('resource' if len(tanuvas)==1 else 'resources')+'</small></span>'+b.icon('arrow'),'subject-tanuvas-jump')+'</nav>'
-    body+='<div class="subject-outline-links">'+b.link(outline_url(year,name),b.icon('paper')+'Course Outline')+b.link('#books',b.icon('book')+'Recommended Books')+'</div>'
-    if name=='Veterinary Biochemistry':body+='<p class="source-note">Biochemistry appears in the 1st Year outline PDF; it is grouped in 2nd Year here. Check your university’s syllabus.</p>'
-    body+='<div class="filter-collection subject-notes-collection" data-filter-subjects>'+controls(b,[('topic','Topic-wise'),('tanuvas','TANUVAS')],subject['slug'],True)
-    for ident,title,records,category,tone in [('notes','Topic-wise Notes',topics,'topic','sky'),('tanuvas','TANUVAS Notes',tanuvas,'tanuvas','mint')]:
-        body+='<section class="subject-notes-block '+tone+'" data-subject-section id="'+ident+'"><header><span class="rx-row-icon '+tone+'">'+b.icon('paper' if ident=='notes' else 'book')+'</span><h2>'+title+'</h2><span class="subject-resource-count">'+str(len(records))+'</span></header>'
-        if ident=='tanuvas' and records:body+='<p class="subject-source-note">Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.</p>'
-        body+=groups(b,records,subject,category)+'</section>'
-    body+='<p class="filter-empty" hidden>No notes match. '+b.link('/request-resource/','Request a resource')+'</p></div>'
-    body+='<section class="subject-reading-section" id="books"><header><span class="rx-row-icon yellow">'+b.icon('book')+'</span><h2>Recommended Books</h2></header>'+subject_books(b,own)+'</section>'
-    body+='<details class="subject-study-guide"><summary>What to cover '+b.icon('chevron')+'</summary><p>'+e(guide['summary'])+'</p><ul>'+''.join('<li>'+e(t)+'</li>' for t in guide['topics'])+'</ul><p>'+e(guide['studyTip'])+'</p></details>'
-    body+='<nav class="subject-bottom-nav" aria-label="More study material">'+b.link(f'/bvsc/year-{year}/','All '+label+' subjects '+b.icon('arrow'))+b.link(f'/bvsc/year-{year}/roadmap/','Year roadmap '+b.icon('map'))+'<button type="button" class="studied-button js-only" data-studied="'+subject['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></nav></div>'
+    body+='<div class="subject-meta"><span>'+label+' · '+str(len(rows))+' resources</span><div class="subject-outline-links">'+b.link(outline_url(year,name),b.icon('paper')+'Course Outline')+'</div></div>'
+    body+='<div class="subject-reader" data-subject-reader><nav class="reader-tabs" aria-label="Subject collections">'+''.join(b.link('#'+ident,title,'reader-tab'+(' is-selected' if ident=='notes' else '')).replace('<a ','<a id="reader-tab-'+ident+'" data-reader-tab="'+ident+'" ',1) for ident,title in [('notes','Topic-wise'),('tanuvas','TANUVAS'),('books','Books')])+'</nav>'
+    body+='<div class="reader-search js-only"'+(' hidden' if len(topics)<12 else '')+'><label class="sr-only" for="'+subject['slug']+'-query">Find a note in the selected collection</label><div class="inline-search">'+b.icon('search')+'<input id="'+subject['slug']+'-query" class="collection-query" type="search" placeholder="Find a topic or note…" autocomplete="off"></div><span class="reader-search-status sr-only" role="status"></span></div>'
+    for ident,title,records,category in [('notes','Topic-wise Notes',topics,'topic'),('tanuvas','TANUVAS Notes',tanuvas,'tanuvas')]:
+        units=len({r['unit'] for r in records});meta=(str(units)+' '+('unit' if units==1 else 'units')+' · ' if ident=='notes' and records else '')+str(len(records))+' '+('note' if len(records)==1 else 'notes')
+        body+='<section class="reader-panel" data-subject-panel data-selected="'+str(ident=='notes').lower()+'" id="'+ident+'"><header class="reader-panel-heading"><h2>'+title+'</h2><p>'+meta+'</p></header>'+groups(b,records,subject,category)
+        if ident=='tanuvas' and records:body+='<details class="reader-source-note"><summary>About these notes '+b.icon('chevron')+'</summary><p>TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.</p></details>'
+        body+='</section>'
+    body+='<section class="reader-panel" data-subject-panel data-selected="false" id="books"><header class="reader-panel-heading"><h2>Recommended Books</h2><p>'+str(len(own))+' '+('book' if len(own)==1 else 'books')+'</p></header>'+('<p class="reader-book-note">Reading recommendations. Expand a title for guidance.</p>' if own else '')+subject_books(b,own)+'</section>'
+    body+='<div class="reader-empty filter-empty" hidden><strong>No notes found.</strong><p>Try a shorter title or another collection.</p>'+b.link('/request-resource/','Request a resource '+b.icon('arrow'),'button secondary')+'</div></div>'
+    body+='<details class="subject-study-guide"><summary>Course focus & study tips '+b.icon('chevron')+'</summary><p>'+e(guide['summary'])+'</p><ul>'+''.join('<li>'+e(t)+'</li>' for t in guide['topics'])+'</ul><p>'+e(guide['studyTip'])+'</p>'
+    if name=='Veterinary Biochemistry':body+='<p>Biochemistry appears in the 1st Year outline PDF; it is grouped in 2nd Year here. Check your university’s syllabus.</p>'
+    body+='</details><nav class="subject-bottom-nav" aria-label="More study material">'+b.link(f'/bvsc/year-{year}/','All '+label+' subjects '+b.icon('arrow'))+b.link(f'/bvsc/year-{year}/roadmap/','Year roadmap '+b.icon('map'))+'<button type="button" class="studied-button js-only" data-studied="'+subject['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></nav></div>'
     b.write_page(path,name+' Notes, TANUVAS Material & Books',description,body,[(r['title'],r['url']) for r in rows])
 
 def legacy_notes(b,y):

@@ -4,37 +4,48 @@
 
 # Veterinary Clinical Practices I
 
-Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes1 resource](#notes)[TANUVAS Notes0 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=11)[Recommended Books](#books)
+3rd Year · 1 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=11)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-1
+1 unit · 1 note
 
 ### Subject notes
 
-1
+1 notes
 
 PDF
 Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
 ## TANUVAS Notes
 
-0
+0 notes
 
-No separate TANUVAS collection is listed for this subject yet.
+Notes coming soon
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+Nothing here yet. Even a calf needs a minute to stand.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
 ## Recommended Books
 
+0 books
+
 No book recommendation listed yet. Check your department’s prescribed practical manual.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
 

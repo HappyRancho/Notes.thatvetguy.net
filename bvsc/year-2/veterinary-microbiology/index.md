@@ -4,20 +4,21 @@
 
 # Veterinary Microbiology
 
-Topic-wise notes and TANUVAS material for 2nd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes63 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)[Recommended Books](#books)
+2nd Year · 67 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-63
+5 units · 63 notes
 
-### Unit 1 – General and Systematic Veterinary Bacteriology
+### Unit 1 General and Systematic Veterinary Bacteriology
 
-23
+23 notes
 
 PDF
 Actinobacillus, Haemophilus and Brucella[Open Actinobacillus, Haemophilus and Brucella](https://drive.google.com/file/d/1f1O_7UQdwCgEPp8JurA5Qlv0cCf14_kN/view?usp=sharing)
@@ -88,9 +89,9 @@ Streptomyces and Dermatophillus[Open Streptomyces and Dermatophillus](https://dr
 PDF
 Vibrio[Open Vibrio](https://drive.google.com/file/d/1h2sn9SNb9aZc5ILvhKjV9RTiCDeciVQ4/view?usp=sharing)
 
-### Unit 2 – Veterinary Mycology
+### Unit 2 Veterinary Mycology
 
-9
+9 notes
 
 PDF
 Aspergillus[Open Aspergillus](https://drive.google.com/file/d/1EjVU9ZhkPsjLHfnXdjrZFTXvIgaulqeZ/view?usp=sharing)
@@ -119,9 +120,9 @@ Mycotoxicosis[Open Mycotoxicosis](https://drive.google.com/file/d/1eocHc_9twWkGX
 PDF
 Penicillium[Open Penicillium](https://drive.google.com/file/d/1TgkG3CSTkz-WtBJZ9WokrPpUseHa9oZc/view?usp=sharing)
 
-### Unit 3 – Microbial Biotechnology
+### Unit 3 Microbial Biotechnology
 
-10
+10 notes
 
 PDF
 Basic concepts and scope of Recombinant DNA Technology[Open Basic concepts and scope of Recombinant DNA Technology](https://drive.google.com/file/d/1Sbd5y6n-wWLGYdnlUplEae3kVW47A4_t/view?usp=sharing)
@@ -153,9 +154,9 @@ Transformation and Transfection[Open Transformation and Transfection](https://dr
 PDF
 Veterinary Biotechnology Note[Open Veterinary Biotechnology Note](https://drive.google.com/file/d/1V8DahEJM9H3wLA5kxSy9qcDmBSHibbZy/view?usp=sharing)
 
-### Unit 4 – Veterinary Immunology and Serology
+### Unit 4 Veterinary Immunology and Serology
 
-2
+2 notes
 
 PDF
 Veterinary Immunology and Serology[Open Veterinary Immunology and Serology](https://drive.google.com/file/d/1CGFgYNIo6ksyv9MvMJWDmVuQv7RNKpuE/view?usp=sharing)
@@ -163,9 +164,9 @@ Veterinary Immunology and Serology[Open Veterinary Immunology and Serology](http
 PDF
 Veterinary Immunology and Serology Note[Open Veterinary Immunology and Serology Note](https://drive.google.com/file/d/1r_u6iP9XfpAxx5UDBvYsiiAvMUadXL7N/view?usp=sharing)
 
-### Unit 5 – General and Systematic Veterinary Virology
+### Unit 5 General and Systematic Veterinary Virology
 
-19
+19 notes
 
 PDF
 Adenoviridae – Infectious Canine Hepatitis, Egg drop syndrome and Fowl adenovirus[Open Adenoviridae – Infectious Canine Hepatitis, Egg drop syndrome and Fowl adenovirus](https://drive.google.com/file/d/1lBcI5rPI23YQ4hutcuYxTGeNLVSurxvu/view?usp=sharing)
@@ -226,41 +227,29 @@ Veterinary Virology Overall Note[Open Veterinary Virology Overall Note](https://
 
 ## TANUVAS Notes
 
-4
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### VMC-211 · General Veterinary Microbiology
-
-1
+4 notes
 
 PDF
 VMC 211 General Veterinary MicrobiologyTANUVAS · listed by VetBVSc[Open VMC 211 General Veterinary Microbiology](https://vetbvsc.in/wp-content/uploads/2025/02/VMC-211-1.pdf)
 
-### VMC-221 · Veterinary Immunology And Serology
-
-1
-
 PDF
 VMC 221 Veterinary Immunology And SerologyTANUVAS · listed by VetBVSc[Open VMC 221 Veterinary Immunology And Serology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-221-veterinary-immunology-and-serology-1.pdf)
-
-### VMC-311 · Systematic Veterinary Bacteriology And Mycology
-
-1
 
 PDF
 VMC 311 Systematic Veterinary Bacteriology And MycologyTANUVAS · listed by VetBVSc[Open VMC 311 Systematic Veterinary Bacteriology And Mycology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-311-systematic-veterinary-bacteriology-and-mycology-1.pdf)
 
-### VMC-321 · Systematic Veterinary Virology
-
-1
-
 PDF
 VMC 321 Systematic Veterinary VirologyTANUVAS · listed by VetBVSc[Open VMC 321 Systematic Veterinary Virology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -270,7 +259,13 @@ Connect organism characteristics with the infections they cause in animals.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 

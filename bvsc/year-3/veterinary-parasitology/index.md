@@ -4,20 +4,21 @@
 
 # Veterinary Parasitology
 
-Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes46 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=5)[Recommended Books](#books)
+3rd Year · 50 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=5)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-46
+5 units · 46 notes
 
-### Unit 1 – General Veterinary Parasitology
+### Unit 1 General Veterinary Parasitology
 
-5
+5 notes
 
 PDF
 General Parasitology – Types of Parasites, Hosts, Vectors and Animal associations or Relationships[Open General Parasitology – Types of Parasites, Hosts, Vectors and Animal associations or Relationships](https://drive.google.com/file/d/10_zxvjAdbkJ8ots_sjK4S2aFJxAX4dK9/view)
@@ -34,9 +35,9 @@ Modes of Transmission and Methods of Dissemination of Parasites[Open Modes of Tr
 PDF
 Nomenclature of Parasites and Parasitic Diseases[Open Nomenclature of Parasites and Parasitic Diseases](https://drive.google.com/file/d/1O9QbkzcKu1CxUNjqhQx_cahZyFvsxm7W/view)
 
-### Unit 2 – Trematodes and Cestodes of Veterinary Importance
+### Unit 2 Trematodes and Cestodes of Veterinary Importance
 
-6
+6 notes
 
 PDF
 Blood Fluke – Nasal and Visceral Schistosomosis and Cercarial Dermatitis[Open Blood Fluke – Nasal and Visceral Schistosomosis and Cercarial Dermatitis](https://drive.google.com/file/d/13pjGEtgMGjSPVVwjFfjqu125UG5FnCVc/view)
@@ -56,9 +57,9 @@ Paramphistomes – Rumen Fluke[Open Paramphistomes – Rumen Fluke](https://driv
 PDF
 Trematodes (Fluke) – Introduction, Classification and General Life cycle[Open Trematodes (Fluke) – Introduction, Classification and General Life cycle](https://drive.google.com/file/d/1wYn9i2QwcY5Ra_OcePRNxDd3O1AfU5wG/view)
 
-### Unit 3 – Nematodes of Veterinary Importance
+### Unit 3 Nematodes of Veterinary Importance
 
-12
+12 notes
 
 PDF
 Ananthocephala (Macrocanthorhynchus)[Open Ananthocephala (Macrocanthorhynchus)](https://drive.google.com/file/d/1TrSIq8yOKJP5P6ahmmhh6f2iNB98fDzy/view?usp=sharing)
@@ -96,9 +97,9 @@ Study of Anthelmintic Resistance and its types[Open Study of Anthelmintic Resist
 PDF
 Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus[Open Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus](https://drive.google.com/file/d/1q8UZWX-_cJFryIrtOBVGIlI_BxN5t_74/view?usp=sharing)
 
-### Unit 4 – Arthropods of Veterinary Importance
+### Unit 4 Arthropods of Veterinary Importance
 
-10
+10 notes
 
 PDF
 Arachnids – Soft Ticks, Hard Ticks and Mites[Open Arachnids – Soft Ticks, Hard Ticks and Mites](https://drive.google.com/file/d/1XVUUQft3rxvJLYj-ZOKVjyPpNwDGHm7v/view?usp=sharing)
@@ -130,9 +131,9 @@ Study of Insecticide or Acaricide Resistance[Open Study of Insecticide or Acaric
 PDF
 Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis[Open Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis](https://drive.google.com/file/d/1oL_iDGuszMSoCKiDTA5ZnR-bzgAUo0d9/view?usp=sharing)
 
-### Unit 5 – Protozoa of Veterinary Importance
+### Unit 5 Protozoa of Veterinary Importance
 
-13
+13 notes
 
 PDF
 Anaplasma and Ehrlichia[Open Anaplasma and Ehrlichia](https://drive.google.com/file/d/1mT-ChzrAmmqKzYvSOTOMYRUR2SZtt7ek/view?usp=sharing)
@@ -175,41 +176,29 @@ Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni[Open Veterinary Para
 
 ## TANUVAS Notes
 
-4
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### Unit 5 – Protozoa of Veterinary Importance
-
-1
-
-PDF
-Veterinary Protozoology Note by TANUVASTANUVAS[Open Veterinary Protozoology Note by TANUVAS](https://drive.google.com/file/d/1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k/view?usp=sharing)
-
-### VPA-211 · Veterinary Entomology
-
-1
+4 notes
 
 DOCX
 Veterinary Entomology (TANUVAS)TANUVAS · listed by VetBVSc[Open Veterinary Entomology (TANUVAS)](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx)
 
-### VPA-221 · Veterinary Entomology And Acarology
-
-1
+PDF
+Veterinary Protozoology Note by TANUVASTANUVAS[Open Veterinary Protozoology Note by TANUVAS](https://drive.google.com/file/d/1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k/view?usp=sharing)
 
 PDF
 VPA-221 Veterinary Entomology And AcarologyTANUVAS · listed by VetBVSc[Open VPA-221 Veterinary Entomology And Acarology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf)
 
-### VPA-222 · Veterinary Protozoology
-
-1
-
 DOCX
 VPA-222 Veterinary ProtozoologyTANUVAS · listed by VetBVSc[Open VPA-222 Veterinary Protozoology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -219,7 +208,13 @@ Use life cycles, host relationships and diagnostic features as your organising f
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 

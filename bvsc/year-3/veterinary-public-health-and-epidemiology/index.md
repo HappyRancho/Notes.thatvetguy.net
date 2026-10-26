@@ -4,20 +4,21 @@
 
 # Veterinary Public Health and Epidemiology
 
-Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes35 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=3)[Recommended Books](#books)
+3rd Year · 38 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=3)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-35
+4 units · 35 notes
 
-### Unit 1 – Veterinary Public Health and Food Safety
+### Unit 1 Veterinary Public Health and Food Safety
 
-4
+4 notes
 
 PDF
 Biosafety and Food Safety in relation to Public Health[Open Biosafety and Food Safety in relation to Public Health](https://drive.google.com/file/d/1qOGQ88LK_WPCYaczN5B-qr77MCqM_RHP/view)
@@ -31,9 +32,9 @@ Milk Hygiene in relation to Public Health[Open Milk Hygiene in relation to Publi
 PDF
 Veterinary Public Health and Food Safety Overall Note[Open Veterinary Public Health and Food Safety Overall Note](https://drive.google.com/file/d/12x1RKCfKggSJitGU7BDuYvxtb6ezWDYQ/view?usp=sharing)
 
-### Unit 2 – Veterinary Epidemiology
+### Unit 2 Veterinary Epidemiology
 
-3
+3 notes
 
 PDF
 Full Veterinary Epidemiology Note[Open Full Veterinary Epidemiology Note](https://drive.google.com/file/d/1nB3U2fuRhB5fmvxp_zXydMdig_5HCdBA/view?usp=sharing)
@@ -44,9 +45,9 @@ Veterinary Epidemiology[Open Veterinary Epidemiology](https://drive.google.com/f
 PDF
 Veterinary Epidemiology Overall Note[Open Veterinary Epidemiology Overall Note](https://drive.google.com/file/d/1HI5Qi-n_jFVhPR72fz0jR5Sfxwjzl1dp/view?usp=sharing)
 
-### Unit 3 – Zoonotic Diseases
+### Unit 3 Zoonotic Diseases
 
-21
+21 notes
 
 PDF
 Brucellosis – Zoonotic Disease[Open Brucellosis – Zoonotic Disease](https://drive.google.com/file/d/1ITkoI6wcqxfhrvB6hHMBjPWEtOwVL_B5/view)
@@ -111,9 +112,9 @@ Tuberculosis – Zoonotic Disease[Open Tuberculosis – Zoonotic Disease](https:
 PDF
 Zoonotic Diseases Overall Note[Open Zoonotic Diseases Overall Note](https://drive.google.com/file/d/1M51Y1xswdKW-Pef-G-q1yYxjmo7xS8nd/view?usp=sharing)
 
-### Unit 4 – Environmental Hygiene
+### Unit 4 Environmental Hygiene
 
-7
+7 notes
 
 PDF
 Biodiversity – Uses, Threats and Conservation[Open Biodiversity – Uses, Threats and Conservation](https://drive.google.com/file/d/1NWSGQnCcYSV8HZJ7NrZGl4qyJzNcRwcP/view)
@@ -138,34 +139,26 @@ Noise and Radiation Pollution[Open Noise and Radiation Pollution](https://drive.
 
 ## TANUVAS Notes
 
-3
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### VPE-311 · Milk and Meat Hygiene, Food Safety and Public Health
-
-1
+3 notes
 
 PDF
 VPE-311 Milk and Meat Hygiene, Food Safety and Public HealthTANUVAS · listed by VetBVSc[Open VPE-311 Milk and Meat Hygiene, Food Safety and Public Health](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-311-tanuvas.pdf)
 
-### VPE-321 · Veterinary Epidemiology And Zoonoses
-
-1
-
 PDF
 VPE-321 Veterinary Epidemiology And ZoonosesTANUVAS · listed by VetBVSc[Open VPE-321 Veterinary Epidemiology And Zoonoses](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-321-tanuvas.pdf)
-
-### VPE-511 · Environment and Environmental Hygiene
-
-1
 
 PDF
 VPE–511 Environment and Environmental HygieneTANUVAS · listed by VetBVSc[Open VPE–511 Environment and Environmental Hygiene](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -175,7 +168,13 @@ A reference for disease patterns, study design and interpreting diagnostic tests
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
 

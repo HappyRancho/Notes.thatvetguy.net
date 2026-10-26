@@ -4,20 +4,21 @@
 
 # Veterinary Pharmacology and Toxicology
 
-Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes27 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=1)[Recommended Books](#books)
+3rd Year · 31 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=1)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-27
+6 units · 27 notes
 
-### Unit 1 – General Pharmacology
+### Unit 1 General Pharmacology
 
-5
+5 notes
 
 PDF
 Factors modifying Drug effect and Dosage[Open Factors modifying Drug effect and Dosage](https://drive.google.com/file/d/1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9/view)
@@ -34,9 +35,9 @@ Pharmacodynamics[Open Pharmacodynamics](https://drive.google.com/file/d/1UXt4V4W
 PDF
 Pharmacokinetics[Open Pharmacokinetics](https://drive.google.com/file/d/19t5npwxtScJNrAZlK_ArYtIxtMTVssXN/view)
 
-### Unit 2 – Drugs Acting on Autonomic Nervous System
+### Unit 2 Drugs Acting on Autonomic Nervous System
 
-4
+4 notes
 
 PDF
 Autacoids[Open Autacoids](https://drive.google.com/file/d/1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ/view)
@@ -50,9 +51,9 @@ Drugs acting on Autonomic Nervous System[Open Drugs acting on Autonomic Nervous 
 PDF
 Drugs Acting on Autonomic Nervous System Note[Open Drugs Acting on Autonomic Nervous System Note](https://drive.google.com/file/d/1WngNRKbPOJ6PoucchwftteGhfkCV7Orf/view?usp=sharing)
 
-### Unit 3 – Drugs Acting on Central Nervous System
+### Unit 3 Drugs Acting on Central Nervous System
 
-9
+9 notes
 
 PDF
 Analeptics and other CNS Stimulants[Open Analeptics and other CNS Stimulants](https://drive.google.com/file/d/1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i/view)
@@ -81,9 +82,9 @@ Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs[Open Opioid Analgesi
 PDF
 Psychotropic Drugs or Psycho Pharmacological Agents[Open Psychotropic Drugs or Psycho Pharmacological Agents](https://drive.google.com/file/d/1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY/view)
 
-### Unit 4 – Drugs Acting on Different Body Systems
+### Unit 4 Drugs Acting on Different Body Systems
 
-5
+5 notes
 
 PDF
 Drugs acting on Cardiovascular System[Open Drugs acting on Cardiovascular System](https://drive.google.com/file/d/1n5bNtxYSesqZ8cD2IVPJ0obrWK4GSJ8C/view?usp=sharing)
@@ -100,9 +101,9 @@ Drugs acting on Skin and Mucous Membranes[Open Drugs acting on Skin and Mucous M
 PDF
 Drugs acting on Urogenital System[Open Drugs acting on Urogenital System](https://drive.google.com/file/d/1TLP1Fb_y6JhHnSkh-E0uNL61c4lXyzrW/view?usp=sharing)
 
-### Unit 5 – Veterinary Chemotherapy
+### Unit 5 Veterinary Chemotherapy
 
-2
+2 notes
 
 PDF
 Veterinary Chemotherapy[Open Veterinary Chemotherapy](https://drive.google.com/file/d/1rKLo-enn3y1_EndqEdWnXM773-7pTLlz/view?usp=sharing)
@@ -110,9 +111,9 @@ Veterinary Chemotherapy[Open Veterinary Chemotherapy](https://drive.google.com/f
 PDF
 Veterinary Chemotherapy Note[Open Veterinary Chemotherapy Note](https://drive.google.com/file/d/1x0btw5V5JU18SfjQflWu0Z3_45nT4agC/view?usp=sharing)
 
-### Unit 6 – Veterinary Toxicology
+### Unit 6 Veterinary Toxicology
 
-2
+2 notes
 
 PDF
 Veterinary Toxicology[Open Veterinary Toxicology](https://drive.google.com/file/d/1MSf3Em3drGbth-qhpMenQly6ARAGOvRr/view?usp=sharing)
@@ -122,41 +123,29 @@ Veterinary Toxicology Note[Open Veterinary Toxicology Note](https://drive.google
 
 ## TANUVAS Notes
 
-4
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### VPT-311 · General and Systemic Veterinary Pharmacology
-
-1
+4 notes
 
 PDF
 VPT-311 General and Systemic Veterinary PharmacologyTANUVAS · listed by VetBVSc[Open VPT-311 General and Systemic Veterinary Pharmacology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-311.pdf)
 
-### VPT-321 · Veterinary Neuropharmacology
-
-1
-
 PDF
 VPT-321 Veterinary NeuropharmacologyTANUVAS · listed by VetBVSc[Open VPT-321 Veterinary Neuropharmacology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-321.pdf)
-
-### VPT-411 · Veterinary Chemotherapy
-
-1
 
 PDF
 VPT-411 Veterinary ChemotherapyTANUVAS · listed by VetBVSc[Open VPT-411 Veterinary Chemotherapy](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpt-411-veterinary-chemotherapy.pdf)
 
-### VPT-421 · Veterinary Toxicology
-
-1
-
 PDF
 VPT-421 Veterinary ToxicologyTANUVAS · listed by VetBVSc[Open VPT-421 Veterinary Toxicology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+1 book
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -166,7 +155,13 @@ Organise drug classes by mechanism, action and therapeutic use.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 

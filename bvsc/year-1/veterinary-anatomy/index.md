@@ -4,20 +4,21 @@
 
 # Veterinary Anatomy
 
-Topic-wise notes and TANUVAS material for 1st Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes15 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=1)[Recommended Books](#books)
+1st Year · 19 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=1)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-15
+3 units · 15 notes
 
-### Units 1–6 – Gross and Applied Anatomy
+### Units 1–6 Gross and Applied Anatomy
 
-9
+9 notes
 
 PDF
 Angiology[Open Angiology](https://drive.google.com/file/d/1GAJPkpC3FgntG136cAhq8mENzwllRAn9/view?usp=sharing)
@@ -46,9 +47,9 @@ Splanchnology[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZ
 PDF
 Veterinary Anatomy Overall[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
 
-### Unit 7 – Veterinary Histology
+### Unit 7 Veterinary Histology
 
-3
+3 notes
 
 PDF
 Full Histology[Open Full Histology](https://drive.google.com/file/d/1P6FkelJcdHlcjNgA7R261foED4na_0Xb/view?usp=sharing)
@@ -59,9 +60,9 @@ Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google
 PDF
 Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
 
-### Unit 8 – Veterinary Embryology
+### Unit 8 Veterinary Embryology
 
-3
+3 notes
 
 PDF
 Full Embryology[Open Full Embryology](https://drive.google.com/file/d/1GkXK4KspRhBgP3jA-5zy6Dkk6rUh1psT/view?usp=sharing)
@@ -74,41 +75,29 @@ Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.goog
 
 ## TANUVAS Notes
 
-4
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### VAN-111 · Veterinary Gross Anatomy –I
-
-1
+4 notes
 
 PDF
 VAN-111 Veterinary Gross Anatomy –ITANUVAS · listed by VetBVSc[Open VAN-111 Veterinary Gross Anatomy –I](https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-111-tanuvas.pdf)
 
-### VAN-121 · Veterinary Gross Anatomy- II
-
-1
-
 PDF
 VAN-121 Veterinary Gross Anatomy- IITANUVAS · listed by VetBVSc[Open VAN-121 Veterinary Gross Anatomy- II](https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-van-121.pdf)
-
-### VAN-211 · Veterinary Histology and Embryology
-
-1
 
 PDF
 VAN-211 Veterinary Histology and EmbryologyTANUVAS · listed by VetBVSc[Open VAN-211 Veterinary Histology and Embryology](https://vetbvsc.in/wp-content/uploads/2025/02/van-211-tanuvas.pdf)
 
-### VAN-221 · Veterinary Splanchnology And Applied Anatomy
-
-1
-
 PDF
 VAN-221 Veterinary Splanchnology And Applied AnatomyTANUVAS · listed by VetBVSc[Open VAN-221 Veterinary Splanchnology And Applied Anatomy](https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+2 books
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -126,7 +115,13 @@ Use alongside dissection to compare structures across domestic species.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 

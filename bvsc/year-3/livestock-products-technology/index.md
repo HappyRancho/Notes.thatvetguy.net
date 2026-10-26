@@ -4,20 +4,21 @@
 
 # Livestock Products Technology
 
-Topic-wise notes and TANUVAS material for 3rd Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes46 resources](#notes)[TANUVAS Notes3 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=7)[Recommended Books](#books)
+3rd Year · 49 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=7)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-46
+4 units · 46 notes
 
-### Unit 1 – Milk and Milk Products Technology
+### Unit 1 Milk and Milk Products Technology
 
-14
+14 notes
 
 PDF
 Collection, Chilling, Standardization, Homogenization, Pasteurization and Bactofugation of Milk[Open Collection, Chilling, Standardization, Homogenization, Pasteurization and Bactofugation of Milk](https://drive.google.com/file/d/1svCrcIi4ceCoCp6pf4tAYCcfVGdexysb/view)
@@ -61,9 +62,9 @@ Preparation of Milk By-Products specially Skim Milk Powder and Whey[Open Prepara
 PDF
 Sanitation, GMP and HACCP in Milk Plant[Open Sanitation, GMP and HACCP in Milk Plant](https://drive.google.com/file/d/1ARqbvdR3z9_6a2N3VAAjnUrSkzc0mxzs/view)
 
-### Unit 2 – Wool Science
+### Unit 2 Wool Science
 
-3
+3 notes
 
 PDF
 Introduction of Wool and Terms related to Wool Processing[Open Introduction of Wool and Terms related to Wool Processing](https://drive.google.com/file/d/1pScMuFmoxAMY1KudJ3qBT2cxOrNEka3w/view)
@@ -74,9 +75,9 @@ Post shearing operations, classification and grading of wool[Open Post shearing 
 PDF
 Properties and Impurities of wool and factors influencing the quality of wool[Open Properties and Impurities of wool and factors influencing the quality of wool](https://drive.google.com/file/d/15nBkPdWnJ_YxTF2Re14VIsscCV0bQerm/view)
 
-### Unit 3 – Abattoir Practices and Animal Byproducts Technology
+### Unit 3 Abattoir Practices and Animal Byproducts Technology
 
-13
+13 notes
 
 PDF
 Abattoir by-products: Utilization and Pharmaceutical value[Open Abattoir by-products: Utilization and Pharmaceutical value](https://drive.google.com/file/d/1Tynw_qJc7UeK-Uc3-WyQwnE3j6DXRVsx/view)
@@ -117,9 +118,9 @@ Slaughtering Methods[Open Slaughtering Methods](https://drive.google.com/file/d/
 PDF
 Treatment of Condemned Meat and Carcasses[Open Treatment of Condemned Meat and Carcasses](https://drive.google.com/file/d/1Ierj_srqEqeGQSxv9Zp6Md5jlUR_WuyZ/view)
 
-### Unit 4 – Meat Science
+### Unit 4 Meat Science
 
-16
+16 notes
 
 PDF
 Ageing of Meat and Packaging of Meat and Meat Products[Open Ageing of Meat and Packaging of Meat and Meat Products](https://drive.google.com/file/d/1-7TZof5bkbIOnglDblkN0754xs1_LoHe/view)
@@ -171,34 +172,26 @@ Structure and Composition of Muscle[Open Structure and Composition of Muscle](ht
 
 ## TANUVAS Notes
 
-3
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### LPT-311 · Milk and Milk Products Technology
-
-1
+3 notes
 
 PDF
 LPT -311 Milk and Milk Products TechnologyTANUVAS · listed by VetBVSc[Open LPT -311 Milk and Milk Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf)
 
-### LPT-312 · Abattoir Practices And Animal Products 5Technology
-
-1
+PDF
+LPT -321 Meat ScienceTANUVAS · listed by VetBVSc[Open LPT -321 Meat Science](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf)
 
 PDF
 LPT-312 Abattoir Practices And Animal Products TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
 
-### LPT-321 · Meat Science
+About these notes 
 
-1
-
-PDF
-LPT -321 Meat ScienceTANUVAS · listed by VetBVSc[Open LPT -321 Meat Science](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf)
-
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+2 books
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -216,7 +209,13 @@ Read alongside abattoir and meat-science teaching for processing and product con
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 

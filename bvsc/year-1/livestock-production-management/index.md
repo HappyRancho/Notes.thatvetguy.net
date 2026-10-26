@@ -4,27 +4,28 @@
 
 # Livestock Production Management
 
-Topic-wise notes and TANUVAS material for 1st Year BVSc & AH. Books and course outlines, all in one place.
+Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & AH. Choose a collection below.
 
-[Topic-wise Notes25 resources](#notes)[TANUVAS Notes4 resources](#tanuvas)
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=7)[Recommended Books](#books)
+1st Year · 29 resources
+[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=7)
 
-Search this collection
+[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
+Find a note in the selected collection
 
 ## Topic-wise Notes
 
-25
+9 units · 25 notes
 
-### Unit 1 – General Livestock Management
+### Unit 1 General Livestock Management
 
-1
+1 notes
 
 PDF
 General Livestock Management[Open General Livestock Management](https://drive.google.com/file/d/1AGbIMXNivCW5o-pFaPm7rbKehpUBqnoN/view?usp=sharing)
 
-### Unit 2 – Fodder Production and Conservation
+### Unit 2 Fodder Production and Conservation
 
-3
+3 notes
 
 PDF
 Fodder Production and Conservation[Open Fodder Production and Conservation](https://drive.google.com/file/d/1HJ6X0mF8E_7V_0RYdaNNozGVCBcq7sFi/view?usp=sharing)
@@ -35,9 +36,9 @@ Fodder Production and Conservation[Open Fodder Production and Conservation](http
 PDF
 Hay and Silage Making[Open Hay and Silage Making](https://drive.google.com/file/d/1DQNU-x2jFkKNdM61qi3dAPWN5-sJJ27G/view?usp=sharing)
 
-### Unit 3 – Livestock Production Management – Ruminants
+### Unit 3 Livestock Production Management – Ruminants
 
-2
+2 notes
 
 PDF
 All Livestock and Poultry Breeds Note[Open All Livestock and Poultry Breeds Note](https://drive.google.com/file/d/1GVHgdcXO0YYjGH35FVGg9OaA-h3vU_Rp/view?usp=sharing)
@@ -45,16 +46,16 @@ All Livestock and Poultry Breeds Note[Open All Livestock and Poultry Breeds Note
 PDF
 Design and Construction of Livestock Buildings[Open Design and Construction of Livestock Buildings](https://drive.google.com/file/d/1PbrMVAWx0m_NHNc_QLhfzR2DRrfLwPrb/view?usp=sharing)
 
-### Unit 4 – Zoo Animals Production Management
+### Unit 4 Zoo Animals Production Management
 
-1
+1 notes
 
 PDF
 Zoo Animals Production Management[Open Zoo Animals Production Management](https://drive.google.com/file/d/1OIxFhgm_knEGNnSxeOiIxSlh9_hAVPfl/view?usp=sharing)
 
-### Unit 5 – Animal Welfare
+### Unit 5 Animal Welfare
 
-2
+2 notes
 
 PDF
 Animal Welfare[Open Animal Welfare](https://drive.google.com/file/d/1rxUy5uffMgf6JqcPJTRil85He4kf1o4X/view?usp=sharing)
@@ -62,9 +63,9 @@ Animal Welfare[Open Animal Welfare](https://drive.google.com/file/d/1rxUy5uffMgf
 PDF
 Animal Welfare Note[Open Animal Welfare Note](https://drive.google.com/file/d/1QoSKZlWWRfy8O3hquGSTWIh2UED5yFp2/view?usp=sharing)
 
-### Unit 6 – Poultry Production Management
+### Unit 6 Poultry Production Management
 
-8
+8 notes
 
 PDF
 Bio-security Management at Poultry Farms[Open Bio-security Management at Poultry Farms](https://drive.google.com/file/d/1JgEbdtJ6Bv9Of4uG8f2NpgMh4ktB9q-Y/view?usp=sharing)
@@ -90,9 +91,9 @@ Poultry Production Management[Open Poultry Production Management](https://drive.
 PDF
 Structure and Composition of Egg[Open Structure and Composition of Egg](https://drive.google.com/file/d/1zMgi873IW4oXUPPgW2H0gH2EtsKuROCi/view?usp=sharing)
 
-### Unit 7 – Diversified Poultry Production and Hatchery Management
+### Unit 7 Diversified Poultry Production and Hatchery Management
 
-4
+4 notes
 
 PDF
 Different Methods of Poultry Farming[Open Different Methods of Poultry Farming](https://drive.google.com/file/d/1vge_AQjMDHfqWlpIRAYcYRXASMV1DFwZ/view?usp=sharing)
@@ -106,9 +107,9 @@ Management of Ducks, Geese, Turkeys, Japanese quails and Guinea fowls[Open Manag
 PDF
 Poultry Waste Management[Open Poultry Waste Management](https://drive.google.com/file/d/19CKEp8wLYTXyr_wkMwB6AAlG04fF4y6s/view?usp=sharing)
 
-### Unit 8 – Rabbit Production Management
+### Unit 8 Rabbit Production Management
 
-2
+2 notes
 
 PDF
 Rabbit Production Management[Open Rabbit Production Management](https://drive.google.com/file/d/1mAVPkcvxSv9okZYZSKdV3_A9trH9msyC/view?usp=sharing)
@@ -116,9 +117,9 @@ Rabbit Production Management[Open Rabbit Production Management](https://drive.go
 PDF
 Rabbit Production Management Note[Open Rabbit Production Management Note](https://drive.google.com/file/d/1z8jLufYOYKPw3N1m4o1Q8VlX3tgm40HX/view?usp=sharing)
 
-### Unit 9 – Swine Production Management
+### Unit 9 Swine Production Management
 
-2
+2 notes
 
 PDF
 Swine Production Management[Open Swine Production Management](https://drive.google.com/file/d/1EFrcNor-g9C8EIRXOc8fiicB4cVQVFmi/view?usp=sharing)
@@ -128,41 +129,29 @@ Swine Production Management Note[Open Swine Production Management Note](https://
 
 ## TANUVAS Notes
 
-4
-
-Collection labels follow VetBVSc’s source pages. Older course codes may differ from your current syllabus.
-
-### LPM-111 · Livestock Production Management-I
-
-1
-
-PDF
-LPM-111 Livestock Production Management-ITANUVAS · listed by VetBVSc[Open LPM-111 Livestock Production Management-I](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf)
-
-### LPM-121 · Fodder Production and Grassland Management
-
-1
+4 notes
 
 PDF
 LPM -121 Fodder Production and Grassland ManagementTANUVAS · listed by VetBVSc[Open LPM -121 Fodder Production and Grassland Management](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-121-fodder.pdf)
 
-### LPM-122 · Livestock Production Management-II
-
-1
-
 PDF
 LPM -122 Livestock Production Management-IITANUVAS · listed by VetBVSc[Open LPM -122 Livestock Production Management-II](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-122.pdf)
 
-### LPM-211 · Avian Production Management
-
-1
+PDF
+LPM-111 Livestock Production Management-ITANUVAS · listed by VetBVSc[Open LPM-111 Livestock Production Management-I](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf)
 
 PDF
 LPM-211 Avian Production ManagementTANUVAS · listed by VetBVSc[Open LPM-211 Avian Production Management](https://vetbvsc.in/wp-content/uploads/2025/02/copy-of-lpm-211.pdf)
 
-No notes match. [Request a resource](https://notes.thatvetguy.net/request-resource/)
+About these notes 
+
+TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 ## Recommended Books
+
+2 books
+
+Reading recommendations. Expand a title for guidance.
 
 - 
 
@@ -180,7 +169,13 @@ A broader reference for breeds, production systems and farm management.
 
 Reading recommendation · no linked copy available.
 
-What to cover 
+No notes found.
+
+Try a shorter title or another collection.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+Course focus & study tips 
 
 Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
 
