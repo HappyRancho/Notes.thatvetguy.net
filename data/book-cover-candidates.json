@@ -1,0 +1,745 @@
+{
+  "reviewed": "2026-10-28",
+  "candidates": {
+    "a-textbook-of-animal-husbandry": {
+      "cover": null,
+      "query": {
+        "id": "a-textbook-of-animal-husbandry",
+        "queryTitle": "A Textbook of Animal Husbandry",
+        "queryAuthor": "G. C. Banerjee"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "adam-s-lameness-in-horses-7th-edition": {
+      "cover": null,
+      "query": {
+        "id": "adam-s-lameness-in-horses-7th-edition",
+        "queryTitle": "Adams and Stashak Lameness in Horses",
+        "queryAuthor": "Baxter"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-adam-s-lameness-in-horses-7th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "veterinary-capsule": {
+      "cover": null,
+      "query": {
+        "id": "veterinary-capsule",
+        "queryTitle": "All in One Veterinary Capsule",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "biochemistry": {
+      "cover": null,
+      "query": {
+        "id": "biochemistry",
+        "queryTitle": "Biochemistry",
+        "queryAuthor": "Satyanarayana"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-biochemistry.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "colour-atlas-of-veterinary-anatomy-the-ruminants": {
+      "cover": null,
+      "query": {
+        "id": "colour-atlas-of-veterinary-anatomy-the-ruminants",
+        "queryTitle": "Color Atlas Veterinary Anatomy Ruminants",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "small-animal-colour-handbook": {
+      "cover": null,
+      "query": {
+        "id": "small-animal-colour-handbook",
+        "queryTitle": "Small Animal Emergency Critical Care Medicine",
+        "queryAuthor": "Rozanski"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-colour-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-colour-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-colour-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-colour-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-colour-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-colour-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "dhruv-desai": {
+      "cover": null,
+      "query": {
+        "id": "dhruv-desai",
+        "queryTitle": "Compiled Question Bank by Dhruv N Desai",
+        "queryAuthor": "Dhruv N Desai"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "cunningham-s-textbook-of-veterinary-physiology": {
+      "cover": null,
+      "query": {
+        "id": "cunningham-s-textbook-of-veterinary-physiology",
+        "queryTitle": "Cunningham Textbook Veterinary Physiology",
+        "queryAuthor": "Klein"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "wall-drug-dose": {
+      "cover": null,
+      "query": {
+        "id": "wall-drug-dose",
+        "queryTitle": "Drug Dose — Wall Reference",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "e-nanu-qbank": {
+      "cover": null,
+      "query": {
+        "id": "e-nanu-qbank",
+        "queryTitle": "E. Nanu Veterinary Question Bank",
+        "queryAuthor": "E. Nanu"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "essentials-of-medical-pharmacology-k-d-tripathi": {
+      "cover": null,
+      "query": {
+        "id": "essentials-of-medical-pharmacology-k-d-tripathi",
+        "queryTitle": "Essentials Medical Pharmacology",
+        "queryAuthor": "Tripathi"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-essentials-of-medical-pharmacology-k-d-tripathi.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "essentials-of-veterinary-pharmacology-and-therapeutics": {
+      "cover": null,
+      "query": {
+        "id": "essentials-of-veterinary-pharmacology-and-therapeutics",
+        "queryTitle": "Essentials of Veterinary Pharmacology and Therapeutics",
+        "queryAuthor": "H. S. Sandhu"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard": {
+      "cover": null,
+      "query": {
+        "id": "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard",
+        "queryTitle": "Exotic Animal Medicine Veterinary Technician",
+        "queryAuthor": "Ballard"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "fenner-s-veterinary-virology-5th-edition": {
+      "cover": null,
+      "query": {
+        "id": "fenner-s-veterinary-virology-5th-edition",
+        "queryTitle": "Fenner Veterinary Virology",
+        "queryAuthor": "MacLachlan"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-fenner-s-veterinary-virology-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": {
+      "cover": {
+        "path": "/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp",
+        "width": 400,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/isbn/0071468048-L.jpg?default=false",
+        "kind": "reference-cover",
+        "reference": "https://openlibrary.org/works/OL7301404M",
+        "ocr": "ES)\n\neleventh edition\n\nGoodman & Gilman’s\n\nThe Pharmacological Basis of\n\nTHERAPEUTICS\n\ndigital edition\n\n“OMe\n\nTE Print\n\nthe eaten ite\n\nas oxsbity\n\nset\n\nLaurence Brunton\n\nJohn Lazo\n\nKeith Parker\n\nlain Buxton\n\nDonald Blumenthal\n\n\"2",
+        "sha256": "20f519b7ff6cd474633650e238d37bb0d995e268fbaf9a77c1cbc961b746f129"
+      },
+      "query": {
+        "id": "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics",
+        "queryTitle": "Goodman Gilman Pharmacological Basis Therapeutics",
+        "queryAuthor": "Brunton"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "veterinary-clinician-handbook": {
+      "cover": null,
+      "query": {
+        "id": "veterinary-clinician-handbook",
+        "queryTitle": "Handbook Veterinary Clinician",
+        "queryAuthor": "Bhikane"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "small-animal-radiology-handbook": {
+      "cover": null,
+      "query": {
+        "id": "small-animal-radiology-handbook",
+        "queryTitle": "Handbook Small Animal Radiology Ultrasound",
+        "queryAuthor": "Dennis"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-radiology-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-radiology-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-radiology-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-radiology-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-radiology-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-radiology-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-radiology-handbook.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "kvafsu-qbank": {
+      "cover": null,
+      "query": {
+        "id": "kvafsu-qbank",
+        "queryTitle": "KVAFSU Question Bank",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures": {
+      "cover": null,
+      "query": {
+        "id": "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures",
+        "queryTitle": "Laboratory Animal Exotic Pet Medicine Principles Procedures",
+        "queryAuthor": "Sirois"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "livestock-production-management": {
+      "cover": null,
+      "query": {
+        "id": "livestock-production-management",
+        "queryTitle": "Livestock Production Management",
+        "queryAuthor": "N. S. R. Sastry and C. K. Thomas"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-livestock-production-management.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-livestock-production-management.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-livestock-production-management.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-livestock-production-management.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-livestock-production-management.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "meat-and-meat-products-technology": {
+      "cover": null,
+      "query": {
+        "id": "meat-and-meat-products-technology",
+        "queryTitle": "Meat and Meat Products Technology",
+        "queryAuthor": "B. D. Sharma"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-meat-and-meat-products-technology.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-meat-and-meat-products-technology.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "ndri-qbank": {
+      "cover": null,
+      "query": {
+        "id": "ndri-qbank",
+        "queryTitle": "NDRI Veterinary Question Bank",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "ockerman-animal-byproduct-processing": {
+      "cover": null,
+      "query": {
+        "id": "ockerman-animal-byproduct-processing",
+        "queryTitle": "Animal By Product Processing",
+        "queryAuthor": "Ockerman"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-ockerman-animal-byproduct-processing.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-ockerman-animal-byproduct-processing.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-ockerman-animal-byproduct-processing.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "poultry-metabolic-disorders-and-mycotoxins": {
+      "cover": null,
+      "query": {
+        "id": "poultry-metabolic-disorders-and-mycotoxins",
+        "queryTitle": "Poultry Metabolic Disorders and Mycotoxins",
+        "queryAuthor": "Steven Leeson"
+      },
+      "errors": [
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-poultry-metabolic-disorders-and-mycotoxins.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-poultry-metabolic-disorders-and-mycotoxins.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "blank/solid placeholder",
+        "blank/solid placeholder",
+        "blank/solid placeholder",
+        "blank/solid placeholder",
+        "blank/solid placeholder"
+      ]
+    },
+    "prescott-s-microbiology": {
+      "cover": {
+        "path": "/assets/books/research-prescott-s-microbiology.webp",
+        "width": 128,
+        "height": 166,
+        "source": "https://covers.openlibrary.org/b/isbn/9780072992915-L.jpg?default=false",
+        "kind": "reference-cover",
+        "reference": "https://openlibrary.org/works/OL15014670W",
+        "ocr": "ree",
+        "sha256": "f10cf36ca83305879d9beb2e330227223d906a280249e8d39b4db9257d1a893b"
+      },
+      "query": {
+        "id": "prescott-s-microbiology",
+        "queryTitle": "Prescott Microbiology",
+        "queryAuthor": "Willey"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-prescott-s-microbiology.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-prescott-s-microbiology.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-prescott-s-microbiology.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-prescott-s-microbiology.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-prescott-s-microbiology.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "primary-veterinary-anatomy": {
+      "cover": null,
+      "query": {
+        "id": "primary-veterinary-anatomy",
+        "queryTitle": "Primary Veterinary Anatomy",
+        "queryAuthor": "Ghosh"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "reproduction-in-farm-animals-7th-edition-by-hafeez": {
+      "cover": {
+        "path": "/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp",
+        "width": 341,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/isbn/9780812110135-L.jpg?default=false",
+        "kind": "reference-cover",
+        "reference": "https://openlibrary.org/works/OL17936019W",
+        "ocr": "ODUCTION\n\nFA\n\nANIMALS\n\nESE HAFEZ",
+        "sha256": "33f57aca511aa54520db0ba6283f2fca605d8f671604080ca9487051bee96153"
+      },
+      "query": {
+        "id": "reproduction-in-farm-animals-7th-edition-by-hafeez",
+        "queryTitle": "Reproduction Farm Animals",
+        "queryAuthor": "Hafez"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "review-animal-science": {
+      "cover": null,
+      "query": {
+        "id": "review-animal-science",
+        "queryTitle": "Review of Animal Science",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-review-animal-science.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-review-animal-science.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "review-veterinary-science": {
+      "cover": {
+        "path": "/assets/books/research-review-veterinary-science.webp",
+        "width": 180,
+        "height": 263,
+        "source": "https://archive.org/services/img/b21352161",
+        "kind": "reference-cover",
+        "reference": "https://archive.org/details/b21352161",
+        "ocr": "",
+        "sha256": "3c15a050050a77a747ed714e4b71d874c65daeb24eccc77d6b7640b8ebafea97"
+      },
+      "query": {
+        "id": "review-veterinary-science",
+        "queryTitle": "Review of Veterinary Science",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-review-veterinary-science.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-review-veterinary-science.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "ruminant-surgery": {
+      "cover": null,
+      "query": {
+        "id": "ruminant-surgery",
+        "queryTitle": "Ruminant Surgery",
+        "queryAuthor": "Tyagi"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition": {
+      "cover": {
+        "path": "/assets/books/research-slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition.webp",
+        "width": 379,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/isbn/0721605613-L.jpg?default=false",
+        "kind": "reference-cover",
+        "reference": "https://openlibrary.org/works/OL12374664W",
+        "ocr": "Slatter’s Fundamentals of\n\nVeterinary\n\nOphthalmology\n\nFourth Edition\n\nmi.",
+        "sha256": "1f19692eae2d8712cf239880d39a5175d5ec94b3b633e98d35e661b5761f1104"
+      },
+      "query": {
+        "id": "slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition",
+        "queryTitle": "Slatter Fundamentals Veterinary Ophthalmology",
+        "queryAuthor": "Maggs"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "small-animal-internal-medicine-5th-edition": {
+      "cover": {
+        "path": "/assets/books/research-small-animal-internal-medicine-5th-edition.webp",
+        "width": 294,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/isbn/9780323026000-L.jpg?default=false",
+        "kind": "reference-cover",
+        "reference": "https://openlibrary.org/works/OL19054786W",
+        "ocr": "SMALL\n\nANIMAL\n\nINTERNAL\n\nMEDICINE\n\nECOND EDITIO",
+        "sha256": "0931d94c3dcb652f6c1960fd7165afe4f98d776af2d2741c57277563957610f0"
+      },
+      "query": {
+        "id": "small-animal-internal-medicine-5th-edition",
+        "queryTitle": "Small Animal Internal Medicine",
+        "queryAuthor": "Nelson"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-internal-medicine-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-internal-medicine-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-internal-medicine-5th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "small-animal-surgery-5th-edition-theresa-fossum": {
+      "cover": {
+        "path": "/assets/books/research-small-animal-surgery-5th-edition-theresa-fossum.webp",
+        "width": 392,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/isbn/9780323443449-L.jpg?default=false",
+        "kind": "reference-cover",
+        "reference": "https://openlibrary.org/works/OL6016710W",
+        "ocr": "ol\n\nSDRGERY\n\nWR»\n\nOxon",
+        "sha256": "99527e5c59a49c49c223e483d1df066b28f813f3a3a215136f62870c996612dc"
+      },
+      "query": {
+        "id": "small-animal-surgery-5th-edition-theresa-fossum",
+        "queryTitle": "Small Animal Surgery",
+        "queryAuthor": "Fossum"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-surgery-5th-edition-theresa-fossum.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-small-animal-surgery-5th-edition-theresa-fossum.webp', 'stdout', '--psm', '11']' timed out after 10 seconds",
+        "HTTP Error 404: Not Found"
+      ]
+    },
+    "tanuvas-qbank": {
+      "cover": null,
+      "query": {
+        "id": "tanuvas-qbank",
+        "queryTitle": "TANUVAS All-Subjects Question Bank",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "text-book-on-animal-genetics-and-breeding": {
+      "cover": null,
+      "query": {
+        "id": "text-book-on-animal-genetics-and-breeding",
+        "queryTitle": "Text Book on Animal Genetics and Breeding",
+        "queryAuthor": "P. Kanakaraj"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "ultimate-vet-handbook": {
+      "cover": null,
+      "query": {
+        "id": "ultimate-vet-handbook",
+        "queryTitle": "Ultimate Vet Handbook",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "vaccination-schedule": {
+      "cover": null,
+      "query": {
+        "id": "vaccination-schedule",
+        "queryTitle": "Vaccination Schedule of All Animals",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "vendex": {
+      "cover": null,
+      "query": {
+        "id": "vendex",
+        "queryTitle": "VENDEX: The Fundamental Veterinary Drug Index",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "vet-scorer": {
+      "cover": null,
+      "query": {
+        "id": "vet-scorer",
+        "queryTitle": "Vet Scorer 2022 — 1st Edition",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition": {
+      "cover": {
+        "path": "/assets/books/research-veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition.webp",
+        "width": 373,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/isbn/3132429333-L.jpg?default=false",
+        "kind": "reference-cover",
+        "reference": "https://openlibrary.org/works/OL25245466W",
+        "ocr": "Veterinary Anatomy of\n\nDomestic Animals\n\nTextbook and Colour Atlas\n\nited by\n\nHorst Erich Kénig\n\nHans-Georg Liebich,\n\nSeventh ton\n\nj\n\nY\n\n\\\\\n\ni=3)\n\nea\n\n{[\n\nNs\n\nen\n\n®Thieme",
+        "sha256": "350c552cf68a31a30de4ecfa4c696ba88584779b0569ba1b6e7ad3ff4dc4eb53"
+      },
+      "query": {
+        "id": "veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition",
+        "queryTitle": "Veterinary Anatomy Domestic Animals",
+        "queryAuthor": "Konig"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests",
+        "Command '['tesseract', '/home/runner/work/Notes.thatvetguy.net/Notes.thatvetguy.net/assets/books/research-veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition.webp', 'stdout', '--psm', '11']' timed out after 10 seconds"
+      ]
+    },
+    "navsari-drug-index": {
+      "cover": null,
+      "query": {
+        "id": "navsari-drug-index",
+        "queryTitle": "Veterinary Drug Index by NAVSARI",
+        "queryAuthor": ""
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "veterinary-parasitology": {
+      "cover": {
+        "path": "/assets/books/research-veterinary-parasitology.webp",
+        "width": 180,
+        "height": 267,
+        "source": "https://archive.org/services/img/sim_veterinary-parasitology_1989_32_index",
+        "kind": "reference-cover",
+        "reference": "https://archive.org/details/sim_veterinary-parasitology_1989_32_index",
+        "ocr": "",
+        "sha256": "a91e338339fc0ef96e38a7d4b5097c68f7c2874f94a4e20aec917c4fc100ee2d"
+      },
+      "query": {
+        "id": "veterinary-parasitology",
+        "queryTitle": "Veterinary Parasitology",
+        "queryAuthor": "M. A. Taylor, R. L. Coop and R. L. Wall"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "veterinary-practice-handbook": {
+      "cover": null,
+      "query": {
+        "id": "veterinary-practice-handbook",
+        "queryTitle": "Veterinary Practice Handbook",
+        "queryAuthor": "Chandolia"
+      },
+      "errors": [
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    },
+    "veterinary-surgery-and-radiology-by-s-k-nandi": {
+      "cover": null,
+      "query": {
+        "id": "veterinary-surgery-and-radiology-by-s-k-nandi",
+        "queryTitle": "Veterinary Surgery Radiology",
+        "queryAuthor": "Nandi"
+      },
+      "errors": [
+        "HTTP Error 404: Not Found",
+        "HTTP Error 404: Not Found",
+        "Google Books: HTTP Error 429: Too Many Requests"
+      ]
+    }
+  }
+}
