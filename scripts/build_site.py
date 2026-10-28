@@ -26,7 +26,7 @@ ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/
 # One cacheable request for the shared Rx styles, in their original cascade order.
 (ROOT/'assets/rx-core.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['site.css','rx-pages.css','homepage.css']))
 (ROOT/'assets/rx-tools.css').write_text((ROOT/'assets/rx-core.css').read_text()+'\n'+(ROOT/'assets/study-tools.css').read_text())
-VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json']))).hexdigest()[:12]
+VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
     crumbs=crumbs or []

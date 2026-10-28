@@ -350,6 +350,42 @@
       "title": "AVBC — Australasian Veterinary Examination",
       "url": "https://avbc.asn.au/for-veterinarians/australasian-veterinary-examination/",
       "note": "Assessment for overseas qualifications not recognised for registration."
+    },
+    {
+      "id": "army",
+      "title": "Join Indian Army — current officer-entry notices",
+      "url": "https://joinindianarmy.nic.in/",
+      "note": "Use the current RVC notification for eligibility, selection, medical standards and application dates. The portal can require authentication or JavaScript."
+    },
+    {
+      "id": "rvc-role",
+      "title": "PIB — the role of the Remount Veterinary Corps",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=55164",
+      "note": "Official background on equine, canine, veterinary and public-health responsibilities; not a current vacancy announcement."
+    },
+    {
+      "id": "rvc-notice",
+      "title": "Army RVC SSC notice — 2025 archived copy",
+      "url": "https://www.speedjob.in/wp-content/uploads/2025/04/1226_1_NOTIFICATION_FOR_SSC_RVC_2025.pdf",
+      "note": "Army-issued historical notice hosted by a third party. Used only to explain the recruitment stages; do not use its dates or eligibility limits for a current application."
+    },
+    {
+      "id": "pg-nta",
+      "title": "NTA — ICAR postgraduate examinations",
+      "url": "https://exams.nta.nic.in/icar/",
+      "note": "Read the current examination bulletin and the separate admission/counselling notice for the relevant veterinary programme."
+    },
+    {
+      "id": "pg-tanuvas",
+      "title": "TANUVAS — postgraduate admissions",
+      "url": "https://www.tanuvas.ac.in/ce_pgad.php",
+      "note": "Institution-specific entry routes, eligibility and counselling. Current prospectuses take priority over general pages."
+    },
+    {
+      "id": "canada-neb",
+      "title": "CVMA — examination pathway for international graduates",
+      "url": "https://www.canadianveterinarians.net/accreditation-and-national-examining-board/national-examining-board/policies-and-procedures/overview-and-availability-of-the-examinations/",
+      "note": "Canadian NEB requirements and examinations; provincial registration is a separate step."
     }
   ],
   "careers": [
@@ -415,6 +451,23 @@
       "sources": [
         "registration",
         "dahd"
+      ]
+    },
+    {
+      "id": "armed-forces",
+      "title": "Armed forces · Army RVC",
+      "category": "Public service",
+      "icon": "shield",
+      "summary": "Veterinary care and officer responsibilities in the Indian Army.",
+      "fit": "You want veterinary work within military service and can accept postings, training and service discipline.",
+      "work": "The Remount Veterinary Corps supports Army animals, including equines and dogs, with care, disease prevention, management and related public-health responsibilities. Duties vary by appointment.",
+      "entry": "Follow the current Army RVC Short Service Commission notice. Recognised veterinary qualifications and registration are central; the notice sets age, category, medical and other conditions. Past notices used shortlisting, SSB assessment, medical examination and merit-based selection.",
+      "first": "Read a current or archived RVC officer notice, separate its permanent requirements from cycle-specific dates, and speak to a serving or former RVC officer about duties and postings.",
+      "watch": "This is an officer career, not simply a clinic job in uniform. Verify service terms, medical standards and posting expectations. Veterinary nursing-assistant recruitment is a different entry route.",
+      "sources": [
+        "army",
+        "rvc-role",
+        "rvc-notice"
       ]
     },
     {

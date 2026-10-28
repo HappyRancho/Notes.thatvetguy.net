@@ -30,8 +30,12 @@ for g in GUIDES:
   assert raw.count('data-tool-item')==len(DATA['resources'])
   assert all(r['url'] in page.hrefs for r in DATA['resources'])
  if g['id']=='veterinary-careers':
-  assert raw.count('class="career-card"')==len(DATA['careers'])==12
+  assert raw.count('class="career-card"')==len(DATA['careers'])==13
   assert all(s['url'] in page.hrefs for s in DATA['careerSources'])
+  assert 'id="armed-forces"' in raw and 'id="how-to-decide"' in raw
+  assert 'Your plan' not in raw and 'next-30-days' in raw
+  from career_guidance import DATA as GUIDANCE
+  assert all(c['url'] in page.hrefs for c in GUIDANCE['community'])
   assert all('id="'+c['id']+'"' in raw for c in DATA['careers'])
 manifest=json.loads((ROOT/'data/app-icon-sources.json').read_text())
 assert {a['package'] for a in DATA['apps']}=={a['package'] for a in manifest['apps']}
@@ -40,4 +44,4 @@ search=json.loads((ROOT/'search-index.json').read_text())
 assert all(any(r['url']==route(g) for r in search) for g in GUIDES)
 import runpy
 runpy.run_path(str(ROOT/'scripts/check-link-policy.py'),run_name='__main__')
-print('PASS Tools: three sourced guides, 4 free Play links, 6 paid anatomy entries, 12 websites, 12 career paths; all icons attributed.')
+print('PASS Tools: three sourced guides, 4 free Play links, 6 paid anatomy entries, 12 websites, 13 career paths; all icons attributed.')
