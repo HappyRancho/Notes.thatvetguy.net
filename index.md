@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-28 -->
 
 # Free Veterinary Academic Resources
 
@@ -63,7 +63,7 @@ Study smart. Because suffering manually is outdated.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
-[Use of AI for Vet Study](https://notes.thatvetguy.net/study-tools/#ai-guide)[Useful Free Apps](https://notes.thatvetguy.net/study-tools/#free-apps)[Organise Your Study Material](https://notes.thatvetguy.net/study-tools/#useful-tools)
+[Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary Resources](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
@@ -111,4 +111,4 @@ Can’t find a resource? Ask for it.
 
 Students today. Better vets tomorrow.
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

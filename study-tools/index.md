@@ -1,75 +1,16 @@
-<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-24 -->
+<!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Tips & Tools for Vet Study
+[Home](https://notes.thatvetguy.net/)/Tools & Tips for Vet Students
 
-# Tips & Tools for Vet Study
+# Tools & Tips for Vet Students
 
-Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.
+Choose veterinary apps, reliable online reading and career paths worth exploring. Practical guides for life during and after BVSc & AH.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
-
-## Use of AI for Vet Study
-
-- 
-
-### Start with your outline
-
-Ask AI to organise a topic list or suggest a presentation structure. Compare the result with your syllabus and original notes.
-
-- 
-
-### Check before you learn
-
-Verify veterinary facts and citations. A fluent answer can still be wrong; AI output is not a prescribing reference.
-
-- 
-
-### Make the explanation yours
-
-Explain the topic without looking at the answer. Rewrite it in your own words and credit your sources.
-
-## Useful Free Apps
-
-- 
-
-### Zotero
-
-Keep reading references together. Check each citation against its original source.
-
-- 
-
-### LibreOffice
-
-Prepare notes, tables and presentations. Keep an editable copy as well as a PDF.
-
-- 
-
-### Your PDF reader
-
-Use bookmarks, annotations and text search. Keep essential reading in a clearly named offline folder.
-
-## Useful Study Tools
-
-- 
-
-### A document scanner
-
-Scan only material you have permission to copy. Check every page for legibility before sharing.
-
-- 
-
-### A simple folder system
-
-Try Year / Subject / Notes or Books. A useful filename saves a surprising amount of searching.
-
-- 
-
-### A reference checklist
-
-Record the author, edition, species and date where relevant. A saved file still needs context.
+[Useful Vet AppsFree veterinary apps for revision and field learning, plus Biosphera species anatomy tools. Find what each app does and when to use it.](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary ResourcesFind useful BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in VeterinaryExplore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 ## Year Roadmaps
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
-Page updated: 2026-10-24. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

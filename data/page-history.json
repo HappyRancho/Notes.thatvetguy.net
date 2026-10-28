@@ -1,7 +1,7 @@
 {
   "/": {
-    "sha256": "038a5ace7575c5dd608121508a470e6ab035a15bf3b3b8013c045de694c6243e",
-    "modified": "2026-10-26"
+    "sha256": "f78fa5e9ca5d5e058079e3eefc391dd0c948a6e18d1423cf3778a21aeee2dbbf",
+    "modified": "2026-10-28"
   },
   "/bvsc/": {
     "sha256": "0e7c4ea9cbb98be9696b07579211ea5620d7b3b178a62ca51ac93044f7f8d1b5",
@@ -136,8 +136,20 @@
     "modified": "2026-10-28"
   },
   "/study-tools/": {
-    "sha256": "3c97d31cd49ffe3671be4c78cfeb11a12ccb6e3f4a56fbdcaec64dc30d747637",
-    "modified": "2026-10-24"
+    "sha256": "6b6cbf3400120652a4d3b9cba10a9b5fe23c51b303398701bab55acf4d6ef54e",
+    "modified": "2026-10-28"
+  },
+  "/study-tools/vet-apps/": {
+    "sha256": "5912c986072113f8f5c8e56a2ce0fcd18b85f8db1837a760b6bce003fb6a8e44",
+    "modified": "2026-10-28"
+  },
+  "/study-tools/online-resources/": {
+    "sha256": "66fb957cbf97f5ea1a985c57765436f2ff4d34297cbf676862061d48faa816ce",
+    "modified": "2026-10-28"
+  },
+  "/study-tools/veterinary-careers/": {
+    "sha256": "97b74c82c15d1c5961bc99afdacddf4a12eed3394beb995d4f6b23a11e9e7409",
+    "modified": "2026-10-28"
   },
   "/about/": {
     "sha256": "3c53ad38d3cfe438bc99b66aa7e2d93d4823904f9dda0bf96b9c7b835a6e05da",
