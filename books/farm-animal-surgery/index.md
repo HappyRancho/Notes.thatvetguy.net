@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/farm-animal-surgery/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Farm Animal Surgery
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Farm Animal Surgery — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology

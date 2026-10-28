@@ -1,10 +1,16 @@
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/online-resources/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- [Home](https://notes.thatvetguy.net/)
+- ›[Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- ›Top Vet Notes Websites
 
-Rx Web Finder12 sites
+Rx NotesYour veterinary web guide
 
-# Veterinary resources online
+# Top Vet Notes Websites
+
+Filter veterinary websites by topic or name
+
+12 selected sourcesCurated, not ranked
 
 Independent student resourcevetbvsc.inNotes
 
@@ -16,6 +22,12 @@ Good for: Finding a second explanation or a subject collection. Check older cour
 
 Public pages; linked files have their own access settings.
 
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Start from your year, then the subject. Match each unit heading to your current outline before collecting PDFs.
+
+- Take away: Write down the unit title, source and any missing topics. Avoid treating an old course code as proof that the syllabus matches.
+
 Independent education sitevetscraft.comNotes
 
 ## [Vetscraft — subject explanations](https://www.vetscraft.com/bvscah/)
@@ -25,6 +37,12 @@ Readable veterinary topic explanations across basic, production and clinical sub
 Good for: Understanding a difficult concept before returning to your textbook.
 
 Public articles; individual courses may have different access terms.
+
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
+
+- Take away: Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete.
 
 Independent student resourcevetsduo.comNotes
 
@@ -36,6 +54,12 @@ Good for: Comparing lecture notes and locating TANUVAS-labelled collections.
 
 Public directory; availability depends on each linked collection.
 
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
+
+- Take away: Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete.
+
 Independent study archivedrvet.inNotes
 
 ## [DrVet — veterinary study archive](https://www.drvet.in/)
@@ -45,6 +69,12 @@ An archive of subject notes, exam material and veterinary study posts.
 Good for: Looking for older revision posts or question-paper references. Verify the year and original source.
 
 Public posts; external files may require separate access.
+
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
+
+- Take away: Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete.
 
 Independent learning platformgreatvets.inNotes
 
@@ -56,6 +86,12 @@ Good for: Getting a concise topic overview. Check any generated explanation agai
 
 Public notes; other features may require an account.
 
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Use a short explanation to identify what you do not understand, then read the matching textbook section.
+
+- Take away: Check diagrams, species differences and any AI-generated explanation against a credited source.
+
 Publisher referencemsdvetmanual.comClinical
 
 ## [MSD Veterinary Manual](https://www.msdvetmanual.com/)
@@ -65,6 +101,12 @@ Veterinary disease overviews, diagnostic background, tables and clinical learnin
 Good for: Reading around a case after rounds; start with the species and clinical problem.
 
 Free web reference. Educational use does not replace clinical supervision.
+
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Start with the species and presenting problem. Read the diagnostic approach before jumping to a treatment section.
+
+- Take away: Make a problem list and list the evidence needed to distinguish the possibilities; discuss the case under supervision.
 
 Cornell Universityeclinpath.comClinical
 
@@ -76,6 +118,12 @@ Good for: Understanding why a result changes, rather than memorising a reference
 
 Free educational text; interpret results with the reporting laboratory’s intervals.
 
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Choose the laboratory test or cell finding you need to understand. Read sample quality and interpretation alongside the result.
+
+- Take away: Use the reporting laboratory’s reference interval and consider pre-analytical factors; a number alone is not a diagnosis.
+
 Non-profit education serviceivis.orgResearch
 
 ## [IVIS — veterinary reading & continuing education](https://www.ivis.org/)
@@ -85,6 +133,12 @@ Veterinary proceedings, publications and learning resources from an internationa
 Good for: Reading more deeply about a clinical question or preparing a seminar.
 
 Free registration may be required; access varies by item.
+
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Search a focused species-and-topic question. Check whether the item is a review, a conference proceeding or other learning material.
+
+- Take away: Record publication year and references; use the original study when a specific claim matters.
 
 U.S. National Library of Medicinepubmed.ncbi.nlm.nih.govResearch
 
@@ -96,6 +150,12 @@ Good for: Finding a primary study. Add species and study design to your search; 
 
 Free search and abstracts; full-text availability depends on the publisher.
 
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Build a question from species, problem, intervention or exposure, and outcome. Try synonyms if the first search is too narrow.
+
+- Take away: Read the study population, design and limitations. An abstract or a statistically significant result is not enough to establish clinical usefulness.
+
 World Organisation for Animal Healthwoah.orgOfficial
 
 ## [WOAH — animal health codes & manuals](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/)
@@ -105,6 +165,12 @@ International standards and manuals for animal health, diagnostic testing, welfa
 Good for: Looking up the official context for disease control, surveillance or diagnostic standards.
 
 Public standards; use the current edition and relevant chapter.
+
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Choose the relevant code or manual and locate the disease or standard by name. Check the edition and chapter.
+
+- Take away: Distinguish international guidance from the rules implemented by the relevant Indian authority or institution.
 
 Veterinary Council of Indiavci.dahd.gov.inOfficial
 
@@ -116,6 +182,12 @@ Good for: Checking the source behind a curriculum or registration claim.
 
 Public regulations; use your university’s current implementation as well.
 
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Find the regulation or educational standard behind the question, then read the relevant clause and amendments.
+
+- Take away: Match the document date to the rule you need; your university’s current notices explain local implementation.
+
 ICAR–Indian Veterinary Research Instituteivri.nic.inOfficial
 
 ## [IVRI — postgraduate study information](https://ivri.nic.in/academics/mvsc.aspx)
@@ -125,6 +197,12 @@ Official information about master’s study and veterinary disciplines at IVRI.
 Good for: Shortlisting postgraduate subjects and checking the institution’s current admission route.
 
 Public information; the current admission notice determines eligibility and dates.
+
+Get more from this sourceA starting point and what to check.Read answerClose answer+−
+
+- Start here: Choose the programme and discipline, then locate the current admission notice and its selection process.
+
+- Take away: Track exam registration, institutional application and counselling separately where required. Check deadlines in the official notice.
 
 No websites in this selection. Try a broader topic or choose All.
 
@@ -142,6 +220,6 @@ Use AI as a helper. It can organise reading or explain terminology. Check every 
 
 Curated 2026-10-28. Links open the original websites. Access terms and availability can change; inclusion does not imply endorsement or ownership.
 
-[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

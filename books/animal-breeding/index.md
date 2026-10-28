@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/animal-breeding/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Animal breeding
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Animal breeding — Details & Drive Access
 
 Preview from the linked source file.
 Book · Animal Genetics and Breeding

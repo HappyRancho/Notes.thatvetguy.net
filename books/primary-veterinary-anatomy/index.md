@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/primary-veterinary-anatomy/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Primary Veterinary Anatomy
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Primary Veterinary Anatomy — Telegram Download
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy

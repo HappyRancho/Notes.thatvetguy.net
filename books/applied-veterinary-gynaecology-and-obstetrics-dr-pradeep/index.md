@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Applied Veterinary Gynaecology and Obstetrics Dr Pradeep
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Gynaecology and Obstetrics

@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Veterinary Anatomy
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Veterinary Anatomy — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy

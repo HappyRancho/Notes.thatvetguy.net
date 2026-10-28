@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Medicine

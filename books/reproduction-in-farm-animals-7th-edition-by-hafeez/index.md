@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Reproduction in Farm Animals,7th Edition by Hafeez
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Reproduction in Farm Animals,7th Edition by Hafeez — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Gynaecology and Obstetrics

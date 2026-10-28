@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-practice-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Practice Handbook
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Practice Handbook — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference

@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/A Textbook of Veterinary General Pathology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›A Textbook of Veterinary General Pathology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Pathology

@@ -1,6 +1,7 @@
 <!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Find it. Study it.
+- [Home](https://notes.thatvetguy.net/)
+- ›Search
 
 # Find it. Study it.
 

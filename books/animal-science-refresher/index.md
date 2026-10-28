@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/animal-science-refresher/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Animal Science Refresher
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Animal Science Refresher — Telegram Download
 
 Reference cover; the linked edition may differ.
 Study book · veterinary revision

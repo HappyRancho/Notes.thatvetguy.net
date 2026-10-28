@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)/Veterinary Physiology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Veterinary Physiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
+- ›Syllabus Checklist
 
 # Veterinary Physiology Syllabus Checklist
 

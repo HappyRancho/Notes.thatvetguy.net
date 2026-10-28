@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)/Veterinary Clinical Practices II Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Clinical Practices II Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
+- ›Practical Vault
 
 # Veterinary Clinical Practices II Practical Vault
 

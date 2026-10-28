@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/vendex/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/VENDEX: The Fundamental Veterinary Drug Index
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›VENDEX: The Fundamental Veterinary Drug Index — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference

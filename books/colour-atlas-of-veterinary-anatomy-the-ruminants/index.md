@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Colour Atlas of Veterinary Anatomy - The Ruminants
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Colour Atlas of Veterinary Anatomy - The Ruminants — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Anatomy

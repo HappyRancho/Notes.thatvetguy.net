@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/tanuvas-qbank/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/TANUVAS All-Subjects Question Bank
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›TANUVAS All-Subjects Question Bank — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision

@@ -1,714 +1,714 @@
 {
   "/": {
-    "sha256": "5f8082192bd7925c574bc9cce793f11aba8b10f7cad739545cce1a13adae7be6",
+    "sha256": "0372ac66b13768659aecd0b9210f4d7685a1293bfe3f0fd76aa122ff955d8817",
     "modified": "2026-10-28"
   },
   "/bvsc/": {
-    "sha256": "0e7c4ea9cbb98be9696b07579211ea5620d7b3b178a62ca51ac93044f7f8d1b5",
+    "sha256": "61adf1bbabbcc9a824cfcbeb2cb56745f673bc013ec5e2637bcd22a6a2efaad4",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/": {
-    "sha256": "0c23ad2491ed385fd7e556a2e53b1332aa41abf6ac8f84f89d62faab74f3070b",
+    "sha256": "c6c83d61e56e591d1bb242f2adb95a4306e9fd2a7d9237459c1501b3436a882d",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/veterinary-anatomy/": {
-    "sha256": "d7c37203d133003d1b86ade6d6266622bcaf9f1b85d5f51793a0b3fa134d411d",
+    "sha256": "e216d9bcd4bf9c51a7b4d29aeec861791efa4d83c7af3700deb1e2dfb452720b",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/veterinary-physiology/": {
-    "sha256": "d41eb0988d68d1f0e0d132f902a45074e2448df73d637d1e6405fde5b173d899",
+    "sha256": "2e069091c4a579520eb7f34519577141dc1b87b8c8265aac9a2fa69169f32a59",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/livestock-production-management/": {
-    "sha256": "3f981c595a63147319fe1cd3c017106a2c490c3ae8bb63d79233507d1ac38dd7",
+    "sha256": "23199f503d9451b9b30777cd665ef137f77e5d8b11611bff1decaef13b36fdaf",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/notes/": {
-    "sha256": "e05b33f59ba3a6cd7f854b5306437de6c54ce0932230d80b43ebc8be46899690",
-    "modified": "2026-10-26"
+    "sha256": "d09bf28b1185acaf8212e245fa80aff174b8f0ee8f2b9ae3b5a0a287ab52106b",
+    "modified": "2026-10-28"
   },
   "/bvsc/year-2/": {
-    "sha256": "6be65e31489801bfff13cab67fa34b8cc3d5933fd9ddc6b0188c813c580abfa9",
+    "sha256": "12affa632317724ec9536439f0f979eb9d6f6e6fa6930a9295d48120e151ab93",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-biochemistry/": {
-    "sha256": "e337f8085834868d9917c63d34c4dcca2f22e119892bb08857a6e1e07e32b9f0",
+    "sha256": "09ab4245f96451d9456379b46f621873c793860d49914fe86b577220717db3eb",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-microbiology/": {
-    "sha256": "f9b724bc2a7beb70bd957a7e0d1d96f50523aef0ae0597517c6459c7df82224a",
+    "sha256": "3805cb15323994259eeb0c13231556aa941bf7fae655119772cdb575544ec1a1",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-pathology/": {
-    "sha256": "5b8fe3f5e0800eb3afda250f3ad3f74b81f54ead852ede7b950f440dc90d04c0",
+    "sha256": "d2cd41a4abb99368d976e975bf62a1551291eff246bd9b8c56b6e9ccfe1c8bb4",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/animal-genetics-and-breeding/": {
-    "sha256": "86881f9d1fdcf596b12d06b478e72823b9d42f9fc32255949b52092516212e66",
+    "sha256": "8af0edb98ca1f344d35c22a196f35e85b739798c90633c59facafd64a04e9a8f",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/animal-nutrition/": {
-    "sha256": "5cea57ddbb1ec5dafc4023573050ae9b87f0320d8d6b6c112bf7aecfdc0e129c",
+    "sha256": "98fc618825aca4d8bd20d97b0cb91fd934bdfef46b62dc027d24d1dfcab26e82",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/notes/": {
-    "sha256": "aedb0599b1789f1909360ba2748235d77708393eb6564ca35bb21b5d7ddec204",
-    "modified": "2026-10-26"
+    "sha256": "e674044a72aacb97fb5ff2f2b4fbcee719f35326f3377a131155a1d3669cfca0",
+    "modified": "2026-10-28"
   },
   "/bvsc/year-3/": {
-    "sha256": "840cf38d31f0e258e4ae845f37b52ae5a57117f973e40405d5a7efcb91957e65",
+    "sha256": "9b74a0f12fd2897f3e110ac5ee4d10df3be1490d28630ad1f696ef5752992990",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-pharmacology-and-toxicology/": {
-    "sha256": "fbb738f4f19475e211ba4c606b173e156b393150d5f3406d0b20ee7e0cd1bf84",
+    "sha256": "91fef4fa81eb78b4e9b7e8646fc5661b9f55c347eee313ee680ece02dba50ab9",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-parasitology/": {
-    "sha256": "498b9f4cc317e7384e5b2c57576e3d7ca5368e442f4a283e77ea12c77d6daa81",
+    "sha256": "6948c2d23a626ed06a26c6c6d0f82945af90b21048ca46952256f5aa592a651a",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-public-health-and-epidemiology/": {
-    "sha256": "8e93ffc307b412ee2a8dc048dda5210eb04bd2534c25cced426b865c7b4debb3",
+    "sha256": "2e454f59428838eb82a48c14102f1301ca1aef598bace362471c62f97d039a25",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/livestock-products-technology/": {
-    "sha256": "7165e42244ae5fbe9149e8491354e46366f71122f849bb070915ccaf489fbe85",
+    "sha256": "a74d2127ce14d080c7172cce410634014b4f5a943b435ad6b54d01d158c83ac9",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/": {
-    "sha256": "8274c0cddc2c867ed3d29760200cb940c897b6bca847b7b9a193c9256d16b6e5",
+    "sha256": "ac3ae93acf40382e9c6d8a027c9f6536a8fe61e681325a0d2a44c24effed3205",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-clinical-practices-i/": {
-    "sha256": "284c209bae1396bc81327dddb868a02e2adca98ce9c56b0838f65513e8f5e3f1",
+    "sha256": "5071acb9ba731a1ea43a9f66bc50f407282db3a70c6b5b6aeb49b08e449baff4",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/livestock-farm-practices/": {
-    "sha256": "0442670acca564152581d81fc37a6acad0b334bc9d242f31b03e9764bd86a650",
+    "sha256": "73c0ce44c19b7a1894f7dfab3b001276b49eb5b549defc4bd3622adf30aaa938",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/notes/": {
-    "sha256": "d3590882826c3f7b2d409cb3c452c18173502256c217144bbffbace005c76473",
-    "modified": "2026-10-26"
+    "sha256": "91ac327340532f2ae6da64a65315e880e2d15a731bb1b6a126db84d2da800355",
+    "modified": "2026-10-28"
   },
   "/bvsc/year-4/": {
-    "sha256": "c8c039fc62f4310cbc08ab7a96ff11726ac5fc42405df31528d3d36e6b388872",
+    "sha256": "1c1bada567d98c98687c6e313e8837d44f45d82f4cb0b189bc33d044ffc4eb04",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-medicine/": {
-    "sha256": "ac31519fc6a02d77d0cdc6561f3d84de1cd05e03a2aa37b1ae3d3bf363d91a65",
+    "sha256": "25d811228c9f2af71fa3f3d9620c28f04e00a2f2aac2bc412c65ee726b0af74b",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-surgery-and-radiology/": {
-    "sha256": "6e5da69e19980222d0d3d61e361133f12a6a6d7d1203edb7562b4f0b4905a542",
+    "sha256": "f8c13f0431681625a9dd50e91b0d9f1b0c389eecaf5ebb31e99b42e69a6a1a46",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/": {
-    "sha256": "1f982f04e9dbedd2433c49acdd918ff3695d42adb2e2707b52ce23428706f8ea",
+    "sha256": "d773cb72b68663dcd34f8a04666a697c12c1e961ce5190e5bbaa4aa0ae247354",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-clinical-practices-ii/": {
-    "sha256": "68cdeab96f4b718ac666dc774153b5e483fc5e743a378ba0c619396977cc8ed2",
+    "sha256": "10da6f76194fe22e634816b5dd77b72fd94bdcac48e25c5919f068f46880dd5d",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/notes/": {
-    "sha256": "660e12d9c10b14c6d465fe1d4e4ddf65aa1ebc3fbfa4c9c533a381928773bff8",
-    "modified": "2026-10-26"
+    "sha256": "0c500f6d823fb4043dc0773571725a87a2be3bae830d152c14f471d2ff6e1d53",
+    "modified": "2026-10-28"
   },
   "/bvsc/year-1/roadmap/": {
-    "sha256": "ab7f89f67f4a2826cb63e6ba2349d9a02c9741c508cfb8e78851ab11b9738e5e",
-    "modified": "2026-10-26"
+    "sha256": "9f43d36934dae0368736d051daf49320300eadc6c402ac78cdd7a5e7a9f226be",
+    "modified": "2026-10-28"
   },
   "/bvsc/year-2/roadmap/": {
-    "sha256": "f8de1b45b3a2bef023fa39a0142a946ce9c992d439ac49386d3d33e306c28230",
-    "modified": "2026-10-26"
+    "sha256": "d5277e109932de5c2f420001adb7a5c8d3a31a0ca1189c1de34c7892bc984b78",
+    "modified": "2026-10-28"
   },
   "/bvsc/year-3/roadmap/": {
-    "sha256": "25874a3b767708f51ed5a216c6089d8c3031301a79c8681a519d9fd0a83d0dc7",
-    "modified": "2026-10-26"
+    "sha256": "2ea64befdc7233d3df0454b23d91f9657311f826cff0b3ce711370bba1885b4b",
+    "modified": "2026-10-28"
   },
   "/bvsc/year-4/roadmap/": {
-    "sha256": "e994c86661a4b25f94d8194d524e1e1cf088630f0a0722a6d4077d9ca3ee3eb5",
-    "modified": "2026-10-26"
+    "sha256": "2ac29f8848d3e1630607ce2bf730602486a3d412dfd5387daf8bf032072f4ba8",
+    "modified": "2026-10-28"
   },
   "/objective/": {
-    "sha256": "52aa8a15ff9833f6f174b0c5ef3a07a3b4a4b33360b7cad95dcabf2f91f9d16a",
+    "sha256": "feae662ff8590fb467280660f89def450c48b11bef119ad5b55b91c771ac58c8",
     "modified": "2026-10-28"
   },
   "/study-tools/": {
-    "sha256": "d2dc250341f22fc07d41d4327c52f7c373124bbd1315d1a3a695162c4d10d286",
+    "sha256": "4f65c2dc938fdeda69deee5ccbd3d1ebddd9b2cb86c68163bc6a074dfeddc01b",
     "modified": "2026-10-28"
   },
   "/study-tools/vet-apps/": {
-    "sha256": "bf6e818a0925165f61691b2397e235ec395e6b012e4b87342626cfd2b2ffe5b7",
+    "sha256": "952ed80006056361c643bb24a1a3eecff61bc5109cc90eeb3bb12094b88ef3da",
     "modified": "2026-10-28"
   },
   "/study-tools/online-resources/": {
-    "sha256": "3e750a88721139023bdf16982d7f41a2788e6fb6b1542b8ba86d90e393d57986",
+    "sha256": "9adebcab66c5af3adca253bf55241c0e79f913e6f2a368a27f64a5e8353843b4",
     "modified": "2026-10-28"
   },
   "/study-tools/veterinary-careers/": {
-    "sha256": "c4b05a46ff9528bfbeeef3334c210bfdcf62f251512e2fa924951057c970f449",
+    "sha256": "7aba652547fd0a0dbc090b5dcbf0c567d6ad92a86edec5cded49ff93401b6dec",
     "modified": "2026-10-28"
   },
   "/about/": {
-    "sha256": "3c53ad38d3cfe438bc99b66aa7e2d93d4823904f9dda0bf96b9c7b835a6e05da",
-    "modified": "2026-10-20"
+    "sha256": "530d0729f627379bab4998d9e8c9086182ddd5e912cc539dd8a0470bd48a591a",
+    "modified": "2026-10-28"
   },
   "/request-resource/": {
-    "sha256": "6873170843fa02966ccb83e0d5da5267bb6a42031fc286546a476df589cef78a",
-    "modified": "2026-10-20"
+    "sha256": "e1f87df9ad119b2f292239621e0d83d88ecc54dd1ef40b21787c9001e82959a4",
+    "modified": "2026-10-28"
   },
   "/search/": {
-    "sha256": "91ac0786c48aa65324d605663b45bf2a818c2a12378f54bc73cedc93aed1706e",
+    "sha256": "f16d45df2bb1b72432f810fb205d3d341434c7ebea35f60f7d2fe5c11ea09e72",
     "modified": "2026-10-28"
   },
   "/clinical/handbooks/": {
-    "sha256": "b793a905ee4977d0331430f0e89e109cb9e76e0c4a0b7882499970b40d8814c0",
+    "sha256": "6f2b85488c352d06bb7aad4b79ee5cbbdaee0b41b39126d1e8e81edbd887a33a",
     "modified": "2026-10-28"
   },
   "/clinical/drug-index/": {
-    "sha256": "05e14a25ff9d837389641d3b4dab317dcaca69f8e373f3dda37b1df129b76216",
+    "sha256": "562c78a63308dd7e4f3c6ef6ab1ddf4c28bec29d1de7808a5ecb3c16aedbd47d",
     "modified": "2026-10-28"
   },
   "/books/": {
-    "sha256": "c1eee8da077c0e9786136d10acdad39f374ff2b03545d201e4758c7f6aa8828c",
+    "sha256": "b0ce751744fcbe88f8372628377f9d0545ce6488ebed11bffd04b33798bda8df",
     "modified": "2026-10-28"
   },
   "/books/a-textbook-of-animal-husbandry/": {
-    "sha256": "6e44d7a1947b9becde15c577435ee1214793ed6d3378841ff731f6be06b8e697",
+    "sha256": "a2fc58aa854ac387289dcc2da27afb31badd7b835a2e19cb24c9288f9bbe41cd",
     "modified": "2026-10-28"
   },
   "/books/a-textbook-of-veterinary-general-pathology/": {
-    "sha256": "6bd32d4ef6bac2fa76e43699dd3bd1ed188d372cabcdf884625fb4bbcb5204ba",
+    "sha256": "5396fe9e6959df4ee29b52abf7a7a4c21b444a3cd93df3aa71d3a78f3df9f671",
     "modified": "2026-10-28"
   },
   "/books/adam-s-lameness-in-horses-7th-edition/": {
-    "sha256": "88e8880dda92106a829e631b21e53a2780ed0867a2c76b26e9e97f58d00ab228",
+    "sha256": "8ead18650746937c2a284eec31964111574fa3a9ad31c1a554b0f4c4a3ce3a8b",
     "modified": "2026-10-28"
   },
   "/books/veterinary-capsule/": {
-    "sha256": "e1a0ed38440c8697693ed82dd48f97110c990b630758ace4f373cc9a2cfadd98",
+    "sha256": "2952f1a533598f182741de4650ef2f252ef0762ee6ece9ae72c7cf7d553663f6",
     "modified": "2026-10-28"
   },
   "/books/ananthanarayan-microbiology/": {
-    "sha256": "5b9bb5ccab343030f69293b78adef661c128e533158ef11af62f1c8093d8da5e",
+    "sha256": "7624d2e20fb911a2acf52e2d8f34280cbf9542be8017224ee3fdbf8743b100cb",
     "modified": "2026-10-28"
   },
   "/books/animal-breeding/": {
-    "sha256": "e93c40e374e4485172e90d113c87586e222a0f5ce63dd56c6f7223b4e1f643e3",
+    "sha256": "63c08ccdef7d86456cdf6875cc0e2e287bfaaeba3a3653b04f55dba623aa0d54",
     "modified": "2026-10-28"
   },
   "/books/animal-nutrition/": {
-    "sha256": "fdb3b536076358ebb26b3b81fa1e599d91414d7e62be553d12b890309c8373b8",
+    "sha256": "c9197f9cb05dc03e26cc52043988e9ee540ed86bf43d81e1814d56b324503ae2",
     "modified": "2026-10-28"
   },
   "/books/animal-science-refresher/": {
-    "sha256": "60bb78bda8a803e57d05877f7e60207f406018cd24619686aa2e76349b8e93ec",
+    "sha256": "b602d62367b14d1f765871840870f3306e36b243561a3d02f94d28839801fcc0",
     "modified": "2026-10-28"
   },
   "/books/applied-nutrition-d-v-reddy/": {
-    "sha256": "62c2e908fec172d8843592dda8b045bf09d8322817f7ae9b6e2c50dc69081ab7",
+    "sha256": "375cf870a9ccb32d1bcb51f78f338aa6b911270765da9564e7b8dcf9239edfc1",
     "modified": "2026-10-28"
   },
   "/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/": {
-    "sha256": "3c28e6265010dc96579a91159858ed45632ed6af368731b2d54224ba981108ed",
+    "sha256": "e6f1af0d7e6e1b14d89983bf3bdb41257495e84de158e669919951fd6441cd4b",
     "modified": "2026-10-28"
   },
   "/books/biochemistry/": {
-    "sha256": "3e5651d37c1b9fcd434ee5901179c86bc877addfc21d0b875d4e81c0eff0eca0",
+    "sha256": "bf426bbbb7bbaa2f6b1e1ca9859572516b2e7d038bd01c30dc6f370cb0b0fb7f",
     "modified": "2026-10-28"
   },
   "/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/": {
-    "sha256": "84d55df84f68536ecf4370deab768a8af35a747456e762de054fe339bd202502",
+    "sha256": "06da6fb2f719969d866c655e84c346b3744d2e8d68bc2ad07c8e05bf7747c388",
     "modified": "2026-10-28"
   },
   "/books/canine-and-feline-endocrinology-and-reproduction/": {
-    "sha256": "8fcbda88ed1dbcfec988a4e4174ebdbd74a58dc38868e08d6bb78f89e038f7a3",
+    "sha256": "4dd22664178d47931f8478196fc4cfbe6b8e5948952a1e4dc6d5f4564088783e",
     "modified": "2026-10-28"
   },
   "/books/clinical-examination-of-farm-animals/": {
-    "sha256": "f4b0e809f63217a2a52193ff900f2f7ebb2d3494d678c898edf2d62564fb5d31",
+    "sha256": "1f8bfb6bafdeec76cbc0f52640891db198922ad3ea0a2dd2de90852b4cb4b3a3",
     "modified": "2026-10-28"
   },
   "/books/clinical-handbook-on-canine-dermatology-3rd-edition/": {
-    "sha256": "7136d76f3756ee37b77a5f6279c15c23a58c3559582821a9164d4e195c996615",
+    "sha256": "f65e9054e9961db63a3f064d65c9af5b311b06dcefb8dd4d6f4717fdfed5e75c",
     "modified": "2026-10-28"
   },
   "/books/color-atlas-of-veterinary-histology/": {
-    "sha256": "d5e3bbd16a890f73565abcd1a72defd95cb71c05abb652ded65860956e5b0ed4",
+    "sha256": "7b7b4fee2d8ec02c8e9d85fff17480431cf554b4e6d0fba0a24b2bdff8301b04",
     "modified": "2026-10-28"
   },
   "/books/color-handbook-of-skin-diseases-of-dog-and-cat/": {
-    "sha256": "257b66c3c55cd64441a5631d266f863432d191849ef0cd083de81fa271fa8877",
+    "sha256": "c148928489ea7837fa65e4043562edd6e8d354c772001b66f0aaba801aaa047b",
     "modified": "2026-10-28"
   },
   "/books/colour-atlas-of-veterinary-anatomy-the-ruminants/": {
-    "sha256": "5602b314ac341b125853e0c3703590b413fe14a6030cb07de9449e9dee0b0adf",
+    "sha256": "9d4fc5ce95a4d3e4a76a9ade844ab7efe055d4f792ed6098168b0272a20bfc21",
     "modified": "2026-10-28"
   },
   "/books/small-animal-colour-handbook/": {
-    "sha256": "52762ae89bdc3516cbe8e63db7474ea7449578c00b824a2e7fed9f3281d9724c",
+    "sha256": "6f44f18fd2e2ce9bb3ca621be2a92c5b6639dc25efeb5564ce974a6240b74dea",
     "modified": "2026-10-28"
   },
   "/books/dhruv-desai/": {
-    "sha256": "1fe086d3307a4628cfede71c556c87d4df914b3caaf4b3d4a3d56818003b3a2c",
+    "sha256": "0cbec9049f164da6215d8df814da0ec6e5262be4d6c4582f47a7de182e3d6544",
     "modified": "2026-10-28"
   },
   "/books/cunningham-s-textbook-of-veterinary-physiology/": {
-    "sha256": "df38c413b513e85e8ac78b085fdc2b77a9bf0a040ced199865a26a2b94ac00ed",
+    "sha256": "23f778cdf9f842671b5f8587fccce7dbea94c849412dea6839e2d3086199952a",
     "modified": "2026-10-28"
   },
   "/books/wall-drug-dose/": {
-    "sha256": "b50ad8dcbb791cb339912c86e32d9fd6b0a55c11afaef5c288bf6c919a7bb093",
+    "sha256": "5d75591ebb3a613f4b49f31cbbc005a8104f0a5635b80136b1dc19c29cc39c03",
     "modified": "2026-10-28"
   },
   "/books/dukes-physiology-of-domestic-animals/": {
-    "sha256": "e4dbe6c49fc3e5c6fd3543ff626d0b606e20ac72c36d9c39ae365e745a2bdf96",
+    "sha256": "01b5c1875b283e77bbbc3a2b509777f4ef0736c6350c7496342be44e860d6b84",
     "modified": "2026-10-28"
   },
   "/books/e-nanu-qbank/": {
-    "sha256": "127cecbf8c65e0766a1cba26b5967643a353418b9ec60645a7261625bf1039f4",
+    "sha256": "4908eb7f305c30a5329e43c831dee7d6cb9d2ecf271ce8a3e3109003298278bb",
     "modified": "2026-10-28"
   },
   "/books/essentials-of-medical-pharmacology-k-d-tripathi/": {
-    "sha256": "2d73544646da6f59ca3340168135892c38131d9b9b880bc11493d4f419bd1e2a",
+    "sha256": "1bfd470fc48c10c4e1e8151af7a9075e2fea807124c17af8516eb031e2dfeb30",
     "modified": "2026-10-28"
   },
   "/books/veterinary-histology-and-embryology-r-k-ghosh/": {
-    "sha256": "eee5f11d13ffb0e739c9cd7ddc27d8b058c05098c34e57f6c6da9db556d00f64",
+    "sha256": "c03b1d2c1f382ef4c40b841c466ff25a872ffe142eee98a84d31d722aea20f3e",
     "modified": "2026-10-28"
   },
   "/books/essentials-of-veterinary-pharmacology-and-therapeutics/": {
-    "sha256": "ef50e5459d87ddd13a5bbcc0febbf084808bf99e7f6933a6df4242a903db17f7",
+    "sha256": "7a0f6c6274c3b506efab00581bac928f6cbc4eee1dc2a9cac99c75ed29bb9a7d",
     "modified": "2026-10-28"
   },
   "/books/essentials-of-veterinary-surgery-8th-edition/": {
-    "sha256": "ad415f7f8d607e0bebb5c6e4ae7e36f3ec8e828ad52d06462180fc8634ea0275",
+    "sha256": "288f17c72ff68b1356bf2d7803a3d7d5f0a00eb3a4b40ae353168bf8c4d7c013",
     "modified": "2026-10-28"
   },
   "/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/": {
-    "sha256": "57071b5841c801e225b14bab364887c9da577e16a36a286192fa8d5f3ad99877",
+    "sha256": "96ca5721e3310eda81bd4bd1b4221b7e5794bad6f15d6407c59129beefc5f130",
     "modified": "2026-10-28"
   },
   "/books/farm-animal-surgery/": {
-    "sha256": "fbb8c8529062d0fd78fbbfe3ff4fa978a3288a9c7e6683a90ba2d41a5c7d419b",
+    "sha256": "1d2083f3bc25b62e1450b09a191fcc8645047c14e5c21360e8bb49ea6633275a",
     "modified": "2026-10-28"
   },
   "/books/fenner-s-veterinary-virology-5th-edition/": {
-    "sha256": "1455421c554f5d5952830721711d81f8149a7e3e188a738787641d7ba2cd1496",
+    "sha256": "3dea87a327805a0cbedbc7d633b4ede4a11c9c8a825763b795d545c5542f8cfa",
     "modified": "2026-10-28"
   },
   "/books/fluid-therapy-guidelines-for-dogs-and-cats/": {
-    "sha256": "dbcde26e5387a76be3048eca6290ad6b0cff0ed5f501e113e6540d1b2b9eb5aa",
+    "sha256": "7df4cda9a070e021fd0e234cfb1c4bb089d82666ebc9c82cc77d8c03c4860a18",
     "modified": "2026-10-28"
   },
   "/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/": {
-    "sha256": "abe7ee0f3be2741fcd0fa3b7eee77784d2d7f99cb4dbe1e8de7480e0c9401a73",
+    "sha256": "60d5c9bf6ebf4d016ea3aa5550d0b0cd00a80a40065d9b6cb6d46081ebe35a02",
     "modified": "2026-10-28"
   },
   "/books/gracey-s-meat-hygiene-11edition/": {
-    "sha256": "ad0dd39938072b85f8ec474883f03381c80205c373a2f5373b643300eaca0f8b",
+    "sha256": "1d55cd165ee8230a86863aaf7ba065c1d797e28d13878e18b7640cad5d01f53c",
     "modified": "2026-10-28"
   },
   "/books/guyton-and-hall-textbook-of-medical-physiology/": {
-    "sha256": "bea3bfaf06469a58584dcd799f13ab454dbe6d36a9dc2d05eb0b7c3eab556fc2",
+    "sha256": "c85977537cb67e273283ec62ba6ea22dd849f1db9920a7d9dda7c87f969c2e52",
     "modified": "2026-10-28"
   },
   "/books/veterinary-clinician-handbook/": {
-    "sha256": "b5dbe106e5677fa21d833be3a2de2c26b35f9bc92e4fa4ae7c9aab3569fa1c11",
+    "sha256": "64a22f51dc009055f53db2e9aac10ff404915f8942c72792cc94fa56e6679ab5",
     "modified": "2026-10-28"
   },
   "/books/small-animal-radiology-handbook/": {
-    "sha256": "c4b735c44250dffe53183f6854c2d24a29806995b25e23b49de977972a45bbea",
+    "sha256": "5f607e9fd90579eebae0218306bd88c465d2aebe27061ee5cbf43d95cb76c633",
     "modified": "2026-10-28"
   },
   "/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/": {
-    "sha256": "9a17b49de5ed4ab04cde7add03831e23fba403f1ff7771aea77259a0e8852ec9",
+    "sha256": "7255c014c449e1316761f734d76862f5d80bb3c880cd4c76f41790cc696c9bd6",
     "modified": "2026-10-28"
   },
   "/books/kvafsu-qbank/": {
-    "sha256": "e7a50d629756672ca7e64c00adfe336409ec446566e3f465b4cbfaf34c928e8c",
+    "sha256": "89a79e41fc7ed467a73929d5dae07ba4a801d2487571d2ec34459fac02918414",
     "modified": "2026-10-28"
   },
   "/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/": {
-    "sha256": "035f218d1a6fbf869bf4bc78a72a1e27621dcaca526047c5bc7c4d5cb13a9527",
+    "sha256": "1440c7ea02ce2918fca6a2f12387b3025d1a0dec02b4f20acd3b23a10bf43925",
     "modified": "2026-10-28"
   },
   "/books/lawrie-s-meat-science/": {
-    "sha256": "e22b3634c30a997785caa5cee4c578310c619786e0872c3b240a1c61a59669ba",
+    "sha256": "7630c97963b74c88203bd15db8baf770e563f41679087d12b579b9503506566b",
     "modified": "2026-10-28"
   },
   "/books/livestock-production-management/": {
-    "sha256": "50b0a371c6498d9423e20ea8155a8399cb4097a62c7ff5519ab220ebcd8f2ca4",
+    "sha256": "ccf45ed8097fdb3ca82007797a922222ee466c0bd7429b834051d2a9fd0f9879",
     "modified": "2026-10-28"
   },
   "/books/lumb-jones-veterinary-anesthesia-and-analgesia/": {
-    "sha256": "b3677212cd0bcb78ea0ad664aa1c70fe6aa11238097310e0b33d8a4fc52109c0",
+    "sha256": "20ad531508ced9168cd17017a07fa19286ae5a98b5637670fd8ba8cc4f3b7fab",
     "modified": "2026-10-28"
   },
   "/books/manual-of-canine-and-feline-cardiology/": {
-    "sha256": "fa9a83a04f711ba076a9bbde956f43e575025541b32d0987dada8b36a781d8ee",
+    "sha256": "e4093815bdaf18e9cf072aef41842207e2949b7455743122574f4a0117855186",
     "modified": "2026-10-28"
   },
   "/books/meat-and-meat-products-technology/": {
-    "sha256": "83d82deb3a7404ff20e2558b21fc1e055e30e6d8242d132362210d7c0d0f26e3",
+    "sha256": "82d7834789540a460e0851ebc67da12ad7eceacb1090b1980c31d174968e8495",
     "modified": "2026-10-28"
   },
   "/books/meat-processing-technology/": {
-    "sha256": "580991f1160f5095bac03317905b4ba6851f22d0285d9dd5169eaa2ef13a4f13",
+    "sha256": "bab1f09026ab8a58b56eca4bc67e46225096b5c776ae45ce6b4e669763524350",
     "modified": "2026-10-28"
   },
   "/books/metabolic-diseases-in-farm-animals/": {
-    "sha256": "20f668b0d588ed34dcc93d29d74546c8717fa9371591f6adddf02dee5c48e204",
+    "sha256": "cff102165e56c11baea2fb3697dd300892e2ffe49e76bc6a535f02c364f99b46",
     "modified": "2026-10-28"
   },
   "/books/ndri-qbank/": {
-    "sha256": "93496e10d9bc79d806b500c40d46a59e9b723163a4901a12480e77f948a53914",
+    "sha256": "be8a5f31ad2bb2ce2fb8606c851e1154335f6f726de0c1785b295ace6584fceb",
     "modified": "2026-10-28"
   },
   "/books/ockerman-animal-byproduct-processing/": {
-    "sha256": "5232ded324039a6d6e90f0c74b73107bc1cdb30bdea39468df4419ab8ad8488e",
+    "sha256": "ccb1138670585b15e3726c48bf78bfd1d74e17bdfe1815aa4f4bb98b3db194b2",
     "modified": "2026-10-28"
   },
   "/books/outlines-of-dairy-technology/": {
-    "sha256": "74932a6f076317a72bb932cd9d16117d7c15ceb0a1939f7d7e3292dbb8996062",
+    "sha256": "900a6d2d1f703b7c3efaf82bfe805fe701ad1d2782d3d92f9f330209abd0b129",
     "modified": "2026-10-28"
   },
   "/books/pathways-to-pregnancy-and-parturition/": {
-    "sha256": "60c50e1d3b982cf84e9be48d1522eeb60b1689a01d5dc7c8935d61cb8fd12ec4",
+    "sha256": "1270f8ac30050b39fb87688f5fedca4f860b4b60540f7628176b8f8773174734",
     "modified": "2026-10-28"
   },
   "/books/plumbs-handbook/": {
-    "sha256": "e8eb6aeccd4c6cef924ee8450f58504d63bb4ac8a06b9f1dc6904bf987516dd2",
+    "sha256": "34efa9d9205bf439ac21fa1e71339dbe255b27b0ce7288e77dab72b74a0c2603",
     "modified": "2026-10-28"
   },
   "/books/pocket-guide-diagnostic-tests/": {
-    "sha256": "4bdd345e923e4e983ffe132cb9c70b85b69532d174cd06ffe8f661a677b39ff4",
+    "sha256": "83f25f10323c0d4529447b73f553d7fe869336b3cb65518fd1ba7a5cc367376c",
     "modified": "2026-10-28"
   },
   "/books/small-animal-medicine-handbook/": {
-    "sha256": "99bf68776038a5bafb2f5432c8f868bdf8d3b8c55e97e8b528f42775c7f8a4a5",
+    "sha256": "690513a905d2373b4899321da54ac12a9daee1bffa2ff3649de931d668616f1f",
     "modified": "2026-10-28"
   },
   "/books/poultry-metabolic-disorders-and-mycotoxins/": {
-    "sha256": "b2f4eea1a86c008d85a6075a44761efcf418a5491a954743316a50d95164fa6b",
+    "sha256": "1cd4d3b03b26d46eab0524358ee5a6b8d244963f968b5f8cd0830692929c4cfe",
     "modified": "2026-10-28"
   },
   "/books/prescott-s-microbiology/": {
-    "sha256": "8d388ee6f9cc817e1691a9baa51d85485b4e51b5f4a8ed98445726ea75c26f37",
+    "sha256": "b0031aa52fe5e96081626a438e47590afae997c1b410f9db95f4d5362345127b",
     "modified": "2026-10-28"
   },
   "/books/primary-veterinary-anatomy/": {
-    "sha256": "db41e0619745acf1f5f128917637d6f5dc17d8cc1f5f02247967cc8a0dcaa805",
+    "sha256": "4d2ca6f7b09e1b2bb033dd05263dd9eacf044ca009b7a9ac426d5eb1fbfe5671",
     "modified": "2026-10-28"
   },
   "/books/principles-of-animal-nutrition-and-feed-technology/": {
-    "sha256": "1364cef7b0836ce4d33bb8b51fe3aa6292837ffd1c178884e85189606259afa1",
+    "sha256": "415cc0a27f8f2b025ae213dfd7438d70a982da169e4f303142a46d8e4260ee15",
     "modified": "2026-10-28"
   },
   "/books/principles-of-meat-science-forrest/": {
-    "sha256": "1f10551fb2fe479d2f7ded16b503697bba09ba350fecc02e41c92bf78b3bccda",
+    "sha256": "2710ec736728c10c66c40edda6a321ca672548e96fa6c25a2bd6a8438b9127f7",
     "modified": "2026-10-28"
   },
   "/books/reproduction-in-farm-animals-7th-edition-by-hafeez/": {
-    "sha256": "fead549e87416e72c6469cb5892545eb59c986e6d30b5e13427b6b097bb88240",
+    "sha256": "248ff94b01485c3d80694211d1f668178faab6efd1f29e96d08637110c49b08e",
     "modified": "2026-10-28"
   },
   "/books/restraint-and-handling-of-wild-and-domestic-animals/": {
-    "sha256": "65f59d7b8caca34eed42487ad2bbb45f6efdbd982a11f37296cc08777f024117",
+    "sha256": "e1af397fa65ad9b55e39cc480cb3257a871b6838c5d997ad584caf1c5e7e784b",
     "modified": "2026-10-28"
   },
   "/books/review-animal-science/": {
-    "sha256": "dd3a8642ef15185daa53625069416a0f3ef5c81f4648aa0075c0e86365a47f02",
+    "sha256": "972a26986a3e461684479fd072254bebd89594e00c6d8446ce6f0c309d3feed6",
     "modified": "2026-10-28"
   },
   "/books/review-veterinary-science/": {
-    "sha256": "1968ef52d4a346762099e99e19b8df373db3a5e219fd04e0d565faaa6322d948",
+    "sha256": "550793842af395e897dad8c9adf67ef0fa78c59a11507d4d4b5e0f6760c3c2bb",
     "modified": "2026-10-28"
   },
   "/books/ruminant-surgery/": {
-    "sha256": "fcf3b1199ed5b8138c94e3f62e436bc7956d4052443d0886cd6847db638f2189",
+    "sha256": "8945f9de47d40f4b9a1314dd84711540e812659f939ba2f04cb545d75474ac7e",
     "modified": "2026-10-28"
   },
   "/books/sembulingam-medical-physiology-6th-edition/": {
-    "sha256": "29a14419cfb162c1d42ace50ac7e68af19de55bb9e7bcd5c621d6b2866cc5c4d",
+    "sha256": "0dd9fb9a3fb8754765df0c6a644cf669d8d5b9eec8aa2fadac09f33f95eeff0d",
     "modified": "2026-10-28"
   },
   "/books/skin-diseases-of-exotic-pets/": {
-    "sha256": "0bac5c8f5c1b5fd75013c3e78fc752bd4d84a307608d0532c80b9b1b040b3f96",
+    "sha256": "d6c36456f33aaba2eff9e27a279b315d1251a80f2c1cebdd23b47b81024983ad",
     "modified": "2026-10-28"
   },
   "/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/": {
-    "sha256": "55f0a89b45b9013736ac7f14bdb7e1e1086cfe2ba40806a86f601a8e34b2c4bc",
+    "sha256": "93a369e0cf370ede32de7e37c0a04df25a35be7ce37db3788312d180dc46b890",
     "modified": "2026-10-28"
   },
   "/books/small-animal-ecgs-an-introductory-guide-3rd-edition/": {
-    "sha256": "7f259ef8489d8cf66f4ae2ddbc0114aee2103dc495685aa78a175f1448c117d1",
+    "sha256": "b807212799a71f4e6266ccecb37569325db4ae43e0cf135c1e3d91614f22fb51",
     "modified": "2026-10-28"
   },
   "/books/small-animal-internal-medicine-5th-edition/": {
-    "sha256": "c47087f7c66f31e5c075d5beb4c1f235ca3534724a6bf64958e6b1aff9babeb9",
+    "sha256": "f765835bb5e97f5ab472ca3029c9e9db38ccd759a67cd0a5e0cc796b579f7d7f",
     "modified": "2026-10-28"
   },
   "/books/small-animal-surgery-5th-edition-theresa-fossum/": {
-    "sha256": "883d276904df3e619a82ebf5ab389ec10c12ce39c4e6045e0a80f190a3522952",
+    "sha256": "c784621c847e13ed433e68a2a02cc624a432a52b6cc16604b3214e6b46e4f19a",
     "modified": "2026-10-28"
   },
   "/books/tanuvas-qbank/": {
-    "sha256": "c0ace2359dc960b295e7b1f93128b20bcf2ef5a7d6d7304e7e3148a6a933a006",
+    "sha256": "00be7f5de95ac70e62ab343490cc1e01b3bf5e28b34c9afb40ec44bd6902359f",
     "modified": "2026-10-28"
   },
   "/books/text-book-of-veterinary-parasitology-bhatia/": {
-    "sha256": "d22c3a3ee56a89f6e3c49282685cb9a45bda024a8907520644686f17b06013d7",
+    "sha256": "ea4b03651d31bf27274dedc49ce3f04488e7dd66bbc78e9f1a5649cea49f84a2",
     "modified": "2026-10-28"
   },
   "/books/text-book-on-animal-genetics-and-breeding/": {
-    "sha256": "339fb9ad1d14ebd42af90404f02b173dbe8def25962d9b4b130bc7faef4738cd",
+    "sha256": "e2469b962905968aabe70864d59abab844519edb9ffe84d2d9f517482f57af67",
     "modified": "2026-10-28"
   },
   "/books/textbook-of-animal-husbandry-and-livestock-extension/": {
-    "sha256": "4c3362e46ed269230c09b59bfbb274aee71e598c5d9a8cd4285ac4f18af91337",
+    "sha256": "8fbdd06f13443ab2ad7925287ab85eb6c8ce3307b5d6cf925b4885fe74285ac3",
     "modified": "2026-10-28"
   },
   "/books/textbook-of-clinical-veterinary-medicine/": {
-    "sha256": "1d19e90c76af34010be547842cc57bd324924243ea37080468984597c1066ede",
+    "sha256": "f893de967babdcc4b5d177bd4bc154200c0162550f3bb1177d634324eba1f1e8",
     "modified": "2026-10-28"
   },
   "/books/textbook-of-veterinary-anatomy/": {
-    "sha256": "e73f150c6b0a29949ffa9d8f0b3799a5c8dfcae5e0ceb3ef4ec868651a19bc67",
+    "sha256": "f5a0b4a8fc4c9dbc5f60af13153866efc02846742ea49d47bd17a6c94321067f",
     "modified": "2026-10-28"
   },
   "/books/textbook-of-veterinary-internal-medicine/": {
-    "sha256": "37cc275cdf3447db9c379f29127b235f27c1993b4f6120e842c0b58379c64a7a",
+    "sha256": "4a721a2352c1fab60cd207f4efeee03226cc7d43a220d2acac17775e54b458f2",
     "modified": "2026-10-28"
   },
   "/books/textbook-of-veterinary-pathology/": {
-    "sha256": "2c5b9d179deca704b6ce04d28b9b4c5df0f26f4483fe03ed6d3b37fe2a5bb8ce",
+    "sha256": "67480a2ea3255c3cd67a78ff480ceb26971ef7f96f851c8820803da85bb33d13",
     "modified": "2026-10-28"
   },
   "/books/necropsy-book-john-king/": {
-    "sha256": "d211b781faddb5ebada876aa7bf8d72af47bf3e20bf198c7589b046faad6ff87",
+    "sha256": "8d0373d4b14afe22b9b9e28ee24c1e787e0e78510e55ff73cf156e00e36bdb69",
     "modified": "2026-10-28"
   },
   "/books/ultimate-vet-handbook/": {
-    "sha256": "068ace987111c2bae04a4576fb521005a56c66763dbda7d82d2738b201a15500",
+    "sha256": "e95906618d8e5ec8cdf032b2e448f235e993972d5f0fb7d45eb489ba0c301aa5",
     "modified": "2026-10-28"
   },
   "/books/vaccination-schedule/": {
-    "sha256": "1ac5dd35dd8a9d341466a62565038802f68fa3a127469fed3d20f2b39d93c343",
+    "sha256": "a28953b86c6d026db143c2ae8c5997745b6b359699a03827c961f683831eabc8",
     "modified": "2026-10-28"
   },
   "/books/vendex/": {
-    "sha256": "876487d09df799122f8cfa6dcf5d53f75f75e69428f4fe86831f3dc9ef6fb3f4",
+    "sha256": "1a42d0a890dac7d634cf93c4f3709f1bd7127601cc231f49a2294759c1553e3b",
     "modified": "2026-10-28"
   },
   "/books/vet-scorer/": {
-    "sha256": "aae815bfa885347c980ea9005e300fe54784ef6a86bae87c23a96999626a9ed8",
+    "sha256": "cab6bda42a879e378f1cd95b906ab3116e3e611ecdfd4791b5f08a2560a8610c",
     "modified": "2026-10-28"
   },
   "/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/": {
-    "sha256": "d37547e2a3657db870658d1ad0fae05f004aff125d025bb587ba95c75566d758",
+    "sha256": "77262c33fd3ba2d1496c67731c60b508a314faf42e9b5312bb55bd23f1a758bb",
     "modified": "2026-10-28"
   },
   "/books/navsari-drug-index/": {
-    "sha256": "806a9ff90ec2ce757b4c5c7c3bfe06b58a994844595de1de9ee4556e6dfa57e9",
+    "sha256": "691127e9f0b98d6cb3b587af0b2ad61eaa13841d96c8700b1b439bb4d17fd53e",
     "modified": "2026-10-28"
   },
   "/books/veterinary-epidemiology/": {
-    "sha256": "b3212d51a74f285e74c0934f848e783f962b00ed5151a6e3b4c254d8d605dbc4",
+    "sha256": "55715a3bc5e1467b81b6b3f65d25ce131815c509179b31bdbd6815b7733bf084",
     "modified": "2026-10-28"
   },
   "/books/veterinary-extension-education-grk-sharma/": {
-    "sha256": "f7214bac1461b9feab91ec5feab28dad6badbe69ae91f672c795d837e65014bb",
+    "sha256": "038fdf30a8e5bfc3c4e53f7506421e380c5ed40405683956a920b0a4c1ccc72f",
     "modified": "2026-10-28"
   },
   "/books/veterinary-medicine/": {
-    "sha256": "aeabe3f373e657ad604a501e2d4ecdc427cdead3d8b5fe2f6881a8fc5b7093a2",
+    "sha256": "b4b7c60beadefaeb414c4b6ad79d8555ea5b1dc9248b83326467f84189d90719",
     "modified": "2026-10-28"
   },
   "/books/veterinary-microbiology-and-microbial-disease/": {
-    "sha256": "fbc2e9834ac63fa391a0202856a1840ccf75e2b3b9396d993ba3fd40d2862391",
+    "sha256": "0804e0ba19a5df47631996b344e0f12418e7b45cf0abe5bb11cfd9b12f428227",
     "modified": "2026-10-28"
   },
   "/books/veterinary-mycology/": {
-    "sha256": "dd8ccae86f11e4b8d14f74a7a2ff7f53d66962a9ab7a9b80ed9f1c0ccc353133",
+    "sha256": "f7576fedcf011f98d13d7a251aa0b2e7aa1030f1899f3dae4eda0b133d8fb31c",
     "modified": "2026-10-28"
   },
   "/books/veterinary-obstetrics-and-genital-disease/": {
-    "sha256": "0ecf821d5d353df128f939ad2373450008893284c251d7cb1693cf93dcaf7143",
+    "sha256": "386b3a3b79cdd1c8ff1c60f544c655e899146458af4c13c5f9ae0a1532a0f28f",
     "modified": "2026-10-28"
   },
   "/books/veterinary-parasitology/": {
-    "sha256": "8c599fce9345294149b002736b58684d467b1147b06b35465067792978349b5b",
+    "sha256": "23f6a3fb2f5404f7c0ccdc25ae79308b1687e05c32ef72223243a6bc1260fd7f",
     "modified": "2026-10-28"
   },
   "/books/veterinary-practice-handbook/": {
-    "sha256": "83fb778263c6827158ec8a7a0cea8fd5ad8bbe362e56ceacb7c317e9c3fb5b36",
+    "sha256": "3c66dbc6b9e49fecdedb23c9b93b76ce0f157ee744f64da944e0bdf2e38e0769",
     "modified": "2026-10-28"
   },
   "/books/veterinary-reproduction-and-obstetrics/": {
-    "sha256": "703b96d0eae4b3de1da6ce052e0ce51ee01feb6c750cbf4f722eb535a6961b39",
+    "sha256": "4c4eada23be5cd2dbd03c8e8cb2a814b7c94d4c640b3de02968f4af16d6a6451",
     "modified": "2026-10-28"
   },
   "/books/veterinary-surgery-and-radiology-by-s-k-nandi/": {
-    "sha256": "8e2d22f2e40b8a2042574899f69e0ae8f256b090c88c663f70c0be135bb8c0bf",
+    "sha256": "bd22a0580c4f23cd0d7adbe59361dfad50770eeef01135e336809c2f079dfa39",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/veterinary-anatomy/syllabus/": {
-    "sha256": "7b29b3803789f273962d971d2c90b3e38137427f056aa5f0fce8179f60fbfd47",
+    "sha256": "d926a703c9615c438c50a37d960b528c3e6ca94b40f9d0d5a42d3ce9bc531329",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/veterinary-physiology/syllabus/": {
-    "sha256": "33b89eb2c0043e95fa0ce1ef30f85487a79d1d94afa5316edcea412d0e059755",
+    "sha256": "6c6c0b9de725f12166fef5035998dc43b355ab44dfd1338a0bd8d75308f636f5",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/livestock-production-management/syllabus/": {
-    "sha256": "dc19fae024639b468189bb1db47f218493926935ac574886aac7193f6754e73d",
+    "sha256": "d9aaff39b4509ba40ca4c96e0deeb59f2fde3c8fc2ba7310aeb1310c10c8ee49",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-biochemistry/syllabus/": {
-    "sha256": "146ae45753ebeac3704423f4fc3c89e41415cdf7f904d17133a13d2a78db131a",
+    "sha256": "d6e214ed06d8c60726fcc3f077dcd98b97f548202975d779cee17697e5e3c2d3",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-microbiology/syllabus/": {
-    "sha256": "fefdf12732dce3057e55e9c558cbfdc386c0f7827f0ea59e83a0816f640972ee",
+    "sha256": "1e07c49d2e63af27d246ee7c29124d1fe2d3945d7e2a6fe8fb1b2966548ee044",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-pathology/syllabus/": {
-    "sha256": "0a7b0bf9b4e956f67ce205d7372d1cde30d61681262ed1d91a6aaafcd0cbed80",
+    "sha256": "28690f199a7d0176b70f8e00a2f10c2cb294afe360af55c9e33e3b654b537dc2",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/animal-genetics-and-breeding/syllabus/": {
-    "sha256": "058c1d38e630096e0cdce453cce63259b7bbdd21901e545c1f9bb6b9658bb501",
+    "sha256": "375d6c5808eb72c6622a5d0b0d8f6b65ea46074ea02b4519c0824035ec78283f",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/animal-nutrition/syllabus/": {
-    "sha256": "24179641a46a7c7e648f6a098b7815f926f72f069b45f0fde8adf4ef4889f8e3",
+    "sha256": "a7e98b61b8909266195affff97264d041757d4a09a208f3497b37ab550e9880f",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/": {
-    "sha256": "2e009b790aa2159eaa88531a7e85d3d402c562f4719ab37f20ba0d107f067580",
+    "sha256": "05b9b549cfeed3a19b32191080dd3882d3753a30adf907213ca27eb952145951",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-parasitology/syllabus/": {
-    "sha256": "e42aab618e547eed553ec9cde95e54c37f29b5b86529582ee594a1ba30d7a85a",
+    "sha256": "c4eea81e5bca226304e9a2924f672516753fa912789c773a0ad8fb3e603146c3",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/": {
-    "sha256": "b2d0219c9520a9c0cfb6dad37d7f883d726e33cc1fa2939bc4cc72a3bf57b0f4",
+    "sha256": "951dca54a652c0f20aef6e428cd3005f1b2d91db84f92190516d95742d3ba7fa",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/livestock-products-technology/syllabus/": {
-    "sha256": "0ee336ab2333b6b02d0631477ccb0131dd24baa3c51d5b48af17e53baeecb60f",
+    "sha256": "5865e6bf3bffb342a02a58920c1e958d86be7d65ab477f9736a8ce3ed81b2c9b",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/": {
-    "sha256": "a7728c907a705c79eb81ab2ba30085b44d40df7b0898b2808e1db47649d770f1",
+    "sha256": "774c34450cb1f1c16991fbb5b1fb2e751e1c983623651600ee6fd97be48490b2",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-clinical-practices-i/syllabus/": {
-    "sha256": "b460f89964c8d78e9b883e2a40d593b518dda47fa1eed04a24d313b77dfae267",
+    "sha256": "8195accba28021d85cb9d7b1d4bacad00a1b630cbb6a98a430489f85b0da1594",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/livestock-farm-practices/syllabus/": {
-    "sha256": "b5e359c9b446a09c7ab8da1a2a111acbb075a779944d86b63c25caa605e9db51",
+    "sha256": "2ea90c5f0ea68c97f52bfc20764b85c54632dbeba970b9a9729910356b1752b0",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-medicine/syllabus/": {
-    "sha256": "21e917350f4bd8e34e861871a76c64302e82a9c2b6ae04d716d8c63cd9135af4",
+    "sha256": "c7fee151d1b2154ef11fbb770adc4a3da31367ec826f6a2a3d27512b3ad02e7e",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/": {
-    "sha256": "0af7fd75379dbd2ca4e2450174c06d0b71ba6cc0edda5973dece31c9499819d6",
+    "sha256": "b16e8207debc660a7e39e4076df4ca90e66c5a81c37d5355c7a84d8eff1efc50",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/": {
-    "sha256": "168dfbad8e8bca02956f7141f74f1288480497eac15158588bf1fe9cc7d7274a",
+    "sha256": "05b9a85870864692388d61200505eec7571a7a5b469f38c1da238f9cb190b426",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/": {
-    "sha256": "cf87fece59110795cbfde1957e2218dd96ba2a5a516986227c0b3a9c9fce676c",
+    "sha256": "d3454dae402670ddb653df987b34bade5348478174de5810a47399562dedc69e",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/veterinary-anatomy/practicals/": {
-    "sha256": "5b256f2b67cec300304ffa6fee6777cc9a4ee3d0534d0ebb1132fee43d2e3bbe",
+    "sha256": "2c80855e39d699c8aaf93d6691fbfc78dd19ac176f4d60f057fbd738e715b36c",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/veterinary-physiology/practicals/": {
-    "sha256": "c9313cd16bfa3d1a07997950d327ec76b62279efdb965474789be463eb8a73cf",
+    "sha256": "7633ac211012c3186fa10f983de511e843f4b09c2f693c6664859ee4a152849e",
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/livestock-production-management/practicals/": {
-    "sha256": "3b92140b59d79fe91575fd16037884c49887144b8ed9c178343e47af90d164f0",
+    "sha256": "b40c490c5608e1acd1dfd39220ecc38a71ea0dd343393de9e2a65512d1c239d0",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-biochemistry/practicals/": {
-    "sha256": "19a05282966c5fe8e161b937c92eeb4c8131b1a8a2c4042912295497923a481d",
+    "sha256": "a07ffee7aedaf5028d0c476d03c474ce6200597d2fcd0677f4a8257d93a0b9c3",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-microbiology/practicals/": {
-    "sha256": "7bde92d3a1891f69c21f83e94bcd30054a287204e6785dd376e67075c364128f",
+    "sha256": "ca0de8706de70d9fdbb2852741071abb87f118f75a9cf17f91c4d9484de0899d",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/veterinary-pathology/practicals/": {
-    "sha256": "addf14afcfe9712f83f584db8da27e89091e8a426fa9bea837ae6a8c350f3f39",
+    "sha256": "f4806751c2cd73c5a9d331a2a07700501c1fbee39dcdbfb82b08e74f223eaef5",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/animal-genetics-and-breeding/practicals/": {
-    "sha256": "c86012b8432aca13ba7c1541a1cfc0752872f109893d52de12b5b5ea8348b4ba",
+    "sha256": "892e532e6380ab186c2ac1c881582c38960512ab14f8b0f54b049bef5ec78928",
     "modified": "2026-10-28"
   },
   "/bvsc/year-2/animal-nutrition/practicals/": {
-    "sha256": "39218398836a149cfb4f222fbc69b1003464316bb2e635f91573ea4eb436819e",
+    "sha256": "8422a0c91d0604c34d1672300130fb9502c278c1177b13e23f32c6c788da987c",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/": {
-    "sha256": "f7d125f822b6301a28e58899dd3676404a4c09db5251856d57ba0f279536d37a",
+    "sha256": "b601663086d57225bd52d208c4fced21d083e6f9dc57b40fdfdb5defb50e9c1e",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-parasitology/practicals/": {
-    "sha256": "957d6c44a80a04834342b2bc76a1e4a6db100ac58042ea1b0da4b77d7b72d0bf",
+    "sha256": "df1cd94bf2f3365a4767593525fdd346871f658871816f07fd14bc63f91cfd3c",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/": {
-    "sha256": "4bc1f802fb0eae3c36e0ab41c01f51b27375b24ba7aadf880f015465e0f9ab5c",
+    "sha256": "84f5b1cbcd8d7e4d58bc5519334994b4ac029096a60041d04dffe84690172529",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/livestock-products-technology/practicals/": {
-    "sha256": "e52a20610682ba375bb23acf602d19ee6020b20b8921674fd53ef6484cd1e62b",
+    "sha256": "20cf7dfc911402f14ba0d0bf4860ca7def607b7876ad10e15e35094e3b701e63",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/": {
-    "sha256": "243003634c736c9abe6a936342b4047960aea82e4809789c8eb8c9a1edb290a5",
+    "sha256": "89216f387689399e28b2810eb2025514e824fa394e4d0ccc56b444af384deebe",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/veterinary-clinical-practices-i/practicals/": {
-    "sha256": "e2d3fb491dcf2cfa5999888aa74d614b3a37a0fab8bf607aa45b6f2ad4e2bff1",
+    "sha256": "7a4a9b3b89386231c8d9728989b1102250a1122bcef72426caebf4fe17c4f7be",
     "modified": "2026-10-28"
   },
   "/bvsc/year-3/livestock-farm-practices/practicals/": {
-    "sha256": "eeb3fd32349b4db1c3844d62c8e758a4c23ecd1f6ff594dd8828f449a6fc26b1",
+    "sha256": "d4736deb28d0dff6dbba0747f6c4025e9b9a5ea55359f258b0826ecf5b9a30c3",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-medicine/practicals/": {
-    "sha256": "7e5ec94644a19e5a5d240f9b4909b1f16fab1c78bf792c26a632a8e8b51adcc6",
+    "sha256": "a03786ebd2a9ce190be2121ba769478eff499fd14f8ad8cae3268b70f2d8108d",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-surgery-and-radiology/practicals/": {
-    "sha256": "7ecdb70fbf497be31a2609609bdfa47bdcf3ba475acf9101541bdad482914e80",
+    "sha256": "2773a784b2b01d51517abc24ad452dc8f6e5170e90410f80bf0fdc515b030659",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/": {
-    "sha256": "fa1b54aa9c354d8b4377e89044b4d88b6e3d5482967d7768d6da27de03c263fc",
+    "sha256": "b0a09664e08f6cfef168eadc47a41b66397130798459e937de3c0bb890638478",
     "modified": "2026-10-28"
   },
   "/bvsc/year-4/veterinary-clinical-practices-ii/practicals/": {
-    "sha256": "84418c7a582ffb547d948c7f3fd62531f47317e0b7d48d1ba46ee8d876913679",
+    "sha256": "f1ab9f5899154455043f623f9ff97a5844cc360756ccc4db493629de222a1df8",
     "modified": "2026-10-28"
   },
   "/404/": {
-    "sha256": "f43a0521e288cb1c768bd55f04d291a4699cc892030a5b3769e3af234741dd73",
-    "modified": "2026-10-20"
+    "sha256": "3c4d692d161f22f1668ca7d50d72fe915da90a7f7fb352c13b2393fb3aef17ec",
+    "modified": "2026-10-28"
   }
 }

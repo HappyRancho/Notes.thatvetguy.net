@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Animal Husbandry and Livestock Extension
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Animal Husbandry and Livestock Extension — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary and Animal Husbandry Extension Education

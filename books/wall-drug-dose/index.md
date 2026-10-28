@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/wall-drug-dose/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Drug Dose — Wall Reference
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Drug Dose — Wall Reference — Telegram Download
 
 Cover unavailable
 Reference sheet · clinical reference

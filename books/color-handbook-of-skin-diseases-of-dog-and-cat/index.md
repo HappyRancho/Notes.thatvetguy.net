@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Color handbook of Skin Diseases of Dog and Cat
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Color handbook of Skin Diseases of Dog and Cat — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine

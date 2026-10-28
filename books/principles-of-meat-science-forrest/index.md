@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Principles of Meat Science — Forrest
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Principles of Meat Science — Forrest — Details & Drive Access
 
 Preview from the linked source file.
 Book · Livestock Products Technology

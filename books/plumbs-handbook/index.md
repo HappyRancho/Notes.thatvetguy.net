@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/plumbs-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Plumb’s Veterinary Drug Handbook
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Plumb’s Veterinary Drug Handbook — Telegram Download
 
 Reference cover; the linked edition may differ.
 Handbook · clinical reference

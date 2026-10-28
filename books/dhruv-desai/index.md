@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/dhruv-desai/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Compiled Question Bank by Dhruv N Desai
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Compiled Question Bank by Dhruv N Desai — Telegram Download
 
 Cover unavailable
 Study book · veterinary revision

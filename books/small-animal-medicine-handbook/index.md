@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-medicine-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Pocket Handbook of Small Animal Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Pocket Handbook of Small Animal Medicine — Telegram Download
 
 Reference cover; the linked edition may differ.
 Handbook · clinical reference

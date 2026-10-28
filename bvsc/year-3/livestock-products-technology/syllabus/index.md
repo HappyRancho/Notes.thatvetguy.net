@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)/Livestock Products Technology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Livestock Products Technology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
+- ›Syllabus Checklist
 
 # Livestock Products Technology Syllabus Checklist
 

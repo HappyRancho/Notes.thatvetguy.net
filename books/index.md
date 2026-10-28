@@ -1,6 +1,7 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Veterinary Books Library
+- [Home](https://notes.thatvetguy.net/)
+- ›Books
 
 # Veterinary Books Library
 

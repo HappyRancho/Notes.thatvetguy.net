@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›3rd Year
 
 # 3rd Year Notes & Books
 

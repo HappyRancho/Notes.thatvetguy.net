@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Lumb & Jones Veterinary Anesthesia and Analgesia
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Lumb & Jones Veterinary Anesthesia and Analgesia — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology

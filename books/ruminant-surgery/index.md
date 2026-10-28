@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/ruminant-surgery/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Ruminant Surgery
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Ruminant Surgery — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Surgery and Radiology
