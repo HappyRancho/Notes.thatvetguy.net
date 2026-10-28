@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: pip install fonttools brotli pillow
+      - run: python3 -m pip install --requirement requirements-build.txt
         if: "!contains(github.event.head_commit.message, '[search-keywords]')"
       - run: python3 scripts/prepare-fonts.py
         if: "!contains(github.event.head_commit.message, '[search-keywords]')"

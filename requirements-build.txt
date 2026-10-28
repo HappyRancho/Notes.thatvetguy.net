@@ -1,0 +1,4 @@
+# Versions used by the passing approved-homepage build and QA workflow.
+Pillow==13.0.0
+fonttools==4.68.0
+Brotli==1.2.1

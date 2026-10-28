@@ -11,6 +11,7 @@ jobs:
   audit:
     if: ${{ !contains(github.event.head_commit.message, '[drive-publish]') && !contains(github.event.head_commit.message, '[render-library]') && !contains(github.event.head_commit.message, '[generated]') }}
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -19,6 +20,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements-build.txt
+      - name: Install Python build dependencies
+        run: python3 -m pip install --requirement requirements-build.txt
+      - name: Prepare self-hosted fonts and social-card fonts
+        run: python3 scripts/prepare-fonts.py
       - run: npm install
       - run: npx playwright install --with-deps chromium
       - run: npm run build && npm run check
