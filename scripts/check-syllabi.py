@@ -8,6 +8,10 @@ from syllabus_pages import DATA,checklist_url
 ROOT=Path(__file__).resolve().parent.parent
 resources=json.loads((ROOT/'data/resources.json').read_text());mapping=json.loads((ROOT/'data/subject-map.json').read_text());outlines=json.loads((ROOT/'data/course-outlines.json').read_text())
 assert {(s['year'],s['subject']) for s in DATA['subjects']}=={(int(y),n) for y,names in mapping['years'].items() for n in names}
+def subject_source_check(html,url):
+ schema=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',html,re.S)[1])['@graph']
+ learning=next(x for x in schema if x.get('@id','').endswith('#checklist'))
+ return learning['isBasedOn']['url'].split('#')[0]==url
 allids=[];counts={}
 for s in DATA['subjects']:
  source=json.loads((ROOT/'data/msve-2016-source.json').read_text());assert s['sourceSha256']==source['sha256'] and s['sourceUrl']==source['url']
@@ -31,6 +35,7 @@ for s in DATA['subjects']:
  assert f'href="{parent}practicals/"' in hub and f'href="{path}"' in hub
  assert 'data-reader-tab=' not in hub and 'subject-notes-options' in hub
  assert all(x not in html for x in ['data-resource-id=','data-subject-reader'])
+ assert 'https://notes.thatvetguy.nethttps://' not in html and subject_source_check(html,s['sourceUrl'])
  assert 'Syllabus checklist' in html and path in (ROOT/'llms.txt').read_text()
  counts[s['subject']]={'units':len(s['units']),'topics':s['totalTopics']}
 assert len(allids)==len(set(allids)),'Topic keys must not collide across repeated species or units'

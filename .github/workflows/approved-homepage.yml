@@ -26,7 +26,7 @@ jobs:
       - run: python3 scripts/prepare-fonts.py
         if: "!contains(github.event.head_commit.message, '[search-keywords]')"
       - run: npm install && npx playwright install --with-deps chromium
-        if: "!contains(github.event.head_commit.message, '[search-keywords]')"
+        if: "!contains(github.event.head_commit.message, '[search-keywords]') && !contains(github.event.head_commit.message, '[metadata-only]')"
       - run: npm run build && npm run check
       - name: Render approved homepage
         run: |
@@ -39,7 +39,7 @@ jobs:
             git push origin HEAD:homepage-approved-mockups
           fi
       - run: node scripts/homepage-qa.mjs
-        if: "!contains(github.event.head_commit.message, '[subject-row-fix]') && !contains(github.event.head_commit.message, '[collection-cards]') && !contains(github.event.head_commit.message, '[year-hubs]') && !contains(github.event.head_commit.message, '[roadmap-spacing]') && !contains(github.event.head_commit.message, '[subject-refinement]') && !contains(github.event.head_commit.message, '[search-keywords]') && !contains(github.event.head_commit.message, '[subject-layout]') && !contains(github.event.head_commit.message, '[book-pages]') && !contains(github.event.head_commit.message, '[subject-blueprint]') && !contains(github.event.head_commit.message, '[resource-polish]')"
+        if: "!contains(github.event.head_commit.message, '[subject-row-fix]') && !contains(github.event.head_commit.message, '[collection-cards]') && !contains(github.event.head_commit.message, '[year-hubs]') && !contains(github.event.head_commit.message, '[roadmap-spacing]') && !contains(github.event.head_commit.message, '[subject-refinement]') && !contains(github.event.head_commit.message, '[search-keywords]') && !contains(github.event.head_commit.message, '[subject-layout]') && !contains(github.event.head_commit.message, '[book-pages]') && !contains(github.event.head_commit.message, '[subject-blueprint]') && !contains(github.event.head_commit.message, '[resource-polish]') && !contains(github.event.head_commit.message, '[metadata-only]')"
       - run: node scripts/collection-cards-qa.mjs
         if: contains(github.event.head_commit.message, '[collection-cards]')
       - run: node scripts/year-hubs-qa.mjs
@@ -59,7 +59,7 @@ jobs:
       - run: node scripts/resource-polish-qa.mjs
         if: contains(github.event.head_commit.message, '[resource-polish]')
       - name: Lighthouse and page regression
-        if: "!contains(github.event.head_commit.message, '[search-keywords]')"
+        if: "!contains(github.event.head_commit.message, '[search-keywords]') && !contains(github.event.head_commit.message, '[metadata-only]')"
         run: npm run qa -- mockup-after
         env:
           QA_LIGHTHOUSE_ONLY: ${{ contains(github.event.head_commit.message, '[resource-polish]') && '1' || '' }}

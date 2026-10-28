@@ -109,7 +109,7 @@ def structured(path,title,description,items,home,body,records,date):
     if path.endswith('/syllabus/') and path.startswith('/bvsc/'):
         from syllabus_pages import DATA as SYLLABI,checklist_url
         subject=next(s for s in SYLLABI['subjects'] if checklist_url(s['year'],s['subject'])==path)
-        learning={'@type':'LearningResource','@id':BASE+path+'#checklist','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+str(subject['year']),'learningResourceType':'Syllabus checklist','teaches':subject['subject'],'inLanguage':'en','isBasedOn':{'@type':'DigitalDocument','name':SYLLABI['authority'],'url':BASE+subject['sourceUrl']+'#page='+str(subject['sourcePage'])},'dateModified':date}
+        learning={'@type':'LearningResource','@id':BASE+path+'#checklist','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+str(subject['year']),'learningResourceType':'Syllabus checklist','teaches':subject['subject'],'inLanguage':'en','isBasedOn':{'@type':'DigitalDocument','name':SYLLABI['authority'],'url':(subject['sourceUrl'] if subject['sourceUrl'].startswith('https://') else BASE+subject['sourceUrl'])+'#page='+str(subject['sourcePage'])},'dateModified':date}
         page['mainEntity']={'@id':learning['@id']};graph.append(learning)
     if path.startswith('/books/') and path!='/books/':
         from book_catalogue import books as book_registry
@@ -123,6 +123,7 @@ def structured(path,title,description,items,home,body,records,date):
     pairs=faq_for(path)
     if pairs:graph.append({'@type':'FAQPage','@id':BASE+path+'#faq','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in pairs]})
     for r in records:
+        if r.get('public') is False:continue
         if not r['url'] or escape(r['url'],quote=True) not in body:continue
         for variant in r['variants']:
             graph.append({'@type':'LearningResource','@id':BASE+'/#resource-'+variant['id'],'name':r['title'],'url':variant['url'],'description':r['description'],'learningResourceType':r['type'],'educationalLevel':'BVSc & AH','teaches':r['subject'] or 'Veterinary study','inLanguage':'en','encodingFormat':variant['mime'],'isBasedOn':{'@type':'WebPage','url':variant['url']},**({'creditText':r['sourceCredit']} if r.get('sourceCredit') else {}),**({'dateModified':variant['updated']} if variant.get('updated') else {})})

@@ -16,6 +16,9 @@ for r in folders:
  raw=(ROOT/r['page'].strip('/')/'index.html').read_text();assert raw.count('data-resource-id="'+r['id']+'"')==1
  for alias in r['searchFileIds']:
   if alias!=r['folderId']:assert 'id="file-'+alias+'"' in raw,'Old saved hash lost'
+for page in {r['page'] for r in folders}:
+ raw=(ROOT/page.strip('/')/'index.html').read_text();graph=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',raw,re.S)[1])['@graph'];ids=[x['@id'] for x in graph if '@id' in x];assert len(ids)==len(set(ids)),'Duplicate structured resource entity'
+ listing=next(x for x in graph if x.get('@type')=='ItemList');assert listing['numberOfItems']==sum(r['page']==page for r in folders)
 for y in data['years']:
  for s in y['subjects']:
   path=f'/bvsc/year-{y["year"]}/{s["slug"]}/practicals/';html=(ROOT/path.strip('/')/'index.html').read_text();own=[r for r in folders if r['page']==path]
