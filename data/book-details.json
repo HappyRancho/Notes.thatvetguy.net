@@ -51,7 +51,7 @@
         "width": 520,
         "height": 729,
         "source": "https://drive.google.com/thumbnail?id=1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ&sz=w700",
-        "kind": "file-preview",
+        "kind": "file-cover",
         "oriented": true
       },
       "coverOCR": "",
@@ -72,28 +72,39 @@
       "reviewed": "2026-10-28"
     },
     "animal-nutrition": {
-      "cover": null,
-      "coverOCR": "",
-      "errors": [],
-      "reviewed": "2026-10-28"
-    },
-    "animal-nutrition-7th-edition": {
       "cover": {
         "path": "/assets/books/animal-nutrition-7th-edition.webp",
         "width": 520,
         "height": 677,
         "source": "https://drive.google.com/thumbnail?id=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r&sz=w700",
-        "kind": "file-preview",
+        "kind": "file-cover",
         "oriented": true
       },
-      "coverOCR": "Seventh Edition\n\nANIMAL NUTRITION\n\nP. McDonald\n\nR. A. Edwards\n\nJ. FD. Greenhalgh\n\nC. A. Morgan\n\nL. A. Sinclair\n\nR. G. Wilkinson\n\nre ,\n\n~“\n\na a\n\nes\n\nes",
+      "coverOCR": "",
       "errors": [],
       "reviewed": "2026-10-28"
     },
     "animal-science-refresher": {
-      "cover": null,
+      "cover": {
+        "path": "/assets/books/animal-science-refresher.webp",
+        "width": 386,
+        "height": 500,
+        "source": "https://images-na.ssl-images-amazon.com/images/P/1618138170.01.LZZZZZZZ.jpg",
+        "kind": "reference-cover"
+      },
       "coverOCR": "",
       "errors": [],
+      "reviewed": "2026-10-28"
+    },
+    "applied-nutrition-d-v-reddy": {
+      "cover": {
+        "path": "/assets/books/d-v-reddy-part-2.webp",
+        "width": 520,
+        "height": 673,
+        "source": "https://drive.google.com/thumbnail?id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe&sz=w700",
+        "kind": "file-preview",
+        "oriented": true
+      },
       "reviewed": "2026-10-28"
     },
     "applied-veterinary-gynaecology-and-obstetrics-dr-pradeep": {
@@ -269,19 +280,6 @@
       ],
       "reviewed": "2026-10-28"
     },
-    "d-v-reddy-part-2": {
-      "cover": {
-        "path": "/assets/books/d-v-reddy-part-2.webp",
-        "width": 520,
-        "height": 673,
-        "source": "https://drive.google.com/thumbnail?id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe&sz=w700",
-        "kind": "file-preview",
-        "oriented": true
-      },
-      "coverOCR": "",
-      "errors": [],
-      "reviewed": "2026-10-28"
-    },
     "wall-drug-dose": {
       "cover": null,
       "coverOCR": "",
@@ -351,7 +349,13 @@
       "reviewed": "2026-10-28"
     },
     "farm-animal-surgery": {
-      "cover": null,
+      "cover": {
+        "path": "/assets/books/farm-animal-surgery.webp",
+        "width": 501,
+        "height": 648,
+        "source": "https://images-na.ssl-images-amazon.com/images/P/0323316654.01.LZZZZZZZ.jpg",
+        "kind": "reference-cover"
+      },
       "coverOCR": "",
       "errors": [
         "ISBN cover: HTTP Error 404: Not Found"
@@ -1015,7 +1019,13 @@
       "reviewed": "2026-10-28"
     },
     "textbook-of-veterinary-anatomy": {
-      "cover": null,
+      "cover": {
+        "path": "/assets/books/textbook-of-veterinary-anatomy.webp",
+        "width": 377,
+        "height": 500,
+        "source": "https://images-na.ssl-images-amazon.com/images/P/1416066071.01.LZZZZZZZ.jpg",
+        "kind": "reference-cover"
+      },
       "coverOCR": "",
       "errors": [
         "ISBN cover: HTTP Error 404: Not Found"
@@ -1153,7 +1163,13 @@
       "reviewed": "2026-10-28"
     },
     "veterinary-microbiology-and-microbial-disease": {
-      "cover": null,
+      "cover": {
+        "path": "/assets/books/veterinary-microbiology-and-microbial-disease.webp",
+        "width": 388,
+        "height": 500,
+        "source": "https://images-na.ssl-images-amazon.com/images/P/1119716780.01.LZZZZZZZ.jpg",
+        "kind": "reference-cover"
+      },
       "coverOCR": "",
       "errors": [
         "ISBN cover: HTTP Error 404: Not Found"
@@ -1245,8 +1261,8 @@
     }
   },
   "stats": {
-    "works": 95,
-    "covers": 50,
+    "works": 94,
+    "covers": 54,
     "bibliography": 24
   }
 }
