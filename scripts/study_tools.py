@@ -14,7 +14,7 @@ def intro(b,g,subtitle):
 def related(b,current):
  return '<nav class="tool-related" aria-label="More study tools">'+''.join(b.link(route(g),'<span class="rx-row-icon '+g['tone']+'">'+b.icon(g['icon'])+'</span><span>'+e(g['title'])+'</span>'+b.icon('arrow')) for g in GUIDES if g['id']!=current)+'</nav>'
 def filters(categories,label):
- return '<div class="tool-filters" data-tool-filters aria-label="'+label+'" hidden>'+''.join('<button type="button" data-tool-filter="'+e(c,quote=True)+'" aria-pressed="'+('true' if i==0 else 'false')+'">'+e(c)+'</button>' for i,c in enumerate(['All']+categories))+'</div>'
+ return '<div class="tool-filters js-only" data-tool-filters aria-label="'+label+'">'+''.join('<button type="button" data-tool-filter="'+e(c,quote=True)+'" aria-pressed="'+('true' if i==0 else 'false')+'">'+e(c)+'</button>' for i,c in enumerate(['All']+categories))+'</div>'
 def sources(b,rows):
  return '<details class="tool-sources"><summary>Sources & how this guide was checked '+b.icon('chevron')+'</summary><div><p>Descriptions and next steps are our editorial guidance. Requirements and availability can change; the linked official notice or publisher listing takes priority. Reviewed '+DATA['reviewed']+'.</p><ul>'+''.join('<li>'+b.link(s['url'],e(s['title']))+'<p>'+e(s['note'])+'</p></li>' for s in rows)+'</ul></div></details>'
 def hub(b):
