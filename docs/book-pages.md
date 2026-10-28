@@ -51,3 +51,17 @@ Public Books folder snapshots and original Telegram post links are retained in d
 - Lighthouse mobile: library index 98/100/100/100; four book examples 99/100/100/100 (Performance/Accessibility/Best Practices/SEO).
 - Measured CLS: 0.0057. LCP: 1.95–2.33 seconds; the index and image-heavy Animal Nutrition example exceed the earlier 2.0-second target despite passing the score threshold.
 - Full browser, Lighthouse and screenshot evidence: https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40643471778
+
+## Production findings
+
+The first live crawl returned 200 for all 130 indexable pages and found no canonical, noindex or H1 errors (143 endpoints checked overall). All 20 exact-build page checks passed after Pages finished deployment. Production browser checks: 30 views, no geometry defects or serious/critical axe violations.
+
+Live Lighthouse: performance 97–98, accessibility 100, best practices 100, SEO 92. The SEO deduction is specifically `robots-txt`: Cloudflare injects a managed Content-Signal directive into the otherwise valid repository robots.txt. It also injects AI-training exclusions that conflict with the requested default-allow policy. This is a zone setting; changing the repository robots.txt does not remove the injected prefix.
+
+**Required Cloudflare action:** open the thatvetguy.net zone → AI Crawl Control → Directives and inspect the managed robots.txt status. Turn off Enable Bot Preference Sync / managed robots.txt so the repository controls this file, and review the separate “Block AI bots” setting against your intended allow policy. Preserve the existing site robots.txt and sitemap. Re-run the production workflow after the setting change. No Cloudflare token/zone settings access was available in this session. An unknown robots extension does not by itself establish a Google indexing block; the crawl returned 200 and valid indexing metadata.
+
+A final visual review identified five source scans requiring rotation. The generated cover images now correct their orientation while preserving the original files and source URLs.
+
+Cloudflare documents the current Bot Preference Sync behavior here: https://developers.cloudflare.com/bots/additional-configurations/managed-robots-txt/ and the Directives status view here: https://developers.cloudflare.com/ai-crawl-control/features/track-robots-txt/ . The newer setting prepends managed directives when sync is enabled and a bot policy is restrictive.
+
+Final orientation pass: all 94 book pages retested in both themes, 252 total book-page views without errors; 16 focused regression views without errors; the two changed image examples scored 99/100/100/100 locally. Source thumbnail rotations are explicit in data/book-curation.json and produce separate upright assets without altering originals.

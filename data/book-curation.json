@@ -111,5 +111,12 @@
   },
   "rejectedBibliography": {
     "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": "Catalogue incorrectly credits Arthur Symons; do not publish."
+  },
+  "coverRotations": {
+    "dukes-physiology-of-domestic-animals": 180,
+    "principles-of-meat-science-forrest": 180,
+    "restraint-and-handling-of-wild-and-domestic-animals": 180,
+    "small-animal-ecgs-an-introductory-guide-3rd-edition": 180,
+    "animal-breeding": 90
   }
 }
