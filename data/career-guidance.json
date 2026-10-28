@@ -1,0 +1,171 @@
+{
+  "reviewed": "2026-10-28",
+  "routes": {
+    "companion": {
+      "compare": {
+        "Work": "Pet consultations",
+        "Entry": "BVSc + registration",
+        "Working life": "Clinic; emergencies vary",
+        "Test it": "Supervised clinic shift"
+      },
+      "skills": "Case records; client communication; basic diagnostic reasoning",
+      "progression": "Build general-practice confidence, then consider a focused clinical interest. Specialist training and recognition are separate from simply using a specialist job title.",
+      "questions": "Ask to see the induction plan, who reviews your cases and how referrals work. A large caseload alone does not show how much you will learn."
+    },
+    "livestock": {
+      "compare": {
+        "Work": "Herd and field care",
+        "Entry": "BVSc + registration",
+        "Working life": "Travel; farm emergencies",
+        "Test it": "Supervised herd visit"
+      },
+      "skills": "Herd history; production records; prevention plans",
+      "progression": "Progress may involve herd consultancy, dairy services or a relevant postgraduate discipline. Learn how health advice fits farm resources and economics.",
+      "questions": "Ask about transport, field safety, backup for emergencies and how new vets learn procedures under supervision."
+    },
+    "production": {
+      "compare": {
+        "Work": "Flock/feed systems",
+        "Entry": "Vacancy-specific",
+        "Working life": "Farm, travel or operations",
+        "Test it": "College production visit"
+      },
+      "skills": "Biosecurity; production data; clear technical advice",
+      "progression": "Possible directions include farm health, feed technical services and operational responsibilities. Clinical, commercial and production roles have different entry requirements.",
+      "questions": "Ask whether targets relate to production, sales or health outcomes; check farm residency and travel expectations."
+    },
+    "government": {
+      "compare": {
+        "Work": "Public animal health",
+        "Entry": "Current official notice",
+        "Working life": "Postings; public service",
+        "Test it": "Read one live notice"
+      },
+      "skills": "Syllabus-led preparation; documentation; local communication",
+      "progression": "A state veterinary post, central vacancy and deputation appointment are different routes. Keep a vacancy tracker and a parallel skills plan while preparing.",
+      "questions": "Check recognised degree and registration requirements, domicile or language rules, age cut-off, documents and selection stages in the exact notice."
+    },
+    "armed-forces": {
+      "compare": {
+        "Work": "Army animal health",
+        "Entry": "Current RVC SSC notice",
+        "Working life": "Military postings/training",
+        "Test it": "Read RVC officer notice"
+      },
+      "skills": "Veterinary fundamentals; officer awareness; clear communication",
+      "progression": "Understand both the professional and military responsibilities. Short Service Commission terms, possible later progression and training must come from the applicable Army notice.",
+      "questions": "Confirm medical standards, service liability and category-specific eligibility. CAPF veterinary posts, where advertised, are separate recruitment routes, not interchangeable RVC entries."
+    },
+    "public-health": {
+      "compare": {
+        "Work": "Population/One Health",
+        "Entry": "Role-specific; PG may help",
+        "Working life": "Project, field or policy",
+        "Test it": "Write an evidence brief"
+      },
+      "skills": "Epidemiology; spreadsheets; evidence appraisal",
+      "progression": "Look for the actual qualifications in public-health, food-safety and project vacancies before choosing MVSc, MPH or another course. Not every food-safety role accepts the same degree.",
+      "questions": "Ask what the project delivers, who supervises the work, how long funding lasts and whether field travel is required."
+    },
+    "diagnostics": {
+      "compare": {
+        "Work": "Samples and reports",
+        "Entry": "Lab experience; PG varies",
+        "Working life": "Laboratory; shifts vary",
+        "Test it": "Follow a sample to report"
+      },
+      "skills": "Sample handling; quality assurance; interpretation",
+      "progression": "A diagnostic laboratory and a research laboratory have different outputs. Relevant postgraduate training can support advanced interpretation or research; check each post.",
+      "questions": "Ask about biosafety, validated methods, training and who authorises reports. A test result needs clinical context."
+    },
+    "academia": {
+      "compare": {
+        "Work": "Teaching/research",
+        "Entry": "MVSc/PhD; post-specific",
+        "Working life": "Teaching, lab and writing",
+        "Test it": "Small supervised project"
+      },
+      "skills": "Statistics; research ethics; literature appraisal",
+      "progression": "Choose a discipline and supervisor around the kind of research you want to do. Teaching, project and scientist appointments differ in qualifications, examinations and contract terms.",
+      "questions": "Ask current students about supervision, facilities, thesis timelines, funding and where recent graduates went."
+    },
+    "industry": {
+      "compare": {
+        "Work": "Technical/product roles",
+        "Entry": "Employer-specific",
+        "Working life": "Travel/targets vary",
+        "Test it": "Compare three vacancies"
+      },
+      "skills": "Scientific explanation; presentations; documentation",
+      "progression": "Technical services, regulatory support, product roles and sales are different jobs. Choose a skill to demonstrate, then target vacancies that actually use it.",
+      "questions": "Ask how time is divided between travel, training, desk work and selling, and how performance is measured."
+    },
+    "wildlife": {
+      "compare": {
+        "Work": "Conservation animal care",
+        "Entry": "Registration + role criteria",
+        "Working life": "Field; project posts possible",
+        "Test it": "Formal supervised placement"
+      },
+      "skills": "Biosecurity; welfare; team communication",
+      "progression": "Build relevant experience through recognised placements and mentors. A wildlife interest alone does not establish eligibility for a zoo, rescue or research appointment.",
+      "questions": "Ask about permits, supervision, safety, contract duration and the real daily duties before committing to a placement."
+    },
+    "welfare": {
+      "compare": {
+        "Work": "Shelter/population care",
+        "Entry": "Clinical registration",
+        "Working life": "Facilities and rota vary",
+        "Test it": "Supervised shelter visit"
+      },
+      "skills": "Population records; infection control; team working",
+      "progression": "Shelter medicine combines individual care with programme design. Clinical, welfare-programme and management jobs may have different experience requirements.",
+      "questions": "Ask about caseload limits, facilities, pain management, emergency cover and staff support. Do not infer working hours from the organisation’s mission."
+    },
+    "enterprise": {
+      "compare": {
+        "Work": "Own service/business",
+        "Entry": "Registration + local rules",
+        "Working life": "Business responsibility",
+        "Test it": "Interview five users"
+      },
+      "skills": "Budgeting; records; referrals; service design",
+      "progression": "Validate demand before buying equipment or renting space. Clinical services need professional and local compliance; teaching or technology ventures have their own requirements.",
+      "questions": "Build a break-even estimate using actual quotations: rent, staff, supplies, compliance, insurance where relevant and time when you cannot bill."
+    },
+    "communication": {
+      "compare": {
+        "Work": "Writing/education/tech",
+        "Entry": "Portfolio + role criteria",
+        "Working life": "Desk/team; contract varies",
+        "Test it": "Create a cited explainer"
+      },
+      "skills": "Writing; evidence checking; user understanding",
+      "progression": "Build a portfolio for a specific audience or problem. Product, education and health-data roles need skills beyond veterinary subject knowledge; consider small supervised projects.",
+      "questions": "Ask who checks scientific claims, who owns the work, how revisions are handled and how success is measured."
+    }
+  },
+  "community": [
+    {
+      "title": "A job search is more than an exam",
+      "url": "https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/",
+      "context": "Indian student/vet discussion · personal reports",
+      "observation": "Commenters described finding private roles through seniors and professional networks, alongside job platforms. Salary reports varied and cannot establish what a fresh graduate will earn.",
+      "action": "Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location."
+    },
+    {
+      "title": "Lifestyle belongs in the decision",
+      "url": "https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/",
+      "context": "Indian career discussion · personal reports",
+      "observation": "An intern prioritised staying near home and work–life balance. One reply suggested municipal animal-birth-control work; this is an individual suggestion, not evidence of predictable hours or vacancies.",
+      "action": "Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week."
+    },
+    {
+      "title": "Ask what “mentorship” means on Monday morning",
+      "url": "https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/",
+      "context": "International new-graduate discussion · not Indian recruitment guidance",
+      "observation": "A new graduate described a mismatch between promised support and early clinical responsibility. Replies discussed protected shadowing time, manageable appointments and ready access to a senior vet.",
+      "action": "Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview."
+    }
+  ]
+}
