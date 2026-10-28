@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Drug Index Collection
+- [Home](https://notes.thatvetguy.net/)
+- ›[Clinical Resources](https://notes.thatvetguy.net/#clinical)
+- ›Drug Index
 
 # Drug Index Collection
 

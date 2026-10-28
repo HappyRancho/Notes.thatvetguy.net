@@ -1,6 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year Notes by Subject
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Topic-wise Notes
 
 # 3rd Year Notes by Subject
 
@@ -14,4 +17,4 @@ Choose a 3rd Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Clinical Practices I1 resource](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - [Livestock Farm Practices1 resource](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

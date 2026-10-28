@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/ndri-qbank/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/NDRI Veterinary Question Bank
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›NDRI Veterinary Question Bank — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision

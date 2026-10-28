@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)/Veterinary Microbiology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Microbiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- ›Practical Vault
 
 # Veterinary Microbiology Practical Vault
 

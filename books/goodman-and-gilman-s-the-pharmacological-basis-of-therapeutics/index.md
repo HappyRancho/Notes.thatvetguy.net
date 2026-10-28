@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Goodman and Gilman’s The Pharmacological Basis of Therapeutics
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Goodman and Gilman’s The Pharmacological Basis of Therapeutics — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Pharmacology and Toxicology

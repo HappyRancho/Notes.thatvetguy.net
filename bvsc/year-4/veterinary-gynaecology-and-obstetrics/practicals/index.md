@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)/Veterinary Gynaecology and Obstetrics Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Gynaecology and Obstetrics Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- ›Practical Vault
 
 # Veterinary Gynaecology and Obstetrics Practical Vault
 

@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)/Veterinary Biochemistry Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Biochemistry Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- ›Practical Vault
 
 # Veterinary Biochemistry Practical Vault
 

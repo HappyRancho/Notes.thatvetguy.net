@@ -76,7 +76,7 @@ Study smart. Because suffering manually is outdated.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
-[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)[Find Your Veterinary Career](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
@@ -132,7 +132,8 @@ Canonical: https://notes.thatvetguy.net/bvsc/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/BVSc Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›BVSc
 
 # BVSc Notes & Books
 
@@ -298,7 +299,9 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/1st Year Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›1st Year
 
 # 1st Year Notes & Books
 
@@ -325,7 +328,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Anatomy
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›Veterinary Anatomy Notes, TANUVAS Material & Books
 
 # Veterinary Anatomy
 
@@ -456,7 +462,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Physiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›Veterinary Physiology Notes, TANUVAS Material & Books
 
 # Veterinary Physiology
 
@@ -579,7 +588,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-managem
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Livestock Production Management
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›Livestock Production Management Notes, TANUVAS Material & Books
 
 # Livestock Production Management
 
@@ -756,9 +768,12 @@ Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year Notes by Subject
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›Topic-wise Notes
 
 # 1st Year Notes by Subject
 
@@ -768,7 +783,7 @@ Choose a 1st Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Physiology15 resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 - [Livestock Production Management29 resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
@@ -776,7 +791,9 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/2nd Year Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›2nd Year
 
 # 2nd Year Notes & Books
 
@@ -805,7 +822,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Biochemistry
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›Veterinary Biochemistry Notes, TANUVAS Material & Books
 
 # Veterinary Biochemistry
 
@@ -938,7 +958,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Microbiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›Veterinary Microbiology Notes, TANUVAS Material & Books
 
 # Veterinary Microbiology
 
@@ -1219,7 +1242,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Pathology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›Veterinary Pathology Notes, TANUVAS Material & Books
 
 # Veterinary Pathology
 
@@ -1455,7 +1481,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Genetics and Breeding
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›Animal Genetics and Breeding Notes, TANUVAS Material & Books
 
 # Animal Genetics and Breeding
 
@@ -1665,7 +1694,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Nutrition
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›Animal Nutrition Notes, TANUVAS Material & Books
 
 # Animal Nutrition
 
@@ -1834,9 +1866,12 @@ Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year Notes by Subject
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›Topic-wise Notes
 
 # 2nd Year Notes by Subject
 
@@ -1848,7 +1883,7 @@ Choose a 2nd Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Animal Genetics and Breeding48 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - [Animal Nutrition33 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
@@ -1856,7 +1891,9 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/3rd Year Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›3rd Year
 
 # 3rd Year Notes & Books
 
@@ -1887,7 +1924,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Pharmacology and Toxicology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Veterinary Pharmacology and Toxicology Notes, TANUVAS Material & Books
 
 # Veterinary Pharmacology and Toxicology
 
@@ -2062,7 +2102,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Parasitology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Veterinary Parasitology Notes, TANUVAS Material & Books
 
 # Veterinary Parasitology
 
@@ -2286,7 +2329,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Public Health and Epidemiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Veterinary Public Health and Epidemiology Notes, TANUVAS Material & Books
 
 # Veterinary Public Health and Epidemiology
 
@@ -2468,7 +2514,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technolog
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Products Technology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Livestock Products Technology Notes, TANUVAS Material & Books
 
 # Livestock Products Technology
 
@@ -2697,7 +2746,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husban
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary and Animal Husbandry Extension Education
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Veterinary and Animal Husbandry Extension Education Notes, TANUVAS Material & Books
 
 # Veterinary and Animal Husbandry Extension Education
 
@@ -2858,7 +2910,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Clinical Practices I
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Veterinary Clinical Practices I Notes, TANUVAS Material & Books
 
 # Veterinary Clinical Practices I
 
@@ -2921,7 +2976,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Farm Practices
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Livestock Farm Practices Notes, TANUVAS Material & Books
 
 # Livestock Farm Practices
 
@@ -2982,9 +3040,12 @@ Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year Notes by Subject
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Topic-wise Notes
 
 # 3rd Year Notes by Subject
 
@@ -2998,7 +3059,7 @@ Choose a 3rd Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Clinical Practices I1 resource](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - [Livestock Farm Practices1 resource](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
@@ -3006,7 +3067,9 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/4th Year Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›4th Year
 
 # 4th Year Notes & Books
 
@@ -3034,7 +3097,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Veterinary Medicine Notes, TANUVAS Material & Books
 
 # Veterinary Medicine
 
@@ -3220,7 +3286,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radio
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Surgery and Radiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Veterinary Surgery and Radiology Notes, TANUVAS Material & Books
 
 # Veterinary Surgery and Radiology
 
@@ -3387,7 +3456,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-o
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Gynaecology and Obstetrics
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Veterinary Gynaecology and Obstetrics Notes, TANUVAS Material & Books
 
 # Veterinary Gynaecology and Obstetrics
 
@@ -3504,7 +3576,10 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Clinical Practices II
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Veterinary Clinical Practices II Notes, TANUVAS Material & Books
 
 # Veterinary Clinical Practices II
 
@@ -3564,9 +3639,12 @@ Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year Notes by Subject
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Topic-wise Notes
 
 # 4th Year Notes by Subject
 
@@ -3577,15 +3655,18 @@ Choose a 4th Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Gynaecology and Obstetrics13 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - [Veterinary Clinical Practices II0 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year BVSc & AH Roadmap
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›Year Roadmap
 
 # 1st Year Roadmap
 
@@ -3773,15 +3854,18 @@ Research checked 24 October 2026.
 
 [Read the 1st Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/2nd Year BVSc & AH Roadmap
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›Year Roadmap
 
 # 2nd Year Roadmap
 
@@ -3995,15 +4079,18 @@ Research checked 24 October 2026.
 
 [Read the 2nd Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year BVSc & AH Roadmap
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Year Roadmap
 
 # 3rd Year Roadmap
 
@@ -4243,15 +4330,18 @@ Research checked 24 October 2026.
 
 [Read the 3rd Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year BVSc & AH Roadmap
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Year Roadmap
 
 # 4th Year Roadmap
 
@@ -4458,7 +4548,7 @@ Research checked 24 October 2026.
 
 [Read the 4th Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
@@ -4466,7 +4556,8 @@ Canonical: https://notes.thatvetguy.net/objective/
 
 <!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Objective & Competition Resources
+- [Home](https://notes.thatvetguy.net/)
+- ›Objective Resources
 
 # Objective & Competition Resources
 
@@ -4578,14 +4669,15 @@ Canonical: https://notes.thatvetguy.net/study-tools/
 
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Tools & Tips for Vet Students
+- [Home](https://notes.thatvetguy.net/)
+- ›Tools & Tips
 
 # Tools & Tips for Vet Students
 
 Choose veterinary apps, reliable online reading and career paths worth exploring. Practical guides for life during and after BVSc & AH.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
-[Vet App ShelfFree veterinary apps for revision and field learning, plus 3D species anatomy tools. Find what each app does and when to use it.](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web FinderFind BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in VeterinaryExplore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet Apps for StudentsFree veterinary apps for revision and field learning, plus 3D species anatomy tools. Find what each app does and when to use it.](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes WebsitesFind BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career OptionsExplore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 ## Year Roadmaps
 
@@ -4599,11 +4691,13 @@ Canonical: https://notes.thatvetguy.net/study-tools/vet-apps/
 
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/vet-apps/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- [Home](https://notes.thatvetguy.net/)
+- ›[Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- ›Vet Apps for Students
 
 YOUR POCKET TOOLKIT
 
-# Vet App Shelf
+# Vet Apps for Students
 
 Four free apps. Less searching, more studying.
 
@@ -4621,6 +4715,14 @@ A veterinary e-learning companion for keeping revision material close when you a
 
 BVSc revisionQuick reading
 
+Before you installAccess, best fit and a companion resource.Read answerClose answer+−
+
+- Best fit: A quick revision companion between classes. Pair any summary with the unit in your university outline.
+
+- Access: Free to install · contains ads. Content availability may change.
+
+- Keep in mind: Your syllabus remains the checklist for what you must cover. App content can vary by topic and update.[Find your year’s notes ](https://notes.thatvetguy.net/bvsc/)
+
 Reference
 
 ### VetConnect
@@ -4632,6 +4734,14 @@ Dr. Ghanasyam Joshi
 A veterinary drug index for looking up drug and brand information in an Indian practice context.
 
 Drug-name lookupPharmacology revision
+
+Before you installAccess, best fit and a companion resource.Read answerClose answer+−
+
+- Best fit: Connect a brand name with the generic medicine and its pharmacological class when revising.
+
+- Access: Free to install · contains ads. The listing describes offline and online use.
+
+- Keep in mind: A name match is not a treatment decision. Check species, concentration, route and the current product label.[Browse drug references ](https://notes.thatvetguy.net/clinical/drug-index/)
 
 Reference
 
@@ -4645,6 +4755,14 @@ A broad veterinary reference for reviewing diseases, diagnostic approaches and c
 
 Clinical conceptsSpecies comparisons
 
+Before you installAccess, best fit and a companion resource.Read answerClose answer+−
+
+- Best fit: Read the background to a clinical problem: causes, examination findings and how diagnoses are distinguished.
+
+- Access: Free reference. Download the core content first; some media and features need an internet connection.
+
+- Keep in mind: Separate a broad overview from the patient-specific decision. Check species and article references with your supervisor.[Explore clinical handbooks ](https://notes.thatvetguy.net/clinical/handbooks/)
+
 Field practice
 
 ### IVRI Veterinary Clinical Care
@@ -4656,6 +4774,14 @@ ICAR-IVRI & ICAR-IASRI
 An Indian field-practice learning aid covering common medicine, gynaecology and surgery presentations.
 
 Livestock casesClinical preparation
+
+Before you installAccess, best fit and a companion resource.Read answerClose answer+−
+
+- Best fit: Prepare for livestock case discussions and connect a presentation with the history and examination you need.
+
+- Access: Free to install. Developed by ICAR-IVRI and IASRI; includes clinical explanations and educational procedure videos.
+
+- Keep in mind: Educational procedure material does not replace supervised skills training or local clinical protocols.[Open final-year resources ](https://notes.thatvetguy.net/bvsc/year-4/)
 
 ## Anatomy in 3D
 
@@ -4709,7 +4835,7 @@ Merck Sharp & Dohme LLC
 
 ICAR-IVRI & ICAR-IASRI
 
-[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
+[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
@@ -4719,11 +4845,17 @@ Canonical: https://notes.thatvetguy.net/study-tools/online-resources/
 
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/online-resources/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- [Home](https://notes.thatvetguy.net/)
+- ›[Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- ›Top Vet Notes Websites
 
-Rx Web Finder12 sites
+Rx NotesYour veterinary web guide
 
-# Veterinary resources online
+# Top Vet Notes Websites
+
+Filter veterinary websites by topic or name
+
+12 selected sourcesCurated, not ranked
 
 Independent student resourcevetbvsc.inNotes
 
@@ -4731,9 +4863,15 @@ Independent student resourcevetbvsc.inNotes
 
 BVSc subject and year collections, including links to TANUVAS material.
 
-Good for: Finding a second explanation or a subject collection. Check older course codes against your own outline.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public pages; linked files have their own access settings.
+- Good for: Finding a second explanation or a subject collection. Check older course codes against your own outline.
+
+- Access: Public pages; linked files have their own access settings.
+
+- Start here: Start from your year, then the subject. Match each unit heading to your current outline before collecting PDFs.
+
+- Take away: Write down the unit title, source and any missing topics. Avoid treating an old course code as proof that the syllabus matches.
 
 Independent education sitevetscraft.comNotes
 
@@ -4741,9 +4879,15 @@ Independent education sitevetscraft.comNotes
 
 Readable veterinary topic explanations across basic, production and clinical subjects.
 
-Good for: Understanding a difficult concept before returning to your textbook.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public articles; individual courses may have different access terms.
+- Good for: Understanding a difficult concept before returning to your textbook.
+
+- Access: Public articles; individual courses may have different access terms.
+
+- Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
+
+- Take away: Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete.
 
 Independent student resourcevetsduo.comNotes
 
@@ -4751,9 +4895,15 @@ Independent student resourcevetsduo.comNotes
 
 Subject-based BVSc collections covering basic sciences, animal production and clinical study.
 
-Good for: Comparing lecture notes and locating TANUVAS-labelled collections.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public directory; availability depends on each linked collection.
+- Good for: Comparing lecture notes and locating TANUVAS-labelled collections.
+
+- Access: Public directory; availability depends on each linked collection.
+
+- Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
+
+- Take away: Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete.
 
 Independent study archivedrvet.inNotes
 
@@ -4761,9 +4911,15 @@ Independent study archivedrvet.inNotes
 
 An archive of subject notes, exam material and veterinary study posts.
 
-Good for: Looking for older revision posts or question-paper references. Verify the year and original source.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public posts; external files may require separate access.
+- Good for: Looking for older revision posts or question-paper references. Verify the year and original source.
+
+- Access: Public posts; external files may require separate access.
+
+- Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
+
+- Take away: Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete.
 
 Independent learning platformgreatvets.inNotes
 
@@ -4771,9 +4927,15 @@ Independent learning platformgreatvets.inNotes
 
 Veterinary notes organised for BVSc study and revision.
 
-Good for: Getting a concise topic overview. Check any generated explanation against a textbook.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public notes; other features may require an account.
+- Good for: Getting a concise topic overview. Check any generated explanation against a textbook.
+
+- Access: Public notes; other features may require an account.
+
+- Start here: Use a short explanation to identify what you do not understand, then read the matching textbook section.
+
+- Take away: Check diagrams, species differences and any AI-generated explanation against a credited source.
 
 Publisher referencemsdvetmanual.comClinical
 
@@ -4781,9 +4943,15 @@ Publisher referencemsdvetmanual.comClinical
 
 Veterinary disease overviews, diagnostic background, tables and clinical learning material.
 
-Good for: Reading around a case after rounds; start with the species and clinical problem.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free web reference. Educational use does not replace clinical supervision.
+- Good for: Reading around a case after rounds; start with the species and clinical problem.
+
+- Access: Free web reference. Educational use does not replace clinical supervision.
+
+- Start here: Start with the species and presenting problem. Read the diagnostic approach before jumping to a treatment section.
+
+- Take away: Make a problem list and list the evidence needed to distinguish the possibilities; discuss the case under supervision.
 
 Cornell Universityeclinpath.comClinical
 
@@ -4791,9 +4959,15 @@ Cornell Universityeclinpath.comClinical
 
 An online clinical pathology textbook covering interpretation of haematology, chemistry and other laboratory findings.
 
-Good for: Understanding why a result changes, rather than memorising a reference interval alone.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free educational text; interpret results with the reporting laboratory’s intervals.
+- Good for: Understanding why a result changes, rather than memorising a reference interval alone.
+
+- Access: Free educational text; interpret results with the reporting laboratory’s intervals.
+
+- Start here: Choose the laboratory test or cell finding you need to understand. Read sample quality and interpretation alongside the result.
+
+- Take away: Use the reporting laboratory’s reference interval and consider pre-analytical factors; a number alone is not a diagnosis.
 
 Non-profit education serviceivis.orgResearch
 
@@ -4801,9 +4975,15 @@ Non-profit education serviceivis.orgResearch
 
 Veterinary proceedings, publications and learning resources from an international education network.
 
-Good for: Reading more deeply about a clinical question or preparing a seminar.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free registration may be required; access varies by item.
+- Good for: Reading more deeply about a clinical question or preparing a seminar.
+
+- Access: Free registration may be required; access varies by item.
+
+- Start here: Search a focused species-and-topic question. Check whether the item is a review, a conference proceeding or other learning material.
+
+- Take away: Record publication year and references; use the original study when a specific claim matters.
 
 U.S. National Library of Medicinepubmed.ncbi.nlm.nih.govResearch
 
@@ -4811,9 +4991,15 @@ U.S. National Library of Medicinepubmed.ncbi.nlm.nih.govResearch
 
 A biomedical literature search service that includes veterinary and comparative research.
 
-Good for: Finding a primary study. Add species and study design to your search; read methods before trusting a conclusion.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free search and abstracts; full-text availability depends on the publisher.
+- Good for: Finding a primary study. Add species and study design to your search; read methods before trusting a conclusion.
+
+- Access: Free search and abstracts; full-text availability depends on the publisher.
+
+- Start here: Build a question from species, problem, intervention or exposure, and outcome. Try synonyms if the first search is too narrow.
+
+- Take away: Read the study population, design and limitations. An abstract or a statistically significant result is not enough to establish clinical usefulness.
 
 World Organisation for Animal Healthwoah.orgOfficial
 
@@ -4821,9 +5007,15 @@ World Organisation for Animal Healthwoah.orgOfficial
 
 International standards and manuals for animal health, diagnostic testing, welfare and veterinary public health.
 
-Good for: Looking up the official context for disease control, surveillance or diagnostic standards.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public standards; use the current edition and relevant chapter.
+- Good for: Looking up the official context for disease control, surveillance or diagnostic standards.
+
+- Access: Public standards; use the current edition and relevant chapter.
+
+- Start here: Choose the relevant code or manual and locate the disease or standard by name. Check the edition and chapter.
+
+- Take away: Distinguish international guidance from the rules implemented by the relevant Indian authority or institution.
 
 Veterinary Council of Indiavci.dahd.gov.inOfficial
 
@@ -4831,9 +5023,15 @@ Veterinary Council of Indiavci.dahd.gov.inOfficial
 
 The official collection of veterinary legislation, registration regulations and education standards.
 
-Good for: Checking the source behind a curriculum or registration claim.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public regulations; use your university’s current implementation as well.
+- Good for: Checking the source behind a curriculum or registration claim.
+
+- Access: Public regulations; use your university’s current implementation as well.
+
+- Start here: Find the regulation or educational standard behind the question, then read the relevant clause and amendments.
+
+- Take away: Match the document date to the rule you need; your university’s current notices explain local implementation.
 
 ICAR–Indian Veterinary Research Instituteivri.nic.inOfficial
 
@@ -4841,9 +5039,15 @@ ICAR–Indian Veterinary Research Instituteivri.nic.inOfficial
 
 Official information about master’s study and veterinary disciplines at IVRI.
 
-Good for: Shortlisting postgraduate subjects and checking the institution’s current admission route.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public information; the current admission notice determines eligibility and dates.
+- Good for: Shortlisting postgraduate subjects and checking the institution’s current admission route.
+
+- Access: Public information; the current admission notice determines eligibility and dates.
+
+- Start here: Choose the programme and discipline, then locate the current admission notice and its selection process.
+
+- Take away: Track exam registration, institutional application and counselling separately where required. Check deadlines in the official notice.
 
 No websites in this selection. Try a broader topic or choose All.
 
@@ -4861,7 +5065,7 @@ Use AI as a helper. It can organise reading or explain terminology. Check every 
 
 Curated 2026-10-28. Links open the original websites. Access terms and availability can change; inclusion does not imply endorsement or ownership.
 
-[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
@@ -4871,13 +5075,13 @@ Canonical: https://notes.thatvetguy.net/study-tools/veterinary-careers/
 
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/veterinary-careers/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- [Home](https://notes.thatvetguy.net/)
+- ›[Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+- ›Explore Vet Career Options
 
-THE VETERINARY CAREER EXPLORER
+# Explore Vet Career Options
 
-# Your path after BVSc
-
-Explore the work. Understand the entry route. Find your fit.
+Find the work, training and next step that fit you.
 
 [Explore](#career-routes)[Further study](#pg-or-practice)[Abroad](#overseas)[How to decide](#how-to-decide)
 
@@ -4887,11 +5091,11 @@ Start anywhere.
 
 13 career routes
 
-Open a path to explore
+Tap + to explore
 
 ### Pet clinics & hospitals
 
-Examine pets, explain problems and follow their recovery.
+Examine pets, explain problems and follow their recovery.+−
 
 You might enjoy this if… You enjoy hands-on care and helping worried pet owners.
 
@@ -4911,19 +5115,21 @@ Observe a full clinic shift with permission. Ask how a new graduate gets help wi
 
 Who supervises you? What are the night duties, case load and referral arrangements?
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Case records; client communication; basic diagnostic reasoning
+- Build these skills.: Case records; client communication; basic diagnostic reasoning
 
-Where it can lead. Build general-practice confidence, then consider a focused clinical interest. Specialist training and recognition are separate from simply using a specialist job title.
+- Where it can lead.: Build general-practice confidence, then consider a focused clinical interest. Specialist training and recognition are separate from simply using a specialist job title.
 
-Ask before committing. Ask to see the induction plan, who reviews your cases and how referrals work. A large caseload alone does not show how much you will learn.
+- Ask before committing.: Ask to see the induction plan, who reviews your cases and how referrals work. A large caseload alone does not show how much you will learn.
+
+- Build evidence of your skills.: Prepare an anonymised case discussion under supervision: problem list, reasoning, follow-up and what you learned.
 
 Check the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 ### Livestock & dairy practice
 
-Solve farm problems, from one sick animal to a whole herd.
+Solve farm problems, from one sick animal to a whole herd.+−
 
 You might enjoy this if… You like farms, field visits and practical problem-solving.
 
@@ -4943,19 +5149,21 @@ Join supervised farm rounds. Follow one herd problem from history-taking to a pr
 
 Check travel, emergency cover, biosecurity and whether you will have experienced support.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Herd history; production records; prevention plans
+- Build these skills.: Herd history; production records; prevention plans
 
-Where it can lead. Progress may involve herd consultancy, dairy services or a relevant postgraduate discipline. Learn how health advice fits farm resources and economics.
+- Where it can lead.: Progress may involve herd consultancy, dairy services or a relevant postgraduate discipline. Learn how health advice fits farm resources and economics.
 
-Ask before committing. Ask about transport, field safety, backup for emergencies and how new vets learn procedures under supervision.
+- Ask before committing.: Ask about transport, field safety, backup for emergencies and how new vets learn procedures under supervision.
+
+- Build evidence of your skills.: Turn a supervised herd visit into a one-page observation of records, prevention priorities and practical constraints.
 
 Check the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 ### Poultry, feed & production
 
-Keep flocks healthy and spot problems in production data.
+Keep flocks healthy and spot problems in production data.+−
 
 You might enjoy this if… You enjoy prevention, numbers and improving how a farm works.
 
@@ -4975,19 +5183,21 @@ Visit a unit through your college. Learn its biosecurity routine and one key pro
 
 Is this a health, operations or sales role? Ask about travel, targets and farm residency.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Biosecurity; production data; clear technical advice
+- Build these skills.: Biosecurity; production data; clear technical advice
 
-Where it can lead. Possible directions include farm health, feed technical services and operational responsibilities. Clinical, commercial and production roles have different entry requirements.
+- Where it can lead.: Possible directions include farm health, feed technical services and operational responsibilities. Clinical, commercial and production roles have different entry requirements.
 
-Ask before committing. Ask whether targets relate to production, sales or health outcomes; check farm residency and travel expectations.
+- Ask before committing.: Ask whether targets relate to production, sales or health outcomes; check farm residency and travel expectations.
+
+- Build evidence of your skills.: Explain one production metric and the factors that affect it using an approved, anonymised dataset.
 
 Check the source: [University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
 ### Government veterinary services
 
-Deliver field care and animal-health programmes for communities.
+Deliver field care and animal-health programmes for communities.+−
 
 You might enjoy this if… You want public service, rural outreach and organised programmes.
 
@@ -5007,19 +5217,21 @@ Read one current official vacancy. Make a checklist of eligibility, exam topics,
 
 There is no single exam for every veterinary officer post. Follow the recruiting authority’s notice.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Syllabus-led preparation; documentation; local communication
+- Build these skills.: Syllabus-led preparation; documentation; local communication
 
-Where it can lead. A state veterinary post, central vacancy and deputation appointment are different routes. Keep a vacancy tracker and a parallel skills plan while preparing.
+- Where it can lead.: A state veterinary post, central vacancy and deputation appointment are different routes. Keep a vacancy tracker and a parallel skills plan while preparing.
 
-Ask before committing. Check recognised degree and registration requirements, domicile or language rules, age cut-off, documents and selection stages in the exact notice.
+- Ask before committing.: Check recognised degree and registration requirements, domicile or language rules, age cut-off, documents and selection stages in the exact notice.
+
+- Build evidence of your skills.: Build a one-page tracker from a real official notice: eligibility, syllabus, documents, dates and selection stages.
 
 Check the source: [VCI](#source-registration)[DAHD](#source-dahd)
 
 ### Armed forces · Army RVC
 
-Veterinary care and officer responsibilities in the Indian Army.
+Veterinary care and officer responsibilities in the Indian Army.+−
 
 You might enjoy this if… You want veterinary work within military service and can accept postings, training and service discipline.
 
@@ -5039,19 +5251,21 @@ Read a current or archived RVC officer notice, separate its permanent requiremen
 
 This is an officer career, not simply a clinic job in uniform. Verify service terms, medical standards and posting expectations. Veterinary nursing-assistant recruitment is a different entry route.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Veterinary fundamentals; officer awareness; clear communication
+- Build these skills.: Veterinary fundamentals; officer awareness; clear communication
 
-Where it can lead. Understand both the professional and military responsibilities. Short Service Commission terms, possible later progression and training must come from the applicable Army notice.
+- Where it can lead.: Understand both the professional and military responsibilities. Short Service Commission terms, possible later progression and training must come from the applicable Army notice.
 
-Ask before committing. Confirm medical standards, service liability and category-specific eligibility. CAPF veterinary posts, where advertised, are separate recruitment routes, not interchangeable RVC entries.
+- Ask before committing.: Confirm medical standards, service liability and category-specific eligibility. CAPF veterinary posts, where advertised, are separate recruitment routes, not interchangeable RVC entries.
+
+- Build evidence of your skills.: Summarise an official RVC officer notice and list questions about duties, training and postings for a serving or former officer.
 
 Check the source: [Join Indian Army](#source-army)[PIB](#source-rvc-role)[Army RVC SSC notice](#source-rvc-notice)
 
 ### Public health & One Health
 
-Connect animal health, human health and the environment.
+Connect animal health, human health and the environment.+−
 
 You might enjoy this if… You like outbreaks, population-level questions and working with other disciplines.
 
@@ -5071,19 +5285,21 @@ Write a one-page brief on a zoonosis: who is at risk, what the evidence says and
 
 Before paying for another course, check whether real jobs you want recognise it.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Epidemiology; spreadsheets; evidence appraisal
+- Build these skills.: Epidemiology; spreadsheets; evidence appraisal
 
-Where it can lead. Look for the actual qualifications in public-health, food-safety and project vacancies before choosing MVSc, MPH or another course. Not every food-safety role accepts the same degree.
+- Where it can lead.: Look for the actual qualifications in public-health, food-safety and project vacancies before choosing MVSc, MPH or another course. Not every food-safety role accepts the same degree.
 
-Ask before committing. Ask what the project delivers, who supervises the work, how long funding lasts and whether field travel is required.
+- Ask before committing.: Ask what the project delivers, who supervises the work, how long funding lasts and whether field travel is required.
+
+- Build evidence of your skills.: Write a short evidence brief on a defined animal-health question, distinguishing findings, uncertainty and possible action.
 
 Check the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
 ### Diagnostics & laboratories
 
-Turn a sample into an answer a clinical team can use.
+Turn a sample into an answer a clinical team can use.+−
 
 You might enjoy this if… You enjoy careful methods, microscopy and asking what a result really means.
 
@@ -5103,19 +5319,21 @@ Follow one sample from collection to the final report in your teaching laborator
 
 Ask about quality control, sample safety and supervision. A positive result alone is not a complete diagnosis.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Sample handling; quality assurance; interpretation
+- Build these skills.: Sample handling; quality assurance; interpretation
 
-Where it can lead. A diagnostic laboratory and a research laboratory have different outputs. Relevant postgraduate training can support advanced interpretation or research; check each post.
+- Where it can lead.: A diagnostic laboratory and a research laboratory have different outputs. Relevant postgraduate training can support advanced interpretation or research; check each post.
 
-Ask before committing. Ask about biosafety, validated methods, training and who authorises reports. A test result needs clinical context.
+- Ask before committing.: Ask about biosafety, validated methods, training and who authorises reports. A test result needs clinical context.
+
+- Build evidence of your skills.: Create a sample-to-report flowchart showing identification, transport, quality checks and interpretation under laboratory supervision.
 
 Check the source: [IVRI](#source-ivri)[University of Arizona](#source-careers)
 
 ### Teaching & research
 
-Investigate questions and help the next batch understand them.
+Investigate questions and help the next batch understand them.+−
 
 You might enjoy this if… You enjoy explaining, reading critically and working through uncertain results.
 
@@ -5135,19 +5353,21 @@ Join a supervised literature review or small project. Practise references, resea
 
 Compare the supervisor, funding and hands-on training—not just the degree or institute name.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Statistics; research ethics; literature appraisal
+- Build these skills.: Statistics; research ethics; literature appraisal
 
-Where it can lead. Choose a discipline and supervisor around the kind of research you want to do. Teaching, project and scientist appointments differ in qualifications, examinations and contract terms.
+- Where it can lead.: Choose a discipline and supervisor around the kind of research you want to do. Teaching, project and scientist appointments differ in qualifications, examinations and contract terms.
 
-Ask before committing. Ask current students about supervision, facilities, thesis timelines, funding and where recent graduates went.
+- Ask before committing.: Ask current students about supervision, facilities, thesis timelines, funding and where recent graduates went.
+
+- Build evidence of your skills.: Complete a small literature review with a clear question, reproducible search and a table of study limitations.
 
 Check the source: [IVRI](#source-ivri)[NTA](#source-icar)[University of Arizona](#source-careers)
 
 ### Animal-health industry
 
-Work with medicines, vaccines, products and the people using them.
+Work with medicines, vaccines, products and the people using them.+−
 
 You might enjoy this if… You like science, communication and working with business teams.
 
@@ -5167,19 +5387,21 @@ Compare three genuine vacancies. Highlight repeated skills and make one work sam
 
 Ask how success is measured: sales, training, scientific work or delivery. Check travel and targets.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Scientific explanation; presentations; documentation
+- Build these skills.: Scientific explanation; presentations; documentation
 
-Where it can lead. Technical services, regulatory support, product roles and sales are different jobs. Choose a skill to demonstrate, then target vacancies that actually use it.
+- Where it can lead.: Technical services, regulatory support, product roles and sales are different jobs. Choose a skill to demonstrate, then target vacancies that actually use it.
 
-Ask before committing. Ask how time is divided between travel, training, desk work and selling, and how performance is measured.
+- Ask before committing.: Ask how time is divided between travel, training, desk work and selling, and how performance is measured.
+
+- Build evidence of your skills.: Create a source-checked technical explainer for a specific audience; clearly separate scientific evidence from promotional claims.
 
 Check the source: [University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
 ### Wildlife, zoos & conservation
 
-Support animal health alongside conservation and welfare teams.
+Support animal health alongside conservation and welfare teams.+−
 
 You might enjoy this if… You enjoy teamwork, population health and patient, careful fieldwork.
 
@@ -5199,19 +5421,21 @@ Ask your college about a formal supervised placement. Learn safety and permit re
 
 Check supervision, contract length and duties. Wildlife experience should never mean unsupervised capture or treatment.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Biosecurity; welfare; team communication
+- Build these skills.: Biosecurity; welfare; team communication
 
-Where it can lead. Build relevant experience through recognised placements and mentors. A wildlife interest alone does not establish eligibility for a zoo, rescue or research appointment.
+- Where it can lead.: Build relevant experience through recognised placements and mentors. A wildlife interest alone does not establish eligibility for a zoo, rescue or research appointment.
 
-Ask before committing. Ask about permits, supervision, safety, contract duration and the real daily duties before committing to a placement.
+- Ask before committing.: Ask about permits, supervision, safety, contract duration and the real daily duties before committing to a placement.
+
+- Build evidence of your skills.: Use a permitted observation placement to document quarantine, record-keeping or welfare processes without identifying animals or locations that should stay private.
 
 Check the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
 ### Shelters & animal welfare
 
-Make good care possible for animals with limited resources.
+Make good care possible for animals with limited resources.+−
 
 You might enjoy this if… You value community work and balancing individual care with population needs.
 
@@ -5231,19 +5455,21 @@ Join a recognised supervised programme. Observe pain management, infection contr
 
 Ask about facilities, caseload limits, mentorship and support for staff.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Population records; infection control; team working
+- Build these skills.: Population records; infection control; team working
 
-Where it can lead. Shelter medicine combines individual care with programme design. Clinical, welfare-programme and management jobs may have different experience requirements.
+- Where it can lead.: Shelter medicine combines individual care with programme design. Clinical, welfare-programme and management jobs may have different experience requirements.
 
-Ask before committing. Ask about caseload limits, facilities, pain management, emergency cover and staff support. Do not infer working hours from the organisation’s mission.
+- Ask before committing.: Ask about caseload limits, facilities, pain management, emergency cover and staff support. Do not infer working hours from the organisation’s mission.
+
+- Build evidence of your skills.: With permission, map a shelter’s intake-to-follow-up workflow and propose one measurable record-keeping improvement.
 
 Check the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
 ### Your own veterinary business
 
-Build a clinic, service or product around a real need.
+Build a clinic, service or product around a real need.+−
 
 You might enjoy this if… You enjoy ownership, communication and solving both clinical and business problems.
 
@@ -5263,19 +5489,21 @@ Talk to five potential users. Draft a simple plan for costs, supervision, equipm
 
 Revenue is not profit. Include rent, staff, consumables, compliance and emergency costs.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Budgeting; records; referrals; service design
+- Build these skills.: Budgeting; records; referrals; service design
 
-Where it can lead. Validate demand before buying equipment or renting space. Clinical services need professional and local compliance; teaching or technology ventures have their own requirements.
+- Where it can lead.: Validate demand before buying equipment or renting space. Clinical services need professional and local compliance; teaching or technology ventures have their own requirements.
 
-Ask before committing. Build a break-even estimate using actual quotations: rent, staff, supplies, compliance, insurance where relevant and time when you cannot bill.
+- Ask before committing.: Build a break-even estimate using actual quotations: rent, staff, supplies, compliance, insurance where relevant and time when you cannot bill.
+
+- Build evidence of your skills.: Draft a one-page service concept from user interviews, actual cost quotations, permissions and a realistic referral plan.
 
 Check the source: [VCI](#source-registration)[Virginia Tech](#source-corporate)
 
 ### Writing, education & veterinary tech
 
-Use veterinary knowledge to teach, explain or improve a product.
+Use veterinary knowledge to teach, explain or improve a product.+−
 
 You might enjoy this if… You like clear communication, checking evidence and making helpful resources.
 
@@ -5295,13 +5523,15 @@ Make a small portfolio: a cited explainer, an evidence summary and a patient-edu
 
 Check sources and avoid unsupported claims. A focused portfolio is more useful than calling yourself an expert.
 
-Skills, progression & questionsLook beyond the job title.
+Skills, progression & questionsLook beyond the job title.Read answerClose answer+−
 
-Build these skills. Writing; evidence checking; user understanding
+- Build these skills.: Writing; evidence checking; user understanding
 
-Where it can lead. Build a portfolio for a specific audience or problem. Product, education and health-data roles need skills beyond veterinary subject knowledge; consider small supervised projects.
+- Where it can lead.: Build a portfolio for a specific audience or problem. Product, education and health-data roles need skills beyond veterinary subject knowledge; consider small supervised projects.
 
-Ask before committing. Ask who checks scientific claims, who owns the work, how revisions are handled and how success is measured.
+- Ask before committing.: Ask who checks scientific claims, who owns the work, how revisions are handled and how success is measured.
+
+- Build evidence of your skills.: Build a small portfolio containing a cited explainer, an edited teaching note and a clear visual explanation for a defined audience.
 
 Check the source: [University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
@@ -5317,27 +5547,29 @@ Use this to start a conversation, then check the actual role.
 
 Job, MVSc or another degree? Start with the work you want to learn.
 
-Work first or study further?Choose the training for the work you want.
+Tap a question to open its answer
 
-Start with a supervised job if… you need income, want to test a work setting or need clinical confidence. Compare the mentor and induction plan, not just the hospital name. A job can clarify a later postgraduate choice; keep an eye on admission cycles.
+Work first or study further?Choose the training for the work you want.Read answerClose answer+−
 
-Consider MVSc if… a discipline genuinely interests you or the roles you want require relevant postgraduate training. Clinical subjects, diagnostics, production and public health lead to different daily work. An MVSc is not a guarantee of a faculty post or a recognised specialist title.
+- Start with a supervised job if…: you need income, want to test a work setting or need clinical confidence. Compare the mentor and induction plan, not just the hospital name. A job can clarify a later postgraduate choice; keep an eye on admission cycles.
 
-Consider a PhD if… you enjoy forming questions, analysing evidence and writing—not only learning facts. Check the actual research or teaching posts you hope to pursue, then assess the supervisor, project, funding and facilities.
+- Consider MVSc if…: a discipline genuinely interests you or the roles you want require relevant postgraduate training. Clinical subjects, diagnostics, production and public health lead to different daily work. An MVSc is not a guarantee of a faculty post or a recognised specialist title.
 
-MPH, management or data training? Start from vacancies that accept your qualification. Public-health, business and technology courses vary in eligibility and outcomes. Ask whether the course teaches a missing skill; an additional degree alone does not qualify you for every related job.
+- Consider a PhD if…: you enjoy forming questions, analysing evidence and writing—not only learning facts. Check the actual research or teaching posts you hope to pursue, then assess the supervisor, project, funding and facilities.
 
-Which postgraduate discipline fits?Match the work, then investigate the department.
+- MPH, management or data training?: Start from vacancies that accept your qualification. Public-health, business and technology courses vary in eligibility and outcomes. Ask whether the course teaches a missing skill; an additional degree alone does not qualify you for every related job.
 
-Patients & procedures Explore medicine, surgery, gynaecology or other relevant clinical disciplines. Ask about supervised caseload, procedures, referral work and how responsibilities increase.
+Which postgraduate discipline fits?Match the work, then investigate the department.Read answerClose answer+−
 
-Samples & mechanisms Explore pathology, microbiology, parasitology, pharmacology or related research areas. Look for functioning equipment, biosafety, sample access and training in interpreting results.
+- Patients & procedures: Explore medicine, surgery, gynaecology or other relevant clinical disciplines. Ask about supervised caseload, procedures, referral work and how responsibilities increase.
 
-Herds, food & populations Explore nutrition, genetics, production, livestock products, epidemiology or public health. Check the field projects, datasets, industry links and the work graduates actually enter.
+- Samples & mechanisms: Explore pathology, microbiology, parasitology, pharmacology or related research areas. Look for functioning equipment, biosafety, sample access and training in interpreting results.
 
-Foundations & teaching Anatomy, physiology and biochemistry can lead towards teaching and research. Ask what methods you will learn and check current appointment requirements before assuming a teaching route.
+- Herds, food & populations: Explore nutrition, genetics, production, livestock products, epidemiology or public health. Check the field projects, datasets, industry links and the work graduates actually enter.
 
-Admissions: follow the right routeAn exam application and a college application can be separate.
+- Foundations & teaching: Anatomy, physiology and biochemistry can lead towards teaching and research. Ask what methods you will learn and check current appointment requirements before assuming a teaching route.
+
+Admissions: follow the right routeAn exam application and a college application can be separate.Read answerClose answer+−
 
 - Pick the programme and institution. Read its current prospectus, recognised qualifications, subject eligibility and registration or internship requirements.
 - Identify the exact selection route. Check whether the applicable veterinary seats use an ICAR-linked process, a university examination or another route. Do not assume one exam covers every MVSc seat.
@@ -5346,105 +5578,129 @@ Admissions: follow the right routeAn exam application and a college application 
 
 [NTA: current ICAR notices](#source-pg-nta)[IVRI: MVSc information](#source-ivri)[TANUVAS: PG admissions](#source-pg-tanuvas)
 
-Before accepting a seatTalk to current students as well as the department.
+Before accepting a seatTalk to current students as well as the department.Read answerClose answer+−
 
-Learning quality Who supervises you? How often do you meet? Is the promised clinical exposure or laboratory facility actually available to students?
+- Learning quality: Who supervises you? How often do you meet? Is the promised clinical exposure or laboratory facility actually available to students?
 
-Money & time Get written information on fees, stipend availability, accommodation, bonds and conditions. Include living costs and income you would forgo; do not budget from an old social-media post.
+- Money & time: Get written information on fees, stipend availability, accommodation, bonds and conditions. Include living costs and income you would forgo; do not budget from an old social-media post.
 
-Outcomes Ask what recent graduates do and how the programme helped them get there. Speak to more than one student; one excellent or unhappy experience is not the whole department.
+- Outcomes: Ask what recent graduates do and how the programme helped them get there. Speak to more than one student; one excellent or unhappy experience is not the whole department.
 
-A useful final question If this degree did not bring an immediate job offer, would the training still move you towards work you want to do?
+- A useful final question: If this degree did not bring an immediate job offer, would the training still move you towards work you want to do?
+
+Compare two departments fairlyAsk for evidence behind each promise.Read answerClose answer+−
+
+- Supervision & access: Ask who will teach the methods you want to learn, how often you meet and whether students can use the advertised facilities. Speak to current students in that discipline.
+
+- Project feasibility: Check whether the proposed work has the samples, approvals, equipment, data and funding it needs. Ask what happens when a key resource is unavailable.
+
+- Training you can demonstrate: List the procedures, analytical methods, writing or teaching experience you expect to leave with. Ask how feedback and assessment make those skills visible.
+
+- Total commitment: Compare tuition, living costs, confirmed funding, bond terms and realistic completion expectations. Record unknown costs instead of assuming a stipend will cover them.
 
 ## Work abroad: know the route
 
 Choose a destination to see the steps and what needs checking.
 
+Tap a question to open its answer
+
 A master’s abroad is not a clinical licence. Research, study, registration, employment and visas each have their own rules.
 
-United KingdomRCVS recognition → registration
+United KingdomRCVS recognition → registrationRead answerClose answer+−
 
-1 · Check recognition Use the RCVS guidance for your exact primary qualification. Do not assume that an Indian BVSc or a UK master’s automatically permits clinical practice.
+- 1 · Check recognition: Use the RCVS guidance for your exact primary qualification. Do not assume that an Indian BVSc or a UK master’s automatically permits clinical practice.
 
-2 · Follow the applicable route If your qualification is not recognised, check eligibility for the statutory membership examination, including documents, English requirements and the current written and clinical assessment process.
+- 2 · Follow the applicable route: If your qualification is not recognised, check eligibility for the statutory membership examination, including documents, English requirements and the current written and clinical assessment process.
 
-3 · Plan beyond the exam Complete the applicable registration requirements, then separately check immigration permission and employment. Ask a prospective employer about induction and support.
+- 3 · Plan beyond the exam: Complete the applicable registration requirements, then separately check immigration permission and employment. Ask a prospective employer about induction and support.
 
 [RCVS: recognition and statutory exam](#source-rcvs)
 
-United StatesEquivalency + NAVLE + state requirements
+United StatesEquivalency + NAVLE + state requirementsRead answerClose answer+−
 
-1 · Choose a jurisdiction Check the state licensing board before paying for an equivalency pathway. Acceptance of ECFVG or PAVE and additional requirements must be verified for that jurisdiction.
+- 1 · Choose a jurisdiction: Check the state licensing board before paying for an equivalency pathway. Acceptance of ECFVG or PAVE and additional requirements must be verified for that jurisdiction.
 
-2 · Map the assessments Graduates of non-accredited schools may need an educational equivalency pathway. Check the applicable BCSE or QSE milestone for NAVLE eligibility, plus the remaining clinical and credential requirements.
+- 2 · Map the assessments: Graduates of non-accredited schools may need an educational equivalency pathway. Check the applicable BCSE or QSE milestone for NAVLE eligibility, plus the remaining clinical and credential requirements.
 
-3 · Finish the licensing route Passing NAVLE alone is not a licence. Check the state’s application, remaining examinations or documentation, and immigration/work authorisation separately.
+- 3 · Finish the licensing route: Passing NAVLE alone is not a licence. Check the state’s application, remaining examinations or documentation, and immigration/work authorisation separately.
 
 [ICVA: NAVLE application and eligibility](#source-icva)
 
-CanadaNEB certification → provincial registration
+CanadaNEB certification → provincial registrationRead answerClose answer+−
 
-1 · Start with the NEB Check how your qualification is assessed and which examinations or recognised equivalencies apply. The Canadian process should not be treated as identical to a US state licence.
+- 1 · Start with the NEB: Check how your qualification is assessed and which examinations or recognised equivalencies apply. The Canadian process should not be treated as identical to a US state licence.
 
-2 · Understand the sequence For the applicable non-accredited-graduate pathway, review BCSE, NAVLE and the clinical assessment requirements, including PSA/CPE where required. Use the current NEB rules for ordering and eligibility.
+- 2 · Understand the sequence: For the applicable non-accredited-graduate pathway, review BCSE, NAVLE and the clinical assessment requirements, including PSA/CPE where required. Use the current NEB rules for ordering and eligibility.
 
-3 · Check the province The NEB Certificate of Qualification and registration with the intended provincial regulator are distinct stages. Language, local registration and immigration requirements also need checking.
+- 3 · Check the province: The NEB Certificate of Qualification and registration with the intended provincial regulator are distinct stages. Language, local registration and immigration requirements also need checking.
 
 [CVMA/NEB: examinations and certification](#source-canada-neb)
 
-Australia & New ZealandRecognised qualification or AVE route
+Australia & New ZealandRecognised qualification or AVE routeRead answerClose answer+−
 
-1 · Check your qualification Use AVBC’s recognition guidance. If your qualification is not recognised, establish eligibility for the Australasian Veterinary Examination before planning a move.
+- 1 · Check your qualification: Use AVBC’s recognition guidance. If your qualification is not recognised, establish eligibility for the Australasian Veterinary Examination before planning a move.
 
-2 · Read the current handbook Check the preliminary and clinical examination pathway, language and document requirements, available sittings and applicable fees. Budget for the route you actually need.
+- 2 · Read the current handbook: Check the preliminary and clinical examination pathway, language and document requirements, available sittings and applicable fees. Budget for the route you actually need.
 
-3 · Register where you will work Examination success and registration are separate. Check the relevant Australian state or territory board, or the Veterinary Council of New Zealand, plus immigration and employment requirements.
+- 3 · Register where you will work: Examination success and registration are separate. Check the relevant Australian state or territory board, or the Veterinary Council of New Zealand, plus immigration and employment requirements.
 
 [AVBC: Australasian Veterinary Examination](#source-avbc)
 
-Can I afford the route?Build a budget before choosing a country.
+Can I afford the route?Build a budget before choosing a country.Read answerClose answer+−
 
-Price the full journey List credential verification, language tests, each assessment, preparation, clinical placements where required, travel, accommodation, registration and visa costs using current official figures.
+- Price the full journey: List credential verification, language tests, each assessment, preparation, clinical placements where required, travel, accommodation, registration and visa costs using current official figures.
 
-Plan for delays Include living costs, limited earning opportunities while preparing and a retake contingency. A friend’s timeline or an agent’s promise is not a regulator’s guarantee.
+- Plan for delays: Include living costs, limited earning opportunities while preparing and a retake contingency. A friend’s timeline or an agent’s promise is not a regulator’s guarantee.
 
-Keep a second option Decide what you will do while waiting: supervised work, relevant research or another realistic local role. Set a spending limit and a date to review progress.
+- Keep a second option: Decide what you will do while waiting: supervised work, relevant research or another realistic local role. Set a spending limit and a date to review progress.
 
-Verify before paying Use the regulator’s current handbook and fee schedule. Check any course or agent’s claims directly; no preparation provider can guarantee a licence or job.
+- Verify before paying: Use the regulator’s current handbook and fee schedule. Check any course or agent’s claims directly; no preparation provider can guarantee a licence or job.
+
+Build your document & cost trackerOne checklist for the country you choose.Read answerClose answer+−
+
+- Documents: Check the regulator’s current list for degree and transcripts, registration or good-standing evidence, identity documents, English evidence and any certified translations. Note who must send each document and its validity period.
+
+- Cost ledger: Create a row for every required stage: official fee, currency, payment deadline, travel, living costs and retake contingency. Mark estimates separately from confirmed quotations.
+
+- Eligibility before bookings: Confirm that you qualify for the next assessment before paying for preparation or travel. Exam eligibility, a job offer and permission to work are separate checks.
+
+- Employer questions: Ask which duties you can legally perform before registration, who provides supervision, and whether any promised sponsorship or reimbursement is in writing. Verify the answer with the regulator or immigration authority.
 
 ## How to decide
 
 Find a direction that fits your life—and test it before committing.
 
+Tap a question to open its answer
+
 Choose the next useful step, not your whole life. Compare two realistic opportunities and find out what is still unknown.
 
-1. Set your non-negotiablesLocation, finances, hours and support.
+1. Set your non-negotiablesLocation, finances, hours and support.Read answerClose answer+−
 
-What must be true? Write down your minimum income needs, acceptable locations, family responsibilities and how long you can fund study or exam preparation. Separate a requirement from a preference.
+- What must be true?: Write down your minimum income needs, acceptable locations, family responsibilities and how long you can fund study or exam preparation. Separate a requirement from a preference.
 
-Which working day suits you? Think about consultations, procedures, farm travel, laboratory work, data, writing or teaching. Consider nights, emergencies and public-facing work—not only your favourite subject.
+- Which working day suits you?: Think about consultations, procedures, farm travel, laboratory work, data, writing or teaching. Consider nights, emergencies and public-facing work—not only your favourite subject.
 
-What support do you need now? A first role should match your competence. Identify the supervision, equipment and escalation support needed to work safely; a prestigious title does not replace them.
+- What support do you need now?: A first role should match your competence. Identify the supervision, equipment and escalation support needed to work safely; a prestigious title does not replace them.
 
-2. Compare opportunities, not stereotypes“Government” or “private” is not a job description.
+2. Compare opportunities, not stereotypes“Government” or “private” is not a job description.Read answerClose answer+−
 
-Use the same questions For each option record daily work, eligibility, actual location, take-home pay, duty hours, mentorship and the next learning opportunity. Mark unknown answers as unknown rather than scoring them optimistically.
+- Use the same questions: For each option record daily work, eligibility, actual location, take-home pay, duty hours, mentorship and the next learning opportunity. Mark unknown answers as unknown rather than scoring them optimistically.
 
-Read the written terms Check allowances, accommodation, probation, notice, bond conditions and contract duration. Government vacancies also have specific posting and selection rules; do not assume a post will open when you need it.
+- Read the written terms: Check allowances, accommodation, probation, notice, bond conditions and contract duration. Government vacancies also have specific posting and selection rules; do not assume a post will open when you need it.
 
-Choose your trade-off Decide what matters most right now. A better mentor may outweigh a modest pay difference; family location may outweigh a preferred sector. There is no universal best order.
+- Choose your trade-off: Decide what matters most right now. A better mentor may outweigh a modest pay difference; family location may outweigh a preferred sector. There is no universal best order.
 
-Ask about a normal week Speak to a recent graduate and someone established in the exact kind of role. Ask what takes most of their time, what is difficult and what they wish they had checked before joining.
+- Ask about a normal week: Speak to a recent graduate and someone established in the exact kind of role. Ask what takes most of their time, what is difficult and what they wish they had checked before joining.
 
-3. Try a small version of the workReplace guessing with an experience you can reflect on.
+3. Try a small version of the workReplace guessing with an experience you can reflect on.Read answerClose answer+−
 
-Arrange a safe trial Through your college, request an approved observation visit, supervised placement or small project. Do not independently perform clinical work beyond your training or registration.
+- Arrange a safe trial: Through your college, request an approved observation visit, supervised placement or small project. Do not independently perform clinical work beyond your training or registration.
 
-Notice what energises you After the experience, record what you enjoyed, what drained you, what you could improve with practice and which conditions would need to change.
+- Notice what energises you: After the experience, record what you enjoyed, what drained you, what you could improve with practice and which conditions would need to change.
 
-Make one reversible commitment Apply for a suitable role, visit a department, learn one relevant method or start a defined exam-preparation block. Set a review date and decide what evidence would make you change direction.
+- Make one reversible commitment: Apply for a suitable role, visit a department, learn one relevant method or start a defined exam-preparation block. Set a review date and decide what evidence would make you change direction.
 
-4. Interview the employer or supervisorFive answers worth getting before you say yes.
+4. Prepare to apply & decideQuestions, work samples and your decision worksheet.Read answerClose answer+−
 
 - Mentorship: Who is the named supervisor, when do we work together and who covers their absence?
 - Workload: What are the actual rota, emergency duties, travel and time-off arrangements?
@@ -5452,33 +5708,43 @@ Make one reversible commitment Apply for a suitable role, visit a department, le
 - Learning: Is there protected feedback time, training, equipment and access to the cases or methods promised?
 - Terms: Can I see pay, deductions, contract length, notice and any bond in writing?
 
-What real-world discussions can teach usThree experiences, translated into better questions.
+Make an application that shows your strengthsA concise CV, a work sample and a vacancy tracker.Read answerClose answer+−
+
+- Tailor the first page: Match your qualifications and actual experience to the essential criteria. Describe your contribution honestly: observed, assisted and independently performed are different levels of responsibility.
+
+- Show one relevant example: Use an anonymised, authorised case discussion, evidence brief, research summary or technical explainer. Explain what you did, what you learned and who supervised it.
+
+- Track the process: Record the official vacancy URL, deadline, required documents, contact, application date and follow-up. Keep a copy of the advertisement and your submitted application.
+
+- Check the offer: Confirm the employer, duties, pay, supervision, contract and location through reliable contact channels. Compare the actual opportunity with your priorities before accepting.
+
+Your decision worksheetFill it in, then copy it for your own notes.Read answerClose answer+−
+
+Use two real opportunities. Your answers stay in this page; they are not submitted or saved.
+
+My three prioritiesThe two options and what I still need to checkMy next action and review date
+
+Lessons from working vets on RedditThree experiences, translated into better questions.Read answerClose answer+−
 
 These are individual Reddit experiences, not verified employment statistics or eligibility guidance. We use them to identify questions worth asking; salary claims are not treated as evidence.
 
-A job search is more than an examIndian student/vet discussion · personal reports
+A job search is more than an examIndian student/vet discussion · personal reportsRead answerClose answer+−
 
-What the discussion raised. Commenters described finding private roles through seniors and professional networks, alongside job platforms. Salary reports varied and cannot establish what a fresh graduate will earn.
+- What the discussion raised.: Commenters described finding private roles through seniors and professional networks, alongside job platforms. Salary reports varied and cannot establish what a fresh graduate will earn.
 
-Our practical takeaway. Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location.
+- Our practical takeaway.: Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/)
 
-[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/)
+Lifestyle belongs in the decisionIndian career discussion · personal reportsRead answerClose answer+−
 
-Lifestyle belongs in the decisionIndian career discussion · personal reports
+- What the discussion raised.: An intern prioritised staying near home and work–life balance. One reply suggested municipal animal-birth-control work; this is an individual suggestion, not evidence of predictable hours or vacancies.
 
-What the discussion raised. An intern prioritised staying near home and work–life balance. One reply suggested municipal animal-birth-control work; this is an individual suggestion, not evidence of predictable hours or vacancies.
+- Our practical takeaway.: Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/)
 
-Our practical takeaway. Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week.
+Ask what “mentorship” means on Monday morningInternational new-graduate discussion · not Indian recruitment guidanceRead answerClose answer+−
 
-[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/)
+- What the discussion raised.: A new graduate described a mismatch between promised support and early clinical responsibility. Replies discussed protected shadowing time, manageable appointments and ready access to a senior vet.
 
-Ask what “mentorship” means on Monday morningInternational new-graduate discussion · not Indian recruitment guidance
-
-What the discussion raised. A new graduate described a mismatch between promised support and early clinical responsibility. Replies discussed protected shadowing time, manageable appointments and ready access to a senior vet.
-
-Our practical takeaway. Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview.
-
-[Read the original discussion](https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/)
+- Our practical takeaway.: Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview.[Read the original discussion](https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/)
 
 Official checks & further reading 
 
@@ -5546,7 +5812,7 @@ Institution-specific entry routes, eligibility and counselling. Current prospect
 
 Canadian NEB requirements and examinations; provincial registration is a separate step.
 
-[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)
+[Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
@@ -5554,9 +5820,10 @@ Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/about/
 
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/About Notes.ThatVetGuy
+- [Home](https://notes.thatvetguy.net/)
+- ›About
 
 # About Notes.ThatVetGuy
 
@@ -5586,15 +5853,16 @@ Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/request-resource/
 
-<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Can’t find what you need?
+- [Home](https://notes.thatvetguy.net/)
+- ›Request a Resource
 
 # Can’t find what you need?
 
@@ -5634,7 +5902,7 @@ Can I contribute a resource?
 
 Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
 
 ---
@@ -5642,7 +5910,8 @@ Canonical: https://notes.thatvetguy.net/search/
 
 <!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Find it. Study it.
+- [Home](https://notes.thatvetguy.net/)
+- ›Search
 
 # Find it. Study it.
 
@@ -5703,7 +5972,9 @@ Canonical: https://notes.thatvetguy.net/clinical/handbooks/
 
 <!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Handbooks
+- [Home](https://notes.thatvetguy.net/)
+- ›[Clinical Resources](https://notes.thatvetguy.net/#clinical)
+- ›Handbooks
 
 # Handbooks
 
@@ -5769,7 +6040,9 @@ Canonical: https://notes.thatvetguy.net/clinical/drug-index/
 
 <!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Drug Index Collection
+- [Home](https://notes.thatvetguy.net/)
+- ›[Clinical Resources](https://notes.thatvetguy.net/#clinical)
+- ›Drug Index
 
 # Drug Index Collection
 
@@ -5831,7 +6104,8 @@ Canonical: https://notes.thatvetguy.net/books/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Veterinary Books Library
+- [Home](https://notes.thatvetguy.net/)
+- ›Books
 
 # Veterinary Books Library
 
@@ -6063,7 +6337,9 @@ Canonical: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/A Textbook of Animal Husbandry
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›A Textbook of Animal Husbandry — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Livestock Production Management
@@ -6118,7 +6394,9 @@ Canonical: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-p
 
 <!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/A Textbook of Veterinary General Pathology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›A Textbook of Veterinary General Pathology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Pathology
@@ -6173,7 +6451,9 @@ Canonical: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edit
 
 <!-- Canonical: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Adam's Lameness in Horses 7th Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Adam's Lameness in Horses 7th Edition — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology
@@ -6226,7 +6506,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-capsule/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-capsule/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/All in One Veterinary Capsule
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›All in One Veterinary Capsule — Telegram Download
 
 Cover unavailable
 Study book · veterinary revision
@@ -6271,7 +6553,9 @@ Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Ananthanarayan and Paniker’s Textbook of Microbiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Ananthanarayan and Paniker’s Textbook of Microbiology — Details & Drive Access
 
 Cover from the linked file.
 Book · Veterinary Microbiology
@@ -6326,7 +6610,9 @@ Canonical: https://notes.thatvetguy.net/books/animal-breeding/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/animal-breeding/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Animal breeding
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Animal breeding — Details & Drive Access
 
 Preview from the linked source file.
 Book · Animal Genetics and Breeding
@@ -6377,7 +6663,9 @@ Canonical: https://notes.thatvetguy.net/books/animal-nutrition/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/animal-nutrition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Animal Nutrition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Animal Nutrition — Details & Drive Access
 
 Cover from the linked file.
 Book · Animal Nutrition
@@ -6432,7 +6720,9 @@ Canonical: https://notes.thatvetguy.net/books/animal-science-refresher/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/animal-science-refresher/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Animal Science Refresher
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Animal Science Refresher — Telegram Download
 
 Reference cover; the linked edition may differ.
 Study book · veterinary revision
@@ -6481,7 +6771,9 @@ Canonical: https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals — Details & Drive Access
 
 Preview from the linked source file.
 Book · Animal Nutrition
@@ -6536,7 +6828,9 @@ Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and
 
 <!-- Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Applied Veterinary Gynaecology and Obstetrics Dr Pradeep
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Gynaecology and Obstetrics
@@ -6589,7 +6883,9 @@ Canonical: https://notes.thatvetguy.net/books/biochemistry/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/biochemistry/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Biochemistry
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Biochemistry — BVSc Reading Guide
 
 Cover unavailable
 Book · Veterinary Biochemistry
@@ -6640,7 +6936,9 @@ Canonical: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handb
 
 <!-- Canonical: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Surgery and Radiology
@@ -6693,7 +6991,9 @@ Canonical: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-an
 
 <!-- Canonical: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Canine and Feline Endocrinology and Reproduction
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Canine and Feline Endocrinology and Reproduction — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Gynaecology and Obstetrics
@@ -6754,7 +7054,9 @@ Canonical: https://notes.thatvetguy.net/books/clinical-examination-of-farm-anima
 
 <!-- Canonical: https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Clinical Examination of Farm Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Clinical Examination of Farm Animals — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine
@@ -6815,7 +7117,9 @@ Canonical: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermat
 
 <!-- Canonical: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Clinical Handbook on Canine Dermatology 3rd Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Clinical Handbook on Canine Dermatology 3rd Edition — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Medicine
@@ -6868,7 +7172,9 @@ Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histolog
 
 <!-- Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Color Atlas of Veterinary Histology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Color Atlas of Veterinary Histology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy
@@ -6927,7 +7233,9 @@ Canonical: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of
 
 <!-- Canonical: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Color handbook of Skin Diseases of Dog and Cat
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Color handbook of Skin Diseases of Dog and Cat — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine
@@ -6988,7 +7296,9 @@ Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy
 
 <!-- Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Colour Atlas of Veterinary Anatomy - The Ruminants
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Colour Atlas of Veterinary Anatomy - The Ruminants — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Anatomy
@@ -7039,7 +7349,9 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-colour-handbook/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-colour-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Colour Handbook of Small Animal Emergency and Critical Care
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Colour Handbook of Small Animal Emergency and Critical Care — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference
@@ -7086,7 +7398,9 @@ Canonical: https://notes.thatvetguy.net/books/dhruv-desai/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/dhruv-desai/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Compiled Question Bank by Dhruv N Desai
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Compiled Question Bank by Dhruv N Desai — Telegram Download
 
 Cover unavailable
 Study book · veterinary revision
@@ -7135,7 +7449,9 @@ Canonical: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinar
 
 <!-- Canonical: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Cunningham’s Textbook of Veterinary Physiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Cunningham’s Textbook of Veterinary Physiology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Physiology
@@ -7190,7 +7506,9 @@ Canonical: https://notes.thatvetguy.net/books/wall-drug-dose/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/wall-drug-dose/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Drug Dose — Wall Reference
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Drug Dose — Wall Reference — Telegram Download
 
 Cover unavailable
 Reference sheet · clinical reference
@@ -7237,7 +7555,9 @@ Canonical: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-anima
 
 <!-- Canonical: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Dukes’ Physiology of Domestic Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Dukes’ Physiology of Domestic Animals — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Physiology
@@ -7292,7 +7612,9 @@ Canonical: https://notes.thatvetguy.net/books/e-nanu-qbank/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/e-nanu-qbank/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/E. Nanu Veterinary Question Bank
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›E. Nanu Veterinary Question Bank — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision
@@ -7341,7 +7663,9 @@ Canonical: https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology
 
 <!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Essentials of Medical Pharmacology - K.D.Tripathi
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Essentials of Medical Pharmacology - K.D.Tripathi — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Pharmacology and Toxicology
@@ -7396,7 +7720,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-histology-and-embryolog
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Essentials of Veterinary Histology & Embryology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Essentials of Veterinary Histology & Embryology — Telegram Download
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy
@@ -7451,7 +7777,9 @@ Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacol
 
 <!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Essentials of Veterinary Pharmacology and Therapeutics
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Essentials of Veterinary Pharmacology and Therapeutics — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Pharmacology and Toxicology
@@ -7506,7 +7834,9 @@ Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8
 
 <!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Essentials of Veterinary Surgery, 8th Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Essentials of Veterinary Surgery, 8th Edition — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Surgery and Radiology
@@ -7559,7 +7889,9 @@ Canonical: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-vet
 
 <!-- Canonical: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Medicine
@@ -7612,7 +7944,9 @@ Canonical: https://notes.thatvetguy.net/books/farm-animal-surgery/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/farm-animal-surgery/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Farm Animal Surgery
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Farm Animal Surgery — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology
@@ -7665,7 +7999,9 @@ Canonical: https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-e
 
 <!-- Canonical: https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Fenner’s Veterinary Virology 5th edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Fenner’s Veterinary Virology 5th edition — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Microbiology
@@ -7716,7 +8052,9 @@ Canonical: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-
 
 <!-- Canonical: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Fluid therapy guidelines for dogs and cats
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Fluid therapy guidelines for dogs and cats — Details & Drive Access
 
 Preview from the linked source file.
 Clinical guide · Veterinary Medicine
@@ -7769,7 +8107,9 @@ Canonical: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacol
 
 <!-- Canonical: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Goodman and Gilman’s The Pharmacological Basis of Therapeutics
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Goodman and Gilman’s The Pharmacological Basis of Therapeutics — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Pharmacology and Toxicology
@@ -7824,7 +8164,9 @@ Canonical: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Gracey's Meat Hygiene 11Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Gracey's Meat Hygiene 11Edition — Details & Drive Access
 
 Preview from the linked source file.
 Book · Livestock Products Technology
@@ -7875,7 +8217,9 @@ Canonical: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medica
 
 <!-- Canonical: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Guyton and Hall Textbook of Medical Physiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Guyton and Hall Textbook of Medical Physiology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Physiology
@@ -7938,7 +8282,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-clinician-handbook/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-clinician-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Handbook for Veterinary Clinician
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Handbook for Veterinary Clinician — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference
@@ -7989,7 +8335,9 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-radiology-handbook/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-radiology-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Handbook of Small Animal Radiology and Ultrasound
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Handbook of Small Animal Radiology and Ultrasound — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference
@@ -8044,7 +8392,9 @@ Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacolog
 
 <!-- Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008) — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Pharmacology and Toxicology
@@ -8095,7 +8445,9 @@ Canonical: https://notes.thatvetguy.net/books/kvafsu-qbank/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/kvafsu-qbank/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/KVAFSU Question Bank
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›KVAFSU Question Bank — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision
@@ -8140,7 +8492,9 @@ Canonical: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-m
 
 <!-- Canonical: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Laboratory Animal and Exotic Pet Medicine Principles and Procedures
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Laboratory Animal and Exotic Pet Medicine Principles and Procedures — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Medicine
@@ -8193,7 +8547,9 @@ Canonical: https://notes.thatvetguy.net/books/lawrie-s-meat-science/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/lawrie-s-meat-science/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Lawrie's Meat Science
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Lawrie's Meat Science — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Livestock Products Technology
@@ -8252,7 +8608,9 @@ Canonical: https://notes.thatvetguy.net/books/livestock-production-management/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/livestock-production-management/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Livestock Production Management
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Livestock Production Management — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Livestock Production Management
@@ -8303,7 +8661,9 @@ Canonical: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-a
 
 <!-- Canonical: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Lumb & Jones Veterinary Anesthesia and Analgesia
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Lumb & Jones Veterinary Anesthesia and Analgesia — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology
@@ -8364,7 +8724,9 @@ Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardio
 
 <!-- Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Manual of Canine and Feline Cardiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Manual of Canine and Feline Cardiology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine
@@ -8425,7 +8787,9 @@ Canonical: https://notes.thatvetguy.net/books/meat-and-meat-products-technology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/meat-and-meat-products-technology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Meat and Meat Products Technology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Meat and Meat Products Technology — BVSc Reading Guide
 
 Cover unavailable
 Book · Livestock Products Technology
@@ -8476,7 +8840,9 @@ Canonical: https://notes.thatvetguy.net/books/meat-processing-technology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/meat-processing-technology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Meat Processing Technology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Meat Processing Technology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Livestock Products Technology
@@ -8527,7 +8893,9 @@ Canonical: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals
 
 <!-- Canonical: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Metabolic Diseases in Farm Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Metabolic Diseases in Farm Animals — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine
@@ -8588,7 +8956,9 @@ Canonical: https://notes.thatvetguy.net/books/ndri-qbank/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/ndri-qbank/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/NDRI Veterinary Question Bank
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›NDRI Veterinary Question Bank — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision
@@ -8633,7 +9003,9 @@ Canonical: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processi
 
 <!-- Canonical: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Ockerman Animal Byproduct Processing
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Ockerman Animal Byproduct Processing — Details & Drive Access
 
 Cover unavailable
 Book · Livestock Products Technology
@@ -8684,7 +9056,9 @@ Canonical: https://notes.thatvetguy.net/books/outlines-of-dairy-technology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/outlines-of-dairy-technology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Outlines of Dairy Technology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Outlines of Dairy Technology — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Livestock Products Technology
@@ -8739,7 +9113,9 @@ Canonical: https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturit
 
 <!-- Canonical: https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Pathways to Pregnancy and Parturition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Pathways to Pregnancy and Parturition — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Gynaecology and Obstetrics
@@ -8805,7 +9181,9 @@ Canonical: https://notes.thatvetguy.net/books/plumbs-handbook/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/plumbs-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Plumb’s Veterinary Drug Handbook
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Plumb’s Veterinary Drug Handbook — Telegram Download
 
 Reference cover; the linked edition may differ.
 Handbook · clinical reference
@@ -8860,7 +9238,9 @@ Canonical: https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Pocket Guide Diagnostic Tests
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Pocket Guide Diagnostic Tests — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine
@@ -8925,7 +9305,9 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-medicine-handbook/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-medicine-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Pocket Handbook of Small Animal Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Pocket Handbook of Small Animal Medicine — Telegram Download
 
 Reference cover; the linked edition may differ.
 Handbook · clinical reference
@@ -8980,7 +9362,9 @@ Canonical: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-my
 
 <!-- Canonical: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Poultry Metabolic Disorders and Mycotoxins
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Poultry Metabolic Disorders and Mycotoxins — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Medicine
@@ -9041,7 +9425,9 @@ Canonical: https://notes.thatvetguy.net/books/prescott-s-microbiology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/prescott-s-microbiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Prescott’s Microbiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Prescott’s Microbiology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Microbiology
@@ -9092,7 +9478,9 @@ Canonical: https://notes.thatvetguy.net/books/primary-veterinary-anatomy/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/primary-veterinary-anatomy/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Primary Veterinary Anatomy
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Primary Veterinary Anatomy — Telegram Download
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy
@@ -9147,7 +9535,9 @@ Canonical: https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and
 
 <!-- Canonical: https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Principles of Animal Nutrition and Feed Technology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Principles of Animal Nutrition and Feed Technology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Animal Nutrition
@@ -9206,7 +9596,9 @@ Canonical: https://notes.thatvetguy.net/books/principles-of-meat-science-forrest
 
 <!-- Canonical: https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Principles of Meat Science — Forrest
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Principles of Meat Science — Forrest — Details & Drive Access
 
 Preview from the linked source file.
 Book · Livestock Products Technology
@@ -9257,7 +9649,9 @@ Canonical: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-e
 
 <!-- Canonical: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Reproduction in Farm Animals,7th Edition by Hafeez
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Reproduction in Farm Animals,7th Edition by Hafeez — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Gynaecology and Obstetrics
@@ -9310,7 +9704,9 @@ Canonical: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and
 
 <!-- Canonical: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Restraint and Handling of Wild and Domestic Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Restraint and Handling of Wild and Domestic Animals — Details & Drive Access
 
 Preview from the linked source file.
 Book · Livestock Production Management
@@ -9369,7 +9765,9 @@ Canonical: https://notes.thatvetguy.net/books/review-animal-science/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/review-animal-science/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Review of Animal Science
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Review of Animal Science — Telegram Download
 
 Cover unavailable
 Study book · veterinary revision
@@ -9414,7 +9812,9 @@ Canonical: https://notes.thatvetguy.net/books/review-veterinary-science/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/review-veterinary-science/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Review of Veterinary Science
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Review of Veterinary Science — Telegram Download
 
 Cover unavailable
 Study book · veterinary revision
@@ -9459,7 +9859,9 @@ Canonical: https://notes.thatvetguy.net/books/ruminant-surgery/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/ruminant-surgery/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Ruminant Surgery
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Ruminant Surgery — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Surgery and Radiology
@@ -9516,7 +9918,9 @@ Canonical: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th
 
 <!-- Canonical: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Sembulingam Medical Physiology 6th-edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Sembulingam Medical Physiology 6th-edition — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Physiology
@@ -9571,7 +9975,9 @@ Canonical: https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Skin Diseases of Exotic Pets
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Skin Diseases of Exotic Pets — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine
@@ -9632,7 +10038,9 @@ Canonical: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterina
 
 <!-- Canonical: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology
@@ -9685,7 +10093,9 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-
 
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Small Animal ECGs, An Introductory Guide, 3rd Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Small Animal ECGs, An Introductory Guide, 3rd Edition — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Medicine
@@ -9738,7 +10148,9 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th
 
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Small Animal Internal Medicine 5th Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Small Animal Internal Medicine 5th Edition — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Medicine
@@ -9791,7 +10203,9 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-t
 
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Small Animal Surgery, 5th Edition - Theresa Fossum
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Small Animal Surgery, 5th Edition - Theresa Fossum — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology
@@ -9844,7 +10258,9 @@ Canonical: https://notes.thatvetguy.net/books/tanuvas-qbank/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/tanuvas-qbank/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/TANUVAS All-Subjects Question Bank
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›TANUVAS All-Subjects Question Bank — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision
@@ -9889,7 +10305,9 @@ Canonical: https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitolo
 
 <!-- Canonical: https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Text Book of Veterinary Parasitology - Bhatia
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Text Book of Veterinary Parasitology - Bhatia — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Parasitology
@@ -9940,7 +10358,9 @@ Canonical: https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-b
 
 <!-- Canonical: https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Text Book on Animal Genetics and Breeding
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Text Book on Animal Genetics and Breeding — BVSc Reading Guide
 
 Cover unavailable
 Book · Animal Genetics and Breeding
@@ -9991,7 +10411,9 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-l
 
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Animal Husbandry and Livestock Extension
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Animal Husbandry and Livestock Extension — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary and Animal Husbandry Extension Education
@@ -10046,7 +10468,9 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-me
 
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Clinical Veterinary Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Clinical Veterinary Medicine — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Medicine
@@ -10103,7 +10527,9 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Veterinary Anatomy
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Veterinary Anatomy — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy
@@ -10154,7 +10580,9 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-me
 
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Veterinary Internal Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Veterinary Internal Medicine — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine
@@ -10220,7 +10648,9 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Veterinary Pathology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Veterinary Pathology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Pathology
@@ -10271,7 +10701,9 @@ Canonical: https://notes.thatvetguy.net/books/necropsy-book-john-king/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/necropsy-book-john-king/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/The Necropsy Book
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›The Necropsy Book — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Pathology
@@ -10326,7 +10758,9 @@ Canonical: https://notes.thatvetguy.net/books/ultimate-vet-handbook/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/ultimate-vet-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Ultimate Vet Handbook
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Ultimate Vet Handbook — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference
@@ -10373,7 +10807,9 @@ Canonical: https://notes.thatvetguy.net/books/vaccination-schedule/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/vaccination-schedule/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Vaccination Schedule of All Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Vaccination Schedule of All Animals — Telegram Download
 
 Cover unavailable
 Reference sheet · clinical reference
@@ -10420,7 +10856,9 @@ Canonical: https://notes.thatvetguy.net/books/vendex/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/vendex/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/VENDEX: The Fundamental Veterinary Drug Index
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›VENDEX: The Fundamental Veterinary Drug Index — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference
@@ -10467,7 +10905,9 @@ Canonical: https://notes.thatvetguy.net/books/vet-scorer/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/vet-scorer/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Vet Scorer 2022 — 1st Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Vet Scorer 2022 — 1st Edition — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision
@@ -10512,7 +10952,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-ani
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy
@@ -10563,7 +11005,9 @@ Canonical: https://notes.thatvetguy.net/books/navsari-drug-index/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/navsari-drug-index/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Drug Index by NAVSARI
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Drug Index by NAVSARI — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference
@@ -10610,7 +11054,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Epidemiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Epidemiology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Public Health and Epidemiology
@@ -10665,7 +11111,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-extension-education-grk
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Extension Education GRK Sharma
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Extension Education GRK Sharma — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary and Animal Husbandry Extension Education
@@ -10716,7 +11164,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-medicine/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-medicine/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Medicine — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Medicine
@@ -10773,7 +11223,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-microbiology-and-microb
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Microbiology and Microbial Disease
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Microbiology and Microbial Disease — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Microbiology
@@ -10824,7 +11276,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-mycology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-mycology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Mycology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Mycology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Microbiology
@@ -10883,7 +11337,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Obstetrics and Genital disease
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Obstetrics and Genital disease — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Gynaecology and Obstetrics
@@ -10944,7 +11400,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-parasitology/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-parasitology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Parasitology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Parasitology — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Parasitology
@@ -10995,7 +11453,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-practice-handbook/
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-practice-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Practice Handbook
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Practice Handbook — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference
@@ -11046,7 +11506,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstet
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Reproduction and Obstetrics
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Reproduction and Obstetrics — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Gynaecology and Obstetrics
@@ -11108,7 +11570,9 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-b
 
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary surgery and radiology by s.k.nandi
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary surgery and radiology by s.k.nandi — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Surgery and Radiology
@@ -11161,7 +11625,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)/Veterinary Anatomy Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Veterinary Anatomy Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
+- ›Syllabus Checklist
 
 # Veterinary Anatomy Syllabus Checklist
 
@@ -11404,7 +11872,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllab
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)/Veterinary Physiology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Veterinary Physiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
+- ›Syllabus Checklist
 
 # Veterinary Physiology Syllabus Checklist
 
@@ -11573,7 +12045,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-managem
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Livestock Production Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)/Livestock Production Management Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Livestock Production Management Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- ›Syllabus Checklist
 
 # Livestock Production Management Syllabus Checklist
 
@@ -11923,7 +12399,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syll
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)/Veterinary Biochemistry Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Biochemistry Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- ›Syllabus Checklist
 
 # Veterinary Biochemistry Syllabus Checklist
 
@@ -12055,7 +12535,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syll
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)/Veterinary Microbiology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Microbiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- ›Syllabus Checklist
 
 # Veterinary Microbiology Syllabus Checklist
 
@@ -12269,7 +12753,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabu
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)/Veterinary Pathology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Pathology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- ›Syllabus Checklist
 
 # Veterinary Pathology Syllabus Checklist
 
@@ -12420,7 +12908,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)/Animal Genetics and Breeding Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Animal Genetics and Breeding Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
+- ›Syllabus Checklist
 
 # Animal Genetics and Breeding Syllabus Checklist
 
@@ -12587,7 +13079,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)/Animal Nutrition Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Animal Nutrition Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+- ›Syllabus Checklist
 
 # Animal Nutrition Syllabus Checklist
 
@@ -12728,7 +13224,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)/Veterinary Pharmacology and Toxicology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Pharmacology and Toxicology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+- ›Syllabus Checklist
 
 # Veterinary Pharmacology and Toxicology Syllabus Checklist
 
@@ -12894,7 +13394,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syll
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)/Veterinary Parasitology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Parasitology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- ›Syllabus Checklist
 
 # Veterinary Parasitology Syllabus Checklist
 
@@ -13065,7 +13569,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)/Veterinary Public Health and Epidemiology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Public Health and Epidemiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- ›Syllabus Checklist
 
 # Veterinary Public Health and Epidemiology Syllabus Checklist
 
@@ -13258,7 +13766,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technolog
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)/Livestock Products Technology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Livestock Products Technology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
+- ›Syllabus Checklist
 
 # Livestock Products Technology Syllabus Checklist
 
@@ -13409,7 +13921,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husban
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)/Veterinary and Animal Husbandry Extension Education Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary and Animal Husbandry Extension Education Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- ›Syllabus Checklist
 
 # Veterinary and Animal Husbandry Extension Education Syllabus Checklist
 
@@ -13604,7 +14120,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)/Veterinary Clinical Practices I Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Clinical Practices I Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
+- ›Syllabus Checklist
 
 # Veterinary Clinical Practices I Syllabus Checklist
 
@@ -13652,7 +14172,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syl
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)/Livestock Farm Practices Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Livestock Farm Practices Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+- ›Syllabus Checklist
 
 # Livestock Farm Practices Syllabus Checklist
 
@@ -13697,7 +14221,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)/Veterinary Medicine Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Medicine Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- ›Syllabus Checklist
 
 # Veterinary Medicine Syllabus Checklist
 
@@ -13856,7 +14384,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radio
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)/Veterinary Surgery and Radiology Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Surgery and Radiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- ›Syllabus Checklist
 
 # Veterinary Surgery and Radiology Syllabus Checklist
 
@@ -14083,7 +14615,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-o
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)/Veterinary Gynaecology and Obstetrics Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Gynaecology and Obstetrics Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- ›Syllabus Checklist
 
 # Veterinary Gynaecology and Obstetrics Syllabus Checklist
 
@@ -14196,7 +14732,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)/Veterinary Clinical Practices II Syllabus Checklist
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Clinical Practices II Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
+- ›Syllabus Checklist
 
 # Veterinary Clinical Practices II Syllabus Checklist
 
@@ -14344,7 +14884,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practical
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)/Veterinary Anatomy Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Veterinary Anatomy Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
+- ›Practical Vault
 
 # Veterinary Anatomy Practical Vault
 
@@ -14409,7 +14953,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practi
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)/Veterinary Physiology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Veterinary Physiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
+- ›Practical Vault
 
 # Veterinary Physiology Practical Vault
 
@@ -14462,7 +15010,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-managem
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Livestock Production Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)/Livestock Production Management Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Livestock Production Management Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- ›Practical Vault
 
 # Livestock Production Management Practical Vault
 
@@ -14527,7 +15079,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/prac
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)/Veterinary Biochemistry Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Biochemistry Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- ›Practical Vault
 
 # Veterinary Biochemistry Practical Vault
 
@@ -14583,7 +15139,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/prac
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)/Veterinary Microbiology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Microbiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- ›Practical Vault
 
 # Veterinary Microbiology Practical Vault
 
@@ -14641,7 +15201,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practic
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)/Veterinary Pathology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Pathology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- ›Practical Vault
 
 # Veterinary Pathology Practical Vault
 
@@ -14698,7 +15262,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)/Animal Genetics and Breeding Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Animal Genetics and Breeding Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
+- ›Practical Vault
 
 # Animal Genetics and Breeding Practical Vault
 
@@ -14756,7 +15324,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)/Animal Nutrition Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Animal Nutrition Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+- ›Practical Vault
 
 # Animal Nutrition Practical Vault
 
@@ -14809,7 +15381,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)/Veterinary Pharmacology and Toxicology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Pharmacology and Toxicology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+- ›Practical Vault
 
 # Veterinary Pharmacology and Toxicology Practical Vault
 
@@ -14863,7 +15439,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/prac
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)/Veterinary Parasitology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Parasitology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- ›Practical Vault
 
 # Veterinary Parasitology Practical Vault
 
@@ -14923,7 +15503,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)/Veterinary Public Health and Epidemiology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Public Health and Epidemiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- ›Practical Vault
 
 # Veterinary Public Health and Epidemiology Practical Vault
 
@@ -14976,7 +15560,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technolog
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)/Livestock Products Technology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Livestock Products Technology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
+- ›Practical Vault
 
 # Livestock Products Technology Practical Vault
 
@@ -15029,7 +15617,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husban
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)/Veterinary and Animal Husbandry Extension Education Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary and Animal Husbandry Extension Education Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- ›Practical Vault
 
 # Veterinary and Animal Husbandry Extension Education Practical Vault
 
@@ -15080,7 +15672,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Clinical Practices I](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)/Veterinary Clinical Practices I Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Clinical Practices I Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
+- ›Practical Vault
 
 # Veterinary Clinical Practices I Practical Vault
 
@@ -15128,7 +15724,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/pra
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Livestock Farm Practices](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)/Livestock Farm Practices Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Livestock Farm Practices Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+- ›Practical Vault
 
 # Livestock Farm Practices Practical Vault
 
@@ -15176,7 +15776,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practica
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)/Veterinary Medicine Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Medicine Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- ›Practical Vault
 
 # Veterinary Medicine Practical Vault
 
@@ -15234,7 +15838,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radio
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Surgery and Radiology](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)/Veterinary Surgery and Radiology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Surgery and Radiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- ›Practical Vault
 
 # Veterinary Surgery and Radiology Practical Vault
 
@@ -15291,7 +15899,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-o
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Gynaecology and Obstetrics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)/Veterinary Gynaecology and Obstetrics Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Gynaecology and Obstetrics Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- ›Practical Vault
 
 # Veterinary Gynaecology and Obstetrics Practical Vault
 
@@ -15349,7 +15961,11 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practice
 
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Clinical Practices II](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)/Veterinary Clinical Practices II Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Clinical Practices II Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
+- ›Practical Vault
 
 # Veterinary Clinical Practices II Practical Vault
 
@@ -15400,9 +16016,10 @@ Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/404/
 
-<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/404/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/404: this page has left the herd.
+- [Home](https://notes.thatvetguy.net/)
+- ›Page not found
 
 # 404: this page has left the herd.
 
@@ -15410,4 +16027,4 @@ Try a subject or search for the resource you need.
 
 [Back to the notes ](https://notes.thatvetguy.net/bvsc/)
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

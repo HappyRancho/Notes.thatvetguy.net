@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)/Veterinary Parasitology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Parasitology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- ›Practical Vault
 
 # Veterinary Parasitology Practical Vault
 

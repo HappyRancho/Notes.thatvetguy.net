@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Skin Diseases of Exotic Pets
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Skin Diseases of Exotic Pets — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine

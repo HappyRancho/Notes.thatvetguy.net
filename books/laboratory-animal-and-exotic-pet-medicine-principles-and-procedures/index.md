@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Laboratory Animal and Exotic Pet Medicine Principles and Procedures
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Laboratory Animal and Exotic Pet Medicine Principles and Procedures — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Medicine

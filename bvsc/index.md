@@ -1,6 +1,7 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/BVSc Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›BVSc
 
 # BVSc Notes & Books
 

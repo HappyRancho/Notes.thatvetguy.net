@@ -5,7 +5,7 @@ import hashlib,json,re,sys,os
 from library import build_library,slug
 from library_views import keep_complete_resource
 from ui import icon,link
-import geo,site_shell,library_pages,homepage
+import geo,site_shell,library_pages,homepage,breadcrumbs
 ROOT=Path(__file__).resolve().parent.parent
 LIBRARY=build_library(refresh=bool(os.getenv('DRIVE_API_KEY')))
 for _year in LIBRARY['years']:
@@ -42,6 +42,11 @@ def article_intro(title,description,crumbs=None):
 
 def search_form(page=False):return site_shell.search(sys.modules[__name__],page)
 def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None):
+    if not home:
+        trail=breadcrumbs.render(breadcrumbs.trail(path,title,geo.PAGES))
+        if not re.search(r'<nav class="breadcrumbs"[^>]*>.*?</nav>',body,flags=re.S):
+            raise ValueError('Missing breadcrumb insertion point: '+path)
+        body=re.sub(r'<nav class="breadcrumbs"[^>]*>.*?</nav>',lambda _:trail,body,count=1,flags=re.S)
     body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
     search_meta=geo.SEARCH_META.get(path,{})
     description=search_meta.get('description',description)

@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)/Veterinary Physiology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›[Veterinary Physiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
+- ›Practical Vault
 
 # Veterinary Physiology Practical Vault
 

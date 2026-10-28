@@ -1,6 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/roadmap/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/4th Year BVSc & AH Roadmap
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Year Roadmap
 
 # 4th Year Roadmap
 
@@ -207,4 +210,4 @@ Research checked 24 October 2026.
 
 [Read the 4th Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

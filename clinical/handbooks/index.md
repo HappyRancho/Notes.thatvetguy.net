@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Handbooks
+- [Home](https://notes.thatvetguy.net/)
+- ›[Clinical Resources](https://notes.thatvetguy.net/#clinical)
+- ›Handbooks
 
 # Handbooks
 

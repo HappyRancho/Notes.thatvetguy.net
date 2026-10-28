@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Gracey's Meat Hygiene 11Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Gracey's Meat Hygiene 11Edition — Details & Drive Access
 
 Preview from the linked source file.
 Book · Livestock Products Technology

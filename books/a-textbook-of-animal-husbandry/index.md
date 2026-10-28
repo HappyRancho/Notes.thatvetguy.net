@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/A Textbook of Animal Husbandry
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›A Textbook of Animal Husbandry — BVSc Reading Guide
 
 Reference cover; the linked edition may differ.
 Book · Livestock Production Management

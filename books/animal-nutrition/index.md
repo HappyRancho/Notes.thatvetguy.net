@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/animal-nutrition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Animal Nutrition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Animal Nutrition — Details & Drive Access
 
 Cover from the linked file.
 Book · Animal Nutrition

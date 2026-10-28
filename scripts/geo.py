@@ -112,13 +112,8 @@ def structured(path,title,description,items,home,body,records,date):
         listing={'@type':'ItemList','@id':BASE+path+'#contents','numberOfItems':len(items),'itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'url':u if u.startswith('https:') else BASE+u} for i,(n,u) in enumerate(items)]}
         graph.append(listing);page['mainEntity']={'@id':listing['@id']}
     if not home:
-        crumbs=[('Home','/')]
-        if path.startswith('/bvsc/') and path!='/bvsc/':crumbs.append(('BVSc Notes & Books','/bvsc/'))
-        year=re.match(r'/bvsc/(year-([1-4]))/[^/]+/',path)
-        if year:crumbs.append(('Year '+year[2],'/bvsc/'+year[1]+'/'))
-        if path.startswith('/books/') and path!='/books/':crumbs.append(('Veterinary Books','/books/'))
-        if path.startswith('/study-tools/') and path!='/study-tools/':crumbs.append(('Tools & Tips','/study-tools/'))
-        crumbs.append((title,path))
+        from breadcrumbs import trail
+        crumbs=trail(path,title,PAGES)
         graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]})
     if path.endswith('/syllabus/') and path.startswith('/bvsc/'):
         from syllabus_pages import DATA as SYLLABI,checklist_url

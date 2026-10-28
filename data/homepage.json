@@ -38,19 +38,19 @@
   ],
   "tools": [
     {
-      "title": "Vet App Shelf",
+      "title": "Vet Apps for Students",
       "icon": "phone",
       "tone": "sky",
       "url": "/study-tools/vet-apps/"
     },
     {
-      "title": "Vet Web Finder",
+      "title": "Top Vet Notes Websites",
       "icon": "chain",
       "tone": "mint",
       "url": "/study-tools/online-resources/"
     },
     {
-      "title": "Find Your Veterinary Career",
+      "title": "Explore Vet Career Options",
       "icon": "cap",
       "tone": "peach",
       "url": "/study-tools/veterinary-careers/"

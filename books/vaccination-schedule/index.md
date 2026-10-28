@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/vaccination-schedule/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Vaccination Schedule of All Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Vaccination Schedule of All Animals — Telegram Download
 
 Cover unavailable
 Reference sheet · clinical reference

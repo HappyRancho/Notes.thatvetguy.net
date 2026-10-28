@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Text Book of Veterinary Parasitology - Bhatia
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Text Book of Veterinary Parasitology - Bhatia — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Parasitology

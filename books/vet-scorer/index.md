@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/vet-scorer/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Vet Scorer 2022 — 1st Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Vet Scorer 2022 — 1st Edition — Telegram Download
 
 Cover unavailable
 Question bank · veterinary revision

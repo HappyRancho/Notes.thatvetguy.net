@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Veterinary Pathology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Veterinary Pathology — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Pathology

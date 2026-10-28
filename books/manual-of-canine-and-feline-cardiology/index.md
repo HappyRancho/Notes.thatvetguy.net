@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Manual of Canine and Feline Cardiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Manual of Canine and Feline Cardiology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine

@@ -1,6 +1,9 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Gynaecology and Obstetrics
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Veterinary Gynaecology and Obstetrics Notes, TANUVAS Material & Books
 
 # Veterinary Gynaecology and Obstetrics
 

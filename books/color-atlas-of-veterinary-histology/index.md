@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Color Atlas of Veterinary Histology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Color Atlas of Veterinary Histology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy

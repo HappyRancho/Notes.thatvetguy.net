@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Essentials of Medical Pharmacology - K.D.Tripathi
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Essentials of Medical Pharmacology - K.D.Tripathi — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Pharmacology and Toxicology

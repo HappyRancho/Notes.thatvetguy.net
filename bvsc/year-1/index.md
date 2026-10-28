@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/1st Year Notes & Books
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›1st Year
 
 # 1st Year Notes & Books
 

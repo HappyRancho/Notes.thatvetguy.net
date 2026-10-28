@@ -10,7 +10,8 @@
       },
       "skills": "Case records; client communication; basic diagnostic reasoning",
       "progression": "Build general-practice confidence, then consider a focused clinical interest. Specialist training and recognition are separate from simply using a specialist job title.",
-      "questions": "Ask to see the induction plan, who reviews your cases and how referrals work. A large caseload alone does not show how much you will learn."
+      "questions": "Ask to see the induction plan, who reviews your cases and how referrals work. A large caseload alone does not show how much you will learn.",
+      "evidence": "Prepare an anonymised case discussion under supervision: problem list, reasoning, follow-up and what you learned."
     },
     "livestock": {
       "compare": {
@@ -21,7 +22,8 @@
       },
       "skills": "Herd history; production records; prevention plans",
       "progression": "Progress may involve herd consultancy, dairy services or a relevant postgraduate discipline. Learn how health advice fits farm resources and economics.",
-      "questions": "Ask about transport, field safety, backup for emergencies and how new vets learn procedures under supervision."
+      "questions": "Ask about transport, field safety, backup for emergencies and how new vets learn procedures under supervision.",
+      "evidence": "Turn a supervised herd visit into a one-page observation of records, prevention priorities and practical constraints."
     },
     "production": {
       "compare": {
@@ -32,7 +34,8 @@
       },
       "skills": "Biosecurity; production data; clear technical advice",
       "progression": "Possible directions include farm health, feed technical services and operational responsibilities. Clinical, commercial and production roles have different entry requirements.",
-      "questions": "Ask whether targets relate to production, sales or health outcomes; check farm residency and travel expectations."
+      "questions": "Ask whether targets relate to production, sales or health outcomes; check farm residency and travel expectations.",
+      "evidence": "Explain one production metric and the factors that affect it using an approved, anonymised dataset."
     },
     "government": {
       "compare": {
@@ -43,7 +46,8 @@
       },
       "skills": "Syllabus-led preparation; documentation; local communication",
       "progression": "A state veterinary post, central vacancy and deputation appointment are different routes. Keep a vacancy tracker and a parallel skills plan while preparing.",
-      "questions": "Check recognised degree and registration requirements, domicile or language rules, age cut-off, documents and selection stages in the exact notice."
+      "questions": "Check recognised degree and registration requirements, domicile or language rules, age cut-off, documents and selection stages in the exact notice.",
+      "evidence": "Build a one-page tracker from a real official notice: eligibility, syllabus, documents, dates and selection stages."
     },
     "armed-forces": {
       "compare": {
@@ -54,7 +58,8 @@
       },
       "skills": "Veterinary fundamentals; officer awareness; clear communication",
       "progression": "Understand both the professional and military responsibilities. Short Service Commission terms, possible later progression and training must come from the applicable Army notice.",
-      "questions": "Confirm medical standards, service liability and category-specific eligibility. CAPF veterinary posts, where advertised, are separate recruitment routes, not interchangeable RVC entries."
+      "questions": "Confirm medical standards, service liability and category-specific eligibility. CAPF veterinary posts, where advertised, are separate recruitment routes, not interchangeable RVC entries.",
+      "evidence": "Summarise an official RVC officer notice and list questions about duties, training and postings for a serving or former officer."
     },
     "public-health": {
       "compare": {
@@ -65,7 +70,8 @@
       },
       "skills": "Epidemiology; spreadsheets; evidence appraisal",
       "progression": "Look for the actual qualifications in public-health, food-safety and project vacancies before choosing MVSc, MPH or another course. Not every food-safety role accepts the same degree.",
-      "questions": "Ask what the project delivers, who supervises the work, how long funding lasts and whether field travel is required."
+      "questions": "Ask what the project delivers, who supervises the work, how long funding lasts and whether field travel is required.",
+      "evidence": "Write a short evidence brief on a defined animal-health question, distinguishing findings, uncertainty and possible action."
     },
     "diagnostics": {
       "compare": {
@@ -76,7 +82,8 @@
       },
       "skills": "Sample handling; quality assurance; interpretation",
       "progression": "A diagnostic laboratory and a research laboratory have different outputs. Relevant postgraduate training can support advanced interpretation or research; check each post.",
-      "questions": "Ask about biosafety, validated methods, training and who authorises reports. A test result needs clinical context."
+      "questions": "Ask about biosafety, validated methods, training and who authorises reports. A test result needs clinical context.",
+      "evidence": "Create a sample-to-report flowchart showing identification, transport, quality checks and interpretation under laboratory supervision."
     },
     "academia": {
       "compare": {
@@ -87,7 +94,8 @@
       },
       "skills": "Statistics; research ethics; literature appraisal",
       "progression": "Choose a discipline and supervisor around the kind of research you want to do. Teaching, project and scientist appointments differ in qualifications, examinations and contract terms.",
-      "questions": "Ask current students about supervision, facilities, thesis timelines, funding and where recent graduates went."
+      "questions": "Ask current students about supervision, facilities, thesis timelines, funding and where recent graduates went.",
+      "evidence": "Complete a small literature review with a clear question, reproducible search and a table of study limitations."
     },
     "industry": {
       "compare": {
@@ -98,7 +106,8 @@
       },
       "skills": "Scientific explanation; presentations; documentation",
       "progression": "Technical services, regulatory support, product roles and sales are different jobs. Choose a skill to demonstrate, then target vacancies that actually use it.",
-      "questions": "Ask how time is divided between travel, training, desk work and selling, and how performance is measured."
+      "questions": "Ask how time is divided between travel, training, desk work and selling, and how performance is measured.",
+      "evidence": "Create a source-checked technical explainer for a specific audience; clearly separate scientific evidence from promotional claims."
     },
     "wildlife": {
       "compare": {
@@ -109,7 +118,8 @@
       },
       "skills": "Biosecurity; welfare; team communication",
       "progression": "Build relevant experience through recognised placements and mentors. A wildlife interest alone does not establish eligibility for a zoo, rescue or research appointment.",
-      "questions": "Ask about permits, supervision, safety, contract duration and the real daily duties before committing to a placement."
+      "questions": "Ask about permits, supervision, safety, contract duration and the real daily duties before committing to a placement.",
+      "evidence": "Use a permitted observation placement to document quarantine, record-keeping or welfare processes without identifying animals or locations that should stay private."
     },
     "welfare": {
       "compare": {
@@ -120,7 +130,8 @@
       },
       "skills": "Population records; infection control; team working",
       "progression": "Shelter medicine combines individual care with programme design. Clinical, welfare-programme and management jobs may have different experience requirements.",
-      "questions": "Ask about caseload limits, facilities, pain management, emergency cover and staff support. Do not infer working hours from the organisation’s mission."
+      "questions": "Ask about caseload limits, facilities, pain management, emergency cover and staff support. Do not infer working hours from the organisation’s mission.",
+      "evidence": "With permission, map a shelter’s intake-to-follow-up workflow and propose one measurable record-keeping improvement."
     },
     "enterprise": {
       "compare": {
@@ -131,7 +142,8 @@
       },
       "skills": "Budgeting; records; referrals; service design",
       "progression": "Validate demand before buying equipment or renting space. Clinical services need professional and local compliance; teaching or technology ventures have their own requirements.",
-      "questions": "Build a break-even estimate using actual quotations: rent, staff, supplies, compliance, insurance where relevant and time when you cannot bill."
+      "questions": "Build a break-even estimate using actual quotations: rent, staff, supplies, compliance, insurance where relevant and time when you cannot bill.",
+      "evidence": "Draft a one-page service concept from user interviews, actual cost quotations, permissions and a realistic referral plan."
     },
     "communication": {
       "compare": {
@@ -142,7 +154,8 @@
       },
       "skills": "Writing; evidence checking; user understanding",
       "progression": "Build a portfolio for a specific audience or problem. Product, education and health-data roles need skills beyond veterinary subject knowledge; consider small supervised projects.",
-      "questions": "Ask who checks scientific claims, who owns the work, how revisions are handled and how success is measured."
+      "questions": "Ask who checks scientific claims, who owns the work, how revisions are handled and how success is measured.",
+      "evidence": "Build a small portfolio containing a cited explainer, an edited teaching note and a clear visual explanation for a defined audience."
     }
   },
   "community": [

@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)/Veterinary Public Health and Epidemiology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›[Veterinary Public Health and Epidemiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- ›Practical Vault
 
 # Veterinary Public Health and Epidemiology Practical Vault
 

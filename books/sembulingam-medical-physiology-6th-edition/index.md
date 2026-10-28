@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Sembulingam Medical Physiology 6th-edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Sembulingam Medical Physiology 6th-edition — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Physiology

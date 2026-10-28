@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy

@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/small-animal-colour-handbook/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Colour Handbook of Small Animal Emergency and Critical Care
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Colour Handbook of Small Animal Emergency and Critical Care — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference

@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary surgery and radiology by s.k.nandi
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary surgery and radiology by s.k.nandi — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Surgery and Radiology

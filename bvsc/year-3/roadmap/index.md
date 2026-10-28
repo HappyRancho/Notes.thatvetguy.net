@@ -1,6 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/3rd Year BVSc & AH Roadmap
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Year Roadmap
 
 # 3rd Year Roadmap
 
@@ -240,4 +243,4 @@ Research checked 24 October 2026.
 
 [Read the 3rd Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

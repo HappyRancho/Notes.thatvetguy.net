@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Veterinary Medicine](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)/Veterinary Medicine Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›[Veterinary Medicine Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- ›Practical Vault
 
 # Veterinary Medicine Practical Vault
 

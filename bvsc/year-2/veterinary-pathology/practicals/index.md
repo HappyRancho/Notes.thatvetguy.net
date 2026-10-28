@@ -1,6 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practicals/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)/Veterinary Pathology Practical Vault
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
+- ›[Veterinary Pathology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- ›Practical Vault
 
 # Veterinary Pathology Practical Vault
 

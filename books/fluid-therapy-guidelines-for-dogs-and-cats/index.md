@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Fluid therapy guidelines for dogs and cats
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Fluid therapy guidelines for dogs and cats — Details & Drive Access
 
 Preview from the linked source file.
 Clinical guide · Veterinary Medicine

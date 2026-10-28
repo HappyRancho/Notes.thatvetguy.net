@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Essentials of Veterinary Histology & Embryology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Essentials of Veterinary Histology & Embryology — Telegram Download
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Anatomy

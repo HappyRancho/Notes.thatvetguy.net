@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Poultry Metabolic Disorders and Mycotoxins
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Poultry Metabolic Disorders and Mycotoxins — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Medicine

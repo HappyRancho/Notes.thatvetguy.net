@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals — Details & Drive Access
 
 Preview from the linked source file.
 Book · Animal Nutrition

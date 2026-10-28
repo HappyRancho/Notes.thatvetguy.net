@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/necropsy-book-john-king/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/The Necropsy Book
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›The Necropsy Book — Details & Drive Access
 
 Preview from the linked source file.
 Book · Veterinary Pathology

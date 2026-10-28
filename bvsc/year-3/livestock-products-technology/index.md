@@ -1,6 +1,9 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Products Technology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Livestock Products Technology Notes, TANUVAS Material & Books
 
 # Livestock Products Technology
 

@@ -1,6 +1,9 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
+- ›Veterinary Medicine Notes, TANUVAS Material & Books
 
 # Veterinary Medicine
 

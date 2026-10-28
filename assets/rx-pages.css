@@ -147,8 +147,7 @@
  .rx-inner .has-marker button[aria-pressed=true] { background:var(--rx-blue); color:#fff; }
 }
 
-/* Parent breadcrumbs already identify the route; the H1 names this page. */
-.rx-inner .breadcrumbs > span:last-child{display:none}
+
 
 .rx-inner .book-guide-list{display:grid;gap:12px;margin:16px 0}
 .rx-inner .book-guide-card{display:grid;grid-template-columns:40px minmax(0,1fr);gap:12px;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:14px}
@@ -172,3 +171,12 @@
 .rx-inner .collection-resource .resource-description{margin:6px 0 0;font-size:14px;line-height:1.5;color:var(--muted);overflow-wrap:anywhere}
 .rx-inner .resource-source{display:block;margin-top:6px;color:var(--muted);font-size:12px}
 .rx-inner .rx-collection-page .file-list{margin-top:8px}
+
+/* Complete, route-derived breadcrumbs; the current page stays visible. */
+.rx-inner .breadcrumbs{display:block;margin:0 0 7px;padding:0;min-width:0;font-size:11.5px;line-height:1.35}
+.breadcrumbs ol{display:flex;align-items:center;flex-wrap:wrap;gap:0 5px;list-style:none;padding:0;margin:0;min-width:0}
+.breadcrumbs li{display:flex;align-items:center;gap:5px;max-width:100%;min-width:0}
+.rx-inner .breadcrumbs a{min-width:48px;min-height:48px;display:inline-flex;align-items:center;overflow-wrap:anywhere}
+.breadcrumbs .crumb-separator{color:var(--muted);flex:none}
+.breadcrumbs [aria-current=page]{color:var(--text);font-weight:500;overflow-wrap:anywhere;padding-block:6px}
+.breadcrumbs li:last-child{flex:0 1 auto}

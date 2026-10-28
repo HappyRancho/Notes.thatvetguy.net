@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Ockerman Animal Byproduct Processing
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Ockerman Animal Byproduct Processing — Details & Drive Access
 
 Cover unavailable
 Book · Livestock Products Technology

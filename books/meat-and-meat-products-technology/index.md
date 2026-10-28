@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/meat-and-meat-products-technology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Meat and Meat Products Technology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Meat and Meat Products Technology — BVSc Reading Guide
 
 Cover unavailable
 Book · Livestock Products Technology

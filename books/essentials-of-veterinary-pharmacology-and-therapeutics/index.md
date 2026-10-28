@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Essentials of Veterinary Pharmacology and Therapeutics
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Essentials of Veterinary Pharmacology and Therapeutics — Details & Drive Access
 
 Cover unavailable
 Book · Veterinary Pharmacology and Toxicology

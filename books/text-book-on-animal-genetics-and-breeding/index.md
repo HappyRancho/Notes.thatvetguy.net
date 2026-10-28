@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Text Book on Animal Genetics and Breeding
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Text Book on Animal Genetics and Breeding — BVSc Reading Guide
 
 Cover unavailable
 Book · Animal Genetics and Breeding

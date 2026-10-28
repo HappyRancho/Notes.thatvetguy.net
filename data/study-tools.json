@@ -18,7 +18,11 @@
       "access": "Free to install · contains ads. Content availability may change.",
       "free": true,
       "icon": "/assets/tools/apps/vet-study.webp",
-      "store": "https://play.google.com/store/apps/details?id=com.asr.vetstudy2"
+      "store": "https://play.google.com/store/apps/details?id=com.asr.vetstudy2",
+      "bestFit": "A quick revision companion between classes. Pair any summary with the unit in your university outline.",
+      "limits": "Your syllabus remains the checklist for what you must cover. App content can vary by topic and update.",
+      "companionUrl": "/bvsc/",
+      "companionLabel": "Find your year’s notes"
     },
     {
       "id": "vetconnect",
@@ -35,7 +39,11 @@
       "access": "Free to install · contains ads. The listing describes offline and online use.",
       "free": true,
       "icon": "/assets/tools/apps/vetconnect.webp",
-      "store": "https://play.google.com/store/apps/details?id=com.vetconnect.user.vetconnect"
+      "store": "https://play.google.com/store/apps/details?id=com.vetconnect.user.vetconnect",
+      "bestFit": "Connect a brand name with the generic medicine and its pharmacological class when revising.",
+      "limits": "A name match is not a treatment decision. Check species, concentration, route and the current product label.",
+      "companionUrl": "/clinical/drug-index/",
+      "companionLabel": "Browse drug references"
     },
     {
       "id": "msd-veterinary",
@@ -52,7 +60,11 @@
       "access": "Free reference. Download the core content first; some media and features need an internet connection.",
       "free": true,
       "icon": "/assets/tools/apps/msd-veterinary.webp",
-      "store": "https://play.google.com/store/apps/details?id=com.msd.veterinary"
+      "store": "https://play.google.com/store/apps/details?id=com.msd.veterinary",
+      "bestFit": "Read the background to a clinical problem: causes, examination findings and how diagnoses are distinguished.",
+      "limits": "Separate a broad overview from the patient-specific decision. Check species and article references with your supervisor.",
+      "companionUrl": "/clinical/handbooks/",
+      "companionLabel": "Explore clinical handbooks"
     },
     {
       "id": "ivri-clinical",
@@ -69,7 +81,11 @@
       "access": "Free to install. Developed by ICAR-IVRI and IASRI; includes clinical explanations and educational procedure videos.",
       "free": true,
       "icon": "/assets/tools/apps/ivri-clinical.webp",
-      "store": "https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp"
+      "store": "https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp",
+      "bestFit": "Prepare for livestock case discussions and connect a presentation with the history and examination you need.",
+      "limits": "Educational procedure material does not replace supervised skills training or local clinical protocols.",
+      "companionUrl": "/bvsc/year-4/",
+      "companionLabel": "Open final-year resources"
     },
     {
       "id": "dog-anatomy",
@@ -183,7 +199,9 @@
       "source": "Independent student resource",
       "description": "BVSc subject and year collections, including links to TANUVAS material.",
       "use": "Finding a second explanation or a subject collection. Check older course codes against your own outline.",
-      "access": "Public pages; linked files have their own access settings."
+      "access": "Public pages; linked files have their own access settings.",
+      "start": "Start from your year, then the subject. Match each unit heading to your current outline before collecting PDFs.",
+      "takeaway": "Write down the unit title, source and any missing topics. Avoid treating an old course code as proof that the syllabus matches."
     },
     {
       "id": "vetscraft",
@@ -193,7 +211,9 @@
       "source": "Independent education site",
       "description": "Readable veterinary topic explanations across basic, production and clinical subjects.",
       "use": "Understanding a difficult concept before returning to your textbook.",
-      "access": "Public articles; individual courses may have different access terms."
+      "access": "Public articles; individual courses may have different access terms.",
+      "start": "Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.",
+      "takeaway": "Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete."
     },
     {
       "id": "vetsduo",
@@ -203,7 +223,9 @@
       "source": "Independent student resource",
       "description": "Subject-based BVSc collections covering basic sciences, animal production and clinical study.",
       "use": "Comparing lecture notes and locating TANUVAS-labelled collections.",
-      "access": "Public directory; availability depends on each linked collection."
+      "access": "Public directory; availability depends on each linked collection.",
+      "start": "Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.",
+      "takeaway": "Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete."
     },
     {
       "id": "drvet",
@@ -213,7 +235,9 @@
       "source": "Independent study archive",
       "description": "An archive of subject notes, exam material and veterinary study posts.",
       "use": "Looking for older revision posts or question-paper references. Verify the year and original source.",
-      "access": "Public posts; external files may require separate access."
+      "access": "Public posts; external files may require separate access.",
+      "start": "Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.",
+      "takeaway": "Record the author, date and source. Check any missing topic against your recommended text rather than assuming the collection is complete."
     },
     {
       "id": "greatvets",
@@ -223,7 +247,9 @@
       "source": "Independent learning platform",
       "description": "Veterinary notes organised for BVSc study and revision.",
       "use": "Getting a concise topic overview. Check any generated explanation against a textbook.",
-      "access": "Public notes; other features may require an account."
+      "access": "Public notes; other features may require an account.",
+      "start": "Use a short explanation to identify what you do not understand, then read the matching textbook section.",
+      "takeaway": "Check diagrams, species differences and any AI-generated explanation against a credited source."
     },
     {
       "id": "msd",
@@ -233,7 +259,9 @@
       "source": "Publisher reference",
       "description": "Veterinary disease overviews, diagnostic background, tables and clinical learning material.",
       "use": "Reading around a case after rounds; start with the species and clinical problem.",
-      "access": "Free web reference. Educational use does not replace clinical supervision."
+      "access": "Free web reference. Educational use does not replace clinical supervision.",
+      "start": "Start with the species and presenting problem. Read the diagnostic approach before jumping to a treatment section.",
+      "takeaway": "Make a problem list and list the evidence needed to distinguish the possibilities; discuss the case under supervision."
     },
     {
       "id": "eclinpath",
@@ -243,7 +271,9 @@
       "source": "Cornell University",
       "description": "An online clinical pathology textbook covering interpretation of haematology, chemistry and other laboratory findings.",
       "use": "Understanding why a result changes, rather than memorising a reference interval alone.",
-      "access": "Free educational text; interpret results with the reporting laboratory’s intervals."
+      "access": "Free educational text; interpret results with the reporting laboratory’s intervals.",
+      "start": "Choose the laboratory test or cell finding you need to understand. Read sample quality and interpretation alongside the result.",
+      "takeaway": "Use the reporting laboratory’s reference interval and consider pre-analytical factors; a number alone is not a diagnosis."
     },
     {
       "id": "ivis",
@@ -253,7 +283,9 @@
       "source": "Non-profit education service",
       "description": "Veterinary proceedings, publications and learning resources from an international education network.",
       "use": "Reading more deeply about a clinical question or preparing a seminar.",
-      "access": "Free registration may be required; access varies by item."
+      "access": "Free registration may be required; access varies by item.",
+      "start": "Search a focused species-and-topic question. Check whether the item is a review, a conference proceeding or other learning material.",
+      "takeaway": "Record publication year and references; use the original study when a specific claim matters."
     },
     {
       "id": "pubmed",
@@ -263,7 +295,9 @@
       "source": "U.S. National Library of Medicine",
       "description": "A biomedical literature search service that includes veterinary and comparative research.",
       "use": "Finding a primary study. Add species and study design to your search; read methods before trusting a conclusion.",
-      "access": "Free search and abstracts; full-text availability depends on the publisher."
+      "access": "Free search and abstracts; full-text availability depends on the publisher.",
+      "start": "Build a question from species, problem, intervention or exposure, and outcome. Try synonyms if the first search is too narrow.",
+      "takeaway": "Read the study population, design and limitations. An abstract or a statistically significant result is not enough to establish clinical usefulness."
     },
     {
       "id": "woah",
@@ -273,7 +307,9 @@
       "source": "World Organisation for Animal Health",
       "description": "International standards and manuals for animal health, diagnostic testing, welfare and veterinary public health.",
       "use": "Looking up the official context for disease control, surveillance or diagnostic standards.",
-      "access": "Public standards; use the current edition and relevant chapter."
+      "access": "Public standards; use the current edition and relevant chapter.",
+      "start": "Choose the relevant code or manual and locate the disease or standard by name. Check the edition and chapter.",
+      "takeaway": "Distinguish international guidance from the rules implemented by the relevant Indian authority or institution."
     },
     {
       "id": "vci",
@@ -283,7 +319,9 @@
       "source": "Veterinary Council of India",
       "description": "The official collection of veterinary legislation, registration regulations and education standards.",
       "use": "Checking the source behind a curriculum or registration claim.",
-      "access": "Public regulations; use your university’s current implementation as well."
+      "access": "Public regulations; use your university’s current implementation as well.",
+      "start": "Find the regulation or educational standard behind the question, then read the relevant clause and amendments.",
+      "takeaway": "Match the document date to the rule you need; your university’s current notices explain local implementation."
     },
     {
       "id": "ivri",
@@ -293,7 +331,9 @@
       "source": "ICAR–Indian Veterinary Research Institute",
       "description": "Official information about master’s study and veterinary disciplines at IVRI.",
       "use": "Shortlisting postgraduate subjects and checking the institution’s current admission route.",
-      "access": "Public information; the current admission notice determines eligibility and dates."
+      "access": "Public information; the current admission notice determines eligibility and dates.",
+      "start": "Choose the programme and discipline, then locate the current admission notice and its selection process.",
+      "takeaway": "Track exam registration, institutional application and counselling separately where required. Check deadlines in the official notice."
     }
   ],
   "careerSources": [

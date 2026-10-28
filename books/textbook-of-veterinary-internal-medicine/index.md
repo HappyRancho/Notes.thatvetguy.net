@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Textbook of Veterinary Internal Medicine
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Textbook of Veterinary Internal Medicine — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Medicine

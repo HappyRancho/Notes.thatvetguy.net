@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Adam's Lameness in Horses 7th Edition
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Adam's Lameness in Horses 7th Edition — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology

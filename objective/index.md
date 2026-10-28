@@ -1,6 +1,7 @@
 <!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Objective & Competition Resources
+- [Home](https://notes.thatvetguy.net/)
+- ›Objective Resources
 
 # Objective & Competition Resources
 

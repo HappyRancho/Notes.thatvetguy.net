@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/navsari-drug-index/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Drug Index by NAVSARI
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Veterinary Drug Index by NAVSARI — Telegram Download
 
 Cover unavailable
 Handbook · clinical reference

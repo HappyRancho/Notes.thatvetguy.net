@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/biochemistry/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Biochemistry
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Biochemistry — BVSc Reading Guide
 
 Cover unavailable
 Book · Veterinary Biochemistry

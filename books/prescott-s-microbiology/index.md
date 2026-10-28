@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/prescott-s-microbiology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Prescott’s Microbiology
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Prescott’s Microbiology — Details & Drive Access
 
 Reference cover; the linked edition may differ.
 Book · Veterinary Microbiology

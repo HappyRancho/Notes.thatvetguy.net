@@ -1,6 +1,8 @@
 <!-- Canonical: https://notes.thatvetguy.net/books/review-veterinary-science/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Review of Veterinary Science
+- [Home](https://notes.thatvetguy.net/)
+- ›[Books](https://notes.thatvetguy.net/books/)
+- ›Review of Veterinary Science — Telegram Download
 
 Cover unavailable
 Study book · veterinary revision

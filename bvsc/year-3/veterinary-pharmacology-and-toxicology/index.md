@@ -1,6 +1,9 @@
 <!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Pharmacology and Toxicology
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
+- ›Veterinary Pharmacology and Toxicology Notes, TANUVAS Material & Books
 
 # Veterinary Pharmacology and Toxicology
 

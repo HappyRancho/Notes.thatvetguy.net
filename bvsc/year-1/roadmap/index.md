@@ -1,6 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/roadmap/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/1st Year BVSc & AH Roadmap
+- [Home](https://notes.thatvetguy.net/)
+- ›[BVSc](https://notes.thatvetguy.net/bvsc/)
+- ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
+- ›Year Roadmap
 
 # 1st Year Roadmap
 
@@ -188,4 +191,4 @@ Research checked 24 October 2026.
 
 [Read the 1st Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
