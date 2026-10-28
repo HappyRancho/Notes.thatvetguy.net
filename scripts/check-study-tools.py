@@ -23,7 +23,8 @@ for g in GUIDES:
   for a in DATA['apps']:
    assert (ROOT/a['icon'].lstrip('/')).is_file()
    assert (a['store'] in page.hrefs)==a['free'],'Paid app must not have Play download CTA'
-  assert raw.count('Get on Google Play')==4
+  assert raw.count('on Google Play</span>')==4
+  assert 'Biosphera' not in raw and 'app-how' not in raw
   assert 'Telegram link coming soon' in raw
  if g['id']=='online-resources':
   assert raw.count('data-tool-item')==len(DATA['resources'])

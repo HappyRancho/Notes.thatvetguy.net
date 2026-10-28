@@ -99,6 +99,7 @@ def structured(path,title,description,items,home,body,records,date):
             learning['hasPart']=[]
             for app in TOOLS['apps']:
                 entry={'@type':'SoftwareApplication','@id':BASE+path+'#'+app['id'],'name':app['title'],'description':app['description'],'operatingSystem':'Android','applicationCategory':'EducationalApplication','publisher':{'@type':'Organization','name':app['publisher']},'image':BASE+app['icon']}
+                if not app['free']:entry.pop('publisher',None)
                 if app['free']:entry['downloadUrl']=app['store']
                 graph.append(entry);learning['hasPart'].append({'@id':entry['@id']})
         graph.append(learning);page['hasPart']={'@id':learning['@id']}
