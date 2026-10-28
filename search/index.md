@@ -1,15 +1,17 @@
 <!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Find your next read.
+[Home](https://notes.thatvetguy.net/)/Find it. Study it.
 
-# Find your next read.
+# Find it. Study it.
 
-Search veterinary notes, books, practical folders and syllabus checklists. Start with a subject or the title you need.
+Notes, books, questions and clinical references.
 
 Search veterinary resources
 /
 
 Searching…
+
+Popular searches[Drug Index](https://notes.thatvetguy.net/clinical/drug-index/)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)[R K Ghosh](https://notes.thatvetguy.net/search/?q=Ghosh)[Vet Scorer](https://notes.thatvetguy.net/search/?q=Vet%20Scorer)
 
 ## A place to start
 
