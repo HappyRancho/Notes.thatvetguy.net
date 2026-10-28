@@ -1,0 +1,22 @@
+Title: Chrome lookalike warning on legitimate Notes.ThatVetGuy subdomain
+
+Affected URL: https://notes.thatvetguy.net/
+Suggested URL in the warning: https://thatvetguy.net/
+Suggested component: UI > Browser > LookalikeChecks
+
+The site owner operates both the ThatVetGuy main site and its Notes subdomain. Chrome on the affected Android device shows “Did you mean thatvetguy.net?” and “The site that you just tried to visit looks fake” when opening the Notes URL. The owner reports that typing the same HTTPS address in a new Incognito tab does not show the warning.
+
+Please investigate whether this is a lookalike-domain false positive involving a legitimate subdomain of the suggested domain.
+
+Public checks found that the Notes URL returns HTTP 200 directly, uses the correct canonical URL, and passes TLS hostname/certificate validation. No unexpected redirect was observed from the HTTPS Notes homepage. A temporary normal desktop Google Chrome 156.0.8078.47 profile could open it directly and after a visit to the main site without reproducing the warning. Those desktop checks do not reproduce the affected Android device or its history.
+
+Reproduction on the affected device:
+1. Open a normal Chrome tab on Android.
+2. Navigate to https://notes.thatvetguy.net/.
+3. Observe the “Did you mean thatvetguy.net?” warning.
+4. Compare with manually entering the exact same address in a new Incognito tab, where the owner reports no warning.
+
+Affected Android and Chrome versions: include automatically through Chrome feedback or add before filing. They have not yet been supplied.
+
+Attach the warning screenshot through Chrome feedback.
+Audit evidence: https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40693331797
