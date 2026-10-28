@@ -38,6 +38,7 @@ def books():
   if book['id'] in c.get('workTitles',{}):book['title']=c['workTitles'][book['id']]
   if book['id'] in c.get('authors',{}):book['author']=c['authors'][book['id']]
   book['humanReference']=any(t in normal(book['title']) for t in ['guyton','sembulingam','medical pharmacology','goodman and gilman'])
+  book['references']+=c.get('bibliographicReferences',{}).get(book['id'],[])
   info=details.get(book['id'],{})
   if not book['author'] and info.get('bibliographyVerified'):book['author']=info.get('authors')
   book['bibliography']=info if info.get('bibliographyVerified') else {}

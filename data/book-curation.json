@@ -47,9 +47,17 @@
     "Merged works retain every source file and edition label; bibliographic details do not guarantee the linked copy uses that edition."
   ],
   "authors": {
-    "necropsy-book-john-king": "John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom"
+    "necropsy-book-john-king": "John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom",
+    "plumbs-handbook": "Donald C. Plumb"
   },
   "authorEvidence": {
-    "necropsy-book-john-king": "Title page of source file 1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz"
+    "necropsy-book-john-king": "Title page of source file 1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz",
+    "plumbs-handbook": "NLM catalogue 101571748; attribution is edition-dependent"
+  },
+  "bibliographicReferences": {
+    "plumbs-handbook": [
+      "https://books.google.com/books?id=PhBBygEACAAJ",
+      "https://www.ncbi.nlm.nih.gov/nlmcatalog/101571748"
+    ]
   }
 }
