@@ -18,7 +18,8 @@
     "1mr1sLm0C53nUKO_YKiOV80nXeUzCoVcu": "textbook-of-veterinary-internal-medicine",
     "1tGP8prOcf7cKz-2x0O8ctr-BI9BIauRQ": "textbook-of-veterinary-internal-medicine",
     "1lYhetKBdgnAYZwt26-JtQR7R-R7TNR0z": "pathways-to-pregnancy-and-parturition",
-    "1orKFVdVBfLt2FTidFUYxUQJl51C5fTrO": "pathways-to-pregnancy-and-parturition"
+    "1orKFVdVBfLt2FTidFUYxUQJl51C5fTrO": "pathways-to-pregnancy-and-parturition",
+    "1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR": "principles-of-animal-nutrition-and-feed-technology"
   },
   "fileTitles": {
     "1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ": "Ananthanarayan — Microbiology",
@@ -30,7 +31,8 @@
   },
   "workTitles": {
     "textbook-of-veterinary-internal-medicine": "Textbook of Veterinary Internal Medicine",
-    "pathways-to-pregnancy-and-parturition": "Pathways to Pregnancy and Parturition"
+    "pathways-to-pregnancy-and-parturition": "Pathways to Pregnancy and Parturition",
+    "necropsy-book-john-king": "The Necropsy Book"
   },
   "collectionTitles": {
     "ultimate-vet-handbook": "Ultimate Vet Handbook",
@@ -43,5 +45,11 @@
   "notes": [
     "Only explicit subject Books folders are imported. MCQ/objective packs are excluded from textbook additions.",
     "Merged works retain every source file and edition label; bibliographic details do not guarantee the linked copy uses that edition."
-  ]
+  ],
+  "authors": {
+    "necropsy-book-john-king": "John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom"
+  },
+  "authorEvidence": {
+    "necropsy-book-john-king": "Title page of source file 1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz"
+  }
 }

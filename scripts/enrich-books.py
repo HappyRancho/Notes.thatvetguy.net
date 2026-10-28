@@ -6,11 +6,13 @@ from urllib.request import Request,urlopen
 from urllib.parse import urlencode,urlsplit
 from html.parser import HTMLParser
 from difflib import SequenceMatcher
+import threading
 from PIL import Image
 import json,re,io,time,subprocess,shutil,html
 from book_catalogue import books
 ROOT=Path(__file__).resolve().parent.parent
 OUT=ROOT/'assets/books';OUT.mkdir(parents=True,exist_ok=True)
+LOCK=threading.Lock();LAST=[0]
 def get(url,limit=4000000):
  host=urlsplit(url).hostname or ''
  allowed=host in ['drive.google.com','drive.googleusercontent.com','t.me','www.googleapis.com','books.google.com','books.googleusercontent.com','covers.openlibrary.org','openlibrary.org'] or host.endswith('.cdn-telegram.org') or host.endswith('.googleusercontent.com')
@@ -37,33 +39,41 @@ def save_cover(book,url,kind):
   return {'path':'/assets/books/'+dest.name,'width':image.width,'height':image.height,'source':url,'kind':kind},ocr
 def bibliography(book,ocr):
  title=book['title'];author=book.get('author') or ''
- query='intitle:"'+re.sub(r'\s+[—–].*$','',title)+'"'
- if author:query+=' '+author.split(' and ')[0].split(' et al')[0]
- data=json.loads(get('https://www.googleapis.com/books/v1/volumes?'+urlencode({'q':query,'maxResults':5,'printType':'books'})))
+ with LOCK:
+  time.sleep(max(0,1.05-(time.monotonic()-LAST[0])));LAST[0]=time.monotonic()
+ data=json.loads(get('https://openlibrary.org/search.json?'+urlencode({'title':title,'author':author,'limit':5,'fields':'key,title,author_name,cover_i,isbn,publisher,first_publish_year'})))
  candidates=[]
- for item in data.get('items',[]):
-  v=item.get('volumeInfo',{});name=v.get('title','');score=SequenceMatcher(None,norm(title),norm(name)).ratio();authors=v.get('authors',[])
+ for item in data.get('docs',[]):
+  v=item;name=v.get('title','');score=SequenceMatcher(None,norm(title),norm(name)).ratio();authors=v.get('author_name',[])
   author_match=any(norm(a).split()[-1] in norm(author).split() for a in authors if norm(a).split()) if author else False
   ocr_match=any(norm(a).split()[-1] in norm(ocr).split() for a in authors if norm(a).split()) if ocr else False
   if score>=.76 and (author_match or ocr_match) or score>=.97 and len(norm(title).split())>=4:
    candidates.append((score+(.2 if author_match or ocr_match else 0),item,v))
  if not candidates:return {}
- _,item,v=max(candidates,key=lambda c:c[0]);image=v.get('imageLinks',{}).get('thumbnail') or v.get('imageLinks',{}).get('smallThumbnail')
- return {'bibliographyVerified':True,'title':v['title'],'authors':', '.join(v.get('authors',[])) or None,'publisher':v.get('publisher'),'referencePublishedDate':v.get('publishedDate'),'referenceISBNs':[i['identifier'] for i in v.get('industryIdentifiers',[]) if i['type'].startswith('ISBN')],'source':'https://books.google.com/books?id='+item['id'],'coverCandidate':image.replace('http:','https:') if image else None,'scope':'Bibliographic reference; linked file edition must be checked separately'}
+ _,item,v=max(candidates,key=lambda c:c[0]);image='https://covers.openlibrary.org/b/id/'+str(v['cover_i'])+'-L.jpg?default=false' if v.get('cover_i') else None
+ return {'bibliographyVerified':True,'title':v['title'],'authors':', '.join(v.get('author_name',[])) or None,'publisher':v.get('publisher',[None])[0] if v.get('publisher') else None,'referencePublishedDate':v.get('first_publish_year'),'referenceISBNs':v.get('isbn',[])[:4],'source':'https://openlibrary.org'+item['key'],'coverCandidate':image,'scope':'Bibliographic work reference; linked file edition must be checked separately'}
 def enrich(book):
- result={};errors=[];cover=None;ocr=''
+ existing=ROOT/'data/book-details.json';previous=json.loads(existing.read_text()).get('books',{}).get(book['id'],{}) if existing.exists() else {}
+ result={};errors=[];cover=previous.get('cover');ocr=previous.get('coverOCR','')
  candidates=[('https://drive.google.com/thumbnail?'+urlencode({'id':f['id'],'sz':'w700'}),'file-preview') for f in book['files'][:1]]
  if book['telegram'] and '/c/' not in book['telegram']:
   try:
    parsed=urlsplit(book['telegram']);raw=get('https://t.me'+parsed.path+'?embed=1&mode=tme').decode('utf-8','replace')
    candidates += [(url,'telegram-preview') for url in Telegram(raw).images[:1]]
   except Exception as e:errors.append('Telegram preview: '+str(e))
- for url,kind in candidates:
+ for url,kind in ([] if cover else candidates):
   try:cover,ocr=save_cover(book,url,kind);break
   except Exception as e:errors.append(kind+': '+str(e))
  try:result.update(bibliography(book,ocr))
  except Exception as e:errors.append('Bibliography: '+str(e))
- if not cover and result.get('coverCandidate'):
+ if not cover:
+  for ref in book['references']:
+   isbn=re.search(r'(?<!\d)(97[89][\d-]{10,20})(?!\d)',ref)
+   if not isbn:continue
+   ident=isbn[1].replace('-','')[:13]
+   try:cover,ocr=save_cover(book,'https://covers.openlibrary.org/b/isbn/'+ident+'-L.jpg?default=false','reference-cover');break
+   except Exception as e:errors.append('ISBN cover: '+str(e))
+ if result.get('coverCandidate'):
   try:cover,ocr=save_cover(book,result['coverCandidate'],'reference-cover')
   except Exception as e:errors.append('Reference cover: '+str(e))
  result.pop('coverCandidate',None);result.update(cover=cover,coverOCR=ocr,errors=errors,reviewed=time.strftime('%Y-%m-%d'))

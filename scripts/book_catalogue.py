@@ -35,6 +35,9 @@ def books():
   book['files'].append(dict(f));book['lastVerified']=source['reviewed']
   book.setdefault('resourceId','book-'+ident)
  for book in all.values():
+  if book['id'] in c.get('workTitles',{}):book['title']=c['workTitles'][book['id']]
+  if book['id'] in c.get('authors',{}):book['author']=c['authors'][book['id']]
+  book['humanReference']=any(t in normal(book['title']) for t in ['guyton','sembulingam','medical pharmacology','goodman and gilman'])
   info=details.get(book['id'],{})
   if not book['author'] and info.get('bibliographyVerified'):book['author']=info.get('authors')
   book['bibliography']=info if info.get('bibliographyVerified') else {}
