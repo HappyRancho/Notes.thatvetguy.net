@@ -4,47 +4,53 @@
 
 # Veterinary Clinical Practices II
 
-Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year.
 
-4th Year · 0 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=9)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
 0 notes
 
+Topic-wise Notes0 notesComing soon
+Unit-wise NotesTANUVAS · 0 collectionsComing soon[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/)
+Find a note in the selected collection
+
+### Topic-wise Notes
+
+0 notes
 Notes coming soon
 
 Nothing here yet. Even a calf needs a minute to stand.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 0 notes
-
 Notes coming soon
 
 Nothing here yet. Even a calf needs a minute to stand.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
-
-## Books & Recommended Reading
-
-0 books
-
-No book listed for this subject yet. Check your department’s prescribed reading.
-
-[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+0 books
+
+No book listed for this subject yet.
+
+[Request a book ](https://notes.thatvetguy.net/request-resource/)
 
 Course focus & study tips 
 
@@ -57,6 +63,6 @@ Veterinary Clinical Practices II focuses on integrating supervised clinical lear
 
 Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
 
-[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
+[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

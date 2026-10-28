@@ -49,7 +49,7 @@ def heading_ids(body):
         while anchor in used:anchor=name+'-'+str(n);n+=1
         used.add(anchor)
         return '<'+tag+attrs+' id="'+anchor+'">'+text+'</'+tag+'>'
-    return re.sub(r'<(h[1-3])([^>]*)>(.*?)</h[1-3]>',heading,body,flags=re.S)
+    return re.sub(r'<(h[1-6])([^>]*)>(.*?)</h[1-6]>',heading,body,flags=re.S)
 
 class Markdown(HTMLParser):
     def __init__(self):super().__init__();self.out=[];self.hide=0;self.anchor=[];self.head=[]
@@ -63,6 +63,7 @@ class Markdown(HTMLParser):
         if tag=='dt':self.out.append('\n- ')
         if tag=='dd':self.out.append(': ')
         if tag=='br':self.out.append(' ')
+        if tag=='input' and a.get('type')=='checkbox':self.out.append('[ ] ')
         if tag=='a':
             u=a.get('href','');u=BASE+u if u.startswith('/') else u
             self.anchor.append(u);self.out.append('[')
@@ -105,6 +106,11 @@ def structured(path,title,description,items,home,body,records,date):
         if path.startswith('/books/') and path!='/books/':crumbs.append(('Veterinary Books','/books/'))
         crumbs.append((title,path))
         graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]})
+    if path.endswith('/syllabus/') and path.startswith('/bvsc/'):
+        from syllabus_pages import DATA as SYLLABI,checklist_url
+        subject=next(s for s in SYLLABI['subjects'] if checklist_url(s['year'],s['subject'])==path)
+        learning={'@type':'LearningResource','@id':BASE+path+'#checklist','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+str(subject['year']),'learningResourceType':'Syllabus checklist','teaches':subject['subject'],'inLanguage':'en','isBasedOn':{'@type':'DigitalDocument','name':SYLLABI['authority'],'url':BASE+subject['sourceUrl']+'#page='+str(subject['sourcePage'])},'dateModified':date}
+        page['mainEntity']={'@id':learning['@id']};graph.append(learning)
     if path.startswith('/books/') and path!='/books/':
         from book_catalogue import books as book_registry
         book=next(b for b in book_registry() if b['page']==path)

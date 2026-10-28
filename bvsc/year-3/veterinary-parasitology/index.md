@@ -4,19 +4,23 @@
 
 # Veterinary Parasitology
 
-Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health.
 
-3rd Year · 50 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=5)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-5 units · 46 notes
+50 notes
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/)
+Find a note in the selected collection
 
-### Unit 1 General Veterinary Parasitology
+### Topic-wise Notes
+
+46 notes
+
+#### Unit 1 General Veterinary Parasitology
 
 5 notes
 
@@ -35,7 +39,7 @@ Modes of Transmission and Methods of Dissemination of Parasites[Open Modes of Tr
 PDF
 Nomenclature of Parasites and Parasitic Diseases[Open Nomenclature of Parasites and Parasitic Diseases](https://drive.google.com/file/d/1O9QbkzcKu1CxUNjqhQx_cahZyFvsxm7W/view)
 
-### Unit 2 Trematodes and Cestodes of Veterinary Importance
+#### Unit 2 Trematodes and Cestodes of Veterinary Importance
 
 6 notes
 
@@ -57,7 +61,7 @@ Paramphistomes – Rumen Fluke[Open Paramphistomes – Rumen Fluke](https://driv
 PDF
 Trematodes (Fluke) – Introduction, Classification and General Life cycle[Open Trematodes (Fluke) – Introduction, Classification and General Life cycle](https://drive.google.com/file/d/1wYn9i2QwcY5Ra_OcePRNxDd3O1AfU5wG/view)
 
-### Unit 3 Nematodes of Veterinary Importance
+#### Unit 3 Nematodes of Veterinary Importance
 
 12 notes
 
@@ -97,7 +101,7 @@ Study of Anthelmintic Resistance and its types[Open Study of Anthelmintic Resist
 PDF
 Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus[Open Trichostrongylus, Ostertagia, Cooperia, Nematodirus, Haemonchus and Mecistocirrus](https://drive.google.com/file/d/1q8UZWX-_cJFryIrtOBVGIlI_BxN5t_74/view?usp=sharing)
 
-### Unit 4 Arthropods of Veterinary Importance
+#### Unit 4 Arthropods of Veterinary Importance
 
 10 notes
 
@@ -131,7 +135,7 @@ Study of Insecticide or Acaricide Resistance[Open Study of Insecticide or Acaric
 PDF
 Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis[Open Warbles (Hypoderma), Stomach bots (Gasterophilus), Nasal bots (Oestrus ovis), Bottle flies (Calliphora, Lucilia, Chrysomya) and Myiasis](https://drive.google.com/file/d/1oL_iDGuszMSoCKiDTA5ZnR-bzgAUo0d9/view?usp=sharing)
 
-### Unit 5 Protozoa of Veterinary Importance
+#### Unit 5 Protozoa of Veterinary Importance
 
 13 notes
 
@@ -174,7 +178,7 @@ Trypanosoma[Open Trypanosoma](https://drive.google.com/file/d/1ASO8cl3rBGItKZniG
 PDF
 Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni[Open Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni](https://drive.google.com/file/d/1CZI5OUbNThzh0WUKwWY7DFYSFxTyudfn/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 4 notes
 
@@ -190,24 +194,25 @@ VPA-221 Veterinary Entomology And AcarologyTANUVAS · listed by VetBVSc[Open VPA
 DOCX
 VPA-222 Veterinary ProtozoologyTANUVAS · listed by VetBVSc[Open VPA-222 Veterinary Protozoology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-2 books
-
-Open a book for its details, cover and available download.
-
-- [Text Book of Veterinary Parasitology - BhatiaGoogle Drive](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/)
-- [Veterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. Wall · Reading guide](https://notes.thatvetguy.net/books/veterinary-parasitology/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+2 books
+
+[Source previewText Book of Veterinary Parasitology - BhatiaView book](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/)
+
+[Cover unavailableVeterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. WallReading guide](https://notes.thatvetguy.net/books/veterinary-parasitology/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -220,6 +225,6 @@ Veterinary Parasitology focuses on understanding parasite life cycles and their 
 
 Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 
-[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
+[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

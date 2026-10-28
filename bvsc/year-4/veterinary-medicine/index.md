@@ -4,19 +4,23 @@
 
 # Veterinary Medicine
 
-Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
+Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems.
 
-4th Year · 23 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=5)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-8 units · 22 notes
+23 notes
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/)
+Find a note in the selected collection
 
-### Unit 1 General
+### Topic-wise Notes
+
+22 notes
+
+#### Unit 1 General
 
 2 notes
 
@@ -26,7 +30,7 @@ General Veterinary Medicine[Open General Veterinary Medicine](https://drive.goog
 PDF
 General Veterinary Medicine by KVASUKVASU[Open General Veterinary Medicine by KVASU](https://drive.google.com/file/d/1N1gVdLaljq7AhJ3e0_-kdRSl4-iY9tVA/view?usp=sharing)
 
-### Unit 2 Systemic Diseases
+#### Unit 2 Systemic Diseases
 
 2 notes
 
@@ -36,7 +40,7 @@ Systemic Diseases of Veterinary Medicine[Open Systemic Diseases of Veterinary Me
 PDF
 Systemic Veterinary Diseases by KVASUKVASU[Open Systemic Veterinary Diseases by KVASU](https://drive.google.com/file/d/1UrzOs8THvYkb6rCt6dXaq4FhFddwdV8d/view?usp=sharing)
 
-### Unit 3 Metabolic and Deficiency Disorders
+#### Unit 3 Metabolic and Deficiency Disorders
 
 5 notes
 
@@ -55,7 +59,7 @@ Metabolic and Deficiency Disorders of Veterinary Medicine[Open Metabolic and Def
 PDF
 Vitamin Deficiency Disorders[Open Vitamin Deficiency Disorders](https://drive.google.com/file/d/1vHcm3fd8RINxxXZioiMjXv_TqYn9BMXs/view?usp=sharing)
 
-### Unit 4 Zoo and Wild Animal Medicine
+#### Unit 4 Zoo and Wild Animal Medicine
 
 3 notes
 
@@ -68,7 +72,7 @@ Zoo and Wild Animal Medicine[Open Zoo and Wild Animal Medicine](https://drive.go
 PDF
 Zoo and Wildlife Medicine Note[Open Zoo and Wildlife Medicine Note](https://drive.google.com/file/d/1mfPPdVOw_5-QmHuI9oqf_E5uag0hFnDY/view?usp=sharing)
 
-### Unit 5 Bacterial, Fungal and Rickettsial Diseases
+#### Unit 5 Bacterial, Fungal and Rickettsial Diseases
 
 2 notes
 
@@ -78,7 +82,7 @@ Bacterial, Fungal and Rickettsial Diseases of Veterinary Medicine[Open Bacterial
 PDF
 Veterinary Bacterial Diseases Note[Open Veterinary Bacterial Diseases Note](https://drive.google.com/file/d/1fwF8702hx6BungZJtbxdYRlcLaEWHpfg/view?usp=sharing)
 
-### Unit 6 Viral and Parasitic Diseases
+#### Unit 6 Viral and Parasitic Diseases
 
 3 notes
 
@@ -91,7 +95,7 @@ Veterinary Viral Diseases Note[Open Veterinary Viral Diseases Note](https://driv
 PDF
 Viral and Parasitic Diseases of Veterinary Medicine[Open Viral and Parasitic Diseases of Veterinary Medicine](https://drive.google.com/file/d/1uY2HQwK9yoLQ1lD4uymIuLJqgzy4_2sH/view?usp=sharing)
 
-### Unit 7 Jurisprudence, Ethics and Animal Welfare
+#### Unit 7 Jurisprudence, Ethics and Animal Welfare
 
 2 notes
 
@@ -101,7 +105,7 @@ Animal Welfare of Veterinary Medicine[Open Animal Welfare of Veterinary Medicine
 PDF
 Jurisprudence, Ethics and Animal Welfare by KVASUKVASU[Open Jurisprudence, Ethics and Animal Welfare by KVASU](https://drive.google.com/file/d/1v-NH4PsLAmh2euiUMUSWjwN0AdlUBu3e/view?usp=sharing)
 
-### Additional subject notes
+#### Additional subject notes
 
 3 notes
 
@@ -114,45 +118,63 @@ Different Biological Parameters of Animals[Open Different Biological Parameters 
 PDF
 List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary (PVM)](https://drive.google.com/file/d/1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU/view?usp=share_link)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 1 note
 
 PDF
 Animal Welfare, Ethics and Jurisprudence by TANUVASTANUVAS[Open Animal Welfare, Ethics and Jurisprudence by TANUVAS](https://drive.google.com/file/d/14Zo51O6tgACim6OzSVIw0XGItdjgce8T/view?usp=sharing)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-16 books
-
-Open a book for its details, cover and available download.
-
-- [Clinical Examination of Farm AnimalsPeter G. G. Jackson, Peter D. Cockcroft · Google Drive](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/)
-- [Clinical Handbook on Canine Dermatology 3rd EditionGoogle Drive](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/)
-- [Color handbook of Skin Diseases of Dog and CatP. J. McKeever · Google Drive](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/)
-- [Exotic Animal Medicine for the Veterinary Technician by Bonnie BallardGoogle Drive](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
-- [Fluid therapy guidelines for dogs and catsGoogle Drive](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
-- [Laboratory Animal and Exotic Pet Medicine Principles and ProceduresGoogle Drive](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
-- [Manual of Canine and Feline CardiologyLarry P. Tilley, John-Karl Goodwin · Google Drive](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
-- [Metabolic Diseases in Farm AnimalsJack M. Payne · Google Drive](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
-- [Pocket Guide Diagnostic TestsDiana Nicoll, Stephen J. McPhee and Michael Pignone · Google Drive](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/)
-- [Poultry Metabolic Disorders and MycotoxinsSteven Leeson · Google Drive](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/)
-- [Skin Diseases of Exotic PetsSue Paterson · Google Drive](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
-- [Small Animal ECGs, An Introductory Guide, 3rd EditionGoogle Drive](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
-- [Small Animal Internal Medicine 5th EditionGoogle Drive](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
-- [Textbook of Clinical Veterinary MedicineAmalendu Chakrabarti · Google Drive](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
-- [Textbook of Veterinary Internal MedicineStephen J. Ettinger · Google Drive](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
-- [Veterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg · Google Drive](https://notes.thatvetguy.net/books/veterinary-medicine/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+16 books
+Find a book or author
+
+[Reference coverClinical Examination of Farm AnimalsPeter G. G. Jackson, Peter D. CockcroftView book](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/)
+
+[Source previewClinical Handbook on Canine Dermatology 3rd EditionView book](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/)
+
+[Reference coverColor handbook of Skin Diseases of Dog and CatP. J. McKeeverView book](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/)
+
+[Cover unavailableExotic Animal Medicine for the Veterinary Technician by Bonnie BallardView book](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
+
+[Source previewFluid therapy guidelines for dogs and catsView book](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
+
+[Cover unavailableLaboratory Animal and Exotic Pet Medicine Principles and ProceduresView book](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
+
+Show 10 more books
+
+[Reference coverManual of Canine and Feline CardiologyLarry P. Tilley, John-Karl GoodwinView book](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
+
+[Reference coverMetabolic Diseases in Farm AnimalsJack M. PayneView book](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
+
+[Reference coverPocket Guide Diagnostic TestsDiana Nicoll, Stephen J. McPhee and Michael PignoneView book](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/)
+
+[Cover unavailablePoultry Metabolic Disorders and MycotoxinsSteven LeesonView book](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/)
+
+[Reference coverSkin Diseases of Exotic PetsSue PatersonView book](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
+
+[Source previewSmall Animal ECGs, An Introductory Guide, 3rd EditionView book](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
+
+[Cover unavailableSmall Animal Internal Medicine 5th EditionView book](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
+
+[Source previewTextbook of Clinical Veterinary MedicineAmalendu ChakrabartiView book](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
+
+[Reference coverTextbook of Veterinary Internal MedicineStephen J. EttingerView book](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
+
+[Source previewVeterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter GrünbergView book](https://notes.thatvetguy.net/books/veterinary-medicine/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -165,6 +187,6 @@ Veterinary Medicine focuses on organising clinical reasoning around animal disea
 
 Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
 
-[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
+[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

@@ -55,6 +55,8 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
     if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
+    if 'subject-hub' in body or 'data-syllabus=' in body or 'practical-vault' in body:extra_assets+=f'<link rel="stylesheet" href="/assets/subject-hub.css?v={VERSION}">'
+    if 'data-syllabus=' in body:extra_assets+=f'<script src="/assets/syllabus-checklist.js?v={VERSION}" defer></script>'
     reader_script=f'<script src="/assets/subject-reader.js?v={VERSION}" defer></script>' if 'data-subject-reader' in body else ''
     preload='balsamiq'
     page_header=homepage.header(path,home)
@@ -87,6 +89,9 @@ def discovery():
     from book_catalogue import books as book_registry
     for book in book_registry():
         if not book.get('resourceId'):index.append(dict(id='book-guide-'+book['id'],title=book['title'],subject=', '.join(s['name'] for s in book['subjects']),year=book['subjects'][0]['year'] if book['subjects'] else None,type='Book',format='Guide',kind='books',group='Books',path='Books/'+book['title'],permalink=book['page'],url=book['page'],fileIds=[],keywords=[book['title'],book.get('author') or '', 'Books']))
+    from syllabus_pages import DATA as SYLLABI,checklist_url
+    for subject in SYLLABI['subjects']:
+        route=checklist_url(subject['year'],subject['subject']);index.append(dict(id='syllabus-'+subject['slug'],title=subject['subject']+' Syllabus Checklist',subject=subject['subject'],year=subject['year'],type='Syllabus',format='Checklist',kind='other',group='Syllabus',path='Syllabus/'+subject['subject'],permalink=route,url=route,fileIds=[],keywords=[subject['subject'],'syllabus','course outline','checklist']))
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').rglob('index.html'):
@@ -113,6 +118,10 @@ def run():
     b=sys.modules[__name__];homepage.render(b);library_pages.render(b)
     from book_pages import render as render_books
     render_books(b)
+    from syllabus_pages import render as render_syllabi
+    render_syllabi(b)
+    from practical_pages import render as render_practicals
+    render_practicals(b)
     body=article_intro(MICROCOPY['404'][0],'Try a subject or search for the resource you need.')+link('/bvsc/','Back to the notes '+icon('arrow'),'button')+'</div>'
     write_page('/404/','Page not found','Find your way back to veterinary notes, books and study resources.',body,noindex=True)
     (ROOT/'404.html').write_text((ROOT/'404/index.html').read_text());discovery()

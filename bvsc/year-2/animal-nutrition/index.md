@@ -4,19 +4,23 @@
 
 # Animal Nutrition
 
-Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & AH. Choose a collection below.
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems.
 
-2nd Year · 33 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=7)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-4 units · 30 notes
+33 notes
+[Topic-wise Notes30 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Principles of Animal Nutrition and Feed Technology
+### Topic-wise Notes
+
+30 notes
+
+#### Unit 1 Principles of Animal Nutrition and Feed Technology
 
 13 notes
 
@@ -59,7 +63,7 @@ Protein Evaluation of Feeds[Open Protein Evaluation of Feeds](https://drive.goog
 PDF
 Role and Requirements of Water, Minerals and Vitamins and Feed Supplements[Open Role and Requirements of Water, Minerals and Vitamins and Feed Supplements](https://drive.google.com/file/d/17NCCgBrYmJfqJiinmxheIzq62HYcv980/view?usp=sharing)
 
-### Unit 2 Applied Ruminant Nutrition – I
+#### Unit 2 Applied Ruminant Nutrition – I
 
 2 notes
 
@@ -69,7 +73,7 @@ Applied Ruminant Nutrition-I Note[Open Applied Ruminant Nutrition-I Note](https:
 PDF
 Scientific Feeding, Digestibility and Balanced Ration[Open Scientific Feeding, Digestibility and Balanced Ration](https://drive.google.com/file/d/1G8j_jLGwYlz3NYD47TSc3RCF3VA_1XLa/view?usp=sharing)
 
-### Unit 3 Applied Ruminant Nutrition – II
+#### Unit 3 Applied Ruminant Nutrition – II
 
 4 notes
 
@@ -85,7 +89,7 @@ Nutrition of Cattle and Buffaloes[Open Nutrition of Cattle and Buffaloes](https:
 PDF
 Nutrition of Sheep and Goat[Open Nutrition of Sheep and Goat](https://drive.google.com/file/d/1XmxTAWTszeaEG0e9Tnfiwbx7WDrblPy0/view?usp=sharing)
 
-### Unit 4 Applied Non-Ruminant Nutrition
+#### Unit 4 Applied Non-Ruminant Nutrition
 
 11 notes
 
@@ -122,7 +126,7 @@ Ration Formulation and Feeding Standards[Open Ration Formulation and Feeding Sta
 PDF
 Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://drive.google.com/file/d/1bgt6Ts1YC4zIGnIXIFds48BNcJnlDYvG/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 3 notes
 
@@ -135,25 +139,27 @@ ANN-111 Principles of Animal Nutrition and Feed TechnologyTANUVAS · listed by V
 PDF
 ANN-121 Applied Nutrition- 1 (Ruminants)TANUVAS · listed by VetBVSc[Open ANN-121 Applied Nutrition- 1 (Ruminants)](https://vetbvsc.in/wp-content/uploads/2025/02/ann-121-applied-nutrition-1-ruminants-1.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-3 books
-
-Open a book for its details, cover and available download.
-
-- [Animal NutritionP. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. Wilkinson · Google Drive](https://notes.thatvetguy.net/books/animal-nutrition/)
-- [Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory AnimalsD. V. Reddy · Google Drive](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
-- [Principles of Animal Nutrition and Feed TechnologyD. V. Reddy · Google Drive](https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+3 books
+
+[Source previewAnimal NutritionP. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. WilkinsonView book](https://notes.thatvetguy.net/books/animal-nutrition/)
+
+[Source previewApplied Nutrition: Livestock, Poultry, Rabbits and Laboratory AnimalsD. V. ReddyView book](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
+
+[Source previewPrinciples of Animal Nutrition and Feed TechnologyD. V. ReddyView book](https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -166,6 +172,6 @@ Animal Nutrition focuses on understanding feeds, nutrient requirements and feedi
 
 Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
 
-[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
+[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

@@ -4,19 +4,23 @@
 
 # Veterinary and Animal Husbandry Extension Education
 
-Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use.
 
-3rd Year · 25 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=9)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-8 units · 23 notes
+25 notes
+[Topic-wise Notes23 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Livestock Based Livelihoods and Their Evolution
+### Topic-wise Notes
+
+23 notes
+
+#### Unit 1 Livestock Based Livelihoods and Their Evolution
 
 2 notes
 
@@ -26,7 +30,7 @@ Livestock based Livelihood and their Evolution Note[Open Livestock based Livelih
 PDF
 Livestock Based Livelihoods and Their Evolution[Open Livestock Based Livelihoods and Their Evolution](https://drive.google.com/file/d/1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL/view)
 
-### Unit 2 Extension Education and Development
+#### Unit 2 Extension Education and Development
 
 4 notes
 
@@ -42,7 +46,7 @@ Rural Sociology in Veterinary Extension[Open Rural Sociology in Veterinary Exten
 PDF
 Rural Sociology in Veterinary Extension Note[Open Rural Sociology in Veterinary Extension Note](https://drive.google.com/file/d/1Qk4pNIomIDdGFRXURhSGfYGl1hGguCC8/view?usp=sharing)
 
-### Unit 4 Transfer of Technology for Livestock Development
+#### Unit 4 Transfer of Technology for Livestock Development
 
 3 notes
 
@@ -55,7 +59,7 @@ Transfer of Technology for Livestock Development Overall Note[Open Transfer of T
 PDF
 Transfer of Technology Projects of ICARICAR[Open Transfer of Technology Projects of ICAR](https://drive.google.com/file/d/1AY7JpSJkmo6O582HUJ7jQawUQf9tEhIY/view)
 
-### Unit 5 Communication and Extension Teaching Methods
+#### Unit 5 Communication and Extension Teaching Methods
 
 2 notes
 
@@ -65,7 +69,7 @@ Communication and Extension Teaching Methods[Open Communication and Extension Te
 PDF
 Communication and Extension teaching methods Note[Open Communication and Extension teaching methods Note](https://drive.google.com/file/d/1k8Dg9VOdEJWUu5p-BGb6fclQng1U1Dab/view?usp=sharing)
 
-### Unit 6 Livestock Economics and Marketing
+#### Unit 6 Livestock Economics and Marketing
 
 4 notes
 
@@ -81,7 +85,7 @@ Livestock Market – Price, Agencies, Government Role, Trade, Risk, Finance and 
 PDF
 Livestock Marketing- Concept, Structure and Classification[Open Livestock Marketing- Concept, Structure and Classification](https://drive.google.com/file/d/14S7mK5maYDfW8ZymsF9Jvu2mJEikkCyW/view)
 
-### Unit 7 Livestock Entrepreneurship
+#### Unit 7 Livestock Entrepreneurship
 
 6 notes
 
@@ -103,21 +107,21 @@ Livestock Entrepreneurship Overall Note[Open Livestock Entrepreneurship Overall 
 PDF
 Project Appraisal and Capital Budgeting[Open Project Appraisal and Capital Budgeting](https://drive.google.com/file/d/1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO/view)
 
-### Unit 8 Information and Communication Technology
+#### Unit 8 Information and Communication Technology
 
 1 notes
 
 PDF
 Information and Communication Technology Note[Open Information and Communication Technology Note](https://drive.google.com/file/d/1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3/view?usp=sharing)
 
-### Unit 9 Contemporary Issues in Livestock Enterprises
+#### Unit 9 Contemporary Issues in Livestock Enterprises
 
 1 notes
 
 PDF
 Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livestock Enterprises](https://drive.google.com/file/d/12EAS1o4GHCpAvou4pASwrJD-_THHhGeX/view)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 2 notes
 
@@ -127,24 +131,25 @@ VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionTA
 PDF
 VAE-321 Livestock Economics, Marketing And Business ManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And Business Management](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-2 books
-
-Open a book for its details, cover and available download.
-
-- [Textbook of Animal Husbandry and Livestock ExtensionP. Mathialagan · Google Drive](https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/)
-- [Veterinary Extension Education GRK SharmaGoogle Drive](https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+2 books
+
+[Source previewTextbook of Animal Husbandry and Livestock ExtensionP. MathialaganView book](https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/)
+
+[Source previewVeterinary Extension Education GRK SharmaView book](https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -157,6 +162,6 @@ Veterinary and Animal Husbandry Extension Education focuses on communicating ani
 
 Match the communication method to the audience and explain how you would assess whether the advice was understood.
 
-[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
+[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

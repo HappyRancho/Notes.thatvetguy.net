@@ -1,0 +1,28 @@
+{
+  "documents": 147,
+  "photoCollections": 4,
+  "observedImages": 177,
+  "sourceFiles": 324,
+  "folders": 39,
+  "bySubject": {
+    "Animal Genetics and Breeding": 15,
+    "Animal Nutrition": 2,
+    "Livestock Production Management": 16,
+    "Livestock Products Technology": 2,
+    "Veterinary Anatomy": 16,
+    "Veterinary Biochemistry": 6,
+    "Veterinary Gynaecology and Obstetrics": 17,
+    "Veterinary Medicine": 9,
+    "Veterinary Microbiology": 21,
+    "Veterinary Parasitology": 13,
+    "Veterinary Pathology": 8,
+    "Veterinary Pharmacology and Toxicology": 6,
+    "Veterinary Public Health and Epidemiology": 2,
+    "Veterinary Surgery and Radiology": 18
+  },
+  "limitedPhotoPreviews": [
+    "Anatomy/Practicals/Spotters/Histology Photos",
+    "LPM/Practicals/Spotters/Photos",
+    "Parasitology/Practicals/Parasitology Spotters Paper 1"
+  ]
+}

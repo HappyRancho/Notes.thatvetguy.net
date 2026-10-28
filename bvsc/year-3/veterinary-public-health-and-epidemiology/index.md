@@ -4,19 +4,23 @@
 
 # Veterinary Public Health and Epidemiology
 
-Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence.
 
-3rd Year · 38 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=3)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-4 units · 35 notes
+38 notes
+[Topic-wise Notes35 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Veterinary Public Health and Food Safety
+### Topic-wise Notes
+
+35 notes
+
+#### Unit 1 Veterinary Public Health and Food Safety
 
 4 notes
 
@@ -32,7 +36,7 @@ Milk Hygiene in relation to Public Health[Open Milk Hygiene in relation to Publi
 PDF
 Veterinary Public Health and Food Safety Overall Note[Open Veterinary Public Health and Food Safety Overall Note](https://drive.google.com/file/d/12x1RKCfKggSJitGU7BDuYvxtb6ezWDYQ/view?usp=sharing)
 
-### Unit 2 Veterinary Epidemiology
+#### Unit 2 Veterinary Epidemiology
 
 3 notes
 
@@ -45,7 +49,7 @@ Veterinary Epidemiology[Open Veterinary Epidemiology](https://drive.google.com/f
 PDF
 Veterinary Epidemiology Overall Note[Open Veterinary Epidemiology Overall Note](https://drive.google.com/file/d/1HI5Qi-n_jFVhPR72fz0jR5Sfxwjzl1dp/view?usp=sharing)
 
-### Unit 3 Zoonotic Diseases
+#### Unit 3 Zoonotic Diseases
 
 21 notes
 
@@ -112,7 +116,7 @@ Tuberculosis – Zoonotic Disease[Open Tuberculosis – Zoonotic Disease](https:
 PDF
 Zoonotic Diseases Overall Note[Open Zoonotic Diseases Overall Note](https://drive.google.com/file/d/1M51Y1xswdKW-Pef-G-q1yYxjmo7xS8nd/view?usp=sharing)
 
-### Unit 4 Environmental Hygiene
+#### Unit 4 Environmental Hygiene
 
 7 notes
 
@@ -137,7 +141,7 @@ Natural Resources – Types, Uses and Abuses[Open Natural Resources – Types, U
 PDF
 Noise and Radiation Pollution[Open Noise and Radiation Pollution](https://drive.google.com/file/d/1DumDtiG3vdMlHug2sV3QgfwWJuI0_-p-/view)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 3 notes
 
@@ -150,23 +154,23 @@ VPE-321 Veterinary Epidemiology And ZoonosesTANUVAS · listed by VetBVSc[Open VP
 PDF
 VPE–511 Environment and Environmental HygieneTANUVAS · listed by VetBVSc[Open VPE–511 Environment and Environmental Hygiene](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-1 book
-
-Open a book for its details, cover and available download.
-
-- [Veterinary EpidemiologyMichael Thrusfield and Robert Christley · Google Drive](https://notes.thatvetguy.net/books/veterinary-epidemiology/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+1 book
+
+[Source previewVeterinary EpidemiologyMichael Thrusfield and Robert ChristleyView book](https://notes.thatvetguy.net/books/veterinary-epidemiology/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -179,6 +183,6 @@ Veterinary Public Health and Epidemiology focuses on connecting animal health, h
 
 Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
 
-[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
+[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

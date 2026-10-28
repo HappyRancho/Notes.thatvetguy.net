@@ -17,10 +17,12 @@ Searching…
 
 ### Pharmacology
 
-35
+41
 
 [PDFAnaleptics and other CNS StimulantsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1v0SQVgKl2HKyiopiGg7-MHZ_2skgXz8i)
 [PDFAutacoidsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1bdiVXhoRuadvn3nxlOIsefjtydAcAizQ)
+[PDFChemotherapy RecordVeterinary Pharmacology and Toxicology · Practical](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/#file-practical-1aY85UR94iMZaSCaY9O36GRYxJDa6wFXY)
+[PDFDrug interactionsVeterinary Pharmacology and Toxicology · Practical](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/#file-practical-1eI5PZIT5kreUKW-hbCDkllx_6NiQOL0N)
 [PDFDrugs Acting on ANS NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1HYkpdfCtZ-f_xUtq88BPzqmWokf9eC9i)
 [PDFDrugs acting on Autonomic Nervous SystemVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1VNcfppaa7YyTXWy6Dqt__K3Rf_2pSAsY)
 [PDFDrugs Acting on Autonomic Nervous System NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1WngNRKbPOJ6PoucchwftteGhfkCV7Orf)
@@ -40,18 +42,22 @@ Searching…
 [PDFHistory, Mechanism and Stages of AnaesthesiaVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1JRzK1TBW8enbryTfX6cSvTMhNMfzX_XO)
 [PDFHypnotics and SedativesVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1jA4wS1FFu55p4Pwh_jgB-x92Rr1_yUK3)
 [PDFInhalant, Intravenous and Dissociative AnaestheticsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1okpXwPr1bdhZeR5rY96a3_eTtHRnWi4U)
+[PPTXIsolated Tissue Experiments using Organ BathVeterinary Pharmacology and Toxicology · Practical](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/#file-practical-1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr)
 [PDFLocal AnaestheticsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1MpWCDmTZpYV5H7ByzvHcsUJZ8tSN5sdb)
 [PDFNeuromuscular Blocking Agents or Muscle RelaxantsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1c7G9t6L07efQTrCHgnLqmZWFQ7z_21cy)
+[PDFOintments linimentsVeterinary Pharmacology and Toxicology · Practical](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/#file-practical-1ozsoeckUF6ooE8bB17UaeEWfXZ5JoM9k)
 [PDFOpioid Analgesics and Non-Steroidal Anti-Inflammatory DrugsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1yhfgIW-O_Re1_4DONkf3HLvGk9tK924l)
 [PDFPharmacodynamicsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1UXt4V4WrRVh8Gx9zCuIbf4bujusggr0S)
 [PDFPharmacokineticsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-19t5npwxtScJNrAZlK_ArYtIxtMTVssXN)
+
+Show 11 more 11 remaining
+
+[PDFPowders mixture lotion solutionVeterinary Pharmacology and Toxicology · Practical](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/#file-practical-124GrJQZ-HDassH_964Yf5x8i2nKWOHnH)
+[PDFPrinciples of compounding dispensing - VPT-311 PWVeterinary Pharmacology and Toxicology · Practical](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/#file-practical-1ydOFqC5q_2iiTYnd4L6I4eLtB1wa4-zi)
 [PDFPsychotropic Drugs or Psycho Pharmacological AgentsVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY)
 [PDFVeterinary ChemotherapyVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1rKLo-enn3y1_EndqEdWnXM773-7pTLlz)
 [PDFVeterinary Chemotherapy NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1x0btw5V5JU18SfjQflWu0Z3_45nT4agC)
 [PDFVeterinary ToxicologyVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1MSf3Em3drGbth-qhpMenQly6ARAGOvRr)
-
-Show 5 more 5 remaining
-
 [PDFVeterinary Toxicology NoteVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu)
 [PDFVPT-311 General and Systemic Veterinary PharmacologyVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-ad1bc125cc713fa59a)
 [PDFVPT-321 Veterinary NeuropharmacologyVeterinary Pharmacology and Toxicology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-ad20907ccd018cf7d1)

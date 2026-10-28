@@ -4,19 +4,23 @@
 
 # Veterinary Biochemistry
 
-Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & AH. Choose a collection below.
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition.
 
-2nd Year · 23 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=6)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-3 units · 21 notes
+23 notes
+[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/)
+Find a note in the selected collection
 
-### Unit 1 General Veterinary Biochemistry
+### Topic-wise Notes
+
+21 notes
+
+#### Unit 1 General Veterinary Biochemistry
 
 6 notes
 
@@ -38,7 +42,7 @@ General Introduction of Biochemistry[Open General Introduction of Biochemistry](
 PDF
 General Veterinary Biochemistry Note[Open General Veterinary Biochemistry Note](https://drive.google.com/file/d/121ehk-Yp5ORKUkHq5P5CluLo5YXPX6u1/view?usp=sharing)
 
-### Unit 2 Intermediary Metabolism
+#### Unit 2 Intermediary Metabolism
 
 7 notes
 
@@ -63,7 +67,7 @@ Regulation and Integration of Metabolism[Open Regulation and Integration of Meta
 PDF
 Veterinary Intermediary Metabolism Note[Open Veterinary Intermediary Metabolism Note](https://drive.google.com/file/d/1m4DHr1R6efv9hCXIp0EvOQJAAYM938WR/view?usp=sharing)
 
-### Unit 3 Veterinary Analytical Biochemistry
+#### Unit 3 Veterinary Analytical Biochemistry
 
 8 notes
 
@@ -91,7 +95,7 @@ Disturbances in Acid Base Balance[Open Disturbances in Acid Base Balance](https:
 PDF
 Liver Function Tests[Open Liver Function Tests](https://drive.google.com/file/d/1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 2 notes
 
@@ -101,23 +105,23 @@ VPB 112 General Veterinary BiochemistryTANUVAS · listed by VetBVSc[Open VPB 112
 PDF
 VPB 122 Veterinary Intermediary MetabolismTANUVAS · listed by VetBVSc[Open VPB 122 Veterinary Intermediary Metabolism](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-122-veterinary-intermediary-metabolism-1.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-1 book
-
-Open a book for its details, cover and available download.
-
-- [BiochemistryU. Satyanarayana and U. Chakrapani · Reading guide](https://notes.thatvetguy.net/books/biochemistry/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+1 book
+
+[Cover unavailableBiochemistryU. Satyanarayana and U. ChakrapaniReading guide](https://notes.thatvetguy.net/books/biochemistry/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -130,8 +134,6 @@ Veterinary Biochemistry focuses on linking molecular processes with animal healt
 
 Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
-Biochemistry appears in the 1st Year outline PDF; it is grouped in 2nd Year here. Check your university’s syllabus.
-
-[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
+[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

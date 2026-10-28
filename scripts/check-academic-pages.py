@@ -18,7 +18,9 @@ for year in data['years']:
   path=base+subject['slug']+'/';routes.append(path)
   html=(ROOT/path.strip('/')/'index.html').read_text()
   assert f'href="{path}"' in raw
-  assert 'data-subject-reader' in html and html.count('data-reader-tab=')==3
+  assert 'data-subject-reader' in html and html.count('data-note-option=')==sum(any(('tanuvas' in rows[r]['collections'])==is_tanuvas for r in subject['resourceIds']) for is_tanuvas in [False,True])
+  assert path+'syllabus/' in html and 'subject-practical-link' in html
+  assert 'subject-book-grid' in html or not any({'year':n,'name':subject['name']} in book['subjects'] for book in json.loads((ROOT/'data/books.json').read_text()))
   assert 'subject-jump-links' not in html and 'filter-chips' not in html
   assert html.index('/assets/logic.js?')<html.index('/assets/subject-reader.js?')
   tanuvas_panel=html.split('id="tanuvas"',1)[1].split('id="books"',1)[0]

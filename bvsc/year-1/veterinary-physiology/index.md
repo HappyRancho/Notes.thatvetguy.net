@@ -4,19 +4,23 @@
 
 # Veterinary Physiology
 
-Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & AH. Choose a collection below.
+Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions.
 
-1st Year · 15 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=4)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-5 units · 12 notes
+15 notes
+[Topic-wise Notes12 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Blood, Cardiovascular, Nervous and Muscular Systems
+### Topic-wise Notes
+
+12 notes
+
+#### Unit 1 Blood, Cardiovascular, Nervous and Muscular Systems
 
 4 notes
 
@@ -32,7 +36,7 @@ Nervous System[Open Nervous System](https://drive.google.com/file/d/1AVaAZetnsD5
 PDF
 Taste, Smell, Pain, Vision and Hearing Senses Physiology[Open Taste, Smell, Pain, Vision and Hearing Senses Physiology](https://drive.google.com/file/d/1rnhrgWdHAwd5ie3Dc2Vc1StxTIpWKzJ4/view?usp=sharing)
 
-### Unit 2 Digestive and Respiratory Systems
+#### Unit 2 Digestive and Respiratory Systems
 
 2 notes
 
@@ -42,7 +46,7 @@ Digestive System of Domestic Animals[Open Digestive System of Domestic Animals](
 PDF
 Respiratory System of Domestic Animals[Open Respiratory System of Domestic Animals](https://drive.google.com/file/d/1ma5nC3Rga-ZTl65bH5E4g3hKRSFZ17ub/view?usp=sharing)
 
-### Unit 3 Excretory and Endocrine Systems
+#### Unit 3 Excretory and Endocrine Systems
 
 2 notes
 
@@ -52,7 +56,7 @@ Endocrine System of Domestic Animals[Open Endocrine System of Domestic Animals](
 PDF
 Excretory System of Domestic Animals[Open Excretory System of Domestic Animals](https://drive.google.com/file/d/115QHy3OdWUAi2dhZVuwFCFA7qIku7s34/view?usp=sharing)
 
-### Unit 4 Reproduction, Lactation, Growth and Environmental Physiology
+#### Unit 4 Reproduction, Lactation, Growth and Environmental Physiology
 
 3 notes
 
@@ -65,14 +69,14 @@ Lactation Physiology of Domestic Animals[Open Lactation Physiology of Domestic A
 PDF
 Reproduction System of Domestic Animals[Open Reproduction System of Domestic Animals](https://drive.google.com/file/d/1Ji7mcCxsitxUa8sAh0uc3rt38Z_fzlQb/view?usp=sharing)
 
-### Additional subject notes
+#### Additional subject notes
 
 1 notes
 
 PDF
 Veterinary Physiology Note by KVASUKVASU[Open Veterinary Physiology Note by KVASU](https://drive.google.com/file/d/1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 3 notes
 
@@ -85,26 +89,29 @@ VPB -111 Veterinary Physiology-ITANUVAS · listed by VetBVSc[Open VPB -111 Veter
 PDF
 VPB -121 Veterinary Physiology-IITANUVAS · listed by VetBVSc[Open VPB -121 Veterinary Physiology-II](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-4 books
-
-Open a book for its details, cover and available download.
-
-- [Cunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor) · Google Drive](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/)
-- [Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. · Google Drive](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
-- [Guyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. Guyton · Google Drive](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
-- [Sembulingam Medical Physiology 6th-editionGoogle Drive](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+4 books
+
+[Cover unavailableCunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor)View book](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/)
+
+[Source previewDukes’ Physiology of Domestic AnimalsWilliam O. Reece et al.View book](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
+
+[Reference coverGuyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. GuytonView book](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
+
+[Source previewSembulingam Medical Physiology 6th-editionView book](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -117,6 +124,6 @@ Veterinary Physiology focuses on understanding how healthy animals maintain norm
 
 Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
 
-[All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
+[All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

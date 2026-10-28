@@ -56,10 +56,12 @@ def build_library(refresh=False):
    variants.append(dict(f,format=fmt,extension=fmt,download=download))
   f=book['files'][0];rid=book['resourceId'];page=book['page']
   rows.append(dict(id=rid,name=book['title'],title=book['title'],year=f['year'],subject=f['subject'],subjectSlug=slug(f['subject']),unit='Subject Books',path=f['path'],mime=f['mime'],size=f['size'],updated=f['updated'],kind='books',group='Books',format=variants[0]['format'],variants=variants,duplicateIds=[],photoIds=[],type='Book',page=page,permalink=page+'#file-'+rid,url=f['url'],source='Vetverse',sourceCredit=book.get('author') or 'Vetverse collection',sourcePage=f['sourceFolder'],lastVerified=book['lastVerified'],collections=['subject-books'],keywords=[book['title'],book.get('author') or '',f['subject'],'Books'],description=book['description'],new=False))
- drive_rows=[dict(year=v.get('year',r['year']),path=v.get('path',r['path']),id=v['id'],name=v['name'],mime=v['mime'],size=v['size'],updated=v['updated'],url=v['url']) for r in rows for v in r['variants'] if v['url'].startswith('https://drive.google.com/')]
- data=dict(schemaVersion=3,lastInspected=max(source['reviewed'],curated['reviewed'],tanuvas['reviewed'],max((b['lastVerified'] for b in book_rows),default=source['reviewed'])),files=rows,years=years,stats=dict(rawFiles=len(drive_rows),canonicalResources=len(rows),curatedResources=len(curated['resources']),tanuvasResources=sum('tanuvas' in r['collections'] for r in rows),duplicatesHidden=source['stats']['duplicateLinksMerged']+len(source['notes'])+len(tanuvas['notes'])-len(incoming),imagesGrouped=0),unsorted=[])
+ from practical_catalogue import build_records,manifest_rows
+ rows+=build_records(rows)
+ drive_rows=manifest_rows(rows)
+ data=dict(schemaVersion=3,lastInspected=max(source['reviewed'],curated['reviewed'],tanuvas['reviewed'],max((b['lastVerified'] for b in book_rows),default=source['reviewed'])),files=rows,years=years,stats=dict(rawFiles=len(drive_rows),canonicalResources=len(rows),curatedResources=len(curated['resources']),tanuvasResources=sum('tanuvas' in r['collections'] for r in rows),duplicatesHidden=source['stats']['duplicateLinksMerged']+len(source['notes'])+len(tanuvas['notes'])-len(incoming),imagesGrouped=sum(len(r['photoIds']) for r in rows)),unsorted=[])
  (ROOT/'data/resources.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
  (ROOT/'data/catalogue.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
  (ROOT/'data/drive_manifest.json').write_text(json.dumps(drive_rows,ensure_ascii=False,indent=2)+'\n')
- (ROOT/'data/duplicates-report.json').write_text(json.dumps(dict(source='VetBVSc',duplicateLinksMerged=source['stats']['duplicateLinksMerged'],duplicates=[],formatMerges=[],photoSets=[],reclassified=[],extras=[]),indent=2)+'\n')
+ (ROOT/'data/duplicates-report.json').write_text(json.dumps(dict(source='VetBVSc',duplicateLinksMerged=source['stats']['duplicateLinksMerged'],duplicates=[],formatMerges=[],photoSets=[dict(id=r['id'],subject=r['subject'],knownImages=len(r['photoIds']),url=r['url']) for r in rows if r['photoIds']],reclassified=[],extras=[]),indent=2)+'\n')
  return data
