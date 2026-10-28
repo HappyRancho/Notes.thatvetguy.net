@@ -38,22 +38,22 @@
   ],
   "tools": [
     {
-      "title": "Use of AI for Vet Study",
-      "icon": "spark",
-      "tone": "purple",
-      "url": "/study-tools/#ai-guide"
-    },
-    {
-      "title": "Useful Free Apps",
+      "title": "Useful Vet Apps",
       "icon": "phone",
       "tone": "sky",
-      "url": "/study-tools/#free-apps"
+      "url": "/study-tools/vet-apps/"
     },
     {
-      "title": "Organise Your Study Material",
-      "icon": "book",
+      "title": "Useful Online Veterinary Resources",
+      "icon": "chain",
       "tone": "mint",
-      "url": "/study-tools/#useful-tools"
+      "url": "/study-tools/online-resources/"
+    },
+    {
+      "title": "Explore Career Options in Veterinary",
+      "icon": "cap",
+      "tone": "peach",
+      "url": "/study-tools/veterinary-careers/"
     }
   ],
   "tips": [

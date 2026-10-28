@@ -47,16 +47,8 @@ def collections(b):
     b.write_page('/objective/','Objective & Competition Resources',desc,body,[(r['title'],r['page']) for r in books+banks])
 
 def tools(b):
-    body=b.article_intro('Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'])
-    guides=[('ai-guide','Use of AI for Vet Study',[('Start with your outline','Ask AI to organise a topic list or suggest a presentation structure. Compare the result with your syllabus and original notes.'),('Check before you learn','Verify veterinary facts and citations. A fluent answer can still be wrong; AI output is not a prescribing reference.'),('Make the explanation yours','Explain the topic without looking at the answer. Rewrite it in your own words and credit your sources.')]),('free-apps','Useful Free Apps',[('Zotero','Keep reading references together. Check each citation against its original source.'),('LibreOffice','Prepare notes, tables and presentations. Keep an editable copy as well as a PDF.'),('Your PDF reader','Use bookmarks, annotations and text search. Keep essential reading in a clearly named offline folder.')]),('useful-tools','Useful Study Tools',[('A document scanner','Scan only material you have permission to copy. Check every page for legibility before sharing.'),('A simple folder system','Try Year / Subject / Notes or Books. A useful filename saves a surprising amount of searching.'),('A reference checklist','Record the author, edition, species and date where relevant. A saved file still needs context.')])]
-    from homepage import CONTENT,tabs,panel,row
-    tool_rows='<span id="tools" class="anchor-alias"></span>'
-    for i,(key,title,steps) in enumerate(guides):
-        ic,tone=[('spark','purple'),('phone','mint'),('book','peach')][i]
-        tool_rows+='<details class="guide-section" id="'+key+'"'+(' open' if i==0 else '')+'><summary><span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><h2>'+title+'</h2>'+b.icon('chevron')+'</summary><div class="group-body"><ol class="guide-steps">'+''.join('<li><h3>'+e(t)+'</h3><p>'+e(d)+'</p></li>' for t,d in steps)+'</ol></div></details>'
-    tip_rows='<section id="tips"><h2 class="sr-only">Year Roadmaps</h2><div class="rx-row-drawer">'+''.join(row(CONTENT['tips'][y-1]['title'],'/bvsc/year-'+str(y)+'/roadmap/','map',['yellow','peach','sky','mint'][y-1]) for y in range(1,5))+'</div></section>'
-    body+='<section class="content-section" data-home-tabs>'+tabs('study-page',[('Tools','/study-tools/#tools'),('Tips','/study-tools/#tips')])+panel('study-page',0,tool_rows)+panel('study-page',1,tip_rows)+'</section></div>'
-    b.write_page('/study-tools/','Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'],body,[(t,b.ROUTES[k]) for k,t,_ in guides])
+    from study_tools import render
+    render(b)
 
 def other(b):
     body=b.article_intro('About Notes.ThatVetGuy',b.geo.META['/about/']['summary'])+'<section class="content-section prose"><h2>A useful place to start.</h2><p>Pick your professional year, find a subject and get to the reading. Notes.ThatVetGuy brings notes, books and practical material together for veterinary students.</p><h2>People behind the pages</h2><p>Site guidance and summaries are by Dr. Chirag Patidar, BVSc & AH, MVSc. Linked materials retain their original authorship. Inclusion does not imply medical review or ownership.</p><h2>Help the next student</h2><p>A missing topic, a broken file or a credit that needs correcting: tell us so the library can get better.</p>'+b.link('/request-resource/','Request or report a resource '+b.icon('arrow'),'button secondary')+'</section></div>'

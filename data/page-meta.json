@@ -35,17 +35,8 @@
     ]
   },
   "/study-tools/": {
-    "summary": "Explore practical AI study guidance, useful free apps and everyday study tools for veterinary students. Use the guides to organise reading, references and presentations while checking veterinary information against trusted sources.",
-    "faq": [
-      [
-        "Can I use AI as a clinical reference?",
-        "Use AI to help organise study. Check facts, citations and drug information against original professional references before relying on them."
-      ],
-      [
-        "Do these guides require subscriptions?",
-        "The guides describe study habits and tools by name. They do not require signing up or following external software links."
-      ]
-    ]
+    "summary": "Useful veterinary apps, trusted websites and career ideas for BVSc & AH students. Pick a guide, find your next step and keep studying with purpose.",
+    "faq": []
   },
   "/search/": {
     "summary": "Find veterinary notes, books and practical material by topic, subject or year. Search the whole collection or start with a suggested topic.",

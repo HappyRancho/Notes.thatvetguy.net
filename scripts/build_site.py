@@ -22,7 +22,7 @@ SUBJECTS=json.loads((ROOT/'data/subjects.json').read_text())
 MICROCOPY=json.loads((ROOT/'data/microcopy.json').read_text())
 DATA['lastChecked']=LIBRARY['lastInspected']
 BASE='https://notes.thatvetguy.net'
-ROUTES={'ai-guide':'/study-tools/#ai-guide','free-apps':'/study-tools/#free-apps','useful-tools':'/study-tools/#useful-tools','icar-pyq':'/objective/#icar-pyq','objective-questions':'/objective/#subject-wise','objective-books':'/objective/#books','handbooks':'/clinical/handbooks/','drug-index':'/clinical/drug-index/','clinical-other':'/#clinical'}
+ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/vet-apps/','useful-tools':'/study-tools/online-resources/','icar-pyq':'/objective/#icar-pyq','objective-questions':'/objective/#subject-wise','objective-books':'/objective/#books','handbooks':'/clinical/handbooks/','drug-index':'/clinical/drug-index/','clinical-other':'/#clinical'}
 VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
@@ -52,6 +52,8 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
+    if path.startswith('/study-tools/'):
+        extra_assets+=f'<link rel="stylesheet" href="/assets/study-tools.css?v={VERSION}"><script src="/assets/study-tools.js?v={VERSION}" defer></script>'
     if path=='/search/':extra_assets+=f'<link rel="stylesheet" href="/assets/search-page.css?v={VERSION}">'
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
     if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
@@ -93,6 +95,9 @@ def discovery():
     from syllabus_pages import DATA as SYLLABI,checklist_url
     for subject in SYLLABI['subjects']:
         route=checklist_url(subject['year'],subject['subject']);index.append(dict(id='syllabus-'+subject['slug'],title=subject['subject']+' Syllabus Checklist',subject=subject['subject'],year=subject['year'],type='Syllabus',format='Checklist',kind='other',group='Syllabus',path='Syllabus/'+subject['subject'],permalink=route,url=route,fileIds=[],keywords=[subject['subject'],'syllabus','course outline','checklist']))
+    from study_tools import GUIDES,route as tool_route
+    for guide in GUIDES:
+        u=tool_route(guide);index.append(dict(id='study-guide-'+guide['id'],title=guide['title'],subject='Study Tools',year=None,type='Guide',format='Guide',kind='other',group='Study Tools',path='Study Tools/'+guide['title'],permalink=u,url=u,fileIds=[],keywords=[guide['title'],guide['description'],'apps','career' if guide['id']=='veterinary-careers' else 'study']))
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').rglob('index.html'):

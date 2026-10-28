@@ -69,7 +69,9 @@ practical_records=[r for r in records if any(c in r['collections'] for c in ['pr
 book_data=book_registry();guide_ids={'book-guide-'+b['id'] for b in book_data if not b.get('resourceId') and b.get('primaryUrl')}
 from syllabus_pages import DATA as SYLLABI
 syllabus_ids={'syllabus-'+s['slug'] for s in SYLLABI['subjects']}
-assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids|syllabus_ids,'search mismatch'
+from study_tools import GUIDES
+tool_ids={'study-guide-'+g['id'] for g in GUIDES}
+assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids|syllabus_ids|tool_ids,'search mismatch'
 assert not any(re.match(r'^(IMG[-_]|PXL_|DSC[_-]|Screenshot)',r['title'],re.I) for r in search),'camera file title'
 counts=Counter(rid for p in pages.values() for rid in p.rows)
 for r in records:
