@@ -56,14 +56,17 @@
     "animal-nutrition": "P. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. Wilkinson",
     "applied-nutrition-d-v-reddy": "D. V. Reddy",
     "ananthanarayan-microbiology": "C. K. J. Paniker (editor)",
-    "animal-science-refresher": "Sheelendra Kumar Tanwar"
+    "animal-science-refresher": "Sheelendra Kumar Tanwar",
+    "veterinary-obstetrics-and-genital-disease": "Stephen J. Roberts",
+    "pocket-guide-diagnostic-tests": "Diana Nicoll, Stephen J. McPhee and Michael Pignone"
   },
   "authorEvidence": {
     "necropsy-book-john-king": "Title page of source file 1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz",
     "plumbs-handbook": "NLM catalogue 101571748; attribution is edition-dependent",
     "animal-nutrition": "Verified source cover: 1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r",
     "applied-nutrition-d-v-reddy": "Verified source title page: 1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe",
-    "ananthanarayan-microbiology": "Verified source cover: 1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ"
+    "ananthanarayan-microbiology": "Verified source cover: 1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ",
+    "pocket-guide-diagnostic-tests": "Verified against the linked reference cover; duplicate Stephen McPhee author alias removed."
   },
   "bibliographicReferences": {
     "plumbs-handbook": [
@@ -99,5 +102,14 @@
     "primary-veterinary-anatomy": "Primary Veterinary Anatomy introduces gross anatomy for veterinary students. R. K. Ghosh’s text relates the arrangement of organs and body regions to dissection, with comparative material across domestic animals and birds. Use it to build anatomical terminology, identify structures in practical classes and connect systems with their position and relationships. Check your university’s prescribed edition before planning detailed reading.",
     "plumbs-handbook": "Plumb’s Veterinary Drug Handbook is a veterinary drug reference organised around individual medicines. It brings together information used to look up veterinary drug monographs, including precautions and interactions. It is a reference for trained clinical use, not a substitute for diagnosis or current product information. Confirm the edition of the linked copy and use current, species-specific clinical guidance.",
     "applied-nutrition-d-v-reddy": "Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals is a nutrition text by D. V. Reddy. The source title page identifies this copy as the third edition. It is filed in the Animal Nutrition Books collection for second-year BVSc & AH reading. Use your course outline to select the relevant species and nutrition themes, and keep this applied text distinct from Principles of Animal Nutrition and Feed Technology."
+  },
+  "rejectedCovers": {
+    "essentials-of-veterinary-pharmacology-and-therapeutics": "Provider returned an image-not-available placeholder.",
+    "livestock-production-management": "Provider returned an image-not-available placeholder.",
+    "poultry-metabolic-disorders-and-mycotoxins": "Provider returned a generic book drawing, not the book cover.",
+    "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": "Unusable dark scan and incorrect bibliographic author."
+  },
+  "rejectedBibliography": {
+    "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": "Catalogue incorrectly credits Arthur Symons; do not publish."
   }
 }

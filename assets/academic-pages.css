@@ -96,3 +96,5 @@
 @media(prefers-reduced-motion:reduce){.academic-subject-card,.reader-tab,.reader-unit>summary>.icon-svg{transition:none!important;transform:none!important}}
 
 .reader-tab:active{transform:scale(.98)}
+
+.subject-reader .year-book-link{display:flex;align-items:center;gap:10px;min-height:72px;padding:14px 2px}.year-book-link>.icon-svg{width:16px;height:18px}.book-library-link{display:inline-flex;align-items:center;gap:7px;min-height:48px;margin-top:8px;font-size:13px;color:var(--rx-link)}.book-library-link .icon-svg{width:17px;height:18px}

@@ -12,13 +12,13 @@ function filter(){
  active.querySelectorAll('[data-row-search]').forEach(row=>{row.hidden=!words.every(w=>row.dataset.rowSearch.includes(w));if(!row.hidden)count++});
  active.querySelectorAll('.reader-unit').forEach((group,i)=>{const rows=[...group.querySelectorAll('[data-row-search]')];group.hidden=!rows.some(row=>!row.hidden);if(words.length)group.open=!group.hidden;else if(lastQuery)group.open=i===0});
  active.querySelectorAll('.page-chunk').forEach(chunk=>{chunk.hidden=words.length>0&&![...chunk.querySelectorAll('[data-row-search]')].some(row=>!row.hidden);if(words.length)chunk.open=!chunk.hidden;else if(lastQuery)chunk.open=false});
- active.querySelector('.reader-panel-heading p').textContent=words.length?count+' notes found':active.dataset.summary;empty.hidden=!words.length||count>0;status.textContent=words.length?count+' notes found.':'';lastQuery=query.value;
+ active.querySelector('.reader-panel-heading p').textContent=words.length?count+(active.id==='books'?' books found':' notes found'):active.dataset.summary;empty.querySelector('strong').textContent=active.id==='books'?'No books found.':'No notes found.';empty.hidden=!words.length||count>0;status.textContent=words.length?count+(active.id==='books'?' books found.':' notes found.'):'';lastQuery=query.value;
 }
 function select(panel,focus=false){
  if(!panel)return;active=panel;query.value='';lastQuery='';empty.hidden=true;
  panels.forEach(p=>{const on=p===panel;p.hidden=!on;p.dataset.selected=String(on)});
  tabs.forEach(tab=>{const on=tab.dataset.readerTab===panel.id;tab.setAttribute('aria-selected',String(on));tab.tabIndex=on?0:-1;tab.classList.toggle('is-selected',on);if(on&&focus)tab.focus({preventScroll:true})});
- search.hidden=panel.id==='books'||panel.querySelectorAll('[data-row-search]').length<12;filter();
+ search.hidden=panel.querySelectorAll('[data-row-search]').length<12;query.placeholder=panel.id==='books'?'Find a book or author…':'Find a topic or note…';filter();
 }
 function fromHash(scroll=false){
  let target;try{target=document.getElementById(decodeURIComponent(location.hash.slice(1)))}catch{return}

@@ -42,9 +42,9 @@ def collections(b):
     books=matching(b,'objective-notes');banks=matching(b,'question-banks')
     book_body='<section id="books"><h2 class="sr-only">Objective Notes</h2>'+cards(b,books)+'</section>'
     bank_body='<section id="subject-wise"><h2 class="sr-only">Question Banks</h2>'+cards(b,banks)+'</section>'
-    body+='<p class="source-note">Choose a collection below. Each resource opens in Telegram.</p><section class="content-section rx-collection-page" data-home-tabs>'+tabs('objective-page',[(b.icon('book')+'<span>Objective Notes</span>','/objective/#books'),(b.icon('paper')+'<span>Question Banks</span>','/objective/#subject-wise')])+panel('objective-page',0,book_body)+panel('objective-page',1,bank_body)+'</section>'
+    body+='<p class="source-note">Choose a collection below. Open a book for its details and Telegram download link.</p><section class="content-section rx-collection-page" data-home-tabs>'+tabs('objective-page',[(b.icon('book')+'<span>Objective Notes</span>','/objective/#books'),(b.icon('paper')+'<span>Question Banks</span>','/objective/#subject-wise')])+panel('objective-page',0,book_body)+panel('objective-page',1,bank_body)+'</section>'
     body+='<span id="icar-pyq" class="anchor-alias"></span></div>'
-    b.write_page('/objective/','Objective & Competition Resources',desc,body,[(r['title'],r['url']) for r in books+banks])
+    b.write_page('/objective/','Objective & Competition Resources',desc,body,[(r['title'],r['page']) for r in books+banks])
 
 def tools(b):
     body=b.article_intro('Tips & Tools for Vet Study',b.geo.META['/study-tools/']['summary'])

@@ -15,8 +15,10 @@ def intro(b,title,description,crumbs=None,clinical=False,handbooks=False):
 def cards(b,rows,clinical=False):
     result=[];tones=['mint','pink','peach','purple','pink','mint']
     for i,r in enumerate(rows,1):
+        from book_catalogue import by_resource
+        book=by_resource(r['id'])
         title=e(r['title']);rid=e(r['id'],quote=True);tone=tones[(i-1)%len(tones)]
         source=r.get('sourceCredit')
         credit='<p class="rx-book-source">'+b.icon('people')+'<span>'+e(source)+'</span></p>' if source and r.get('collection')!='handbooks' else ''
-        result.append('<article class="file-row rx-book-card" id="file-'+rid+'" data-resource-id="'+rid+'"><span class="rx-book-number" aria-label="Resource '+str(i)+'">#'+str(i)+'</span><span class="rx-book-icon '+tone+'" aria-hidden="true">'+b.icon('book')+'</span><div class="rx-book-content"><div class="rx-book-title"><h3 title="'+e(r['name'],quote=True)+'">'+title+'</h3></div><p class="rx-book-description">'+e(r['description'])+'</p>'+credit+'</div>'+b.link(r['url'],b.icon('book')+'<span class="open-label">Open Book</span>'+b.icon('external')+'<span class="sr-only">: '+title+'</span>','file-open rx-book-open')+'</article>')
+        result.append('<article class="file-row rx-book-card" id="file-'+rid+'" data-book-id="'+rid+'"><span class="rx-book-number" aria-label="Resource '+str(i)+'">#'+str(i)+'</span><span class="rx-book-icon '+tone+'" aria-hidden="true">'+b.icon('book')+'</span><div class="rx-book-content"><div class="rx-book-title"><h3 title="'+e(r['name'],quote=True)+'">'+title+'</h3></div><p class="rx-book-description">'+e(r['description'])+'</p>'+credit+'</div>'+b.link(book['page'],b.icon('book')+'<span class="open-label">Open Book</span>'+b.icon('arrow')+'<span class="sr-only">: '+title+'</span>','file-open rx-book-open')+'</article>')
     return '<div class="file-list rx-book-grid">'+''.join(result)+'</div>'

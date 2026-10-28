@@ -37,16 +37,17 @@ def books():
  for book in all.values():
   if book['id'] in c.get('workTitles',{}):book['title']=c['workTitles'][book['id']]
   if book['id'] in c.get('authors',{}):book['author']=c['authors'][book['id']]
-  book['humanReference']=any(t in normal(book['title']) for t in ['guyton','sembulingam','medical pharmacology','goodman and gilman'])
+  book['humanReference']=any(t in normal(book['title']) for t in ['guyton','sembulingam','medical pharmacology','goodman and gilman','pocket guide diagnostic tests'])
   book['references']+=c.get('bibliographicReferences',{}).get(book['id'],[])
   info=details.get(book['id'],{})
+  if book['id'] in c.get('rejectedBibliography',{}):info={}
   alias=c.get('metadataAliases',{}).get(book['id'])
   if alias and details.get(alias,{}).get('cover'):info=details[alias]
   if book['id'] in c.get('descriptions',{}):book['description']=c['descriptions'][book['id']]
   book['referenceISBNs']=c.get('referenceISBNs',{}).get(book['id'],[])
   if not book['author'] and info.get('bibliographyVerified'):book['author']=info.get('authors')
   book['bibliography']=info if info.get('bibliographyVerified') else {}
-  book['cover']=info.get('cover')
+  book['cover']=None if book['id'] in c.get('rejectedCovers',{}) else info.get('cover')
   if book['cover'] and c.get('fileCoverEvidence',{}).get(book['id']) and c['fileCoverEvidence'][book['id']] in book['cover'].get('source',''):book['cover']['kind']='file-cover'
   book['page']=route(book['id'])
   book['files'].sort(key=lambda f:(-int(m[1]) if (m:=re.search(r'\b(\d+)(?:st|nd|rd|th)?\s*[- ]?edition',f['name'],re.I)) else 0,natural(f['name'])))
