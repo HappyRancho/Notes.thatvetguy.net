@@ -1,5 +1,5 @@
 """Source-backed student guides in the existing Rx Notes shell."""
-import json
+import json,re
 from pathlib import Path
 from html import escape as e
 from urllib.parse import urlsplit
@@ -10,7 +10,10 @@ def route(g):return '/study-tools/'+(g['id'] if isinstance(g,dict) else g)+'/'
 def section(b,title,subtitle='',icon='book',tone='sky',ident=''):
  return '<section class="tool-section rx-section"'+(' id="'+ident+'"' if ident else '')+'><div class="tool-section-title"><span class="rx-row-icon '+tone+'">'+b.icon(icon)+'</span><div><h2>'+e(title)+'</h2>'+('<p class="rx-hand">'+e(subtitle)+'</p>' if subtitle else '')+'</div></div>'
 def intro(b,g,subtitle):
- return b.article_intro(g['title'],g['description'],[('Tools & Tips','/study-tools/')])+'<div class="study-guide" data-guide="'+g['id']+'"><p class="tool-margin rx-hand">'+e(subtitle)+'</p>'
+ descriptions={'vet-apps':'Free apps for revision and field learning, plus species anatomy tools. Find the right app for the job.','online-resources':'A curated reading list for BVSc notes, clinical cases, research and official guidance.','veterinary-careers':'Find a route after BVSc & AH. Compare the work, training and practical next steps.'}
+ head=b.article_intro(g['title'],descriptions[g['id']],[('Tools & Tips','/study-tools/')])
+ head=re.sub(r'<span class="rx-row-icon [^"]+">.*?</span>','<span class="rx-row-icon '+g['tone']+'">'+b.icon(g['icon'])+'</span>',head,count=1,flags=re.S)
+ return head+'<div class="study-guide" data-guide="'+g['id']+'"><p class="tool-margin rx-hand">'+e(subtitle)+'</p>'
 def related(b,current):
  return '<nav class="tool-related" aria-label="More study tools">'+''.join(b.link(route(g),'<span class="rx-row-icon '+g['tone']+'">'+b.icon(g['icon'])+'</span><span>'+e(g['title'])+'</span>'+b.icon('arrow')) for g in GUIDES if g['id']!=current)+'</nav>'
 def filters(categories,label):
@@ -28,13 +31,12 @@ def hub(b):
  body+=panel('study-page',0,cards)+panel('study-page',1,tips)+'</section></div></div>'
  b.write_page('/study-tools/','Tools & Tips for Vet Students',desc,body,[(g['title'],route(g)) for g in GUIDES])
 def apps(b):
- g=GUIDES[0];body=intro(b,g,'Your phone has storage for more than screenshots of the syllabus.')
+ g=GUIDES[0];body=intro(b,g,'More useful than another screenshot.')
  body+='<nav class="tool-jumps" aria-label="On this page">'+b.link('#free-apps','Free apps')+b.link('#anatomy-apps','3D anatomy')+'</nav>'
- body+='<aside class="tool-callout">For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.</aside>'
  body+=section(b,'Free apps worth keeping','One job per app. Less scrolling, more learning.','phone','sky','free-apps')+'<div class="app-list">'
  for a in [a for a in DATA['apps'] if a['free']]:
   body+='<article class="app-card" id="'+a['id']+'"><div class="app-top"><img src="'+a['icon']+'" width="64" height="64" alt="'+e(a['title'],quote=True)+' app icon" loading="lazy" decoding="async"><div><span class="tool-eyebrow">'+e(a['category'])+'</span><h3>'+e(a['title'])+'</h3><p class="tool-publisher">'+e(a['publisher'])+'</p></div></div><p>'+e(a['description'])+'</p><div class="tool-tags">'+''.join('<span>'+e(t)+'</span>' for t in a['uses'])+'</div><details class="app-how"><summary>A useful way to use it '+b.icon('chevron')+'</summary><p>'+e(a['workflow'])+'</p></details><p class="app-access">'+e(a['access'])+'</p>'+b.link(a['store'],'Get on Google Play '+b.icon('external'),'button tool-play')+'</article>'
- body+='</div></section>'+section(b,'Biosphera 3D anatomy','Rotate it. Hide it. Name it. Then meet it in the dissection hall.','bone','mint','anatomy-apps')+'<p class="tool-copy">Species models for seeing how structures fit together. These are paid publisher apps; they supplement your atlas and practical teaching.</p><div class="anatomy-app-grid">'
+ body+='</div></section><aside class="tool-callout">For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.</aside>'+section(b,'Biosphera 3D anatomy','Rotate it. Hide it. Name it. Then meet it in the dissection hall.','bone','mint','anatomy-apps')+'<p class="tool-copy">Species models for seeing how structures fit together. These are paid publisher apps; they supplement your atlas and practical teaching.</p><div class="anatomy-app-grid">'
  for a in [a for a in DATA['apps'] if not a['free']]:
   body+='<article class="anatomy-app" id="'+a['id']+'"><img src="'+a['icon']+'" width="56" height="56" alt="'+e(a['title'],quote=True)+' app icon" loading="lazy" decoding="async"><div><h3>'+e(a['title'])+'</h3><small>Biosphera3D · paid app</small></div><p>'+e(a['description'])+'</p></article>'
  body+='</div><div class="tool-pending" id="telegram-apps">'+b.icon('telegram')+'<div><h3>Anatomy app collection</h3>'
@@ -46,7 +48,7 @@ def apps(b):
  body+=related(b,g['id'])+'</div></div>'
  b.write_page(route(g),g['title'],g['description'],body,[(a['title'],route(g)+'#'+a['id']) for a in DATA['apps']])
 def resources(b):
- g=GUIDES[1];body=intro(b,g,'Twelve useful tabs. A little less “where was that PDF?”')
+ g=GUIDES[1];body=intro(b,g,'Less hunting. More learning.')
  body+='<section class="tool-directory" data-tool-collection><div class="directory-controls rx-section"><label for="resource-query">What are you looking for?</label><div class="directory-search">'+b.icon('search')+'<input id="resource-query" type="search" placeholder="Try pathology, TANUVAS or research" autocomplete="off" data-tool-query></div>'+filters(['Notes','Clinical','Research','Official'],'Filter websites by use')+'<p class="tool-result-count" role="status" data-tool-status>'+str(len(DATA['resources']))+' curated resources</p></div><div class="tool-results">'
  for i,r in enumerate(DATA['resources']):
   domain=urlsplit(r['url']).netloc.removeprefix('www.')
@@ -56,15 +58,14 @@ def resources(b):
  body+=related(b,g['id'])+'</div></div>'
  b.write_page(route(g),g['title'],g['description'],body,[(r['title'],r['url']) for r in DATA['resources']])
 def careers(b):
- g=GUIDES[2];body=intro(b,g,'Your degree has more exits than “clinic or government job”.')
- body+='<div class="career-at-glance"><div><strong>'+str(len(DATA['careers']))+'</strong><span>career routes</span></div><div><strong>India first</strong><span>with overseas pathways</span></div><div><strong>Your next step</strong><span>not a promised salary</span></div></div>'
+ g=GUIDES[2];body=intro(b,g,'Your degree has options.')
  body+='<nav class="tool-jumps" aria-label="Career guide sections">'+b.link('#career-routes','Explore routes')+b.link('#pg-or-practice','BVSc or MVSc?')+b.link('#overseas','Working abroad')+b.link('#next-30-days','Your next 30 days')+'</nav>'
- body+='<aside class="tool-callout">For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.</aside>'
  body+=section(b,'Find work you would actually enjoy','Choose the working day before choosing the job title.','cap','peach','career-routes')+'<div data-tool-collection>'+filters(['Clinical','Production','Public service','Research','Industry'],'Filter careers by work setting')+'<p class="tool-result-count" role="status" data-tool-status>'+str(len(DATA['careers']))+' routes to explore</p><div class="career-grid">'
  source_map={s['id']:s for s in DATA['careerSources']}
  for i,c in enumerate(DATA['careers']):
   body+='<article class="career-card" id="'+c['id']+'" data-tool-item data-category="'+c['category']+'"><div class="career-title"><span class="rx-row-icon '+['sky','mint','peach','purple'][i%4]+'">'+b.icon(c['icon'])+'</span><div><span class="tool-eyebrow">'+e(c['category'])+'</span><h3>'+e(c['title'])+'</h3></div></div><p>'+e(c['summary'])+'</p><p class="career-fit"><strong>You might like it if…</strong> '+e(c['fit'])+'</p><details class="career-details"><summary>Work, entry route & first step '+b.icon('chevron')+'</summary><div><h4>The actual work</h4><p>'+e(c['work'])+'</p><h4>How you get there</h4><p>'+e(c['entry'])+'</p><div class="career-first"><h4>Try this first</h4><p>'+e(c['first'])+'</p></div><h4>What to ask before committing</h4><p>'+e(c['watch'])+'</p><p class="career-source-links">Read the source: '+''.join(b.link('#source-'+sid,e(source_map[sid]['title'].split(' — ')[0])) for sid in c['sources'])+'</p></div></details></article>'
  body+='</div><p class="tool-no-results" data-tool-empty hidden>Choose another setting to explore more routes.</p></div></section>'
+ body+='<aside class="tool-callout">For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.</aside>'
  body+=section(b,'BVSc, a job or postgraduate study?','Choose the training for the work, not the other way round.','map','mint','pg-or-practice')+'<div class="career-decisions"><article><h3>Start with supervised practice</h3><p>Useful when you want clinical confidence, case exposure and a clearer idea of your interests. Compare mentorship, case discussions and safe responsibility before comparing job titles.</p><p><strong>Ask:</strong> Who reviews my decisions? How are emergencies and referrals handled?</p></article><article><h3>Choose a relevant MVSc</h3><p>Useful for depth in a discipline and routes that ask for postgraduate training. Compare faculty, facilities, clinical or laboratory exposure and research support. Check the university’s current admission notice, not last year’s coaching post.</p><p><strong>Ask:</strong> Which daily work will this subject prepare me for?</p></article><article><h3>Plan for research or academia</h3><p>Look at the qualifications in real vacancies before deciding on MVSc, PhD or additional examinations. Teaching, scientist and project posts have different rules. Build evidence appraisal, statistics, writing and presentation skills alongside the degree.</p><p><strong>Ask:</strong> Do I enjoy the process of research as much as the subject?</p></article></div><p class="career-inline-sources">'+b.link('#source-ivri','Check IVRI’s MVSc information')+b.link('#source-icar','Check the current ICAR examination bulletin')+'</p></section>'
  body+=section(b,'Thinking about working abroad?','An overseas degree and a licence to practise are different things.','map','sky','overseas')+'<div class="overseas-grid">'
  for title,desc,sid in [('United Kingdom','Check whether the RCVS recognises your primary qualification. If it does not, the statutory examination route includes eligibility requirements and knowledge and clinical assessments.','rcvs'),('United States & Canada','Check the licensing authority for your intended jurisdiction. For non-accredited qualifications, educational equivalency routes such as ECFVG or PAVE can form part of NAVLE eligibility; passing NAVLE alone is not a complete licence.','icva'),('Australia & New Zealand','Check whether your qualification is recognised. The AVBC’s Australasian Veterinary Examination assesses eligible overseas-qualified veterinarians whose qualifications are not recognised for registration.','avbc')]:

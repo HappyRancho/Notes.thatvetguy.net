@@ -97,7 +97,7 @@ def discovery():
         route=checklist_url(subject['year'],subject['subject']);index.append(dict(id='syllabus-'+subject['slug'],title=subject['subject']+' Syllabus Checklist',subject=subject['subject'],year=subject['year'],type='Syllabus',format='Checklist',kind='other',group='Syllabus',path='Syllabus/'+subject['subject'],permalink=route,url=route,fileIds=[],keywords=[subject['subject'],'syllabus','course outline','checklist']))
     from study_tools import GUIDES,route as tool_route
     for guide in GUIDES:
-        u=tool_route(guide);index.append(dict(id='study-guide-'+guide['id'],title=guide['title'],subject='Study Tools',year=None,type='Guide',format='Guide',kind='other',group='Study Tools',path='Study Tools/'+guide['title'],permalink=u,url=u,fileIds=[],keywords=[guide['title'],guide['description'],'apps','career' if guide['id']=='veterinary-careers' else 'study']))
+        u=tool_route(guide);index.append(dict(id='study-guide-'+guide['id'],title=guide['title'],subject='Study Tools',year=None,type='Guide',format='Guide',kind='other',group='Study Tools',path='Study Tools/'+guide['title'],permalink=u,url=u,fileIds=[],keywords=[guide['title'],guide['description'],'study tools']))
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').rglob('index.html'):
