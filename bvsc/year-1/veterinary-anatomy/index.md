@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Anatomy
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=1)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -93,27 +93,17 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-2 books
+5 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Primary Veterinary AnatomyR. K. Ghosh
-
-A practical starting text for anatomical terminology, organ systems and exam preparation.
-
-Reading recommendation · no linked copy available.
-
-- 
-
-Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing
-
-Use alongside dissection to compare structures across domestic species.
-
-Reading recommendation · no linked copy available.
+- [Color Atlas of Veterinary HistologyLinda M. Bacha · Google Drive](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/)
+- [Colour Atlas of Veterinary Anatomy - The RuminantsGoogle Drive](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
+- [Primary Veterinary AnatomyR. K. Ghosh · Reading guide](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
+- [Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing · Reading guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
+- [Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -134,4 +124,4 @@ Use labelled diagrams to compare the same structure between species, then explai
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

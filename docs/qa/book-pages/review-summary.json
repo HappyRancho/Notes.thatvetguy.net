@@ -1,0 +1,261 @@
+{
+  "reviewCommit": "392409fa93d8d054745197b99440efd1b7af6990",
+  "workflow": "https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40643471778",
+  "books": {
+    "views": 236,
+    "errors": [],
+    "interactions": [
+      "All book pages in two themes at 390px; six representative pages at 360/430/768/1280px; exact provider labels/URLs; source images; objective, handbook, subject and search navigation; title/author filtering; no-JS access and source disclosure."
+    ]
+  },
+  "regression": {
+    "phase": "mockup-after",
+    "views": 40,
+    "bugs": [],
+    "lighthouse": 5,
+    "scoreFailures": [],
+    "errors": []
+  },
+  "lighthouse": [
+    {
+      "url": "/books/",
+      "scores": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2332.9542,
+      "cls": 0.005687432167703504,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.93
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "score": 0
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0.5
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/books/animal-nutrition/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2108.8965,
+      "cls": 0.005687432167703504,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "score": 0
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1956.63435,
+      "cls": 0.005687432167703504,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.97
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/books/plumbs-handbook/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1954.8737999999998,
+      "cls": 0.005687432167703504,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.97
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/books/primary-veterinary-anatomy/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1959.99555,
+      "cls": 0.005687432167703504,
+      "failures": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "score": 0.96
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.97
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

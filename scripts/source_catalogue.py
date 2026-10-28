@@ -41,13 +41,25 @@ def build_library(refresh=False):
   years.append(dict(year=yr,subjects=subjects,count=total,extras=[],rawCount=total,fileCount=total))
  drive_rows=[r for r in rows if r['url'].startswith('https://drive.google.com/')]
  curated=json.loads((ROOT/'data/collections.json').read_text())
+ from book_catalogue import books as book_registry
+ book_rows=book_registry();book_by_resource={b.get('resourceId'):b for b in book_rows if b.get('resourceId')}
  for f in curated['resources']:
   clinical=f['collection'] in ['drug-index','handbooks'];rid='telegram-'+f['id'];page='/clinical/'+f['collection']+'/' if clinical else '/objective/';kind='other' if clinical else 'objective';fmt='PDF'
+  page=book_by_resource[rid]['page']
   variant=dict(id=rid,name=f['title'],mime='application/pdf',size=None,updated=None,url=f['url'],format=fmt,extension=fmt,download=None)
   rows.append(dict(f,id=rid,name=f['title'],year=None,subject='Clinical References' if clinical else 'Veterinary Objective Resources',unit=('Handbooks' if f['collection']=='handbooks' else 'Drug Index Collection') if clinical else 'Objective Notes' if f['collection']=='objective-notes' else 'Question Banks',subjectSlug=None,path=f['collection']+'/'+f['title'],mime=variant['mime'],size=None,updated=None,kind=kind,group='Clinical References' if clinical else 'Objective',format=fmt,variants=[variant],duplicateIds=[],photoIds=[],type='Handbook' if clinical else 'Objective',page=page,permalink=page+'#file-'+rid,sourcePage=f['url'],lastVerified=curated['reviewed'],collections=[f['collection']],keywords=[f['title'],f['description']],new=False))
- data=dict(schemaVersion=3,lastInspected=max(source['reviewed'],curated['reviewed'],tanuvas['reviewed']),files=rows,years=years,stats=dict(rawFiles=len(drive_rows),canonicalResources=len(rows),curatedResources=len(curated['resources']),tanuvasResources=sum('tanuvas' in r['collections'] for r in rows),duplicatesHidden=source['stats']['duplicateLinksMerged']+len(source['notes'])+len(tanuvas['notes'])-len(incoming),imagesGrouped=0),unsorted=[])
+ for book in book_rows:
+  if not book['files']:continue
+  variants=[]
+  for f in book['files']:
+   fmt=f['name'].rsplit('.',1)[-1].upper();binary=f['mime']!='application/vnd.google-apps.folder';download='https://drive.google.com/uc?export=download&id='+f['id'] if isinstance(f['size'],int) and f['size']<25_000_000 and binary else None
+   variants.append(dict(f,format=fmt,extension=fmt,download=download))
+  f=book['files'][0];rid=book['resourceId'];page=book['page']
+  rows.append(dict(id=rid,name=book['title'],title=book['title'],year=f['year'],subject=f['subject'],subjectSlug=slug(f['subject']),unit='Subject Books',path=f['path'],mime=f['mime'],size=f['size'],updated=f['updated'],kind='books',group='Books',format=variants[0]['format'],variants=variants,duplicateIds=[],photoIds=[],type='Book',page=page,permalink=page+'#file-'+rid,url=f['url'],source='Vetverse',sourceCredit=book.get('author') or 'Vetverse collection',sourcePage=f['sourceFolder'],lastVerified=book['lastVerified'],collections=['subject-books'],keywords=[book['title'],book.get('author') or '',f['subject'],'Books'],description=book['description'],new=False))
+ drive_rows=[dict(year=v.get('year',r['year']),path=v.get('path',r['path']),id=v['id'],name=v['name'],mime=v['mime'],size=v['size'],updated=v['updated'],url=v['url']) for r in rows for v in r['variants'] if v['url'].startswith('https://drive.google.com/')]
+ data=dict(schemaVersion=3,lastInspected=max(source['reviewed'],curated['reviewed'],tanuvas['reviewed'],max((b['lastVerified'] for b in book_rows),default=source['reviewed'])),files=rows,years=years,stats=dict(rawFiles=len(drive_rows),canonicalResources=len(rows),curatedResources=len(curated['resources']),tanuvasResources=sum('tanuvas' in r['collections'] for r in rows),duplicatesHidden=source['stats']['duplicateLinksMerged']+len(source['notes'])+len(tanuvas['notes'])-len(incoming),imagesGrouped=0),unsorted=[])
  (ROOT/'data/resources.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
  (ROOT/'data/catalogue.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
- (ROOT/'data/drive_manifest.json').write_text(json.dumps([{k:r[k] for k in ['year','path','id','name','mime','size','updated','url']} for r in drive_rows],ensure_ascii=False,indent=2)+'\n')
+ (ROOT/'data/drive_manifest.json').write_text(json.dumps(drive_rows,ensure_ascii=False,indent=2)+'\n')
  (ROOT/'data/duplicates-report.json').write_text(json.dumps(dict(source='VetBVSc',duplicateLinksMerged=source['stats']['duplicateLinksMerged'],duplicates=[],formatMerges=[],photoSets=[],reclassified=[],extras=[]),indent=2)+'\n')
  return data

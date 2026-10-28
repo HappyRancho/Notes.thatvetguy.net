@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/BVSc Notes & Books
 
@@ -17,19 +17,19 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Anatomy
 
-2 books · 19 notes
+5 books · 19 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)[
 
 ### Veterinary Physiology
 
-2 books · 15 notes
+4 books · 15 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)[
 
 ### Livestock Production Management
 
-2 books · 29 notes
+3 books · 29 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
@@ -50,25 +50,25 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Microbiology
 
-1 book · 67 notes
+5 books · 67 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)[
 
 ### Veterinary Pathology
 
-1 book · 52 notes
+3 books · 52 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[
 
 ### Animal Genetics and Breeding
 
-1 book · 48 notes
+2 books · 48 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)[
 
 ### Animal Nutrition
 
-2 books · 33 notes
+3 books · 33 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
@@ -83,13 +83,13 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Pharmacology and Toxicology
 
-1 book · 31 notes
+4 books · 31 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[
 
 ### Veterinary Parasitology
 
-1 book · 50 notes
+2 books · 50 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[
 
@@ -101,13 +101,13 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Livestock Products Technology
 
-2 books · 49 notes
+7 books · 49 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[
 
 ### Veterinary and Animal Husbandry Extension Education
 
-1 book · 25 notes
+2 books · 25 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[
 
@@ -134,19 +134,19 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Medicine
 
-2 books · 23 notes
+16 books · 23 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[
 
 ### Veterinary Surgery and Radiology
 
-2 books · 23 notes
+9 books · 23 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[
 
 ### Veterinary Gynaecology and Obstetrics
 
-1 book · 13 notes
+6 books · 13 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)[
 
@@ -158,4 +158,4 @@ Roadmap available
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

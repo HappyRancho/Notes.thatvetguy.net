@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Pathology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=3)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -204,19 +204,15 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-1 book
+3 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-A Textbook of Veterinary General PathologyJ. L. Vegad
-
-Start with injury, inflammation and repair before moving to individual diseases.
-
-Reading recommendation · no linked copy available.
+- [A Textbook of Veterinary General PathologyJ. L. Vegad · Google Drive](https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/)
+- [Textbook of Veterinary PathologyGoogle Drive](https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/)
+- [The Necropsy BookJohn M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom · Google Drive](https://notes.thatvetguy.net/books/necropsy-book-john-king/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -237,4 +233,4 @@ Link the underlying mechanism to gross and microscopic changes, then practise de
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

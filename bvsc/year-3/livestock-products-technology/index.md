@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Livestock Products Technology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=7)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -187,27 +187,19 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-2 books
+7 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Outlines of Dairy TechnologySukumar De
-
-Support your study of milk processing, preservation and dairy products.
-
-Reading recommendation · no linked copy available.
-
-- 
-
-Meat and Meat Products TechnologyB. D. Sharma
-
-Read alongside abattoir and meat-science teaching for processing and product concepts.
-
-Reading recommendation · no linked copy available.
+- [Gracey's Meat Hygiene 11EditionGoogle Drive](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
+- [Lawrie's Meat ScienceR. A. Lawrie · Google Drive](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
+- [Meat and Meat Products TechnologyB. D. Sharma · Reading guide](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
+- [Meat Processing TechnologyGoogle Drive](https://notes.thatvetguy.net/books/meat-processing-technology/)
+- [Ockerman Animal Byproduct ProcessingGoogle Drive](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
+- [Outlines of Dairy TechnologySukumar De · Reading guide](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
+- [Principles of Meat Science — ForrestGoogle Drive](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -228,4 +220,4 @@ Use process flow diagrams to connect preservation methods, product quality and t
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

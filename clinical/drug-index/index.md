@@ -1,10 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Drug Index Collection
 
 # Drug Index Collection
 
-Veterinary drug indexes, a drug handbook, a wall reference and vaccination schedules in one collection. Open a resource in Telegram and check its edition before clinical use.
+Veterinary drug indexes, a drug handbook, a wall reference and vaccination schedules in one collection. Choose a resource to see its details and Telegram download link. Check the edition before clinical use.
 
 For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.
 
@@ -16,7 +16,7 @@ For study, not prescribing. Verify the species, dose and current clinical guidan
 
 A veterinary drug-index reference to consult alongside current product information.
 
-[Open Book: VENDEX: The Fundamental Veterinary Drug Index](https://t.me/c/4430259212/3)
+[Open Book: VENDEX: The Fundamental Veterinary Drug Index](https://notes.thatvetguy.net/books/vendex/)
 
 #2
 
@@ -26,7 +26,7 @@ A veterinary drug-reference collection labelled NAVSARI.
 
 NAVSARI
 
-[Open Book: Veterinary Drug Index by NAVSARI](https://t.me/c/4430259212/4)
+[Open Book: Veterinary Drug Index by NAVSARI](https://notes.thatvetguy.net/books/navsari-drug-index/)
 
 #3
 
@@ -34,7 +34,7 @@ NAVSARI
 
 A drug-handbook reference. Check the edition and species-specific guidance before use.
 
-[Open Book: Plumb’s Veterinary Drug Handbook](https://t.me/c/4430259212/5)
+[Open Book: Plumb’s Veterinary Drug Handbook](https://notes.thatvetguy.net/books/plumbs-handbook/)
 
 #4
 
@@ -42,7 +42,7 @@ A drug-handbook reference. Check the edition and species-specific guidance befor
 
 A printable quick-reference sheet; verify every dose against current clinical guidance.
 
-[Open Book: Drug Dose — Wall Reference](https://t.me/c/4430259212/7)
+[Open Book: Drug Dose — Wall Reference](https://notes.thatvetguy.net/books/wall-drug-dose/)
 
 #5
 
@@ -50,8 +50,8 @@ A printable quick-reference sheet; verify every dose against current clinical gu
 
 A vaccination-schedule reference to compare with species, local guidance and product labels.
 
-[Open Book: Vaccination Schedule of All Animals](https://t.me/c/4430259212/6)
+[Open Book: Vaccination Schedule of All Animals](https://notes.thatvetguy.net/books/vaccination-schedule/)
 
-These links open a private Telegram collection. You need access to that collection to view its posts.
+Downloads use a private Telegram collection. Access is required to view its posts.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

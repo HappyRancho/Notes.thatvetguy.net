@@ -52,6 +52,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
+    if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
     if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
     reader_script=f'<script src="/assets/subject-reader.js?v={VERSION}" defer></script>' if 'data-subject-reader' in body else ''
@@ -83,9 +84,15 @@ def discovery():
         if not keep_complete_resource(r):
             continue
         item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink','keywords']};item['fileIds']=(r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
+    from book_catalogue import books as book_registry
+    for book in book_registry():
+        if not book.get('resourceId'):index.append(dict(id='book-guide-'+book['id'],title=book['title'],subject=', '.join(s['name'] for s in book['subjects']),year=book['subjects'][0]['year'] if book['subjects'] else None,type='Book',format='Guide',kind='books',group='Books',path='Books/'+book['title'],permalink=book['page'],url=book['page'],fileIds=[],keywords=[book['title'],book.get('author') or '', 'Books']))
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').rglob('index.html'):
+        route='/'+str(stale.parent.relative_to(ROOT))+'/'
+        if route not in geo.PAGES:stale.unlink();stale.with_suffix('.md').unlink(missing_ok=True)
+    for stale in (ROOT/'books').rglob('index.html'):
         route='/'+str(stale.parent.relative_to(ROOT))+'/'
         if route not in geo.PAGES:stale.unlink();stale.with_suffix('.md').unlink(missing_ok=True)
     # Clinical collections remain available; the old landing page returns to the home section.
@@ -104,6 +111,8 @@ def discovery():
     redirects.write_text('\n'.join(lines)+'\n');(ROOT/'.nojekyll').touch()
 def run():
     b=sys.modules[__name__];homepage.render(b);library_pages.render(b)
+    from book_pages import render as render_books
+    render_books(b)
     body=article_intro(MICROCOPY['404'][0],'Try a subject or search for the resource you need.')+link('/bvsc/','Back to the notes '+icon('arrow'),'button')+'</div>'
     write_page('/404/','Page not found','Find your way back to veterinary notes, books and study resources.',body,noindex=True)
     (ROOT/'404.html').write_text((ROOT/'404/index.html').read_text());discovery()

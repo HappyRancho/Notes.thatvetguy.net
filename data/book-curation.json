@@ -1,0 +1,115 @@
+{
+  "excludedFiles": {
+    "14W3yH0ZhyeuZmzoAZHyJzgekhqeXEMHY": "Objective question pack, not a subject textbook",
+    "1f4HW1kuYVDH8xlyMdwjnPcZ_DkQqTCFv": "Objective question pack, not a subject textbook"
+  },
+  "fileMerge": {
+    "1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF": "dukes-physiology-of-domestic-animals",
+    "1WbSAFwwzlha7zaHluQ7FzSSLeTX7zb4Q": "cunningham-s-textbook-of-veterinary-physiology",
+    "1tXZyya7hVjh38o1T71Hqkj2RwfygKus-": "a-textbook-of-veterinary-general-pathology",
+    "1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f": "textbook-of-animal-husbandry-and-livestock-extension",
+    "1DQ05pX9kM6lQ9tdOfQWy2GTEuaJyvwRW": "essentials-of-veterinary-pharmacology-and-therapeutics",
+    "1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM": "veterinary-epidemiology",
+    "1m8BuPXfGu0Rj0J4STWEsk0Ilu4dH1pUn": "textbook-of-clinical-veterinary-medicine",
+    "1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY": "veterinary-medicine",
+    "18crjTihtryrbE5McfguxOxde9xTYjjO0": "ruminant-surgery",
+    "1mGlzshSsykL0lNOpo_65VTJzz_-dDDDi": "veterinary-reproduction-and-obstetrics",
+    "1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_": "veterinary-reproduction-and-obstetrics",
+    "1mr1sLm0C53nUKO_YKiOV80nXeUzCoVcu": "textbook-of-veterinary-internal-medicine",
+    "1tGP8prOcf7cKz-2x0O8ctr-BI9BIauRQ": "textbook-of-veterinary-internal-medicine",
+    "1lYhetKBdgnAYZwt26-JtQR7R-R7TNR0z": "pathways-to-pregnancy-and-parturition",
+    "1orKFVdVBfLt2FTidFUYxUQJl51C5fTrO": "pathways-to-pregnancy-and-parturition",
+    "1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR": "principles-of-animal-nutrition-and-feed-technology",
+    "1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r": "animal-nutrition",
+    "1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe": "applied-nutrition-d-v-reddy"
+  },
+  "fileTitles": {
+    "1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ": "Ananthanarayan — Microbiology",
+    "1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR": "D. V. Reddy — Part 1",
+    "1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe": "D. V. Reddy — Part 2",
+    "1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz": "Necropsy Book — John King",
+    "1ijD_vNICIFjPCDVHfcbg50KwbBzJG362": "Clinical Examination of Farm Animals",
+    "1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg": "Principles of Meat Science — Forrest"
+  },
+  "workTitles": {
+    "textbook-of-veterinary-internal-medicine": "Textbook of Veterinary Internal Medicine",
+    "pathways-to-pregnancy-and-parturition": "Pathways to Pregnancy and Parturition",
+    "necropsy-book-john-king": "The Necropsy Book",
+    "applied-nutrition-d-v-reddy": "Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals",
+    "ananthanarayan-microbiology": "Ananthanarayan and Paniker’s Textbook of Microbiology"
+  },
+  "collectionTitles": {
+    "ultimate-vet-handbook": "Ultimate Vet Handbook",
+    "veterinary-clinician-handbook": "Handbook for Veterinary Clinician",
+    "small-animal-medicine-handbook": "Pocket Handbook of Small Animal Medicine",
+    "veterinary-practice-handbook": "Veterinary Practice Handbook",
+    "small-animal-radiology-handbook": "Handbook of Small Animal Radiology and Ultrasound",
+    "small-animal-colour-handbook": "Colour Handbook of Small Animal Emergency and Critical Care"
+  },
+  "notes": [
+    "Only explicit subject Books folders are imported. MCQ/objective packs are excluded from textbook additions.",
+    "Merged works retain every source file and edition label; bibliographic details do not guarantee the linked copy uses that edition."
+  ],
+  "authors": {
+    "necropsy-book-john-king": "John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom",
+    "plumbs-handbook": "Donald C. Plumb",
+    "animal-nutrition": "P. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. Wilkinson",
+    "applied-nutrition-d-v-reddy": "D. V. Reddy",
+    "ananthanarayan-microbiology": "C. K. J. Paniker (editor)",
+    "animal-science-refresher": "Sheelendra Kumar Tanwar",
+    "veterinary-obstetrics-and-genital-disease": "Stephen J. Roberts",
+    "pocket-guide-diagnostic-tests": "Diana Nicoll, Stephen J. McPhee and Michael Pignone"
+  },
+  "authorEvidence": {
+    "necropsy-book-john-king": "Title page of source file 1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz",
+    "plumbs-handbook": "NLM catalogue 101571748; attribution is edition-dependent",
+    "animal-nutrition": "Verified source cover: 1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r",
+    "applied-nutrition-d-v-reddy": "Verified source title page: 1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe",
+    "ananthanarayan-microbiology": "Verified source cover: 1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ",
+    "pocket-guide-diagnostic-tests": "Verified against the linked reference cover; duplicate Stephen McPhee author alias removed."
+  },
+  "bibliographicReferences": {
+    "plumbs-handbook": [
+      "https://books.google.com/books?id=PhBBygEACAAJ",
+      "https://www.ncbi.nlm.nih.gov/nlmcatalog/101571748"
+    ],
+    "animal-science-refresher": [
+      "https://play.google.com/store/books/details?id=kwslDwAAQBAJ"
+    ]
+  },
+  "metadataAliases": {
+    "animal-nutrition": "animal-nutrition-7th-edition",
+    "applied-nutrition-d-v-reddy": "d-v-reddy-part-2"
+  },
+  "fileCoverEvidence": {
+    "animal-nutrition": "1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r",
+    "ananthanarayan-microbiology": "1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ"
+  },
+  "referenceISBNs": {
+    "primary-veterinary-anatomy": [
+      "9789385274725"
+    ],
+    "plumbs-handbook": [
+      "9780470959640",
+      "9781119344452"
+    ],
+    "animal-science-refresher": [
+      "9781618138170",
+      "9789357013413"
+    ]
+  },
+  "descriptions": {
+    "primary-veterinary-anatomy": "Primary Veterinary Anatomy introduces gross anatomy for veterinary students. R. K. Ghosh’s text relates the arrangement of organs and body regions to dissection, with comparative material across domestic animals and birds. Use it to build anatomical terminology, identify structures in practical classes and connect systems with their position and relationships. Check your university’s prescribed edition before planning detailed reading.",
+    "plumbs-handbook": "Plumb’s Veterinary Drug Handbook is a veterinary drug reference organised around individual medicines. It brings together information used to look up veterinary drug monographs, including precautions and interactions. It is a reference for trained clinical use, not a substitute for diagnosis or current product information. Confirm the edition of the linked copy and use current, species-specific clinical guidance.",
+    "applied-nutrition-d-v-reddy": "Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals is a nutrition text by D. V. Reddy. The source title page identifies this copy as the third edition. It is filed in the Animal Nutrition Books collection for second-year BVSc & AH reading. Use your course outline to select the relevant species and nutrition themes, and keep this applied text distinct from Principles of Animal Nutrition and Feed Technology."
+  },
+  "rejectedCovers": {
+    "essentials-of-veterinary-pharmacology-and-therapeutics": "Provider returned an image-not-available placeholder.",
+    "livestock-production-management": "Provider returned an image-not-available placeholder.",
+    "poultry-metabolic-disorders-and-mycotoxins": "Provider returned a generic book drawing, not the book cover.",
+    "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": "Unusable dark scan and incorrect bibliographic author."
+  },
+  "rejectedBibliography": {
+    "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": "Catalogue incorrectly credits Arthur Symons; do not publish."
+  }
+}

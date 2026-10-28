@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Livestock Production Management
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=7)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -147,27 +147,15 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-2 books
+3 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Livestock Production ManagementN. S. R. Sastry and C. K. Thomas
-
-Connect housing, handling and routine management with species-specific husbandry.
-
-Reading recommendation · no linked copy available.
-
-- 
-
-A Textbook of Animal HusbandryG. C. Banerjee
-
-A broader reference for breeds, production systems and farm management.
-
-Reading recommendation · no linked copy available.
+- [A Textbook of Animal HusbandryG. C. Banerjee · Reading guide](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
+- [Livestock Production ManagementN. S. R. Sastry and C. K. Thomas · Reading guide](https://notes.thatvetguy.net/books/livestock-production-management/)
+- [Restraint and Handling of Wild and Domestic AnimalsMurray Fowler · Google Drive](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -188,4 +176,4 @@ Compare management requirements by species, age and production stage, with welfa
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

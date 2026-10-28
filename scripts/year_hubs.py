@@ -2,18 +2,12 @@
 from html import escape as e
 from pathlib import Path
 import json,re
-from library import slug,natural
+from library import slug,natural,normal
 ROOT=Path(__file__).resolve().parent.parent
 
 def subject_books(b,books):
-    if not books:return '<p class="year-book-empty">No book recommendation listed yet. Check your department’s prescribed practical manual.</p>'
-    rows=[]
-    for r in books:
-        summary='<span class="rx-row-icon sky" aria-hidden="true">'+b.icon('book')+'</span><span class="year-book-copy"><strong>'+e(r['title'])+'</strong><span>'+e(r['author'])+'</span></span>'+b.icon('chevron')
-        # Research references are not shared copies. A real disclosure exposes
-        # the existing reading guidance without inventing a download URL.
-        rows.append('<li><details class="year-book-detail"><summary>'+summary+'</summary><div class="year-book-guidance"><p>'+e(r['description'])+'</p><p class="year-book-status">Reading recommendation · no linked copy available.</p></div></details></li>')
-    return '<ul class="year-book-list">'+''.join(rows)+'</ul>'
+    if not books:return '<p class="year-book-empty">No book listed for this subject yet. Check your department’s prescribed reading.</p>'
+    return '<ul class="year-book-list">'+''.join('<li data-row-search="'+e(normal(r['title']+' '+(r.get('author') or '')),quote=True)+'">'+b.link(r['page'],'<span class="rx-row-icon sky" aria-hidden="true">'+b.icon('book')+'</span><span class="year-book-copy"><strong>'+e(r['title'])+'</strong><span>'+e((r.get('author')+' · ' if r.get('author') else '')+r['access'])+'</span></span>'+b.icon('chevron'),'year-book-link')+'</li>' for r in books)+'</ul>'
 
 def notes_page(b,y):
     from subject_pages import legacy_notes
@@ -21,14 +15,15 @@ def notes_page(b,y):
 
 def index(b):
     from homepage import subject_icon
-    books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books']
+    from book_catalogue import books as book_registry
+    books=book_registry()
     desc='BVSc & AH notes, TANUVAS material and recommended books, organised by professional year. Choose a year or open a subject directly.'
     body=b.article_intro('BVSc Notes & Books',desc)+'<div class="bvsc-year-sections">';items=[]
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/';tone=['yellow','peach','sky','mint'][year-1]
         body+='<section class="bvsc-year-section" id="year-'+str(year)+'"><header class="bvsc-year-heading"><span class="bvsc-year-number '+tone+'" aria-hidden="true">'+str(year)+'</span><div><h2>'+e(label)+'</h2><p>'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' notes</p></div>'+b.link(path,'View year '+b.icon('arrow'),'bvsc-year-link')+'</header><div class="bvsc-subject-grid">'
         for subject in y['subjects']:
-            ic,icon_tone=subject_icon(subject['name']);nbooks=sum(r['year']==year and r['subject']==subject['name'] for r in books)
+            ic,icon_tone=subject_icon(subject['name']);nbooks=sum({'year':year,'name':subject['name']} in r['subjects'] for r in books)
             meta=(str(nbooks)+' '+('book' if nbooks==1 else 'books')+' · ' if nbooks else '')+str(subject['count'])+' '+('note' if subject['count']==1 else 'notes')
             if not nbooks and not subject['count']:meta='Roadmap available'
             url=path+subject['slug']+'/';items.append((subject['name']+' · '+label,url))
@@ -41,7 +36,8 @@ def render(b):
     from course_outlines import outline_url
     from subject_pages import year_nav,subject_tile,render as render_subject
     from homepage import CONTENT
-    books=json.loads((ROOT/'data/book-recommendations.json').read_text())['books']
+    from book_catalogue import books as book_registry
+    books=book_registry()
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/'
         desc=f'{label} BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.'

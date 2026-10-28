@@ -60,6 +60,8 @@ class Markdown(HTMLParser):
         if tag in ('section','article','div','p','ul','ol','details','nav'):self.out.append('\n\n' if tag in ('section','article','p','details','nav') else '\n')
         if re.fullmatch('h[1-6]',tag):self.out.append('\n\n'+'#'*int(tag[1])+' ')
         if tag=='li':self.out.append('\n- ')
+        if tag=='dt':self.out.append('\n- ')
+        if tag=='dd':self.out.append(': ')
         if tag=='br':self.out.append(' ')
         if tag=='a':
             u=a.get('href','');u=BASE+u if u.startswith('/') else u
@@ -100,8 +102,18 @@ def structured(path,title,description,items,home,body,records,date):
         if path.startswith('/bvsc/') and path!='/bvsc/':crumbs.append(('BVSc Notes & Books','/bvsc/'))
         year=re.match(r'/bvsc/(year-([1-4]))/[^/]+/',path)
         if year:crumbs.append(('Year '+year[2],'/bvsc/'+year[1]+'/'))
+        if path.startswith('/books/') and path!='/books/':crumbs.append(('Veterinary Books','/books/'))
         crumbs.append((title,path))
         graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]})
+    if path.startswith('/books/') and path!='/books/':
+        from book_catalogue import books as book_registry
+        book=next(b for b in book_registry() if b['page']==path)
+        entry={'@type':['Book','LearningResource'] if book['type'] not in ['Reference sheet','Clinical guide'] else 'LearningResource','@id':BASE+path+'#book','name':book['title'],'url':BASE+path,'description':book['description'],'inLanguage':'en','educationalLevel':'BVSc & AH','learningResourceType':book['type'],'teaches':[s['name'] for s in book['subjects']] or ['Veterinary study'],'dateModified':date}
+        if book.get('author'):entry['editor' if re.search(r'\(editors?\)',book['author'],re.I) else 'author']=[{'@type':'Person','name':re.sub(r'\s*\([^)]*\)|\s+et al\.?','',name).strip()} for name in re.split(r',\s*|\s+and\s+',book['author']) if name.strip().lower() not in ['editors','editor']]
+        if book['references']:entry['citation']=book['references']
+        if book.get('cover'):entry['image']=BASE+book['cover']['path']
+        if book['primaryUrl']:entry['potentialAction']={'@type':'ReadAction','target':book['primaryUrl']}
+        page['mainEntity']={'@id':entry['@id']};graph.append(entry)
     pairs=faq_for(path)
     if pairs:graph.append({'@type':'FAQPage','@id':BASE+path+'#faq','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in pairs]})
     for r in records:
@@ -115,6 +127,8 @@ def structured(path,title,description,items,home,body,records,date):
     return json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')
 
 def social(path):
+    if path.startswith('/books/'):
+        return '/assets/social/books/'+(path.strip('/').split('/')[-1] if path!='/books/' else 'index')+'.webp'
     section=path.strip('/').split('/')[0] or 'home'
     if section=='404':section='home'
     return '/assets/social/'+section+'.webp'

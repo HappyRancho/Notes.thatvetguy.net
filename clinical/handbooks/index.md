@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-20 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[Clinical Resources](https://notes.thatvetguy.net/#clinical)/Handbooks
 
@@ -14,7 +14,7 @@ Quick clinical references for everyday veterinary practice.
 
 DVM standards handbook for Crisp Veterinary Clinical Knowledge.
 
-[Open Book: Ultimate Vet handbook.pdf](https://t.me/Vethandbooks/3)
+[Open Book: Ultimate Vet handbook.pdf](https://notes.thatvetguy.net/books/ultimate-vet-handbook/)
 
 #2
 
@@ -22,7 +22,7 @@ DVM standards handbook for Crisp Veterinary Clinical Knowledge.
 
 Veterinary Clinician Handbook by A U Bhikane.
 
-[Open Book: Handbook for Veterinary Clinician.pdf](https://t.me/Vethandbooks/4)
+[Open Book: Handbook for Veterinary Clinician.pdf](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/)
 
 #3
 
@@ -30,7 +30,7 @@ Veterinary Clinician Handbook by A U Bhikane.
 
 Pocket Handbook of Small Animal Medicine.
 
-[Open Book: Pocket Handbook of Small Animal Medicine.pdf](https://t.me/Vethandbooks/5)
+[Open Book: Pocket Handbook of Small Animal Medicine.pdf](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/)
 
 #4
 
@@ -38,7 +38,7 @@ Pocket Handbook of Small Animal Medicine.
 
 Preliminary Veterinary Handbooks by RK Chandolia.
 
-[Open Book: Veterinary practice handbook.pdf](https://t.me/Vethandbooks/7)
+[Open Book: Veterinary practice handbook.pdf](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
 
 #5
 
@@ -46,7 +46,7 @@ Preliminary Veterinary Handbooks by RK Chandolia.
 
 Handbook of Small Animal Radiology and Ultrasound.
 
-[Open Book: Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...](https://t.me/Vethandbooks/8)
+[Open Book: Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_a...](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
 
 #6
 
@@ -54,8 +54,8 @@ Handbook of Small Animal Radiology and Ultrasound.
 
 Colour handbook of Small Animal Emergency and Critical care.
 
-[Open Book: A_Color_Handbook_of_Small_Animal.pdf](https://t.me/Vethandbooks/9)
+[Open Book: A_Color_Handbook_of_Small_Animal.pdf](https://notes.thatvetguy.net/books/small-animal-colour-handbook/)
 
-These books open in Telegram. Use clinical references alongside supervised training and current guidance.
+Each book page provides its Telegram download link. Use clinical references alongside supervised training and current guidance.
 
-Page updated: 2026-10-20. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

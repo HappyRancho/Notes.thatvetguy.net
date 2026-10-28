@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Animal Genetics and Breeding
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=6)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -180,19 +180,14 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-1 book
+2 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Text Book on Animal Genetics and BreedingP. Kanakaraj
-
-A subject-focused companion for inheritance, population genetics and breeding principles.
-
-Reading recommendation · no linked copy available.
+- [Animal breedingGoogle Drive](https://notes.thatvetguy.net/books/animal-breeding/)
+- [Text Book on Animal Genetics and BreedingP. Kanakaraj · Reading guide](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -213,4 +208,4 @@ Work through inheritance and selection examples step by step, checking assumptio
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

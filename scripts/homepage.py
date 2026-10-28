@@ -41,6 +41,9 @@ def panel(ident,i,body):
     return '<div class="rx-panel" id="'+ident+'-panel-'+str(i)+'" role="tabpanel" aria-labelledby="'+ident+'-tab-'+str(i)+'"'+(' hidden' if i else '')+'>'+body+'</div>'
 
 def row(title,url,ic,tone,status=None):
+    from book_catalogue import by_url
+    book=by_url(url)
+    if book:url=book['page']
     content='<span class="rx-row-icon '+tone+'">'+icon(ic)+'</span><span class="rx-row-label">'+e(title)+(('<small class="rx-availability">'+e(status)+'</small>') if status else '')+'</span>'+icon('chevron')
     return link(url,content,'rx-row')
 

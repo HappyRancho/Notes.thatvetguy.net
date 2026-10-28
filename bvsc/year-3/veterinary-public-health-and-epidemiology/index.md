@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Public Health and Epidemiology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=3)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -154,19 +154,13 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
 1 book
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Veterinary EpidemiologyMichael Thrusfield and Robert Christley
-
-A reference for disease patterns, study design and interpreting diagnostic tests.
-
-Reading recommendation · no linked copy available.
+- [Veterinary EpidemiologyMichael Thrusfield and Robert Christley · Google Drive](https://notes.thatvetguy.net/books/veterinary-epidemiology/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -187,4 +181,4 @@ Separate individual clinical findings from population measures, and state the de
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

@@ -6,7 +6,7 @@ Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & 
 
 Main website: https://thatvetguy.net
 Author: Dr. Chirag Patidar
-Last source review: 2026-10-26. File access settings can change.
+Last source review: 2026-10-28. File access settings can change.
 
 ## Sections and subject guides
 
@@ -80,6 +80,196 @@ Last source review: 2026-10-26. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/clinical/handbooks/index.md
 - [Drug Index Collection](https://notes.thatvetguy.net/clinical/drug-index/): Browse VENDEX, NAVSARI, Plumb's Veterinary Drug Handbook, a drug-dose wall reference and animal vaccination schedules for veterinary study.
   - Markdown: https://notes.thatvetguy.net/clinical/drug-index/index.md
+- [Veterinary Books, Textbooks & Clinical References](https://notes.thatvetguy.net/books/): Browse BVSc & AH books by professional year, objective collections and clinical references. Each title has its own details and available download links.
+  - Markdown: https://notes.thatvetguy.net/books/index.md
+- [A Textbook of Animal Husbandry — BVSc Reading Guide](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/): A Textbook of Animal Husbandry by G. C. Banerjee. A book for Livestock Production Management study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/index.md
+- [A Textbook of Veterinary General Pathology — Details & Drive Access](https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/): A Textbook of Veterinary General Pathology by J. L. Vegad. A book for Veterinary Pathology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/index.md
+- [Adam's Lameness in Horses 7th Edition — Details & Drive Access](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/): Adam's Lameness in Horses 7th Edition. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/index.md
+- [All in One Veterinary Capsule — Telegram Download](https://notes.thatvetguy.net/books/veterinary-capsule/): All in One Veterinary Capsule. A study book for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-capsule/index.md
+- [Ananthanarayan and Paniker’s Textbook of Microbiology — Details & Drive Access](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/): Ananthanarayan and Paniker’s Textbook of Microbiology by C. K. J. Paniker (editor). A book for Veterinary Microbiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/index.md
+- [Animal breeding — Details & Drive Access](https://notes.thatvetguy.net/books/animal-breeding/): Animal breeding. A book for Animal Genetics and Breeding study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/animal-breeding/index.md
+- [Animal Nutrition — Details & Drive Access](https://notes.thatvetguy.net/books/animal-nutrition/): Animal Nutrition by P. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. Wilkinson. A book for Animal Nutrition study. Open the linked.
+  - Markdown: https://notes.thatvetguy.net/books/animal-nutrition/index.md
+- [Animal Science Refresher — Telegram Download](https://notes.thatvetguy.net/books/animal-science-refresher/): Animal Science Refresher by Sheelendra Kumar Tanwar. A study book for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/animal-science-refresher/index.md
+- [Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals — Details & Drive Access](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/): Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals by D. V. Reddy. A book for Animal Nutrition study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/index.md
+- [Applied Veterinary Gynaecology and Obstetrics Dr Pradeep — Details & Drive Access](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/): Applied Veterinary Gynaecology and Obstetrics Dr Pradeep. A book for Veterinary Gynaecology and Obstetrics study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/index.md
+- [Biochemistry — BVSc Reading Guide](https://notes.thatvetguy.net/books/biochemistry/): Biochemistry by U. Satyanarayana and U. Chakrapani. A book for Veterinary Biochemistry study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/biochemistry/index.md
+- [Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics — Details & Drive Access](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/): Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/index.md
+- [Canine and Feline Endocrinology and Reproduction — Details & Drive Access](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/): Canine and Feline Endocrinology and Reproduction by Edward C. Feldman, Richard W. Nelson. A book for Veterinary Gynaecology and Obstetrics study. Open the linked Google.
+  - Markdown: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/index.md
+- [Clinical Examination of Farm Animals — Details & Drive Access](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/): Clinical Examination of Farm Animals by Peter G. G. Jackson, Peter D. Cockcroft. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/index.md
+- [Clinical Handbook on Canine Dermatology 3rd Edition — Details & Drive Access](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/): Clinical Handbook on Canine Dermatology 3rd Edition. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/index.md
+- [Color Atlas of Veterinary Histology — Details & Drive Access](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/): Color Atlas of Veterinary Histology by Linda M. Bacha. A book for Veterinary Anatomy study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/index.md
+- [Color handbook of Skin Diseases of Dog and Cat — Details & Drive Access](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/): Color handbook of Skin Diseases of Dog and Cat by P. J. McKeever. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/index.md
+- [Colour Atlas of Veterinary Anatomy - The Ruminants — Details & Drive Access](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/): Colour Atlas of Veterinary Anatomy - The Ruminants. A book for Veterinary Anatomy study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/index.md
+- [Colour Handbook of Small Animal Emergency and Critical Care — Telegram Download](https://notes.thatvetguy.net/books/small-animal-colour-handbook/): Colour Handbook of Small Animal Emergency and Critical Care. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/small-animal-colour-handbook/index.md
+- [Compiled Question Bank by Dhruv N Desai — Telegram Download](https://notes.thatvetguy.net/books/dhruv-desai/): Compiled Question Bank by Dhruv N Desai by Dhruv N Desai. A study book for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/dhruv-desai/index.md
+- [Cunningham’s Textbook of Veterinary Physiology — Details & Drive Access](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/): Cunningham’s Textbook of Veterinary Physiology by Bradley G. Klein (editor). A book for Veterinary Physiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/index.md
+- [Drug Dose — Wall Reference — Telegram Download](https://notes.thatvetguy.net/books/wall-drug-dose/): Drug Dose — Wall Reference. A reference sheet for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/wall-drug-dose/index.md
+- [Dukes’ Physiology of Domestic Animals — Details & Drive Access](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/): Dukes’ Physiology of Domestic Animals by William O. Reece et al.. A book for Veterinary Physiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/index.md
+- [E. Nanu Veterinary Question Bank — Telegram Download](https://notes.thatvetguy.net/books/e-nanu-qbank/): E. Nanu Veterinary Question Bank by E. Nanu. A question bank for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/e-nanu-qbank/index.md
+- [Essentials of Medical Pharmacology - K.D.Tripathi — Details & Drive Access](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/): Essentials of Medical Pharmacology - K.D.Tripathi. A book for Veterinary Pharmacology and Toxicology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/index.md
+- [Essentials of Veterinary Pharmacology and Therapeutics — Details & Drive Access](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/): Essentials of Veterinary Pharmacology and Therapeutics by H. S. Sandhu. A book for Veterinary Pharmacology and Toxicology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/index.md
+- [Essentials of Veterinary Surgery, 8th Edition — Details & Drive Access](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/): Essentials of Veterinary Surgery, 8th Edition. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/index.md
+- [Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard — Details & Drive Access](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/): Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/index.md
+- [Farm Animal Surgery — BVSc Reading Guide](https://notes.thatvetguy.net/books/farm-animal-surgery/): Farm Animal Surgery by Susan L. Fubini and Norm Ducharme (editors). A book for Veterinary Surgery and Radiology study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/farm-animal-surgery/index.md
+- [Fenner’s Veterinary Virology 5th edition — Details & Drive Access](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/): Fenner’s Veterinary Virology 5th edition. A book for Veterinary Microbiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/index.md
+- [Fluid therapy guidelines for dogs and cats — Details & Drive Access](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/): Fluid therapy guidelines for dogs and cats. A clinical guide for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/index.md
+- [Goodman and Gilman’s The Pharmacological Basis of Therapeutics — Details & Drive Access](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/): Goodman and Gilman’s The Pharmacological Basis of Therapeutics. A book for Veterinary Pharmacology and Toxicology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/index.md
+- [Gracey's Meat Hygiene 11Edition — Details & Drive Access](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/): Gracey's Meat Hygiene 11Edition. A book for Livestock Products Technology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/index.md
+- [Guyton and Hall Textbook of Medical Physiology — Details & Drive Access](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/): Guyton and Hall Textbook of Medical Physiology by John E. Hall, Arthur C. Guyton. A book for Veterinary Physiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/index.md
+- [Handbook for Veterinary Clinician — Telegram Download](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/): Handbook for Veterinary Clinician by A U Bhikane. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-clinician-handbook/index.md
+- [Handbook of Small Animal Radiology and Ultrasound — Telegram Download](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/): Handbook of Small Animal Radiology and Ultrasound by Ruth Dennis. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/small-animal-radiology-handbook/index.md
+- [Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008) — Details & Drive Access](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/): Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008). A book for Veterinary Pharmacology and Toxicology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/index.md
+- [KVAFSU Question Bank — Telegram Download](https://notes.thatvetguy.net/books/kvafsu-qbank/): KVAFSU Question Bank. A question bank for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/kvafsu-qbank/index.md
+- [Laboratory Animal and Exotic Pet Medicine Principles and Procedures — Details & Drive Access](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/): Laboratory Animal and Exotic Pet Medicine Principles and Procedures. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/index.md
+- [Lawrie's Meat Science — Details & Drive Access](https://notes.thatvetguy.net/books/lawrie-s-meat-science/): Lawrie's Meat Science by R. A. Lawrie. A book for Livestock Products Technology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/lawrie-s-meat-science/index.md
+- [Livestock Production Management — BVSc Reading Guide](https://notes.thatvetguy.net/books/livestock-production-management/): Livestock Production Management by N. S. R. Sastry and C. K. Thomas. A book for Livestock Production Management study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/livestock-production-management/index.md
+- [Lumb & Jones Veterinary Anesthesia and Analgesia — Details & Drive Access](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/): Lumb & Jones Veterinary Anesthesia and Analgesia by Kurt Grimm, John Thurmon. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/index.md
+- [Manual of Canine and Feline Cardiology — Details & Drive Access](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/): Manual of Canine and Feline Cardiology by Larry P. Tilley, John-Karl Goodwin. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/index.md
+- [Meat and Meat Products Technology — BVSc Reading Guide](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/): Meat and Meat Products Technology by B. D. Sharma. A book for Livestock Products Technology study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/meat-and-meat-products-technology/index.md
+- [Meat Processing Technology — Details & Drive Access](https://notes.thatvetguy.net/books/meat-processing-technology/): Meat Processing Technology. A book for Livestock Products Technology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/meat-processing-technology/index.md
+- [Metabolic Diseases in Farm Animals — Details & Drive Access](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/): Metabolic Diseases in Farm Animals by Jack M. Payne. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/index.md
+- [NDRI Veterinary Question Bank — Telegram Download](https://notes.thatvetguy.net/books/ndri-qbank/): NDRI Veterinary Question Bank. A question bank for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/ndri-qbank/index.md
+- [Ockerman Animal Byproduct Processing — Details & Drive Access](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/): Ockerman Animal Byproduct Processing. A book for Livestock Products Technology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/index.md
+- [Outlines of Dairy Technology — BVSc Reading Guide](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/): Outlines of Dairy Technology by Sukumar De. A book for Livestock Products Technology study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/outlines-of-dairy-technology/index.md
+- [Pathways to Pregnancy and Parturition — Details & Drive Access](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/): Pathways to Pregnancy and Parturition by P. L. Senger. A book for Veterinary Gynaecology and Obstetrics study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/index.md
+- [Plumb’s Veterinary Drug Handbook — Telegram Download](https://notes.thatvetguy.net/books/plumbs-handbook/): Plumb’s Veterinary Drug Handbook by Donald C. Plumb. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/plumbs-handbook/index.md
+- [Pocket Guide Diagnostic Tests — Details & Drive Access](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/): Pocket Guide Diagnostic Tests by Diana Nicoll, Stephen J. McPhee and Michael Pignone. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/index.md
+- [Pocket Handbook of Small Animal Medicine — Telegram Download](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/): Pocket Handbook of Small Animal Medicine by Kit Sturgess. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/small-animal-medicine-handbook/index.md
+- [Poultry Metabolic Disorders and Mycotoxins — Details & Drive Access](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/): Poultry Metabolic Disorders and Mycotoxins by Steven Leeson. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/index.md
+- [Prescott’s Microbiology — Details & Drive Access](https://notes.thatvetguy.net/books/prescott-s-microbiology/): Prescott’s Microbiology. A book for Veterinary Microbiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/prescott-s-microbiology/index.md
+- [Primary Veterinary Anatomy — BVSc Reading Guide](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/): Primary Veterinary Anatomy by R. K. Ghosh. A book for Veterinary Anatomy study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/primary-veterinary-anatomy/index.md
+- [Principles of Animal Nutrition and Feed Technology — Details & Drive Access](https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/): Principles of Animal Nutrition and Feed Technology by D. V. Reddy. A book for Animal Nutrition study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/index.md
+- [Principles of Meat Science — Forrest — Details & Drive Access](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/): Principles of Meat Science — Forrest. A book for Livestock Products Technology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/index.md
+- [Reproduction in Farm Animals,7th Edition by Hafeez — Details & Drive Access](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/): Reproduction in Farm Animals,7th Edition by Hafeez. A book for Veterinary Gynaecology and Obstetrics study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/index.md
+- [Restraint and Handling of Wild and Domestic Animals — Details & Drive Access](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/): Restraint and Handling of Wild and Domestic Animals by Murray Fowler. A book for Livestock Production Management study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/index.md
+- [Review of Animal Science — Telegram Download](https://notes.thatvetguy.net/books/review-animal-science/): Review of Animal Science. A study book for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/review-animal-science/index.md
+- [Review of Veterinary Science — Telegram Download](https://notes.thatvetguy.net/books/review-veterinary-science/): Review of Veterinary Science. A study book for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/review-veterinary-science/index.md
+- [Ruminant Surgery — Details & Drive Access](https://notes.thatvetguy.net/books/ruminant-surgery/): Ruminant Surgery by R. P. S. Tyagi and Jit Singh. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/ruminant-surgery/index.md
+- [Sembulingam Medical Physiology 6th-edition — Details & Drive Access](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/): Sembulingam Medical Physiology 6th-edition. A book for Veterinary Physiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/index.md
+- [Skin Diseases of Exotic Pets — Details & Drive Access](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/): Skin Diseases of Exotic Pets by Sue Paterson. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/index.md
+- [Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition — Details & Drive Access](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/): Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/index.md
+- [Small Animal ECGs, An Introductory Guide, 3rd Edition — Details & Drive Access](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/): Small Animal ECGs, An Introductory Guide, 3rd Edition. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/index.md
+- [Small Animal Internal Medicine 5th Edition — Details & Drive Access](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/): Small Animal Internal Medicine 5th Edition. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/index.md
+- [Small Animal Surgery, 5th Edition - Theresa Fossum — Details & Drive Access](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/): Small Animal Surgery, 5th Edition - Theresa Fossum. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/index.md
+- [TANUVAS All-Subjects Question Bank — Telegram Download](https://notes.thatvetguy.net/books/tanuvas-qbank/): TANUVAS All-Subjects Question Bank. A question bank for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/tanuvas-qbank/index.md
+- [Text Book of Veterinary Parasitology - Bhatia — Details & Drive Access](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/): Text Book of Veterinary Parasitology - Bhatia. A book for Veterinary Parasitology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/index.md
+- [Text Book on Animal Genetics and Breeding — BVSc Reading Guide](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/): Text Book on Animal Genetics and Breeding by P. Kanakaraj. A book for Animal Genetics and Breeding study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/index.md
+- [Textbook of Animal Husbandry and Livestock Extension — Details & Drive Access](https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/): Textbook of Animal Husbandry and Livestock Extension by P. Mathialagan. A book for Veterinary and Animal Husbandry Extension Education study. Open the linked Google Drive.
+  - Markdown: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/index.md
+- [Textbook of Clinical Veterinary Medicine — Details & Drive Access](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/): Textbook of Clinical Veterinary Medicine by Amalendu Chakrabarti. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/index.md
+- [Textbook of Veterinary Anatomy — BVSc Reading Guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/): Textbook of Veterinary Anatomy by K. M. Dyce, W. O. Sack and C. J. G. Wensing. A book for Veterinary Anatomy study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/index.md
+- [Textbook of Veterinary Internal Medicine — Details & Drive Access](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/): Textbook of Veterinary Internal Medicine by Stephen J. Ettinger. A book for Veterinary Medicine study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/index.md
+- [Textbook of Veterinary Pathology — Details & Drive Access](https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/): Textbook of Veterinary Pathology. A book for Veterinary Pathology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/index.md
+- [The Necropsy Book — Details & Drive Access](https://notes.thatvetguy.net/books/necropsy-book-john-king/): The Necropsy Book by John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom. A book for Veterinary Pathology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/necropsy-book-john-king/index.md
+- [Ultimate Vet Handbook — Telegram Download](https://notes.thatvetguy.net/books/ultimate-vet-handbook/): Ultimate Vet Handbook. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/ultimate-vet-handbook/index.md
+- [Vaccination Schedule of All Animals — Telegram Download](https://notes.thatvetguy.net/books/vaccination-schedule/): Vaccination Schedule of All Animals. A reference sheet for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/vaccination-schedule/index.md
+- [VENDEX: The Fundamental Veterinary Drug Index — Telegram Download](https://notes.thatvetguy.net/books/vendex/): VENDEX: The Fundamental Veterinary Drug Index. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/vendex/index.md
+- [Vet Scorer 2022 — 1st Edition — Telegram Download](https://notes.thatvetguy.net/books/vet-scorer/): Vet Scorer 2022 — 1st Edition. A question bank for veterinary revision study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/vet-scorer/index.md
+- [Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/): Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition. A book for Veterinary Anatomy study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/index.md
+- [Veterinary Drug Index by NAVSARI — Telegram Download](https://notes.thatvetguy.net/books/navsari-drug-index/): Veterinary Drug Index by NAVSARI. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/navsari-drug-index/index.md
+- [Veterinary Epidemiology — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-epidemiology/): Veterinary Epidemiology by Michael Thrusfield and Robert Christley. A book for Veterinary Public Health and Epidemiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-epidemiology/index.md
+- [Veterinary Extension Education GRK Sharma — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/): Veterinary Extension Education GRK Sharma. A book for Veterinary and Animal Husbandry Extension Education study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/index.md
+- [Veterinary Medicine — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-medicine/): Veterinary Medicine by Peter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg. A book for Veterinary Medicine study. Open the linked Google Drive.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-medicine/index.md
+- [Veterinary Microbiology and Microbial Disease — BVSc Reading Guide](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/): Veterinary Microbiology and Microbial Disease by P. J. Quinn et al.. A book for Veterinary Microbiology study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/index.md
+- [Veterinary Mycology — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-mycology/): Veterinary Mycology by Indranil Samanta. A book for Veterinary Microbiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-mycology/index.md
+- [Veterinary Obstetrics and Genital disease — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/): Veterinary Obstetrics and Genital disease by Stephen J. Roberts. A book for Veterinary Gynaecology and Obstetrics study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/index.md
+- [Veterinary Parasitology — BVSc Reading Guide](https://notes.thatvetguy.net/books/veterinary-parasitology/): Veterinary Parasitology by M. A. Taylor, R. L. Coop and R. L. Wall. A book for Veterinary Parasitology study. Find reading guidance and request a copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-parasitology/index.md
+- [Veterinary Practice Handbook — Telegram Download](https://notes.thatvetguy.net/books/veterinary-practice-handbook/): Veterinary Practice Handbook by RK Chandolia. A handbook for clinical reference study. The download button below opens its Telegram post.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-practice-handbook/index.md
+- [Veterinary Reproduction and Obstetrics — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/): Veterinary Reproduction and Obstetrics by David E. Noakes, Timothy J. Parkinson and Gary C. W. England. A book for Veterinary Gynaecology and Obstetrics study. Open the.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/index.md
+- [Veterinary surgery and radiology by s.k.nandi — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/): Veterinary surgery and radiology by s.k.nandi. A book for Veterinary Surgery and Radiology study. Open the linked Google Drive copy below.
+  - Markdown: https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/index.md
 
 ## Machine retrieval
 

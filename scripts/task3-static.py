@@ -39,7 +39,7 @@ for p in ROOT.rglob('index.html'):
     assert '<h2>Explore.' not in raw and 'Unsorted' not in raw
     assert p.with_suffix('.md').exists(),(p,'markdown')
     assert 'page-checked' not in raw and 'rx-footer-ecosystem' not in raw,(p,'Removed footer clutter returned')
-    types={g['@type'] for g in page.schema};assert {'Organization','Person','WebSite'}<=types
+    types={t for g in page.schema for t in (g['@type'] if isinstance(g['@type'],list) else [g['@type']])};assert {'Organization','Person','WebSite'}<=types
     assert ('FAQPage' in types)==(p.parent.name in ['about','request-resource'])
     if p!=ROOT/'index.html':assert 'BreadcrumbList' in types
 for p,page in pages.items():
@@ -63,7 +63,9 @@ for r in records:
         accounted+=r['photoIds'] or [v['id'] for v in r['variants']];accounted+=r['duplicateIds']
 assert set(accounted)==rawids and len(accounted)==len(rawids),'lost or multiply-owned original file'
 visible_records=[r for r in records if keep_complete_resource(r)]
-assert {r['id'] for r in search}=={r['id'] for r in visible_records},'search mismatch'
+from book_catalogue import books as book_registry
+book_data=book_registry();guide_ids={'book-guide-'+b['id'] for b in book_data if not b.get('resourceId')}
+assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids,'search mismatch'
 assert not any(re.match(r'^(IMG[-_]|PXL_|DSC[_-]|Screenshot)',r['title'],re.I) for r in search),'camera file title'
 counts=Counter(rid for p in pages.values() for rid in p.rows)
 for r in records:
@@ -81,8 +83,8 @@ assert not any('icar-pyq' in r['collections'] for r in records),'Unverified ICAR
 source=json.loads((ROOT/'data/vetbvsc-source.json').read_text())
 tanuvas=json.loads((ROOT/'data/tanuvas-source.json').read_text())
 curated=json.loads((ROOT/'data/collections.json').read_text())['resources']
-assert {r['id'] for r in records}=={r['id'] for r in source['notes']}|{r['id'] for r in tanuvas['notes']}|{'telegram-'+r['id'] for r in curated},'active catalogue contains an unreviewed ID'
-assert {r['url'] for r in records}=={r['url'] for r in source['notes']}|{r['url'] for r in tanuvas['notes']}|{r['url'] for r in curated},'source URLs changed'
+assert {r['id'] for r in records}=={r['id'] for r in source['notes']}|{r['id'] for r in tanuvas['notes']}|{'telegram-'+r['id'] for r in curated}|{b['resourceId'] for b in book_data if b['files']},'active catalogue contains an unreviewed ID'
+assert {r['url'] for r in records}=={r['url'] for r in source['notes']}|{r['url'] for r in tanuvas['notes']}|{r['url'] for r in curated}|{b['files'][0]['url'] for b in book_data if b['files']},'source URLs changed'
 assert not (ROOT/'clinical/index.html').exists() and not (ROOT/'clinical/index.md').exists(),'Clinical landing page still exists'
 handbooks=[r for r in curated if r['collection']=='handbooks']
 assert [r['url'] for r in handbooks]==['https://t.me/Vethandbooks/'+n for n in ['3','4','5','7','8','9']],'Handbook sequence changed'

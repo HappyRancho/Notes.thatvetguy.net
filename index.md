@@ -111,4 +111,4 @@ Can’t find a resource? Ask for it.
 
 Students today. Better vets tomorrow.
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-26. Sources last reviewed: 2026-10-28; external file availability can change.
