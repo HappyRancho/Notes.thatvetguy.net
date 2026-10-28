@@ -38,7 +38,15 @@
       "errors": [],
       "reviewed": "2026-10-28"
     },
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/verified-a-textbook-of-animal-husbandry.webp",
+      "width": 500,
+      "height": 665,
+      "source": "https://www.cbspd.com/assets/images/hjCdxYJUyHE4VtEVO2S91732859453.jpg",
+      "reference": "https://www.cbspd.com/product/A-Textbook-of-Animal-Husbandry",
+      "kind": "reference-cover",
+      "sha256": "6039ae4a0bda1b769b656020b163ed2bb652b9e420a1d3df51c90e6bdd138da1"
+    },
     "page": "/books/a-textbook-of-animal-husbandry/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -137,7 +145,15 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/verified-adam-s-lameness-in-horses-7th-edition.webp",
+      "width": 393,
+      "height": 500,
+      "source": "https://m.media-amazon.com/images/I/81GZIs-QnML._US500_.jpg",
+      "reference": "https://snapklik.com/en-ca/product/adams-and-stashaks-lameness-in-horses/0762478713697",
+      "kind": "reference-cover",
+      "sha256": "69498df42b50181cb2194d0c72ccf85f12d632b4bd21065c9bfd3e6951a43ef5"
+    },
     "page": "/books/adam-s-lameness-in-horses-7th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/11GD5DNn2cRLIGrQuyAmYuOV5LDwZSP13/view",
     "access": "Google Drive",
@@ -1033,7 +1049,15 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/verified-cunningham-s-textbook-of-veterinary-physiology.webp",
+      "width": 437,
+      "height": 573,
+      "source": "https://i5.walmartimages.com/seo/Cunningham-s-Textbook-of-Veterinary-Physiology-Hardcover-9780323552271_1cfab384-b35c-44db-8564-22ffb619eb16.6c907a6f488407292fb7dc8174284faf.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "reference": "https://www.walmart.com/ip/323963405",
+      "kind": "reference-cover",
+      "sha256": "c220675aa0c3f49f50add48addc6a2ddaac507f966c5449f00ebea6c7e6f97f0"
+    },
     "page": "/books/cunningham-s-textbook-of-veterinary-physiology/",
     "primaryUrl": "https://drive.google.com/file/d/1WbSAFwwzlha7zaHluQ7FzSSLeTX7zb4Q/view",
     "access": "Google Drive",
@@ -1186,6 +1210,45 @@
     "primaryUrl": "https://drive.google.com/file/d/1xKXP28A5jvKCIoYGTBXm_lrp_a0dwXxt/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
+    "clinical": false
+  },
+  {
+    "id": "veterinary-histology-and-embryology-r-k-ghosh",
+    "title": "Essentials of Veterinary Histology & Embryology",
+    "author": "R. K. Ghosh",
+    "description": "R. K. Ghosh’s text brings microscopic anatomy and embryology together for veterinary study. Use it to connect normal tissue structure with organ function, then follow development from fertilisation to birth. It is useful alongside slide identification and embryology lectures. Check the linked copy’s title page and edition before planning your reading.",
+    "subjects": [
+      {
+        "year": 1,
+        "name": "Veterinary Anatomy"
+      }
+    ],
+    "files": [],
+    "telegram": "https://t.me/c/4312433672/3",
+    "collection": null,
+    "recommended": false,
+    "type": "Book",
+    "references": [
+      "https://currentbooksint.com/product/essentials-of-veterinary-histology-embryology-4ed-by-r-k-ghosh"
+    ],
+    "lastVerified": "2026-10-28",
+    "originalLabel": "Vet histology & embryology-RK Ghosh .pdf",
+    "humanReference": false,
+    "referenceISBNs": [],
+    "bibliography": {},
+    "cover": {
+      "path": "/assets/books/verified-veterinary-histology-and-embryology-r-k-ghosh.webp",
+      "width": 500,
+      "height": 671,
+      "source": "https://currentbooksint.com/public/uploads/all/KyEzLWb0aEiWeA9Y6kzFrpSQX9U538S1OL4yl5Zh.jpg",
+      "reference": "https://currentbooksint.com/product/essentials-of-veterinary-histology-embryology-4ed-by-r-k-ghosh",
+      "kind": "reference-cover",
+      "sha256": "57d9a35e2e541608b8342b3ca838c2e9c0940755d06428e5fc2158433d2e9a6c"
+    },
+    "page": "/books/veterinary-histology-and-embryology-r-k-ghosh/",
+    "primaryUrl": "https://t.me/c/4312433672/3",
+    "access": "Telegram",
+    "downloadLabel": "Download via Telegram",
     "clinical": false
   },
   {
@@ -1406,7 +1469,15 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/verified-fenner-s-veterinary-virology-5th-edition.webp",
+      "width": 500,
+      "height": 640,
+      "source": "https://mediacdn.nhbs.com/jackets/jackets_resizer_xlarge/24/246262.jpg",
+      "reference": "https://www.nhbs.com/fenners-veterinary-virology-book",
+      "kind": "reference-cover",
+      "sha256": "a3c64870b4c03cb5b60e8d834f790c147f614f963f1fa2a742d0fc05d9f5517e"
+    },
     "page": "/books/fenner-s-veterinary-virology-5th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/1hmdTX40KfWhqQvkySFjM-CWr_NYkyb1c/view",
     "access": "Google Drive",
@@ -1931,7 +2002,15 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/verified-livestock-production-management.webp",
+      "width": 494,
+      "height": 700,
+      "source": "https://cdn01.sapnaonline.com/product_media/9789327247039/md_9789327247039.jpg",
+      "reference": "https://www.sapnaonline.com/books/livestock-production-management-ck-thomas-9327247035-9789327247039",
+      "kind": "reference-cover",
+      "sha256": "d233f586d470c8ba37108243100a68aa7d19d90e7cdda372582d990faa349de2"
+    },
     "page": "/books/livestock-production-management/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -2796,7 +2875,15 @@
       "9789385274725"
     ],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/verified-primary-veterinary-anatomy.webp",
+      "width": 389,
+      "height": 522,
+      "source": "https://img.drz.lazcdn.com/static/np/p/d8d111d36866f9465f095663588f55e6.jpg_720x720q80.jpg",
+      "reference": "https://www.daraz.com.np/products/primary-veterinary-anatomy-by-rk-ghosh-8th-editions-i129690602.html",
+      "kind": "reference-cover",
+      "sha256": "f14ed57f5bc9157a696971c410ccf92d2fc0d519f4b63f685091f2d63c055210"
+    },
     "page": "/books/primary-veterinary-anatomy/",
     "primaryUrl": "https://t.me/c/4312433672/2",
     "access": "Telegram",
@@ -4220,35 +4307,6 @@
     "clinical": false
   },
   {
-    "id": "veterinary-histology-and-embryology-r-k-ghosh",
-    "title": "Veterinary Histology & Embryology",
-    "author": "R. K. Ghosh",
-    "description": "A histology and embryology reference listed as R. K. Ghosh in the shared collection. Use it alongside your microscopic anatomy practicals and developmental anatomy syllabus; confirm the full title and edition on the file’s title page.",
-    "subjects": [
-      {
-        "year": 1,
-        "name": "Veterinary Anatomy"
-      }
-    ],
-    "files": [],
-    "telegram": "https://t.me/c/4312433672/3",
-    "collection": null,
-    "recommended": false,
-    "type": "Book",
-    "references": [],
-    "lastVerified": "2026-10-28",
-    "originalLabel": "Vet histology & embryology-RK Ghosh .pdf",
-    "humanReference": false,
-    "referenceISBNs": [],
-    "bibliography": {},
-    "cover": null,
-    "page": "/books/veterinary-histology-and-embryology-r-k-ghosh/",
-    "primaryUrl": "https://t.me/c/4312433672/3",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
-    "clinical": false
-  },
-  {
     "id": "veterinary-medicine",
     "title": "Veterinary Medicine",
     "author": "Peter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg",
@@ -4510,7 +4568,15 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/verified-veterinary-parasitology.webp",
+      "width": 500,
+      "height": 641,
+      "source": "https://down-ph.img.susercontent.com/file/ph-11134207-7r992-ln8bdbvls3bb67",
+      "reference": "https://shopee.ph/Veterinary-Parasitology-4th-Edition-i.133807053.22584442783",
+      "kind": "reference-cover",
+      "sha256": "5dd2aa06a5e6bd9f1e5fb11455464b71fd5bd0df5a8d9effd261d18641d0856e"
+    },
     "page": "/books/veterinary-parasitology/",
     "primaryUrl": null,
     "access": "Reading guide",

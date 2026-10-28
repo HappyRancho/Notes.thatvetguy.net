@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Adam's Lameness in Horses 7th Edition
 
-Cover unavailable
+Reference cover; the linked edition may differ.
 Book · Veterinary Surgery and Radiology
 
 # Adam's Lameness in Horses 7th Edition

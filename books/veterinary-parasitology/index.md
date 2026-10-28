@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Parasitology
 
-Cover unavailable
+Reference cover; the linked edition may differ.
 Book · Veterinary Parasitology
 
 # Veterinary Parasitology

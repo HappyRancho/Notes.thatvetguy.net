@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Livestock Production Management
 
-Cover unavailable
+Reference cover; the linked edition may differ.
 Book · Livestock Production Management
 
 # Livestock Production Management

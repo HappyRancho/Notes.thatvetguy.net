@@ -111,13 +111,13 @@ Try a shorter title or another collection.
 
 [Colour Atlas of Veterinary Anatomy - The Ruminants](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
 
+[Essentials of Veterinary Histology & Embryology](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
+
 [Primary Veterinary Anatomy](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
 
 [Textbook of Veterinary Anatomy](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
 
 [Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
-
-[Veterinary Histology & Embryology](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
 
 No books match that title or author.
 

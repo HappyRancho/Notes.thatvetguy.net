@@ -2,7 +2,7 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Cunningham’s Textbook of Veterinary Physiology
 
-Cover unavailable
+Reference cover; the linked edition may differ.
 Book · Veterinary Physiology
 
 # Cunningham’s Textbook of Veterinary Physiology

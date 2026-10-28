@@ -22,6 +22,8 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 [Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. · Google Drive](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
 
+[Essentials of Veterinary Histology & EmbryologyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
+
 [Guyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. Guyton · Google Drive](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
 
 [Livestock Production ManagementN. S. R. Sastry and C. K. Thomas · Reading guide](https://notes.thatvetguy.net/books/livestock-production-management/)
@@ -35,8 +37,6 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 [Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing · Reading guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
 
 [Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
-
-[Veterinary Histology & EmbryologyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
 
 ## 2nd Year
 
