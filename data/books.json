@@ -20,7 +20,23 @@
     ],
     "lastVerified": "2026-10-18",
     "humanReference": false,
-    "bibliography": {},
+    "bibliography": {
+      "bibliographyVerified": true,
+      "title": "A Textbook of Animal Husbandry",
+      "authors": "G. C. Banerjee",
+      "publisher": "OXFORD",
+      "referencePublishedDate": 1970,
+      "referenceISBNs": [
+        "8120400666",
+        "9788120400665"
+      ],
+      "source": "https://openlibrary.org/works/OL10224308W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": null,
+      "coverOCR": "",
+      "errors": [],
+      "reviewed": "2026-10-28"
+    },
     "cover": null,
     "page": "/books/a-textbook-of-animal-husbandry/",
     "primaryUrl": null,
@@ -2004,8 +2020,36 @@
     ],
     "lastVerified": "2026-10-18",
     "humanReference": false,
-    "bibliography": {},
-    "cover": null,
+    "bibliography": {
+      "bibliographyVerified": true,
+      "title": "Outlines of Dairy Technology",
+      "authors": "Sukumar De",
+      "publisher": "Oxford University Press",
+      "referencePublishedDate": 2002,
+      "referenceISBNs": [
+        "0195611942",
+        "9780195611946"
+      ],
+      "source": "https://openlibrary.org/works/OL9330438W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/outlines-of-dairy-technology.webp",
+        "width": 328,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/14428234-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "ere.\n\n2\n\noy\n\nar\n\naw\n\nes of DAIRY",
+      "errors": [],
+      "reviewed": "2026-10-28"
+    },
+    "cover": {
+      "path": "/assets/books/outlines-of-dairy-technology.webp",
+      "width": 328,
+      "height": 500,
+      "source": "https://covers.openlibrary.org/b/id/14428234-L.jpg?default=false",
+      "kind": "reference-cover"
+    },
     "page": "/books/outlines-of-dairy-technology/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -2074,7 +2118,7 @@
   {
     "id": "plumbs-handbook",
     "title": "Plumb’s Veterinary Drug Handbook",
-    "author": null,
+    "author": "Donald C. Plumb",
     "description": "A drug-handbook reference. Check the edition and species-specific guidance before use.",
     "subjects": [],
     "files": [],
@@ -2082,7 +2126,10 @@
     "collection": "drug-index",
     "recommended": false,
     "type": "Handbook",
-    "references": [],
+    "references": [
+      "https://books.google.com/books?id=PhBBygEACAAJ",
+      "https://www.ncbi.nlm.nih.gov/nlmcatalog/101571748"
+    ],
     "lastVerified": "2026-10-19",
     "resourceId": "telegram-plumbs-handbook",
     "humanReference": false,
@@ -2328,8 +2375,36 @@
     "lastVerified": "2026-10-28",
     "resourceId": "book-principles-of-animal-nutrition-and-feed-technology",
     "humanReference": false,
-    "bibliography": {},
-    "cover": null,
+    "bibliography": {
+      "bibliographyVerified": true,
+      "title": "Principles of Animal Nutrition and Feed Technology",
+      "authors": "D. V. Reddy",
+      "publisher": "CBS Publishers & Distributors",
+      "referencePublishedDate": 2016,
+      "referenceISBNs": [
+        "8120417968",
+        "9788120417960"
+      ],
+      "source": "https://openlibrary.org/works/OL26752203W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/principles-of-animal-nutrition-and-feed-technology.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "—-\n\nBes\n\nHt\n\nmo\n\na\n\nee\n\nek\n\nBo\n\nage\n\nze\n\n@ &.\n\nae\n\neek\n\na8\n\ngE\n\niu\n\nji\n\nSs\n\nFe",
+      "errors": [],
+      "reviewed": "2026-10-28"
+    },
+    "cover": {
+      "path": "/assets/books/principles-of-animal-nutrition-and-feed-technology.webp",
+      "width": 520,
+      "height": 735,
+      "source": "https://drive.google.com/thumbnail?id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR&sz=w700",
+      "kind": "file-preview"
+    },
     "page": "/books/principles-of-animal-nutrition-and-feed-technology/",
     "primaryUrl": "https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view",
     "access": "Google Drive",

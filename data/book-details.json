@@ -24,7 +24,8 @@
         "width": 520,
         "height": 657,
         "source": "https://drive.google.com/thumbnail?id=1tXZyya7hVjh38o1T71Hqkj2RwfygKus-&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
       "errors": [],
@@ -34,17 +35,14 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "veterinary-capsule": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "ananthanarayan-microbiology": {
@@ -53,12 +51,11 @@
         "width": 520,
         "height": 729,
         "source": "https://drive.google.com/thumbnail?id=1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "animal-breeding": {
@@ -67,12 +64,11 @@
         "width": 520,
         "height": 735,
         "source": "https://drive.google.com/thumbnail?id=11ZOm73joJiohbgPyZ1HBj9jJK94BuJxF&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "p\n\nay\n\naT\n\na\n\nAt\n\nFAR952\n\nu\n\niy\n\nHi\n\n2\n\ni\n\nu\n\na\n\n338\n\nu\n\noae\n\na\n\nAa\n\neee\n\nHi\n\nitt\n\nah\n\nie\n\na2\n\ni\n\nins\n\nFel\n\n|\n\nap\n\nH\n\nHey\n\ni\n\ni i\n\nif\n\n1\n\nPLE\n\nge\n\nmie\n\nBa\n\nfu\n\nu\n\n\\\n\na\n\n—\n\ngee\n\nae\n\nHl\n\nii\n\nth\n\nelite\n\ng\n\nRoi\n\nis\n\nfee\n\nEgat\n\nill\n\nml\n\nHi\n\na\n\ni\n\ni\n\nBs\n\n33\n\nce\n\nggeasgag\n\n3\n\naeees\n\nras\n\n5\n\ngE\n\nste\n\nHI\n\nze\n\nih\n\noe\n\n28\n\nif\n\nAn\n\na\n\ngigrg\n\n335\n\nzee\n\nis\n\naz\n\nSs\n\nage\n\nSVSe\n\ninf\n\noak\n\n38\n\nHI\n\nfg\n\noF\n\n5\n\nRS\n\nRe\n\ne258\n\nH\n\n5\n\nPeal\n\naS\n\ntees\n\n26\n\ngat\n\nEe\n\nie\n\naf\n\ndente\n\nHi\n\nz23\n\nfay\n\nssie",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "animal-nutrition": {
@@ -87,20 +83,17 @@
         "width": 520,
         "height": 677,
         "source": "https://drive.google.com/thumbnail?id=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "Seventh Edition\n\nANIMAL NUTRITION\n\nP. McDonald\n\nR. A. Edwards\n\nJ. FD. Greenhalgh\n\nC. A. Morgan\n\nL. A. Sinclair\n\nR. G. Wilkinson\n\nre ,\n\n~“\n\na a\n\nes\n\nes",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "animal-science-refresher": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "applied-veterinary-gynaecology-and-obstetrics-dr-pradeep": {
@@ -109,12 +102,11 @@
         "width": 520,
         "height": 657,
         "source": "https://drive.google.com/thumbnail?id=1hgcs2A58OOunIz_pqwzyFYa632OE2JhW&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "APPLIED\n\nVETERINARY\n\nGYNAECOLOGY\n\nAND OBSTETRICS\n\nDr. Pradeep Kumar\n\nM.V.Sc., Ph.D. (pursuing)\n\nInternational Book Distributing Co.",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "biochemistry": {
@@ -129,35 +121,61 @@
         "width": 520,
         "height": 520,
         "source": "https://drive.google.com/thumbnail?id=1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "canine-and-feline-endocrinology-and-reproduction": {
-      "cover": null,
-      "coverOCR": "",
+      "bibliographyVerified": true,
+      "title": "Canine and feline endocrinology and reproduction",
+      "authors": "Edward C. Feldman, Richard W. Nelson",
+      "publisher": "W.B. Saunders",
+      "referencePublishedDate": 1987,
+      "referenceISBNs": [
+        "9780721693156",
+        "1336232072",
+        "9781336232075",
+        "0721614035"
+      ],
+      "source": "https://openlibrary.org/works/OL2968346W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/canine-and-feline-endocrinology-and-reproduction.webp",
+        "width": 375,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/8626384-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "Canine and Feline En-\n\ndocrinology and Re-\n\nproduction\n\n‘Third Edition\n\nEDWARD C. FELDMAN, DVM\n\nDiplomate, American Collegeof Veterinary Intern\n\n‘al Medicine\n\nProfessor, Department of Medicine and Bpide\n\n‘ology, School of Veterinary Medicine, University\n\n‘f California, Davis, California\n\nRICHARD W. NELSON, DVM\n\nDiplomate, American Collegeof Veterinary Intern\n\n‘al Medicine\n\nProfessor, Deparoment of Medicine and Epidemi-\n\n‘ology, School of Veterinary Medicine, University\n\n‘of California, Davis, California\n\nSaunders",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "clinical-examination-of-farm-animals": {
+      "bibliographyVerified": true,
+      "title": "Clinical Examination Of Farm Animals",
+      "authors": "Peter G. G. Jackson, Peter D. Cockcroft",
+      "publisher": "Lippincott Williams & Wilkins",
+      "referencePublishedDate": 2014,
+      "referenceISBNs": [
+        "8126549416",
+        "9788126549412"
+      ],
+      "source": "https://openlibrary.org/works/OL24337731W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/clinical-examination-of-farm-animals.webp",
-        "width": 520,
-        "height": 677,
-        "source": "https://drive.google.com/thumbnail?id=1ijD_vNICIFjPCDVHfcbg50KwbBzJG362&sz=w700",
-        "kind": "file-preview"
+        "width": 300,
+        "height": 379,
+        "source": "https://covers.openlibrary.org/b/id/10859588-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "fF\n\nClinical\n\nination\n\nExa\n\n(0)\n\narm\n\nAnimals\n\nom",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "clinical-handbook-on-canine-dermatology-3rd-edition": {
@@ -166,52 +184,75 @@
         "width": 520,
         "height": 735,
         "source": "https://drive.google.com/thumbnail?id=1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "color-atlas-of-veterinary-histology": {
-      "cover": null,
-      "coverOCR": "",
+      "bibliographyVerified": true,
+      "title": "Color atlas of veterinary histology",
+      "authors": "Linda M. Bacha",
+      "publisher": "Wiley & Sons, Incorporated, John",
+      "referencePublishedDate": 2012,
+      "referenceISBNs": [
+        "9781118301340",
+        "9781118243640",
+        "1118273257",
+        "9781118273258"
+      ],
+      "source": "https://openlibrary.org/works/OL20319583W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/color-atlas-of-veterinary-histology.webp",
+        "width": 396,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/8981049-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "pe\n\nthird edition\n\nGOLOR ATLAS of\n\nVETERINARY\n\nHISTOLOGY |\n\na\n\neo\"\n\nILLIAM J. BACHA, JR. AND LINDA M. BACHA\n\n)WILEY- BLACK WELI\n\n&",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "color-handbook-of-skin-diseases-of-dog-and-cat": {
+      "bibliographyVerified": true,
+      "title": "Color handbook of skin diseases of the dog and cat",
+      "authors": "P. J. McKeever",
+      "publisher": "Iowa State University Press",
+      "referencePublishedDate": 1998,
+      "referenceISBNs": [
+        "0813829836",
+        "9780813829838"
+      ],
+      "source": "https://openlibrary.org/works/OL629794W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/color-handbook-of-skin-diseases-of-dog-and-cat.webp",
-        "width": 483,
-        "height": 760,
-        "source": "https://drive.google.com/thumbnail?id=12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5&sz=w700",
-        "kind": "file-preview"
+        "width": 294,
+        "height": 475,
+        "source": "https://covers.openlibrary.org/b/id/2648473-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "Second Edition\n\nA Colour Handbook of\n\nSKIN DISEASES\n\nOF THE\n\nDOG AND CAT\n\nTim Nuttall\n\nRichard G. Harvey\n\nPatrick J. McKeever\n\nstil\n\n[MARE",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "A Color Handbook of\n\nSkin Diseases\n\nof the\n\nDog and Cat\n\nPatrick J. McKeever\n\nRichard G. Harvey\n\nBO.\n\nai",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "colour-atlas-of-veterinary-anatomy-the-ruminants": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "small-animal-colour-handbook": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "dhruv-desai": {
@@ -234,20 +275,17 @@
         "width": 520,
         "height": 673,
         "source": "https://drive.google.com/thumbnail?id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "wall-drug-dose": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "dukes-physiology-of-domestic-animals": {
@@ -256,9 +294,10 @@
         "width": 520,
         "height": 681,
         "source": "https://drive.google.com/thumbnail?id=1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
-      "coverOCR": "",
+      "coverOCR": "nadia\n\nie\n\ni.\n\n401p3,\n\nnh FA\n\nSILSAWOG JO\n\nif\n\nUORIPY upg]\n\nv ) lh.",
       "errors": [],
       "reviewed": "2026-10-28"
     },
@@ -272,14 +311,19 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "essentials-of-veterinary-pharmacology-and-therapeutics": {
-      "cover": null,
-      "coverOCR": "",
+      "cover": {
+        "path": "/assets/books/essentials-of-veterinary-pharmacology-and-therapeutics.webp",
+        "width": 520,
+        "height": 678,
+        "source": "https://books.google.com/books/content?id=peXnoAEACAAJ&printsec=frontcover&img=1&zoom=2",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "image\n\nnot\n\navailable",
       "errors": [
         "file-preview: HTTP Error 404: Not Found"
       ],
@@ -291,20 +335,18 @@
         "width": 520,
         "height": 673,
         "source": "https://drive.google.com/thumbnail?id=1Vcpz-sOF9immjL0tGtTkNW1WPmSGsICX&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "Essentials of\n\nVeterinary\n\nSurgery ©\n\nEighth Edition\n\nA. VENUGOPALAN",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -320,8 +362,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -331,20 +372,35 @@
         "width": 520,
         "height": 675,
         "source": "https://drive.google.com/thumbnail?id=1tVLqmfGBpSLb2nm_8gShyS-vaPRWNAPy&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "2013 AAHA/AAFP Fluid Therapy\n\nGuidelines for Dogs and Ca\n\n™\n\n==\n\na7\n\nN\n\ntT",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": {
-      "cover": null,
-      "coverOCR": "",
+      "bibliographyVerified": true,
+      "title": "Goodman and Gilman's The pharmacological basis of therapeutics",
+      "authors": "Arthur Symons",
+      "publisher": "Macmillan",
+      "referencePublishedDate": 1980,
+      "referenceISBNs": [
+        "0023447206",
+        "9780023447204"
+      ],
+      "source": "https://openlibrary.org/works/OL16578195W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp",
+        "width": 348,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/7157831-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "5 Sara ae\n\nfs\n\n“\n\nae\n\nBe\n\nah\n\nve\n\n1\n\n=\n\na\n\nPp\n\n73\n\ni\n\nag\n\nais\n\n\\\n\n2S",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -354,20 +410,37 @@
         "width": 520,
         "height": 592,
         "source": "https://drive.google.com/thumbnail?id=1zSjwKCifb-4r9AjRKky6UKAZYAyGFA63&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "GRACEY’S\n\nMEAT HYGIEN\n\net\n\nVENTH EDITION\n\nQ\n\nea\n\nT het\n\ninf\n\nee\n\nie\n\nSB.\n\na i Time\n\n~S vex\n\nVal\n\npe\n\nae\n\nEr\n\nIf\n\nNt\n\ne\n\nfish",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "guyton-and-hall-textbook-of-medical-physiology": {
-      "cover": null,
-      "coverOCR": "",
+      "bibliographyVerified": true,
+      "title": "Guyton and Hall textbook of medical physiology",
+      "authors": "John E. Hall, Arthur C. Guyton",
+      "publisher": "Saunders/Elsevier",
+      "referencePublishedDate": 2011,
+      "referenceISBNs": [
+        "9780323597128",
+        "9781416045748",
+        "0323597122",
+        "1416045740"
+      ],
+      "source": "https://openlibrary.org/works/OL17627866W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/guyton-and-hall-textbook-of-medical-physiology.webp",
+        "width": 312,
+        "height": 400,
+        "source": "https://covers.openlibrary.org/b/id/7903978-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "\"Activate a\n\nTextbook of\n\nMedical Physiology\n\ne\n\nae:\n\nae",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -378,11 +451,20 @@
       "reviewed": "2026-10-28"
     },
     "small-animal-radiology-handbook": {
+      "bibliographyVerified": true,
+      "title": "Handbook of small animal radiology and ultrasound",
+      "authors": "Ruth Dennis",
+      "publisher": "Saunders",
+      "referencePublishedDate": 2010,
+      "referenceISBNs": [
+        "9780702028946",
+        "0702028940"
+      ],
+      "source": "https://openlibrary.org/works/OL15611911W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008": {
@@ -391,77 +473,110 @@
         "width": 520,
         "height": 742,
         "source": "https://drive.google.com/thumbnail?id=10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "VT\n\nbs!\n\n~\n\n)WILEY- BLACKWELL\n\nAi Wi\n\nnb",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "kvafsu-qbank": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "lawrie-s-meat-science": {
+      "bibliographyVerified": true,
+      "title": "Lawrie's meat science",
+      "authors": "R. A. Lawrie",
+      "publisher": "Elsevier Science & Technology",
+      "referencePublishedDate": 2006,
+      "referenceISBNs": [
+        "9781615831128",
+        "1615831126",
+        "9781845691615",
+        "184569161X"
+      ],
+      "source": "https://openlibrary.org/works/OL19882298W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/lawrie-s-meat-science.webp",
-        "width": 520,
-        "height": 739,
-        "source": "https://drive.google.com/thumbnail?id=1HoEhWNBh-Zi2KhSL4jiim3dX7jq7VK09&sz=w700",
-        "kind": "file-preview"
+        "width": 351,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/8685767-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "LAWRIE’S MEAT SCIENCE\n\nSIXTH EDITION\n\nby\n\nR. A. LAWRIE\n\nPhD., D.Sc, Sc.D., FRS.E., Hon. FIFST., FRSC, FLBiol\n\nEmeritus Professor of Food Science, University of Nottingham,\n\nFormerly Head, Meat Biochemistry Group,\n\nLow Temperature Research Station, Cambridge\n\nWOODHEAD PUBLISHING LIMITE\n\n‘Cambridge England",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "‘Wont UAL tN 1s Foon ScHNCE,TECHVOLO0Y AND NUTATION\n\niq\n\nSs\n\n=f\n\nleat\n\n|\n\n‘Seventh edition\n\nwith D. A. Ledwar\n\nR.A. Lawrie in collaboration\n\noo)\n\nwe",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "livestock-production-management": {
-      "cover": null,
-      "coverOCR": "",
+      "cover": {
+        "path": "/assets/books/livestock-production-management.webp",
+        "width": 520,
+        "height": 678,
+        "source": "https://books.google.com/books/content?id=SuNkAAAACAAJ&printsec=frontcover&img=1&zoom=2",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "image\n\nnot\n\navailable",
       "errors": [],
       "reviewed": "2026-10-28"
     },
     "lumb-jones-veterinary-anesthesia-and-analgesia": {
+      "bibliographyVerified": true,
+      "title": "Lumb & Jones' veterinary anesthesia and analgesia",
+      "authors": "Kurt Grimm, John Thurmon",
+      "publisher": "Blackwell Publishing Limited",
+      "referencePublishedDate": 2007,
+      "referenceISBNs": [
+        "0781754712",
+        "9780781754712"
+      ],
+      "source": "https://openlibrary.org/works/OL18813108W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/lumb-jones-veterinary-anesthesia-and-analgesia.webp",
-        "width": 520,
-        "height": 673,
-        "source": "https://drive.google.com/thumbnail?id=19OwUuJ2JU7IQuhZ9PrEGS0IhHgQuU3t-&sz=w700",
-        "kind": "file-preview"
+        "width": 386,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/1461988-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "LUMB & JONES’\n\nVeterinary\n\nAnesthesia and\n\nAnalgesia\n\nsourti somon\n\nrey |\n\nAS\n\nSAE\n\nO%",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "manual-of-canine-and-feline-cardiology": {
+      "bibliographyVerified": true,
+      "title": "Manual of canine and feline cardiology",
+      "authors": "Larry P. Tilley, John-Karl Goodwin",
+      "publisher": "Elsevier - Health Sciences Division",
+      "referencePublishedDate": 2001,
+      "referenceISBNs": [
+        "9781336231979",
+        "0721677215",
+        "1336231971",
+        "9780721677217"
+      ],
+      "source": "https://openlibrary.org/works/OL20976822W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/manual-of-canine-and-feline-cardiology.webp",
-        "width": 520,
-        "height": 735,
-        "source": "https://drive.google.com/thumbnail?id=1ufeZVFfNgxzTQTQWGuAsbxGYVwiMUK-I&sz=w700",
-        "kind": "file-preview"
+        "width": 331,
+        "height": 475,
+        "source": "https://covers.openlibrary.org/b/id/1358723-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "Manual of\n\nCanine and Feline\n\nCardiology\n\nThird Edition\n\ne\n\n|",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "meat-and-meat-products-technology": {
@@ -476,42 +591,49 @@
         "width": 520,
         "height": 736,
         "source": "https://drive.google.com/thumbnail?id=1XveEX6w8dVs--uKsRlEM1RCGvCx3Qi8j&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "metabolic-diseases-in-farm-animals": {
+      "bibliographyVerified": true,
+      "title": "Metabolic Diseases In Farm Animals",
+      "authors": "Jack M. Payne",
+      "publisher": "William Heinemann",
+      "referencePublishedDate": 1977,
+      "referenceISBNs": [
+        "0433247509",
+        "1483192997",
+        "9781483192994",
+        "9780433247500"
+      ],
+      "source": "https://openlibrary.org/works/OL9356127W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/metabolic-diseases-in-farm-animals.webp",
-        "width": 492,
-        "height": 760,
-        "source": "https://drive.google.com/thumbnail?id=1E1v6I6yCde6-jhgUFDV2C4Z07M_Valkg&sz=w700",
-        "kind": "file-preview"
+        "width": 313,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/12583248-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "Metabolic Diseases\n\nin Farm Animals\n\nJACK M PAYNE",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "i\n\nMetabolic Diseases?\n\nin Farm Animals\n\nJACK M PAYNE",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "ndri-qbank": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "ockerman-animal-byproduct-processing": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -539,64 +661,133 @@
       "reviewed": "2026-10-28"
     },
     "pathways-to-pregnancy-and-parturition": {
-      "cover": null,
-      "coverOCR": "",
+      "bibliographyVerified": true,
+      "title": "Pathways to pregnancy and parturition",
+      "authors": "P. L. Senger",
+      "publisher": "Current Conceptions",
+      "referencePublishedDate": 1997,
+      "referenceISBNs": [
+        "096576480X",
+        "0965764826",
+        "9780965764827",
+        "9780965764803"
+      ],
+      "source": "https://openlibrary.org/works/OL2208494W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/pathways-to-pregnancy-and-parturition.webp",
+        "width": 372,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/12757368-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "Pathways to Pregnancy\n\nand Parturition\n\nLS\n\nWo",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "plumbs-handbook": {
-      "cover": null,
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
+      "bibliographyVerified": true,
+      "title": "Plumb's Veterinary Drug Handbook",
+      "authors": "Donald C. Plumb",
+      "publisher": "Wiley-Interscience",
+      "referencePublishedDate": 2005,
+      "referenceISBNs": [
+        "9781119344452",
+        "111934445X",
+        "0813810973",
+        "9780813810973"
       ],
+      "source": "https://openlibrary.org/works/OL3513296W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/plumbs-handbook.webp",
+        "width": 105,
+        "height": 180,
+        "source": "https://covers.openlibrary.org/b/id/609535-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "‘Veterinary\n\npoe\n\nfi\n\nPane to",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "pocket-guide-diagnostic-tests": {
+      "bibliographyVerified": true,
+      "title": "Pocket guide to diagnostic tests",
+      "authors": "Diana Nicoll, Stephen J. McPhee, Michael Pignone, Stephen McPhee",
+      "publisher": "McGraw-Hill",
+      "referencePublishedDate": 2003,
+      "referenceISBNs": [
+        "0071411844",
+        "9780071411844"
+      ],
+      "source": "https://openlibrary.org/works/OL18165343W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/pocket-guide-diagnostic-tests.webp",
-        "width": 489,
-        "height": 760,
-        "source": "https://drive.google.com/thumbnail?id=1qtqPZKe9ytj7xwt1wv9zm6fvh3pzxu7p&sz=w700",
-        "kind": "file-preview"
+        "width": 307,
+        "height": 475,
+        "source": "https://covers.openlibrary.org/b/id/1078430-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "third edition\n\n.\n\nPocket\n\na\n\nDiagnostic\n\nTests\n\ncht ah eects\n\n« Includes over 350 tests\n\n» Answers questions on-the-spot\n\nDiana Nicoll\n\nStephen J.McPhee\n\nMichael Pignone\n\nTony M. Chou\n\nWilliam M. Detmer\n\npo\n\ngu",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "FOURTH EDITION\n\nPOCKET\n\nGUIDE TO\n\nDiagnostic\n\nTests\n\n«= Includes over 350 tests\n\n‘= Answers questions on-the-spot\n\nDiana Nicoll\n\nStephen L. McPhee\n\nMichael Pignon",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "small-animal-medicine-handbook": {
-      "cover": null,
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
+      "bibliographyVerified": true,
+      "title": "Pocket Handbook Of Small Animal Medicine",
+      "authors": "Kit Sturgess",
+      "publisher": "CRC Press LLC",
+      "referencePublishedDate": 2012,
+      "referenceISBNs": [
+        "9781482261899",
+        "1840761741",
+        "9780429531750",
+        "1032732318"
       ],
+      "source": "https://openlibrary.org/works/OL17397106W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/small-animal-medicine-handbook.webp",
+        "width": 209,
+        "height": 400,
+        "source": "https://covers.openlibrary.org/b/id/7497102-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "POCKET HANDBOOK OF\n\nSMALL ANIMAL\n\n=\n\n_ MEDICINE\n\nIT STURGES\n\ni)’\n\nJ\n\nFi\n\nPre.",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "poultry-metabolic-disorders-and-mycotoxins": {
+      "bibliographyVerified": true,
+      "title": "Poultry Metabolic Disorders and Mycotoxins",
+      "authors": "Steven Leeson",
+      "publisher": "Ibdchb",
+      "referencePublishedDate": 2001,
+      "referenceISBNs": [
+        "8185860688",
+        "9788185860688"
+      ],
+      "source": "https://openlibrary.org/works/OL9744187W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/poultry-metabolic-disorders-and-mycotoxins.webp",
-        "width": 520,
-        "height": 670,
-        "source": "https://drive.google.com/thumbnail?id=1gqmSEaqXGXKrvPeX8kNAveCGKM_bnE1b&sz=w700",
-        "kind": "file-preview"
+        "width": 400,
+        "height": 400,
+        "source": "https://covers.openlibrary.org/b/id/13865978-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "(a",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "prescott-s-microbiology": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -621,11 +812,12 @@
       "cover": {
         "path": "/assets/books/principles-of-animal-nutrition-and-feed-technology.webp",
         "width": 520,
-        "height": 735,
+        "height": 368,
         "source": "https://drive.google.com/thumbnail?id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
-      "coverOCR": "—-\n\nBes\n\nHt\n\nmo\n\na\n\nee\n\nek\n\nBo\n\nage\n\nze\n\n@ &.\n\nae\n\neek\n\na8\n\ngE\n\niu\n\nji\n\nSs\n\nFe",
+      "coverOCR": "wae\n\nrer]\n\n‘Seantion\n\nPrinciples of Animal Nutrition\n\nand Feed Technology\n\nDW. Reddy, msenno\n\nSee,\n\neet\n\n‘OXFORD & 1H FURISHING CO. FV. LD.",
       "errors": [],
       "reviewed": "2026-10-28"
     },
@@ -635,51 +827,57 @@
         "width": 520,
         "height": 735,
         "source": "https://drive.google.com/thumbnail?id=1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "jun eauay\n\n‘Aysienun ateig Bluveryssuueg\n\nSIAL 'AA 2m,\n\nAysionun yoo enusBiyn,\n\npiew95 \"3 pineg\n\nAysseajup snpang\n\n3801404\" uyor\n\n|\n\nosipew-uisuoasyy jo Aysienup)\n\neveqy ‘a uoHg\n\n-\n\n=\n\n|\n\nCML\n\nIVs\n\nca\n\nata\n\nwoueng ihe\n\nwngpriboy omsvoyo\n\nww\n\nWAVE RN",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "reproduction-in-farm-animals-7th-edition-by-hafeez": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "restraint-and-handling-of-wild-and-domestic-animals": {
+      "bibliographyVerified": true,
+      "title": "Restraint and Handling of Wild and Domestic Animals",
+      "authors": "Murray Fowler",
+      "publisher": "Wiley & Sons, Incorporated, John",
+      "referencePublishedDate": 2009,
+      "referenceISBNs": [
+        "1119949580",
+        "1119949378",
+        "9781119949374",
+        "9781119949589"
+      ],
+      "source": "https://openlibrary.org/works/OL21428368W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/restraint-and-handling-of-wild-and-domestic-animals.webp",
         "width": 520,
         "height": 673,
         "source": "https://drive.google.com/thumbnail?id=1keer053qB9ad7akDT8ewFnM1OuUJwjjg&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "Buysyqnd\n\nhempeia\n\n7)\n\na8,\n\nYa71MOd AVYYNW\n\nS|\n\nPDI\n\nny\n\neu\n\nUy\n\nie\n\niF\n\npue\n\nA\n\nwv\n\nDue\n\nw |\n\na?\n\nte!\n\nJO\n\n~s NraL D\n\nA a\n\nSTi\n\nni\n\nOY\n\nI\n\nue\n\nJ\n\n|\n\niD\n\nSi\n\nNOIL\n\naa",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "review-animal-science": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "review-veterinary-science": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "ruminant-surgery": {
@@ -696,34 +894,43 @@
         "width": 520,
         "height": 691,
         "source": "https://drive.google.com/thumbnail?id=1AnvRApqHkTeDu59SHiasERTWUEWK5fYY&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "skin-diseases-of-exotic-pets": {
+      "bibliographyVerified": true,
+      "title": "Skin diseases of exotic pets",
+      "authors": "Sue Paterson",
+      "publisher": "Blackwell Science",
+      "referencePublishedDate": 2006,
+      "referenceISBNs": [
+        "0632059699",
+        "1405173300",
+        "0470752432",
+        "9780632059690"
+      ],
+      "source": "https://openlibrary.org/works/OL19166730W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/skin-diseases-of-exotic-pets.webp",
-        "width": 520,
-        "height": 738,
-        "source": "https://drive.google.com/thumbnail?id=19V73CHn84hLLZtzIm-DAml4N-d4-bwis&sz=w700",
-        "kind": "file-preview"
+        "width": 333,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/1329192-L.jpg?default=false",
+        "kind": "reference-cover"
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "SKIN DISEASES\n\nOF EXOTIC PETS\n\nSUE PATERSON\n\nes\n\nWD vovisting\n\nBlackwell",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -733,20 +940,18 @@
         "width": 520,
         "height": 362,
         "source": "https://drive.google.com/thumbnail?id=10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "hemorig AA TIM.\n\nNOILIGS GUIHL\n\nCain\n\napin6 Auojonpoujul ue\n\nS908 TVININV TIVINS",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "small-animal-internal-medicine-5th-edition": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -754,31 +959,27 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "tanuvas-qbank": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "text-book-of-veterinary-parasitology-bhatia": {
       "cover": {
         "path": "/assets/books/text-book-of-veterinary-parasitology-bhatia.webp",
         "width": 520,
-        "height": 735,
+        "height": 368,
         "source": "https://drive.google.com/thumbnail?id=1rqGzFoopej4pD-ozzr0aNUQfkn9nMY3F&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "coverOCR": "TExTB0OK\n\nVETERINARY PARASITOLOGY\n\nlr\n\nKALYANI PUBLISHERS",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "text-book-on-animal-genetics-and-breeding": {
@@ -793,7 +994,8 @@
         "width": 520,
         "height": 657,
         "source": "https://drive.google.com/thumbnail?id=1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
       "errors": [],
@@ -805,7 +1007,8 @@
         "width": 520,
         "height": 712,
         "source": "https://drive.google.com/thumbnail?id=1m8BuPXfGu0Rj0J4STWEsk0Ilu4dH1pUn&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
       "errors": [],
@@ -820,11 +1023,29 @@
       "reviewed": "2026-10-28"
     },
     "textbook-of-veterinary-internal-medicine": {
-      "cover": null,
-      "coverOCR": "",
+      "bibliographyVerified": true,
+      "title": "Textbook of veterinary internal medicine",
+      "authors": "Stephen J. Ettinger",
+      "publisher": "Elsevier Saunders",
+      "referencePublishedDate": 2010,
+      "referenceISBNs": [
+        "9789996004100",
+        "9789996004049",
+        "0721601170",
+        "999600404X"
+      ],
+      "source": "https://openlibrary.org/works/OL15959759W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/textbook-of-veterinary-internal-medicine.webp",
+        "width": 369,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/9556047-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "TEXTBOOK of\n\nVeterinary\n\nInternal Medicine|\n\nSie\n\nped\n\nSIXTH EDITION]\n\nSTEPHEN J.\n\nNi\n\nGER\n\nEDWARD C.\n\nLDMAN\n\nVOLUME 1",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -834,12 +1055,11 @@
         "width": 478,
         "height": 760,
         "source": "https://drive.google.com/thumbnail?id=1knDpOeF1ckigyNJUJ_VjojvwAo3OxERn&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "necropsy-book-john-king": {
@@ -848,7 +1068,8 @@
         "width": 520,
         "height": 724,
         "source": "https://drive.google.com/thumbnail?id=1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "THE NECROPSY BOOK\n\nA Guide for Veterinary Students,\n\nResidents, Clinicians, Pathologists,\n\nand Biological Researchers\n\nRevised January 2013\n\nJohn M. King\n\nLois Roth-Johnson\n\nDavid C. Dodd\n\nMarion E. Newsom\n\nPROFESSORIAL POST SCRIPTS\n\nCornell faculty often have manuscripts in various states of comple-\n\ntion when they reach emeritus status. This archival repository is a\n\nplace where these manuscripts, some previously published but out\n\nof print, and some that have not been subjected to peer review, may\n\nbe valuable for their content, but sometimes also for their historical\n\nvalue. This collection is a place for these legacy works to become ac-\n\ncessible online.\n\nCornell University\n\nReleased: October 2014\n\n“This book -hitp//hdL handle ne/1813/37948\n\nProfessorial Post Scripts Collection ~ htp//ecommonsibrary.cornelledwhandle/ 1813137929\n\n“The Internet-First University Press ~ hup/ecommons library cornell eda/handle/1813/62",
       "errors": [],
@@ -857,50 +1078,39 @@
     "ultimate-vet-handbook": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "vaccination-schedule": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "vendex": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "vet-scorer": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "navsari-drug-index": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-epidemiology": {
@@ -909,7 +1119,8 @@
         "width": 520,
         "height": 672,
         "source": "https://drive.google.com/thumbnail?id=1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
       "errors": [],
@@ -921,12 +1132,11 @@
         "width": 474,
         "height": 760,
         "source": "https://drive.google.com/thumbnail?id=1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "=\n\n~ -—™\n\nee \"SS\n\n~\n\nied\n\n‘ (\n\nv\n\n, ‘",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-medicine": {
@@ -935,7 +1145,8 @@
         "width": 520,
         "height": 666,
         "source": "https://drive.google.com/thumbnail?id=1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "",
       "errors": [],
@@ -950,25 +1161,50 @@
       "reviewed": "2026-10-28"
     },
     "veterinary-mycology": {
+      "bibliographyVerified": true,
+      "title": "Veterinary Mycology",
+      "authors": "Indranil Samanta",
+      "publisher": "Springer (India) Private Limited",
+      "referencePublishedDate": 2015,
+      "referenceISBNs": [
+        "9788132222804",
+        "9788132222798",
+        "9788132229469",
+        "8132229460"
+      ],
+      "source": "https://openlibrary.org/works/OL25623115W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": {
         "path": "/assets/books/veterinary-mycology.webp",
         "width": 520,
         "height": 759,
         "source": "https://drive.google.com/thumbnail?id=1ePan-dG10lehu5icHLxSfREmwBCIEUtZ&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "Indranil Samanta\n\n- Veterinary\n\nMycology\n\nD Springer",
-      "errors": [
-        "Bibliography: HTTP Error 500: Internal Server Error"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-obstetrics-and-genital-disease": {
-      "cover": null,
-      "coverOCR": "",
+      "bibliographyVerified": true,
+      "title": "Veterinary obstetrics and genital diseases",
+      "authors": "Roberts, Stephen J.",
+      "publisher": "Edwards Bros.",
+      "referencePublishedDate": 1956,
+      "referenceISBNs": [],
+      "source": "https://openlibrary.org/works/OL7515218W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/veterinary-obstetrics-and-genital-disease.webp",
+        "width": 361,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/15087005-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "VETERINARY OBSTETRICS AND\n\nGENITAL DISEASES\n\n(THERIOGENOLOGY) *\n\n»\n\nStephen J. Roberts DYM, MS\n\nProfesor Emer,\n\nDeparment of Metcine, Obtctrics and Surgery\n\n[New York Sate Collegeof Veterinary Men,\n\n‘Corel University. tics, New York 14853\n\nibid bythe Aur\n\nWeek, Veo 5091\n\n‘ose\n\nevant Cue\n\n:\n\n‘Noah Res, Vere 503\n\n‘am te, ich 108\n\neen\n\n——\n\noo\n\nree\n\nteens\n\npeer",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -992,7 +1228,8 @@
         "width": 520,
         "height": 706,
         "source": "https://drive.google.com/thumbnail?id=1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_&sz=w700",
-        "kind": "file-preview"
+        "kind": "file-preview",
+        "oriented": true
       },
       "coverOCR": "Eighth Editior\n\nArthur's\n\nVeterinary |\n\nReproduction\n\nand Obstetrics",
       "errors": [],
@@ -1002,15 +1239,14 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 500: Internal Server Error"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     }
   },
   "stats": {
     "works": 95,
-    "covers": 39,
-    "bibliography": 3
+    "covers": 50,
+    "bibliography": 24
   }
 }
