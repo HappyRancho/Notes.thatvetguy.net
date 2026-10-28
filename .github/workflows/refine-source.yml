@@ -42,3 +42,21 @@ jobs:
           git commit -m 'Record researched cover candidates for visual verification [generated]'
           git pull --rebase origin homepage-approved-mockups
           git push origin HEAD:homepage-approved-mockups
+  reviewed-covers:
+    if: contains(github.event.head_commit.message, '[exact-covers]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - run: python3 scripts/fetch-reviewed-covers.py
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/books/ data/reviewed-cover-results.json
+          git commit -m 'Cache individually researched cover images [generated]'
+          git pull --rebase origin homepage-approved-mockups
+          git push origin HEAD:homepage-approved-mockups
