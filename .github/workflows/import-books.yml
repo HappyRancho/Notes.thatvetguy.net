@@ -53,3 +53,20 @@ jobs:
           path: |
             assets/books/
             data/book-details.json
+  fill:
+    if: contains(github.event.head_commit.message, '[book-fill]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - run: python3 scripts/fill-book-covers.py
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/books/ data/book-details.json data/books.json
+          git commit -m 'Save checked ISBN cover references [generated]'
+          git push origin HEAD:homepage-approved-mockups
