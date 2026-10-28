@@ -72,9 +72,9 @@ Last source review: 2026-10-28. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/objective/index.md
 - [Tools & Tips for Vet Students](https://notes.thatvetguy.net/study-tools/): Find useful veterinary apps, trusted study websites and career guides for BVSc & AH students. Explore practical tools and year-wise study roadmaps.
   - Markdown: https://notes.thatvetguy.net/study-tools/index.md
-- [Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/): Compare VetConnect, Vet Study 2.0, MSD Vet Manual and IVRI Clinical Care with free Google Play links. Explore Biosphera species anatomy apps.
+- [Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/): Compare VetConnect, Vet Study 2.0, MSD Vet Manual and IVRI Clinical Care with free Google Play links. Explore 3D species anatomy apps.
   - Markdown: https://notes.thatvetguy.net/study-tools/vet-apps/index.md
-- [Useful Online Veterinary Resources](https://notes.thatvetguy.net/study-tools/online-resources/): Find BVSc notes, TANUVAS collections, veterinary clinical references, Cornell eClinPath, research tools and official sources in one curated directory.
+- [Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/): Find BVSc notes, TANUVAS collections, veterinary clinical references, Cornell eClinPath, research tools and official sources in one curated directory.
   - Markdown: https://notes.thatvetguy.net/study-tools/online-resources/index.md
 - [Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/): Explore 12 veterinary career paths after BVSc: clinical practice, government, research, industry and One Health. Compare training and plan your next step.
   - Markdown: https://notes.thatvetguy.net/study-tools/veterinary-careers/index.md

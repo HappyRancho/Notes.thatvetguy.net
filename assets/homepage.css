@@ -91,3 +91,8 @@ html:not(.js) .rx-inner .rx-panel[hidden],html:not(.js) .rx-objective .rx-panel[
 
 /* Retain the wordmark's literal T below the syringe glyph, without changing layout. */
 .rx-glyph-t{position:absolute;inset:0;color:transparent;pointer-events:none}
+/* Keep the approved prescription header available while reading. */
+.rx-header{position:sticky;top:0;z-index:30;background:var(--paper);padding-block:9px 7px}
+.rx-home{padding-top:2px}.rx-search-wrap{padding:5px;margin-bottom:12px;border-radius:16px}.mockup-home .rx-search-wrap .search-field{min-height:48px}.mockup-home .rx-search-wrap .search-field input{padding-block:8px}.mockup-home .rx-search-wrap .search-submit{display:inline-flex;background:var(--rx-blue);color:white;border-radius:11px}.mockup-home .rx-search-wrap .search-shortcut{display:none}
+html{scroll-padding-top:165px}.mockup-home [id]{scroll-margin-top:165px}
+@media(min-width:900px){.rx-header .rx-paper{min-height:112px;padding-block:10px}.rx-header .rx-brand{min-height:70px}.rx-header .rx-promise-title,.rx-header .rx-promise h1{font-size:24px}.rx-header .rx-desktop-nav{padding-block:4px;margin-top:6px}.rx-header .rx-notes{font-size:52px}html{scroll-padding-top:195px}.mockup-home [id]{scroll-margin-top:195px}}

@@ -63,7 +63,7 @@ Study smart. Because suffering manually is outdated.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
-[Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary Resources](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)[Find Your Veterinary Career](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 

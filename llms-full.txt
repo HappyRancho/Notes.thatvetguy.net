@@ -76,7 +76,7 @@ Study smart. Because suffering manually is outdated.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
-[Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary Resources](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)[Find Your Veterinary Career](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
@@ -4585,7 +4585,7 @@ Canonical: https://notes.thatvetguy.net/study-tools/
 Choose veterinary apps, reliable online reading and career paths worth exploring. Practical guides for life during and after BVSc & AH.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
-[Useful Vet AppsFree veterinary apps for revision and field learning, plus Biosphera species anatomy tools. Find what each app does and when to use it.](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary ResourcesFind useful BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in VeterinaryExplore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet App ShelfFree veterinary apps for revision and field learning, plus 3D species anatomy tools. Find what each app does and when to use it.](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web FinderFind BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in VeterinaryExplore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 ## Year Roadmaps
 
@@ -4599,19 +4599,15 @@ Canonical: https://notes.thatvetguy.net/study-tools/vet-apps/
 
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/vet-apps/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Tools & Tips](https://notes.thatvetguy.net/study-tools/)/Useful Vet Apps
+[Home](https://notes.thatvetguy.net/)/[Tools & Tips](https://notes.thatvetguy.net/study-tools/)/Vet App Shelf
 
-# Useful Vet Apps
+# Vet App Shelf
 
 Free apps for revision and field learning, plus species anatomy tools. Find the right app for the job.
 
-More useful than another screenshot.
-
 [Free apps](#free-apps)[3D anatomy](#anatomy-apps)
 
-## Free apps worth keeping
-
-One job per app. Less scrolling, more learning.
+## Made for your vet-school day
 
 Study
 
@@ -4619,17 +4615,11 @@ Study
 
 Vet Study
 
+[Get on Google Play](https://play.google.com/store/apps/details?id=com.asr.vetstudy2)
+
 A veterinary e-learning companion for keeping revision material close when you are away from your desk.
 
 BVSc revisionQuick reading
-
-A useful way to use it 
-
-Pick one syllabus topic before opening the app. After reading, close it and explain the key points aloud; check gaps against your course outline.
-
-Free to install · contains ads. Content availability may change.
-
-[Get on Google Play ](https://play.google.com/store/apps/details?id=com.asr.vetstudy2)
 
 Reference
 
@@ -4637,17 +4627,11 @@ Reference
 
 Dr. Ghanasyam Joshi
 
+[Get on Google Play](https://play.google.com/store/apps/details?id=com.vetconnect.user.vetconnect)
+
 A veterinary drug index for looking up drug and brand information in an Indian practice context.
 
 Drug-name lookupPharmacology revision
-
-A useful way to use it 
-
-Use it to connect a generic drug to its class and indications. Cross-check species, formulation and current product information with your clinical supervisor.
-
-Free to install · contains ads. The listing describes offline and online use.
-
-[Get on Google Play ](https://play.google.com/store/apps/details?id=com.vetconnect.user.vetconnect)
 
 Reference
 
@@ -4655,17 +4639,11 @@ Reference
 
 Merck Sharp & Dohme LLC
 
+[Get on Google Play](https://play.google.com/store/apps/details?id=com.msd.veterinary)
+
 A broad veterinary reference for reviewing diseases, diagnostic approaches and clinical background across species.
 
 Clinical conceptsSpecies comparisons
-
-A useful way to use it 
-
-Start with a condition from rounds. Read its overview and diagnostic approach, then write a short problem list before discussing the case.
-
-Free reference. Download the core content first; some media and features need an internet connection.
-
-[Get on Google Play ](https://play.google.com/store/apps/details?id=com.msd.veterinary)
 
 Field practice
 
@@ -4673,74 +4651,43 @@ Field practice
 
 ICAR-IVRI & ICAR-IASRI
 
+[Get on Google Play](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp)
+
 An Indian field-practice learning aid covering common medicine, gynaecology and surgery presentations.
 
 Livestock casesClinical preparation
 
-A useful way to use it 
+## Anatomy in 3D
 
-Before a supervised field visit, review one common presentation such as bloat or dystocia. Compare the history, examination and differential diagnoses with what you observe.
-
-Free to install. Developed by ICAR-IVRI and IASRI; includes clinical explanations and educational procedure videos.
-
-[Get on Google Play ](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp)
-
-For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
-
-## Biosphera 3D anatomy
-
-Rotate it. Hide it. Name it. Then meet it in the dissection hall.
-
-Species models for seeing how structures fit together. These are paid publisher apps; they supplement your atlas and practical teaching.
+A species for every study session.
 
 ### 3D Dog Anatomy
 
-Biosphera3D · paid app
-
-Explore canine skeletal, muscular and internal anatomy from multiple angles.
+3D anatomy
 
 ### 3D Cat Anatomy
 
-Biosphera3D · paid app
-
-Use a feline model to compare spatial relationships with canine anatomy.
+3D anatomy
 
 ### 3D Horse Anatomy
 
-Biosphera3D · paid app
-
-Rotate an equine model and isolate systems to understand structures in three dimensions.
+3D anatomy
 
 ### 3D Pig Anatomy
 
-Biosphera3D · paid app
-
-View porcine internal systems layer by layer and practise identifying landmarks.
+3D anatomy
 
 ### 3D Caprine Anatomy
 
-Biosphera3D · paid app
-
-Explore caprine systems and highlight structures for comparative anatomy revision.
+3D anatomy
 
 ### 3D Bird Anatomy
 
-Biosphera3D · paid app
-
-Study a pigeon model for avian bones, muscles and internal organs.
+3D anatomy
 
 ### Anatomy app collection
 
-Telegram link coming soon. We’ll add the collection here when it is available.
-
-## Build a small study setup
-
-Four useful habits beat forty unused apps.
-
-- Start with your syllabus. Open one topic and choose the app that answers that question.
-- Download before you travel. Check that the content you need actually opens offline.
-- Use active recall. Close the app, explain the concept and check what you missed.
-- Keep the source. Record the species, author or publisher and edition where relevant.
+Paid apps · Telegram link coming soon.
 
 Sources & how this guide was checked 
 
@@ -4748,25 +4695,21 @@ Descriptions and next steps are our editorial guidance. Requirements and availab
 
 - [Vet Study 2.0 — Google Play listing](https://play.google.com/store/apps/details?id=com.asr.vetstudy2)
 
-Vet Study; original icon and publisher description checked.
+Vet Study
 
 - [VetConnect — Google Play listing](https://play.google.com/store/apps/details?id=com.vetconnect.user.vetconnect)
 
-Dr. Ghanasyam Joshi; original icon and publisher description checked.
+Dr. Ghanasyam Joshi
 
 - [MSD Vet Manual — Google Play listing](https://play.google.com/store/apps/details?id=com.msd.veterinary)
 
-Merck Sharp & Dohme LLC; original icon and publisher description checked.
+Merck Sharp & Dohme LLC
 
 - [IVRI Veterinary Clinical Care — Google Play listing](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp)
 
-ICAR-IVRI & ICAR-IASRI; original icon and publisher description checked.
+ICAR-IVRI & ICAR-IASRI
 
-- [ICAR-IVRI — official mobile apps](https://www.ivri.nic.in/Extension/MobileApps.aspx)
-
-Confirms IVRI’s veterinary field-learning apps.
-
-[Useful Online Veterinary Resources](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
@@ -4776,15 +4719,14 @@ Canonical: https://notes.thatvetguy.net/study-tools/online-resources/
 
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/online-resources/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Tools & Tips](https://notes.thatvetguy.net/study-tools/)/Useful Online Veterinary Resources
+[Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+Rx Web Finder
 
-# Useful Online Veterinary Resources
+# Veterinary resources online
 
-A curated reading list for BVSc notes, clinical cases, research and official guidance.
+Notes, clinical references & original sources. All in one place.
 
-Less hunting. More learning.
-
-What are you looking for?
+Search within these websites
 
 12 curated resources
 
@@ -4924,7 +4866,7 @@ Use AI as a helper. It can organise reading or explain terminology. Check every 
 
 Curated 2026-10-28. Links open the original websites. Access terms and availability can change; inclusion does not imply endorsement or ownership.
 
-[Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
@@ -4940,13 +4882,11 @@ Canonical: https://notes.thatvetguy.net/study-tools/veterinary-careers/
 
 Find a route after BVSc & AH. Compare the work, training and practical next steps.
 
-Your degree has options.
-
 [Explore routes](#career-routes)[BVSc or MVSc?](#pg-or-practice)[Working abroad](#overseas)[Your next 30 days](#next-30-days)
 
-## Find work you would actually enjoy
+## Find your direction
 
-Choose the working day before choosing the job title.
+Pick a world you want to work in.
 
 12 routes to explore
 
@@ -4956,9 +4896,9 @@ Clinical
 
 Consults, prevention, diagnostics and follow-up for pets.
 
-You might like it if… You like case continuity, hands-on work and explaining decisions to worried people.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like case continuity, hands-on work and explaining decisions to worried people.
 
 #### The actual work
 
@@ -4984,9 +4924,9 @@ Clinical
 
 Work with individual animals and the performance of a whole herd.
 
-You might like it if… You enjoy farms, travel, practical problem solving and working with livestock owners.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy farms, travel, practical problem solving and working with livestock owners.
 
 #### The actual work
 
@@ -5012,9 +4952,9 @@ Production
 
 Prevent disease and improve health at flock or enterprise scale.
 
-You might like it if… You like prevention, systems, numbers and decisions affecting many animals.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like prevention, systems, numbers and decisions affecting many animals.
 
 #### The actual work
 
@@ -5040,9 +4980,9 @@ Public service
 
 Animal health programmes, field services and regulatory responsibilities.
 
-You might like it if… You value public service, livestock outreach and working within an administrative system.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You value public service, livestock outreach and working within an administrative system.
 
 #### The actual work
 
@@ -5068,9 +5008,9 @@ Public service
 
 Protect animal and human health through prevention and surveillance.
 
-You might like it if… You enjoy population-level questions, field investigation, data and teamwork across disciplines.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy population-level questions, field investigation, data and teamwork across disciplines.
 
 #### The actual work
 
@@ -5088,7 +5028,7 @@ Turn a public health topic into a short evidence brief: define the population, r
 
 An additional degree is useful only when it fits the role. Check recognised entry requirements before paying for a programme.
 
-Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
+Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 Research
 
@@ -5096,9 +5036,9 @@ Research
 
 Make laboratory findings useful to the clinician or herd team.
 
-You might like it if… You enjoy detail, methodical work and explaining the limits of a test.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy detail, methodical work and explaining the limits of a test.
 
 #### The actual work
 
@@ -5124,9 +5064,9 @@ Research
 
 Ask a better question, investigate it and help others learn.
 
-You might like it if… You like explaining concepts, reading critically and working patiently through uncertain results.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like explaining concepts, reading critically and working patiently through uncertain results.
 
 #### The actual work
 
@@ -5144,7 +5084,7 @@ Ask to assist with a supervised literature review or small project. Learn resear
 
 Choose a supervisor and research environment carefully. Compare actual training, funding and methods experience rather than collecting qualifications alone.
 
-Read the source: [IVRI](#source-ivri)[NTA](#source-icar)[University of Arizona](#source-careers)
+Read the source: [IVRI](#source-ivri)[NTA](#source-icar)
 
 Industry
 
@@ -5152,9 +5092,9 @@ Industry
 
 Connect veterinary knowledge with products, evidence and customers.
 
-You might like it if… You enjoy explaining science, solving client problems and collaborating with business teams.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy explaining science, solving client problems and collaborating with business teams.
 
 #### The actual work
 
@@ -5180,9 +5120,9 @@ Clinical
 
 Animal health within conservation, rehabilitation and managed populations.
 
-You might like it if… You are interested in population health, welfare and working patiently in multidisciplinary teams.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You are interested in population health, welfare and working patiently in multidisciplinary teams.
 
 #### The actual work
 
@@ -5200,7 +5140,7 @@ Seek a formally supervised placement through your college or an established orga
 
 Wildlife work is not a shortcut to independent capture or treatment. Do not seek unsupervised handling experience.
 
-Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
+Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 Clinical
 
@@ -5208,9 +5148,9 @@ Clinical
 
 Improve welfare through prevention, accessible care and good systems.
 
-You might like it if… You like community work, teamwork and balancing individual care with population needs.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like community work, teamwork and balancing individual care with population needs.
 
 #### The actual work
 
@@ -5228,7 +5168,7 @@ Volunteer through a recognised supervised programme. Observe infection control, 
 
 Ask about supervision, caseload limits, facilities and staff support. Compassion works best with safe, sustainable clinical systems.
 
-Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
+Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 Industry
 
@@ -5236,9 +5176,9 @@ Industry
 
 Build a service around a real animal-health need.
 
-You might like it if… You enjoy responsibility, service design, communication and learning the business side.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy responsibility, service design, communication and learning the business side.
 
 #### The actual work
 
@@ -5264,9 +5204,9 @@ Industry
 
 Make sound veterinary knowledge useful beyond the consulting room.
 
-You might like it if… You enjoy explaining complex ideas, checking sources and making useful things for other people.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy explaining complex ideas, checking sources and making useful things for other people.
 
 #### The actual work
 
@@ -5289,6 +5229,8 @@ Read the source: [University of Arizona](#source-careers)[Virginia Tech](#source
 Choose another setting to explore more routes.
 
 For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.
+
+Choose your next qualification
 
 ## BVSc, a job or postgraduate study?
 
@@ -5314,6 +5256,8 @@ Ask: Do I enjoy the process of research as much as the subject?
 
 [Check IVRI’s MVSc information](#source-ivri)[Check the current ICAR examination bulletin](#source-icar)
 
+Explore working abroad
+
 ## Thinking about working abroad?
 
 An overseas degree and a licence to practise are different things.
@@ -5337,6 +5281,8 @@ Check whether your qualification is recognised. The AVBC’s Australasian Veteri
 [Read the regulator’s guidance ](#source-avbc)
 
 Budget for verification, exams, travel, living costs and language requirements where applicable. Registration, visas and employment are separate processes; always use the current regulator’s rules.
+
+Your next 30 days
 
 ## Make the next 30 days useful
 
@@ -5401,7 +5347,7 @@ NAVLE eligibility and educational certification pathways.
 
 Assessment for overseas qualifications not recognised for registration.
 
-[Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary Resources](https://notes.thatvetguy.net/study-tools/online-resources/)
+[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
 
@@ -5497,16 +5443,18 @@ Canonical: https://notes.thatvetguy.net/search/
 
 <!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/Find your next read.
+[Home](https://notes.thatvetguy.net/)/Find it. Study it.
 
-# Find your next read.
+# Find it. Study it.
 
-Search veterinary notes, books, practical folders and syllabus checklists. Start with a subject or the title you need.
+Notes, books, questions and clinical references.
 
 Search veterinary resources
 /
 
 Searching…
+
+Popular searches[Drug Index](https://notes.thatvetguy.net/clinical/drug-index/)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)[R K Ghosh](https://notes.thatvetguy.net/search/?q=Ghosh)[Vet Scorer](https://notes.thatvetguy.net/search/?q=Vet%20Scorer)
 
 ## A place to start
 

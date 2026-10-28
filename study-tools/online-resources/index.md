@@ -1,14 +1,13 @@
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/online-resources/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Tools & Tips](https://notes.thatvetguy.net/study-tools/)/Useful Online Veterinary Resources
+[Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+Rx Web Finder
 
-# Useful Online Veterinary Resources
+# Veterinary resources online
 
-A curated reading list for BVSc notes, clinical cases, research and official guidance.
+Notes, clinical references & original sources. All in one place.
 
-Less hunting. More learning.
-
-What are you looking for?
+Search within these websites
 
 12 curated resources
 
@@ -148,6 +147,6 @@ Use AI as a helper. It can organise reading or explain terminology. Check every 
 
 Curated 2026-10-28. Links open the original websites. Access terms and availability can change; inclusion does not imply endorsement or ownership.
 
-[Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Career Options in Veterinary](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

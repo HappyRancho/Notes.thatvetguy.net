@@ -7,7 +7,7 @@
 Choose veterinary apps, reliable online reading and career paths worth exploring. Practical guides for life during and after BVSc & AH.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
-[Useful Vet AppsFree veterinary apps for revision and field learning, plus Biosphera species anatomy tools. Find what each app does and when to use it.](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary ResourcesFind useful BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in VeterinaryExplore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet App ShelfFree veterinary apps for revision and field learning, plus 3D species anatomy tools. Find what each app does and when to use it.](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web FinderFind BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Career Options in VeterinaryExplore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 ## Year Roadmaps
 

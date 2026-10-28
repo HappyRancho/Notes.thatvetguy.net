@@ -6,13 +6,11 @@
 
 Find a route after BVSc & AH. Compare the work, training and practical next steps.
 
-Your degree has options.
-
 [Explore routes](#career-routes)[BVSc or MVSc?](#pg-or-practice)[Working abroad](#overseas)[Your next 30 days](#next-30-days)
 
-## Find work you would actually enjoy
+## Find your direction
 
-Choose the working day before choosing the job title.
+Pick a world you want to work in.
 
 12 routes to explore
 
@@ -22,9 +20,9 @@ Clinical
 
 Consults, prevention, diagnostics and follow-up for pets.
 
-You might like it if… You like case continuity, hands-on work and explaining decisions to worried people.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like case continuity, hands-on work and explaining decisions to worried people.
 
 #### The actual work
 
@@ -50,9 +48,9 @@ Clinical
 
 Work with individual animals and the performance of a whole herd.
 
-You might like it if… You enjoy farms, travel, practical problem solving and working with livestock owners.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy farms, travel, practical problem solving and working with livestock owners.
 
 #### The actual work
 
@@ -78,9 +76,9 @@ Production
 
 Prevent disease and improve health at flock or enterprise scale.
 
-You might like it if… You like prevention, systems, numbers and decisions affecting many animals.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like prevention, systems, numbers and decisions affecting many animals.
 
 #### The actual work
 
@@ -106,9 +104,9 @@ Public service
 
 Animal health programmes, field services and regulatory responsibilities.
 
-You might like it if… You value public service, livestock outreach and working within an administrative system.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You value public service, livestock outreach and working within an administrative system.
 
 #### The actual work
 
@@ -134,9 +132,9 @@ Public service
 
 Protect animal and human health through prevention and surveillance.
 
-You might like it if… You enjoy population-level questions, field investigation, data and teamwork across disciplines.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy population-level questions, field investigation, data and teamwork across disciplines.
 
 #### The actual work
 
@@ -154,7 +152,7 @@ Turn a public health topic into a short evidence brief: define the population, r
 
 An additional degree is useful only when it fits the role. Check recognised entry requirements before paying for a programme.
 
-Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
+Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 Research
 
@@ -162,9 +160,9 @@ Research
 
 Make laboratory findings useful to the clinician or herd team.
 
-You might like it if… You enjoy detail, methodical work and explaining the limits of a test.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy detail, methodical work and explaining the limits of a test.
 
 #### The actual work
 
@@ -190,9 +188,9 @@ Research
 
 Ask a better question, investigate it and help others learn.
 
-You might like it if… You like explaining concepts, reading critically and working patiently through uncertain results.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like explaining concepts, reading critically and working patiently through uncertain results.
 
 #### The actual work
 
@@ -210,7 +208,7 @@ Ask to assist with a supervised literature review or small project. Learn resear
 
 Choose a supervisor and research environment carefully. Compare actual training, funding and methods experience rather than collecting qualifications alone.
 
-Read the source: [IVRI](#source-ivri)[NTA](#source-icar)[University of Arizona](#source-careers)
+Read the source: [IVRI](#source-ivri)[NTA](#source-icar)
 
 Industry
 
@@ -218,9 +216,9 @@ Industry
 
 Connect veterinary knowledge with products, evidence and customers.
 
-You might like it if… You enjoy explaining science, solving client problems and collaborating with business teams.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy explaining science, solving client problems and collaborating with business teams.
 
 #### The actual work
 
@@ -246,9 +244,9 @@ Clinical
 
 Animal health within conservation, rehabilitation and managed populations.
 
-You might like it if… You are interested in population health, welfare and working patiently in multidisciplinary teams.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You are interested in population health, welfare and working patiently in multidisciplinary teams.
 
 #### The actual work
 
@@ -266,7 +264,7 @@ Seek a formally supervised placement through your college or an established orga
 
 Wildlife work is not a shortcut to independent capture or treatment. Do not seek unsupervised handling experience.
 
-Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
+Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 Clinical
 
@@ -274,9 +272,9 @@ Clinical
 
 Improve welfare through prevention, accessible care and good systems.
 
-You might like it if… You like community work, teamwork and balancing individual care with population needs.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You like community work, teamwork and balancing individual care with population needs.
 
 #### The actual work
 
@@ -294,7 +292,7 @@ Volunteer through a recognised supervised programme. Observe infection control, 
 
 Ask about supervision, caseload limits, facilities and staff support. Compassion works best with safe, sustainable clinical systems.
 
-Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
+Read the source: [VCI](#source-registration)[University of Arizona](#source-careers)
 
 Industry
 
@@ -302,9 +300,9 @@ Industry
 
 Build a service around a real animal-health need.
 
-You might like it if… You enjoy responsibility, service design, communication and learning the business side.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy responsibility, service design, communication and learning the business side.
 
 #### The actual work
 
@@ -330,9 +328,9 @@ Industry
 
 Make sound veterinary knowledge useful beyond the consulting room.
 
-You might like it if… You enjoy explaining complex ideas, checking sources and making useful things for other people.
+Explore this path 
 
-Work, entry route & first step 
+A good fit if… You enjoy explaining complex ideas, checking sources and making useful things for other people.
 
 #### The actual work
 
@@ -355,6 +353,8 @@ Read the source: [University of Arizona](#source-careers)[Virginia Tech](#source
 Choose another setting to explore more routes.
 
 For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.
+
+Choose your next qualification
 
 ## BVSc, a job or postgraduate study?
 
@@ -380,6 +380,8 @@ Ask: Do I enjoy the process of research as much as the subject?
 
 [Check IVRI’s MVSc information](#source-ivri)[Check the current ICAR examination bulletin](#source-icar)
 
+Explore working abroad
+
 ## Thinking about working abroad?
 
 An overseas degree and a licence to practise are different things.
@@ -403,6 +405,8 @@ Check whether your qualification is recognised. The AVBC’s Australasian Veteri
 [Read the regulator’s guidance ](#source-avbc)
 
 Budget for verification, exams, travel, living costs and language requirements where applicable. Registration, visas and employment are separate processes; always use the current regulator’s rules.
+
+Your next 30 days
 
 ## Make the next 30 days useful
 
@@ -467,6 +471,6 @@ NAVLE eligibility and educational certification pathways.
 
 Assessment for overseas qualifications not recognised for registration.
 
-[Useful Vet Apps](https://notes.thatvetguy.net/study-tools/vet-apps/)[Useful Online Veterinary Resources](https://notes.thatvetguy.net/study-tools/online-resources/)
+[Vet App Shelf](https://notes.thatvetguy.net/study-tools/vet-apps/)[Vet Web Finder](https://notes.thatvetguy.net/study-tools/online-resources/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

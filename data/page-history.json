@@ -1,6 +1,6 @@
 {
   "/": {
-    "sha256": "f78fa5e9ca5d5e058079e3eefc391dd0c948a6e18d1423cf3778a21aeee2dbbf",
+    "sha256": "5f8082192bd7925c574bc9cce793f11aba8b10f7cad739545cce1a13adae7be6",
     "modified": "2026-10-28"
   },
   "/bvsc/": {
@@ -136,19 +136,19 @@
     "modified": "2026-10-28"
   },
   "/study-tools/": {
-    "sha256": "6b6cbf3400120652a4d3b9cba10a9b5fe23c51b303398701bab55acf4d6ef54e",
+    "sha256": "d2dc250341f22fc07d41d4327c52f7c373124bbd1315d1a3a695162c4d10d286",
     "modified": "2026-10-28"
   },
   "/study-tools/vet-apps/": {
-    "sha256": "5b09e939caba3216657dc4d874838a23ad704aff370e7bfb430ff575d3811cde",
+    "sha256": "256a95e8ffda0ab5ce36b203e8220e5d551b6bd9c804e9825cb4968099196834",
     "modified": "2026-10-28"
   },
   "/study-tools/online-resources/": {
-    "sha256": "87bcac9a7a19d17b12987e025b5a89754c70acc46f97bde8a737a28fa7c4ebc0",
+    "sha256": "182cbba249fd8c1f286db3400aa2ada7d6d9d5e8206d553cc955bb32d8cdc5f3",
     "modified": "2026-10-28"
   },
   "/study-tools/veterinary-careers/": {
-    "sha256": "8242ad1caee765133f71faf32fc5fa7bce0bb543018bc4c0f9b6ac6e58c46022",
+    "sha256": "12b8c1611c067ceaf59a1e1e32cccccae36b12c23754d25e7f3c99f8b6a60479",
     "modified": "2026-10-28"
   },
   "/about/": {
@@ -160,7 +160,7 @@
     "modified": "2026-10-20"
   },
   "/search/": {
-    "sha256": "0dfc961057f3586cfe613981255c48749cffde453fd85b85e18a91f19b6caac0",
+    "sha256": "91ac0786c48aa65324d605663b45bf2a818c2a12378f54bc73cedc93aed1706e",
     "modified": "2026-10-28"
   },
   "/clinical/handbooks/": {
