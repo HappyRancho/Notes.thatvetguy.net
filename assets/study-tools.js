@@ -15,3 +15,7 @@ openButton.addEventListener('click',()=>{if(selected.size===2)dialog.showModal()
 root.querySelector('[data-close-comparison]').addEventListener('click',()=>dialog.close());
 root.querySelector('[data-clear-comparison]').addEventListener('click',()=>{selected.clear();renderComparison();root.querySelector('[data-tool-filter="All"]').focus()});
 })();
+/* Local-only utility controls: clear a query or copy a decision worksheet. */
+(()=>{'use strict';for(const root of document.querySelectorAll('[data-tool-collection]')){const input=root.querySelector('[data-tool-query]'),clear=root.querySelector('[data-clear-tool-query]');if(!input||!clear)continue;input.addEventListener('input',()=>{clear.hidden=!input.value});clear.addEventListener('click',()=>{input.value='';clear.hidden=true;input.dispatchEvent(new Event('input',{bubbles:true}));input.focus()})}
+const copy=document.querySelector('[data-copy-career-plan]');copy?.addEventListener('click',async()=>{const status=document.querySelector('[data-plan-status]'),fields=[...document.querySelectorAll('.career-worksheet textarea')];if(!fields.some(f=>f.value.trim())){status.textContent='Add your priorities or next step first.';fields[0].focus();return}const text=fields.map(f=>f.closest('label').childNodes[0].textContent.trim()+'\n'+f.value.trim()).join('\n\n');try{await navigator.clipboard.writeText(text);status.textContent='Worksheet copied. Paste it into your notes.'}catch{status.textContent='Your browser could not copy it. Select and copy your answers from the fields.'}});
+})();

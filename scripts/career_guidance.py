@@ -4,17 +4,19 @@ from pathlib import Path
 from html import escape as e
 DATA=json.loads((Path(__file__).resolve().parent.parent/'data/career-guidance.json').read_text())
 
+def disclosure_control():
+ return '<span class="disclosure-control" aria-hidden="true"><span class="disclosure-plus">+</span><span class="disclosure-minus">−</span></span>'
 def drawer(b,title,lead,body,ident=''):
- return '<details class="career-guide-drawer"'+(' id="'+ident+'"' if ident else '')+'><summary><span><strong>'+title+'</strong><small>'+lead+'</small></span>'+b.icon('chevron')+'</summary><div class="career-guide-body">'+body+'</div></details>'
+ return '<details class="career-guide-drawer"'+(' id="'+ident+'"' if ident else '')+'><summary><span class="drawer-label"><strong>'+title+'</strong><small class="drawer-preview">'+lead+'</small><span class="drawer-action" aria-hidden="true"><span class="drawer-closed-label">Read answer</span><span class="drawer-open-label">Close answer</span></span></span>'+disclosure_control()+'</summary><div class="career-guide-body">'+body+'</div></details>'
 def paras(rows):
- return ''.join('<p><strong>'+label+'</strong> '+copy+'</p>' for label,copy in rows)
+ return '<dl class="guidance-points">'+''.join('<div><dt>'+label+'</dt><dd>'+copy+'</dd></div>' for label,copy in rows)+'</dl>'
 def refs(b,items):
  return '<nav class="career-inline-sources" aria-label="Sources for this guidance">'+''.join(b.link('#source-'+sid,label) for sid,label in items)+'</nav>'
 def panel(b,ident,title,lead,body):
- return '<section class="tool-section career-panel" id="'+ident+'" data-career-panel><header class="career-panel-heading"><h2>'+title+'</h2><p>'+lead+'</p></header>'+body+'</section>'
+ return '<section class="tool-section career-panel" id="'+ident+'" data-career-panel><header class="career-panel-heading"><h2>'+title+'</h2><p>'+lead+'</p><span class="panel-expand-hint">Tap a question to open its answer</span></header>'+body+'</section>'
 def route_depth(b,ident):
  d=DATA['routes'][ident]
- return drawer(b,'Skills, progression & questions','Look beyond the job title.',paras([('Build these skills.',e(d['skills'])),('Where it can lead.',e(d['progression'])),('Ask before committing.',e(d['questions']))]))
+ return drawer(b,'Skills, progression & questions','Look beyond the job title.',paras([('Build these skills.',e(d['skills'])),('Where it can lead.',e(d['progression'])),('Ask before committing.',e(d['questions'])),('Build evidence of your skills.',e(d['evidence']))]))
 def panels(b):
  study=drawer(b,'Work first or study further?','Choose the training for the work you want.',paras([
  ('Start with a supervised job if…','you need income, want to test a work setting or need clinical confidence. Compare the mentor and induction plan, not just the hospital name. A job can clarify a later postgraduate choice; keep an eye on admission cycles.'),
@@ -33,6 +35,11 @@ def panels(b):
  ('Money & time','Get written information on fees, stipend availability, accommodation, bonds and conditions. Include living costs and income you would forgo; do not budget from an old social-media post.'),
  ('Outcomes','Ask what recent graduates do and how the programme helped them get there. Speak to more than one student; one excellent or unhappy experience is not the whole department.'),
  ('A useful final question','If this degree did not bring an immediate job offer, would the training still move you towards work you want to do?')] ))
+ study+=drawer(b,'Compare two departments fairly','Ask for evidence behind each promise.',paras([
+ ('Supervision & access','Ask who will teach the methods you want to learn, how often you meet and whether students can use the advertised facilities. Speak to current students in that discipline.'),
+ ('Project feasibility','Check whether the proposed work has the samples, approvals, equipment, data and funding it needs. Ask what happens when a key resource is unavailable.'),
+ ('Training you can demonstrate','List the procedures, analytical methods, writing or teaching experience you expect to leave with. Ask how feedback and assessment make those skills visible.'),
+ ('Total commitment','Compare tuition, living costs, confirmed funding, bond terms and realistic completion expectations. Record unknown costs instead of assuming a stipend will cover them.')]))
  out=panel(b,'pg-or-practice','Further study, with a purpose','Job, MVSc or another degree? Start with the work you want to learn.',study)
  countries=[
  ('United Kingdom','RCVS recognition → registration','uk',[
@@ -59,7 +66,19 @@ def panels(b):
  ('Plan for delays','Include living costs, limited earning opportunities while preparing and a retake contingency. A friend’s timeline or an agent’s promise is not a regulator’s guarantee.'),
  ('Keep a second option','Decide what you will do while waiting: supervised work, relevant research or another realistic local role. Set a spending limit and a date to review progress.'),
  ('Verify before paying','Use the regulator’s current handbook and fee schedule. Check any course or agent’s claims directly; no preparation provider can guarantee a licence or job.')]))
+ abroad+=drawer(b,'Build your document & cost tracker','One checklist for the country you choose.',paras([
+ ('Documents','Check the regulator’s current list for degree and transcripts, registration or good-standing evidence, identity documents, English evidence and any certified translations. Note who must send each document and its validity period.'),
+ ('Cost ledger','Create a row for every required stage: official fee, currency, payment deadline, travel, living costs and retake contingency. Mark estimates separately from confirmed quotations.'),
+ ('Eligibility before bookings','Confirm that you qualify for the next assessment before paying for preparation or travel. Exam eligibility, a job offer and permission to work are separate checks.'),
+ ('Employer questions','Ask which duties you can legally perform before registration, who provides supervision, and whether any promised sponsorship or reimbursement is in writing. Verify the answer with the regulator or immigration authority.')]))
  out+=panel(b,'overseas','Work abroad: know the route','Choose a destination to see the steps and what needs checking.',abroad)
+ toolkit=drawer(b,'Make an application that shows your strengths','A concise CV, a work sample and a vacancy tracker.',paras([
+ ('Tailor the first page','Match your qualifications and actual experience to the essential criteria. Describe your contribution honestly: observed, assisted and independently performed are different levels of responsibility.'),
+ ('Show one relevant example','Use an anonymised, authorised case discussion, evidence brief, research summary or technical explainer. Explain what you did, what you learned and who supervised it.'),
+ ('Track the process','Record the official vacancy URL, deadline, required documents, contact, application date and follow-up. Keep a copy of the advertisement and your submitted application.'),
+ ('Check the offer','Confirm the employer, duties, pay, supervision, contract and location through reliable contact channels. Compare the actual opportunity with your priorities before accepting.')]))
+ toolkit+=drawer(b,'Your decision worksheet','Fill it in, then copy it for your own notes.',
+ '<p>Use two real opportunities. Your answers stay in this page; they are not submitted or saved.</p><div class="career-worksheet"><label for="career-priorities">My three priorities<textarea id="career-priorities" rows="2" placeholder="For example: near home, named mentor, sustainable hours"></textarea></label><label for="career-options">The two options and what I still need to check<textarea id="career-options" rows="3" placeholder="Option A… Option B… Unknowns…"></textarea></label><label for="career-next-step">My next action and review date<textarea id="career-next-step" rows="2" placeholder="Who will I speak to, what will I try, and when will I review it?"></textarea></label><button type="button" class="js-only" data-copy-career-plan>Copy my worksheet</button><p role="status" data-plan-status></p></div>')
  decide='<span id="next-30-days" class="anchor-alias"></span><p class="career-key-note"><strong>Choose the next useful step, not your whole life.</strong> Compare two realistic opportunities and find out what is still unknown.</p>'
  decide+=drawer(b,'1. Set your non-negotiables','Location, finances, hours and support.',paras([
  ('What must be true?','Write down your minimum income needs, acceptable locations, family responsibilities and how long you can fund study or exam preparation. Separate a requirement from a preference.'),
@@ -74,11 +93,11 @@ def panels(b):
  ('Arrange a safe trial','Through your college, request an approved observation visit, supervised placement or small project. Do not independently perform clinical work beyond your training or registration.'),
  ('Notice what energises you','After the experience, record what you enjoyed, what drained you, what you could improve with practice and which conditions would need to change.'),
  ('Make one reversible commitment','Apply for a suitable role, visit a department, learn one relevant method or start a defined exam-preparation block. Set a review date and decide what evidence would make you change direction.')]))
- decide+=drawer(b,'4. Interview the employer or supervisor','Five answers worth getting before you say yes.',
- '<ul><li><strong>Mentorship:</strong> Who is the named supervisor, when do we work together and who covers their absence?</li><li><strong>Workload:</strong> What are the actual rota, emergency duties, travel and time-off arrangements?</li><li><strong>Responsibility:</strong> Which decisions can I make, which need review, and how do referrals or escalation work?</li><li><strong>Learning:</strong> Is there protected feedback time, training, equipment and access to the cases or methods promised?</li><li><strong>Terms:</strong> Can I see pay, deductions, contract length, notice and any bond in writing?</li></ul>')
+ decide+=drawer(b,'4. Prepare to apply & decide','Questions, work samples and your decision worksheet.',
+ '<ul><li><strong>Mentorship:</strong> Who is the named supervisor, when do we work together and who covers their absence?</li><li><strong>Workload:</strong> What are the actual rota, emergency duties, travel and time-off arrangements?</li><li><strong>Responsibility:</strong> Which decisions can I make, which need review, and how do referrals or escalation work?</li><li><strong>Learning:</strong> Is there protected feedback time, training, equipment and access to the cases or methods promised?</li><li><strong>Terms:</strong> Can I see pay, deductions, contract length, notice and any bond in writing?</li></ul>'+toolkit)
  community='<p class="community-context">These are individual Reddit experiences, not verified employment statistics or eligibility guidance. We use them to identify questions worth asking; salary claims are not treated as evidence.</p>'
  for c in DATA['community']:
   community+=drawer(b,e(c['title']),e(c['context']),paras([('What the discussion raised.',e(c['observation'])),('Our practical takeaway.',e(c['action']))])+b.link(c['url'],'Read the original discussion','community-source'))
- decide+=drawer(b,'What real-world discussions can teach us','Three experiences, translated into better questions.',community)
+ decide+=drawer(b,'Lessons from working vets on Reddit','Three experiences, translated into better questions.',community)
  out+=panel(b,'how-to-decide','How to decide','Find a direction that fits your life—and test it before committing.',decide)
  return out
