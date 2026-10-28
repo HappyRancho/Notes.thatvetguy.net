@@ -25,6 +25,7 @@ BASE='https://notes.thatvetguy.net'
 ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/vet-apps/','useful-tools':'/study-tools/online-resources/','icar-pyq':'/objective/#icar-pyq','objective-questions':'/objective/#subject-wise','objective-books':'/objective/#books','handbooks':'/clinical/handbooks/','drug-index':'/clinical/drug-index/','clinical-other':'/#clinical'}
 # One cacheable request for the shared Rx styles, in their original cascade order.
 (ROOT/'assets/rx-core.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['site.css','rx-pages.css','homepage.css']))
+(ROOT/'assets/rx-tools.css').write_text((ROOT/'assets/rx-core.css').read_text()+'\n'+(ROOT/'assets/study-tools.css').read_text())
 VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
@@ -50,7 +51,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433')
     fast_shell=home or path=='/search/' or path.startswith('/study-tools/')
-    core_style='rx-core.css' if fast_shell else 'site.css'
+    core_style='rx-tools.css' if path.startswith('/study-tools/') else ('rx-core.css' if fast_shell else 'site.css')
     theme_boot='<script>'+ (ROOT/'assets/theme.js').read_text().strip()+'</script>' if fast_shell else f'<script src="/assets/theme.js?v={VERSION}"></script>'
     extra_assets='' if fast_shell else f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
     if path in ['/objective/','/clinical/drug-index/','/clinical/handbooks/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
@@ -58,7 +59,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
     if path.startswith('/study-tools/'):
-        extra_assets+=f'<link rel="stylesheet" href="/assets/study-tools.css?v={VERSION}"><script src="/assets/study-tools.js?v={VERSION}" defer></script>'
+        extra_assets+=f'<script src="/assets/study-tools.js?v={VERSION}" defer></script>'
     if path=='/search/':extra_assets+=f'<link rel="stylesheet" href="/assets/search-page.css?v={VERSION}">'
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
     if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'

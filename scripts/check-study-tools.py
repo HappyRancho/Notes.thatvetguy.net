@@ -13,7 +13,7 @@ class Page(HTMLParser):
   if t=='img' and '/tools/apps/' in a.get('src',''):self.apps.append(a)
 for g in GUIDES:
  p=ROOT/route(g).strip('/')/'index.html';raw=p.read_text();page=Page();page.feed(raw)
- assert page.h1==1 and 'study-tools.css?' in raw and 'study-tools.js?' in raw
+ assert page.h1==1 and 'rx-tools.css?' in raw and 'study-tools.js?' in raw
  assert (p.with_suffix('.md')).exists() and 'LearningResource' in raw
  assert 'MSD Manual Professional' not in raw and 'com.msd.professional' not in raw
  assert route(g) in (ROOT/'llms.txt').read_text()
