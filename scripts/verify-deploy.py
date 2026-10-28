@@ -14,7 +14,7 @@ if token and zone:
   with urlopen(req,timeout=30) as response:result=json.load(response)
   report['purge']='success' if result.get('success') else 'failed'
  except Exception as e:report['purge']='failed: '+type(e).__name__
-for path in ['/books/','/books/animal-nutrition/','/books/dhruv-desai/','/books/plumbs-handbook/','/books/primary-veterinary-anatomy/','/','/bvsc/','/objective/','/study-tools/','/clinical/handbooks/','/clinical/drug-index/','/search/','/about/','/request-resource/','/bvsc/year-1/','/bvsc/year-2/','/bvsc/year-3/','/bvsc/year-4/','/bvsc/year-1/veterinary-anatomy/','/bvsc/year-3/veterinary-pharmacology-and-toxicology/']:
+for path in ['/bvsc/year-1/veterinary-anatomy/syllabus/','/bvsc/year-1/veterinary-anatomy/practicals/','/bvsc/year-4/veterinary-medicine/practicals/','/books/','/books/animal-nutrition/','/books/dhruv-desai/','/books/plumbs-handbook/','/books/primary-veterinary-anatomy/','/','/bvsc/','/objective/','/study-tools/','/clinical/handbooks/','/clinical/drug-index/','/search/','/about/','/request-resource/','/bvsc/year-1/','/bvsc/year-2/','/bvsc/year-3/','/bvsc/year-4/','/bvsc/year-1/veterinary-anatomy/','/bvsc/year-3/veterinary-pharmacology-and-toxicology/']:
  record={'path':path}
  try:
   req=Request('https://notes.thatvetguy.net'+path,headers={'User-Agent':'NotesThatVetGuy-DeployAudit/2','Cache-Control':'no-cache'})

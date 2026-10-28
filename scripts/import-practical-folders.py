@@ -9,7 +9,7 @@ from public_drive import fetch,FOLDER_MIME
 ROOT=Path(__file__).resolve().parent.parent
 spec=spec_from_file_location('book_source',ROOT/'scripts/import-book-folders.py');book_source=module_from_spec(spec);spec.loader.exec_module(book_source)
 MAPPING=json.loads((ROOT/'data/subject-map.json').read_text())
-def practical_folder(name):return bool(re.search(r'\b(practicals?|practical manuals?|practical records?|lab manuals?|laboratory manuals?|spotters?)\b',book_source.normal(name)))
+def practical_folder(name):return bool(re.search(r'\b(practicals?|practical manuals?|practical records?|lab manuals?|laboratory manuals?)\b',book_source.normal(name)))
 def subject_for(root_year,path):
     found=book_source.subject_for(root_year,path)
     if found:return root_year,found

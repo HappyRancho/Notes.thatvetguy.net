@@ -1,0 +1,9 @@
+/* Device-local topic completion; course text stays available without JavaScript. */
+(()=>{'use strict';const root=document.querySelector('[data-syllabus]');if(!root)return;
+const inputs=[...root.querySelectorAll('[data-topic]')],units=[...root.querySelectorAll('[data-syllabus-unit]')],key='tvg-syllabus-v1:'+root.dataset.syllabus;let saved={},canSave=true;
+try{const value=JSON.parse(localStorage.getItem(key)||'{}');if(value&&typeof value==='object'&&!Array.isArray(value))saved=value;}catch{canSave=false;}
+inputs.forEach(input=>input.checked=saved[input.dataset.topic]===true);
+function render(announce=false){const count=inputs.filter(i=>i.checked).length,total=inputs.length;root.querySelector('[data-syllabus-status]').textContent=count+' of '+total+' topics checked';root.querySelector('[data-syllabus-percent]').textContent=Math.round(count/total*100)+'%';root.querySelector('progress').value=count;units.forEach(unit=>{const rows=[...unit.querySelectorAll('[data-topic]')];unit.querySelector('[data-unit-count]').textContent=rows.filter(i=>i.checked).length+' / '+rows.length;});if(announce)root.querySelector('[data-syllabus-announcement]').textContent=count+' of '+total+' topics checked.';if(!canSave)root.querySelector('[data-syllabus-storage]').textContent='Progress cannot be saved in this browser. You can still use the checklist.';}
+root.addEventListener('change',event=>{if(!event.target.matches('[data-topic]'))return;const values=Object.fromEntries(inputs.filter(i=>i.checked).map(i=>[i.dataset.topic,true]));try{localStorage.setItem(key,JSON.stringify(values));canSave=true;}catch{canSave=false;}render(true);});
+addEventListener('storage',event=>{if(event.key!==key)return;try{const value=JSON.parse(event.newValue||'{}');inputs.forEach(i=>i.checked=value?.[i.dataset.topic]===true);render();}catch{}});render();
+})();
