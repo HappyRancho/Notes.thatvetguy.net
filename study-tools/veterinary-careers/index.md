@@ -4,15 +4,11 @@
 
 # Explore Career Options in Veterinary
 
-Explore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.
+Find a route after BVSc & AH. Compare the work, training and practical next steps.
 
-Your degree has more exits than “clinic or government job”.
+Your degree has options.
 
-12career routes
-India firstwith overseas pathways
-Your next stepnot a promised salary
-
-[Explore routes](#career-routes)[BVSc or MVSc?](#pg-or-practice)[Working abroad](#overseas)[Your next 30 days](#next-30-days)For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.
+[Explore routes](#career-routes)[BVSc or MVSc?](#pg-or-practice)[Working abroad](#overseas)[Your next 30 days](#next-30-days)
 
 ## Find work you would actually enjoy
 
@@ -357,6 +353,8 @@ Avoid unsupported health claims and invented citations. Develop a specific skill
 Read the source: [University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
 Choose another setting to explore more routes.
+
+For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.
 
 ## BVSc, a job or postgraduate study?
 

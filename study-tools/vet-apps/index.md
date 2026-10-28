@@ -4,11 +4,11 @@
 
 # Useful Vet Apps
 
-Free veterinary apps for revision and field learning, plus Biosphera species anatomy tools. Find what each app does and when to use it.
+Free apps for revision and field learning, plus species anatomy tools. Find the right app for the job.
 
-Your phone has storage for more than screenshots of the syllabus.
+More useful than another screenshot.
 
-[Free apps](#free-apps)[3D anatomy](#anatomy-apps)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
+[Free apps](#free-apps)[3D anatomy](#anatomy-apps)
 
 ## Free apps worth keeping
 
@@ -85,6 +85,8 @@ Before a supervised field visit, review one common presentation such as bloat or
 Free to install. Developed by ICAR-IVRI and IASRI; includes clinical explanations and educational procedure videos.
 
 [Get on Google Play ](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp)
+
+For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
 
 ## Biosphera 3D anatomy
 

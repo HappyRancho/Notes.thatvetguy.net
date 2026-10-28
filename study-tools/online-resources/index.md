@@ -4,9 +4,9 @@
 
 # Useful Online Veterinary Resources
 
-Find useful BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.
+A curated reading list for BVSc notes, clinical cases, research and official guidance.
 
-Twelve useful tabs. A little less “where was that PDF?”
+Less hunting. More learning.
 
 What are you looking for?
 

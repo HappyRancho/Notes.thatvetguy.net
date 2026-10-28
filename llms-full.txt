@@ -4603,11 +4603,11 @@ Canonical: https://notes.thatvetguy.net/study-tools/vet-apps/
 
 # Useful Vet Apps
 
-Free veterinary apps for revision and field learning, plus Biosphera species anatomy tools. Find what each app does and when to use it.
+Free apps for revision and field learning, plus species anatomy tools. Find the right app for the job.
 
-Your phone has storage for more than screenshots of the syllabus.
+More useful than another screenshot.
 
-[Free apps](#free-apps)[3D anatomy](#anatomy-apps)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
+[Free apps](#free-apps)[3D anatomy](#anatomy-apps)
 
 ## Free apps worth keeping
 
@@ -4684,6 +4684,8 @@ Before a supervised field visit, review one common presentation such as bloat or
 Free to install. Developed by ICAR-IVRI and IASRI; includes clinical explanations and educational procedure videos.
 
 [Get on Google Play ](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp)
+
+For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
 
 ## Biosphera 3D anatomy
 
@@ -4778,9 +4780,9 @@ Canonical: https://notes.thatvetguy.net/study-tools/online-resources/
 
 # Useful Online Veterinary Resources
 
-Find useful BVSc notes, clinical references, research tools and official veterinary sources, with clear advice on when each website helps.
+A curated reading list for BVSc notes, clinical cases, research and official guidance.
 
-Twelve useful tabs. A little less “where was that PDF?”
+Less hunting. More learning.
 
 What are you looking for?
 
@@ -4936,15 +4938,11 @@ Canonical: https://notes.thatvetguy.net/study-tools/veterinary-careers/
 
 # Explore Career Options in Veterinary
 
-Explore clinical, government, industry, research and public health careers after BVSc & AH in India, with practical next steps and official sources.
+Find a route after BVSc & AH. Compare the work, training and practical next steps.
 
-Your degree has more exits than “clinic or government job”.
+Your degree has options.
 
-12career routes
-India firstwith overseas pathways
-Your next stepnot a promised salary
-
-[Explore routes](#career-routes)[BVSc or MVSc?](#pg-or-practice)[Working abroad](#overseas)[Your next 30 days](#next-30-days)For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.
+[Explore routes](#career-routes)[BVSc or MVSc?](#pg-or-practice)[Working abroad](#overseas)[Your next 30 days](#next-30-days)
 
 ## Find work you would actually enjoy
 
@@ -5289,6 +5287,8 @@ Avoid unsupported health claims and invented citations. Develop a specific skill
 Read the source: [University of Arizona](#source-careers)[Virginia Tech](#source-corporate)
 
 Choose another setting to explore more routes.
+
+For clinical practice in India, complete the required training and applicable veterinary registration. Job eligibility comes from the current official advertisement; a guide or extra degree does not guarantee selection.
 
 ## BVSc, a job or postgraduate study?
 
