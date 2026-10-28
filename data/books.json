@@ -259,12 +259,13 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/animal-breeding.webp",
+      "path": "/assets/books/animal-breeding-upright.webp",
       "width": 520,
-      "height": 735,
+      "height": 368,
       "source": "https://drive.google.com/thumbnail?id=11ZOm73joJiohbgPyZ1HBj9jJK94BuJxF&sz=w700",
       "kind": "file-preview",
-      "oriented": true
+      "oriented": true,
+      "manualOrientation": 90
     },
     "page": "/books/animal-breeding/",
     "primaryUrl": "https://drive.google.com/file/d/11ZOm73joJiohbgPyZ1HBj9jJK94BuJxF/view",
@@ -1104,12 +1105,13 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/dukes-physiology-of-domestic-animals.webp",
+      "path": "/assets/books/dukes-physiology-of-domestic-animals-upright.webp",
       "width": 520,
       "height": 681,
       "source": "https://drive.google.com/thumbnail?id=1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF&sz=w700",
       "kind": "file-preview",
-      "oriented": true
+      "oriented": true,
+      "manualOrientation": 180
     },
     "page": "/books/dukes-physiology-of-domestic-animals/",
     "primaryUrl": "https://drive.google.com/file/d/1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF/view",
@@ -2898,12 +2900,13 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/principles-of-meat-science-forrest.webp",
+      "path": "/assets/books/principles-of-meat-science-forrest-upright.webp",
       "width": 520,
       "height": 735,
       "source": "https://drive.google.com/thumbnail?id=1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg&sz=w700",
       "kind": "file-preview",
-      "oriented": true
+      "oriented": true,
+      "manualOrientation": 180
     },
     "page": "/books/principles-of-meat-science-forrest/",
     "primaryUrl": "https://drive.google.com/file/d/1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg/view",
@@ -3020,12 +3023,13 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/restraint-and-handling-of-wild-and-domestic-animals.webp",
+      "path": "/assets/books/restraint-and-handling-of-wild-and-domestic-animals-upright.webp",
       "width": 520,
       "height": 673,
       "source": "https://drive.google.com/thumbnail?id=1keer053qB9ad7akDT8ewFnM1OuUJwjjg&sz=w700",
       "kind": "file-preview",
-      "oriented": true
+      "oriented": true,
+      "manualOrientation": 180
     },
     "page": "/books/restraint-and-handling-of-wild-and-domestic-animals/",
     "primaryUrl": "https://drive.google.com/file/d/1keer053qB9ad7akDT8ewFnM1OuUJwjjg/view",
@@ -3339,12 +3343,13 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/small-animal-ecgs-an-introductory-guide-3rd-edition.webp",
+      "path": "/assets/books/small-animal-ecgs-an-introductory-guide-3rd-edition-upright.webp",
       "width": 520,
       "height": 362,
       "source": "https://drive.google.com/thumbnail?id=10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i&sz=w700",
       "kind": "file-preview",
-      "oriented": true
+      "oriented": true,
+      "manualOrientation": 180
     },
     "page": "/books/small-animal-ecgs-an-introductory-guide-3rd-edition/",
     "primaryUrl": "https://drive.google.com/file/d/10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i/view",
