@@ -1,14 +1,14 @@
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/vet-apps/; updated: 2026-10-28 -->
 
-[Home](https://notes.thatvetguy.net/)/[Tools & Tips](https://notes.thatvetguy.net/study-tools/)/Vet App Shelf
+[Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
+
+YOUR POCKET TOOLKIT
 
 # Vet App Shelf
 
-Free apps for revision and field learning, plus species anatomy tools. Find the right app for the job.
+Four free apps. Less searching, more studying.
 
-[Free apps](#free-apps)[3D anatomy](#anatomy-apps)
-
-## Made for your vet-school day
+## Free veterinary apps
 
 Study
 
@@ -60,7 +60,7 @@ Livestock casesClinical preparation
 
 ## Anatomy in 3D
 
-A species for every study session.
+Explore one species at a time.
 
 ### 3D Dog Anatomy
 
