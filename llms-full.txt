@@ -4863,11 +4863,11 @@ Independent student resourcevetbvsc.inNotes
 
 BVSc subject and year collections, including links to TANUVAS material.
 
-Good for: Finding a second explanation or a subject collection. Check older course codes against your own outline.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public pages; linked files have their own access settings.
+- Good for: Finding a second explanation or a subject collection. Check older course codes against your own outline.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public pages; linked files have their own access settings.
 
 - Start here: Start from your year, then the subject. Match each unit heading to your current outline before collecting PDFs.
 
@@ -4879,11 +4879,11 @@ Independent education sitevetscraft.comNotes
 
 Readable veterinary topic explanations across basic, production and clinical subjects.
 
-Good for: Understanding a difficult concept before returning to your textbook.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public articles; individual courses may have different access terms.
+- Good for: Understanding a difficult concept before returning to your textbook.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public articles; individual courses may have different access terms.
 
 - Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
 
@@ -4895,11 +4895,11 @@ Independent student resourcevetsduo.comNotes
 
 Subject-based BVSc collections covering basic sciences, animal production and clinical study.
 
-Good for: Comparing lecture notes and locating TANUVAS-labelled collections.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public directory; availability depends on each linked collection.
+- Good for: Comparing lecture notes and locating TANUVAS-labelled collections.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public directory; availability depends on each linked collection.
 
 - Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
 
@@ -4911,11 +4911,11 @@ Independent study archivedrvet.inNotes
 
 An archive of subject notes, exam material and veterinary study posts.
 
-Good for: Looking for older revision posts or question-paper references. Verify the year and original source.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public posts; external files may require separate access.
+- Good for: Looking for older revision posts or question-paper references. Verify the year and original source.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public posts; external files may require separate access.
 
 - Start here: Start with the subject and unit you are studying. Compare the resource’s headings with your university outline.
 
@@ -4927,11 +4927,11 @@ Independent learning platformgreatvets.inNotes
 
 Veterinary notes organised for BVSc study and revision.
 
-Good for: Getting a concise topic overview. Check any generated explanation against a textbook.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public notes; other features may require an account.
+- Good for: Getting a concise topic overview. Check any generated explanation against a textbook.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public notes; other features may require an account.
 
 - Start here: Use a short explanation to identify what you do not understand, then read the matching textbook section.
 
@@ -4943,11 +4943,11 @@ Publisher referencemsdvetmanual.comClinical
 
 Veterinary disease overviews, diagnostic background, tables and clinical learning material.
 
-Good for: Reading around a case after rounds; start with the species and clinical problem.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free web reference. Educational use does not replace clinical supervision.
+- Good for: Reading around a case after rounds; start with the species and clinical problem.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Free web reference. Educational use does not replace clinical supervision.
 
 - Start here: Start with the species and presenting problem. Read the diagnostic approach before jumping to a treatment section.
 
@@ -4959,11 +4959,11 @@ Cornell Universityeclinpath.comClinical
 
 An online clinical pathology textbook covering interpretation of haematology, chemistry and other laboratory findings.
 
-Good for: Understanding why a result changes, rather than memorising a reference interval alone.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free educational text; interpret results with the reporting laboratory’s intervals.
+- Good for: Understanding why a result changes, rather than memorising a reference interval alone.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Free educational text; interpret results with the reporting laboratory’s intervals.
 
 - Start here: Choose the laboratory test or cell finding you need to understand. Read sample quality and interpretation alongside the result.
 
@@ -4975,11 +4975,11 @@ Non-profit education serviceivis.orgResearch
 
 Veterinary proceedings, publications and learning resources from an international education network.
 
-Good for: Reading more deeply about a clinical question or preparing a seminar.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free registration may be required; access varies by item.
+- Good for: Reading more deeply about a clinical question or preparing a seminar.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Free registration may be required; access varies by item.
 
 - Start here: Search a focused species-and-topic question. Check whether the item is a review, a conference proceeding or other learning material.
 
@@ -4991,11 +4991,11 @@ U.S. National Library of Medicinepubmed.ncbi.nlm.nih.govResearch
 
 A biomedical literature search service that includes veterinary and comparative research.
 
-Good for: Finding a primary study. Add species and study design to your search; read methods before trusting a conclusion.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Free search and abstracts; full-text availability depends on the publisher.
+- Good for: Finding a primary study. Add species and study design to your search; read methods before trusting a conclusion.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Free search and abstracts; full-text availability depends on the publisher.
 
 - Start here: Build a question from species, problem, intervention or exposure, and outcome. Try synonyms if the first search is too narrow.
 
@@ -5007,11 +5007,11 @@ World Organisation for Animal Healthwoah.orgOfficial
 
 International standards and manuals for animal health, diagnostic testing, welfare and veterinary public health.
 
-Good for: Looking up the official context for disease control, surveillance or diagnostic standards.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public standards; use the current edition and relevant chapter.
+- Good for: Looking up the official context for disease control, surveillance or diagnostic standards.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public standards; use the current edition and relevant chapter.
 
 - Start here: Choose the relevant code or manual and locate the disease or standard by name. Check the edition and chapter.
 
@@ -5023,11 +5023,11 @@ Veterinary Council of Indiavci.dahd.gov.inOfficial
 
 The official collection of veterinary legislation, registration regulations and education standards.
 
-Good for: Checking the source behind a curriculum or registration claim.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public regulations; use your university’s current implementation as well.
+- Good for: Checking the source behind a curriculum or registration claim.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public regulations; use your university’s current implementation as well.
 
 - Start here: Find the regulation or educational standard behind the question, then read the relevant clause and amendments.
 
@@ -5039,11 +5039,11 @@ ICAR–Indian Veterinary Research Instituteivri.nic.inOfficial
 
 Official information about master’s study and veterinary disciplines at IVRI.
 
-Good for: Shortlisting postgraduate subjects and checking the institution’s current admission route.
+Best use & reading guideAccess, a starting point and what to check.Read answerClose answer+−
 
-Public information; the current admission notice determines eligibility and dates.
+- Good for: Shortlisting postgraduate subjects and checking the institution’s current admission route.
 
-Get more from this sourceA starting point and what to check.Read answerClose answer+−
+- Access: Public information; the current admission notice determines eligibility and dates.
 
 - Start here: Choose the programme and discipline, then locate the current admission notice and its selection process.
 
