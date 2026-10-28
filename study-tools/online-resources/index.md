@@ -1,15 +1,10 @@
 <!-- Canonical: https://notes.thatvetguy.net/study-tools/online-resources/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/) / [Tools & Tips](https://notes.thatvetguy.net/study-tools/)
-Rx Web Finder
+
+Rx Web Finder12 sites
 
 # Veterinary resources online
-
-Notes, clinical references & original sources. All in one place.
-
-Search within these websites
-
-12 curated resources
 
 Independent student resourcevetbvsc.inNotes
 
