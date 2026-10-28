@@ -1,0 +1,32 @@
+name: Chrome domain warning diagnosis
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  diagnose:
+    if: contains(github.event.head_commit.message, '[domain-warning-audit]') || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Inspect live redirects and certificates
+        run: python3 scripts/ci/domain-warning-check.py
+      - name: Install browser tooling
+        run: |
+          npm install
+          if ! command -v google-chrome && ! command -v google-chrome-stable; then
+            npx playwright install --with-deps chromium
+          fi
+      - name: Check temporary normal Chrome profiles
+        run: node scripts/ci/chrome-domain-check.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: chrome-domain-warning-evidence
+          path: docs/qa/domain-warning/
