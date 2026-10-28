@@ -3,7 +3,32 @@
   "duplicateLinksMerged": 7,
   "duplicates": [],
   "formatMerges": [],
-  "photoSets": [],
+  "photoSets": [
+    {
+      "id": "practical-photos-1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+      "subject": "Livestock Production Management",
+      "knownImages": 27,
+      "url": "https://drive.google.com/drive/folders/1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT"
+    },
+    {
+      "id": "practical-photos-1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+      "subject": "Livestock Production Management",
+      "knownImages": 50,
+      "url": "https://drive.google.com/drive/folders/1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3"
+    },
+    {
+      "id": "practical-photos-1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+      "subject": "Veterinary Anatomy",
+      "knownImages": 50,
+      "url": "https://drive.google.com/drive/folders/1XdlktLbLh3awA46eFrYfvKwgWRl-OVED"
+    },
+    {
+      "id": "practical-photos-16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+      "subject": "Veterinary Parasitology",
+      "knownImages": 50,
+      "url": "https://drive.google.com/drive/folders/16OdblGs76P4xNsmbav2-VJ9FHdOscVCi"
+    }
+  ],
   "reclassified": [],
   "extras": []
 }

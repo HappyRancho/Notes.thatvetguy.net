@@ -4,19 +4,23 @@
 
 # Livestock Products Technology
 
-Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
+Livestock Products Technology focuses on following animal products from production through processing and safety.
 
-3rd Year · 49 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=7)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-4 units · 46 notes
+49 notes
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Milk and Milk Products Technology
+### Topic-wise Notes
+
+46 notes
+
+#### Unit 1 Milk and Milk Products Technology
 
 14 notes
 
@@ -62,7 +66,7 @@ Preparation of Milk By-Products specially Skim Milk Powder and Whey[Open Prepara
 PDF
 Sanitation, GMP and HACCP in Milk Plant[Open Sanitation, GMP and HACCP in Milk Plant](https://drive.google.com/file/d/1ARqbvdR3z9_6a2N3VAAjnUrSkzc0mxzs/view)
 
-### Unit 2 Wool Science
+#### Unit 2 Wool Science
 
 3 notes
 
@@ -75,7 +79,7 @@ Post shearing operations, classification and grading of wool[Open Post shearing 
 PDF
 Properties and Impurities of wool and factors influencing the quality of wool[Open Properties and Impurities of wool and factors influencing the quality of wool](https://drive.google.com/file/d/15nBkPdWnJ_YxTF2Re14VIsscCV0bQerm/view)
 
-### Unit 3 Abattoir Practices and Animal Byproducts Technology
+#### Unit 3 Abattoir Practices and Animal Byproducts Technology
 
 13 notes
 
@@ -118,7 +122,7 @@ Slaughtering Methods[Open Slaughtering Methods](https://drive.google.com/file/d/
 PDF
 Treatment of Condemned Meat and Carcasses[Open Treatment of Condemned Meat and Carcasses](https://drive.google.com/file/d/1Ierj_srqEqeGQSxv9Zp6Md5jlUR_WuyZ/view)
 
-### Unit 4 Meat Science
+#### Unit 4 Meat Science
 
 16 notes
 
@@ -170,7 +174,7 @@ Properties of Fresh Meat[Open Properties of Fresh Meat](https://drive.google.com
 PDF
 Structure and Composition of Muscle[Open Structure and Composition of Muscle](https://drive.google.com/file/d/1qM7bNsBNlti0hhO11WHYXG3PvDyXljVJ/view)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 3 notes
 
@@ -183,29 +187,37 @@ LPT -321 Meat ScienceTANUVAS · listed by VetBVSc[Open LPT -321 Meat Science](ht
 PDF
 LPT-312 Abattoir Practices And Animal Products TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-7 books
-
-Open a book for its details, cover and available download.
-
-- [Gracey's Meat Hygiene 11EditionGoogle Drive](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
-- [Lawrie's Meat ScienceR. A. Lawrie · Google Drive](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
-- [Meat and Meat Products TechnologyB. D. Sharma · Reading guide](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
-- [Meat Processing TechnologyGoogle Drive](https://notes.thatvetguy.net/books/meat-processing-technology/)
-- [Ockerman Animal Byproduct ProcessingGoogle Drive](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
-- [Outlines of Dairy TechnologySukumar De · Reading guide](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
-- [Principles of Meat Science — ForrestGoogle Drive](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+7 books
+
+[Source previewGracey's Meat Hygiene 11EditionView book](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
+
+[Reference coverLawrie's Meat ScienceR. A. LawrieView book](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
+
+[Cover unavailableMeat and Meat Products TechnologyB. D. SharmaReading guide](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
+
+[Source previewMeat Processing TechnologyView book](https://notes.thatvetguy.net/books/meat-processing-technology/)
+
+[Cover unavailableOckerman Animal Byproduct ProcessingView book](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
+
+[Reference coverOutlines of Dairy TechnologySukumar DeReading guide](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
+
+Show 1 more book
+
+[Source previewPrinciples of Meat Science — ForrestView book](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -218,6 +230,6 @@ Livestock Products Technology focuses on following animal products from producti
 
 Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
-[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
+[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

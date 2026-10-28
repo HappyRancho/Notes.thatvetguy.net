@@ -4,48 +4,54 @@
 
 # Veterinary Clinical Practices I
 
-Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation.
 
-3rd Year · 1 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=11)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-1 unit · 1 note
+1 note
+[Topic-wise Notes1 note](#notes)
+Unit-wise NotesTANUVAS · 0 collectionsComing soon[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/)
+Find a note in the selected collection
 
-### Subject notes
+### Topic-wise Notes
+
+1 note
+
+#### Subject notes
 
 1 notes
 
 PDF
 Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 0 notes
-
 Notes coming soon
 
 Nothing here yet. Even a calf needs a minute to stand.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-## Books & Recommended Reading
-
-0 books
-
-No book listed for this subject yet. Check your department’s prescribed reading.
-
-[Browse all books ](https://notes.thatvetguy.net/books/)
-
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+0 books
+
+No book listed for this subject yet.
+
+[Request a book ](https://notes.thatvetguy.net/request-resource/)
 
 Course focus & study tips 
 
@@ -58,6 +64,6 @@ Veterinary Clinical Practices I focuses on bringing foundational subjects into s
 
 Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
 
-[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
+[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

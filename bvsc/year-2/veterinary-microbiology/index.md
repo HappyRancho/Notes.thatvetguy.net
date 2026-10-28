@@ -4,19 +4,23 @@
 
 # Veterinary Microbiology
 
-Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & AH. Choose a collection below.
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke.
 
-2nd Year · 67 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-5 units · 63 notes
+67 notes
+[Topic-wise Notes63 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/)
+Find a note in the selected collection
 
-### Unit 1 General and Systematic Veterinary Bacteriology
+### Topic-wise Notes
+
+63 notes
+
+#### Unit 1 General and Systematic Veterinary Bacteriology
 
 23 notes
 
@@ -89,7 +93,7 @@ Streptomyces and Dermatophillus[Open Streptomyces and Dermatophillus](https://dr
 PDF
 Vibrio[Open Vibrio](https://drive.google.com/file/d/1h2sn9SNb9aZc5ILvhKjV9RTiCDeciVQ4/view?usp=sharing)
 
-### Unit 2 Veterinary Mycology
+#### Unit 2 Veterinary Mycology
 
 9 notes
 
@@ -120,7 +124,7 @@ Mycotoxicosis[Open Mycotoxicosis](https://drive.google.com/file/d/1eocHc_9twWkGX
 PDF
 Penicillium[Open Penicillium](https://drive.google.com/file/d/1TgkG3CSTkz-WtBJZ9WokrPpUseHa9oZc/view?usp=sharing)
 
-### Unit 3 Microbial Biotechnology
+#### Unit 3 Microbial Biotechnology
 
 10 notes
 
@@ -154,7 +158,7 @@ Transformation and Transfection[Open Transformation and Transfection](https://dr
 PDF
 Veterinary Biotechnology Note[Open Veterinary Biotechnology Note](https://drive.google.com/file/d/1V8DahEJM9H3wLA5kxSy9qcDmBSHibbZy/view?usp=sharing)
 
-### Unit 4 Veterinary Immunology and Serology
+#### Unit 4 Veterinary Immunology and Serology
 
 2 notes
 
@@ -164,7 +168,7 @@ Veterinary Immunology and Serology[Open Veterinary Immunology and Serology](http
 PDF
 Veterinary Immunology and Serology Note[Open Veterinary Immunology and Serology Note](https://drive.google.com/file/d/1r_u6iP9XfpAxx5UDBvYsiiAvMUadXL7N/view?usp=sharing)
 
-### Unit 5 General and Systematic Veterinary Virology
+#### Unit 5 General and Systematic Veterinary Virology
 
 19 notes
 
@@ -225,7 +229,7 @@ Togaviridae – Equine Encephalomyelitis[Open Togaviridae – Equine Encephalomy
 PDF
 Veterinary Virology Overall Note[Open Veterinary Virology Overall Note](https://drive.google.com/file/d/1BrDcnVBIbSX4GhaMWkARDvm-YGQnMLiO/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 4 notes
 
@@ -241,27 +245,31 @@ VMC 311 Systematic Veterinary Bacteriology And MycologyTANUVAS · listed by VetB
 PDF
 VMC 321 Systematic Veterinary VirologyTANUVAS · listed by VetBVSc[Open VMC 321 Systematic Veterinary Virology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-5 books
-
-Open a book for its details, cover and available download.
-
-- [Ananthanarayan and Paniker’s Textbook of MicrobiologyC. K. J. Paniker (editor) · Google Drive](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
-- [Fenner’s Veterinary Virology 5th editionGoogle Drive](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
-- [Prescott’s MicrobiologyGoogle Drive](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
-- [Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al. · Reading guide](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/)
-- [Veterinary MycologyIndranil Samanta · Google Drive](https://notes.thatvetguy.net/books/veterinary-mycology/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+5 books
+
+[Source previewAnanthanarayan and Paniker’s Textbook of MicrobiologyC. K. J. Paniker (editor)View book](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
+
+[Cover unavailableFenner’s Veterinary Virology 5th editionView book](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
+
+[Cover unavailablePrescott’s MicrobiologyView book](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
+
+[Reference coverVeterinary Microbiology and Microbial DiseaseP. J. Quinn et al.Reading guide](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/)
+
+[Source previewVeterinary MycologyIndranil SamantaView book](https://notes.thatvetguy.net/books/veterinary-mycology/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -274,6 +282,6 @@ Veterinary Microbiology focuses on distinguishing infectious agents and the host
 
 Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 
-[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
+[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

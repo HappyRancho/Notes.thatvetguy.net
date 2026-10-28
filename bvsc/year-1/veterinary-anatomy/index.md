@@ -4,19 +4,23 @@
 
 # Veterinary Anatomy
 
-Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & AH. Choose a collection below.
+Veterinary Anatomy focuses on relating structure to function across domestic animal species.
 
-1st Year · 19 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=1)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-3 units · 15 notes
+19 notes
+[Topic-wise Notes15 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practicals/)
+Find a note in the selected collection
 
-### Units 1–6 Gross and Applied Anatomy
+### Topic-wise Notes
+
+15 notes
+
+#### Units 1–6 Gross and Applied Anatomy
 
 9 notes
 
@@ -47,7 +51,7 @@ Splanchnology[Open Splanchnology](https://drive.google.com/file/d/1ofrM8JPNnH4tZ
 PDF
 Veterinary Anatomy Overall[Open Veterinary Anatomy Overall](https://drive.google.com/file/d/17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise/view?usp=sharing)
 
-### Unit 7 Veterinary Histology
+#### Unit 7 Veterinary Histology
 
 3 notes
 
@@ -60,7 +64,7 @@ Lecture Notes on Histology[Open Lecture Notes on Histology](https://drive.google
 PDF
 Veterinary Histology Notes[Open Veterinary Histology Notes](https://drive.google.com/file/d/1S1DxwwX7FlDGyiKQ24LvKtwyS4GETLh3/view?usp=sharing)
 
-### Unit 8 Veterinary Embryology
+#### Unit 8 Veterinary Embryology
 
 3 notes
 
@@ -73,7 +77,7 @@ Lecture Notes on Embryology[Open Lecture Notes on Embryology](https://drive.goog
 PDF
 Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.google.com/file/d/1dG_-yvuPD9otvpr8NspS6fA-7vmK_ZNk/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 4 notes
 
@@ -89,27 +93,31 @@ VAN-211 Veterinary Histology and EmbryologyTANUVAS · listed by VetBVSc[Open VAN
 PDF
 VAN-221 Veterinary Splanchnology And Applied AnatomyTANUVAS · listed by VetBVSc[Open VAN-221 Veterinary Splanchnology And Applied Anatomy](https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-5 books
-
-Open a book for its details, cover and available download.
-
-- [Color Atlas of Veterinary HistologyLinda M. Bacha · Google Drive](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/)
-- [Colour Atlas of Veterinary Anatomy - The RuminantsGoogle Drive](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
-- [Primary Veterinary AnatomyR. K. Ghosh · Reading guide](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
-- [Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing · Reading guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
-- [Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+5 books
+
+[Reference coverColor Atlas of Veterinary HistologyLinda M. BachaView book](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/)
+
+[Cover unavailableColour Atlas of Veterinary Anatomy - The RuminantsView book](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
+
+[Cover unavailablePrimary Veterinary AnatomyR. K. GhoshReading guide](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
+
+[Reference coverTextbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. WensingReading guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
+
+[Cover unavailableVeterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th EditionView book](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -122,6 +130,6 @@ Veterinary Anatomy focuses on relating structure to function across domestic ani
 
 Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
-[All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
+[All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

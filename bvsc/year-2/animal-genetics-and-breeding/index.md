@@ -4,19 +4,23 @@
 
 # Animal Genetics and Breeding
 
-Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & AH. Choose a collection below.
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement.
 
-2nd Year · 48 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=6)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-3 units · 45 notes
+48 notes
+[Topic-wise Notes45 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Biostatistics and Computer Application
+### Topic-wise Notes
+
+45 notes
+
+#### Unit 1 Biostatistics and Computer Application
 
 20 notes
 
@@ -80,7 +84,7 @@ Tests of Significance – t-test, Z-test, Chi-square test and F-test[Open Tests 
 PDF
 Types and Conversions of Number System[Open Types and Conversions of Number System](https://drive.google.com/file/d/1ggitlMRXACXkDkTHaRFk3aNRmh9oQyUs/view)
 
-### Unit 2 Principles of Animal and Population Genetics
+#### Unit 2 Principles of Animal and Population Genetics
 
 12 notes
 
@@ -120,7 +124,7 @@ Overview of Mendelian Genetics[Open Overview of Mendelian Genetics](https://driv
 PDF
 Population Genetics – Hardy Weinberg Law[Open Population Genetics – Hardy Weinberg Law](https://drive.google.com/file/d/1bNO7SBq4tiS0ih60UjKWGlCSOfmrO4bS/view)
 
-### Unit 3 Principles of Animal Breeding
+#### Unit 3 Principles of Animal Breeding
 
 13 notes
 
@@ -163,7 +167,7 @@ Selection Techniques for Animal Breeding[Open Selection Techniques for Animal Br
 PDF
 West Bengal Goat Breeding Policy[Open West Bengal Goat Breeding Policy](https://drive.google.com/file/d/1EvRfo7y-3bxmS0FVR84DTC73kwF7smVe/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 3 notes
 
@@ -176,24 +180,25 @@ AGB 121 Principles Of Animal Genetics And Population GeneticsTANUVAS · listed b
 PDF
 AGB 211 Livestock and Poultry BreedingTANUVAS · listed by VetBVSc[Open AGB 211 Livestock and Poultry Breeding](https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-2 books
-
-Open a book for its details, cover and available download.
-
-- [Animal breedingGoogle Drive](https://notes.thatvetguy.net/books/animal-breeding/)
-- [Text Book on Animal Genetics and BreedingP. Kanakaraj · Reading guide](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+2 books
+
+[Source previewAnimal breedingView book](https://notes.thatvetguy.net/books/animal-breeding/)
+
+[Cover unavailableText Book on Animal Genetics and BreedingP. KanakarajReading guide](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -206,6 +211,6 @@ Animal Genetics and Breeding focuses on applying inheritance and population prin
 
 Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 
-[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
+[All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

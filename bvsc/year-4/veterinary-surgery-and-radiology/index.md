@@ -4,26 +4,30 @@
 
 # Veterinary Surgery and Radiology
 
-Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging.
 
-4th Year · 23 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=1)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-7 units · 22 notes
+23 notes
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Veterinary General Surgery
+### Topic-wise Notes
+
+22 notes
+
+#### Unit 1 Veterinary General Surgery
 
 1 notes
 
 PDF
 Veterinary General Surgery[Open Veterinary General Surgery](https://drive.google.com/file/d/1O_mEAfwD8Xl3ZKxY84amGfHRg3GD9Yuk/view?usp=sharing)
 
-### Unit 2 Veterinary Anaesthesiology
+#### Unit 2 Veterinary Anaesthesiology
 
 2 notes
 
@@ -33,7 +37,7 @@ Veterinary Anaesthesiology[Open Veterinary Anaesthesiology](https://drive.google
 PDF
 Veterinary Anaesthesiology Note[Open Veterinary Anaesthesiology Note](https://drive.google.com/file/d/1GYTCj_tUTjoowBtjKxO9O2NOTa8QurbI/view?usp=sharing)
 
-### Unit 3 Veterinary Diagnostic Imaging Techniques
+#### Unit 3 Veterinary Diagnostic Imaging Techniques
 
 2 notes
 
@@ -43,7 +47,7 @@ Veterinary Diagnostic Imaging Techniques[Open Veterinary Diagnostic Imaging Tech
 PDF
 Veterinary Diagnostic Imaging Techniques Note[Open Veterinary Diagnostic Imaging Techniques Note](https://drive.google.com/file/d/196AtHV_G_jWKEcHJ_UUOkeCWvvCUEhX0/view?usp=sharing)
 
-### Unit 4 Regional Surgery – I
+#### Unit 4 Regional Surgery – I
 
 4 notes
 
@@ -59,7 +63,7 @@ Regional Surgery of Head and Neck region[Open Regional Surgery of Head and Neck 
 PDF
 Regional Surgery – Head and Neck Note[Open Regional Surgery – Head and Neck Note](https://drive.google.com/file/d/1n3PryDPFwf-ItY4gyI49REjumLtPOOH5/view?usp=sharing)
 
-### Unit 5 Regional Surgery – II
+#### Unit 5 Regional Surgery – II
 
 2 notes
 
@@ -69,7 +73,7 @@ Regional Surgery of Thorax and Abdomen by KVASUKVASU[Open Regional Surgery of Th
 PDF
 Regional Surgery of Thorax and Abdomen region[Open Regional Surgery of Thorax and Abdomen region](https://drive.google.com/file/d/1lKrap5bzsNtcAm5pOg16DDb0_qZxnBjG/view?usp=sharing)
 
-### Unit 6 Orthopedics and Lameness
+#### Unit 6 Orthopedics and Lameness
 
 7 notes
 
@@ -94,7 +98,7 @@ Orthopedics and Lameness[Open Orthopedics and Lameness](https://drive.google.com
 PDF
 Orthopedics and Lameness Note by KVASUKVASU[Open Orthopedics and Lameness Note by KVASU](https://drive.google.com/file/d/1hFMUUYYkE4FCf_YSr-DoJgnk26O6ym2S/view?usp=sharing)
 
-### Additional subject notes
+#### Additional subject notes
 
 4 notes
 
@@ -110,38 +114,48 @@ Veterinary Ultrasonography (USG)[Open Veterinary Ultrasonography (USG)](https://
 PDF
 Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/file/d/1um601lvkyKJDKQqhoJ59aEyO1knB2iRX/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 1 note
 
 PDF
 Orthopedics and Lameness Note by TANUVASTANUVAS[Open Orthopedics and Lameness Note by TANUVAS](https://drive.google.com/file/d/1UCcfQK4ebhIQikk2exqcXxJCcCd1raO_/view?usp=sharing)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-9 books
-
-Open a book for its details, cover and available download.
-
-- [Adam's Lameness in Horses 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
-- [Brinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsGoogle Drive](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
-- [Essentials of Veterinary Surgery, 8th EditionGoogle Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
-- [Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors) · Reading guide](https://notes.thatvetguy.net/books/farm-animal-surgery/)
-- [Lumb & Jones Veterinary Anesthesia and AnalgesiaKurt Grimm, John Thurmon · Google Drive](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
-- [Ruminant SurgeryR. P. S. Tyagi and Jit Singh · Google Drive](https://notes.thatvetguy.net/books/ruminant-surgery/)
-- [Slatter's Fundamentals of Veterinary Ophthalmology, 6th EditionGoogle Drive](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
-- [Small Animal Surgery, 5th Edition - Theresa FossumGoogle Drive](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/)
-- [Veterinary surgery and radiology by s.k.nandiGoogle Drive](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+9 books
+
+[Cover unavailableAdam's Lameness in Horses 7th EditionView book](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
+
+[Source previewBrinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsView book](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
+
+[Source previewEssentials of Veterinary Surgery, 8th EditionView book](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
+
+[Reference coverFarm Animal SurgerySusan L. Fubini and Norm Ducharme (editors)Reading guide](https://notes.thatvetguy.net/books/farm-animal-surgery/)
+
+[Reference coverLumb & Jones Veterinary Anesthesia and AnalgesiaKurt Grimm, John ThurmonView book](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
+
+[Cover unavailableRuminant SurgeryR. P. S. Tyagi and Jit SinghView book](https://notes.thatvetguy.net/books/ruminant-surgery/)
+
+Show 3 more books
+
+[Cover unavailableSlatter's Fundamentals of Veterinary Ophthalmology, 6th EditionView book](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
+
+[Cover unavailableSmall Animal Surgery, 5th Edition - Theresa FossumView book](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/)
+
+[Cover unavailableVeterinary surgery and radiology by s.k.nandiView book](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -154,6 +168,6 @@ Veterinary Surgery and Radiology focuses on understanding surgical principles al
 
 Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
 
-[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
+[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

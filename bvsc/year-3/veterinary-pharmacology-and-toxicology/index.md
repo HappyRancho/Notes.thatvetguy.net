@@ -4,19 +4,23 @@
 
 # Veterinary Pharmacology and Toxicology
 
-Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & AH. Choose a collection below.
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context.
 
-3rd Year · 31 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=1)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-6 units · 27 notes
+31 notes
+[Topic-wise Notes27 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/)
+Find a note in the selected collection
 
-### Unit 1 General Pharmacology
+### Topic-wise Notes
+
+27 notes
+
+#### Unit 1 General Pharmacology
 
 5 notes
 
@@ -35,7 +39,7 @@ Pharmacodynamics[Open Pharmacodynamics](https://drive.google.com/file/d/1UXt4V4W
 PDF
 Pharmacokinetics[Open Pharmacokinetics](https://drive.google.com/file/d/19t5npwxtScJNrAZlK_ArYtIxtMTVssXN/view)
 
-### Unit 2 Drugs Acting on Autonomic Nervous System
+#### Unit 2 Drugs Acting on Autonomic Nervous System
 
 4 notes
 
@@ -51,7 +55,7 @@ Drugs acting on Autonomic Nervous System[Open Drugs acting on Autonomic Nervous 
 PDF
 Drugs Acting on Autonomic Nervous System Note[Open Drugs Acting on Autonomic Nervous System Note](https://drive.google.com/file/d/1WngNRKbPOJ6PoucchwftteGhfkCV7Orf/view?usp=sharing)
 
-### Unit 3 Drugs Acting on Central Nervous System
+#### Unit 3 Drugs Acting on Central Nervous System
 
 9 notes
 
@@ -82,7 +86,7 @@ Opioid Analgesics and Non-Steroidal Anti-Inflammatory Drugs[Open Opioid Analgesi
 PDF
 Psychotropic Drugs or Psycho Pharmacological Agents[Open Psychotropic Drugs or Psycho Pharmacological Agents](https://drive.google.com/file/d/1SM5CkIgPAKJ-uRHYYna7ZbkrDlEbEYEY/view)
 
-### Unit 4 Drugs Acting on Different Body Systems
+#### Unit 4 Drugs Acting on Different Body Systems
 
 5 notes
 
@@ -101,7 +105,7 @@ Drugs acting on Skin and Mucous Membranes[Open Drugs acting on Skin and Mucous M
 PDF
 Drugs acting on Urogenital System[Open Drugs acting on Urogenital System](https://drive.google.com/file/d/1TLP1Fb_y6JhHnSkh-E0uNL61c4lXyzrW/view?usp=sharing)
 
-### Unit 5 Veterinary Chemotherapy
+#### Unit 5 Veterinary Chemotherapy
 
 2 notes
 
@@ -111,7 +115,7 @@ Veterinary Chemotherapy[Open Veterinary Chemotherapy](https://drive.google.com/f
 PDF
 Veterinary Chemotherapy Note[Open Veterinary Chemotherapy Note](https://drive.google.com/file/d/1x0btw5V5JU18SfjQflWu0Z3_45nT4agC/view?usp=sharing)
 
-### Unit 6 Veterinary Toxicology
+#### Unit 6 Veterinary Toxicology
 
 2 notes
 
@@ -121,7 +125,7 @@ Veterinary Toxicology[Open Veterinary Toxicology](https://drive.google.com/file/
 PDF
 Veterinary Toxicology Note[Open Veterinary Toxicology Note](https://drive.google.com/file/d/1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 4 notes
 
@@ -137,26 +141,29 @@ VPT-411 Veterinary ChemotherapyTANUVAS · listed by VetBVSc[Open VPT-411 Veterin
 PDF
 VPT-421 Veterinary ToxicologyTANUVAS · listed by VetBVSc[Open VPT-421 Veterinary Toxicology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-4 books
-
-Open a book for its details, cover and available download.
-
-- [Essentials of Medical Pharmacology - K.D.TripathiGoogle Drive](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
-- [Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu · Google Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
-- [Goodman and Gilman’s The Pharmacological Basis of TherapeuticsGoogle Drive](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/)
-- [Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)Google Drive](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+4 books
+
+[Cover unavailableEssentials of Medical Pharmacology - K.D.TripathiView book](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
+
+[Cover unavailableEssentials of Veterinary Pharmacology and TherapeuticsH. S. SandhuView book](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
+
+[Cover unavailableGoodman and Gilman’s The Pharmacological Basis of TherapeuticsView book](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/)
+
+[Source previewHandbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)View book](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -169,6 +176,6 @@ Veterinary Pharmacology and Toxicology focuses on connecting drug action with sp
 
 Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 
-[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
+[All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

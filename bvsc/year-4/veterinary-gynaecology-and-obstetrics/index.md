@@ -4,26 +4,30 @@
 
 # Veterinary Gynaecology and Obstetrics
 
-Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & AH. Choose a collection below.
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species.
 
-4th Year · 13 resources
-[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=6)
+[Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/)
 
-[Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a resource in the selected collection
+℞
 
-## Topic-wise Notes
+## Notes
 
-4 units · 11 notes
+13 notes
+[Topic-wise Notes11 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/)
+Find a note in the selected collection
 
-### Unit 1 Veterinary Gynaecology
+### Topic-wise Notes
+
+11 notes
+
+#### Unit 1 Veterinary Gynaecology
 
 1 notes
 
 PDF
 Veterinary Gynaecology Note by KVASUKVASU[Open Veterinary Gynaecology Note by KVASU](https://drive.google.com/file/d/1mlDj00eiatKj0EXaz7RV-J4R70vaP4V1/view?usp=sharing)
 
-### Unit 2 Veterinary Obstetrics
+#### Unit 2 Veterinary Obstetrics
 
 2 notes
 
@@ -33,7 +37,7 @@ Veterinary Obstetrics[Open Veterinary Obstetrics](https://drive.google.com/file/
 PDF
 Veterinary Obstetrics Note by KVASUKVASU[Open Veterinary Obstetrics Note by KVASU](https://drive.google.com/file/d/1kxVOV0V-yP7jhgxAJUdhLmWOs4BaO3A1/view?usp=sharing)
 
-### Unit 3 Veterinary Andrology and AI
+#### Unit 3 Veterinary Andrology and AI
 
 2 notes
 
@@ -43,7 +47,7 @@ Veterinary Andrology and AI[Open Veterinary Andrology and AI](https://drive.goog
 PDF
 Veterinary Andrology and Artificial Insemination Note by KVASUKVASU[Open Veterinary Andrology and Artificial Insemination Note by KVASU](https://drive.google.com/file/d/1Ef69on82Q3UzeyQgpsEDsqRtcSsWy5lk/view?usp=sharing)
 
-### Additional subject notes
+#### Additional subject notes
 
 6 notes
 
@@ -65,7 +69,7 @@ Veterinary Gynaecology and Obstetrics Note by H.M. Barot[Open Veterinary Gynaeco
 PDF
 Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google.com/file/d/1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H/view?usp=sharing)
 
-## TANUVAS Notes
+### TANUVAS Notes
 
 2 notes
 
@@ -75,28 +79,33 @@ Veterinary Gynaecology Note by TANUVAS part 1TANUVAS[Open Veterinary Gynaecology
 PDF
 Veterinary Gynaecology Note by TANUVAS part 2TANUVAS[Open Veterinary Gynaecology Note by TANUVAS part 2](https://drive.google.com/file/d/10MYo0iILewFOJoY75HkdlLelJ50SlIRY/view?usp=sharing)
 
-About these notes 
-
-TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
-
-## Books & Recommended Reading
-
-6 books
-
-Open a book for its details, cover and available download.
-
-- [Applied Veterinary Gynaecology and Obstetrics Dr PradeepGoogle Drive](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
-- [Canine and Feline Endocrinology and ReproductionEdward C. Feldman, Richard W. Nelson · Google Drive](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
-- [Pathways to Pregnancy and ParturitionP. L. Senger · Google Drive](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
-- [Reproduction in Farm Animals,7th Edition by HafeezGoogle Drive](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
-- [Veterinary Obstetrics and Genital diseaseStephen J. Roberts · Google Drive](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/)
-- [Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England · Google Drive](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)[Browse all books ](https://notes.thatvetguy.net/books/)
+Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
 No notes found.
 
 Try a shorter title or another collection.
 
 [Request a resource ](https://notes.thatvetguy.net/request-resource/)
+
+℞
+
+## Books
+
+6 books
+
+[Source previewApplied Veterinary Gynaecology and Obstetrics Dr PradeepView book](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
+
+[Reference coverCanine and Feline Endocrinology and ReproductionEdward C. Feldman, Richard W. NelsonView book](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
+
+[Reference coverPathways to Pregnancy and ParturitionP. L. SengerView book](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
+
+[Cover unavailableReproduction in Farm Animals,7th Edition by HafeezView book](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
+
+[Reference coverVeterinary Obstetrics and Genital diseaseStephen J. RobertsView book](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/)
+
+[Source previewVeterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. EnglandView book](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)
+
+No books match that title or author.
 
 Course focus & study tips 
 
@@ -109,6 +118,6 @@ Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fer
 
 Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
 
-[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
+[All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
