@@ -90,6 +90,18 @@ def structured(path,title,description,items,home,body,records,date):
     site={'@type':'WebSite','@id':siteid,'name':'Notes.ThatVetGuy','alternateName':'Rx Notes by ThatVetGuy','url':BASE+'/','inLanguage':'en','publisher':{'@id':orgid},'potentialAction':{'@type':'SearchAction','target':{'@type':'EntryPoint','urlTemplate':BASE+'/search/?q={search_term_string}'},'query-input':'required name=search_term_string'}}
     page={'@type':'CollectionPage' if items is not None else 'WebPage','@id':BASE+path+'#webpage','name':title,'url':BASE+path,'description':description,'dateModified':date,'inLanguage':'en','isPartOf':{'@id':siteid},'author':{'@id':personid},'publisher':{'@id':orgid}}
     graph=[org,person,site,page]
+    if path.startswith('/study-tools/') and path!='/study-tools/':
+        from study_tools import DATA as TOOLS,GUIDES,route as tool_route
+        guide=next(g for g in GUIDES if tool_route(g)==path)
+        learning={'@type':'LearningResource','@id':BASE+path+'#guide','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH students and graduates','learningResourceType':'Career guide' if guide['id']=='veterinary-careers' else 'Study guide','inLanguage':'en','author':{'@id':personid},'dateModified':date}
+        if guide['id']=='veterinary-careers':learning['citation']=[s['url'] for s in TOOLS['careerSources']]
+        if guide['id']=='vet-apps':
+            learning['hasPart']=[]
+            for app in TOOLS['apps']:
+                entry={'@type':'SoftwareApplication','@id':BASE+path+'#'+app['id'],'name':app['title'],'description':app['description'],'operatingSystem':'Android','applicationCategory':'EducationalApplication','publisher':{'@type':'Organization','name':app['publisher']},'image':BASE+app['icon']}
+                if app['free']:entry['downloadUrl']=app['store']
+                graph.append(entry);learning['hasPart'].append({'@id':entry['@id']})
+        graph.append(learning);page['hasPart']={'@id':learning['@id']}
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):
         from roadmaps import DATA as ROADMAPS
         yr=path.split('/')[2][-1]
@@ -104,6 +116,7 @@ def structured(path,title,description,items,home,body,records,date):
         year=re.match(r'/bvsc/(year-([1-4]))/[^/]+/',path)
         if year:crumbs.append(('Year '+year[2],'/bvsc/'+year[1]+'/'))
         if path.startswith('/books/') and path!='/books/':crumbs.append(('Veterinary Books','/books/'))
+        if path.startswith('/study-tools/') and path!='/study-tools/':crumbs.append(('Tools & Tips','/study-tools/'))
         crumbs.append((title,path))
         graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]})
     if path.endswith('/syllabus/') and path.startswith('/bvsc/'):

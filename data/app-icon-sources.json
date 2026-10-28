@@ -1,0 +1,95 @@
+{
+  "checked": "2026-10-28",
+  "apps": [
+    {
+      "id": "vetconnect",
+      "package": "com.vetconnect.user.vetconnect",
+      "listing": "https://play.google.com/store/apps/details?id=com.vetconnect.user.vetconnect&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/qv9KBXzF1frAonmy79j9kjITLK9UbxnDHuQegFiYzNFZmGrZSe29XTQZWseUQpftoVr5WRutpp08_J8Z2TPd=s0-br30",
+      "icon": "/assets/tools/apps/vetconnect.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "vet-study",
+      "package": "com.asr.vetstudy2",
+      "listing": "https://play.google.com/store/apps/details?id=com.asr.vetstudy2&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/ciZd2MLHyuaE2Z815uMbZV0NcyT2FOMHqs-N6HGnUaL0PuIvwB0hEHzgh8wntrHuXEBE_QEQvfrbxKTRpjtHUw=s0-br30",
+      "icon": "/assets/tools/apps/vet-study.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "ivri-clinical",
+      "package": "com.icar.ivri.iasri.veterinaryclinicalcareapp",
+      "listing": "https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/kqJnlWhdG3RFu5ZhKvMmngWqqXgoJnATodYWmoZGAhiB31tI6T2i7C24HmyB810mnvrna0qyOp_bsXFhhAGXyA=s0-br30",
+      "icon": "/assets/tools/apps/ivri-clinical.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "msd-veterinary",
+      "package": "com.msd.veterinary",
+      "listing": "https://play.google.com/store/apps/details?id=com.msd.veterinary&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/EP6hgzOCIaXi4aXOE_kP55njcVft9bY0-wwlr8oqrpthKs3qK5XqB-NsVxxvw2QHGoW_MKBpUYIDrFzGacXZ=s0-br30",
+      "icon": "/assets/tools/apps/msd-veterinary.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "dog-anatomy",
+      "package": "com.biosphera.doganatomy",
+      "listing": "https://play.google.com/store/apps/details?id=com.biosphera.doganatomy&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/N0gMr2VSLP-64qN1vasHffMWWYmsKdOwz6NpCaF1WHBqtzHhqH1j7UtXpgK33EiT2ESgsY7mLoXXfbTbPrxjQQ=s0-br30",
+      "icon": "/assets/tools/apps/dog-anatomy.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "cat-anatomy",
+      "package": "com.biosphera.catanatomy",
+      "listing": "https://play.google.com/store/apps/details?id=com.biosphera.catanatomy&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/FsiM2gEz_X6sbhlox-_G_qwSlhcbmU4Zfyfh9fgboOifkGYXoou0WwKTqXTAXvW6XkAXoc8BwAyCprbr4SkaqA=s0-br30",
+      "icon": "/assets/tools/apps/cat-anatomy.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "horse-anatomy",
+      "package": "com.biosphera.horseanatomy",
+      "listing": "https://play.google.com/store/apps/details?id=com.biosphera.horseanatomy&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/yhfGzmY2KAzojD2nE7OUVzWFUOxKvu5YhQhDbLUb8seCE0jEFsFFYBzwbW635ds2wwf9_pHWx_warRrlEqopzw=s0-br30",
+      "icon": "/assets/tools/apps/horse-anatomy.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "pig-anatomy",
+      "package": "com.biosphera.piganatomy",
+      "listing": "https://play.google.com/store/apps/details?id=com.biosphera.piganatomy&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/fDp97yA3JyWcdmFsmPWqH-OScr6snqbvAqTqPBgRLK1YZ_WvlJn4dC0e7w8T9fjpAOjqStRgrZRBlCpC1kXcwA=s0-br30",
+      "icon": "/assets/tools/apps/pig-anatomy.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "goat-anatomy",
+      "package": "com.biosphera3d.caprineanatomy",
+      "listing": "https://play.google.com/store/apps/details?id=com.biosphera3d.caprineanatomy&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/lR1ybny3j1WywL_8ds3XNsPJtCo5la8pMJuNG4hcNM1AHWGCixmIl8sdC4RFgomvIViKmp78BAyJPWjB6H2xXQ=s0-br30",
+      "icon": "/assets/tools/apps/goat-anatomy.webp",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "id": "bird-anatomy",
+      "package": "com.biosphera.birdanatomy",
+      "listing": "https://play.google.com/store/apps/details?id=com.biosphera.birdanatomy&hl=en_US",
+      "imageSource": "https://play-lh.googleusercontent.com/zKsSBHRrUaj97nxNgqxQ6Vwo0158WE2eUlW-zL3wgdi-oCJt9htklrJ6_toPQhSuixzU6BlwrvtTv3D8ZqUZTTY=s0-br30",
+      "icon": "/assets/tools/apps/bird-anatomy.webp",
+      "width": 128,
+      "height": 128
+    }
+  ]
+}

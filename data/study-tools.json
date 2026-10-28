@@ -1,0 +1,553 @@
+{
+  "reviewed": "2026-10-28",
+  "apkCollectionUrl": null,
+  "paidTelegramUrl": null,
+  "apps": [
+    {
+      "id": "vet-study",
+      "title": "Vet Study 2.0",
+      "publisher": "Vet Study",
+      "package": "com.asr.vetstudy2",
+      "category": "Study",
+      "description": "A veterinary e-learning companion for keeping revision material close when you are away from your desk.",
+      "uses": [
+        "BVSc revision",
+        "Quick reading"
+      ],
+      "workflow": "Pick one syllabus topic before opening the app. After reading, close it and explain the key points aloud; check gaps against your course outline.",
+      "access": "Free to install · contains ads. Content availability may change.",
+      "free": true,
+      "icon": "/assets/tools/apps/vet-study.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.asr.vetstudy2"
+    },
+    {
+      "id": "vetconnect",
+      "title": "VetConnect",
+      "publisher": "Dr. Ghanasyam Joshi",
+      "package": "com.vetconnect.user.vetconnect",
+      "category": "Reference",
+      "description": "A veterinary drug index for looking up drug and brand information in an Indian practice context.",
+      "uses": [
+        "Drug-name lookup",
+        "Pharmacology revision"
+      ],
+      "workflow": "Use it to connect a generic drug to its class and indications. Cross-check species, formulation and current product information with your clinical supervisor.",
+      "access": "Free to install · contains ads. The listing describes offline and online use.",
+      "free": true,
+      "icon": "/assets/tools/apps/vetconnect.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.vetconnect.user.vetconnect"
+    },
+    {
+      "id": "msd-veterinary",
+      "title": "MSD Vet Manual",
+      "publisher": "Merck Sharp & Dohme LLC",
+      "package": "com.msd.veterinary",
+      "category": "Reference",
+      "description": "A broad veterinary reference for reviewing diseases, diagnostic approaches and clinical background across species.",
+      "uses": [
+        "Clinical concepts",
+        "Species comparisons"
+      ],
+      "workflow": "Start with a condition from rounds. Read its overview and diagnostic approach, then write a short problem list before discussing the case.",
+      "access": "Free reference. Download the core content first; some media and features need an internet connection.",
+      "free": true,
+      "icon": "/assets/tools/apps/msd-veterinary.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.msd.veterinary"
+    },
+    {
+      "id": "ivri-clinical",
+      "title": "IVRI Veterinary Clinical Care",
+      "publisher": "ICAR-IVRI & ICAR-IASRI",
+      "package": "com.icar.ivri.iasri.veterinaryclinicalcareapp",
+      "category": "Field practice",
+      "description": "An Indian field-practice learning aid covering common medicine, gynaecology and surgery presentations.",
+      "uses": [
+        "Livestock cases",
+        "Clinical preparation"
+      ],
+      "workflow": "Before a supervised field visit, review one common presentation such as bloat or dystocia. Compare the history, examination and differential diagnoses with what you observe.",
+      "access": "Free to install. Developed by ICAR-IVRI and IASRI; includes clinical explanations and educational procedure videos.",
+      "free": true,
+      "icon": "/assets/tools/apps/ivri-clinical.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp"
+    },
+    {
+      "id": "dog-anatomy",
+      "title": "3D Dog Anatomy",
+      "publisher": "Biosphera3D",
+      "package": "com.biosphera.doganatomy",
+      "category": "Anatomy",
+      "description": "Explore canine skeletal, muscular and internal anatomy from multiple angles.",
+      "uses": [
+        "3D dog anatomy",
+        "Comparative anatomy"
+      ],
+      "workflow": "Hide one system, name the exposed structures, then reveal it to check yourself. Pair the model with your dissection or osteology notes.",
+      "access": "Paid publisher app · Telegram collection link pending.",
+      "free": false,
+      "icon": "/assets/tools/apps/dog-anatomy.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.biosphera.doganatomy"
+    },
+    {
+      "id": "cat-anatomy",
+      "title": "3D Cat Anatomy",
+      "publisher": "Biosphera3D",
+      "package": "com.biosphera.catanatomy",
+      "category": "Anatomy",
+      "description": "Use a feline model to compare spatial relationships with canine anatomy.",
+      "uses": [
+        "3D cat anatomy",
+        "Comparative anatomy"
+      ],
+      "workflow": "Hide one system, name the exposed structures, then reveal it to check yourself. Pair the model with your dissection or osteology notes.",
+      "access": "Paid publisher app · Telegram collection link pending.",
+      "free": false,
+      "icon": "/assets/tools/apps/cat-anatomy.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.biosphera.catanatomy"
+    },
+    {
+      "id": "horse-anatomy",
+      "title": "3D Horse Anatomy",
+      "publisher": "Biosphera3D",
+      "package": "com.biosphera.horseanatomy",
+      "category": "Anatomy",
+      "description": "Rotate an equine model and isolate systems to understand structures in three dimensions.",
+      "uses": [
+        "3D horse anatomy",
+        "Comparative anatomy"
+      ],
+      "workflow": "Hide one system, name the exposed structures, then reveal it to check yourself. Pair the model with your dissection or osteology notes.",
+      "access": "Paid publisher app · Telegram collection link pending.",
+      "free": false,
+      "icon": "/assets/tools/apps/horse-anatomy.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.biosphera.horseanatomy"
+    },
+    {
+      "id": "pig-anatomy",
+      "title": "3D Pig Anatomy",
+      "publisher": "Biosphera3D",
+      "package": "com.biosphera.piganatomy",
+      "category": "Anatomy",
+      "description": "View porcine internal systems layer by layer and practise identifying landmarks.",
+      "uses": [
+        "3D pig anatomy",
+        "Comparative anatomy"
+      ],
+      "workflow": "Hide one system, name the exposed structures, then reveal it to check yourself. Pair the model with your dissection or osteology notes.",
+      "access": "Paid publisher app · Telegram collection link pending.",
+      "free": false,
+      "icon": "/assets/tools/apps/pig-anatomy.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.biosphera.piganatomy"
+    },
+    {
+      "id": "goat-anatomy",
+      "title": "3D Caprine Anatomy",
+      "publisher": "Biosphera3D",
+      "package": "com.biosphera3d.caprineanatomy",
+      "category": "Anatomy",
+      "description": "Explore caprine systems and highlight structures for comparative anatomy revision.",
+      "uses": [
+        "3D goat anatomy",
+        "Comparative anatomy"
+      ],
+      "workflow": "Hide one system, name the exposed structures, then reveal it to check yourself. Pair the model with your dissection or osteology notes.",
+      "access": "Paid publisher app · Telegram collection link pending.",
+      "free": false,
+      "icon": "/assets/tools/apps/goat-anatomy.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.biosphera3d.caprineanatomy"
+    },
+    {
+      "id": "bird-anatomy",
+      "title": "3D Bird Anatomy",
+      "publisher": "Biosphera3D",
+      "package": "com.biosphera.birdanatomy",
+      "category": "Anatomy",
+      "description": "Study a pigeon model for avian bones, muscles and internal organs.",
+      "uses": [
+        "3D bird anatomy",
+        "Comparative anatomy"
+      ],
+      "workflow": "Hide one system, name the exposed structures, then reveal it to check yourself. Pair the model with your dissection or osteology notes.",
+      "access": "Paid publisher app · Telegram collection link pending.",
+      "free": false,
+      "icon": "/assets/tools/apps/bird-anatomy.webp",
+      "store": "https://play.google.com/store/apps/details?id=com.biosphera.birdanatomy"
+    }
+  ],
+  "resources": [
+    {
+      "id": "vetbvsc",
+      "title": "VetBVSc — year-wise notes",
+      "url": "https://vetbvsc.in/notes/",
+      "category": "Notes",
+      "source": "Independent student resource",
+      "description": "BVSc subject and year collections, including links to TANUVAS material.",
+      "use": "Finding a second explanation or a subject collection. Check older course codes against your own outline.",
+      "access": "Public pages; linked files have their own access settings."
+    },
+    {
+      "id": "vetscraft",
+      "title": "Vetscraft — subject explanations",
+      "url": "https://www.vetscraft.com/bvscah/",
+      "category": "Notes",
+      "source": "Independent education site",
+      "description": "Readable veterinary topic explanations across basic, production and clinical subjects.",
+      "use": "Understanding a difficult concept before returning to your textbook.",
+      "access": "Public articles; individual courses may have different access terms."
+    },
+    {
+      "id": "vetsduo",
+      "title": "Vets Duo — subject lecture notes",
+      "url": "https://www.vetsduo.com/pages/notes.html",
+      "category": "Notes",
+      "source": "Independent student resource",
+      "description": "Subject-based BVSc collections covering basic sciences, animal production and clinical study.",
+      "use": "Comparing lecture notes and locating TANUVAS-labelled collections.",
+      "access": "Public directory; availability depends on each linked collection."
+    },
+    {
+      "id": "drvet",
+      "title": "DrVet — veterinary study archive",
+      "url": "https://www.drvet.in/",
+      "category": "Notes",
+      "source": "Independent study archive",
+      "description": "An archive of subject notes, exam material and veterinary study posts.",
+      "use": "Looking for older revision posts or question-paper references. Verify the year and original source.",
+      "access": "Public posts; external files may require separate access."
+    },
+    {
+      "id": "greatvets",
+      "title": "GreatVets — BVSc revision",
+      "url": "https://greatvets.in/notes",
+      "category": "Notes",
+      "source": "Independent learning platform",
+      "description": "Veterinary notes organised for BVSc study and revision.",
+      "use": "Getting a concise topic overview. Check any generated explanation against a textbook.",
+      "access": "Public notes; other features may require an account."
+    },
+    {
+      "id": "msd",
+      "title": "MSD Veterinary Manual",
+      "url": "https://www.msdvetmanual.com/",
+      "category": "Clinical",
+      "source": "Publisher reference",
+      "description": "Veterinary disease overviews, diagnostic background, tables and clinical learning material.",
+      "use": "Reading around a case after rounds; start with the species and clinical problem.",
+      "access": "Free web reference. Educational use does not replace clinical supervision."
+    },
+    {
+      "id": "eclinpath",
+      "title": "eClinPath — Cornell clinical pathology",
+      "url": "https://eclinpath.com/",
+      "category": "Clinical",
+      "source": "Cornell University",
+      "description": "An online clinical pathology textbook covering interpretation of haematology, chemistry and other laboratory findings.",
+      "use": "Understanding why a result changes, rather than memorising a reference interval alone.",
+      "access": "Free educational text; interpret results with the reporting laboratory’s intervals."
+    },
+    {
+      "id": "ivis",
+      "title": "IVIS — veterinary reading & continuing education",
+      "url": "https://www.ivis.org/",
+      "category": "Research",
+      "source": "Non-profit education service",
+      "description": "Veterinary proceedings, publications and learning resources from an international education network.",
+      "use": "Reading more deeply about a clinical question or preparing a seminar.",
+      "access": "Free registration may be required; access varies by item."
+    },
+    {
+      "id": "pubmed",
+      "title": "PubMed — find the original paper",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "category": "Research",
+      "source": "U.S. National Library of Medicine",
+      "description": "A biomedical literature search service that includes veterinary and comparative research.",
+      "use": "Finding a primary study. Add species and study design to your search; read methods before trusting a conclusion.",
+      "access": "Free search and abstracts; full-text availability depends on the publisher."
+    },
+    {
+      "id": "woah",
+      "title": "WOAH — animal health codes & manuals",
+      "url": "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/",
+      "category": "Official",
+      "source": "World Organisation for Animal Health",
+      "description": "International standards and manuals for animal health, diagnostic testing, welfare and veterinary public health.",
+      "use": "Looking up the official context for disease control, surveillance or diagnostic standards.",
+      "access": "Public standards; use the current edition and relevant chapter."
+    },
+    {
+      "id": "vci",
+      "title": "VCI — veterinary education & registration rules",
+      "url": "https://vci.dahd.gov.in/node/262",
+      "category": "Official",
+      "source": "Veterinary Council of India",
+      "description": "The official collection of veterinary legislation, registration regulations and education standards.",
+      "use": "Checking the source behind a curriculum or registration claim.",
+      "access": "Public regulations; use your university’s current implementation as well."
+    },
+    {
+      "id": "ivri",
+      "title": "IVRI — postgraduate study information",
+      "url": "https://ivri.nic.in/academics/mvsc.aspx",
+      "category": "Official",
+      "source": "ICAR–Indian Veterinary Research Institute",
+      "description": "Official information about master’s study and veterinary disciplines at IVRI.",
+      "use": "Shortlisting postgraduate subjects and checking the institution’s current admission route.",
+      "access": "Public information; the current admission notice determines eligibility and dates."
+    }
+  ],
+  "careerSources": [
+    {
+      "id": "registration",
+      "title": "VCI — Acts & registration regulations",
+      "url": "https://vci.dahd.gov.in/node/262",
+      "note": "Indian registration and professional framework."
+    },
+    {
+      "id": "ivri",
+      "title": "IVRI — MVSc programmes",
+      "url": "https://ivri.nic.in/academics/mvsc.aspx",
+      "note": "Postgraduate disciplines and institution-specific admissions."
+    },
+    {
+      "id": "icar",
+      "title": "NTA — ICAR postgraduate examinations",
+      "url": "https://exams.nta.nic.in/icar/",
+      "note": "Current examination bulletins; verify veterinary stream eligibility and counselling separately."
+    },
+    {
+      "id": "dahd",
+      "title": "DAHD — vacancies & recruitment notices",
+      "url": "https://www.dahd.gov.in/en/office_order_circular/vacancy_recruitment_advertisement",
+      "note": "Central department vacancies, including posts requiring prior service; not all are entry-level."
+    },
+    {
+      "id": "careers",
+      "title": "University of Arizona — veterinary career options",
+      "url": "https://vetmed.arizona.edu/students/career-planning/explore-veterinary-career-options",
+      "note": "The range of clinical, industry, research and public health work; not Indian eligibility rules."
+    },
+    {
+      "id": "corporate",
+      "title": "Virginia Tech — public & corporate veterinary medicine",
+      "url": "https://career-transition.vetmed.vt.edu/pc-vet-practice.html",
+      "note": "Government, industry and non-profit work settings; not Indian recruitment requirements."
+    },
+    {
+      "id": "rcvs",
+      "title": "RCVS — Statutory Membership Exam",
+      "url": "https://www.rcvs.org.uk/veterinary-professionals/registration/join-the-register-of-veterinary-surgeons/statutory-membership-exam",
+      "note": "UK registration pathway for qualifications not recognised by the RCVS."
+    },
+    {
+      "id": "icva",
+      "title": "ICVA — NAVLE application process",
+      "url": "https://www.icva.net/navle/application-process/",
+      "note": "NAVLE eligibility and educational certification pathways."
+    },
+    {
+      "id": "avbc",
+      "title": "AVBC — Australasian Veterinary Examination",
+      "url": "https://avbc.asn.au/for-veterinarians/australasian-veterinary-examination/",
+      "note": "Assessment for overseas qualifications not recognised for registration."
+    }
+  ],
+  "careers": [
+    {
+      "id": "companion",
+      "title": "Companion-animal practice",
+      "category": "Clinical",
+      "icon": "stethoscope",
+      "summary": "Consults, prevention, diagnostics and follow-up for pets.",
+      "work": "General practice combines examination, owner communication, treatment planning and records. Emergency or specialist work adds further training and different working hours.",
+      "entry": "Complete BVSc & AH, the required internship and applicable registration before practising. An MVSc can deepen a field; it is not a universal condition for every general-practice job.",
+      "fit": "You like case continuity, hands-on work and explaining decisions to worried people.",
+      "first": "Observe a full clinic shift with permission. Ask who supervises new graduates and how difficult cases are escalated.",
+      "watch": "A busy caseload is not the same as good mentorship. Ask about night duty, equipment access and protected learning time.",
+      "sources": [
+        "registration",
+        "careers"
+      ]
+    },
+    {
+      "id": "livestock",
+      "title": "Livestock & dairy herd health",
+      "category": "Clinical",
+      "icon": "milk",
+      "summary": "Work with individual animals and the performance of a whole herd.",
+      "work": "Field visits may involve reproduction, mastitis prevention, nutrition, disease surveillance and farmer education. The work connects health decisions to farm management.",
+      "entry": "BVSc & AH and applicable registration are central to clinical work. Employers may value field experience or postgraduate training in the relevant discipline.",
+      "fit": "You enjoy farms, travel, practical problem solving and working with livestock owners.",
+      "first": "Join supervised farm rounds. Practise taking a structured herd history and interpreting production records.",
+      "watch": "Plan for travel, biosecurity and emergency work. Learn to communicate a workable prevention plan, not just a diagnosis.",
+      "sources": [
+        "registration",
+        "careers"
+      ]
+    },
+    {
+      "id": "production",
+      "title": "Poultry, feed & production systems",
+      "category": "Production",
+      "icon": "leaf",
+      "summary": "Prevent disease and improve health at flock or enterprise scale.",
+      "work": "Roles can include farm health, biosecurity, hatchery support, nutrition, feed technical services and production data review. Some are clinical, others focus on operations or technical support.",
+      "entry": "Requirements differ by employer. BVSc skills are relevant; targeted MVSc study or practical production exposure can strengthen a specialist application.",
+      "fit": "You like prevention, systems, numbers and decisions affecting many animals.",
+      "first": "Visit a production unit through your college. Learn its biosecurity flow and choose one performance indicator to understand.",
+      "watch": "Check whether a role involves clinical decisions, sales targets, frequent travel or farm residency before accepting.",
+      "sources": [
+        "careers",
+        "corporate"
+      ]
+    },
+    {
+      "id": "government",
+      "title": "Government veterinary services",
+      "category": "Public service",
+      "icon": "shield",
+      "summary": "Animal health programmes, field services and regulatory responsibilities.",
+      "work": "Depending on the post, work may involve dispensaries, vaccination programmes, surveillance, extension or administration. State and central posts have different recruitment rules.",
+      "entry": "Read the exact state PSC, department or UPSC advertisement. Recognised qualifications, registration, age, language and experience requirements vary; some central vacancies are deputation posts.",
+      "fit": "You value public service, livestock outreach and working within an administrative system.",
+      "first": "Read one current advertisement end to end. Make a checklist of eligibility, syllabus, documents and the official application portal.",
+      "watch": "There is no single nationwide “veterinary officer exam” covering every post. Use official notices for deadlines and selection stages.",
+      "sources": [
+        "registration",
+        "dahd"
+      ]
+    },
+    {
+      "id": "public-health",
+      "title": "Public health, food safety & One Health",
+      "category": "Public service",
+      "icon": "people",
+      "summary": "Protect animal and human health through prevention and surveillance.",
+      "work": "Work may involve zoonoses, food hygiene, outbreak investigations, epidemiology or public health projects. Food safety roles and clinical veterinary posts do not share one eligibility rule.",
+      "entry": "A relevant MVSc, MPH or epidemiology training may help for particular roles. Verify whether the actual vacancy accepts your degree and requires additional experience or registration.",
+      "fit": "You enjoy population-level questions, field investigation, data and teamwork across disciplines.",
+      "first": "Turn a public health topic into a short evidence brief: define the population, risk, data source and practical prevention measure.",
+      "watch": "An additional degree is useful only when it fits the role. Check recognised entry requirements before paying for a programme.",
+      "sources": [
+        "registration",
+        "careers",
+        "corporate"
+      ]
+    },
+    {
+      "id": "diagnostics",
+      "title": "Diagnostics & laboratory medicine",
+      "category": "Research",
+      "icon": "microscope",
+      "summary": "Make laboratory findings useful to the clinician or herd team.",
+      "work": "Diagnostic work spans pathology, microbiology, parasitology, sample handling, quality control and interpretation. Research laboratories and clinical diagnostic services have different responsibilities.",
+      "entry": "Supervised laboratory experience is a useful start. Specialist interpretation, research and leadership posts often ask for relevant postgraduate training or experience.",
+      "fit": "You enjoy detail, methodical work and explaining the limits of a test.",
+      "first": "Spend time in your teaching laboratory. Follow one sample from collection and transport through reporting and interpretation.",
+      "watch": "Strong sample quality and quality assurance matter as much as identifying a slide. Avoid treating a test result as a diagnosis on its own.",
+      "sources": [
+        "ivri",
+        "careers"
+      ]
+    },
+    {
+      "id": "academia",
+      "title": "Teaching & research",
+      "category": "Research",
+      "icon": "flask",
+      "summary": "Ask a better question, investigate it and help others learn.",
+      "work": "University and institute roles combine some mix of teaching, research, supervision, publication and extension. Project appointments can be temporary and tied to a specific grant.",
+      "entry": "Relevant MVSc and often PhD training support this route. NET, ARS, experience and discipline requirements depend on the employer and current notification; none guarantees an appointment.",
+      "fit": "You like explaining concepts, reading critically and working patiently through uncertain results.",
+      "first": "Ask to assist with a supervised literature review or small project. Learn research ethics, basic statistics and reference management.",
+      "watch": "Choose a supervisor and research environment carefully. Compare actual training, funding and methods experience rather than collecting qualifications alone.",
+      "sources": [
+        "ivri",
+        "icar",
+        "careers"
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Pharma, vaccines & animal-health industry",
+      "category": "Industry",
+      "icon": "pill",
+      "summary": "Connect veterinary knowledge with products, evidence and customers.",
+      "work": "Possible roles include technical services, training, pharmacovigilance, regulatory support, diagnostics, product work and field sales. The daily balance of science, communication and commercial targets varies.",
+      "entry": "Entry criteria are employer-specific. BVSc graduates may fit some roles; research or specialist posts may require MVSc, PhD or prior experience.",
+      "fit": "You enjoy explaining science, solving client problems and collaborating with business teams.",
+      "first": "Compare three genuine job descriptions. Highlight the common technical, communication and travel requirements; build one relevant work sample.",
+      "watch": "Ask what is measured: sales, customer training, scientific work or project delivery. Product promotion still needs accurate, responsible communication.",
+      "sources": [
+        "careers",
+        "corporate"
+      ]
+    },
+    {
+      "id": "wildlife",
+      "title": "Wildlife, zoos & conservation",
+      "category": "Clinical",
+      "icon": "paw",
+      "summary": "Animal health within conservation, rehabilitation and managed populations.",
+      "work": "Work may combine preventive medicine, quarantine, rescue, diagnostics, welfare and collaboration with keepers or conservation teams. Opportunities can be limited and project-based.",
+      "entry": "Clinical responsibilities require the appropriate veterinary qualification and registration. Relevant supervised wildlife experience and postgraduate study can matter, depending on the position.",
+      "fit": "You are interested in population health, welfare and working patiently in multidisciplinary teams.",
+      "first": "Seek a formally supervised placement through your college or an established organisation. Learn the safety and permit rules before any animal handling.",
+      "watch": "Wildlife work is not a shortcut to independent capture or treatment. Do not seek unsupervised handling experience.",
+      "sources": [
+        "registration",
+        "careers",
+        "corporate"
+      ]
+    },
+    {
+      "id": "welfare",
+      "title": "Shelter medicine & animal welfare",
+      "category": "Clinical",
+      "icon": "cross",
+      "summary": "Improve welfare through prevention, accessible care and good systems.",
+      "work": "Shelter and NGO work can include population health, sterilisation programmes, outbreak prevention, records, community education and resource allocation.",
+      "entry": "BVSc & AH, applicable registration and supervised clinical competence underpin clinical posts. Programme management roles may ask for additional experience.",
+      "fit": "You like community work, teamwork and balancing individual care with population needs.",
+      "first": "Volunteer through a recognised supervised programme. Observe infection control, pain management, patient tracking and staff safety.",
+      "watch": "Ask about supervision, caseload limits, facilities and staff support. Compassion works best with safe, sustainable clinical systems.",
+      "sources": [
+        "registration",
+        "careers",
+        "corporate"
+      ]
+    },
+    {
+      "id": "enterprise",
+      "title": "Practice ownership & veterinary ventures",
+      "category": "Industry",
+      "icon": "chart",
+      "summary": "Build a service around a real animal-health need.",
+      "work": "Routes include clinics, mobile services, farm consultancy and veterinary education or technology ventures. Running the service adds finance, operations and people management to veterinary work.",
+      "entry": "Clinical ventures need the relevant registration and local legal compliance. Business registration, premises, medicines, waste handling and other permissions depend on the service and location.",
+      "fit": "You enjoy responsibility, service design, communication and learning the business side.",
+      "first": "Interview five potential users before investing. Draft a simple service plan covering supervision, equipment, recurring costs, safety and referrals.",
+      "watch": "Revenue is not take-home pay. Price in rent, staffing, consumables, compliance, emergencies and time away from clinical work.",
+      "sources": [
+        "registration",
+        "corporate"
+      ]
+    },
+    {
+      "id": "communication",
+      "title": "Veterinary writing, education & health tech",
+      "category": "Industry",
+      "icon": "paper",
+      "summary": "Make sound veterinary knowledge useful beyond the consulting room.",
+      "work": "Work can include scientific content, education, product support, research communication, medical editing or health-data projects. Some positions combine these tasks with clinical or industry work.",
+      "entry": "A veterinary degree gives subject knowledge; employers also assess writing, evidence appraisal, teaching, data or product skills. Clinical advice remains subject to professional responsibilities.",
+      "fit": "You enjoy explaining complex ideas, checking sources and making useful things for other people.",
+      "first": "Create a small portfolio: one cited patient-education sheet, one evidence summary and one clear explainer. Remove all identifying case information.",
+      "watch": "Avoid unsupported health claims and invented citations. Develop a specific skill alongside veterinary knowledge rather than relying on a degree title alone.",
+      "sources": [
+        "careers",
+        "corporate"
+      ]
+    }
+  ]
+}
