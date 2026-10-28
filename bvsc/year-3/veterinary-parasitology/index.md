@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Parasitology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=5)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -194,19 +194,14 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-1 book
+2 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Veterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. Wall (4th edition)
-
-Use life cycles, host relationships and diagnostic features as your organising framework.
-
-Reading recommendation · no linked copy available.
+- [Text Book of Veterinary Parasitology - BhatiaGoogle Drive](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/)
+- [Veterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. Wall · Reading guide](https://notes.thatvetguy.net/books/veterinary-parasitology/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -227,4 +222,4 @@ Sketch life cycles with hosts and infective stages, then connect those stages to
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

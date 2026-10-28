@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/Veterinary Pharmacology and Toxicology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 3rd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=1)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -141,19 +141,16 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-1 book
+4 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu
-
-Organise drug classes by mechanism, action and therapeutic use.
-
-Reading recommendation · no linked copy available.
+- [Essentials of Medical Pharmacology - K.D.TripathiGoogle Drive](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
+- [Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu · Google Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
+- [Goodman and Gilman’s The Pharmacological Basis of TherapeuticsGoogle Drive](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/)
+- [Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)Google Drive](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -174,4 +171,4 @@ Organise drug classes by mechanism, indications and adverse effects; verify clin
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

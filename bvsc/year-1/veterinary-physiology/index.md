@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/Veterinary Physiology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 1st Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=4)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -89,27 +89,16 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-2 books
+4 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. (editors, 13th edition)
-
-Build a veterinary foundation in how body systems work and interact.
-
-Reading recommendation · no linked copy available.
-
-- 
-
-Cunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor)
-
-A companion for understanding mechanisms before memorising values.
-
-Reading recommendation · no linked copy available.
+- [Cunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor) · Google Drive](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/)
+- [Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. · Google Drive](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
+- [Guyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. Guyton · Google Drive](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
+- [Sembulingam Medical Physiology 6th-editionGoogle Drive](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -130,4 +119,4 @@ Draw a process from stimulus to response before learning the individual hormones
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

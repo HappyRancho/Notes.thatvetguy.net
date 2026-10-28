@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Microbiology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -245,19 +245,17 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-1 book
+5 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al.
-
-Connect organism characteristics with the infections they cause in animals.
-
-Reading recommendation · no linked copy available.
+- [Ananthanarayan and Paniker’s Textbook of MicrobiologyC. K. J. Paniker (editor) · Google Drive](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
+- [Fenner’s Veterinary Virology 5th editionGoogle Drive](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
+- [Prescott’s MicrobiologyGoogle Drive](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
+- [Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al. · Reading guide](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/)
+- [Veterinary MycologyIndranil Samanta · Google Drive](https://notes.thatvetguy.net/books/veterinary-mycology/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -278,4 +276,4 @@ Compare each agent by classification, transmission and laboratory identification
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

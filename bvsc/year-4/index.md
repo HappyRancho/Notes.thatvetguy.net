@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/4th Year Notes & Books
 
@@ -13,11 +13,11 @@
 
 4 subjects · 59 resources
 
-- [Veterinary Medicine22 topic notes · 1 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
-- [Veterinary Surgery and Radiology22 topic notes · 1 TANUVAS2 recommended books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
-- [Veterinary Gynaecology and Obstetrics11 topic notes · 2 TANUVAS1 recommended book](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- [Veterinary Medicine22 topic notes · 1 TANUVAS16 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- [Veterinary Surgery and Radiology22 topic notes · 1 TANUVAS9 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- [Veterinary Gynaecology and Obstetrics11 topic notes · 2 TANUVAS6 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - [Veterinary Clinical Practices IINotes coming soon · course outline available](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

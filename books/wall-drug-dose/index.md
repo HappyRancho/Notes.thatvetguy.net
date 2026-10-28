@@ -1,0 +1,41 @@
+<!-- Canonical: https://notes.thatvetguy.net/books/wall-drug-dose/; updated: 2026-10-28 -->
+
+[Home](https://notes.thatvetguy.net/)/[Books](https://notes.thatvetguy.net/books/)/Drug Dose — Wall Reference
+
+# Drug Dose — Wall Reference
+
+A reference sheet for clinical reference study. The download button below opens its Telegram post.
+
+Cover unavailable
+
+- Resource type: Reference sheet
+
+- Access: Telegram
+
+[Download via Telegram](https://t.me/c/4430259212/7)
+
+This button opens the book’s Telegram post. View or download the file there. This is a private collection; access to its posts is required.
+
+## About this reference
+
+A printable quick-reference sheet; verify every dose against current clinical guidance.
+
+For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
+
+Edition, source & credits 
+
+Credit remains with the original authors and publishers. Bibliographic details and reference covers may describe a different edition from the linked copy. Check the title page before citing it.
+
+Collection access is provided through the original Telegram post.
+
+Last source check: 2026-10-19.
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Drug%20Dose%20%E2%80%94%20Wall%20Reference#report)
+
+## Related reading
+
+- [Plumb’s Veterinary Drug Handbook](https://notes.thatvetguy.net/books/plumbs-handbook/)
+- [Vaccination Schedule of All Animals](https://notes.thatvetguy.net/books/vaccination-schedule/)
+- [VENDEX: The Fundamental Veterinary Drug Index](https://notes.thatvetguy.net/books/vendex/)
+
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

@@ -348,7 +348,13 @@
       "9789357013413"
     ],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/animal-science-refresher.webp",
+      "width": 386,
+      "height": 500,
+      "source": "https://images-na.ssl-images-amazon.com/images/P/1618138170.01.LZZZZZZZ.jpg",
+      "kind": "reference-cover"
+    },
     "page": "/books/animal-science-refresher/",
     "primaryUrl": "https://t.me/veterinary_objectives/5",
     "access": "Telegram",
@@ -1220,13 +1226,7 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": {
-      "path": "/assets/books/essentials-of-veterinary-pharmacology-and-therapeutics.webp",
-      "width": 520,
-      "height": 678,
-      "source": "https://books.google.com/books/content?id=peXnoAEACAAJ&printsec=frontcover&img=1&zoom=2",
-      "kind": "reference-cover"
-    },
+    "cover": null,
     "page": "/books/essentials-of-veterinary-pharmacology-and-therapeutics/",
     "primaryUrl": "https://drive.google.com/file/d/1DQ05pX9kM6lQ9tdOfQWy2GTEuaJyvwRW/view",
     "access": "Google Drive",
@@ -1353,7 +1353,13 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/farm-animal-surgery.webp",
+      "width": 501,
+      "height": 648,
+      "source": "https://images-na.ssl-images-amazon.com/images/P/0323316654.01.LZZZZZZZ.jpg",
+      "kind": "reference-cover"
+    },
     "page": "/books/farm-animal-surgery/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -1460,7 +1466,7 @@
   {
     "id": "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics",
     "title": "Goodman and Gilman’s The Pharmacological Basis of Therapeutics",
-    "author": "Arthur Symons",
+    "author": null,
     "description": "Goodman and Gilman’s The Pharmacological Basis of Therapeutics is listed in the Veterinary Pharmacology and Toxicology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
     "subjects": [
       {
@@ -1494,38 +1500,8 @@
     "resourceId": "book-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics",
     "humanReference": true,
     "referenceISBNs": [],
-    "bibliography": {
-      "bibliographyVerified": true,
-      "title": "Goodman and Gilman's The pharmacological basis of therapeutics",
-      "authors": "Arthur Symons",
-      "publisher": "Macmillan",
-      "referencePublishedDate": 1980,
-      "referenceISBNs": [
-        "0023447206",
-        "9780023447204"
-      ],
-      "source": "https://openlibrary.org/works/OL16578195W",
-      "scope": "Bibliographic work reference; linked file edition must be checked separately",
-      "cover": {
-        "path": "/assets/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp",
-        "width": 348,
-        "height": 500,
-        "source": "https://covers.openlibrary.org/b/id/7157831-L.jpg?default=false",
-        "kind": "reference-cover"
-      },
-      "coverOCR": "5 Sara ae\n\nfs\n\n“\n\nae\n\nBe\n\nah\n\nve\n\n1\n\n=\n\na\n\nPp\n\n73\n\ni\n\nag\n\nais\n\n\\\n\n2S",
-      "errors": [
-        "file-preview: HTTP Error 404: Not Found"
-      ],
-      "reviewed": "2026-10-28"
-    },
-    "cover": {
-      "path": "/assets/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp",
-      "width": 348,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/7157831-L.jpg?default=false",
-      "kind": "reference-cover"
-    },
+    "bibliography": {},
+    "cover": null,
     "page": "/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/",
     "primaryUrl": "https://drive.google.com/file/d/15a_t3ChRGC96B9lQ4Jf1HxiK17IntZdt/view",
     "access": "Google Drive",
@@ -1944,13 +1920,7 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": {
-      "path": "/assets/books/livestock-production-management.webp",
-      "width": 520,
-      "height": 678,
-      "source": "https://books.google.com/books/content?id=SuNkAAAACAAJ&printsec=frontcover&img=1&zoom=2",
-      "kind": "reference-cover"
-    },
+    "cover": null,
     "page": "/books/livestock-production-management/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -2544,7 +2514,7 @@
   {
     "id": "pocket-guide-diagnostic-tests",
     "title": "Pocket Guide Diagnostic Tests",
-    "author": "Diana Nicoll, Stephen J. McPhee, Michael Pignone, Stephen McPhee",
+    "author": "Diana Nicoll, Stephen J. McPhee and Michael Pignone",
     "description": "Pocket Guide Diagnostic Tests is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
     "subjects": [
       {
@@ -2576,7 +2546,7 @@
     "references": [],
     "lastVerified": "2026-10-28",
     "resourceId": "book-pocket-guide-diagnostic-tests",
-    "humanReference": false,
+    "humanReference": true,
     "referenceISBNs": [],
     "bibliography": {
       "bibliographyVerified": true,
@@ -2728,13 +2698,7 @@
       "errors": [],
       "reviewed": "2026-10-28"
     },
-    "cover": {
-      "path": "/assets/books/poultry-metabolic-disorders-and-mycotoxins.webp",
-      "width": 400,
-      "height": 400,
-      "source": "https://covers.openlibrary.org/b/id/13865978-L.jpg?default=false",
-      "kind": "reference-cover"
-    },
+    "cover": null,
     "page": "/books/poultry-metabolic-disorders-and-mycotoxins/",
     "primaryUrl": "https://drive.google.com/file/d/1gqmSEaqXGXKrvPeX8kNAveCGKM_bnE1b/view",
     "access": "Google Drive",
@@ -3715,7 +3679,13 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/textbook-of-veterinary-anatomy.webp",
+      "width": 377,
+      "height": 500,
+      "source": "https://images-na.ssl-images-amazon.com/images/P/1416066071.01.LZZZZZZZ.jpg",
+      "kind": "reference-cover"
+    },
     "page": "/books/textbook-of-veterinary-anatomy/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -4266,7 +4236,13 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/veterinary-microbiology-and-microbial-disease.webp",
+      "width": 388,
+      "height": 500,
+      "source": "https://images-na.ssl-images-amazon.com/images/P/1119716780.01.LZZZZZZZ.jpg",
+      "kind": "reference-cover"
+    },
     "page": "/books/veterinary-microbiology-and-microbial-disease/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -4353,7 +4329,7 @@
   {
     "id": "veterinary-obstetrics-and-genital-disease",
     "title": "Veterinary Obstetrics and Genital disease",
-    "author": "Roberts, Stephen J.",
+    "author": "Stephen J. Roberts",
     "description": "Veterinary Obstetrics and Genital disease is listed in the Veterinary Gynaecology and Obstetrics Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
     "subjects": [
       {

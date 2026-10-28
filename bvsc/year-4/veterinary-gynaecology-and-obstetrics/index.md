@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Gynaecology and Obstetrics
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=6)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -79,19 +79,18 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-1 book
+6 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England (10th edition)
-
-Follow reproductive physiology through fertility, pregnancy and obstetrical problems.
-
-Reading recommendation · no linked copy available.
+- [Applied Veterinary Gynaecology and Obstetrics Dr PradeepGoogle Drive](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
+- [Canine and Feline Endocrinology and ReproductionEdward C. Feldman, Richard W. Nelson · Google Drive](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
+- [Pathways to Pregnancy and ParturitionP. L. Senger · Google Drive](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
+- [Reproduction in Farm Animals,7th Edition by HafeezGoogle Drive](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
+- [Veterinary Obstetrics and Genital diseaseStephen J. Roberts · Google Drive](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/)
+- [Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England · Google Drive](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -112,4 +111,4 @@ Compare reproductive timelines by species, then relate abnormal findings to the 
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

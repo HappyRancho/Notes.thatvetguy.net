@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Surgery and Radiology
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=1)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -121,27 +121,21 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-2 books
+9 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Ruminant SurgeryR. P. S. Tyagi and Jit Singh
-
-A species-focused reference to pair with supervised surgical teaching.
-
-Reading recommendation · no linked copy available.
-
-- 
-
-Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors)
-
-Use for operative principles and procedure context in farm animals.
-
-Reading recommendation · no linked copy available.
+- [Adam's Lameness in Horses 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
+- [Brinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsGoogle Drive](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
+- [Essentials of Veterinary Surgery, 8th EditionGoogle Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
+- [Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors) · Reading guide](https://notes.thatvetguy.net/books/farm-animal-surgery/)
+- [Lumb & Jones Veterinary Anesthesia and AnalgesiaKurt Grimm, John Thurmon · Google Drive](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
+- [Ruminant SurgeryR. P. S. Tyagi and Jit Singh · Google Drive](https://notes.thatvetguy.net/books/ruminant-surgery/)
+- [Slatter's Fundamentals of Veterinary Ophthalmology, 6th EditionGoogle Drive](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
+- [Small Animal Surgery, 5th Edition - Theresa FossumGoogle Drive](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/)
+- [Veterinary surgery and radiology by s.k.nandiGoogle Drive](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -162,4 +156,4 @@ Connect anatomy, patient preparation and procedural reasoning; clinical techniqu
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

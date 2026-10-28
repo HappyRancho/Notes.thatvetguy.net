@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/Veterinary Biochemistry
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 2nd Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=6)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -105,19 +105,13 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
 1 book
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-BiochemistryU. Satyanarayana and U. Chakrapani
-
-Use for core pathways and biomolecules; pair with veterinary examples from class.
-
-Reading recommendation · no linked copy available.
+- [BiochemistryU. Satyanarayana and U. Chakrapani · Reading guide](https://notes.thatvetguy.net/books/biochemistry/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -140,4 +134,4 @@ Biochemistry appears in the 1st Year outline PDF; it is grouped in 2nd Year here
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

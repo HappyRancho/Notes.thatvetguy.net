@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-10-26 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-10-28 -->
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/Veterinary Medicine
 
@@ -10,7 +10,7 @@ Topic-wise notes, TANUVAS material and recommended reading for 4th Year BVSc & A
 [Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=5)
 
 [Topic-wise](#notes)[TANUVAS](#tanuvas)[Books](#books)
-Find a note in the selected collection
+Find a resource in the selected collection
 
 ## Topic-wise Notes
 
@@ -125,27 +125,28 @@ About these notes
 
 TANUVAS material linked through VetBVSc. Course codes come from the source collection and may differ from your current syllabus. Credit remains with the original authors.
 
-## Recommended Books
+## Books & Recommended Reading
 
-2 books
+16 books
 
-Reading recommendations. Expand a title for guidance.
+Open a book for its details, cover and available download.
 
-- 
-
-Veterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg (11th edition)
-
-A substantial large-animal reference for disease mechanisms, diagnosis and management.
-
-Reading recommendation · no linked copy available.
-
-- 
-
-Textbook of Clinical Veterinary MedicineAmalendu Chakrabarti
-
-A companion for clinical examination and a systematic approach to disease.
-
-Reading recommendation · no linked copy available.
+- [Clinical Examination of Farm AnimalsPeter G. G. Jackson, Peter D. Cockcroft · Google Drive](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/)
+- [Clinical Handbook on Canine Dermatology 3rd EditionGoogle Drive](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/)
+- [Color handbook of Skin Diseases of Dog and CatP. J. McKeever · Google Drive](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/)
+- [Exotic Animal Medicine for the Veterinary Technician by Bonnie BallardGoogle Drive](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
+- [Fluid therapy guidelines for dogs and catsGoogle Drive](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
+- [Laboratory Animal and Exotic Pet Medicine Principles and ProceduresGoogle Drive](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
+- [Manual of Canine and Feline CardiologyLarry P. Tilley, John-Karl Goodwin · Google Drive](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
+- [Metabolic Diseases in Farm AnimalsJack M. Payne · Google Drive](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
+- [Pocket Guide Diagnostic TestsDiana Nicoll, Stephen J. McPhee and Michael Pignone · Google Drive](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/)
+- [Poultry Metabolic Disorders and MycotoxinsSteven Leeson · Google Drive](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/)
+- [Skin Diseases of Exotic PetsSue Paterson · Google Drive](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
+- [Small Animal ECGs, An Introductory Guide, 3rd EditionGoogle Drive](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
+- [Small Animal Internal Medicine 5th EditionGoogle Drive](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
+- [Textbook of Clinical Veterinary MedicineAmalendu Chakrabarti · Google Drive](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
+- [Textbook of Veterinary Internal MedicineStephen J. Ettinger · Google Drive](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
+- [Veterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg · Google Drive](https://notes.thatvetguy.net/books/veterinary-medicine/)[Browse all books ](https://notes.thatvetguy.net/books/)
 
 No notes found.
 
@@ -166,4 +167,4 @@ Build problem lists before differential diagnoses, and compare diseases by disti
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)[Year roadmap ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
-Page updated: 2026-10-26. Sources last reviewed: 2026-10-26; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
