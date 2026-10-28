@@ -15,3 +15,15 @@ The new pages are included in the sitemap, llms files, clean Markdown mirrors an
 Checks: original PDF hashes, unit numbering, complete topic wording, unique topic IDs, canonical note hashes, exact Practical-folder file accounting, source URLs, strict outbound policy and stylesheet isolation. Browser measurements and screenshots are recorded under `docs/qa/subject-hubs/` in the workflow artifacts.
 
 The previously documented Cloudflare-managed robots.txt injection remains a hosting setting; repository code cannot remove that prefix without access to the zone settings. It is unrelated to the subject-page layout.
+
+Subjects without material in a Practical folder: Veterinary Physiology, Veterinary and Animal Husbandry Extension Education, Veterinary Clinical Practices I, Livestock Farm Practices, Veterinary Clinical Practices II.
+
+Initial review: 156 subject, checklist and vault views passed at 360, 390, 430, 768 and 1280px, with light/dark checks and keyboard/persistence tests. Shared geometry checks passed 32 additional views. The shared interaction suite was adjusted to avoid closing a notes drawer already restored from its hash before running its existing note-search assertion.
+
+## Final measured review
+
+- Subject suite: 156 views, no geometry errors or serious/critical axe violations; all subject/vault/checklist link and progress tests pass.
+- Shared suite: 32 views and all preserved search/menu/shelf interactions pass.
+- Lighthouse mobile: Anatomy hub and Medicine hub 98/100/100/100; Anatomy checklist and Practical Vault 99/100/100/100 (Performance/Accessibility/Best Practices/SEO).
+- Measured CLS 0.0057–0.0066. LCP 1.96–2.19 seconds; the two subject hubs exceed the earlier 2.0-second target despite passing the score target.
+- Evidence: https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40662345098 and https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40661111605 .

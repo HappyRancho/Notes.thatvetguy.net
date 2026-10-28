@@ -1,0 +1,83 @@
+{
+  "subjects": 19,
+  "units": 169,
+  "topics": 1748,
+  "counts": {
+    "Veterinary Anatomy": {
+      "units": 16,
+      "topics": 127
+    },
+    "Veterinary Physiology": {
+      "units": 8,
+      "topics": 93
+    },
+    "Livestock Production Management": {
+      "units": 17,
+      "topics": 229
+    },
+    "Veterinary Biochemistry": {
+      "units": 6,
+      "topics": 66
+    },
+    "Veterinary Microbiology": {
+      "units": 10,
+      "topics": 128
+    },
+    "Veterinary Pathology": {
+      "units": 12,
+      "topics": 55
+    },
+    "Animal Genetics and Breeding": {
+      "units": 6,
+      "topics": 101
+    },
+    "Animal Nutrition": {
+      "units": 8,
+      "topics": 65
+    },
+    "Veterinary Pharmacology and Toxicology": {
+      "units": 11,
+      "topics": 75
+    },
+    "Veterinary Parasitology": {
+      "units": 10,
+      "topics": 85
+    },
+    "Veterinary Public Health and Epidemiology": {
+      "units": 8,
+      "topics": 114
+    },
+    "Livestock Products Technology": {
+      "units": 8,
+      "topics": 75
+    },
+    "Veterinary and Animal Husbandry Extension Education": {
+      "units": 11,
+      "topics": 105
+    },
+    "Veterinary Clinical Practices I": {
+      "units": 1,
+      "topics": 7
+    },
+    "Livestock Farm Practices": {
+      "units": 1,
+      "topics": 4
+    },
+    "Veterinary Medicine": {
+      "units": 12,
+      "topics": 63
+    },
+    "Veterinary Surgery and Radiology": {
+      "units": 12,
+      "topics": 132
+    },
+    "Veterinary Gynaecology and Obstetrics": {
+      "units": 6,
+      "topics": 143
+    },
+    "Veterinary Clinical Practices II": {
+      "units": 6,
+      "topics": 81
+    }
+  }
+}
