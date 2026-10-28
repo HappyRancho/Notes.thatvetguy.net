@@ -2,11 +2,20 @@
   "reviewed": "2026-10-28",
   "books": {
     "a-textbook-of-animal-husbandry": {
+      "bibliographyVerified": true,
+      "title": "A Textbook of Animal Husbandry",
+      "authors": "G. C. Banerjee",
+      "publisher": "OXFORD",
+      "referencePublishedDate": 1970,
+      "referenceISBNs": [
+        "8120400666",
+        "9788120400665"
+      ],
+      "source": "https://openlibrary.org/works/OL10224308W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "a-textbook-of-veterinary-general-pathology": {
@@ -18,9 +27,7 @@
         "kind": "file-preview"
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "adam-s-lameness-in-horses-7th-edition": {
@@ -28,7 +35,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -36,7 +43,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -50,7 +57,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -64,16 +71,14 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "animal-nutrition": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "animal-nutrition-7th-edition": {
@@ -86,7 +91,7 @@
       },
       "coverOCR": "Seventh Edition\n\nANIMAL NUTRITION\n\nP. McDonald\n\nR. A. Edwards\n\nJ. FD. Greenhalgh\n\nC. A. Morgan\n\nL. A. Sinclair\n\nR. G. Wilkinson\n\nre ,\n\n~“\n\na a\n\nes\n\nes",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -94,7 +99,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -108,16 +113,14 @@
       },
       "coverOCR": "APPLIED\n\nVETERINARY\n\nGYNAECOLOGY\n\nAND OBSTETRICS\n\nDr. Pradeep Kumar\n\nM.V.Sc., Ph.D. (pursuing)\n\nInternational Book Distributing Co.",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "biochemistry": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics": {
@@ -130,7 +133,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -139,7 +142,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -153,7 +156,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -167,7 +170,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -176,7 +179,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -190,7 +193,7 @@
       },
       "coverOCR": "Second Edition\n\nA Colour Handbook of\n\nSKIN DISEASES\n\nOF THE\n\nDOG AND CAT\n\nTim Nuttall\n\nRichard G. Harvey\n\nPatrick J. McKeever\n\nstil\n\n[MARE",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -199,7 +202,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -207,38 +210,21 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "dhruv-desai": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "cunningham-s-textbook-of-veterinary-physiology": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
-      "reviewed": "2026-10-28"
-    },
-    "d-v-reddy-part-1": {
-      "cover": {
-        "path": "/assets/books/d-v-reddy-part-1.webp",
-        "width": 520,
-        "height": 735,
-        "source": "https://drive.google.com/thumbnail?id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR&sz=w700",
-        "kind": "file-preview"
-      },
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -252,7 +238,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -260,7 +246,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -273,17 +259,13 @@
         "kind": "file-preview"
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "e-nanu-qbank": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "essentials-of-medical-pharmacology-k-d-tripathi": {
@@ -291,7 +273,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -299,8 +281,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -314,7 +295,7 @@
       },
       "coverOCR": "Essentials of\n\nVeterinary\n\nSurgery ©\n\nEighth Edition\n\nA. VENUGOPALAN",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -323,7 +304,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -331,7 +312,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "ISBN cover: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -340,7 +321,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -354,7 +335,7 @@
       },
       "coverOCR": "2013 AAHA/AAFP Fluid Therapy\n\nGuidelines for Dogs and Ca\n\n™\n\n==\n\na7\n\nN\n\ntT",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -363,7 +344,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -377,7 +358,7 @@
       },
       "coverOCR": "GRACEY’S\n\nMEAT HYGIEN\n\net\n\nVENTH EDITION\n\nQ\n\nea\n\nT het\n\ninf\n\nee\n\nie\n\nSB.\n\na i Time\n\n~S vex\n\nVal\n\npe\n\nae\n\nEr\n\nIf\n\nNt\n\ne\n\nfish",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -386,23 +367,21 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "veterinary-clinician-handbook": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "small-animal-radiology-handbook": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -416,7 +395,7 @@
       },
       "coverOCR": "VT\n\nbs!\n\n~\n\n)WILEY- BLACKWELL\n\nAi Wi\n\nnb",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -424,7 +403,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -433,7 +412,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -447,16 +426,14 @@
       },
       "coverOCR": "LAWRIE’S MEAT SCIENCE\n\nSIXTH EDITION\n\nby\n\nR. A. LAWRIE\n\nPhD., D.Sc, Sc.D., FRS.E., Hon. FIFST., FRSC, FLBiol\n\nEmeritus Professor of Food Science, University of Nottingham,\n\nFormerly Head, Meat Biochemistry Group,\n\nLow Temperature Research Station, Cambridge\n\nWOODHEAD PUBLISHING LIMITE\n\n‘Cambridge England",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "livestock-production-management": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "lumb-jones-veterinary-anesthesia-and-analgesia": {
@@ -469,7 +446,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -483,16 +460,14 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "meat-and-meat-products-technology": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "meat-processing-technology": {
@@ -505,7 +480,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -519,7 +494,7 @@
       },
       "coverOCR": "Metabolic Diseases\n\nin Farm Animals\n\nJACK M PAYNE",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -527,21 +502,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
-      "reviewed": "2026-10-28"
-    },
-    "necropsy-book-john-king": {
-      "cover": {
-        "path": "/assets/books/necropsy-book-john-king.webp",
-        "width": 520,
-        "height": 724,
-        "source": "https://drive.google.com/thumbnail?id=1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz&sz=w700",
-        "kind": "file-preview"
-      },
-      "coverOCR": "THE NECROPSY BOOK\n\nA Guide for Veterinary Students,\n\nResidents, Clinicians, Pathologists,\n\nand Biological Researchers\n\nRevised January 2013\n\nJohn M. King\n\nLois Roth-Johnson\n\nDavid C. Dodd\n\nMarion E. Newsom\n\nPROFESSORIAL POST SCRIPTS\n\nCornell faculty often have manuscripts in various states of comple-\n\ntion when they reach emeritus status. This archival repository is a\n\nplace where these manuscripts, some previously published but out\n\nof print, and some that have not been subjected to peer review, may\n\nbe valuable for their content, but sometimes also for their historical\n\nvalue. This collection is a place for these legacy works to become ac-\n\ncessible online.\n\nCornell University\n\nReleased: October 2014\n\n“This book -hitp//hdL handle ne/1813/37948\n\nProfessorial Post Scripts Collection ~ htp//ecommonsibrary.cornelledwhandle/ 1813137929\n\n“The Internet-First University Press ~ hup/ecommons library cornell eda/handle/1813/62",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -550,16 +511,31 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "outlines-of-dairy-technology": {
-      "cover": null,
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+      "bibliographyVerified": true,
+      "title": "Outlines of Dairy Technology",
+      "authors": "Sukumar De",
+      "publisher": "Oxford University Press",
+      "referencePublishedDate": 2002,
+      "referenceISBNs": [
+        "0195611942",
+        "9780195611946"
       ],
+      "source": "https://openlibrary.org/works/OL9330438W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/outlines-of-dairy-technology.webp",
+        "width": 328,
+        "height": 500,
+        "source": "https://covers.openlibrary.org/b/id/14428234-L.jpg?default=false",
+        "kind": "reference-cover"
+      },
+      "coverOCR": "ere.\n\n2\n\noy\n\nar\n\naw\n\nes of DAIRY",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "pathways-to-pregnancy-and-parturition": {
@@ -567,7 +543,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -575,7 +551,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -589,7 +565,7 @@
       },
       "coverOCR": "third edition\n\n.\n\nPocket\n\na\n\nDiagnostic\n\nTests\n\ncht ah eects\n\n« Includes over 350 tests\n\n» Answers questions on-the-spot\n\nDiana Nicoll\n\nStephen J.McPhee\n\nMichael Pignone\n\nTony M. Chou\n\nWilliam M. Detmer\n\npo\n\ngu",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -597,7 +573,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -611,7 +587,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -620,24 +596,37 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "primary-veterinary-anatomy": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "principles-of-animal-nutrition-and-feed-technology": {
-      "cover": null,
-      "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+      "bibliographyVerified": true,
+      "title": "Principles of Animal Nutrition and Feed Technology",
+      "authors": "D. V. Reddy",
+      "publisher": "CBS Publishers & Distributors",
+      "referencePublishedDate": 2016,
+      "referenceISBNs": [
+        "8120417968",
+        "9788120417960"
       ],
+      "source": "https://openlibrary.org/works/OL26752203W",
+      "scope": "Bibliographic work reference; linked file edition must be checked separately",
+      "cover": {
+        "path": "/assets/books/principles-of-animal-nutrition-and-feed-technology.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "—-\n\nBes\n\nHt\n\nmo\n\na\n\nee\n\nek\n\nBo\n\nage\n\nze\n\n@ &.\n\nae\n\neek\n\na8\n\ngE\n\niu\n\nji\n\nSs\n\nFe",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "principles-of-meat-science-forrest": {
@@ -650,7 +639,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -659,7 +648,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -673,7 +662,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -681,7 +670,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -689,7 +678,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -697,8 +686,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "file-preview: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -712,7 +700,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -726,7 +714,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -735,7 +723,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -749,7 +737,7 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -758,7 +746,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -767,7 +755,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -775,7 +763,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -789,16 +777,14 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
     "text-book-on-animal-genetics-and-breeding": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "textbook-of-animal-husbandry-and-livestock-extension": {
@@ -810,9 +796,7 @@
         "kind": "file-preview"
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "textbook-of-clinical-veterinary-medicine": {
@@ -824,16 +808,14 @@
         "kind": "file-preview"
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "textbook-of-veterinary-anatomy": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "ISBN cover: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -842,7 +824,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -856,15 +838,27 @@
       },
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
+      "reviewed": "2026-10-28"
+    },
+    "necropsy-book-john-king": {
+      "cover": {
+        "path": "/assets/books/necropsy-book-john-king.webp",
+        "width": 520,
+        "height": 724,
+        "source": "https://drive.google.com/thumbnail?id=1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "THE NECROPSY BOOK\n\nA Guide for Veterinary Students,\n\nResidents, Clinicians, Pathologists,\n\nand Biological Researchers\n\nRevised January 2013\n\nJohn M. King\n\nLois Roth-Johnson\n\nDavid C. Dodd\n\nMarion E. Newsom\n\nPROFESSORIAL POST SCRIPTS\n\nCornell faculty often have manuscripts in various states of comple-\n\ntion when they reach emeritus status. This archival repository is a\n\nplace where these manuscripts, some previously published but out\n\nof print, and some that have not been subjected to peer review, may\n\nbe valuable for their content, but sometimes also for their historical\n\nvalue. This collection is a place for these legacy works to become ac-\n\ncessible online.\n\nCornell University\n\nReleased: October 2014\n\n“This book -hitp//hdL handle ne/1813/37948\n\nProfessorial Post Scripts Collection ~ htp//ecommonsibrary.cornelledwhandle/ 1813137929\n\n“The Internet-First University Press ~ hup/ecommons library cornell eda/handle/1813/62",
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "ultimate-vet-handbook": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -872,7 +866,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -880,7 +874,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -888,7 +882,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -897,7 +891,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -905,7 +899,7 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -918,9 +912,7 @@
         "kind": "file-preview"
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-extension-education-grk-sharma": {
@@ -933,7 +925,7 @@
       },
       "coverOCR": "=\n\n~ -—™\n\nee \"SS\n\n~\n\nied\n\n‘ (\n\nv\n\n, ‘",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -946,16 +938,14 @@
         "kind": "file-preview"
       },
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-microbiology-and-microbial-disease": {
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "ISBN cover: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
@@ -969,7 +959,7 @@
       },
       "coverOCR": "Indranil Samanta\n\n- Veterinary\n\nMycology\n\nD Springer",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -978,7 +968,7 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     },
@@ -986,16 +976,14 @@
       "cover": null,
       "coverOCR": "",
       "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "ISBN cover: HTTP Error 404: Not Found"
       ],
       "reviewed": "2026-10-28"
     },
     "veterinary-practice-handbook": {
       "cover": null,
       "coverOCR": "",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-reproduction-and-obstetrics": {
@@ -1007,9 +995,7 @@
         "kind": "file-preview"
       },
       "coverOCR": "Eighth Editior\n\nArthur's\n\nVeterinary |\n\nReproduction\n\nand Obstetrics",
-      "errors": [
-        "Bibliography: HTTP Error 429: Too Many Requests"
-      ],
+      "errors": [],
       "reviewed": "2026-10-28"
     },
     "veterinary-surgery-and-radiology-by-s-k-nandi": {
@@ -1017,14 +1003,14 @@
       "coverOCR": "",
       "errors": [
         "file-preview: HTTP Error 404: Not Found",
-        "Bibliography: HTTP Error 429: Too Many Requests"
+        "Bibliography: HTTP Error 500: Internal Server Error"
       ],
       "reviewed": "2026-10-28"
     }
   },
   "stats": {
-    "works": 96,
-    "covers": 38,
-    "bibliography": 0
+    "works": 95,
+    "covers": 39,
+    "bibliography": 3
   }
 }
