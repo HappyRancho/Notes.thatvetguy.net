@@ -6,11 +6,13 @@
 
 Your 3rd Year course outline, one topic at a time. Tick what you have covered and pick up where you left off.
 
-0 of 105 topics checked0%
+0 of 104 topics checked0%
 
 Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
+
+[Theory](#theory)[Practical](#practical)
 
 ## Theory
 
@@ -134,13 +136,12 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 ### Unit 1Extension Fieldwork and Communication
 
-0 / 17
+0 / 16
 
 - [ ] Tools of data collection: Preparation of instrument for conducting social survey
 - [ ] Visit to nearby village: Conducting social survey for assessment of farming system and constraints
 - [ ] Data analysis and reporting
-- [ ] Organizing demonstration for farmers
-- [ ] identification of key communicators by Socio-metric method
+- [ ] Organizing demonstration for farmers, identification of key communicators by Socio-metric method
 - [ ] Familiarization with audio-visual aids
 - [ ] Principle and use of projectors
 - [ ] Preparation of Radio Script Preparation of Television script
@@ -178,9 +179,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=9)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=36)
 
 Checked 2026-10-28.
 

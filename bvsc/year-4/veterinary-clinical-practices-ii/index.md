@@ -15,7 +15,7 @@ Veterinary Clinical Practices II focuses on integrating supervised clinical lear
 0 notes
 
 Topic-wise Notes0 notesComing soon
-Unit-wise NotesTANUVAS · 0 collectionsComing soon[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/)
+Unit-wise NotesTANUVAS · 0 collectionsComing soon[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -51,17 +51,6 @@ Try a shorter title or another collection.
 No book listed for this subject yet.
 
 [Request a book ](https://notes.thatvetguy.net/request-resource/)
-
-Course focus & study tips 
-
-Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
-
-- Clinical examination and diagnostic planning
-- Medical and surgical case discussions
-- Reproductive case assessment
-- Hospital records and clinical communication
-
-Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 

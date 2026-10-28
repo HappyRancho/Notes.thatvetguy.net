@@ -13,7 +13,7 @@ Veterinary Microbiology focuses on distinguishing infectious agents and the host
 ## Notes
 
 67 notes
-[Topic-wise Notes63 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/)
+[Topic-wise Notes63 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -259,28 +259,17 @@ Try a shorter title or another collection.
 
 5 books
 
-[Source previewAnanthanarayan and Paniker’s Textbook of MicrobiologyC. K. J. Paniker (editor)View book](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
+[Ananthanarayan and Paniker’s Textbook of Microbiology](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
 
-[Cover unavailableFenner’s Veterinary Virology 5th editionView book](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
+[Fenner’s Veterinary Virology 5th edition](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
 
-[Cover unavailablePrescott’s MicrobiologyView book](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
+[Prescott’s Microbiology](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
 
-[Reference coverVeterinary Microbiology and Microbial DiseaseP. J. Quinn et al.Reading guide](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/)
+[Veterinary Microbiology and Microbial Disease](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/)
 
-[Source previewVeterinary MycologyIndranil SamantaView book](https://notes.thatvetguy.net/books/veterinary-mycology/)
+[Veterinary Mycology](https://notes.thatvetguy.net/books/veterinary-mycology/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
-
-- Bacteriology and mycology
-- Veterinary virology
-- Immunology
-- Microbial genetics and biotechnology
-
-Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 

@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1Veterinary Public Health And Food Safety
@@ -72,7 +74,7 @@ Show 4 more topics
 - [ ] Strategies of disease management: prevention, control and biosecurity.
 - [ ] Economics of animal diseases.
 - [ ] National and international regulations on livestock diseases.
-- [ ] Role of OIE and laws on international trade of animals and animal products.
+- [ ] Role of OJE and laws on international trade of animals and animal products.
 
 ### Unit 3Zoonotic Diseases
 
@@ -84,7 +86,7 @@ Show 4 more topics
 - [ ] Emerging, re-emerging and occupational zoonoses.
 - [ ] Role of domestic, wild, pet and laboratory animals and birds in transmission of zoonoses.
 - [ ] Zoonotic pathogens as agents of bioterrorism.
-- [ ] Epidemiology, clinical manifestations and management of the following zoonoses: Rabies, Japanese encephalitis, influenza, Kyasanur forest disease, Crimean Congo haemorrhagic fever, Nipah encephalitis, Ebola virus infection, anthrax, brucellosis, tuberculosis, leptospirosis, listeriosis, plague, glanders, Q fever, rickettsiosis, chlamydiosis, taeniasis, cysticercosis, hydatidosis, larva migrans, diphyllobothriasis, trichinellosis, toxoplasmosis, fasciolosis, paragonimiasis, sarcocystosis, cryptosporidiosis, amoebiasis, giardiasis, leishmaniasis, superficial and systemic mycosis and prion diseases.
+- [ ] Epidemiology, clinical manifestations and management of the following zoonoses: Rabies, Japanese encephalitis, influenza, Kyasanur forest disease, Crimean Congo haemorrhagic fever, Nipah encephalitis, Ebola virus infection, anthrax, brucellosis, tuberculosis, leptospirosis, listeriosis, plague, glanders, Q fever, rickettsiosis. chlamydiosis, taeniasis, cysticercosis, hydatidosis, larva migrans, diphyllobothriasis, trichinellosis, toxoplasmosis, fasciolosis, paragonimiasis, sarcocystosis, cryptosporidiosis, amoebiasis, giardiasis, leishmaniasis, superficial and systemic mycosis and prion diseases.
 - [ ] Foodborne bacterial zoonoses: salmonellosis, E. coli infection, staphylococcal gastroenteritis, clostridial food poisoning, campylobacteriosis etc.
 
 ### Unit 4Environmental Hygiene
@@ -100,13 +102,13 @@ Show 4 more topics
 - [ ] Rural and urban pollution.
 - [ ] Air pollution, sources and hazard.
 - [ ] Air pollution in animal houses, effect on health and productivity.
-- [ ] Airborne diseases – Classification, health hazard, prevention and control.
+- [ ] Airborne diseases — Classification, health hazard, prevention and control.
 - [ ] Water-Sources, contamination & their prevention.
 - [ ] Water qualities- Physical, chemical, bacteriological and radiological.
 - [ ] Water purification methods for community water supplies.
-- [ ] Waterborne diseases – Classification, health hazard, prevention and control.
+- [ ] Waterborne diseases — Classification, health hazard, prevention and control.
 - [ ] Soil, marine and thermal pollution- Classification, sources, hazard, prevention and control.
-- [ ] Noise pollution – Sources, hazards, prevention and control.
+- [ ] Noise pollution — Sources, hazards, prevention and control.
 - [ ] Nuclear hazardsor radiological hazard-Types, hazards and radiation protection.
 - [ ] National rules and legislations related to environmental pollution and role of pollution control board in India.
 - [ ] Biosafety: Importance, classification and biosafety measures for prevention of risk hazards.
@@ -167,17 +169,17 @@ Show 4 more topics
 - [ ] Estimation of residual chlorine and chlorine demand.
 - [ ] Isolation & identification of pathogens from air, water and other environmental sources.
 - [ ] Disinfection of animal houses.
-- [ ] Determination of efficacy of disinfectants – Phenol coefficient, MIC and MBC.
+- [ ] Determination of efficacy of disinfectants - Phenol coefficient, MIC and MBC.
 - [ ] Demonstrationorvisit to water purification system.
 - [ ] Demonstration of various ventilation systems in animal houses and specialized laboratories.
 - [ ] Demonstration of toxic residues in water and other environmental sources.
-- [ ] Visit to local polluted site and documentation of local environmental problems – like dumping grounds, local slum areas, crowded localities etc.
+- [ ] Visit to local polluted site and documentation of local environmental problems — like dumping grounds, local slum areas, crowded localities etc.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=3)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=30)
 
 Checked 2026-10-28.
 

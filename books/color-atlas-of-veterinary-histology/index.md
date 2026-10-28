@@ -2,11 +2,28 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)/[Books](https://notes.thatvetguy.net/books/)/Color Atlas of Veterinary Histology
 
+Reference cover; the linked edition may differ.
+Book · Veterinary Anatomy
+
 # Color Atlas of Veterinary Histology
 
-A book for Veterinary Anatomy study. Open the linked Google Drive copy below.
+Linda M. Bacha
 
-Reference cover; the linked edition may differ.
+[Open in Google Drive](https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view)
+
+View or download this copy in Google Drive. Check its title page and edition before use.
+
+## About this book
+
+Color Atlas of Veterinary Histology is listed in the Veterinary Anatomy Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+
+## A study note
+
+Use this alongside veterinary anatomy lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
+
+Rx Notes reading guidance
+
+Book details, edition & credits 
 
 - Authors / editors: Linda M. Bacha
 
@@ -22,41 +39,16 @@ Reference cover; the linked edition may differ.
 
 - Bibliographic year: 2012 · linked edition may differ
 
-[Open in Google Drive](https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view)
+Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
 
-View or download this copy in Google Drive. Check its title page and edition before use.
-
-## About this book
-
-Color Atlas of Veterinary Histology is listed in the Veterinary Anatomy Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
-
-## Connect it with your syllabus
-
-Use your university’s outline to choose the relevant reading. These are related syllabus themes, not a claim about this copy’s chapter list.
-
-- Osteology and arthrology
-- Myology and visceral anatomy
-- Neuroanatomy and sense organs
-- Histology and embryology[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
-
-Edition, source & credits 
-
-Credit remains with the original authors and publishers. Bibliographic details and reference covers may describe a different edition from the linked copy. Check the title page before citing it.
-
-Collection: Vetverse. File label:
+Collection: Vetverse. Original file label:
 
 - Color Atlas of Veterinary Histology.pdf
-
-Bibliographic reference checked against Open Library. Publication and edition details must be confirmed against the copy you use.
 
 Last source check: 2026-10-28.
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Color%20Atlas%20of%20Veterinary%20Histology#report)
 
-## Related reading
-
-- [Colour Atlas of Veterinary Anatomy - The Ruminants](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
-- [Primary Veterinary Anatomy](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
-- [Textbook of Veterinary Anatomy](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
+[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

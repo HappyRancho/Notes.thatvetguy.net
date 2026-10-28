@@ -32808,7 +32808,120 @@
       "Practical Vault"
     ],
     "new": false,
-    "completeFolderListing": true
+    "completeFolderListing": true,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+    "name": "Charts",
+    "title": "Livestock Production Management — Charts",
+    "year": 1,
+    "subject": "Livestock Production Management",
+    "kind": "practical",
+    "group": "Charts",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+    "variants": [
+      {
+        "id": "1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+        "name": "Charts",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/livestock-production-management/practicals/",
+    "permalink": "/bvsc/year-1/livestock-production-management/practicals/#folder-1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Charts",
+    "path": "LPM/Practicals/Charts",
+    "folderId": "1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+    "practicalRoot": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "subjectSlug": "livestock-production-management",
+    "description": "Open the original charts folder.",
+    "keywords": [
+      "Livestock Production Management",
+      "Charts",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1zoUMwmJoEhtJRvS97QWJ7AEHaMAhbZTK",
+      "1fqLZSVggD_bZ5MV2nbO7spwhKKqiRcaz",
+      "1xXbK-RU6K0kxaPKOaIPtLiBA4YnR-NA7",
+      "1jKGJVTZkfk1Zn0ef6YJLFrSVFJ9nsaGd",
+      "13MT9Hy3M6_nDVmmgWegubhRUUbdG1Wb1",
+      "1DGHXOFrT75UEkSI5W7CCQ88Al7sNcQkx",
+      "15kk8N07EE6XV-W-9BTyPv4QIDqUHZx1P",
+      "1DAcZ2Fc-AgVkdh9v7ZaS67WzTwFO4vqV",
+      "10KxOTk7pIM7poxl9A633Jp2Eh6dXm9qG",
+      "13UQbeAFxgMRIjKyKHB3AJDNQUaV9XcX3",
+      "1wm1Zru3_J8JhORSWk3LdnWrNDLYxsMYV",
+      "1oGcMd3SJHfPiD_sDasFNNks8sxspvvZK",
+      "1g1SqfacYdHUQ_vdyp4RcuDX8pg7R7Zww",
+      "1DHcjR7vXYlSix34IAaKwfaRWxWfgP2lh",
+      "1XxWYkUQSJpmtmdd84dWN0guw1RpvUb5o",
+      "1OefnthKtouOCCAlTFPBRIIiHNsIcBrLR",
+      "14YDSYCivCRr46qUJ6qdtvYRvvJz4GLq6",
+      "1_6ByR9xvSHh2jBtg3Nf5KERWfLd0-4EI",
+      "1dNtrhNt3D2IX9INVL4kVlxOCDvM-qpoj",
+      "1X2XU8U0ZOBvr6JPO9bEA_mRjjyGpxc-0",
+      "15lGJzKLXuwn1Y58FplQ6DPQ8IRVV6eH_",
+      "1AarhEhralU0DpQ6hz9rIGDHKmQGiC9Ba",
+      "14pVT3D_t9Q-4wAhfOhJ5fGE3MdORLSIB",
+      "1hoYFELmudJlUIHCT9pn2eOpclr_5qHqO",
+      "1t_OVlX8WCn9bqQFO7TQxaw5kiTjDXX-4",
+      "1AFNwwAmJRNpo-iDr4fshv6aWwSfgCgYf",
+      "1GaQhTLGfcojUvp5zhADLFDH8iBu82ASu"
+    ],
+    "searchFileIds": [
+      "1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT",
+      "1zoUMwmJoEhtJRvS97QWJ7AEHaMAhbZTK",
+      "1fqLZSVggD_bZ5MV2nbO7spwhKKqiRcaz",
+      "1xXbK-RU6K0kxaPKOaIPtLiBA4YnR-NA7",
+      "1jKGJVTZkfk1Zn0ef6YJLFrSVFJ9nsaGd",
+      "13MT9Hy3M6_nDVmmgWegubhRUUbdG1Wb1",
+      "1DGHXOFrT75UEkSI5W7CCQ88Al7sNcQkx",
+      "15kk8N07EE6XV-W-9BTyPv4QIDqUHZx1P",
+      "1DAcZ2Fc-AgVkdh9v7ZaS67WzTwFO4vqV",
+      "10KxOTk7pIM7poxl9A633Jp2Eh6dXm9qG",
+      "13UQbeAFxgMRIjKyKHB3AJDNQUaV9XcX3",
+      "1wm1Zru3_J8JhORSWk3LdnWrNDLYxsMYV",
+      "1oGcMd3SJHfPiD_sDasFNNks8sxspvvZK",
+      "1g1SqfacYdHUQ_vdyp4RcuDX8pg7R7Zww",
+      "1DHcjR7vXYlSix34IAaKwfaRWxWfgP2lh",
+      "1XxWYkUQSJpmtmdd84dWN0guw1RpvUb5o",
+      "1OefnthKtouOCCAlTFPBRIIiHNsIcBrLR",
+      "14YDSYCivCRr46qUJ6qdtvYRvvJz4GLq6",
+      "1_6ByR9xvSHh2jBtg3Nf5KERWfLd0-4EI",
+      "1dNtrhNt3D2IX9INVL4kVlxOCDvM-qpoj",
+      "1X2XU8U0ZOBvr6JPO9bEA_mRjjyGpxc-0",
+      "15lGJzKLXuwn1Y58FplQ6DPQ8IRVV6eH_",
+      "1AarhEhralU0DpQ6hz9rIGDHKmQGiC9Ba",
+      "14pVT3D_t9Q-4wAhfOhJ5fGE3MdORLSIB",
+      "1hoYFELmudJlUIHCT9pn2eOpclr_5qHqO",
+      "1t_OVlX8WCn9bqQFO7TQxaw5kiTjDXX-4",
+      "1AFNwwAmJRNpo-iDr4fshv6aWwSfgCgYf",
+      "1GaQhTLGfcojUvp5zhADLFDH8iBu82ASu",
+      "practical-photos-1yH-xmFLG23qrZKLDHihUxYXSMlgiy3FT"
+    ]
   },
   {
     "id": "practical-1Hz79xdglh6xLBrcXB8L7_-1CNDL1sOMd",
@@ -32870,7 +32983,8 @@
       "Kennel Club of India",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1D5drVPScI-GK8pD-WO9CinPFZ6i5AsRC",
@@ -32932,7 +33046,8 @@
       "Kennel Club of India",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1zKteoWiHsSMINU3ank6aIHOy-5zO9-G9",
@@ -32994,7 +33109,8 @@
       "Kennel Club of India",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-10BH91OPjO7HhdDQfL5uyRsR9Ix49mKra",
@@ -33056,7 +33172,83 @@
       "Kennel Club of India",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+    "name": "Kennel Club of India",
+    "title": "Livestock Production Management — Kennel Club of India",
+    "year": 1,
+    "subject": "Livestock Production Management",
+    "kind": "practical",
+    "group": "Kennel Club of India",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+    "variants": [
+      {
+        "id": "126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+        "name": "Kennel Club of India",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/livestock-production-management/practicals/",
+    "permalink": "/bvsc/year-1/livestock-production-management/practicals/#folder-126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Kennel Club of India",
+    "path": "LPM/Practicals/Kennel Club of India",
+    "folderId": "126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+    "practicalRoot": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "subjectSlug": "livestock-production-management",
+    "description": "Open the original kennel club of india folder.",
+    "keywords": [
+      "Livestock Production Management",
+      "Kennel Club of India",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1Hz79xdglh6xLBrcXB8L7_-1CNDL1sOMd",
+      "1D5drVPScI-GK8pD-WO9CinPFZ6i5AsRC",
+      "1zKteoWiHsSMINU3ank6aIHOy-5zO9-G9",
+      "10BH91OPjO7HhdDQfL5uyRsR9Ix49mKra",
+      "1UMLrTjcy1ETuPKZ0iuV8cG69pB6qBbhh",
+      "1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp"
+    ],
+    "searchFileIds": [
+      "126gIGm-bCF1dGH3xnhHxMgGVsxbQLEK8",
+      "1Hz79xdglh6xLBrcXB8L7_-1CNDL1sOMd",
+      "1D5drVPScI-GK8pD-WO9CinPFZ6i5AsRC",
+      "1zKteoWiHsSMINU3ank6aIHOy-5zO9-G9",
+      "10BH91OPjO7HhdDQfL5uyRsR9Ix49mKra",
+      "1UMLrTjcy1ETuPKZ0iuV8cG69pB6qBbhh",
+      "1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp",
+      "practical-1Hz79xdglh6xLBrcXB8L7_-1CNDL1sOMd",
+      "practical-1D5drVPScI-GK8pD-WO9CinPFZ6i5AsRC",
+      "practical-1zKteoWiHsSMINU3ank6aIHOy-5zO9-G9",
+      "practical-10BH91OPjO7HhdDQfL5uyRsR9Ix49mKra",
+      "practical-1UMLrTjcy1ETuPKZ0iuV8cG69pB6qBbhh",
+      "practical-1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp"
+    ]
   },
   {
     "id": "practical-1UMLrTjcy1ETuPKZ0iuV8cG69pB6qBbhh",
@@ -33118,7 +33310,8 @@
       "Kennel Club of India",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1X9qA5kDW_pYuH7yBSOu12_bEcVOUL4Bp",
@@ -33180,7 +33373,166 @@
       "Kennel Club of India",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+    "name": "Photos",
+    "title": "Livestock Production Management — Photos",
+    "year": 1,
+    "subject": "Livestock Production Management",
+    "kind": "practical",
+    "group": "Photos",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+    "variants": [
+      {
+        "id": "1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+        "name": "Photos",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/livestock-production-management/practicals/",
+    "permalink": "/bvsc/year-1/livestock-production-management/practicals/#folder-1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Photos",
+    "path": "LPM/Practicals/Spotters/Photos",
+    "folderId": "1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+    "practicalRoot": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "subjectSlug": "livestock-production-management",
+    "description": "Open the original photos folder.",
+    "keywords": [
+      "Livestock Production Management",
+      "Photos",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "12UOQ_14R9kxj75pOiNalpDKfqMztYdXb",
+      "1OazAuI_pHxfJ7c8P88z5CEhRSrd3p8yV",
+      "1DesSpNIhjt6QL4_xFdvNudc9RzSAsTMD",
+      "1kQvJTeArZb2delN0SZ6bNfBvJ-5Bg-7e",
+      "1INWcOgLCakPh8az-VZ71LOgHj7ncUXWw",
+      "1zOyrVUsgmA7w00g2YacSQGaBqRTbwcRH",
+      "1M1xhaegxwA850IusZwQUqIjxfmEtaybk",
+      "1yf_mGdff_EWN8DE5voKBiAE4U6kzgqSH",
+      "1Gg10_Fa4US-RW6GWEF1C2Uo9Q78zT3Pe",
+      "1aqxxYolWRF0eeAFVOVn3BxpW47ZHzI0C",
+      "1y9Cje87UKuTtY-ZFhsp_c12hkfKisHh_",
+      "1g9aD7FTcNbd7_in6JCmo3i5S0kTYwVEK",
+      "1omP8I3BGdoZ86AYFEXVKhyQ_RPP9GT71",
+      "1oAlRJyiocefCoQL3FhRwQqAh5SD1GaQP",
+      "1OZgYfGMk4srd3bbCV9A_2sWT6ECyrrYQ",
+      "1nS1ABXDb64KRnkkE2p5nGUJOccOm5srB",
+      "1hXcw9z1FJbZ8rmCX8cotdpRbj46H9gN6",
+      "1HvMKpFnVkimGxVQ7qW6rGZ5n9y4bp9A7",
+      "1oUnNxVwoH54gr64WZy4wEgjsgQF9l9Ls",
+      "1rbvYR4FsY5-GKlGgCHl-6Qdvwmu5hy3L",
+      "1YmcMb-XktXN318kfo3OmDg7gx86IEEbe",
+      "1etTpSMsyGS4u76t4s7IBeXT8m3tkL7lE",
+      "1PSAxa069UZXM5GqP9nIsmYpGzAT_0q-r",
+      "1nsQRp7A0y6AxRac5qeJvqTwkSmSSYOf0",
+      "1h0q-o-Yb2PmLeLpHKXHmYFU4u96Xnfla",
+      "1plmmdOefz3gXKQzgva2zTEa1WdjWz3O5",
+      "1E5EBFsIGgcCNSwLnwEbLS8Yz1pARS3w1",
+      "1zqDIzi-SgiwbW7V_w2De8z7h6UhDWcBm",
+      "1T_t4DgOirCawPAwJuyuBtgtGL9BXjigW",
+      "17SsXFkAD9EIvCBQfD5L7Zw2c6m0dbQJE",
+      "1UWG16fnF2MSAkiqv1x9uy1ZY04AW8QZh",
+      "1IzJM70mhWxXP4kMFy7niKAqRQ2ulvjw5",
+      "1JKbAzfP9ZM8OEHVxj8SZ5DKDdS8iiwDL",
+      "1QiOomkX4vwIEOYQETQT_1BK_-v9ED1uM",
+      "1mr9Rjow5SGILV4wc5XicZn_vGz-wFbAV",
+      "1AdFZgCVQdbD6UwD0j14SLyXVqRPTPGLX",
+      "1acLKKxg-9l88s57JUxWH6KherGJ8T4t7",
+      "16W5c0QZOTEHbQkHuv1Bz5JJqCf3pWDsO",
+      "1B9lddSB1cJaarqdGb2QzWSVyt12rcsdW",
+      "1LC9eDlM52w9NI2rppTjDAo-qnYlMF2d8",
+      "19Duykcv7yj5A7U7A4jH9loAF1DiKXpK-",
+      "1a7YWSn_LEhLjPS8Pr_rueqmOWQjk9mOn",
+      "1r8ruzWiopW39u31O86_WW-9BXy3mHnNv",
+      "1xcbKQev7BlVvhtBQGnQi0gzD5_LZBST4",
+      "1G74O3Oq64XgymqJwNhDINfncHa8vPrvf",
+      "12nq-LO1fcCS_ZFAp5-Chgsijd2PJDKxH",
+      "1Zo8b3uj1U9QTVw5F020NR5NgCa8BVwQy",
+      "1dKGI2WX3OxxQ_kEgPEwTy3snBe7SHoy_",
+      "1wbbKF28gdikAKewOX33NrZUmi6K46uBr",
+      "1xqCLCOf1WJXwPLybM0edY1dsgac-YIxu"
+    ],
+    "searchFileIds": [
+      "1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
+      "12UOQ_14R9kxj75pOiNalpDKfqMztYdXb",
+      "1OazAuI_pHxfJ7c8P88z5CEhRSrd3p8yV",
+      "1DesSpNIhjt6QL4_xFdvNudc9RzSAsTMD",
+      "1kQvJTeArZb2delN0SZ6bNfBvJ-5Bg-7e",
+      "1INWcOgLCakPh8az-VZ71LOgHj7ncUXWw",
+      "1zOyrVUsgmA7w00g2YacSQGaBqRTbwcRH",
+      "1M1xhaegxwA850IusZwQUqIjxfmEtaybk",
+      "1yf_mGdff_EWN8DE5voKBiAE4U6kzgqSH",
+      "1Gg10_Fa4US-RW6GWEF1C2Uo9Q78zT3Pe",
+      "1aqxxYolWRF0eeAFVOVn3BxpW47ZHzI0C",
+      "1y9Cje87UKuTtY-ZFhsp_c12hkfKisHh_",
+      "1g9aD7FTcNbd7_in6JCmo3i5S0kTYwVEK",
+      "1omP8I3BGdoZ86AYFEXVKhyQ_RPP9GT71",
+      "1oAlRJyiocefCoQL3FhRwQqAh5SD1GaQP",
+      "1OZgYfGMk4srd3bbCV9A_2sWT6ECyrrYQ",
+      "1nS1ABXDb64KRnkkE2p5nGUJOccOm5srB",
+      "1hXcw9z1FJbZ8rmCX8cotdpRbj46H9gN6",
+      "1HvMKpFnVkimGxVQ7qW6rGZ5n9y4bp9A7",
+      "1oUnNxVwoH54gr64WZy4wEgjsgQF9l9Ls",
+      "1rbvYR4FsY5-GKlGgCHl-6Qdvwmu5hy3L",
+      "1YmcMb-XktXN318kfo3OmDg7gx86IEEbe",
+      "1etTpSMsyGS4u76t4s7IBeXT8m3tkL7lE",
+      "1PSAxa069UZXM5GqP9nIsmYpGzAT_0q-r",
+      "1nsQRp7A0y6AxRac5qeJvqTwkSmSSYOf0",
+      "1h0q-o-Yb2PmLeLpHKXHmYFU4u96Xnfla",
+      "1plmmdOefz3gXKQzgva2zTEa1WdjWz3O5",
+      "1E5EBFsIGgcCNSwLnwEbLS8Yz1pARS3w1",
+      "1zqDIzi-SgiwbW7V_w2De8z7h6UhDWcBm",
+      "1T_t4DgOirCawPAwJuyuBtgtGL9BXjigW",
+      "17SsXFkAD9EIvCBQfD5L7Zw2c6m0dbQJE",
+      "1UWG16fnF2MSAkiqv1x9uy1ZY04AW8QZh",
+      "1IzJM70mhWxXP4kMFy7niKAqRQ2ulvjw5",
+      "1JKbAzfP9ZM8OEHVxj8SZ5DKDdS8iiwDL",
+      "1QiOomkX4vwIEOYQETQT_1BK_-v9ED1uM",
+      "1mr9Rjow5SGILV4wc5XicZn_vGz-wFbAV",
+      "1AdFZgCVQdbD6UwD0j14SLyXVqRPTPGLX",
+      "1acLKKxg-9l88s57JUxWH6KherGJ8T4t7",
+      "16W5c0QZOTEHbQkHuv1Bz5JJqCf3pWDsO",
+      "1B9lddSB1cJaarqdGb2QzWSVyt12rcsdW",
+      "1LC9eDlM52w9NI2rppTjDAo-qnYlMF2d8",
+      "19Duykcv7yj5A7U7A4jH9loAF1DiKXpK-",
+      "1a7YWSn_LEhLjPS8Pr_rueqmOWQjk9mOn",
+      "1r8ruzWiopW39u31O86_WW-9BXy3mHnNv",
+      "1xcbKQev7BlVvhtBQGnQi0gzD5_LZBST4",
+      "1G74O3Oq64XgymqJwNhDINfncHa8vPrvf",
+      "12nq-LO1fcCS_ZFAp5-Chgsijd2PJDKxH",
+      "1Zo8b3uj1U9QTVw5F020NR5NgCa8BVwQy",
+      "1dKGI2WX3OxxQ_kEgPEwTy3snBe7SHoy_",
+      "1wbbKF28gdikAKewOX33NrZUmi6K46uBr",
+      "1xqCLCOf1WJXwPLybM0edY1dsgac-YIxu",
+      "practical-photos-1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3"
+    ]
   },
   {
     "id": "practical-photos-1rieaWbjNvbaqRtszeu7CV8tLviFl3FC3",
@@ -33284,7 +33636,8 @@
       "Practical Vault"
     ],
     "new": false,
-    "completeFolderListing": false
+    "completeFolderListing": false,
+    "public": false
   },
   {
     "id": "practical-1MSPMGN4LugkFMu4LT2e7CjSn-xHYTbYO",
@@ -33346,7 +33699,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK",
@@ -33408,7 +33762,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1sRyx66LyHMn_LjbM4tbflEgu0YMGvVAj",
@@ -33470,7 +33825,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-15kuYYf5PR5_1ibcbDksimAX0q9Er0sG1",
@@ -33532,7 +33888,80 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "name": "Practicals",
+    "title": "Livestock Production Management — Practical Files",
+    "year": 1,
+    "subject": "Livestock Production Management",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "variants": [
+      {
+        "id": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/livestock-production-management/practicals/",
+    "permalink": "/bvsc/year-1/livestock-production-management/practicals/#folder-1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "LPM/Practicals",
+    "folderId": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "practicalRoot": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "subjectSlug": "livestock-production-management",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Livestock Production Management",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1MSPMGN4LugkFMu4LT2e7CjSn-xHYTbYO",
+      "1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK",
+      "1sRyx66LyHMn_LjbM4tbflEgu0YMGvVAj",
+      "15kuYYf5PR5_1ibcbDksimAX0q9Er0sG1",
+      "1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s"
+    ],
+    "searchFileIds": [
+      "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+      "1MSPMGN4LugkFMu4LT2e7CjSn-xHYTbYO",
+      "1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK",
+      "1sRyx66LyHMn_LjbM4tbflEgu0YMGvVAj",
+      "15kuYYf5PR5_1ibcbDksimAX0q9Er0sG1",
+      "1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s",
+      "practical-1MSPMGN4LugkFMu4LT2e7CjSn-xHYTbYO",
+      "practical-1eOsRlj4ztvO2PeSAnwLcvi2Pnhdtn9AK",
+      "practical-1sRyx66LyHMn_LjbM4tbflEgu0YMGvVAj",
+      "practical-15kuYYf5PR5_1ibcbDksimAX0q9Er0sG1",
+      "practical-1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s"
+    ]
   },
   {
     "id": "practical-1ZhteG-R5d4n_LnakyaM2HbmgRXJvKc9s",
@@ -33594,7 +34023,74 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+    "name": "Spotters",
+    "title": "Livestock Production Management — Spotters",
+    "year": 1,
+    "subject": "Livestock Production Management",
+    "kind": "practical",
+    "group": "Spotters",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+    "variants": [
+      {
+        "id": "1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+        "name": "Spotters",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/livestock-production-management/practicals/",
+    "permalink": "/bvsc/year-1/livestock-production-management/practicals/#folder-1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Spotters",
+    "path": "LPM/Practicals/Spotters",
+    "folderId": "1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+    "practicalRoot": "1vzjmx9qc7jyCdqt4aTGKpbC87h3IA_y-",
+    "subjectSlug": "livestock-production-management",
+    "description": "Open the original spotters folder.",
+    "keywords": [
+      "Livestock Production Management",
+      "Spotters",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1cd9600R5uStFnoDhxUVn8AmUHzYw7Laa",
+      "1Bm20zBTyrgE3N8IRuNmALJzaGe7X3m2b",
+      "1LMSPhC22pXCrAYD3uitAT3SuiyU_rHcj"
+    ],
+    "searchFileIds": [
+      "1ArUeOPF5DFTdDGLBDYH62slx3u69xkCQ",
+      "1cd9600R5uStFnoDhxUVn8AmUHzYw7Laa",
+      "1Bm20zBTyrgE3N8IRuNmALJzaGe7X3m2b",
+      "1LMSPhC22pXCrAYD3uitAT3SuiyU_rHcj",
+      "practical-1cd9600R5uStFnoDhxUVn8AmUHzYw7Laa",
+      "practical-1Bm20zBTyrgE3N8IRuNmALJzaGe7X3m2b",
+      "practical-1LMSPhC22pXCrAYD3uitAT3SuiyU_rHcj"
+    ]
   },
   {
     "id": "practical-1cd9600R5uStFnoDhxUVn8AmUHzYw7Laa",
@@ -33656,7 +34152,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1Bm20zBTyrgE3N8IRuNmALJzaGe7X3m2b",
@@ -33718,7 +34215,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1LMSPhC22pXCrAYD3uitAT3SuiyU_rHcj",
@@ -33780,7 +34278,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-photos-1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
@@ -33884,7 +34383,166 @@
       "Practical Vault"
     ],
     "new": false,
-    "completeFolderListing": false
+    "completeFolderListing": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+    "name": "Histology Photos",
+    "title": "Veterinary Anatomy — Histology Photos",
+    "year": 1,
+    "subject": "Veterinary Anatomy",
+    "kind": "practical",
+    "group": "Histology Photos",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+    "variants": [
+      {
+        "id": "1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+        "name": "Histology Photos",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/veterinary-anatomy/practicals/",
+    "permalink": "/bvsc/year-1/veterinary-anatomy/practicals/#folder-1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Histology Photos",
+    "path": "Anatomy/Practicals/Spotters/Histology Photos",
+    "folderId": "1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+    "practicalRoot": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "subjectSlug": "veterinary-anatomy",
+    "description": "Open the original histology photos folder.",
+    "keywords": [
+      "Veterinary Anatomy",
+      "Histology Photos",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1MHS2CtNRVe9kBpT4ZTX1x4hVhMnLdnHb",
+      "1Dvo4OA8NoQsAMs92SpqYiukVUpBh1vK9",
+      "1X-nodp2gwXHXC7P03vEc2KCHHU3QnS2W",
+      "16VbX4B3snXaT8gmi5vcryzd6jFOJTsQa",
+      "12FLAtlM9GfBPz2NmBDQM-6wJ8GtRY3E8",
+      "1dtJU1-2a0PO0TMQEv1r18Hr4Dt4yKH1a",
+      "1uc0t25Tdx9Ma1682TpStrd3EwEPmgMcZ",
+      "1MFba3zqzDxbX_hYT8CXUWzfI1tZTthHy",
+      "1Yn6h43KGNv6exbRTIPm3YS25iR_RAgkL",
+      "1_uu-hoPfnbPUbu2KSlI7TUPkiMrfRFjz",
+      "1kHIzJMlM__0QP5cAnitYF-gjPq3xSGj6",
+      "1eTZidHGrK1rhlZOflBoSffdhKNSyyfho",
+      "1ZO_WbrG-95qEoosZof2O29Ua4FBrYs-O",
+      "1zMoMCpYCVL_ajsq3VpfN6dyqLkbWp9ao",
+      "1ubwv1E7F6ynAy5nVNshkFPuD9ALjUTLU",
+      "1aTunIxK6l3sx4CVssIvK8pwsZyqm0IVt",
+      "1vL93_x-3H7wk414F5oz2SK2tAe_3x1tE",
+      "1eMeMI_PtSLfACrjyZwArvpd7J6Im_Giz",
+      "14pGCKj0TnWqY8a7EWdtmZqbKbBVMwmW6",
+      "1Ar8yTn70SZ1BtDzGScw9heiuyOpba0p3",
+      "12d3sk2nvTOMKlzCtCDlTydC9ReW-xPJp",
+      "1U3kWKAIKAujuKxk9BJixJO6bOaHViuGD",
+      "1_rCJrQrjtADDvk6NGhdGVCjHRBGIkzNh",
+      "1BOXhqMenQYJ0WPnPP8gLHA7FxZuc56oC",
+      "12SK338OGGI8Tl8y_KyEz2c27QzVvJJYo",
+      "1b7fQ6NEdUlqkJKlV-hLN2SHw0vI0Vy0T",
+      "173vuMvp0h_Q7zgPJpKH7qHJu8mnc9wlv",
+      "12YT_mdoi-MckcWr8nxLtpbLmtmMONMWD",
+      "1tu1MFBPXm32gzCuJfdax26BK5KQeAqAH",
+      "1cXNggN5qPtJewva6kj6bBJTndJ2_F2go",
+      "1N6S_JfFHXGogsGIRyFi6ulSgVwVJVMUK",
+      "1szTLfBCkl2XYXfsqpCaJnOajs-Nny83_",
+      "1yBFvern3GljI7HiYAARbQ1gPVZYYi45a",
+      "1ajBnH1qviF1UB1oMZa7mYcuowVayhj0B",
+      "1ch3bcLpn471BYTNskndsIIgIHRv9I0Jq",
+      "1FEa7UTWTO88Hpj_zD7PACnlwU86TfcmA",
+      "1kIvNvjwr9PGpKXnokB25xXqrvAvuDhzu",
+      "1pjeqs5TMxxQTkH0b2M5jpkVb0IK1gKHF",
+      "1u5ErY_UDsJf6vFiT143DaA_8c5-5_f7l",
+      "1-MDz7mA-pm2zhi2y7N7TScMDloRJsZMt",
+      "1RM7vB_NDPWyrij1m0P30PaNzEdrWjzJV",
+      "1MXGVXmxLccsBByX3zO6GVhuxhZWRAjop",
+      "1Vu_Z_yooO3u5AywO0BUoLPZWQsPabUzl",
+      "1Xq3PSnKP84xWqmei7LJBL7WJrOgCJbKW",
+      "1VbnIKcEYQ3-Pt5DB4HxjaKIeU4NcU-sw",
+      "1J1cOf69qQmy0OiGscYD6E_HNC2drhdn4",
+      "1R3mw832p4j7Rv-0v1xjFMvFiPMhxBqC_",
+      "1_U18vmZZWPI-Zyc3BICPqKMbqnUM6bC2",
+      "1iyjgL4TV3PNTeLSLqQa5RVi2gXod-6Ut",
+      "17rDefK-m8oHF5cTaIiMjdlP6niQM-wZH"
+    ],
+    "searchFileIds": [
+      "1XdlktLbLh3awA46eFrYfvKwgWRl-OVED",
+      "1MHS2CtNRVe9kBpT4ZTX1x4hVhMnLdnHb",
+      "1Dvo4OA8NoQsAMs92SpqYiukVUpBh1vK9",
+      "1X-nodp2gwXHXC7P03vEc2KCHHU3QnS2W",
+      "16VbX4B3snXaT8gmi5vcryzd6jFOJTsQa",
+      "12FLAtlM9GfBPz2NmBDQM-6wJ8GtRY3E8",
+      "1dtJU1-2a0PO0TMQEv1r18Hr4Dt4yKH1a",
+      "1uc0t25Tdx9Ma1682TpStrd3EwEPmgMcZ",
+      "1MFba3zqzDxbX_hYT8CXUWzfI1tZTthHy",
+      "1Yn6h43KGNv6exbRTIPm3YS25iR_RAgkL",
+      "1_uu-hoPfnbPUbu2KSlI7TUPkiMrfRFjz",
+      "1kHIzJMlM__0QP5cAnitYF-gjPq3xSGj6",
+      "1eTZidHGrK1rhlZOflBoSffdhKNSyyfho",
+      "1ZO_WbrG-95qEoosZof2O29Ua4FBrYs-O",
+      "1zMoMCpYCVL_ajsq3VpfN6dyqLkbWp9ao",
+      "1ubwv1E7F6ynAy5nVNshkFPuD9ALjUTLU",
+      "1aTunIxK6l3sx4CVssIvK8pwsZyqm0IVt",
+      "1vL93_x-3H7wk414F5oz2SK2tAe_3x1tE",
+      "1eMeMI_PtSLfACrjyZwArvpd7J6Im_Giz",
+      "14pGCKj0TnWqY8a7EWdtmZqbKbBVMwmW6",
+      "1Ar8yTn70SZ1BtDzGScw9heiuyOpba0p3",
+      "12d3sk2nvTOMKlzCtCDlTydC9ReW-xPJp",
+      "1U3kWKAIKAujuKxk9BJixJO6bOaHViuGD",
+      "1_rCJrQrjtADDvk6NGhdGVCjHRBGIkzNh",
+      "1BOXhqMenQYJ0WPnPP8gLHA7FxZuc56oC",
+      "12SK338OGGI8Tl8y_KyEz2c27QzVvJJYo",
+      "1b7fQ6NEdUlqkJKlV-hLN2SHw0vI0Vy0T",
+      "173vuMvp0h_Q7zgPJpKH7qHJu8mnc9wlv",
+      "12YT_mdoi-MckcWr8nxLtpbLmtmMONMWD",
+      "1tu1MFBPXm32gzCuJfdax26BK5KQeAqAH",
+      "1cXNggN5qPtJewva6kj6bBJTndJ2_F2go",
+      "1N6S_JfFHXGogsGIRyFi6ulSgVwVJVMUK",
+      "1szTLfBCkl2XYXfsqpCaJnOajs-Nny83_",
+      "1yBFvern3GljI7HiYAARbQ1gPVZYYi45a",
+      "1ajBnH1qviF1UB1oMZa7mYcuowVayhj0B",
+      "1ch3bcLpn471BYTNskndsIIgIHRv9I0Jq",
+      "1FEa7UTWTO88Hpj_zD7PACnlwU86TfcmA",
+      "1kIvNvjwr9PGpKXnokB25xXqrvAvuDhzu",
+      "1pjeqs5TMxxQTkH0b2M5jpkVb0IK1gKHF",
+      "1u5ErY_UDsJf6vFiT143DaA_8c5-5_f7l",
+      "1-MDz7mA-pm2zhi2y7N7TScMDloRJsZMt",
+      "1RM7vB_NDPWyrij1m0P30PaNzEdrWjzJV",
+      "1MXGVXmxLccsBByX3zO6GVhuxhZWRAjop",
+      "1Vu_Z_yooO3u5AywO0BUoLPZWQsPabUzl",
+      "1Xq3PSnKP84xWqmei7LJBL7WJrOgCJbKW",
+      "1VbnIKcEYQ3-Pt5DB4HxjaKIeU4NcU-sw",
+      "1J1cOf69qQmy0OiGscYD6E_HNC2drhdn4",
+      "1R3mw832p4j7Rv-0v1xjFMvFiPMhxBqC_",
+      "1_U18vmZZWPI-Zyc3BICPqKMbqnUM6bC2",
+      "1iyjgL4TV3PNTeLSLqQa5RVi2gXod-6Ut",
+      "17rDefK-m8oHF5cTaIiMjdlP6niQM-wZH",
+      "practical-photos-1XdlktLbLh3awA46eFrYfvKwgWRl-OVED"
+    ]
   },
   {
     "id": "practical-1W1fgzLtFlE_EaYv6QgxPliLAI5ALubNO",
@@ -33946,7 +34604,8 @@
       "Practical Exam Material",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1bWfX4Q5z9jZw-aEhQ4ofaFGFrdPnkIZg",
@@ -34008,7 +34667,8 @@
       "Practical Exam Material",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1srSgSZM962yZdSCn4sthTAg6Ea0N1g9J",
@@ -34070,7 +34730,8 @@
       "Practical Exam Material",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1Xxd8zQfxAsVJCo_uQOIkwCYYYGNRrUw8",
@@ -34132,7 +34793,8 @@
       "Practical Exam Material",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1hqwesOfGJjSRCo0GnCwGoZ9G7rTCBEk1",
@@ -34194,7 +34856,8 @@
       "Practical Exam Material",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1VqpFnj7RBn4rEjCklzE2xKF-Kg435feH",
@@ -34256,7 +34919,8 @@
       "Practical Exam Material",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1hIpUrjqqax8u2ABPhSsPkUW3shO0WFpj",
@@ -34318,7 +34982,142 @@
       "Practical Exam Material",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+    "name": "Practical Exams",
+    "title": "Veterinary Anatomy — Practical Exam Material",
+    "year": 1,
+    "subject": "Veterinary Anatomy",
+    "kind": "practical",
+    "group": "Practical Exam Material",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+    "variants": [
+      {
+        "id": "1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+        "name": "Practical Exams",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/veterinary-anatomy/practicals/",
+    "permalink": "/bvsc/year-1/veterinary-anatomy/practicals/#folder-1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Exam Material",
+    "path": "Anatomy/Practicals/Practical Exams",
+    "folderId": "1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+    "practicalRoot": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "subjectSlug": "veterinary-anatomy",
+    "description": "Open the original practical exam material folder.",
+    "keywords": [
+      "Veterinary Anatomy",
+      "Practical Exam Material",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1W1fgzLtFlE_EaYv6QgxPliLAI5ALubNO",
+      "1bWfX4Q5z9jZw-aEhQ4ofaFGFrdPnkIZg",
+      "1srSgSZM962yZdSCn4sthTAg6Ea0N1g9J",
+      "1Xxd8zQfxAsVJCo_uQOIkwCYYYGNRrUw8",
+      "1hqwesOfGJjSRCo0GnCwGoZ9G7rTCBEk1",
+      "1VqpFnj7RBn4rEjCklzE2xKF-Kg435feH",
+      "1hIpUrjqqax8u2ABPhSsPkUW3shO0WFpj"
+    ],
+    "searchFileIds": [
+      "1QA7lMV-i5uPwEiM3P85_HN-mgK214fVs",
+      "1W1fgzLtFlE_EaYv6QgxPliLAI5ALubNO",
+      "1bWfX4Q5z9jZw-aEhQ4ofaFGFrdPnkIZg",
+      "1srSgSZM962yZdSCn4sthTAg6Ea0N1g9J",
+      "1Xxd8zQfxAsVJCo_uQOIkwCYYYGNRrUw8",
+      "1hqwesOfGJjSRCo0GnCwGoZ9G7rTCBEk1",
+      "1VqpFnj7RBn4rEjCklzE2xKF-Kg435feH",
+      "1hIpUrjqqax8u2ABPhSsPkUW3shO0WFpj",
+      "practical-1W1fgzLtFlE_EaYv6QgxPliLAI5ALubNO",
+      "practical-1bWfX4Q5z9jZw-aEhQ4ofaFGFrdPnkIZg",
+      "practical-1srSgSZM962yZdSCn4sthTAg6Ea0N1g9J",
+      "practical-1Xxd8zQfxAsVJCo_uQOIkwCYYYGNRrUw8",
+      "practical-1hqwesOfGJjSRCo0GnCwGoZ9G7rTCBEk1",
+      "practical-1VqpFnj7RBn4rEjCklzE2xKF-Kg435feH",
+      "practical-1hIpUrjqqax8u2ABPhSsPkUW3shO0WFpj"
+    ]
+  },
+  {
+    "id": "practical-folder-1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "name": "Practicals",
+    "title": "Veterinary Anatomy — Practical Files",
+    "year": 1,
+    "subject": "Veterinary Anatomy",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "variants": [
+      {
+        "id": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/veterinary-anatomy/practicals/",
+    "permalink": "/bvsc/year-1/veterinary-anatomy/practicals/#folder-1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Anatomy/Practicals",
+    "folderId": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "practicalRoot": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "subjectSlug": "veterinary-anatomy",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Anatomy",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [],
+    "searchFileIds": [
+      "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_"
+    ]
   },
   {
     "id": "practical-1DtppJqEKWeASoFiiCT0u7vIAnP7w4kBi",
@@ -34380,7 +35179,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1hbWtZGWU-_Hzx8D-cN8FnAXsRs36C_Ap",
@@ -34442,7 +35242,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-12nd7P1dtgWW_rj68tAAARNj8-wynInZg",
@@ -34504,7 +35305,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw",
@@ -34566,7 +35368,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1TsJY0cuppeKrq9bXSS-w-IuoZ7gP8Qmo",
@@ -34628,7 +35431,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1mk-fOyCr0o9sm2GPGLmfpLN1i1uMLMga",
@@ -34690,7 +35494,83 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+    "name": "PPTs",
+    "title": "Veterinary Anatomy — Practical Slides",
+    "year": 1,
+    "subject": "Veterinary Anatomy",
+    "kind": "practical",
+    "group": "Practical Slides",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+    "variants": [
+      {
+        "id": "1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+        "name": "PPTs",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/veterinary-anatomy/practicals/",
+    "permalink": "/bvsc/year-1/veterinary-anatomy/practicals/#folder-1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Slides",
+    "path": "Anatomy/Practicals/PPTs",
+    "folderId": "1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+    "practicalRoot": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "subjectSlug": "veterinary-anatomy",
+    "description": "Open the original practical slides folder.",
+    "keywords": [
+      "Veterinary Anatomy",
+      "Practical Slides",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1DtppJqEKWeASoFiiCT0u7vIAnP7w4kBi",
+      "1hbWtZGWU-_Hzx8D-cN8FnAXsRs36C_Ap",
+      "12nd7P1dtgWW_rj68tAAARNj8-wynInZg",
+      "1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw",
+      "1TsJY0cuppeKrq9bXSS-w-IuoZ7gP8Qmo",
+      "1mk-fOyCr0o9sm2GPGLmfpLN1i1uMLMga"
+    ],
+    "searchFileIds": [
+      "1n0m3x4hQj74DouFfxdL4I4zC4_lcLPrr",
+      "1DtppJqEKWeASoFiiCT0u7vIAnP7w4kBi",
+      "1hbWtZGWU-_Hzx8D-cN8FnAXsRs36C_Ap",
+      "12nd7P1dtgWW_rj68tAAARNj8-wynInZg",
+      "1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw",
+      "1TsJY0cuppeKrq9bXSS-w-IuoZ7gP8Qmo",
+      "1mk-fOyCr0o9sm2GPGLmfpLN1i1uMLMga",
+      "practical-1DtppJqEKWeASoFiiCT0u7vIAnP7w4kBi",
+      "practical-1hbWtZGWU-_Hzx8D-cN8FnAXsRs36C_Ap",
+      "practical-12nd7P1dtgWW_rj68tAAARNj8-wynInZg",
+      "practical-1ml8DNhzanLG7oZUBatA-pHXOzOmuFHcw",
+      "practical-1TsJY0cuppeKrq9bXSS-w-IuoZ7gP8Qmo",
+      "practical-1mk-fOyCr0o9sm2GPGLmfpLN1i1uMLMga"
+    ]
   },
   {
     "id": "practical-1Ojer2kXdJnQzLLy4xZT1aqt9klu87T3y",
@@ -34752,7 +35632,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1IfX7X1wYgDi1qEy8x4uS72UqagFosRK9",
@@ -34814,7 +35695,208 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+    "name": "Spotters",
+    "title": "Veterinary Anatomy — Spotters",
+    "year": 1,
+    "subject": "Veterinary Anatomy",
+    "kind": "practical",
+    "group": "Spotters",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+    "variants": [
+      {
+        "id": "1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+        "name": "Spotters",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-1/veterinary-anatomy/practicals/",
+    "permalink": "/bvsc/year-1/veterinary-anatomy/practicals/#folder-1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Spotters",
+    "path": "Anatomy/Practicals/Spotters",
+    "folderId": "1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+    "practicalRoot": "1jmFVZLRLeKjXt2dNNFxpy35SB0Oqfzp_",
+    "subjectSlug": "veterinary-anatomy",
+    "description": "Open the original spotters folder.",
+    "keywords": [
+      "Veterinary Anatomy",
+      "Spotters",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1Ojer2kXdJnQzLLy4xZT1aqt9klu87T3y",
+      "1IfX7X1wYgDi1qEy8x4uS72UqagFosRK9"
+    ],
+    "searchFileIds": [
+      "1uRX64FjdtfLT2gIzkBFrAdF_G1xn718F",
+      "1Ojer2kXdJnQzLLy4xZT1aqt9klu87T3y",
+      "1IfX7X1wYgDi1qEy8x4uS72UqagFosRK9",
+      "practical-1Ojer2kXdJnQzLLy4xZT1aqt9klu87T3y",
+      "practical-1IfX7X1wYgDi1qEy8x4uS72UqagFosRK9"
+    ]
+  },
+  {
+    "id": "practical-folder-1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "name": "Practicals",
+    "title": "Animal Genetics and Breeding — Practical Files",
+    "year": 2,
+    "subject": "Animal Genetics and Breeding",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "variants": [
+      {
+        "id": "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/animal-genetics-and-breeding/practicals/",
+    "permalink": "/bvsc/year-2/animal-genetics-and-breeding/practicals/#folder-1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Genetics/Practicals",
+    "folderId": "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "practicalRoot": "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "subjectSlug": "animal-genetics-and-breeding",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Animal Genetics and Breeding",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [],
+    "searchFileIds": [
+      "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q"
+    ]
+  },
+  {
+    "id": "practical-folder-1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+    "name": "Practical Lecture",
+    "title": "Animal Genetics and Breeding — Practical Lectures",
+    "year": 2,
+    "subject": "Animal Genetics and Breeding",
+    "kind": "practical",
+    "group": "Practical Lectures",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+    "variants": [
+      {
+        "id": "1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+        "name": "Practical Lecture",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/animal-genetics-and-breeding/practicals/",
+    "permalink": "/bvsc/year-2/animal-genetics-and-breeding/practicals/#folder-1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Lectures",
+    "path": "Genetics/Practicals/Practical Lecture",
+    "folderId": "1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+    "practicalRoot": "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "subjectSlug": "animal-genetics-and-breeding",
+    "description": "Open the original practical lectures folder.",
+    "keywords": [
+      "Animal Genetics and Breeding",
+      "Practical Lectures",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA",
+      "19YtFxys_2YZNkJKuk476PGuEz4YtShaT",
+      "1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC",
+      "1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne",
+      "1YDp0qo6YDWo0Q10asLunklWWTbogOgOb",
+      "1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF",
+      "1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR",
+      "1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh"
+    ],
+    "searchFileIds": [
+      "1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9",
+      "1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA",
+      "19YtFxys_2YZNkJKuk476PGuEz4YtShaT",
+      "1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC",
+      "1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne",
+      "1YDp0qo6YDWo0Q10asLunklWWTbogOgOb",
+      "1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF",
+      "1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR",
+      "1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh",
+      "practical-1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA",
+      "practical-19YtFxys_2YZNkJKuk476PGuEz4YtShaT",
+      "practical-1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC",
+      "practical-1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne",
+      "practical-1YDp0qo6YDWo0Q10asLunklWWTbogOgOb",
+      "practical-1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF",
+      "practical-1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR",
+      "practical-1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh"
+    ]
   },
   {
     "id": "practical-1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA",
@@ -34876,7 +35958,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-19YtFxys_2YZNkJKuk476PGuEz4YtShaT",
@@ -34938,7 +36021,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC",
@@ -35000,7 +36084,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne",
@@ -35062,7 +36147,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1YDp0qo6YDWo0Q10asLunklWWTbogOgOb",
@@ -35124,7 +36210,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF",
@@ -35186,7 +36273,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR",
@@ -35248,7 +36336,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh",
@@ -35310,7 +36399,80 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+    "name": "Practical Manual",
+    "title": "Animal Genetics and Breeding — Practical Manuals",
+    "year": 2,
+    "subject": "Animal Genetics and Breeding",
+    "kind": "practical",
+    "group": "Practical Manuals",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+    "variants": [
+      {
+        "id": "1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+        "name": "Practical Manual",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/animal-genetics-and-breeding/practicals/",
+    "permalink": "/bvsc/year-2/animal-genetics-and-breeding/practicals/#folder-1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Manuals",
+    "path": "Genetics/Practicals/Practical Manual",
+    "folderId": "1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+    "practicalRoot": "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "subjectSlug": "animal-genetics-and-breeding",
+    "description": "Open the original practical manuals folder.",
+    "keywords": [
+      "Animal Genetics and Breeding",
+      "Practical Manuals",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr",
+      "1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N",
+      "1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB",
+      "14QLB01sBCBgd16i07rRW8M7LnOTt3LKL",
+      "1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f"
+    ],
+    "searchFileIds": [
+      "1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2",
+      "1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr",
+      "1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N",
+      "1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB",
+      "14QLB01sBCBgd16i07rRW8M7LnOTt3LKL",
+      "1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f",
+      "practical-1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr",
+      "practical-1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N",
+      "practical-1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB",
+      "practical-14QLB01sBCBgd16i07rRW8M7LnOTt3LKL",
+      "practical-1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f"
+    ]
   },
   {
     "id": "practical-1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr",
@@ -35372,7 +36534,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N",
@@ -35434,7 +36597,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB",
@@ -35496,7 +36660,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-14QLB01sBCBgd16i07rRW8M7LnOTt3LKL",
@@ -35558,7 +36723,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f",
@@ -35620,7 +36786,71 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+    "name": "Works",
+    "title": "Animal Genetics and Breeding — Worksheets",
+    "year": 2,
+    "subject": "Animal Genetics and Breeding",
+    "kind": "practical",
+    "group": "Worksheets",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+    "variants": [
+      {
+        "id": "1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+        "name": "Works",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/animal-genetics-and-breeding/practicals/",
+    "permalink": "/bvsc/year-2/animal-genetics-and-breeding/practicals/#folder-1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Worksheets",
+    "path": "Genetics/Practicals/Works",
+    "folderId": "1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+    "practicalRoot": "1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q",
+    "subjectSlug": "animal-genetics-and-breeding",
+    "description": "Open the original worksheets folder.",
+    "keywords": [
+      "Animal Genetics and Breeding",
+      "Worksheets",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f",
+      "1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV"
+    ],
+    "searchFileIds": [
+      "1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG",
+      "1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f",
+      "1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV",
+      "practical-1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f",
+      "practical-1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV"
+    ]
   },
   {
     "id": "practical-1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f",
@@ -35682,7 +36912,8 @@
       "Worksheets",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV",
@@ -35744,7 +36975,71 @@
       "Worksheets",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+    "name": "Practical Lecture",
+    "title": "Animal Nutrition — Practical Lectures",
+    "year": 2,
+    "subject": "Animal Nutrition",
+    "kind": "practical",
+    "group": "Practical Lectures",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+    "variants": [
+      {
+        "id": "1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+        "name": "Practical Lecture",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/animal-nutrition/practicals/",
+    "permalink": "/bvsc/year-2/animal-nutrition/practicals/#folder-1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Lectures",
+    "path": "Animal Nutrition/Practical Lecture",
+    "folderId": "1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+    "practicalRoot": "1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+    "subjectSlug": "animal-nutrition",
+    "description": "Open the original practical lectures folder.",
+    "keywords": [
+      "Animal Nutrition",
+      "Practical Lectures",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM",
+      "1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R"
+    ],
+    "searchFileIds": [
+      "1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn",
+      "1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM",
+      "1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R",
+      "practical-1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM",
+      "practical-1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R"
+    ]
   },
   {
     "id": "practical-1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM",
@@ -35806,7 +37101,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R",
@@ -35868,7 +37164,64 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "name": "Practicals",
+    "title": "Veterinary Biochemistry — Practical Files",
+    "year": 2,
+    "subject": "Veterinary Biochemistry",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "variants": [
+      {
+        "id": "12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-biochemistry/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-biochemistry/practicals/#folder-12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Biochemistry/Practicals",
+    "folderId": "12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "practicalRoot": "12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "subjectSlug": "veterinary-biochemistry",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Biochemistry",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [],
+    "searchFileIds": [
+      "12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY"
+    ]
   },
   {
     "id": "practical-1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL",
@@ -35930,7 +37283,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-118-Nyb1t_d01RkKAiKWT2zR4D50j4fho",
@@ -35992,7 +37346,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_",
@@ -36054,7 +37409,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1e7QS4_MrDorPBaKkDstxjJkHL70647Pe",
@@ -36116,7 +37472,77 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+    "name": "Practical Lecture",
+    "title": "Veterinary Biochemistry — Practical Lectures",
+    "year": 2,
+    "subject": "Veterinary Biochemistry",
+    "kind": "practical",
+    "group": "Practical Lectures",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+    "variants": [
+      {
+        "id": "1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+        "name": "Practical Lecture",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-biochemistry/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-biochemistry/practicals/#folder-1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Lectures",
+    "path": "Biochemistry/Practicals/Practical Lecture",
+    "folderId": "1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+    "practicalRoot": "12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "subjectSlug": "veterinary-biochemistry",
+    "description": "Open the original practical lectures folder.",
+    "keywords": [
+      "Veterinary Biochemistry",
+      "Practical Lectures",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL",
+      "118-Nyb1t_d01RkKAiKWT2zR4D50j4fho",
+      "1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_",
+      "1e7QS4_MrDorPBaKkDstxjJkHL70647Pe"
+    ],
+    "searchFileIds": [
+      "1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR",
+      "1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL",
+      "118-Nyb1t_d01RkKAiKWT2zR4D50j4fho",
+      "1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_",
+      "1e7QS4_MrDorPBaKkDstxjJkHL70647Pe",
+      "practical-1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL",
+      "practical-118-Nyb1t_d01RkKAiKWT2zR4D50j4fho",
+      "practical-1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_",
+      "practical-1e7QS4_MrDorPBaKkDstxjJkHL70647Pe"
+    ]
   },
   {
     "id": "practical-1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo",
@@ -36178,7 +37604,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8",
@@ -36240,7 +37667,127 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+    "name": "Manual",
+    "title": "Veterinary Biochemistry — Practical Manuals",
+    "year": 2,
+    "subject": "Veterinary Biochemistry",
+    "kind": "practical",
+    "group": "Practical Manuals",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+    "variants": [
+      {
+        "id": "1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+        "name": "Manual",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-biochemistry/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-biochemistry/practicals/#folder-1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Manuals",
+    "path": "Biochemistry/Practicals/Manual",
+    "folderId": "1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+    "practicalRoot": "12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY",
+    "subjectSlug": "veterinary-biochemistry",
+    "description": "Open the original practical manuals folder.",
+    "keywords": [
+      "Veterinary Biochemistry",
+      "Practical Manuals",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo",
+      "1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8"
+    ],
+    "searchFileIds": [
+      "1UkO_AVQl814d3blxAxIm4BmLJloB77Be",
+      "1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo",
+      "1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8",
+      "practical-1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo",
+      "practical-1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8"
+    ]
+  },
+  {
+    "id": "practical-folder-1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "name": "Practicals",
+    "title": "Veterinary Microbiology — Practical Files",
+    "year": 2,
+    "subject": "Veterinary Microbiology",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "variants": [
+      {
+        "id": "1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-microbiology/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-microbiology/practicals/#folder-1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Microbiology/Practicals",
+    "folderId": "1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "practicalRoot": "1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "subjectSlug": "veterinary-microbiology",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Microbiology",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [],
+    "searchFileIds": [
+      "1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl"
+    ]
   },
   {
     "id": "practical-1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK",
@@ -36302,7 +37849,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1AJkf_03E-uSZU6AhqWepthEop1zNcr3i",
@@ -36364,7 +37912,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1viud6MZ0CneNE7UnaewE6eM8oayGjmpD",
@@ -36426,7 +37975,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr",
@@ -36488,7 +38038,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1X78TxR118HeDP1zI0meYFJTDYzrOFEGD",
@@ -36550,7 +38101,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1AEqmdwMJHgATsY3Z99361e9KodF1e65K",
@@ -36612,7 +38164,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM",
@@ -36674,7 +38227,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS",
@@ -36736,7 +38290,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt",
@@ -36798,7 +38353,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk",
@@ -36860,7 +38416,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9",
@@ -36922,7 +38479,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq",
@@ -36984,7 +38542,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1jNPUI0UShLsLwBYatJWKvocaZP59i359",
@@ -37046,7 +38605,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj",
@@ -37108,7 +38668,107 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+    "name": "Practical Lecture",
+    "title": "Veterinary Microbiology — Practical Lectures",
+    "year": 2,
+    "subject": "Veterinary Microbiology",
+    "kind": "practical",
+    "group": "Practical Lectures",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+    "variants": [
+      {
+        "id": "13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+        "name": "Practical Lecture",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-microbiology/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-microbiology/practicals/#folder-13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Lectures",
+    "path": "Microbiology/Practicals/Practical Lecture",
+    "folderId": "13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+    "practicalRoot": "1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "subjectSlug": "veterinary-microbiology",
+    "description": "Open the original practical lectures folder.",
+    "keywords": [
+      "Veterinary Microbiology",
+      "Practical Lectures",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK",
+      "1AJkf_03E-uSZU6AhqWepthEop1zNcr3i",
+      "1viud6MZ0CneNE7UnaewE6eM8oayGjmpD",
+      "1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr",
+      "1X78TxR118HeDP1zI0meYFJTDYzrOFEGD",
+      "1AEqmdwMJHgATsY3Z99361e9KodF1e65K",
+      "1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM",
+      "1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS",
+      "1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt",
+      "1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk",
+      "1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9",
+      "1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq",
+      "1jNPUI0UShLsLwBYatJWKvocaZP59i359",
+      "1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj"
+    ],
+    "searchFileIds": [
+      "13sme9L3ITAxSHWLVt3lcWVePLho0sv-F",
+      "1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK",
+      "1AJkf_03E-uSZU6AhqWepthEop1zNcr3i",
+      "1viud6MZ0CneNE7UnaewE6eM8oayGjmpD",
+      "1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr",
+      "1X78TxR118HeDP1zI0meYFJTDYzrOFEGD",
+      "1AEqmdwMJHgATsY3Z99361e9KodF1e65K",
+      "1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM",
+      "1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS",
+      "1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt",
+      "1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk",
+      "1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9",
+      "1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq",
+      "1jNPUI0UShLsLwBYatJWKvocaZP59i359",
+      "1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj",
+      "practical-1qaSJP4OYEKVXg3hjO2xm3cJ6lNfXOskK",
+      "practical-1AJkf_03E-uSZU6AhqWepthEop1zNcr3i",
+      "practical-1viud6MZ0CneNE7UnaewE6eM8oayGjmpD",
+      "practical-1trKH8ekKSLVg1d8HiKVp959w8yWhdxtr",
+      "practical-1X78TxR118HeDP1zI0meYFJTDYzrOFEGD",
+      "practical-1AEqmdwMJHgATsY3Z99361e9KodF1e65K",
+      "practical-1Hcod8Pm3dgr0_WOD76thYJz5rkD9z7EM",
+      "practical-1nMuqh5x-nOEG0mX_t_7Ee6YpOPK8ipNS",
+      "practical-1_1fzL8fvpgL8Wq0aJyojDf6Jv0UJYzXt",
+      "practical-1jBRDu2E2LhNfPr7cfIT9Ra74jqxdSyuk",
+      "practical-1B0fEk6qQnjcvEaU-g7uujFh7jPlqdHF9",
+      "practical-1WZR4a4WT2AVmklL-yp0YP9AXZUXyZeSq",
+      "practical-1jNPUI0UShLsLwBYatJWKvocaZP59i359",
+      "practical-1mDXTkGPYxsVj8b-RNtIFTqAD_uzUMjbj"
+    ]
   },
   {
     "id": "practical-1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM",
@@ -37170,7 +38830,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH",
@@ -37232,7 +38893,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb",
@@ -37294,7 +38956,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR",
@@ -37356,7 +39019,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY",
@@ -37418,7 +39082,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1",
@@ -37480,7 +39145,86 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+    "name": "Practical Manual",
+    "title": "Veterinary Microbiology — Practical Manuals",
+    "year": 2,
+    "subject": "Veterinary Microbiology",
+    "kind": "practical",
+    "group": "Practical Manuals",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+    "variants": [
+      {
+        "id": "1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+        "name": "Practical Manual",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-microbiology/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-microbiology/practicals/#folder-1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Manuals",
+    "path": "Microbiology/Practicals/Practical Manual",
+    "folderId": "1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+    "practicalRoot": "1BSB4aglaDSa-BXz9ajICwwFuCSnkW_Zl",
+    "subjectSlug": "veterinary-microbiology",
+    "description": "Open the original practical manuals folder.",
+    "keywords": [
+      "Veterinary Microbiology",
+      "Practical Manuals",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH",
+      "1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM",
+      "14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb",
+      "1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR",
+      "16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY",
+      "1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1",
+      "1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5"
+    ],
+    "searchFileIds": [
+      "1Po0IiLj1v9gUU7vBEUFyTV6UECPHnWA9",
+      "1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH",
+      "1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM",
+      "14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb",
+      "1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR",
+      "16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY",
+      "1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1",
+      "1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5",
+      "practical-1WG5RCqm99XyJ5w5jed8zAF7v3tUs2NKH",
+      "practical-1kolKHOEIYmVuHwusUHkrMmSJDxUi-rBM",
+      "practical-14zDU6-UuU3A0v8ezgVEO8lS7UnMX_Psb",
+      "practical-1YSRcK3dq9P0fGIYxvIPC-bgPB6qX8rGR",
+      "practical-16koKlrPzCj3AEqI9AAlw1VH7sQf2NyKY",
+      "practical-1_O0mrPS7XP4RxR2OABtY0ChYx_uqWjk1",
+      "practical-1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5"
+    ]
   },
   {
     "id": "practical-1HifW5Zh7bsCoAOxDn11n_GRUypAhmOE5",
@@ -37542,7 +39286,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw",
@@ -37604,7 +39349,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp",
@@ -37666,7 +39412,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV",
@@ -37728,7 +39475,74 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "name": "Practicals",
+    "title": "Veterinary Pathology — Practical Files",
+    "year": 2,
+    "subject": "Veterinary Pathology",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "variants": [
+      {
+        "id": "1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-pathology/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-pathology/practicals/#folder-1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Pathology/Practicals",
+    "folderId": "1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "practicalRoot": "1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "subjectSlug": "veterinary-pathology",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Pathology",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw",
+      "10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp",
+      "1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV"
+    ],
+    "searchFileIds": [
+      "1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+      "1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw",
+      "10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp",
+      "1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV",
+      "practical-1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw",
+      "practical-10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp",
+      "practical-1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV"
+    ]
   },
   {
     "id": "practical-1JJlGHSu2HAL9tCFByBoguASJJc041TVB",
@@ -37790,7 +39604,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1q0nFem0Pl8JH2escAhngOygJ6Rr9yXpI",
@@ -37852,7 +39667,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45",
@@ -37914,7 +39730,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-17puIdVeeV55yFgDGkYGrV-xk6kCrJROA",
@@ -37976,7 +39793,8 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-12-hJ8akVl_5pRhIzki4y6siJih_-_XbX",
@@ -38038,7 +39856,80 @@
       "Practical Lectures",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+    "name": "Practical Lecture",
+    "title": "Veterinary Pathology — Practical Lectures",
+    "year": 2,
+    "subject": "Veterinary Pathology",
+    "kind": "practical",
+    "group": "Practical Lectures",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+    "variants": [
+      {
+        "id": "12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+        "name": "Practical Lecture",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-2/veterinary-pathology/practicals/",
+    "permalink": "/bvsc/year-2/veterinary-pathology/practicals/#folder-12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Lectures",
+    "path": "Pathology/Practicals/Practical Lecture",
+    "folderId": "12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+    "practicalRoot": "1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR",
+    "subjectSlug": "veterinary-pathology",
+    "description": "Open the original practical lectures folder.",
+    "keywords": [
+      "Veterinary Pathology",
+      "Practical Lectures",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1JJlGHSu2HAL9tCFByBoguASJJc041TVB",
+      "1q0nFem0Pl8JH2escAhngOygJ6Rr9yXpI",
+      "18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45",
+      "17puIdVeeV55yFgDGkYGrV-xk6kCrJROA",
+      "12-hJ8akVl_5pRhIzki4y6siJih_-_XbX"
+    ],
+    "searchFileIds": [
+      "12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb",
+      "1JJlGHSu2HAL9tCFByBoguASJJc041TVB",
+      "1q0nFem0Pl8JH2escAhngOygJ6Rr9yXpI",
+      "18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45",
+      "17puIdVeeV55yFgDGkYGrV-xk6kCrJROA",
+      "12-hJ8akVl_5pRhIzki4y6siJih_-_XbX",
+      "practical-1JJlGHSu2HAL9tCFByBoguASJJc041TVB",
+      "practical-1q0nFem0Pl8JH2escAhngOygJ6Rr9yXpI",
+      "practical-18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45",
+      "practical-17puIdVeeV55yFgDGkYGrV-xk6kCrJROA",
+      "practical-12-hJ8akVl_5pRhIzki4y6siJih_-_XbX"
+    ]
   },
   {
     "id": "practical-1jajyX0kDcUU8aaZ7-nZxS7tE1CsZvEI8",
@@ -38100,7 +39991,71 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+    "name": "Practicals",
+    "title": "Livestock Products Technology — Practical Files",
+    "year": 3,
+    "subject": "Livestock Products Technology",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+    "variants": [
+      {
+        "id": "1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-3/livestock-products-technology/practicals/",
+    "permalink": "/bvsc/year-3/livestock-products-technology/practicals/#folder-1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Livestock Products Technology (LPT)/Practicals",
+    "folderId": "1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+    "practicalRoot": "1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+    "subjectSlug": "livestock-products-technology",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Livestock Products Technology",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1jajyX0kDcUU8aaZ7-nZxS7tE1CsZvEI8",
+      "1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM"
+    ],
+    "searchFileIds": [
+      "1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P",
+      "1jajyX0kDcUU8aaZ7-nZxS7tE1CsZvEI8",
+      "1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM",
+      "practical-1jajyX0kDcUU8aaZ7-nZxS7tE1CsZvEI8",
+      "practical-1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM"
+    ]
   },
   {
     "id": "practical-1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM",
@@ -38162,7 +40117,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-photos-16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
@@ -38266,7 +40222,222 @@
       "Practical Vault"
     ],
     "new": false,
-    "completeFolderListing": false
+    "completeFolderListing": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+    "name": "Parasitology Spotters Paper 1",
+    "title": "Veterinary Parasitology — Parasitology Spotters Paper 1",
+    "year": 3,
+    "subject": "Veterinary Parasitology",
+    "kind": "practical",
+    "group": "Parasitology Spotters Paper 1",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+    "variants": [
+      {
+        "id": "16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+        "name": "Parasitology Spotters Paper 1",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-3/veterinary-parasitology/practicals/",
+    "permalink": "/bvsc/year-3/veterinary-parasitology/practicals/#folder-16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Parasitology Spotters Paper 1",
+    "path": "Parasitology/Practicals/Parasitology Spotters Paper 1",
+    "folderId": "16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+    "practicalRoot": "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "subjectSlug": "veterinary-parasitology",
+    "description": "Open the original parasitology spotters paper 1 folder.",
+    "keywords": [
+      "Veterinary Parasitology",
+      "Parasitology Spotters Paper 1",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1uVXX55TnBZhJi0upHJNjLm9PSLG6lmxk",
+      "1xUcBcPOTmpoAj2A4MdZE15DrOEPgVM9K",
+      "18aem4G4TpmSd4RTBug6kApg__g0kjjpN",
+      "1-WzLA3_kWgX48xvzZJoloDSm2Pl5MV8r",
+      "1X5XeHG_7UBXVu8MHahyIAmtP3ETBf8V6",
+      "1Nb7kTKU-yJx2pWbOOILDZfr7cVpCWf2E",
+      "1srH7H6yvHNrpcj2cMCYxTjItVb2xnMym",
+      "1ryL1EwI8QCKx8KLf5Nb4s-ncp8iN7evl",
+      "1X0zlGVPcDJSmClEMgwSCJkkM_yZZ2lLL",
+      "11aclsds_5RHyMOzKjS7pkIlK9FZcBA80",
+      "1iQvAqIGzzgqF4lqaWGlxTCr-iHKNIggd",
+      "1hHxXN3c2nmlTXJFLhk_nOx78CRJOaeBD",
+      "1AsA44oHlJxA0G5n-7Nm2u_ByOMXEIF2u",
+      "19uknjhjBvyq8PkU09NcbdaHWtZbYcqJZ",
+      "1pcB9IYsrwbSNWWCzi5mGWLnyjnjYjdnt",
+      "1zpesV_lL7TC1kJ9_ZrXafOoiwWbwwJmt",
+      "1JRRN0xiTkRI4qZkRm4f3wN_TXVjP0-Tw",
+      "1eEYv6GsQiqg4hCANUa1nOzb5cS8c8W-_",
+      "1IoA1kf8rO7fLQ2A8W4_y3jmOnmsD3Szq",
+      "1-4DvBSc7QBZgUgKUvRa2P5kXHZjgvCPE",
+      "1sljVdnrBsueNOSIBpdTxoAI-vVmU5_B3",
+      "1OgVefFTxNbOGIgVit2xhLomcLL_Lv3dm",
+      "103ZhDDqAPHxrgbsEpR8ysFOP5A6UmYyn",
+      "1B_G9yl-UVhgmPZUrBqjRQRwquOKAQsT0",
+      "13hqQ5O4wemlt4HmOw5GnS0nz_HIhaKZY",
+      "1R6Y__ikHj5V5ve_Z5tSJFnFD3Qwe7guT",
+      "1_J8gj3DjlvoTCRVjGK27fL7mXsgrABn1",
+      "1Uxq7D4qCQS6VYx1VXXerFiG9pwxEWc28",
+      "1TAJTuUuyMguo1kRT9D10UOlrZZB5eera",
+      "13_EOJYIra1cnaU_pQOc01dlbCfP0T_NH",
+      "1EvsISAveK5HJ_qz5mibLbOaoSTRJ6Oy9",
+      "1VOIffipQ8299Eo9iOWdtiFSIUzAdc_2B",
+      "1I_yuolq2bkweO0eYKo3LfDqonpgBODnV",
+      "1nFK5xEZOR4hFQ_JGLe38zUhVXfWvksWX",
+      "1zS-eOMd5NMFlDsWEE_JaoKkzoh3BBPx1",
+      "1oyW9oo1eHNOXMHWDpxgB0WF_Sne-0y4K",
+      "11aaZp11VyPpo_LbiMBrh62XW1QOtsh6m",
+      "1D-vvBMKahfSmMFCg7UgJkzVCjbSBCVBo",
+      "1PwHHn38L1kiCOywA1l7ISkWXKOmZzbsD",
+      "1cNLUMyuhGwVGXnkwgLPEL0EOU_QPaPWL",
+      "14g0HNU02-paXNRbCU6kntInMqgTjs97U",
+      "1S2YHKHFPPtLr-gax1VLeL3MfpbG9cG-p",
+      "1di5ngb00fZTFBYarfE1ANF4vLptdqo4R",
+      "1MX7Et-CoxHfDylN6yyYR_fU4aLgUXILh",
+      "1yN-II8tz6KKMAs1drJlEP_2guAENoouC",
+      "1jfPVTEjfN8HtnCM4vS15Jc53Yj_iB1oH",
+      "1MoWu7BbeEG-LBmUnsg9VWrqoBs7LD5LZ",
+      "1TVPAgVQ3rpNfgdQTfsBfmQQhtoQTG3nl",
+      "1Hb2xO_FsKfKwkj2Gu0gf96_Yif-ra_0e",
+      "14hOsNLp08Z94TG6-2FnaQMCb_cG6jo53"
+    ],
+    "searchFileIds": [
+      "16OdblGs76P4xNsmbav2-VJ9FHdOscVCi",
+      "1uVXX55TnBZhJi0upHJNjLm9PSLG6lmxk",
+      "1xUcBcPOTmpoAj2A4MdZE15DrOEPgVM9K",
+      "18aem4G4TpmSd4RTBug6kApg__g0kjjpN",
+      "1-WzLA3_kWgX48xvzZJoloDSm2Pl5MV8r",
+      "1X5XeHG_7UBXVu8MHahyIAmtP3ETBf8V6",
+      "1Nb7kTKU-yJx2pWbOOILDZfr7cVpCWf2E",
+      "1srH7H6yvHNrpcj2cMCYxTjItVb2xnMym",
+      "1ryL1EwI8QCKx8KLf5Nb4s-ncp8iN7evl",
+      "1X0zlGVPcDJSmClEMgwSCJkkM_yZZ2lLL",
+      "11aclsds_5RHyMOzKjS7pkIlK9FZcBA80",
+      "1iQvAqIGzzgqF4lqaWGlxTCr-iHKNIggd",
+      "1hHxXN3c2nmlTXJFLhk_nOx78CRJOaeBD",
+      "1AsA44oHlJxA0G5n-7Nm2u_ByOMXEIF2u",
+      "19uknjhjBvyq8PkU09NcbdaHWtZbYcqJZ",
+      "1pcB9IYsrwbSNWWCzi5mGWLnyjnjYjdnt",
+      "1zpesV_lL7TC1kJ9_ZrXafOoiwWbwwJmt",
+      "1JRRN0xiTkRI4qZkRm4f3wN_TXVjP0-Tw",
+      "1eEYv6GsQiqg4hCANUa1nOzb5cS8c8W-_",
+      "1IoA1kf8rO7fLQ2A8W4_y3jmOnmsD3Szq",
+      "1-4DvBSc7QBZgUgKUvRa2P5kXHZjgvCPE",
+      "1sljVdnrBsueNOSIBpdTxoAI-vVmU5_B3",
+      "1OgVefFTxNbOGIgVit2xhLomcLL_Lv3dm",
+      "103ZhDDqAPHxrgbsEpR8ysFOP5A6UmYyn",
+      "1B_G9yl-UVhgmPZUrBqjRQRwquOKAQsT0",
+      "13hqQ5O4wemlt4HmOw5GnS0nz_HIhaKZY",
+      "1R6Y__ikHj5V5ve_Z5tSJFnFD3Qwe7guT",
+      "1_J8gj3DjlvoTCRVjGK27fL7mXsgrABn1",
+      "1Uxq7D4qCQS6VYx1VXXerFiG9pwxEWc28",
+      "1TAJTuUuyMguo1kRT9D10UOlrZZB5eera",
+      "13_EOJYIra1cnaU_pQOc01dlbCfP0T_NH",
+      "1EvsISAveK5HJ_qz5mibLbOaoSTRJ6Oy9",
+      "1VOIffipQ8299Eo9iOWdtiFSIUzAdc_2B",
+      "1I_yuolq2bkweO0eYKo3LfDqonpgBODnV",
+      "1nFK5xEZOR4hFQ_JGLe38zUhVXfWvksWX",
+      "1zS-eOMd5NMFlDsWEE_JaoKkzoh3BBPx1",
+      "1oyW9oo1eHNOXMHWDpxgB0WF_Sne-0y4K",
+      "11aaZp11VyPpo_LbiMBrh62XW1QOtsh6m",
+      "1D-vvBMKahfSmMFCg7UgJkzVCjbSBCVBo",
+      "1PwHHn38L1kiCOywA1l7ISkWXKOmZzbsD",
+      "1cNLUMyuhGwVGXnkwgLPEL0EOU_QPaPWL",
+      "14g0HNU02-paXNRbCU6kntInMqgTjs97U",
+      "1S2YHKHFPPtLr-gax1VLeL3MfpbG9cG-p",
+      "1di5ngb00fZTFBYarfE1ANF4vLptdqo4R",
+      "1MX7Et-CoxHfDylN6yyYR_fU4aLgUXILh",
+      "1yN-II8tz6KKMAs1drJlEP_2guAENoouC",
+      "1jfPVTEjfN8HtnCM4vS15Jc53Yj_iB1oH",
+      "1MoWu7BbeEG-LBmUnsg9VWrqoBs7LD5LZ",
+      "1TVPAgVQ3rpNfgdQTfsBfmQQhtoQTG3nl",
+      "1Hb2xO_FsKfKwkj2Gu0gf96_Yif-ra_0e",
+      "14hOsNLp08Z94TG6-2FnaQMCb_cG6jo53",
+      "practical-photos-16OdblGs76P4xNsmbav2-VJ9FHdOscVCi"
+    ]
+  },
+  {
+    "id": "practical-folder-1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "name": "Practicals",
+    "title": "Veterinary Parasitology — Practical Files",
+    "year": 3,
+    "subject": "Veterinary Parasitology",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "variants": [
+      {
+        "id": "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-3/veterinary-parasitology/practicals/",
+    "permalink": "/bvsc/year-3/veterinary-parasitology/practicals/#folder-1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Parasitology/Practicals",
+    "folderId": "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "practicalRoot": "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "subjectSlug": "veterinary-parasitology",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Parasitology",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [],
+    "searchFileIds": [
+      "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31"
+    ]
   },
   {
     "id": "practical-1c6O8zs5x2hRn_351huWXcLO6VJkDAw6Z",
@@ -38328,7 +40499,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1elrgjaYo5W7ebKDGSv0GbZQEZrDcvrkX",
@@ -38390,7 +40562,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1fqq1rwPCK2ElrAsI4232T_tGwg3l2K_3",
@@ -38452,7 +40625,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1I7tnEypDlsF16-QxbQiTcBuI9nwVwfKf",
@@ -38514,7 +40688,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1vFLWL0Je1wCWrLnSqi6cxgk5Q9umT3l_",
@@ -38576,7 +40751,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1cIhm9GGCI-q0d7UOnhP6e9FxQsm9nvZl",
@@ -38638,7 +40814,8 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ZPv3cOcMvRQG84dJ-X4lgsTZYn7HiJSI",
@@ -38700,7 +40877,86 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+    "name": "PPT",
+    "title": "Veterinary Parasitology — Practical Slides",
+    "year": 3,
+    "subject": "Veterinary Parasitology",
+    "kind": "practical",
+    "group": "Practical Slides",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+    "variants": [
+      {
+        "id": "1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+        "name": "PPT",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-3/veterinary-parasitology/practicals/",
+    "permalink": "/bvsc/year-3/veterinary-parasitology/practicals/#folder-1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Slides",
+    "path": "Parasitology/Practicals/PPT",
+    "folderId": "1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+    "practicalRoot": "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "subjectSlug": "veterinary-parasitology",
+    "description": "Open the original practical slides folder.",
+    "keywords": [
+      "Veterinary Parasitology",
+      "Practical Slides",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1c6O8zs5x2hRn_351huWXcLO6VJkDAw6Z",
+      "1elrgjaYo5W7ebKDGSv0GbZQEZrDcvrkX",
+      "1fqq1rwPCK2ElrAsI4232T_tGwg3l2K_3",
+      "1I7tnEypDlsF16-QxbQiTcBuI9nwVwfKf",
+      "1vFLWL0Je1wCWrLnSqi6cxgk5Q9umT3l_",
+      "1cIhm9GGCI-q0d7UOnhP6e9FxQsm9nvZl",
+      "1ZPv3cOcMvRQG84dJ-X4lgsTZYn7HiJSI"
+    ],
+    "searchFileIds": [
+      "1wkxB9xMCIatalK_cnCMuVCWOUOPk1dxx",
+      "1c6O8zs5x2hRn_351huWXcLO6VJkDAw6Z",
+      "1elrgjaYo5W7ebKDGSv0GbZQEZrDcvrkX",
+      "1fqq1rwPCK2ElrAsI4232T_tGwg3l2K_3",
+      "1I7tnEypDlsF16-QxbQiTcBuI9nwVwfKf",
+      "1vFLWL0Je1wCWrLnSqi6cxgk5Q9umT3l_",
+      "1cIhm9GGCI-q0d7UOnhP6e9FxQsm9nvZl",
+      "1ZPv3cOcMvRQG84dJ-X4lgsTZYn7HiJSI",
+      "practical-1c6O8zs5x2hRn_351huWXcLO6VJkDAw6Z",
+      "practical-1elrgjaYo5W7ebKDGSv0GbZQEZrDcvrkX",
+      "practical-1fqq1rwPCK2ElrAsI4232T_tGwg3l2K_3",
+      "practical-1I7tnEypDlsF16-QxbQiTcBuI9nwVwfKf",
+      "practical-1vFLWL0Je1wCWrLnSqi6cxgk5Q9umT3l_",
+      "practical-1cIhm9GGCI-q0d7UOnhP6e9FxQsm9nvZl",
+      "practical-1ZPv3cOcMvRQG84dJ-X4lgsTZYn7HiJSI"
+    ]
   },
   {
     "id": "practical-1h_zsOYY9LfKhuQfnI88w6H7YthUqQxY4",
@@ -38762,7 +41018,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1mf2wy93wpT4GaurPKMOK1SlHkqZC5GWs",
@@ -38824,7 +41081,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1IG2-pM0CMIDkBoTtuVBwdVab0gIT3AKy",
@@ -38886,7 +41144,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ELIwBleLWbnxUpkUDet8IfnMllwPZmpT",
@@ -38948,7 +41207,8 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1uqD5Qzm8w5Pq98FNQOgOj7FiRU8M2Pnr",
@@ -39010,7 +41270,80 @@
       "Spotters",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+    "name": "Spotters",
+    "title": "Veterinary Parasitology — Spotters",
+    "year": 3,
+    "subject": "Veterinary Parasitology",
+    "kind": "practical",
+    "group": "Spotters",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+    "variants": [
+      {
+        "id": "1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+        "name": "Spotters",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-3/veterinary-parasitology/practicals/",
+    "permalink": "/bvsc/year-3/veterinary-parasitology/practicals/#folder-1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Spotters",
+    "path": "Parasitology/Practicals/Spotters",
+    "folderId": "1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+    "practicalRoot": "1-odeEIUduBOypGCoKJVhpirLjQ9Frf31",
+    "subjectSlug": "veterinary-parasitology",
+    "description": "Open the original spotters folder.",
+    "keywords": [
+      "Veterinary Parasitology",
+      "Spotters",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1h_zsOYY9LfKhuQfnI88w6H7YthUqQxY4",
+      "1mf2wy93wpT4GaurPKMOK1SlHkqZC5GWs",
+      "1IG2-pM0CMIDkBoTtuVBwdVab0gIT3AKy",
+      "1ELIwBleLWbnxUpkUDet8IfnMllwPZmpT",
+      "1uqD5Qzm8w5Pq98FNQOgOj7FiRU8M2Pnr"
+    ],
+    "searchFileIds": [
+      "1E3o_jI7Q2vZqpnWsDv5ZCxivpAk1yy6Z",
+      "1h_zsOYY9LfKhuQfnI88w6H7YthUqQxY4",
+      "1mf2wy93wpT4GaurPKMOK1SlHkqZC5GWs",
+      "1IG2-pM0CMIDkBoTtuVBwdVab0gIT3AKy",
+      "1ELIwBleLWbnxUpkUDet8IfnMllwPZmpT",
+      "1uqD5Qzm8w5Pq98FNQOgOj7FiRU8M2Pnr",
+      "practical-1h_zsOYY9LfKhuQfnI88w6H7YthUqQxY4",
+      "practical-1mf2wy93wpT4GaurPKMOK1SlHkqZC5GWs",
+      "practical-1IG2-pM0CMIDkBoTtuVBwdVab0gIT3AKy",
+      "practical-1ELIwBleLWbnxUpkUDet8IfnMllwPZmpT",
+      "practical-1uqD5Qzm8w5Pq98FNQOgOj7FiRU8M2Pnr"
+    ]
   },
   {
     "id": "practical-1aY85UR94iMZaSCaY9O36GRYxJDa6wFXY",
@@ -39072,7 +41405,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1eI5PZIT5kreUKW-hbCDkllx_6NiQOL0N",
@@ -39134,7 +41468,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr",
@@ -39196,7 +41531,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ozsoeckUF6ooE8bB17UaeEWfXZ5JoM9k",
@@ -39258,7 +41594,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-124GrJQZ-HDassH_964Yf5x8i2nKWOHnH",
@@ -39320,7 +41657,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ydOFqC5q_2iiTYnd4L6I4eLtB1wa4-zi",
@@ -39382,7 +41720,83 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+    "name": "Practicals",
+    "title": "Veterinary Pharmacology and Toxicology — Practical Files",
+    "year": 3,
+    "subject": "Veterinary Pharmacology and Toxicology",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+    "variants": [
+      {
+        "id": "18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/",
+    "permalink": "/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/#folder-18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Pharmacology/Practicals",
+    "folderId": "18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+    "practicalRoot": "18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+    "subjectSlug": "veterinary-pharmacology-and-toxicology",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Pharmacology and Toxicology",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1aY85UR94iMZaSCaY9O36GRYxJDa6wFXY",
+      "1eI5PZIT5kreUKW-hbCDkllx_6NiQOL0N",
+      "1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr",
+      "1ozsoeckUF6ooE8bB17UaeEWfXZ5JoM9k",
+      "124GrJQZ-HDassH_964Yf5x8i2nKWOHnH",
+      "1ydOFqC5q_2iiTYnd4L6I4eLtB1wa4-zi"
+    ],
+    "searchFileIds": [
+      "18MsbE60v7Ua4OIo-G9SWwvT15Anue34P",
+      "1aY85UR94iMZaSCaY9O36GRYxJDa6wFXY",
+      "1eI5PZIT5kreUKW-hbCDkllx_6NiQOL0N",
+      "1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr",
+      "1ozsoeckUF6ooE8bB17UaeEWfXZ5JoM9k",
+      "124GrJQZ-HDassH_964Yf5x8i2nKWOHnH",
+      "1ydOFqC5q_2iiTYnd4L6I4eLtB1wa4-zi",
+      "practical-1aY85UR94iMZaSCaY9O36GRYxJDa6wFXY",
+      "practical-1eI5PZIT5kreUKW-hbCDkllx_6NiQOL0N",
+      "practical-1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr",
+      "practical-1ozsoeckUF6ooE8bB17UaeEWfXZ5JoM9k",
+      "practical-124GrJQZ-HDassH_964Yf5x8i2nKWOHnH",
+      "practical-1ydOFqC5q_2iiTYnd4L6I4eLtB1wa4-zi"
+    ]
   },
   {
     "id": "practical-1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0",
@@ -39444,7 +41858,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD",
@@ -39506,7 +41921,71 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+    "name": "Practicals",
+    "title": "Veterinary Public Health and Epidemiology — Practical Files",
+    "year": 3,
+    "subject": "Veterinary Public Health and Epidemiology",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+    "variants": [
+      {
+        "id": "1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/",
+    "permalink": "/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/#folder-1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Public Health & Epidemiology/Practicals",
+    "folderId": "1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+    "practicalRoot": "1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+    "subjectSlug": "veterinary-public-health-and-epidemiology",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Public Health and Epidemiology",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0",
+      "1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD"
+    ],
+    "searchFileIds": [
+      "1KBnozV52LyKTTu_jHW97JvYppXy8accI",
+      "1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0",
+      "1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD",
+      "practical-1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0",
+      "practical-1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD"
+    ]
   },
   {
     "id": "practical-1XCOs14JohUzpj6nyDIvfD1ZVcBZhBy2S",
@@ -39568,7 +42047,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-10hrxhotBJDNP83qcSDpXm5FVv4IbaajH",
@@ -39630,7 +42110,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1DSd9q5b2cDydmbuRdQMGFpe2tW-C-QtT",
@@ -39692,7 +42173,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-16DKdV3sQDAqWLAe6j4FKE3gus7m-ZvqU",
@@ -39754,7 +42236,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1R4urp6yn5U3yZWZOhfE_9V5BUOt0Ah-m",
@@ -39816,7 +42299,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1sdezqUZP5iJRGW-v3UiG8O1jxoplAG6j",
@@ -39878,7 +42362,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1fQU8y2r2QWPCCfoupP1amhF_7H4UosNY",
@@ -39940,7 +42425,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1",
@@ -40002,7 +42488,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx",
@@ -40064,7 +42551,92 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "name": "Practicals",
+    "title": "Veterinary Gynaecology and Obstetrics — Practical Files",
+    "year": 4,
+    "subject": "Veterinary Gynaecology and Obstetrics",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "variants": [
+      {
+        "id": "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/#folder-1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "OG/Practicals",
+    "folderId": "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "practicalRoot": "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "subjectSlug": "veterinary-gynaecology-and-obstetrics",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Gynaecology and Obstetrics",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "10hrxhotBJDNP83qcSDpXm5FVv4IbaajH",
+      "1XCOs14JohUzpj6nyDIvfD1ZVcBZhBy2S",
+      "1DSd9q5b2cDydmbuRdQMGFpe2tW-C-QtT",
+      "16DKdV3sQDAqWLAe6j4FKE3gus7m-ZvqU",
+      "1R4urp6yn5U3yZWZOhfE_9V5BUOt0Ah-m",
+      "1sdezqUZP5iJRGW-v3UiG8O1jxoplAG6j",
+      "1fQU8y2r2QWPCCfoupP1amhF_7H4UosNY",
+      "1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1",
+      "1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx"
+    ],
+    "searchFileIds": [
+      "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+      "10hrxhotBJDNP83qcSDpXm5FVv4IbaajH",
+      "1XCOs14JohUzpj6nyDIvfD1ZVcBZhBy2S",
+      "1DSd9q5b2cDydmbuRdQMGFpe2tW-C-QtT",
+      "16DKdV3sQDAqWLAe6j4FKE3gus7m-ZvqU",
+      "1R4urp6yn5U3yZWZOhfE_9V5BUOt0Ah-m",
+      "1sdezqUZP5iJRGW-v3UiG8O1jxoplAG6j",
+      "1fQU8y2r2QWPCCfoupP1amhF_7H4UosNY",
+      "1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1",
+      "1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx",
+      "practical-10hrxhotBJDNP83qcSDpXm5FVv4IbaajH",
+      "practical-1XCOs14JohUzpj6nyDIvfD1ZVcBZhBy2S",
+      "practical-1DSd9q5b2cDydmbuRdQMGFpe2tW-C-QtT",
+      "practical-16DKdV3sQDAqWLAe6j4FKE3gus7m-ZvqU",
+      "practical-1R4urp6yn5U3yZWZOhfE_9V5BUOt0Ah-m",
+      "practical-1sdezqUZP5iJRGW-v3UiG8O1jxoplAG6j",
+      "practical-1fQU8y2r2QWPCCfoupP1amhF_7H4UosNY",
+      "practical-1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1",
+      "practical-1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx"
+    ]
   },
   {
     "id": "practical-1Vdd__Vr-mbT51X9UKCBS0yO6AHANIyth",
@@ -40126,7 +42698,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1mEbRO_thYOxZlkcqInkSlxU7MhFTkKAe",
@@ -40188,7 +42761,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1fURkMm3XPZUFfBGUdd287U-9cQeP3lLJ",
@@ -40250,7 +42824,74 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+    "name": "Manual",
+    "title": "Veterinary Gynaecology and Obstetrics — Practical Manuals",
+    "year": 4,
+    "subject": "Veterinary Gynaecology and Obstetrics",
+    "kind": "practical",
+    "group": "Practical Manuals",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+    "variants": [
+      {
+        "id": "1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+        "name": "Manual",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/#folder-1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Manuals",
+    "path": "OG/Practicals/Manual",
+    "folderId": "1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+    "practicalRoot": "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "subjectSlug": "veterinary-gynaecology-and-obstetrics",
+    "description": "Open the original practical manuals folder.",
+    "keywords": [
+      "Veterinary Gynaecology and Obstetrics",
+      "Practical Manuals",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1Vdd__Vr-mbT51X9UKCBS0yO6AHANIyth",
+      "1mEbRO_thYOxZlkcqInkSlxU7MhFTkKAe",
+      "1fURkMm3XPZUFfBGUdd287U-9cQeP3lLJ"
+    ],
+    "searchFileIds": [
+      "1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N",
+      "1Vdd__Vr-mbT51X9UKCBS0yO6AHANIyth",
+      "1mEbRO_thYOxZlkcqInkSlxU7MhFTkKAe",
+      "1fURkMm3XPZUFfBGUdd287U-9cQeP3lLJ",
+      "practical-1Vdd__Vr-mbT51X9UKCBS0yO6AHANIyth",
+      "practical-1mEbRO_thYOxZlkcqInkSlxU7MhFTkKAe",
+      "practical-1fURkMm3XPZUFfBGUdd287U-9cQeP3lLJ"
+    ]
   },
   {
     "id": "practical-1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP",
@@ -40312,7 +42953,8 @@
       "Practical Records",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y",
@@ -40374,7 +43016,8 @@
       "Practical Records",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa",
@@ -40436,7 +43079,8 @@
       "Practical Records",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG",
@@ -40498,7 +43142,77 @@
       "Practical Records",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+    "name": "OG record",
+    "title": "Veterinary Gynaecology and Obstetrics — Practical Records",
+    "year": 4,
+    "subject": "Veterinary Gynaecology and Obstetrics",
+    "kind": "practical",
+    "group": "Practical Records",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+    "variants": [
+      {
+        "id": "1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+        "name": "OG record",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/#folder-1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Records",
+    "path": "OG/Practicals/OG record",
+    "folderId": "1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+    "practicalRoot": "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "subjectSlug": "veterinary-gynaecology-and-obstetrics",
+    "description": "Open the original practical records folder.",
+    "keywords": [
+      "Veterinary Gynaecology and Obstetrics",
+      "Practical Records",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP",
+      "1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y",
+      "13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa",
+      "12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG"
+    ],
+    "searchFileIds": [
+      "1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV",
+      "1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP",
+      "1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y",
+      "13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa",
+      "12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG",
+      "practical-1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP",
+      "practical-1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y",
+      "practical-13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa",
+      "practical-12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG"
+    ]
   },
   {
     "id": "practical-1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX",
@@ -40560,7 +43274,68 @@
       "Practical Slides",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+    "name": "PPT",
+    "title": "Veterinary Gynaecology and Obstetrics — Practical Slides",
+    "year": 4,
+    "subject": "Veterinary Gynaecology and Obstetrics",
+    "kind": "practical",
+    "group": "Practical Slides",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+    "variants": [
+      {
+        "id": "14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+        "name": "PPT",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/#folder-14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Slides",
+    "path": "OG/Practicals/PPT",
+    "folderId": "14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+    "practicalRoot": "1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG",
+    "subjectSlug": "veterinary-gynaecology-and-obstetrics",
+    "description": "Open the original practical slides folder.",
+    "keywords": [
+      "Veterinary Gynaecology and Obstetrics",
+      "Practical Slides",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX"
+    ],
+    "searchFileIds": [
+      "14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh",
+      "1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX",
+      "practical-1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX"
+    ]
   },
   {
     "id": "practical-1VE3V8_78zxljpCX1yte68Hactd9A7dJk",
@@ -40622,7 +43397,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1H3-abr1g02VVN0-iNnJ3hKa2KP4FQcTK",
@@ -40684,7 +43460,71 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "name": "Practicals",
+    "title": "Veterinary Medicine — Practical Files",
+    "year": 4,
+    "subject": "Veterinary Medicine",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "variants": [
+      {
+        "id": "1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-medicine/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-medicine/practicals/#folder-1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Medicine/Practicals",
+    "folderId": "1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "practicalRoot": "1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "subjectSlug": "veterinary-medicine",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Medicine",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1VE3V8_78zxljpCX1yte68Hactd9A7dJk",
+      "1H3-abr1g02VVN0-iNnJ3hKa2KP4FQcTK"
+    ],
+    "searchFileIds": [
+      "1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+      "1VE3V8_78zxljpCX1yte68Hactd9A7dJk",
+      "1H3-abr1g02VVN0-iNnJ3hKa2KP4FQcTK",
+      "practical-1VE3V8_78zxljpCX1yte68Hactd9A7dJk",
+      "practical-1H3-abr1g02VVN0-iNnJ3hKa2KP4FQcTK"
+    ]
   },
   {
     "id": "practical-1D3s00AllBV_7XzDRpSx6DP15PNS6PBMq",
@@ -40746,7 +43586,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1ycznNJXd3A3Ax6I-yzSe7dlBAS0yrGEQ",
@@ -40808,7 +43649,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-12zXgt3E6ieBxOfMOK2dbDM3AqNx7lWkl",
@@ -40870,7 +43712,74 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+    "name": "Manual",
+    "title": "Veterinary Medicine — Practical Manuals",
+    "year": 4,
+    "subject": "Veterinary Medicine",
+    "kind": "practical",
+    "group": "Practical Manuals",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+    "variants": [
+      {
+        "id": "1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+        "name": "Manual",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-medicine/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-medicine/practicals/#folder-1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Manuals",
+    "path": "Medicine/Practicals/Manual",
+    "folderId": "1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+    "practicalRoot": "1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "subjectSlug": "veterinary-medicine",
+    "description": "Open the original practical manuals folder.",
+    "keywords": [
+      "Veterinary Medicine",
+      "Practical Manuals",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1D3s00AllBV_7XzDRpSx6DP15PNS6PBMq",
+      "1ycznNJXd3A3Ax6I-yzSe7dlBAS0yrGEQ",
+      "12zXgt3E6ieBxOfMOK2dbDM3AqNx7lWkl"
+    ],
+    "searchFileIds": [
+      "1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP",
+      "1D3s00AllBV_7XzDRpSx6DP15PNS6PBMq",
+      "1ycznNJXd3A3Ax6I-yzSe7dlBAS0yrGEQ",
+      "12zXgt3E6ieBxOfMOK2dbDM3AqNx7lWkl",
+      "practical-1D3s00AllBV_7XzDRpSx6DP15PNS6PBMq",
+      "practical-1ycznNJXd3A3Ax6I-yzSe7dlBAS0yrGEQ",
+      "practical-12zXgt3E6ieBxOfMOK2dbDM3AqNx7lWkl"
+    ]
   },
   {
     "id": "practical-1iIY1CCKqwCNxqbkmv8Gv9ITWVb69CnLC",
@@ -40932,7 +43841,8 @@
       "Wild Animal",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1VMGBtLYCOOFCFOEgytJEGT3pzN2-Cyi1",
@@ -40994,7 +43904,8 @@
       "Wild Animal",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-10x81YAWSuy5U4Lvdy0e8usq4nywjYt5i",
@@ -41056,7 +43967,8 @@
       "Wild Animal",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1RNnCOlp5A8c4oo3R88mYfpm5WCmUseJF",
@@ -41118,7 +44030,77 @@
       "Wild Animal",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+    "name": "Wild Animal",
+    "title": "Veterinary Medicine — Wild Animal",
+    "year": 4,
+    "subject": "Veterinary Medicine",
+    "kind": "practical",
+    "group": "Wild Animal",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+    "variants": [
+      {
+        "id": "1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+        "name": "Wild Animal",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-medicine/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-medicine/practicals/#folder-1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Wild Animal",
+    "path": "Medicine/Practicals/Manual/Wild Animal",
+    "folderId": "1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+    "practicalRoot": "1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN",
+    "subjectSlug": "veterinary-medicine",
+    "description": "Open the original wild animal folder.",
+    "keywords": [
+      "Veterinary Medicine",
+      "Wild Animal",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1iIY1CCKqwCNxqbkmv8Gv9ITWVb69CnLC",
+      "1VMGBtLYCOOFCFOEgytJEGT3pzN2-Cyi1",
+      "10x81YAWSuy5U4Lvdy0e8usq4nywjYt5i",
+      "1RNnCOlp5A8c4oo3R88mYfpm5WCmUseJF"
+    ],
+    "searchFileIds": [
+      "1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j",
+      "1iIY1CCKqwCNxqbkmv8Gv9ITWVb69CnLC",
+      "1VMGBtLYCOOFCFOEgytJEGT3pzN2-Cyi1",
+      "10x81YAWSuy5U4Lvdy0e8usq4nywjYt5i",
+      "1RNnCOlp5A8c4oo3R88mYfpm5WCmUseJF",
+      "practical-1iIY1CCKqwCNxqbkmv8Gv9ITWVb69CnLC",
+      "practical-1VMGBtLYCOOFCFOEgytJEGT3pzN2-Cyi1",
+      "practical-10x81YAWSuy5U4Lvdy0e8usq4nywjYt5i",
+      "practical-1RNnCOlp5A8c4oo3R88mYfpm5WCmUseJF"
+    ]
   },
   {
     "id": "practical-19x10vWxpgqj5LsTIeeF956e7Nfu50ltD",
@@ -41180,7 +44162,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1b4jc08oL1qrHgpCKSg0n02m-2SzxMUoU",
@@ -41242,7 +44225,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1hsUsA6K2XnQGnz7y-qfBz09dkxEhakJa",
@@ -41304,7 +44288,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1pHdZxGZiJy7T_zWRatYC_ZE0py-z66_b",
@@ -41366,7 +44351,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1OH7yCGM9fIfhmMwbb65udufa5nc0YN6r",
@@ -41428,7 +44414,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1eUsjgZDk24KyUAmLnZjW_W-_OKRsHDL9",
@@ -41490,7 +44477,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1AWTIGWMVr964EtOiyBxc_A9XBbwM89GP",
@@ -41552,7 +44540,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1076PQBixNaZujGHVOdkJ9MGvdcbWd_nz",
@@ -41614,7 +44603,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1HS3rD-kgyow4facMxGPbS3MSAN_NOgME",
@@ -41676,7 +44666,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-19W2XazgxtmIXTRQoKXP2RbvwQJjZSLSr",
@@ -41738,7 +44729,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1GY1rqdGBYJxvp6Unsb86Ewz-51s-t79l",
@@ -41800,7 +44792,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1V1AbQSHZ8AUwNxermFWW6CXpavgnnDyT",
@@ -41862,7 +44855,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1XHsO542nJcdc2al4dETqFa33EdjZHOl-",
@@ -41924,7 +44918,8 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1jKrg6bfxcGWDKGCpfEbj2D-9hInzRLNO",
@@ -41986,7 +44981,107 @@
       "Practical Files",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "name": "Practicals",
+    "title": "Veterinary Surgery and Radiology — Practical Files",
+    "year": 4,
+    "subject": "Veterinary Surgery and Radiology",
+    "kind": "practical",
+    "group": "Practical Files",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "variants": [
+      {
+        "id": "1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+        "name": "Practicals",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-surgery-and-radiology/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-surgery-and-radiology/practicals/#folder-1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Files",
+    "path": "Surgery/Practicals",
+    "folderId": "1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "practicalRoot": "1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "subjectSlug": "veterinary-surgery-and-radiology",
+    "description": "Open the original practical files folder.",
+    "keywords": [
+      "Veterinary Surgery and Radiology",
+      "Practical Files",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "19x10vWxpgqj5LsTIeeF956e7Nfu50ltD",
+      "1b4jc08oL1qrHgpCKSg0n02m-2SzxMUoU",
+      "1hsUsA6K2XnQGnz7y-qfBz09dkxEhakJa",
+      "1pHdZxGZiJy7T_zWRatYC_ZE0py-z66_b",
+      "1OH7yCGM9fIfhmMwbb65udufa5nc0YN6r",
+      "1eUsjgZDk24KyUAmLnZjW_W-_OKRsHDL9",
+      "1AWTIGWMVr964EtOiyBxc_A9XBbwM89GP",
+      "1076PQBixNaZujGHVOdkJ9MGvdcbWd_nz",
+      "1HS3rD-kgyow4facMxGPbS3MSAN_NOgME",
+      "19W2XazgxtmIXTRQoKXP2RbvwQJjZSLSr",
+      "1GY1rqdGBYJxvp6Unsb86Ewz-51s-t79l",
+      "1V1AbQSHZ8AUwNxermFWW6CXpavgnnDyT",
+      "1XHsO542nJcdc2al4dETqFa33EdjZHOl-",
+      "1jKrg6bfxcGWDKGCpfEbj2D-9hInzRLNO"
+    ],
+    "searchFileIds": [
+      "1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+      "19x10vWxpgqj5LsTIeeF956e7Nfu50ltD",
+      "1b4jc08oL1qrHgpCKSg0n02m-2SzxMUoU",
+      "1hsUsA6K2XnQGnz7y-qfBz09dkxEhakJa",
+      "1pHdZxGZiJy7T_zWRatYC_ZE0py-z66_b",
+      "1OH7yCGM9fIfhmMwbb65udufa5nc0YN6r",
+      "1eUsjgZDk24KyUAmLnZjW_W-_OKRsHDL9",
+      "1AWTIGWMVr964EtOiyBxc_A9XBbwM89GP",
+      "1076PQBixNaZujGHVOdkJ9MGvdcbWd_nz",
+      "1HS3rD-kgyow4facMxGPbS3MSAN_NOgME",
+      "19W2XazgxtmIXTRQoKXP2RbvwQJjZSLSr",
+      "1GY1rqdGBYJxvp6Unsb86Ewz-51s-t79l",
+      "1V1AbQSHZ8AUwNxermFWW6CXpavgnnDyT",
+      "1XHsO542nJcdc2al4dETqFa33EdjZHOl-",
+      "1jKrg6bfxcGWDKGCpfEbj2D-9hInzRLNO",
+      "practical-19x10vWxpgqj5LsTIeeF956e7Nfu50ltD",
+      "practical-1b4jc08oL1qrHgpCKSg0n02m-2SzxMUoU",
+      "practical-1hsUsA6K2XnQGnz7y-qfBz09dkxEhakJa",
+      "practical-1pHdZxGZiJy7T_zWRatYC_ZE0py-z66_b",
+      "practical-1OH7yCGM9fIfhmMwbb65udufa5nc0YN6r",
+      "practical-1eUsjgZDk24KyUAmLnZjW_W-_OKRsHDL9",
+      "practical-1AWTIGWMVr964EtOiyBxc_A9XBbwM89GP",
+      "practical-1076PQBixNaZujGHVOdkJ9MGvdcbWd_nz",
+      "practical-1HS3rD-kgyow4facMxGPbS3MSAN_NOgME",
+      "practical-19W2XazgxtmIXTRQoKXP2RbvwQJjZSLSr",
+      "practical-1GY1rqdGBYJxvp6Unsb86Ewz-51s-t79l",
+      "practical-1V1AbQSHZ8AUwNxermFWW6CXpavgnnDyT",
+      "practical-1XHsO542nJcdc2al4dETqFa33EdjZHOl-",
+      "practical-1jKrg6bfxcGWDKGCpfEbj2D-9hInzRLNO"
+    ]
   },
   {
     "id": "practical-1mIDKkTD1OsDaZ1bI1CYRME_DUrdrLAFj",
@@ -42048,7 +45143,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1oAvQfqdWzQ4YeJsy7GRw_7g-bP33VY4i",
@@ -42110,7 +45206,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1Wmcod25LDlmYTuzutNb4zIxWe_vgEhaT",
@@ -42172,7 +45269,8 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
   },
   {
     "id": "practical-1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1",
@@ -42234,6 +45332,76 @@
       "Practical Manuals",
       "Practical Vault"
     ],
-    "new": false
+    "new": false,
+    "public": false
+  },
+  {
+    "id": "practical-folder-17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+    "name": "Manual",
+    "title": "Veterinary Surgery and Radiology — Practical Manuals",
+    "year": 4,
+    "subject": "Veterinary Surgery and Radiology",
+    "kind": "practical",
+    "group": "Practical Manuals",
+    "format": "FOLDER",
+    "mime": "application/vnd.google-apps.folder",
+    "size": null,
+    "updated": null,
+    "url": "https://drive.google.com/drive/folders/17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+    "variants": [
+      {
+        "id": "17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+        "name": "Manual",
+        "mime": "application/vnd.google-apps.folder",
+        "size": null,
+        "updated": null,
+        "url": "https://drive.google.com/drive/folders/17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+        "format": "FOLDER",
+        "extension": "FOLDER",
+        "download": null
+      }
+    ],
+    "duplicateIds": [],
+    "photoIds": [],
+    "type": "Practical Folder",
+    "page": "/bvsc/year-4/veterinary-surgery-and-radiology/practicals/",
+    "permalink": "/bvsc/year-4/veterinary-surgery-and-radiology/practicals/#folder-17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+    "source": "Vetverse",
+    "sourceCredit": "Vetverse collection",
+    "sourcePage": "https://drive.google.com/drive/folders/17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+    "lastVerified": "2026-10-28",
+    "collections": [
+      "practical-folders"
+    ],
+    "unit": "Practical Manuals",
+    "path": "Surgery/Practicals/Manual",
+    "folderId": "17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+    "practicalRoot": "1XOCu27Nu3q_JxiBc0DfiE-n3PdL-lS70",
+    "subjectSlug": "veterinary-surgery-and-radiology",
+    "description": "Open the original practical manuals folder.",
+    "keywords": [
+      "Veterinary Surgery and Radiology",
+      "Practical Manuals",
+      "practical"
+    ],
+    "new": false,
+    "sourceAggregate": true,
+    "memberIds": [
+      "1mIDKkTD1OsDaZ1bI1CYRME_DUrdrLAFj",
+      "1oAvQfqdWzQ4YeJsy7GRw_7g-bP33VY4i",
+      "1Wmcod25LDlmYTuzutNb4zIxWe_vgEhaT",
+      "1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1"
+    ],
+    "searchFileIds": [
+      "17GErdUBMa1IN8p3kXA0bB-x-ohfqpAnP",
+      "1mIDKkTD1OsDaZ1bI1CYRME_DUrdrLAFj",
+      "1oAvQfqdWzQ4YeJsy7GRw_7g-bP33VY4i",
+      "1Wmcod25LDlmYTuzutNb4zIxWe_vgEhaT",
+      "1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1",
+      "practical-1mIDKkTD1OsDaZ1bI1CYRME_DUrdrLAFj",
+      "practical-1oAvQfqdWzQ4YeJsy7GRw_7g-bP33VY4i",
+      "practical-1Wmcod25LDlmYTuzutNb4zIxWe_vgEhaT",
+      "practical-1Ai_v1Id9i0ty961izfsUsZ9nBV6NcHq1"
+    ]
   }
 ]

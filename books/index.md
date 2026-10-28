@@ -10,7 +10,7 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 ## 1st Year
 
-12 resources
+13 resources
 
 [A Textbook of Animal HusbandryG. C. Banerjee · Reading guide](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
 
@@ -22,11 +22,13 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 [Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. · Google Drive](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
 
+[Essentials of Veterinary Histology & EmbryologyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
+
 [Guyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. Guyton · Google Drive](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
 
 [Livestock Production ManagementN. S. R. Sastry and C. K. Thomas · Reading guide](https://notes.thatvetguy.net/books/livestock-production-management/)
 
-[Primary Veterinary AnatomyR. K. Ghosh · Reading guide](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
+[Primary Veterinary AnatomyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
 
 [Restraint and Handling of Wild and Domestic AnimalsMurray Fowler · Google Drive](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)
 

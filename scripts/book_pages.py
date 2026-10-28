@@ -31,33 +31,39 @@ def breadcrumbs(book):
  return [('Books','/books/')]
 def page(b,book):
  subject=book['subjects'][0]['name'] if book['subjects'] else 'veterinary revision' if book['collection'] in ['objective-notes','question-banks'] else 'clinical reference'
- intro='A '+book['type'].lower()+' for '+subject+' study. '+('The download button below opens its Telegram post.' if book['telegram'] else 'Open the linked Google Drive copy below.' if book['files'] else 'Find reading guidance and request a copy below.')
- desc=book['title']+(' by '+book['author'] if book.get('author') else '')+'. '+intro
+ desc=book['title']+(' by '+book['author'] if book.get('author') else '')+'. '+book['description']
  if len(desc)>175:desc=desc[:172].rsplit(' ',1)[0]+'.'
- body=b.article_intro(book['title'],intro,breadcrumbs(book)).replace('container reading-page','container reading-page book-detail',1)
- rid=book.get('resourceId');aliases=''
- if rid:
+ intro=b.article_intro(book['title'],'',breadcrumbs(book));body=intro.split('<header class="reading-header',1)[0].replace('container reading-page','container reading-page book-detail',1)
+ rid=book.get('resourceId') or ('book-guide-'+book['id'] if book.get('primaryUrl') else None);aliases=''
+ if rid and rid in b.CATALOGUE:
   r=b.CATALOGUE[rid];aliases=''.join('<span class="anchor-alias" id="file-'+v['id']+'"></span>' for v in r['variants'] if v['id']!=rid)
  target=book['primaryUrl'] or '/request-resource/?resource='+__import__('urllib.parse',fromlist=['quote']).quote(book['title'])
  button=b.link(target,b.icon('telegram' if book['telegram'] else 'book' if book['files'] else 'message')+'<span>'+book['downloadLabel']+'</span>'+b.icon('external' if book['primaryUrl'] else 'arrow'),'book-download'+(' file-open' if rid else ''))
- body+='<section class="book-overview"><div class="book-overview-grid">'+cover(b,book)+facts(book)+'</div><article class="book-access"'+(' id="file-'+rid+'" data-resource-id="'+rid+'"' if rid else '')+'>'+aliases+button+'<p>'+access_text(book)+'</p></article></section>'
+ body+='<section class="book-overview"><div class="book-overview-grid">'+cover(b,book)+'<div class="book-hero-copy"><span class="book-category">'+e(book['type'])+' · '+e(subject)+'</span><h1>'+e(book['title'])+'</h1>'
+ if book.get('author'):body+='<p class="book-author">'+e(book['author'])+'</p>'
+ body+='<article class="book-access"'+(' id="file-'+rid+'" data-resource-id="'+rid+'"' if rid else '')+'>'+aliases+button+'<p>'+access_text(book)+'</p></article></div></div></section>'
  body+='<section class="book-about"><h2>About this '+('reference' if book['type']=='Reference sheet' else 'book')+'</h2><p>'+e(book['description'])+'</p>'
  if book.get('humanReference'):body+='<p>This is a general medical text. Use veterinary-specific teaching and current species-specific references for clinical decisions.</p>'
  if book['clinical']:body+='<aside class="book-clinical-note" role="note">For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.</aside>'
  body+='</section>'
  if book['subjects']:
-  guide=b.SUBJECTS[book['subjects'][0]['name']];body+='<section class="book-study"><h2>Connect it with your syllabus</h2><p>Use your university’s outline to choose the relevant reading. These are related syllabus themes, not a claim about this copy’s chapter list.</p><ul>'+''.join('<li>'+e(t)+'</li>' for t in guide['topics'][:4])+'</ul>'+b.link(f'/bvsc/year-{book["subjects"][0]["year"]}/'+slug(book['subjects'][0]['name'])+'/#books','Back to subject books '+b.icon('arrow'),'book-subject-link')+'</section>'
- body+='<details class="book-source-details"><summary>Edition, source & credits '+b.icon('chevron')+'</summary><div><p>Credit remains with the original authors and publishers. Bibliographic details and reference covers may describe a different edition from the linked copy. Check the title page before citing it.</p>'
- if book['files']:body+='<p>Collection: Vetverse. File '+('labels' if len(book['files'])>1 else 'label')+':</p><ul>'+''.join('<li>'+e(f['name'])+'</li>' for f in book['files'])+'</ul>'
- elif book['telegram']:body+='<p>Collection access is provided through the original Telegram post.</p>'
- if book.get('bibliography'):body+='<p>Bibliographic reference checked against '+('Open Library' if 'openlibrary' in book['bibliography'].get('source','') else 'Google Books')+'. Publication and edition details must be confirmed against the copy you use.</p>'
+  guide=b.SUBJECTS[book['subjects'][0]['name']];themes=guide['topics'][:3]
+  note='Use this alongside '+subject.lower()+' lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.'
+ elif book['collection'] in ['objective-notes','question-banks']:
+  note='Useful for a second pass after learning the topic. Attempt a short set, check each answer against your teaching notes and keep a list of concepts to revisit; question collections can contain errors or older answers.'
+ else:note='Use this as a reference to look up a specific question, rather than a substitute for current clinical guidance. Confirm the edition, species and context before relying on a table or recommendation.'
+ body+='<section class="book-study"><header><span class="rx-row-icon yellow">'+b.icon('paper')+'</span><h2>A study note</h2></header><p>'+e(note)+'</p><small class="book-editorial">Rx Notes reading guidance</small></section>'
+ body+='<details class="book-source-details"><summary>Book details, edition &amp; credits '+b.icon('chevron')+'</summary><div>'+facts(book)+'<p>Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.</p>'
+ if book['files']:body+='<p>Collection: Vetverse. Original file '+('labels' if len(book['files'])>1 else 'label')+':</p><ul>'+''.join('<li>'+e(f['name'])+'</li>' for f in book['files'])+'</ul>'
+ elif book['telegram']:body+='<p>Access is provided through the original Telegram post.</p>'
+ if book.get('originalLabel'):body+='<p>Shared file label: '+e(book['originalLabel'])+'</p>'
  body+='<p>Last source check: <time datetime="'+book['lastVerified']+'">'+book['lastVerified']+'</time>.</p>'+b.link('/request-resource/?resource='+__import__('urllib.parse',fromlist=['quote']).quote(book['title'])+'#report','Report a link or credit issue '+b.icon('arrow'),'book-report')+'</div></details>'
- if len(book['files'])>1:
-  body+='<details class="book-other-copies"><summary>Other available copies '+b.icon('chevron')+'</summary><ul>'+''.join('<li><span>'+e(f['name'])+'</span>'+b.link(f['url'],'Open in Drive '+b.icon('external'))+'</li>' for f in book['files'][1:])+'</ul></details>'
- related=[x for x in books() if x['id']!=book['id'] and (any(s in x['subjects'] for s in book['subjects']) or book['collection'] and x['collection']==book['collection'])][:3]
- if related:body+='<section class="book-related"><h2>Related reading</h2><ul>'+''.join('<li>'+b.link(x['page'],e(x['title'])+b.icon('chevron'))+'</li>' for x in related)+'</ul></section>'
+ if len(book['files'])>1:body+='<details class="book-other-copies"><summary>Other available copies '+b.icon('chevron')+'</summary><ul>'+''.join('<li><span>'+e(f['name'])+'</span>'+b.link(f['url'],'Open in Drive '+b.icon('external'))+'</li>' for f in book['files'][1:])+'</ul></details>'
+ if book['subjects']:body+=b.link(f'/bvsc/year-{book["subjects"][0]["year"]}/'+slug(book['subjects'][0]['name'])+'/#books','Back to subject books '+b.icon('arrow'),'book-subject-link')
+ else:body+=b.link('/objective/' if book['collection'] in ['objective-notes','question-banks'] else '/clinical/'+str(book['collection'])+'/' if book['collection'] in ['drug-index','handbooks'] else '/books/','Back to collection '+b.icon('arrow'),'book-subject-link')
  body+='</div>';suffix=' — Telegram Download' if book['telegram'] else ' — Details & Drive Access' if book['files'] else ' — BVSc Reading Guide'
  b.write_page(book['page'],book['title']+suffix,desc,body)
+
 def index(b):
  from library_views import chunks
  def card(builder,book):

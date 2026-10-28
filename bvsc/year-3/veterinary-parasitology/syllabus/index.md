@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1General Veterinary Parasitology
@@ -39,9 +41,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Paramphistomes (Paramphistomum, Cotylophoron, Calicophoron, Gigantocotyle, Gastrothylax, Fischoederius,Carmyerius, Gastrodiscus, Gastrodiscoides and Pseudodiscus).
 - [ ] Paragonimus, Prosthogonimus and Echinostomes.
 - [ ] Cestodes: Introduction, general account and classification, general life cycle of cestodes with morphological features of their developmental stages (Metacestodes).
-- [ ] Important morphological features, life cycles, modes of transmission, pathogenesis, epidemiology, diagnosis and management of the following cestode parasites: Equine tape worms (Anoplocephala, Paranoplocephala) and ruminant tape worms (Moniezia, Avitellina, Stilesia,Thysaniezia).
+- [ ] Important morphological features, life cycles, modes of transmission, pathogenesis, epidemiology, diagnosis and management of the following cestode parasites: Equine tape worms (Anoplocephala, Paranoplocephala) and ruminant tape worms (Moniezia, Avitellina, Stilesia, Thysaniezia).
 - [ ] Dog tape worms (Dipylidium, Taenia, Echinococcus).
-- [ ] Poultry tape worms (Davainea, Cotugnia, Raillietina, Amoebotaenia, Choanotaenia and Hymenolepis.
+- [ ] Poultry tape worms (Davainea, Cotugnia, Raillietina, _Amoebotaenia, Choanotaenia and Hymenolepis.
 - [ ] Broad fish tapeworm (Diphyllobothrium) and Spirometra.
 
 ### Unit 3Nematodes Of Veterinary Importance
@@ -66,7 +68,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 - [ ] Arthropods: Introduction, general account and classification, general life cycle of arthropods with morphological features of their developmental stages.
 - [ ] Important morphological features, general bionomics, life cycle, vector potentiality, pathogenesis and control of following arthropods affecting animals and birds: Bugs (Cimex).
-- [ ] Biting midges (Culicoides), black flies (Simulium), sandflies (Phlebotomus), mosquitoes (Culex, Anopheles and Aedes).
+- [ ] Biting midges (Culicoides), black flies (Simulium), sandflies | (Phlebotomus), mosquitoes (Culex, Anopheles and Aedes).
 - [ ] Horse flies (Tabanus), Haematopota and Chrysops.
 - [ ] Musca, Stomoxys, Haematobia and Sarcophaga.
 - [ ] Warbles (Hypoderma), stomach bots (Gasterophilus,Cobboldia), nasal bots (Oestrus ovis,Cephalopina), Bottle flies (Calliphora, Lucilia, Chrysomya), myiasis.
@@ -117,14 +119,14 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 0 / 3
 
 - [ ] Study of morphological characters of adults and developmental stages of the following trematodes and cestodes: Fasciola, Fasciolopsis, Dicrocoelium, Opisthorchis, Schistosoma, Paragonimus, Prosthogonimus, Echinostomes, Paramphistomes (Paramphistomum, Cotylophoron, Gigantocotyle, Gastrothylax, Fischoederius, Gastrodiscus, Gastrodiscoides and Pseudodiscus).
-- [ ] Anoplocephala, Paranoplocephala, Moniezia, Avitellina, Stilesia, Davainea, Cotugnia, Raillietina, Amoebotaenia, Choanotaenia, Hymenolepis, Dipylidium, Taenia, Echinococcus, Diphyllobothrium and Spirometra.
+- [ ] Anoplocephala, Paranoplocephala, Moniezia, Avitellina, Stilesia, _Davainea, Cotugnia, Raillietina, Amoebotaenia, Choanotaenia, Hymenolepis, Dipylidium, Taenia, Echinococcus, Diphyllobothrium and Spirometra.
 - [ ] Demonstration of gross and microscopic lesions of parasites.
 
 ### Unit 3Nematodes Of Veterinary Importance
 
 0 / 4
 
-- [ ] Study of morphological characters of adults and developmental stages of the following nematodes : Ascaris, Parascaris, Toxocara, Toxascaris, Ascaridia, Heterakis, Oxyuris, Strongyloides, Strongylus, Chabertia, Syngamus and Oesophagostomum.
+- [ ] Study of morphological characters of adults and developmental stages of the following nematodes : Ascaris, Parascaris, Toxocara, Toxascaris, Ascaridia, Heterakis, Oxyuris, Strongyloides, Strongylus, Chabertia, Syngamus and Oecsophagostomum.
 - [ ] Stephanurus, Dioctophyma, Ancylostoma, Bunostomum, Ostertagia, Trichostrongylus, Cooperia, Nematodirus, Haemonchus and Mecistocirrus.
 - [ ] Habronema, Draschia, Thelazia, Spirocerca, Gongylonema, Physaloptera, Gnathostoma, Dirofilaria, Parafilaria, Onchocerca, Setaria, Stephanofilaria, Dictyocaulus, Muellerius, Protostrongylus, Metastrongylus, Dracunculus, Trichinella, Trichuris, Capillaria and Macracanthorhynchus.
 - [ ] Demonstration of gross and microscopic lesions of parasites.
@@ -153,9 +155,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=5)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=32)
 
 Checked 2026-10-28.
 

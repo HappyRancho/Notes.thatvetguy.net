@@ -12,15 +12,18 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1General & Systematic Veterinary Bacteriology
 
-0 / 25
+0 / 26
 
 - [ ] Introduction and history of Microbiology
 - [ ] Classification and nomenclature of bacteria
-- [ ] Microscopy and Micrometry: Bacterial stains and techniques
+- [ ] Microscopy and Micrometry
+- [ ] Bacterial stains and techniques
 - [ ] Structure and morphology of bacteria
 - [ ] Growth and nutritional requirement of aerobic and anaerobic bacteria
 - [ ] Normal, opportunistic and saprophytic bacterial flora: Types and sources of infection, method of transmission of infection.
@@ -102,7 +105,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Classification of Viruses
 - [ ] Viral Replication
 - [ ] Genetic and Non-genetic viral interactions
-- [ ] Virus-Cell Interactions
+- [ ] | Virus-Cell Interactions
 - [ ] Viral Pathogenesis, Oncogenesis, latency and immunopathology.
 - [ ] Studies on General Properties, Antigens, Cultivation, Pathogenesis, Epidemiology, Clinical Signs, Diagnosis, Prevention and Control of following Viruses and Prions Causing Diseases in Livestock and Poultry: Birnaviridae: Infectious bursal disease virus
 - [ ] Reoviridae: Rotaviruses, Bluetongue virus, African horse sickness virus
@@ -139,7 +142,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Outlines of collection, transportation and processing of samples for bacterial disease diagnosis.
 - [ ] Characterization of Staphylococcus
 - [ ] Streptococcus
-- [ ] E. coli Salmonella
+- [ ] EE. coli Salmonella
 - [ ] Klebsiella and Proteus
 - [ ] Pseudomonas
 - [ ] Pasteurella
@@ -175,7 +178,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 ### Unit 5General And Systematic Veterinary Virology
 
-0 / 16
+0 / 15
 
 - [ ] Orientation to a virology laboratory
 - [ ] Collection, preservation, transport of samples and their processing in virology laboratory
@@ -186,19 +189,18 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Cryopreservation and recovery of cell cultures
 - [ ] Preparation of Primary cell culture (chicken embryo fibroblast or Lamb kidney)
 - [ ] Demonstration of cytopathic effect by viruses in cell culture (Important virus isolates available in the department)
-- [ ] Demonstration of Titration of virus by TCID50 and plaque assay in cell cultures*
+- [ ] Demonstration of Titration of virus by TCIDs9 and plaque assay in cell cultures*
 - [ ] Demonstration of neutralizing antibodies by serum neutralization test in cell cultures*
 - [ ] Agar gel precipitation test for detection of virus infection*
-- [ ] Titration of Newcastle disease virus by haemagglutination test
-- [ ] Haemagglutination inhibition test for detection of antibodies to Newcastle disease virus
+- [ ] Titration of Newcastle disease virus by haemagglutination test, Haemagglutination inhibition test for detection of antibodies to Newcastle disease virus
 - [ ] ELISA for detection of viral antigen and antibodies
 - [ ] Molecular techniques for viral disease diagnosis *Important virus isolates available in the department.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=1)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=21)
 
 Checked 2026-10-28.
 

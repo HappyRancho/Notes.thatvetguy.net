@@ -1,0 +1,62 @@
+name: Verify curriculum and missing book covers
+on:
+  push:
+    branches: [homepage-approved-mockups]
+permissions:
+  contents: write
+jobs:
+  curriculum:
+    if: contains(github.event.head_commit.message, '[curriculum-fetch]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get -qq update && sudo apt-get -qq install -y poppler-utils tesseract-ocr
+      - run: python3 scripts/fetch-msve-source.py
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/msve-2016-source.json
+          git commit -m 'Record owner-provided university curriculum [generated]'
+          git pull --rebase origin homepage-approved-mockups
+          git push origin HEAD:homepage-approved-mockups
+  covers:
+    if: contains(github.event.head_commit.message, '[cover-research]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - run: sudo apt-get -qq update && sudo apt-get -qq install -y tesseract-ocr
+      - run: python3 scripts/research-book-covers.py
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/books/ data/book-cover-candidates.json
+          git commit -m 'Record researched cover candidates for visual verification [generated]'
+          git pull --rebase origin homepage-approved-mockups
+          git push origin HEAD:homepage-approved-mockups
+  reviewed-covers:
+    if: contains(github.event.head_commit.message, '[exact-covers]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - run: python3 scripts/fetch-reviewed-covers.py
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/books/ data/reviewed-cover-results.json
+          git commit -m 'Cache individually researched cover images [generated]'
+          git pull --rebase origin homepage-approved-mockups
+          git push origin HEAD:homepage-approved-mockups

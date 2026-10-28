@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Practical](#practical)
+
 ## Practical
 
 The outline uses practical sections rather than numbered units.
@@ -30,9 +32,9 @@ The outline uses practical sections rather than numbered units.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=11)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=38)
 
 Checked 2026-10-28.
 

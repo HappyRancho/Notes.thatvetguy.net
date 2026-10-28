@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1General Veterinary Pathology
@@ -43,7 +45,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 - [ ] Animal Oncology: Definitions, general characteristics and classification of neoplasms.
 - [ ] Differences between benign and malignant tumours, aetiology, carcinogenesis and spread of neoplasms, tumour immunity, effects and diagnosis of tumours, staging and grading of neoplasms.
-- [ ] Pathology of various types of tumours in domestic animals (epithelial, connective tissue, hematopoietic tissue etc.) Veterinary Clinical Pathology: Introduction, Haematology – Different anticoagulant used in haematology, interpretation of blood tests (haemoglobin, packed cell volume, total erythrocyte count, erythrocytic indices, erythrocytic sedimentation rate, total leukocyte count, absolute count of different leucocytes), blood smear examination and its interpretation.
+- [ ] Pathology of various types of tumours in domestic animals (epithelial, connective tissue, hematopoietic tissue etc.) Veterinary Clinical Pathology: Introduction, Haematology — Different anticoagulant used in haematology, interpretation of blood tests (haemoglobin, packed cell volume, total erythrocyte count, erythrocytic indices, erythrocytic sedimentation rate, total leukocyte count, absolute count of different leucocytes), blood smear examination and its interpretation.
 - [ ] Urinalysis- Interpretation of physical, chemical and microscopic examination of urine.
 - [ ] Study of biopsy and cytology including exfoliative cytology as rapid diagnostic techniques.
 - [ ] Necropsy: Introduction, objectives, pre-necropsy guidelines, procedure for post mortem examination of various species of animals including wild animals, post mortem changes, collection, preservation and dispatch of specimens (morbid materials) for laboratory examination, writing of post mortem report, veterolegal necropsy , veterolegal wounds.
@@ -91,7 +93,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 0 / 3
 
 - [ ] Study of gross pathological specimens and recognition of pathological lesions.
-- [ ] Histopathological techniques– Processing of tissue for paraffin embedding technique, section cutting, staining and identification of microscopic lesions.
+- [ ] Histopathological techniques— Processing of tissue for paraffin embedding technique, section cutting, staining and identification of microscopic lesions.
 - [ ] Examination of histopathological slides showing general pathological alterations.
 
 ### Unit 2Systemic Veterinary Pathology
@@ -133,9 +135,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=3)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=23)
 
 Checked 2026-10-28.
 

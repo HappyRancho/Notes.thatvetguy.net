@@ -2,11 +2,28 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)/[Books](https://notes.thatvetguy.net/books/)/Outlines of Dairy Technology
 
+Reference cover; the linked edition may differ.
+Book · Livestock Products Technology
+
 # Outlines of Dairy Technology
 
-A book for Livestock Products Technology study. Find reading guidance and request a copy below.
+Sukumar De
 
-Reference cover; the linked edition may differ.
+[Request this book](https://notes.thatvetguy.net/request-resource/?resource=Outlines%20of%20Dairy%20Technology)
+
+This is a reading recommendation. A linked copy is not currently available; you can request one.
+
+## About this book
+
+Support your study of milk processing, preservation and dairy products.
+
+## A study note
+
+Use this alongside livestock products technology lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
+
+Rx Notes reading guidance
+
+Book details, edition & credits 
 
 - Authors / editors: Sukumar De
 
@@ -22,37 +39,12 @@ Reference cover; the linked edition may differ.
 
 - Bibliographic year: 2002 · linked edition may differ
 
-[Request this book](https://notes.thatvetguy.net/request-resource/?resource=Outlines%20of%20Dairy%20Technology)
-
-This is a reading recommendation. A linked copy is not currently available; you can request one.
-
-## About this book
-
-Support your study of milk processing, preservation and dairy products.
-
-## Connect it with your syllabus
-
-Use your university’s outline to choose the relevant reading. These are related syllabus themes, not a claim about this copy’s chapter list.
-
-- Milk processing and dairy products
-- Meat science and meat products
-- Poultry and egg products
-- By-products, quality and preservation[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
-
-Edition, source & credits 
-
-Credit remains with the original authors and publishers. Bibliographic details and reference covers may describe a different edition from the linked copy. Check the title page before citing it.
-
-Bibliographic reference checked against Open Library. Publication and edition details must be confirmed against the copy you use.
+Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
 
 Last source check: 2026-10-18.
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Outlines%20of%20Dairy%20Technology#report)
 
-## Related reading
-
-- [Gracey's Meat Hygiene 11Edition](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
-- [Lawrie's Meat Science](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
-- [Meat and Meat Products Technology](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
+[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

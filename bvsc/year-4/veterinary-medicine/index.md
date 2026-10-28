@@ -13,7 +13,7 @@ Veterinary Medicine focuses on organising clinical reasoning around animal disea
 ## Notes
 
 23 notes
-[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/)
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -140,52 +140,41 @@ Try a shorter title or another collection.
 16 books
 Find a book or author
 
-[Reference coverClinical Examination of Farm AnimalsPeter G. G. Jackson, Peter D. CockcroftView book](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/)
+[Clinical Examination of Farm Animals](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/)
 
-[Source previewClinical Handbook on Canine Dermatology 3rd EditionView book](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/)
+[Clinical Handbook on Canine Dermatology 3rd Edition](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/)
 
-[Reference coverColor handbook of Skin Diseases of Dog and CatP. J. McKeeverView book](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/)
+[Color handbook of Skin Diseases of Dog and Cat](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/)
 
-[Cover unavailableExotic Animal Medicine for the Veterinary Technician by Bonnie BallardView book](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
+[Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
 
-[Source previewFluid therapy guidelines for dogs and catsView book](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
+[Fluid therapy guidelines for dogs and cats](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
 
-[Cover unavailableLaboratory Animal and Exotic Pet Medicine Principles and ProceduresView book](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
+[Laboratory Animal and Exotic Pet Medicine Principles and Procedures](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
 
 Show 10 more books
 
-[Reference coverManual of Canine and Feline CardiologyLarry P. Tilley, John-Karl GoodwinView book](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
+[Manual of Canine and Feline Cardiology](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
 
-[Reference coverMetabolic Diseases in Farm AnimalsJack M. PayneView book](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
+[Metabolic Diseases in Farm Animals](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
 
-[Reference coverPocket Guide Diagnostic TestsDiana Nicoll, Stephen J. McPhee and Michael PignoneView book](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/)
+[Pocket Guide Diagnostic Tests](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/)
 
-[Cover unavailablePoultry Metabolic Disorders and MycotoxinsSteven LeesonView book](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/)
+[Poultry Metabolic Disorders and Mycotoxins](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/)
 
-[Reference coverSkin Diseases of Exotic PetsSue PatersonView book](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
+[Skin Diseases of Exotic Pets](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
 
-[Source previewSmall Animal ECGs, An Introductory Guide, 3rd EditionView book](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
+[Small Animal ECGs, An Introductory Guide, 3rd Edition](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
 
-[Cover unavailableSmall Animal Internal Medicine 5th EditionView book](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
+[Small Animal Internal Medicine 5th Edition](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
 
-[Source previewTextbook of Clinical Veterinary MedicineAmalendu ChakrabartiView book](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
+[Textbook of Clinical Veterinary Medicine](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
 
-[Reference coverTextbook of Veterinary Internal MedicineStephen J. EttingerView book](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
+[Textbook of Veterinary Internal Medicine](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
 
-[Source previewVeterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter GrünbergView book](https://notes.thatvetguy.net/books/veterinary-medicine/)
+[Veterinary Medicine](https://notes.thatvetguy.net/books/veterinary-medicine/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
-
-- General and systemic medicine
-- Infectious and metabolic diseases
-- Preventive medicine and herd health
-- Diagnostic reasoning and case management
-
-Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 

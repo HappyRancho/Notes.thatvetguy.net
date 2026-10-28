@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1Principles Of Animal Nutrition And Feed Technology
@@ -38,7 +40,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Harmful natural constituents and common adulterants of feeds and fodders.
 - [ ] Feed additives in the rations of livestock and poultry and their uses.
 
-### Unit 2Applied Ruminant Nutrition-I
+### Unit 2Applied Ruminant Nutrition-D
 
 0 / 8
 
@@ -51,7 +53,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Feeding standards, their uses and significance, merit and demerits of various feeding standards with reference to ruminants.
 - [ ] Balanced ration and its characteristics.
 
-### Unit 3Applied Ruminant Nutrition-Ii
+### Unit 3Applied Ruminant Nutrition-Id
 
 0 / 8
 
@@ -95,17 +97,17 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Demonstration of detergent methods of forage analysis.
 - [ ] Qualitative detection of undesirable constituents and common adulterants of feed.
 
-### Unit 2Applied Ruminant Nutrition-I
+### Unit 2Applied Ruminant Nutrition-D Calculation Of Nutritive Value Of Different Feed Stuffs In Terms Of Digestible Crude Protein (Dcp
 
 0 / 1
 
-- [ ] Calculation of nutritive value of different feed stuffs in terms of digestible crude protein (DCP), total digestible nutrient (TDN), Nutritive ratio (NR) and balance of nutrients.
+- [ ] , total digestible nutrient (TDN), Nutritive ratio (NR) and balance of nutrients.
 
 ### Unit 3Applied Ruminant Nutrition II
 
 0 / 4
 
-- [ ] for maintenance, growth, and other types of production like meat, milk, wool, reproduction and draft purpose.
+- [ ] Calculation of requirements of nutrients in terms of DCP, TDN and metabolisable energy (ME) for maintenance, growth, and other types of production like meat, milk, wool, reproduction and draft purpose.
 - [ ] Formulation of rations for different categories of livestock under different conditions.
 - [ ] Formulation of rations for feeding of livestock during scarcity periods.
 - [ ] Visit to Animal Farm and Feed Mill.
@@ -123,9 +125,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/2nd-year-course-outline.pdf#page=7)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=27)
 
 Checked 2026-10-28.
 

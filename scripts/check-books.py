@@ -20,7 +20,7 @@ for b in books:
  p=ROOT/b['page'].strip('/')/'index.html';raw=p.read_text();d=Document(raw)
  assert d.h1==1 and d.canonical==['https://notes.thatvetguy.net'+b['page']]
  assert p.with_suffix('.md').exists() and b['page'] in (ROOT/'llms.txt').read_text()
- assert any(r['url'].split('#')[0]==b['page'] for r in search),(b['id'],'missing in search')
+ assert any(r['url'].split('#')[0]==b['page'] for r in search)==bool(b['primaryUrl']),(b['id'],'search availability mismatch')
  schema=next(x for x in d.schemas if x.get('@id')=='https://notes.thatvetguy.net'+b['page']+'#book')
  assert schema['name']==b['title'] and schema['educationalLevel']=='BVSc & AH'
  assert not any(k in schema for k in ['isbn','aggregateRating','offers']),'Unverified commercial metadata'

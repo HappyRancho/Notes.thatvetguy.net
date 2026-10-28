@@ -2,21 +2,12 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)/[Books](https://notes.thatvetguy.net/books/)/Veterinary Reproduction and Obstetrics
 
+Preview from the linked source file.
+Book · Veterinary Gynaecology and Obstetrics
+
 # Veterinary Reproduction and Obstetrics
 
-A book for Veterinary Gynaecology and Obstetrics study. Open the linked Google Drive copy below.
-
-Preview from the linked source file.
-
-- Authors / editors: David E. Noakes, Timothy J. Parkinson and Gary C. W. England
-
-- Study area: Veterinary Gynaecology and Obstetrics
-
-- Professional year: 4th Year
-
-- Resource type: Book
-
-- Access: Google Drive
+David E. Noakes, Timothy J. Parkinson and Gary C. W. England
 
 [Open in Google Drive](https://drive.google.com/file/d/1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_/view)
 
@@ -28,20 +19,27 @@ Follow reproductive physiology through fertility, pregnancy and obstetrical prob
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-## Connect it with your syllabus
+## A study note
 
-Use your university’s outline to choose the relevant reading. These are related syllabus themes, not a claim about this copy’s chapter list.
+Use this alongside veterinary gynaecology and obstetrics lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
 
-- Reproductive cycles and breeding
-- Infertility and reproductive disorders
-- Pregnancy and parturition
-- Obstetrics, andrology and assisted reproduction[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
+Rx Notes reading guidance
 
-Edition, source & credits 
+Book details, edition & credits 
 
-Credit remains with the original authors and publishers. Bibliographic details and reference covers may describe a different edition from the linked copy. Check the title page before citing it.
+- Authors / editors: David E. Noakes, Timothy J. Parkinson and Gary C. W. England
 
-Collection: Vetverse. File labels:
+- Study area: Veterinary Gynaecology and Obstetrics
+
+- Professional year: 4th Year
+
+- Resource type: Book
+
+- Access: Google Drive
+
+Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+
+Collection: Vetverse. Original file labels:
 
 - Arthur's Veterinary Reproduction and Obstetrics.pdf
 - Veterinary Reproduction and Obstetrics by David Noakes.pdf
@@ -54,10 +52,6 @@ Other available copies
 
 - Veterinary Reproduction and Obstetrics by David Noakes.pdf[Open in Drive ](https://drive.google.com/file/d/1mGlzshSsykL0lNOpo_65VTJzz_-dDDDi/view)
 
-## Related reading
-
-- [Applied Veterinary Gynaecology and Obstetrics Dr Pradeep](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
-- [Canine and Feline Endocrinology and Reproduction](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
-- [Pathways to Pregnancy and Parturition](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
+[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

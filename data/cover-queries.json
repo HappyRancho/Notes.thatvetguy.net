@@ -1,0 +1,222 @@
+[
+  {
+    "id": "a-textbook-of-animal-husbandry",
+    "queryTitle": "A Textbook of Animal Husbandry",
+    "queryAuthor": "G. C. Banerjee"
+  },
+  {
+    "id": "adam-s-lameness-in-horses-7th-edition",
+    "queryTitle": "Adams and Stashak Lameness in Horses",
+    "queryAuthor": "Baxter"
+  },
+  {
+    "id": "veterinary-capsule",
+    "queryTitle": "All in One Veterinary Capsule",
+    "queryAuthor": ""
+  },
+  {
+    "id": "biochemistry",
+    "queryTitle": "Biochemistry",
+    "queryAuthor": "Satyanarayana"
+  },
+  {
+    "id": "colour-atlas-of-veterinary-anatomy-the-ruminants",
+    "queryTitle": "Color Atlas Veterinary Anatomy Ruminants",
+    "queryAuthor": ""
+  },
+  {
+    "id": "small-animal-colour-handbook",
+    "queryTitle": "Small Animal Emergency Critical Care Medicine",
+    "queryAuthor": "Rozanski"
+  },
+  {
+    "id": "dhruv-desai",
+    "queryTitle": "Compiled Question Bank by Dhruv N Desai",
+    "queryAuthor": "Dhruv N Desai"
+  },
+  {
+    "id": "cunningham-s-textbook-of-veterinary-physiology",
+    "queryTitle": "Cunningham Textbook Veterinary Physiology",
+    "queryAuthor": "Klein"
+  },
+  {
+    "id": "wall-drug-dose",
+    "queryTitle": "Drug Dose \u2014 Wall Reference",
+    "queryAuthor": ""
+  },
+  {
+    "id": "e-nanu-qbank",
+    "queryTitle": "E. Nanu Veterinary Question Bank",
+    "queryAuthor": "E. Nanu"
+  },
+  {
+    "id": "essentials-of-medical-pharmacology-k-d-tripathi",
+    "queryTitle": "Essentials Medical Pharmacology",
+    "queryAuthor": "Tripathi"
+  },
+  {
+    "id": "essentials-of-veterinary-pharmacology-and-therapeutics",
+    "queryTitle": "Essentials of Veterinary Pharmacology and Therapeutics",
+    "queryAuthor": "H. S. Sandhu"
+  },
+  {
+    "id": "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard",
+    "queryTitle": "Exotic Animal Medicine Veterinary Technician",
+    "queryAuthor": "Ballard"
+  },
+  {
+    "id": "fenner-s-veterinary-virology-5th-edition",
+    "queryTitle": "Fenner Veterinary Virology",
+    "queryAuthor": "MacLachlan"
+  },
+  {
+    "id": "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics",
+    "queryTitle": "Goodman Gilman Pharmacological Basis Therapeutics",
+    "queryAuthor": "Brunton"
+  },
+  {
+    "id": "veterinary-clinician-handbook",
+    "queryTitle": "Handbook Veterinary Clinician",
+    "queryAuthor": "Bhikane"
+  },
+  {
+    "id": "small-animal-radiology-handbook",
+    "queryTitle": "Handbook Small Animal Radiology Ultrasound",
+    "queryAuthor": "Dennis"
+  },
+  {
+    "id": "kvafsu-qbank",
+    "queryTitle": "KVAFSU Question Bank",
+    "queryAuthor": ""
+  },
+  {
+    "id": "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures",
+    "queryTitle": "Laboratory Animal Exotic Pet Medicine Principles Procedures",
+    "queryAuthor": "Sirois"
+  },
+  {
+    "id": "livestock-production-management",
+    "queryTitle": "Livestock Production Management",
+    "queryAuthor": "N. S. R. Sastry and C. K. Thomas"
+  },
+  {
+    "id": "meat-and-meat-products-technology",
+    "queryTitle": "Meat and Meat Products Technology",
+    "queryAuthor": "B. D. Sharma"
+  },
+  {
+    "id": "ndri-qbank",
+    "queryTitle": "NDRI Veterinary Question Bank",
+    "queryAuthor": ""
+  },
+  {
+    "id": "ockerman-animal-byproduct-processing",
+    "queryTitle": "Animal By Product Processing",
+    "queryAuthor": "Ockerman"
+  },
+  {
+    "id": "poultry-metabolic-disorders-and-mycotoxins",
+    "queryTitle": "Poultry Metabolic Disorders and Mycotoxins",
+    "queryAuthor": "Steven Leeson"
+  },
+  {
+    "id": "prescott-s-microbiology",
+    "queryTitle": "Prescott Microbiology",
+    "queryAuthor": "Willey"
+  },
+  {
+    "id": "primary-veterinary-anatomy",
+    "queryTitle": "Primary Veterinary Anatomy",
+    "queryAuthor": "Ghosh"
+  },
+  {
+    "id": "reproduction-in-farm-animals-7th-edition-by-hafeez",
+    "queryTitle": "Reproduction Farm Animals",
+    "queryAuthor": "Hafez"
+  },
+  {
+    "id": "review-animal-science",
+    "queryTitle": "Review of Animal Science",
+    "queryAuthor": ""
+  },
+  {
+    "id": "review-veterinary-science",
+    "queryTitle": "Review of Veterinary Science",
+    "queryAuthor": ""
+  },
+  {
+    "id": "ruminant-surgery",
+    "queryTitle": "Ruminant Surgery",
+    "queryAuthor": "Tyagi"
+  },
+  {
+    "id": "slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition",
+    "queryTitle": "Slatter Fundamentals Veterinary Ophthalmology",
+    "queryAuthor": "Maggs"
+  },
+  {
+    "id": "small-animal-internal-medicine-5th-edition",
+    "queryTitle": "Small Animal Internal Medicine",
+    "queryAuthor": "Nelson"
+  },
+  {
+    "id": "small-animal-surgery-5th-edition-theresa-fossum",
+    "queryTitle": "Small Animal Surgery",
+    "queryAuthor": "Fossum"
+  },
+  {
+    "id": "tanuvas-qbank",
+    "queryTitle": "TANUVAS All-Subjects Question Bank",
+    "queryAuthor": ""
+  },
+  {
+    "id": "text-book-on-animal-genetics-and-breeding",
+    "queryTitle": "Text Book on Animal Genetics and Breeding",
+    "queryAuthor": "P. Kanakaraj"
+  },
+  {
+    "id": "ultimate-vet-handbook",
+    "queryTitle": "Ultimate Vet Handbook",
+    "queryAuthor": ""
+  },
+  {
+    "id": "vaccination-schedule",
+    "queryTitle": "Vaccination Schedule of All Animals",
+    "queryAuthor": ""
+  },
+  {
+    "id": "vendex",
+    "queryTitle": "VENDEX: The Fundamental Veterinary Drug Index",
+    "queryAuthor": ""
+  },
+  {
+    "id": "vet-scorer",
+    "queryTitle": "Vet Scorer 2022 \u2014 1st Edition",
+    "queryAuthor": ""
+  },
+  {
+    "id": "veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition",
+    "queryTitle": "Veterinary Anatomy Domestic Animals",
+    "queryAuthor": "Konig"
+  },
+  {
+    "id": "navsari-drug-index",
+    "queryTitle": "Veterinary Drug Index by NAVSARI",
+    "queryAuthor": ""
+  },
+  {
+    "id": "veterinary-parasitology",
+    "queryTitle": "Veterinary Parasitology",
+    "queryAuthor": "M. A. Taylor, R. L. Coop and R. L. Wall"
+  },
+  {
+    "id": "veterinary-practice-handbook",
+    "queryTitle": "Veterinary Practice Handbook",
+    "queryAuthor": "Chandolia"
+  },
+  {
+    "id": "veterinary-surgery-and-radiology-by-s-k-nandi",
+    "queryTitle": "Veterinary Surgery Radiology",
+    "queryAuthor": "Nandi"
+  }
+]

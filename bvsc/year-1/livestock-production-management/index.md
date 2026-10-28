@@ -13,7 +13,7 @@ Livestock Production Management focuses on connecting animal husbandry principle
 ## Notes
 
 29 notes
-[Topic-wise Notes25 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/practicals/)
+[Topic-wise Notes25 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -161,24 +161,13 @@ Try a shorter title or another collection.
 
 3 books
 
-[Cover unavailableA Textbook of Animal HusbandryG. C. BanerjeeReading guide](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
+[A Textbook of Animal Husbandry](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
 
-[Cover unavailableLivestock Production ManagementN. S. R. Sastry and C. K. ThomasReading guide](https://notes.thatvetguy.net/books/livestock-production-management/)
+[Livestock Production Management](https://notes.thatvetguy.net/books/livestock-production-management/)
 
-[Source previewRestraint and Handling of Wild and Domestic AnimalsMurray FowlerView book](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)
+[Restraint and Handling of Wild and Domestic Animals](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
-
-- Housing and animal handling
-- Cattle and buffalo management
-- Sheep and goat management
-- Poultry production and farm records
-
-Compare management requirements by species, age and production stage, with welfare and daily observation in view.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 

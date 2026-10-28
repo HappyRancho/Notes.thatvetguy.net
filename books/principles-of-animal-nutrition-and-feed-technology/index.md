@@ -2,11 +2,28 @@
 
 [Home](https://notes.thatvetguy.net/)/[BVSc](https://notes.thatvetguy.net/bvsc/)/[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)/[Books](https://notes.thatvetguy.net/books/)/Principles of Animal Nutrition and Feed Technology
 
+Preview from the linked source file.
+Book · Animal Nutrition
+
 # Principles of Animal Nutrition and Feed Technology
 
-A book for Animal Nutrition study. Open the linked Google Drive copy below.
+D. V. Reddy
 
-Preview from the linked source file.
+[Open in Google Drive](https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view)
+
+View or download this copy in Google Drive. Check its title page and edition before use.
+
+## About this book
+
+Link nutritional principles with feeds and feed processing.
+
+## A study note
+
+Use this alongside animal nutrition lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
+
+Rx Notes reading guidance
+
+Book details, edition & credits 
 
 - Authors / editors: D. V. Reddy
 
@@ -22,40 +39,16 @@ Preview from the linked source file.
 
 - Bibliographic year: 2016 · linked edition may differ
 
-[Open in Google Drive](https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view)
+Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
 
-View or download this copy in Google Drive. Check its title page and edition before use.
-
-## About this book
-
-Link nutritional principles with feeds and feed processing.
-
-## Connect it with your syllabus
-
-Use your university’s outline to choose the relevant reading. These are related syllabus themes, not a claim about this copy’s chapter list.
-
-- Feed evaluation and digestion
-- Energy and protein nutrition
-- Minerals and vitamins
-- Ration formulation and species feeding[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
-
-Edition, source & credits 
-
-Credit remains with the original authors and publishers. Bibliographic details and reference covers may describe a different edition from the linked copy. Check the title page before citing it.
-
-Collection: Vetverse. File label:
+Collection: Vetverse. Original file label:
 
 - D V. REDDY part 1.pdf
-
-Bibliographic reference checked against Open Library. Publication and edition details must be confirmed against the copy you use.
 
 Last source check: 2026-10-28.
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Principles%20of%20Animal%20Nutrition%20and%20Feed%20Technology#report)
 
-## Related reading
-
-- [Animal Nutrition](https://notes.thatvetguy.net/books/animal-nutrition/)
-- [Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
+[Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
 Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.

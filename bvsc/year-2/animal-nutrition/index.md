@@ -13,7 +13,7 @@ Animal Nutrition focuses on understanding feeds, nutrient requirements and feedi
 ## Notes
 
 33 notes
-[Topic-wise Notes30 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/)
+[Topic-wise Notes30 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -153,24 +153,13 @@ Try a shorter title or another collection.
 
 3 books
 
-[Source previewAnimal NutritionP. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. WilkinsonView book](https://notes.thatvetguy.net/books/animal-nutrition/)
+[Animal Nutrition](https://notes.thatvetguy.net/books/animal-nutrition/)
 
-[Source previewApplied Nutrition: Livestock, Poultry, Rabbits and Laboratory AnimalsD. V. ReddyView book](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
+[Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
 
-[Source previewPrinciples of Animal Nutrition and Feed TechnologyD. V. ReddyView book](https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/)
+[Principles of Animal Nutrition and Feed Technology](https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
-
-- Feed evaluation and digestion
-- Energy and protein nutrition
-- Minerals and vitamins
-- Ration formulation and species feeding
-
-Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 

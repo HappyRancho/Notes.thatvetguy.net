@@ -13,7 +13,7 @@ Veterinary Anatomy focuses on relating structure to function across domestic ani
 ## Notes
 
 19 notes
-[Topic-wise Notes15 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practicals/)
+[Topic-wise Notes15 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -105,30 +105,21 @@ Try a shorter title or another collection.
 
 ## Books
 
-5 books
+6 books
 
-[Reference coverColor Atlas of Veterinary HistologyLinda M. BachaView book](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/)
+[Color Atlas of Veterinary Histology](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/)
 
-[Cover unavailableColour Atlas of Veterinary Anatomy - The RuminantsView book](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
+[Colour Atlas of Veterinary Anatomy - The Ruminants](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
 
-[Cover unavailablePrimary Veterinary AnatomyR. K. GhoshReading guide](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
+[Essentials of Veterinary Histology & Embryology](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
 
-[Reference coverTextbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. WensingReading guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
+[Primary Veterinary Anatomy](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
 
-[Cover unavailableVeterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th EditionView book](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
+[Textbook of Veterinary Anatomy](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
+
+[Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Anatomy focuses on relating structure to function across domestic animal species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
-
-- Osteology and arthrology
-- Myology and visceral anatomy
-- Neuroanatomy and sense organs
-- Histology and embryology
-
-Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 

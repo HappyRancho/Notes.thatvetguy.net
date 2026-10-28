@@ -13,7 +13,7 @@ Veterinary Surgery and Radiology focuses on understanding surgical principles al
 ## Notes
 
 23 notes
-[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/)
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -135,38 +135,27 @@ Try a shorter title or another collection.
 
 9 books
 
-[Cover unavailableAdam's Lameness in Horses 7th EditionView book](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
+[Adam's Lameness in Horses 7th Edition](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
 
-[Source previewBrinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsView book](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
+[Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
 
-[Source previewEssentials of Veterinary Surgery, 8th EditionView book](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
+[Essentials of Veterinary Surgery, 8th Edition](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
 
-[Reference coverFarm Animal SurgerySusan L. Fubini and Norm Ducharme (editors)Reading guide](https://notes.thatvetguy.net/books/farm-animal-surgery/)
+[Farm Animal Surgery](https://notes.thatvetguy.net/books/farm-animal-surgery/)
 
-[Reference coverLumb & Jones Veterinary Anesthesia and AnalgesiaKurt Grimm, John ThurmonView book](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
+[Lumb & Jones Veterinary Anesthesia and Analgesia](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
 
-[Cover unavailableRuminant SurgeryR. P. S. Tyagi and Jit SinghView book](https://notes.thatvetguy.net/books/ruminant-surgery/)
+[Ruminant Surgery](https://notes.thatvetguy.net/books/ruminant-surgery/)
 
 Show 3 more books
 
-[Cover unavailableSlatter's Fundamentals of Veterinary Ophthalmology, 6th EditionView book](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
+[Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
 
-[Cover unavailableSmall Animal Surgery, 5th Edition - Theresa FossumView book](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/)
+[Small Animal Surgery, 5th Edition - Theresa Fossum](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/)
 
-[Cover unavailableVeterinary surgery and radiology by s.k.nandiView book](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)
+[Veterinary surgery and radiology by s.k.nandi](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
-
-- Asepsis and surgical principles
-- Anaesthesiology and pain management
-- Soft tissue surgery and orthopaedics
-- Radiography and other imaging principles
-
-Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 

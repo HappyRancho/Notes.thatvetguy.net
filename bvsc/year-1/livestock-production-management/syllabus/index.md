@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1General Livestock Management
@@ -115,32 +117,32 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 0 / 27
 
-- [ ] Indian poultry industry – Brief outline of the different segments – poultry statistics.
+- [ ] Indian poultry industry — Brief outline of the different segments — poultry statistics.
 - [ ] Classification of poultry with respect to production characters, age and standards.
 - [ ] Production characters of other avian species.
 - [ ] Description of indigenous fowls and their value in rural farming.
 - [ ] Specific strains developed for rural poultry production
-- [ ] their acceptability and importance in rural eco-system Brooding management – Types of brooders – preparation of shed – Importance of environmental factors.
-- [ ] Housing – Types of poultry houses – space requirements.
+- [ ] their acceptability and importance in rural eco-system Brooding management — Types of brooders — preparation of shed — Importance of environmental factors.
+- [ ] Housing — Types of poultry houses — space requirements.
 - [ ] Recent advances in housing systems and rearing systems.
-- [ ] Scavenging system of management – Low input technology – Backyard and semi-intensive units
+- [ ] Scavenging system of management — Low input technology — Backyard and semi-intensive units
 - [ ] their management and economic achievements.
-- [ ] Deep litter management – control of litter-borne diseases and recycling of litter.
-- [ ] Cage management – Different types
+- [ ] Deep litter management — control of litter-borne diseases and recycling of litter.
+- [ ] Cage management — Different types
 - [ ] Advantages and disadvantages.
 - [ ] Management of growers and layers.
 - [ ] Management of broilers and breeders.
 - [ ] Stress management.
-- [ ] Feeding management–Classification of nutrients – Nutrient requirements and feed formulations.
-- [ ] Feeding systems–Feed restrictions – phase feeding – Additives and supplements.
+- [ ] Feeding management—Classification of nutrients — Nutrient requirements and feed formulations.
+- [ ] Feeding systems—Feed restrictions — phase feeding — Additives and supplements.
 - [ ] Water management.
 - [ ] Breeding systems and methods of mating.
 - [ ] Selection and culling.
 - [ ] Breeding for specific characters and for hybrid chicken production.
 - [ ] Poultry judging.
-- [ ] Egg structure – Physical and chemical composition.
+- [ ] Egg structure — Physical and chemical composition.
 - [ ] Bio-security and principles of disease prevention management.
-- [ ] Health care for common poultry diseases – vaccination.
+- [ ] Health care for common poultry diseases — vaccination.
 - [ ] General principles of poultry medication.
 
 ### Unit 7Diversified Poultry Production And Hatchery Management
@@ -150,10 +152,10 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Principles of incubation and hatchery management practices.
 - [ ] Factors affecting fertility and hatchability, selection and care of hatching eggs and hatchery hygiene.
 - [ ] Candling, sexing, grading, packing and disposal of hatchery waste.
-- [ ] Economics of hatchery business – Troubleshooting hatchery failures–Computer applications in hatchery management.
+- [ ] Economics of hatchery business — Troubleshooting hatchery failures-Computer applications in hatchery management.
 - [ ] Poultry waste management, pollution and environmental issues.
 - [ ] Organic and hill farming.
-- [ ] Mixed or integrated poultry farming Vertical & horizontal integration in commercial poultry production – Contract farming.
+- [ ] Mixed or integrated poultry farming Vertical & horizontal integration in commercial poultry production — Contract farming.
 - [ ] Exportorimport of poultry produce and marketing.
 - [ ] Management of ducks, geese, turkeys, Japanese quails, guinea fowls etc.
 
@@ -210,7 +212,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Care of breeding in camel, pregnancy and parturition of camel.
 - [ ] Population statistics and utility, peculiarities of yak.
 - [ ] Feeding and breeding of MithunorYaks.
-- [ ] Yak × cattle crossing, hybrids from Mithun or Yaks and their adaptation to high altitude, milk composition of Mithun or Yaks.
+- [ ] Yak x cattle crossing, hybrids from Mithun or Yaks and their adaptation to high altitude, milk composition of Mithun or Yaks.
 
 ## Practical
 
@@ -277,7 +279,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Male and female reproductive system—Quality changes in egg during storage.
 - [ ] Economic traits of broilers.
 - [ ] Economic traits of egg-type chicken and breeders.
-- [ ] Al in poultry.
+- [ ] AI in poultry.
 - [ ] Housing and design of a poultry farm.
 - [ ] Poultry farm equipment and their classification.
 - [ ] Brooding arrangement in broiler farms.
@@ -332,9 +334,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=7)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=18)
 
 Checked 2026-10-28.
 

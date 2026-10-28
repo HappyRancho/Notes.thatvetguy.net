@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1General
@@ -45,7 +47,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Principles of zoo hygiene, public health problems arising from zoos.
 - [ ] Prevention, control and treatment of infectious, parasitic, nutritional and metabolic diseases in zoo and wild animals including exotic birds.
 - [ ] Acts and Rules related to Zoo and wild animals.
-- [ ] National and international organizations and institutions interlinked to wild and zoo animals – role and functioning.
+- [ ] National and international organizations and institutions interlinked to wild and zoo animals — role and functioning.
 
 ### Unit 5Bacterial, Fungal And Rickettsial Diseases
 
@@ -76,7 +78,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Laws relating to poisons and adulteration of drugs.
 - [ ] Livestock importation act, liability and insurance.
 - [ ] Code of conduct and ethics for veterinarians - the regulations made under the Act.
-- [ ] Animal welfare organizations and its role in animal welfare, welfare assessment, behaviour and animal welfare, principles and philosophy of animal welfare, animal welfare ethics, improving animal welfare through legislation and incentives, assessment of physiological, behavioural, disease and production measures of animal welfare, assessing welfare in practice, environment enrichment, euthanasia, welfare of animals used in education and research and transportation, religion and animal welfare, human and animal welfare conflict, veterinary disaster management, human−animal interactions, economics and animal welfare and veterinarians as animal welfare educators
+- [ ] Animal welfare organizations and its role in animal welfare, welfare assessment, behaviour and animal welfare, principles and philosophy of animal welfare, animal welfare ethics, improving animal welfare through legislation and incentives, assessment of physiological, behavioural, disease and production measures of animal welfare, assessing welfare in practice, environment enrichment, euthanasia, welfare of animals used in education and research and transportation, religion and animal welfare, human and animal welfare conflict, veterinary disaster management, human-animal interactions, economics and animal welfare and veterinarians as animal welfare educators
 
 ## Practical
 
@@ -141,9 +143,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=5)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=44)
 
 Checked 2026-10-28.
 
