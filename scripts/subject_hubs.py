@@ -13,7 +13,7 @@ def note_tile(b,ident,title,detail,ic,tone,available):
 def book_card(b,book):
     cover=book.get('cover');label='Reference cover' if cover and cover['kind']=='reference-cover' else 'Source preview' if cover else 'Cover unavailable'
     art='<img src="'+cover['path']+'" width="'+str(cover['width'])+'" height="'+str(cover['height'])+'" alt="" loading="lazy" decoding="async">' if cover else b.icon('book')
-    content='<span class="subject-book-art" aria-hidden="true">'+art+'</span><span class="subject-book-art-label">'+label+'</span><strong>'+e(book['title'])+'</strong>'+('<small>'+e(book['author'])+'</small>' if book.get('author') else '')+'<span class="subject-book-access">'+('Reading guide' if not book['primaryUrl'] else 'View book')+b.icon('chevron')+'</span>'
+    content='<span class="subject-book-art" aria-hidden="true">'+art+'</span><strong>'+e(book['title'])+'</strong>'
     return '<article class="subject-book-card" data-row-search="'+e(normal(book['title']+' '+(book.get('author') or '')),quote=True)+'">'+b.link(book['page'],content,'year-book-link')+'</article>'
 
 def render(b,year,subject,books):
@@ -27,7 +27,7 @@ def render(b,year,subject,books):
     body+='<section class="subject-reader subject-notes-card" data-subject-reader aria-labelledby="notes-title"><header class="subject-card-heading"><span class="subject-rx" aria-hidden="true">℞</span><h2 id="notes-title">Notes</h2><span>'+str(len(rows))+' '+('note' if len(rows)==1 else 'notes')+'</span></header><div class="subject-notes-options">'
     body+=note_tile(b,'notes','Topic-wise Notes',str(len(topics))+' '+('note' if len(topics)==1 else 'notes'),'paper','sky',bool(topics))
     body+=note_tile(b,'tanuvas','Unit-wise Notes','TANUVAS · '+str(len(tanuvas))+' '+('collection' if len(tanuvas)==1 else 'collections'),'book','mint',bool(tanuvas))+'</div>'
-    body+=b.link(vault_url(year,name),'<span class="rx-row-icon peach">'+b.icon('flask')+'</span><span><strong>Practical Vault</strong><small>Manuals, slides &amp; practical collections</small></span>'+b.icon('chevron'),'subject-practical-link')
+    body+=b.link(vault_url(year,name),'<span class="rx-row-icon peach">'+b.icon('flask')+'</span><span><strong>Practical Vault</strong><small>Practical folders &amp; assessment guide</small></span>'+b.icon('chevron'),'subject-practical-link')
     body+='<div class="reader-search js-only" hidden><label class="sr-only" for="'+subject['slug']+'-query">Find a note in the selected collection</label><div class="inline-search">'+b.icon('search')+'<input id="'+subject['slug']+'-query" class="collection-query" type="search" placeholder="Find a topic or note…" autocomplete="off"></div><span class="reader-search-status sr-only" role="status"></span></div>'
     for ident,title,records,category in [('notes','Topic-wise Notes',topics,'topic'),('tanuvas','TANUVAS Notes',tanuvas,'tanuvas')]:
         body+='<details class="reader-panel" data-subject-panel data-selected="false" id="'+ident+'"><summary class="reader-panel-heading"><h3>'+title+'</h3><span>'+str(len(records))+' '+('note' if len(records)==1 else 'notes')+'</span>'+b.icon('chevron')+'</summary>'+groups(b,records,subject,category,level=4)
@@ -41,6 +41,6 @@ def render(b,year,subject,books):
         if len(own)>6:body+='<details class="subject-more-books"><summary>Show '+str(len(own)-6)+' more '+('book' if len(own)-6==1 else 'books')+b.icon('chevron')+'</summary><div class="subject-book-grid">'+''.join(book_card(b,book) for book in own[6:])+'</div></details>'
         body+='<p class="subject-books-empty" hidden>No books match that title or author.</p>'
     else:body+='<p class="subject-book-unavailable">No book listed for this subject yet.</p>'+b.link('/request-resource/','Request a book '+b.icon('arrow'),'book-library-link')
-    body+='</section><details class="subject-study-guide"><summary>Course focus &amp; study tips '+b.icon('chevron')+'</summary><p>'+e(guide['summary'])+'</p><ul>'+''.join('<li>'+e(t)+'</li>' for t in guide['topics'])+'</ul><p>'+e(guide['studyTip'])+'</p></details>'
+    body+='</section>'
     body+='<nav class="subject-bottom-nav" aria-label="More study material">'+b.link(f'/bvsc/year-{year}/','All '+label+' subjects '+b.icon('arrow'))+'<button type="button" class="studied-button js-only" data-studied="'+subject['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></nav></div>'
     b.write_page(path,name+' Notes, TANUVAS Material & Books',description,body,[(r['title'],r['url']) for r in rows])

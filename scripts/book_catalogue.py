@@ -34,7 +34,11 @@ def books():
   if subject not in book['subjects']:book['subjects'].append(subject)
   book['files'].append(dict(f));book['lastVerified']=source['reviewed']
   book.setdefault('resourceId','book-'+ident)
+ for extra in c.get('additionalBooks',[]):all[extra['id']]=dict(extra)
  for book in all.values():
+  if book['id'] in c.get('telegramOverrides',{}):
+   override=c['telegramOverrides'][book['id']];book['telegram']=override['url'];book['originalLabel']=override['originalLabel']
+
   if book['id'] in c.get('workTitles',{}):book['title']=c['workTitles'][book['id']]
   if book['id'] in c.get('authors',{}):book['author']=c['authors'][book['id']]
   book['humanReference']=any(t in normal(book['title']) for t in ['guyton','sembulingam','medical pharmacology','goodman and gilman','pocket guide diagnostic tests'])
@@ -55,6 +59,7 @@ def books():
    with Image.open(ROOT/original['path'].lstrip('/')) as image:
     image=image.convert('RGB').rotate(c['coverRotations'][book['id']],expand=True);image.thumbnail((520,760));image.save(dest,'WEBP',quality=85,method=6)
     book['cover']={**original,'path':'/assets/books/'+dest.name,'width':image.width,'height':image.height,'manualOrientation':c['coverRotations'][book['id']]}
+  if book['id'] in c.get('coverOverrides',{}):book['cover']=c['coverOverrides'][book['id']]
   book['page']=route(book['id'])
   book['files'].sort(key=lambda f:(-int(m[1]) if (m:=re.search(r'\b(\d+)(?:st|nd|rd|th)?\s*[- ]?edition',f['name'],re.I)) else 0,natural(f['name'])))
   book['primaryUrl']=book['telegram'] or (book['files'][0]['url'] if book['files'] else None)

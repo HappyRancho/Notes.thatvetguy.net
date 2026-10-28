@@ -52,6 +52,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
+    if path=='/search/':extra_assets+=f'<link rel="stylesheet" href="/assets/search-page.css?v={VERSION}">'
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
     if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
@@ -85,10 +86,10 @@ def discovery():
     for r in RECORDS:
         if not keep_complete_resource(r):
             continue
-        item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink','keywords']};item['fileIds']=(r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
+        item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink','keywords']};item['fileIds']=r.get('searchFileIds') or (r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
     from book_catalogue import books as book_registry
     for book in book_registry():
-        if not book.get('resourceId'):index.append(dict(id='book-guide-'+book['id'],title=book['title'],subject=', '.join(s['name'] for s in book['subjects']),year=book['subjects'][0]['year'] if book['subjects'] else None,type='Book',format='Guide',kind='books',group='Books',path='Books/'+book['title'],permalink=book['page'],url=book['page'],fileIds=[],keywords=[book['title'],book.get('author') or '', 'Books']))
+        if not book.get('resourceId') and book.get('primaryUrl'):index.append(dict(id='book-guide-'+book['id'],title=book['title'],subject=', '.join(s['name'] for s in book['subjects']),year=book['subjects'][0]['year'] if book['subjects'] else None,type='Book',format='Guide',kind='books',group='Books',path='Books/'+book['title'],permalink=book['page'],url=book['page'],fileIds=[],keywords=[book['title'],book.get('author') or '', 'Books']))
     from syllabus_pages import DATA as SYLLABI,checklist_url
     for subject in SYLLABI['subjects']:
         route=checklist_url(subject['year'],subject['subject']);index.append(dict(id='syllabus-'+subject['slug'],title=subject['subject']+' Syllabus Checklist',subject=subject['subject'],year=subject['year'],type='Syllabus',format='Checklist',kind='other',group='Syllabus',path='Syllabus/'+subject['subject'],permalink=route,url=route,fileIds=[],keywords=[subject['subject'],'syllabus','course outline','checklist']))

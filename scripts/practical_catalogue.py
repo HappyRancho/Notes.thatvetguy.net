@@ -29,10 +29,20 @@ def build_records(existing):
         f=files[0];folder=folders[folder_id];group=group_title(folder);rid='practical-photos-'+folder_id;page=vault_url(f['year'],f['subject']);label=group+' — Photo Collection'
         variant=dict(id=folder_id,name=folder['name'],mime='application/vnd.google-apps.folder',size=None,updated=None,url=folder['url'],format='IMG',extension='FOLDER',download=None)
         records.append(dict(id=rid,name=folder['name'],title=label,year=f['year'],subject=f['subject'],kind='images',group=group,format='IMG',mime=variant['mime'],size=None,updated=None,url=folder['url'],variants=[variant],duplicateIds=[],photoIds=[p['id'] for p in files],type='Practical',page=page,permalink=page+'#file-'+rid,source='Vetverse',sourceCredit='Source collection: Vetverse',sourcePage=folder['url'],lastVerified=source['reviewed'],collections=['practical-vault'],unit=group,path=folder['path'],folderId=folder_id,subjectSlug=slug(f['subject']),description='Reference images kept together in their original folder. Open the complete collection to browse every image.',keywords=[f['subject'],group,'photos','spotters','Practical Vault'],new=False,completeFolderListing=folder['complete']))
+    
+    # Retain source-file provenance and old saved IDs without publishing a file dump.
+    for record in records:record['public']=False
+    for folder in source['folders']:
+        members=[f for f in source['files'] if f['folderId']==folder['id']]
+        page=vault_url(folder['year'],folder['subject']);rid='practical-folder-'+folder['id'];label=group_title(folder)
+        variant=dict(id=folder['id'],name=folder['name'],mime='application/vnd.google-apps.folder',size=None,updated=None,url=folder['url'],format='FOLDER',extension='FOLDER',download=None)
+        old_ids=[r['id'] for r in records if r.get('folderId')==folder['id']]
+        records.append(dict(id=rid,name=folder['name'],title=folder['subject']+' — '+label,year=folder['year'],subject=folder['subject'],kind='practical',group=label,format='FOLDER',mime=variant['mime'],size=None,updated=None,url=folder['url'],variants=[variant],duplicateIds=[],photoIds=[],type='Practical Folder',page=page,permalink=page+'#folder-'+folder['id'],source='Vetverse',sourceCredit='Vetverse collection',sourcePage=folder['url'],lastVerified=source['reviewed'],collections=['practical-folders'],unit=label,path=folder['path'],folderId=folder['id'],practicalRoot=folder['practicalRoot'],subjectSlug=slug(folder['subject']),description='Open the original '+label.lower()+' folder.',keywords=[folder['subject'],label,'practical'],new=False,sourceAggregate=True,memberIds=[f['id'] for f in members],searchFileIds=[folder['id']]+[f['id'] for f in members]+old_ids))
     return sorted(records,key=lambda r:(r['year'],natural(r['subject']),natural(r['group']),natural(r['title'])))
 def manifest_rows(records):
     source={f['id']:f for f in source_data()['files']};rows=[]
     for r in records:
+        if r.get('sourceAggregate'):continue
         if r['photoIds']:
             rows.extend({k:source[fid].get(k) for k in ['year','path','id','name','mime','size','updated','url']} for fid in r['photoIds'])
         else:

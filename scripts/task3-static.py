@@ -59,14 +59,14 @@ for outline in outlines['years'].values():
 data=json.loads((ROOT/'data/resources.json').read_text());records=data['files'];raw=json.loads((ROOT/'data/drive_manifest.json').read_text());report=json.loads((ROOT/'data/duplicates-report.json').read_text());search=json.loads((ROOT/'search-index.json').read_text())
 rawids={f['id'] for f in raw};accounted=[]
 for r in records:
-    if r['url'].startswith('https://drive.google.com/'):
+    if r['url'].startswith('https://drive.google.com/') and not r.get('sourceAggregate'):
         accounted+=r['photoIds'] or [v['id'] for v in r['variants']];accounted+=r['duplicateIds']
 assert set(accounted)==rawids and len(accounted)==len(rawids),'lost or multiply-owned original file'
 visible_records=[r for r in records if keep_complete_resource(r)]
 from book_catalogue import books as book_registry
 from practical_catalogue import build_records
-practical_records=[r for r in records if 'practical-vault' in r['collections']];practical_ids={r['id'] for r in practical_records};practical_urls={r['url'] for r in practical_records}
-book_data=book_registry();guide_ids={'book-guide-'+b['id'] for b in book_data if not b.get('resourceId')}
+practical_records=[r for r in records if any(c in r['collections'] for c in ['practical-vault','practical-folders'])];practical_ids={r['id'] for r in practical_records};practical_urls={r['url'] for r in practical_records}
+book_data=book_registry();guide_ids={'book-guide-'+b['id'] for b in book_data if not b.get('resourceId') and b.get('primaryUrl')}
 from syllabus_pages import DATA as SYLLABI
 syllabus_ids={'syllabus-'+s['slug'] for s in SYLLABI['subjects']}
 assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids|syllabus_ids,'search mismatch'

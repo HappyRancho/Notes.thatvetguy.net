@@ -7,7 +7,7 @@ from site_shell import year_tiles
 
 def count(n,word='resource'):return f'{n:,} {word}'+('' if n==1 else 's')
 def keep_complete_resource(r):
-    return True
+    return r.get('public',True)
 def size_label(n):
     if n is None:return ''
     return f'{n/1_000_000:.1f} MB' if n>=1_000_000 else f'{n/1000:.0f} KB'
@@ -64,12 +64,9 @@ def other(b):
     body=b.article_intro('Can’t find what you need?',b.geo.META['/request-resource/']['summary'])+b.section_aside('request')+'<section class="content-section prose"><h2>Tell us what would help.</h2><p>Include the topic, subject, year and edition if relevant.</p><label for="request-file-id">File ID, if reporting a file</label><input id="request-file-id" class="request-input" name="file" type="text" autocomplete="off"><p id="request-context" role="status"></p>'+b.link('mailto:contact@thatvetguy.net?subject=Resource%20request','Email your request '+b.icon('arrow'),'button request-email')+'<p><!--email_off-->You can also copy <strong>contact@thatvetguy.net</strong> into your email app.<!--/email_off--></p></section>'
     for ident,title,text in [('contact','Contact','Send your question to contact@thatvetguy.net.'),('contribute','Contribute','Send the title, subject and original source credit. Share only material you have permission to contribute.'),('report','Report an error / takedown','Include the file ID or page URL, the issue and your contact details. For a takedown request, explain your connection to the material.')]:body+='<section class="content-section prose" id="'+ident+'"><h2>'+title+'</h2><p><!--email_off-->'+text+'<!--/email_off--></p></section>'
     b.write_page('/request-resource/','Request a Resource',b.geo.META['/request-resource/']['summary'],body+'</div>')
-    body=b.article_intro('Find your next read.',b.geo.META['/search/']['summary'])+b.search_form(True)+'<div id="page-results"></div><section class="content-section preset-results"><h2>Start with a topic.</h2><nav class="preset-links" aria-label="Suggested searches">'+''.join(b.link('/search/#preset-'+a,t,'filter-link') for a,t in [('pharmacology','Pharmacology'),('haemonchus','Haemonchus'),('nsaids','NSAIDs'),('surgery-books','Surgery books')])+'</nav>'
-    from assets_index import find_preset
-    search_records=[r for r in b.RECORDS if keep_complete_resource(r)]
-    for a,t in [('pharmacology','Pharmacology'),('haemonchus','Haemonchus'),('nsaids','NSAIDs'),('surgery-books','Surgery books')]:
-        rows=find_preset(t,search_records);body+=group(b,t,rows,'preset-'+a,False,teaser,3) if rows else '<details class="resource-group" id="preset-'+a+'"><summary><h3>'+t+'</h3><span class="group-count">0</span></summary>'+empty(b,'No resources for this topic yet')+'</details>'
-    b.write_page('/search/','Search Veterinary Resources',b.geo.META['/search/']['summary'],body+'</section></div>',noindex=True)
+    from search_pages import render as search_render
+    search_render(b)
+
 def render(b):
     overview(b);collections(b);tools(b);other(b)
     from book_guides import render as book_render

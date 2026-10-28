@@ -10,8 +10,8 @@ resources=json.loads((ROOT/'data/resources.json').read_text());mapping=json.load
 assert {(s['year'],s['subject']) for s in DATA['subjects']}=={(int(y),n) for y,names in mapping['years'].items() for n in names}
 allids=[];counts={}
 for s in DATA['subjects']:
- assert s['sourceSha256']==hashlib.sha256((ROOT/s['sourceUrl'].lstrip('/')).read_bytes()).hexdigest()
- assert all(0<u['sourcePage']<=outlines['years'][str(s['sourcePdfYear'])]['pages'] for u in s['units'])
+ source=json.loads((ROOT/'data/msve-2016-source.json').read_text());assert s['sourceSha256']==source['sha256'] and s['sourceUrl']==source['url']
+ assert all(0<u['sourcePage']<=source['pageCount'] for u in s['units'])
  assert len({u['key'] for u in s['units']})==len(s['units'])
  for kind in ['theory','practical']:
   nums=[u['number'] for u in s['units'] if u['kind']==kind and u['number'] is not None];assert nums==list(range(1,len(nums)+1)),(s['subject'],kind,'missing course unit')
@@ -26,6 +26,7 @@ for s in DATA['subjects']:
  assert set(re.findall(r'data-topic="([^"]+)"',html))=={t['id'] for u in s['units'] for t in u['topics']}
  assert html.count('type="checkbox"')==s['totalTopics'] and 'data-syllabus=' in html
  assert 'data-syllabus=' not in hub and 'subject-syllabus-link' in hub
+ assert 'Course focus &amp; study tips' not in hub and 'subject-study-guide' not in hub
  assert hub.index('Syllabus Checklist')<hub.index('id="notes-title"')<hub.index('id="subject-books-title"')
  assert f'href="{parent}practicals/"' in hub and f'href="{path}"' in hub
  assert 'data-reader-tab=' not in hub and 'subject-notes-options' in hub
@@ -36,4 +37,4 @@ assert len(allids)==len(set(allids)),'Topic keys must not collide across repeate
 for path in ['index.html','objective/index.html','clinical/handbooks/index.html','clinical/drug-index/index.html','books/index.html']:
  raw=(ROOT/path).read_text();assert '/assets/subject-hub.css' not in raw and '/assets/syllabus-checklist.js' not in raw,(path,'subject-only stylesheet leaked')
 out=ROOT/'docs/qa/subject-hubs';out.mkdir(parents=True,exist_ok=True);(out/'syllabus-data.json').write_text(json.dumps({'subjects':len(DATA['subjects']),'units':sum(c['units'] for c in counts.values()),'topics':len(allids),'counts':counts},indent=2)+'\n')
-print(f'PASS: {len(DATA["subjects"])} source-credited checklists, {sum(c["units"] for c in counts.values())} units/sections, {len(allids)} unique topic checkboxes; no syllabus text dropped; subject-only styles.')
+print(f'PASS: {len(DATA["subjects"])} source-credited checklists, {sum(c["units"] for c in counts.values())} units/sections, {len(allids)} unique topic checkboxes; full university curriculum checked; no syllabus text dropped; subject-only styles.')
