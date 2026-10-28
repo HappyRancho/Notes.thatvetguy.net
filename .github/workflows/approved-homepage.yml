@@ -55,7 +55,7 @@ jobs:
       - run: node scripts/book-pages-qa.mjs
         if: contains(github.event.head_commit.message, '[book-pages]')
       - run: node scripts/subject-hub-qa.mjs
-        if: contains(github.event.head_commit.message, '[subject-blueprint]')
+        if: contains(github.event.head_commit.message, '[subject-blueprint]') && !contains(github.event.head_commit.message, '[subject-regression]')
       - name: Lighthouse and page regression
         if: "!contains(github.event.head_commit.message, '[search-keywords]')"
         run: npm run qa -- mockup-after
