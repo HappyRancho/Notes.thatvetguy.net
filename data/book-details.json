@@ -1,0 +1,1030 @@
+{
+  "reviewed": "2026-10-28",
+  "books": {
+    "a-textbook-of-animal-husbandry": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "a-textbook-of-veterinary-general-pathology": {
+      "cover": {
+        "path": "/assets/books/a-textbook-of-veterinary-general-pathology.webp",
+        "width": 520,
+        "height": 657,
+        "source": "https://drive.google.com/thumbnail?id=1tXZyya7hVjh38o1T71Hqkj2RwfygKus-&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "adam-s-lameness-in-horses-7th-edition": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-capsule": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "ananthanarayan-microbiology": {
+      "cover": {
+        "path": "/assets/books/ananthanarayan-microbiology.webp",
+        "width": 520,
+        "height": 729,
+        "source": "https://drive.google.com/thumbnail?id=1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "animal-breeding": {
+      "cover": {
+        "path": "/assets/books/animal-breeding.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=11ZOm73joJiohbgPyZ1HBj9jJK94BuJxF&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "animal-nutrition": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "animal-nutrition-7th-edition": {
+      "cover": {
+        "path": "/assets/books/animal-nutrition-7th-edition.webp",
+        "width": 520,
+        "height": 677,
+        "source": "https://drive.google.com/thumbnail?id=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "Seventh Edition\n\nANIMAL NUTRITION\n\nP. McDonald\n\nR. A. Edwards\n\nJ. FD. Greenhalgh\n\nC. A. Morgan\n\nL. A. Sinclair\n\nR. G. Wilkinson\n\nre ,\n\n~“\n\na a\n\nes\n\nes",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "animal-science-refresher": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "applied-veterinary-gynaecology-and-obstetrics-dr-pradeep": {
+      "cover": {
+        "path": "/assets/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep.webp",
+        "width": 520,
+        "height": 657,
+        "source": "https://drive.google.com/thumbnail?id=1hgcs2A58OOunIz_pqwzyFYa632OE2JhW&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "APPLIED\n\nVETERINARY\n\nGYNAECOLOGY\n\nAND OBSTETRICS\n\nDr. Pradeep Kumar\n\nM.V.Sc., Ph.D. (pursuing)\n\nInternational Book Distributing Co.",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "biochemistry": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics": {
+      "cover": {
+        "path": "/assets/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics.webp",
+        "width": 520,
+        "height": 520,
+        "source": "https://drive.google.com/thumbnail?id=1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "canine-and-feline-endocrinology-and-reproduction": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "clinical-examination-of-farm-animals": {
+      "cover": {
+        "path": "/assets/books/clinical-examination-of-farm-animals.webp",
+        "width": 520,
+        "height": 677,
+        "source": "https://drive.google.com/thumbnail?id=1ijD_vNICIFjPCDVHfcbg50KwbBzJG362&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "clinical-handbook-on-canine-dermatology-3rd-edition": {
+      "cover": {
+        "path": "/assets/books/clinical-handbook-on-canine-dermatology-3rd-edition.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "color-atlas-of-veterinary-histology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "color-handbook-of-skin-diseases-of-dog-and-cat": {
+      "cover": {
+        "path": "/assets/books/color-handbook-of-skin-diseases-of-dog-and-cat.webp",
+        "width": 483,
+        "height": 760,
+        "source": "https://drive.google.com/thumbnail?id=12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "Second Edition\n\nA Colour Handbook of\n\nSKIN DISEASES\n\nOF THE\n\nDOG AND CAT\n\nTim Nuttall\n\nRichard G. Harvey\n\nPatrick J. McKeever\n\nstil\n\n[MARE",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "colour-atlas-of-veterinary-anatomy-the-ruminants": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "small-animal-colour-handbook": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "dhruv-desai": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "cunningham-s-textbook-of-veterinary-physiology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "d-v-reddy-part-1": {
+      "cover": {
+        "path": "/assets/books/d-v-reddy-part-1.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "d-v-reddy-part-2": {
+      "cover": {
+        "path": "/assets/books/d-v-reddy-part-2.webp",
+        "width": 520,
+        "height": 673,
+        "source": "https://drive.google.com/thumbnail?id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "wall-drug-dose": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "dukes-physiology-of-domestic-animals": {
+      "cover": {
+        "path": "/assets/books/dukes-physiology-of-domestic-animals.webp",
+        "width": 520,
+        "height": 681,
+        "source": "https://drive.google.com/thumbnail?id=1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "e-nanu-qbank": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "essentials-of-medical-pharmacology-k-d-tripathi": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "essentials-of-veterinary-pharmacology-and-therapeutics": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "essentials-of-veterinary-surgery-8th-edition": {
+      "cover": {
+        "path": "/assets/books/essentials-of-veterinary-surgery-8th-edition.webp",
+        "width": 520,
+        "height": 673,
+        "source": "https://drive.google.com/thumbnail?id=1Vcpz-sOF9immjL0tGtTkNW1WPmSGsICX&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "Essentials of\n\nVeterinary\n\nSurgery ©\n\nEighth Edition\n\nA. VENUGOPALAN",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "farm-animal-surgery": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "fenner-s-veterinary-virology-5th-edition": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "fluid-therapy-guidelines-for-dogs-and-cats": {
+      "cover": {
+        "path": "/assets/books/fluid-therapy-guidelines-for-dogs-and-cats.webp",
+        "width": 520,
+        "height": 675,
+        "source": "https://drive.google.com/thumbnail?id=1tVLqmfGBpSLb2nm_8gShyS-vaPRWNAPy&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "2013 AAHA/AAFP Fluid Therapy\n\nGuidelines for Dogs and Ca\n\n™\n\n==\n\na7\n\nN\n\ntT",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "gracey-s-meat-hygiene-11edition": {
+      "cover": {
+        "path": "/assets/books/gracey-s-meat-hygiene-11edition.webp",
+        "width": 520,
+        "height": 592,
+        "source": "https://drive.google.com/thumbnail?id=1zSjwKCifb-4r9AjRKky6UKAZYAyGFA63&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "GRACEY’S\n\nMEAT HYGIEN\n\net\n\nVENTH EDITION\n\nQ\n\nea\n\nT het\n\ninf\n\nee\n\nie\n\nSB.\n\na i Time\n\n~S vex\n\nVal\n\npe\n\nae\n\nEr\n\nIf\n\nNt\n\ne\n\nfish",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "guyton-and-hall-textbook-of-medical-physiology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-clinician-handbook": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "small-animal-radiology-handbook": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008": {
+      "cover": {
+        "path": "/assets/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008.webp",
+        "width": 520,
+        "height": 742,
+        "source": "https://drive.google.com/thumbnail?id=10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "VT\n\nbs!\n\n~\n\n)WILEY- BLACKWELL\n\nAi Wi\n\nnb",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "kvafsu-qbank": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "lawrie-s-meat-science": {
+      "cover": {
+        "path": "/assets/books/lawrie-s-meat-science.webp",
+        "width": 520,
+        "height": 739,
+        "source": "https://drive.google.com/thumbnail?id=1HoEhWNBh-Zi2KhSL4jiim3dX7jq7VK09&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "LAWRIE’S MEAT SCIENCE\n\nSIXTH EDITION\n\nby\n\nR. A. LAWRIE\n\nPhD., D.Sc, Sc.D., FRS.E., Hon. FIFST., FRSC, FLBiol\n\nEmeritus Professor of Food Science, University of Nottingham,\n\nFormerly Head, Meat Biochemistry Group,\n\nLow Temperature Research Station, Cambridge\n\nWOODHEAD PUBLISHING LIMITE\n\n‘Cambridge England",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "livestock-production-management": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "lumb-jones-veterinary-anesthesia-and-analgesia": {
+      "cover": {
+        "path": "/assets/books/lumb-jones-veterinary-anesthesia-and-analgesia.webp",
+        "width": 520,
+        "height": 673,
+        "source": "https://drive.google.com/thumbnail?id=19OwUuJ2JU7IQuhZ9PrEGS0IhHgQuU3t-&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "manual-of-canine-and-feline-cardiology": {
+      "cover": {
+        "path": "/assets/books/manual-of-canine-and-feline-cardiology.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=1ufeZVFfNgxzTQTQWGuAsbxGYVwiMUK-I&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "meat-and-meat-products-technology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "meat-processing-technology": {
+      "cover": {
+        "path": "/assets/books/meat-processing-technology.webp",
+        "width": 520,
+        "height": 736,
+        "source": "https://drive.google.com/thumbnail?id=1XveEX6w8dVs--uKsRlEM1RCGvCx3Qi8j&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "metabolic-diseases-in-farm-animals": {
+      "cover": {
+        "path": "/assets/books/metabolic-diseases-in-farm-animals.webp",
+        "width": 492,
+        "height": 760,
+        "source": "https://drive.google.com/thumbnail?id=1E1v6I6yCde6-jhgUFDV2C4Z07M_Valkg&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "Metabolic Diseases\n\nin Farm Animals\n\nJACK M PAYNE",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "ndri-qbank": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "necropsy-book-john-king": {
+      "cover": {
+        "path": "/assets/books/necropsy-book-john-king.webp",
+        "width": 520,
+        "height": 724,
+        "source": "https://drive.google.com/thumbnail?id=1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "THE NECROPSY BOOK\n\nA Guide for Veterinary Students,\n\nResidents, Clinicians, Pathologists,\n\nand Biological Researchers\n\nRevised January 2013\n\nJohn M. King\n\nLois Roth-Johnson\n\nDavid C. Dodd\n\nMarion E. Newsom\n\nPROFESSORIAL POST SCRIPTS\n\nCornell faculty often have manuscripts in various states of comple-\n\ntion when they reach emeritus status. This archival repository is a\n\nplace where these manuscripts, some previously published but out\n\nof print, and some that have not been subjected to peer review, may\n\nbe valuable for their content, but sometimes also for their historical\n\nvalue. This collection is a place for these legacy works to become ac-\n\ncessible online.\n\nCornell University\n\nReleased: October 2014\n\n“This book -hitp//hdL handle ne/1813/37948\n\nProfessorial Post Scripts Collection ~ htp//ecommonsibrary.cornelledwhandle/ 1813137929\n\n“The Internet-First University Press ~ hup/ecommons library cornell eda/handle/1813/62",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "ockerman-animal-byproduct-processing": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "outlines-of-dairy-technology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "pathways-to-pregnancy-and-parturition": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "plumbs-handbook": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "pocket-guide-diagnostic-tests": {
+      "cover": {
+        "path": "/assets/books/pocket-guide-diagnostic-tests.webp",
+        "width": 489,
+        "height": 760,
+        "source": "https://drive.google.com/thumbnail?id=1qtqPZKe9ytj7xwt1wv9zm6fvh3pzxu7p&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "third edition\n\n.\n\nPocket\n\na\n\nDiagnostic\n\nTests\n\ncht ah eects\n\n« Includes over 350 tests\n\n» Answers questions on-the-spot\n\nDiana Nicoll\n\nStephen J.McPhee\n\nMichael Pignone\n\nTony M. Chou\n\nWilliam M. Detmer\n\npo\n\ngu",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "small-animal-medicine-handbook": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "poultry-metabolic-disorders-and-mycotoxins": {
+      "cover": {
+        "path": "/assets/books/poultry-metabolic-disorders-and-mycotoxins.webp",
+        "width": 520,
+        "height": 670,
+        "source": "https://drive.google.com/thumbnail?id=1gqmSEaqXGXKrvPeX8kNAveCGKM_bnE1b&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "prescott-s-microbiology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "primary-veterinary-anatomy": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "principles-of-animal-nutrition-and-feed-technology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "principles-of-meat-science-forrest": {
+      "cover": {
+        "path": "/assets/books/principles-of-meat-science-forrest.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "reproduction-in-farm-animals-7th-edition-by-hafeez": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "restraint-and-handling-of-wild-and-domestic-animals": {
+      "cover": {
+        "path": "/assets/books/restraint-and-handling-of-wild-and-domestic-animals.webp",
+        "width": 520,
+        "height": 673,
+        "source": "https://drive.google.com/thumbnail?id=1keer053qB9ad7akDT8ewFnM1OuUJwjjg&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "review-animal-science": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "review-veterinary-science": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "ruminant-surgery": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "sembulingam-medical-physiology-6th-edition": {
+      "cover": {
+        "path": "/assets/books/sembulingam-medical-physiology-6th-edition.webp",
+        "width": 520,
+        "height": 691,
+        "source": "https://drive.google.com/thumbnail?id=1AnvRApqHkTeDu59SHiasERTWUEWK5fYY&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "skin-diseases-of-exotic-pets": {
+      "cover": {
+        "path": "/assets/books/skin-diseases-of-exotic-pets.webp",
+        "width": 520,
+        "height": 738,
+        "source": "https://drive.google.com/thumbnail?id=19V73CHn84hLLZtzIm-DAml4N-d4-bwis&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "small-animal-ecgs-an-introductory-guide-3rd-edition": {
+      "cover": {
+        "path": "/assets/books/small-animal-ecgs-an-introductory-guide-3rd-edition.webp",
+        "width": 520,
+        "height": 362,
+        "source": "https://drive.google.com/thumbnail?id=10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "small-animal-internal-medicine-5th-edition": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "small-animal-surgery-5th-edition-theresa-fossum": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "tanuvas-qbank": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "text-book-of-veterinary-parasitology-bhatia": {
+      "cover": {
+        "path": "/assets/books/text-book-of-veterinary-parasitology-bhatia.webp",
+        "width": 520,
+        "height": 735,
+        "source": "https://drive.google.com/thumbnail?id=1rqGzFoopej4pD-ozzr0aNUQfkn9nMY3F&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "text-book-on-animal-genetics-and-breeding": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "textbook-of-animal-husbandry-and-livestock-extension": {
+      "cover": {
+        "path": "/assets/books/textbook-of-animal-husbandry-and-livestock-extension.webp",
+        "width": 520,
+        "height": 657,
+        "source": "https://drive.google.com/thumbnail?id=1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "textbook-of-clinical-veterinary-medicine": {
+      "cover": {
+        "path": "/assets/books/textbook-of-clinical-veterinary-medicine.webp",
+        "width": 520,
+        "height": 712,
+        "source": "https://drive.google.com/thumbnail?id=1m8BuPXfGu0Rj0J4STWEsk0Ilu4dH1pUn&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "textbook-of-veterinary-anatomy": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "textbook-of-veterinary-internal-medicine": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "textbook-of-veterinary-pathology": {
+      "cover": {
+        "path": "/assets/books/textbook-of-veterinary-pathology.webp",
+        "width": 478,
+        "height": 760,
+        "source": "https://drive.google.com/thumbnail?id=1knDpOeF1ckigyNJUJ_VjojvwAo3OxERn&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "ultimate-vet-handbook": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "vaccination-schedule": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "vendex": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "vet-scorer": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "navsari-drug-index": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-epidemiology": {
+      "cover": {
+        "path": "/assets/books/veterinary-epidemiology.webp",
+        "width": 520,
+        "height": 672,
+        "source": "https://drive.google.com/thumbnail?id=1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-extension-education-grk-sharma": {
+      "cover": {
+        "path": "/assets/books/veterinary-extension-education-grk-sharma.webp",
+        "width": 474,
+        "height": 760,
+        "source": "https://drive.google.com/thumbnail?id=1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "=\n\n~ -—™\n\nee \"SS\n\n~\n\nied\n\n‘ (\n\nv\n\n, ‘",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-medicine": {
+      "cover": {
+        "path": "/assets/books/veterinary-medicine.webp",
+        "width": 520,
+        "height": 666,
+        "source": "https://drive.google.com/thumbnail?id=1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-microbiology-and-microbial-disease": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-mycology": {
+      "cover": {
+        "path": "/assets/books/veterinary-mycology.webp",
+        "width": 520,
+        "height": 759,
+        "source": "https://drive.google.com/thumbnail?id=1ePan-dG10lehu5icHLxSfREmwBCIEUtZ&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "Indranil Samanta\n\n- Veterinary\n\nMycology\n\nD Springer",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-obstetrics-and-genital-disease": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-parasitology": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-practice-handbook": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-reproduction-and-obstetrics": {
+      "cover": {
+        "path": "/assets/books/veterinary-reproduction-and-obstetrics.webp",
+        "width": 520,
+        "height": 706,
+        "source": "https://drive.google.com/thumbnail?id=1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_&sz=w700",
+        "kind": "file-preview"
+      },
+      "coverOCR": "Eighth Editior\n\nArthur's\n\nVeterinary |\n\nReproduction\n\nand Obstetrics",
+      "errors": [
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    },
+    "veterinary-surgery-and-radiology-by-s-k-nandi": {
+      "cover": null,
+      "coverOCR": "",
+      "errors": [
+        "file-preview: HTTP Error 404: Not Found",
+        "Bibliography: HTTP Error 429: Too Many Requests"
+      ],
+      "reviewed": "2026-10-28"
+    }
+  },
+  "stats": {
+    "works": 96,
+    "covers": 38,
+    "bibliography": 0
+  }
+}
