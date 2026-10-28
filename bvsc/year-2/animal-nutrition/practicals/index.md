@@ -4,35 +4,44 @@
 
 # Animal Nutrition Practical Vault
 
-Practical material for 2nd Year Animal Nutrition, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-2 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/#practical)
+Original subject folders · Vetverse
 
-## Practical Lectures
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/1sIjkiCfxL7meVM5MEO98GQl8WN4lZtmn)
 
-2
+## Before the practical
 
-PPTX
-ANN Paper IPPTX · 3.8 MB
+Start with the syllabus. Then open your record.
 
-Practical slides from the Practical Lectures collection.
+[Practical syllabus checklist4 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/#practical)
 
-[Open ANN Paper I](https://drive.google.com/file/d/1lBPRs28cCOxzmtBgbBOr_6-f6tYA1WHM/view)
+### Assessment at a glance
 
-PPTX
-ANN Paper IIPPTX · 2.7 MB
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-Practical slides from the Practical Lectures collection.
+- Practical Paper I: Units 1–2 · 60 marks · weightage 20
 
-[Open ANN Paper II](https://drive.google.com/file/d/1ETIEh_N1tC33_KdrM8Vk0qWeuw-wRQ9R/view)
+- Practical Paper II: Units 3–4 · 60 marks · weightage 20
 
-No practical resources match. Try a shorter title or another type.
+Assessment rules 
 
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-Use these materials alongside your department’s practical teaching and supervision.
+Practical units & skills 
+
+- Principles Of Animal Nutrition And Feed Technology
+- Applied Ruminant Nutrition-D Calculation Of Nutritive Value Of Different Feed Stuffs In Terms Of Digestible Crude Protein (Dcp
+- Applied Ruminant Nutrition II
+- Applied Non-Ruminant Nutrition
+
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
+
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=28). Your university’s current rules take precedence.
 
 [Back to Animal Nutrition ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 

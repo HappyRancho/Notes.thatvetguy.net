@@ -13,7 +13,7 @@
 
 3 subjects · 63 resources
 
-- [Veterinary Anatomy15 topic notes · 4 TANUVAS5 books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
+- [Veterinary Anatomy15 topic notes · 4 TANUVAS6 books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - [Veterinary Physiology12 topic notes · 3 TANUVAS4 books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 - [Livestock Production Management25 topic notes · 4 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 

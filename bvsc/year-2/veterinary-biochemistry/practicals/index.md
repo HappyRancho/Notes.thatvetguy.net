@@ -4,67 +4,47 @@
 
 # Veterinary Biochemistry Practical Vault
 
-Practical material for 2nd Year Veterinary Biochemistry, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-6 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/#practical)
+Original subject folders · Vetverse
 
-## Practical Manuals
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/12QPIsYLwCDvkcALQ0zEThSa__ODdyIVY)
 
-2
+[ManualOpen folder in Google Drive](https://drive.google.com/drive/folders/1UkO_AVQl814d3blxAxIm4BmLJloB77Be)
 
-PDF
-Biochemistry manual paper 1 - 2019-20PDF · 1.8 MB
+[Practical LectureOpen folder in Google Drive](https://drive.google.com/drive/folders/1F6zX0tUp4GQ5VWdRSZUfGDS_LrpWYzfR)
 
-Practical reference from the Practical Manuals collection.
+## Before the practical
 
-[Open Biochemistry manual paper 1 - 2019-20](https://drive.google.com/file/d/1ZxVtUjB5nrxLsCIDAgmwOMmRzurRjGuo/view)
+Start with the syllabus. Then open your record.
 
-PDF
-Biochemistry manual paper 2 - 2019-20PDF · 1.6 MB
+[Practical syllabus checklist3 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/#practical)
 
-Practical reference from the Practical Manuals collection.
+### Assessment at a glance
 
-[Open Biochemistry manual paper 2 - 2019-20](https://drive.google.com/file/d/1NjP9y_ZLhMhdsgSw2Wudl8Y6iwonnuU8/view)
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-## Practical Lectures
+- Practical Paper I: Units 1 and 3 · 60 marks · weightage 20
 
-4
+- Practical Paper II: Units 2 · 60 marks · weightage 20
 
-PDF
-Calorimetry and SpectrophotometryPDF · 767 KB
+Assessment rules 
 
-Practical reference from the Practical Lectures collection.
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-[Open Calorimetry and Spectrophotometry](https://drive.google.com/file/d/1r51WbiPHsr156O-UhV4FBeu8z9E2nMUL/view)
+Practical units & skills 
 
-PDF
-Estimation of Ascorbic acid, Lactose, GlycinePDF · 884 KB
+- General Veterinary Biochemistry
+- Intermediary Metabolism
+- Veterinary Analytical Biochemistry
 
-Practical reference from the Practical Lectures collection.
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
 
-[Open Estimation of Ascorbic acid, Lactose, Glycine](https://drive.google.com/file/d/118-Nyb1t_d01RkKAiKWT2zR4D50j4fho/view)
-
-PDF
-Estimation of Ca, P, MgPDF · 868 KB
-
-Practical reference from the Practical Lectures collection.
-
-[Open Estimation of Ca, P, Mg](https://drive.google.com/file/d/1b_4fMPOXu04bBnIc2K-sa4PCs4w71Mj_/view)
-
-PDF
-Estimation of Glucose, Total protein, AlbuminPDF · 722 KB
-
-Practical reference from the Practical Lectures collection.
-
-[Open Estimation of Glucose, Total protein, Albumin](https://drive.google.com/file/d/1e7QS4_MrDorPBaKkDstxjJkHL70647Pe/view)
-
-No practical resources match. Try a shorter title or another type.
-
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
-
-Use these materials alongside your department’s practical teaching and supervision.
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=18). Your university’s current rules take precedence.
 
 [Back to Veterinary Biochemistry ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 

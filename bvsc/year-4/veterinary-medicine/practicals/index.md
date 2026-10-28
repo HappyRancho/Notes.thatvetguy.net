@@ -4,92 +4,49 @@
 
 # Veterinary Medicine Practical Vault
 
-Practical material for 4th Year Veterinary Medicine, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-9 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/#practical)
+Original subject folders · Vetverse
 
-## Practical Manuals
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/1h-Ku4nfYUmRNEqsPpdaZFt3WtZtV7hTN)
 
-3
+[ManualOpen folder in Google Drive](https://drive.google.com/drive/folders/1bHQB7RHqYNwwplgEKyH9GblbpymMa4FP)
 
-PDF
-General MedicinePDF · 2.0 MB
+[Manual/Wild AnimalOpen folder in Google Drive](https://drive.google.com/drive/folders/1NtpF1Ap4lNap-RjmhSLogTQDwgu85-1j)
 
-Practical reference from the Practical Manuals collection.
+## Before the practical
 
-[Open General Medicine](https://drive.google.com/file/d/1D3s00AllBV_7XzDRpSx6DP15PNS6PBMq/view)
+Start with the syllabus. Then open your record.
 
-PDF
-Preventive medicinePDF · 2.3 MB
+[Practical syllabus checklist5 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/#practical)
 
-Practical reference from the Practical Manuals collection.
+### Assessment at a glance
 
-[Open Preventive medicine](https://drive.google.com/file/d/1ycznNJXd3A3Ax6I-yzSe7dlBAS0yrGEQ/view)
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-PDF
-Systemic DiseasePDF · 3.8 MB
+- Practical Paper I: Units 1–3 · 60 marks · weightage 20
 
-Practical reference from the Practical Manuals collection.
+- Practical Paper II: Units 4–5 · 60 marks · weightage 20
 
-[Open Systemic Disease](https://drive.google.com/file/d/12zXgt3E6ieBxOfMOK2dbDM3AqNx7lWkl/view)
+Assessment rules 
 
-## Practical Files
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-2
+Practical units & skills 
 
-PDF
-Preventive Medicine Record ScannedPDF · 13.1 MB
+- General
+- Systemic Diseases
+- Zoo And Wild Animal Medicine
+- Bacterial, Fungal And Rickettsial Diseases
+- Viral And Parasitic Diseases
 
-Practical reference from the Practical Files collection.
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
 
-[Open Preventive Medicine Record Scanned](https://drive.google.com/file/d/1VE3V8_78zxljpCX1yte68Hactd9A7dJk/view)
-
-DOCX
-Unit1 photosDOCX · 317 KB
-
-Editable practical document from the Practical Files collection.
-
-[Open Unit1 photos](https://drive.google.com/file/d/1H3-abr1g02VVN0-iNnJ3hKa2KP4FQcTK/view)
-
-## Wild Animal
-
-4
-
-DOCX
-Blood collection sitesDOCX · 874 KB
-
-Editable practical document from the Wild Animal collection.
-
-[Open Blood collection sites](https://drive.google.com/file/d/1iIY1CCKqwCNxqbkmv8Gv9ITWVb69CnLC/view)
-
-DOCX
-Dart pictureDOCX · 339 KB
-
-Editable practical document from the Wild Animal collection.
-
-[Open Dart picture](https://drive.google.com/file/d/1VMGBtLYCOOFCFOEgytJEGT3pzN2-Cyi1/view)
-
-DOCX
-Physical restrainingDOCX · 528 KB
-
-Editable practical document from the Wild Animal collection.
-
-[Open Physical restraining](https://drive.google.com/file/d/10x81YAWSuy5U4Lvdy0e8usq4nywjYt5i/view)
-
-PDF
-vet college 80PDF · 1.5 MB
-
-Practical reference from the Wild Animal collection.
-
-[Open vet college 80](https://drive.google.com/file/d/1RNnCOlp5A8c4oo3R88mYfpm5WCmUseJF/view)
-
-No practical resources match. Try a shorter title or another type.
-
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
-
-Use these materials alongside your department’s practical teaching and supervision.
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=45). Your university’s current rules take precedence.
 
 [Back to Veterinary Medicine ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 

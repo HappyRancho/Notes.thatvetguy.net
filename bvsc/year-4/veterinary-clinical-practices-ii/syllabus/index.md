@@ -6,11 +6,13 @@
 
 Your 4th Year course outline, one topic at a time. Tick what you have covered and pick up where you left off.
 
-0 of 81 topics checked0%
+0 of 82 topics checked0%
 
 Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
+
+[Practical](#practical)
 
 ## Practical
 
@@ -105,7 +107,7 @@ The outline uses practical sections rather than numbered units.
 
 ### Pet Animal Section
 
-0 / 19
+0 / 20
 
 - [ ] Registration, filling up registration cards, history taking.
 - [ ] Relating generic and trade names of drugs alongwith their doses, indications and contraindications to prescribed treatment regimens.
@@ -116,7 +118,8 @@ The outline uses practical sections rather than numbered units.
 - [ ] Diagnosis and treatment of diseases.
 - [ ] Collection of materials like urine, faeces, skin scraping, blood, milk and other body fluids for laboratory tests.
 - [ ] Preparation of case records
-- [ ] follow-up records etc. Vaccination and other disease prevention and control programmes, Practice of pregnancy diagnosis, examination of cases of anoestrus, silent oestrus and conception failure.
+- [ ] follow-up records etc. Vaccination and other disease prevention and control programmes.
+- [ ] Practice of pregnancy diagnosis, examination of cases of anoestrus, silent oestrus and conception failure.
 - [ ] Rectal examination of genitalia, vaginal examination.
 - [ ] Epidural and local anaesthesia for gynaecological cases.
 - [ ] Resteraining and positioning techniques for examination, diagnosis and surgical treatment.
@@ -129,11 +132,9 @@ The outline uses practical sections rather than numbered units.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-The complete clinical-rotation outline is in the 3rd Year PDF, pages 11–13. The 4th Year PDF also introduces this course on page 9.
-
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=11)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=38)
 
 Checked 2026-10-28.
 

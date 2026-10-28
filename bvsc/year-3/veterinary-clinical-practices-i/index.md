@@ -14,7 +14,7 @@ Veterinary Clinical Practices I focuses on bringing foundational subjects into s
 
 1 note
 [Topic-wise Notes1 note](#notes)
-Unit-wise NotesTANUVAS · 0 collectionsComing soon[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/)
+Unit-wise NotesTANUVAS · 0 collectionsComing soon[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -52,17 +52,6 @@ Try a shorter title or another collection.
 No book listed for this subject yet.
 
 [Request a book ](https://notes.thatvetguy.net/request-resource/)
-
-Course focus & study tips 
-
-Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
-
-- History taking and clinical examination
-- Animal handling and hospital routines
-- Diagnostic sample collection principles
-- Clinical records and case discussion
-
-Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 

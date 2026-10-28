@@ -4,154 +4,49 @@
 
 # Veterinary Gynaecology and Obstetrics Practical Vault
 
-Practical material for 4th Year Veterinary Gynaecology and Obstetrics, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-17 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/#practical)
+Original subject folders · Vetverse
 
-Find practical material
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/1zZqz94b34V1WQvvh5vObpXKjiKn6FwVG)
 
-## Practical Manuals
+[ManualOpen folder in Google Drive](https://drive.google.com/drive/folders/1y0P8RvNqSMVhd4rrTGsvTBT8o-g4cH2N)
 
-3
+[OG recordOpen folder in Google Drive](https://drive.google.com/drive/folders/1yz_yQ-ZiwLoQY2PGnuDPzIL1C8mJiYkV)
 
-PDF
-Andrology and AIPDF · 3.4 MB
+[PPTOpen folder in Google Drive](https://drive.google.com/drive/folders/14N_Jedk9JnVSaCvQab_UBE7D3Wb1Dkvh)
 
-Practical reference from the Practical Manuals collection.
+## Before the practical
 
-[Open Andrology and AI](https://drive.google.com/file/d/1Vdd__Vr-mbT51X9UKCBS0yO6AHANIyth/view)
+Start with the syllabus. Then open your record.
 
-PDF
-GynaecologyPDF · 3.4 MB
+[Practical syllabus checklist3 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/#practical)
 
-Practical reference from the Practical Manuals collection.
+### Assessment at a glance
 
-[Open Gynaecology](https://drive.google.com/file/d/1mEbRO_thYOxZlkcqInkSlxU7MhFTkKAe/view)
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-PDF
-ObstetricsPDF · 6.6 MB
+- Practical Paper I: Units 1 · 60 marks · weightage 20
 
-Practical reference from the Practical Manuals collection.
+- Practical Paper II: Units 2–3 · 60 marks · weightage 20
 
-[Open Obstetrics](https://drive.google.com/file/d/1fURkMm3XPZUFfBGUdd287U-9cQeP3lLJ/view)
+Assessment rules 
 
-## Practical Files
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-9
+Practical units & skills 
 
-PDF
-andrologyPDF · 536 KB
+- Veterinary Gynaecology
+- Veterinary Obstetrics
+- Veterinary Andrology, Ai And Assisted Reproductive Techniques
 
-Practical reference from the Practical Files collection.
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
 
-[Open andrology](https://drive.google.com/file/d/1XCOs14JohUzpj6nyDIvfD1ZVcBZhBy2S/view)
-
-PDF
-Andrology recordPDF · 27.6 MB
-
-Practical reference from the Practical Files collection.
-
-[Open Andrology record](https://drive.google.com/file/d/10hrxhotBJDNP83qcSDpXm5FVv4IbaajH/view)
-
-PDF
-BW Obstetrics Record PicsPDF · 1.2 MB
-
-Practical reference from the Practical Files collection.
-
-[Open BW Obstetrics Record Pics](https://drive.google.com/file/d/1DSd9q5b2cDydmbuRdQMGFpe2tW-C-QtT/view)
-
-PDF
-Colour Obstetrics Record PicsPDF · 516 KB
-
-Practical reference from the Practical Files collection.
-
-[Open Colour Obstetrics Record Pics](https://drive.google.com/file/d/16DKdV3sQDAqWLAe6j4FKE3gus7m-ZvqU/view)
-
-PDF
-Gynaecology recordPDF · 7.0 MB
-
-Practical reference from the Practical Files collection.
-
-[Open Gynaecology record](https://drive.google.com/file/d/1R4urp6yn5U3yZWZOhfE_9V5BUOt0Ah-m/view)
-
-PDF
-Obstetrical Terminologies 2022PDF · 2.9 MB
-
-Practical reference from the Practical Files collection.
-
-[Open Obstetrical Terminologies 2022](https://drive.google.com/file/d/1sdezqUZP5iJRGW-v3UiG8O1jxoplAG6j/view)
-
-PDF
-obstetrics recordPDF · 4.0 MB
-
-Practical reference from the Practical Files collection.
-
-[Open obstetrics record](https://drive.google.com/file/d/1fQU8y2r2QWPCCfoupP1amhF_7H4UosNY/view)
-
-PDF
-OG Record descriptionPDF · 17.5 MB
-
-Practical reference from the Practical Files collection.
-
-[Open OG Record description](https://drive.google.com/file/d/1xIMyLf-I-dDIOpfcJ1E1zzbC82RaUs_1/view)
-
-DOCX
-Source - CopyDOCX · 11.4 MB
-
-Editable practical document from the Practical Files collection.
-
-[Open Source - Copy](https://drive.google.com/file/d/1juJL5LClD8VpaWNRL0Z_Q9ir5hYWZvyx/view)
-
-## Practical Records
-
-4
-
-DOCX
-1DOCX · 64 KB
-
-Editable practical document from the Practical Records collection.
-
-[Open 1](https://drive.google.com/file/d/1X6Wafl2Offg-Q3j3Y0ZO_ZWEhLpkDiYP/view)
-
-DOCX
-2DOCX · 26 KB
-
-Editable practical document from the Practical Records collection.
-
-[Open 2](https://drive.google.com/file/d/1-mts8GNhAZBph8dgisilBSQKDHZ7jL9y/view)
-
-DOCX
-3DOCX · 15 KB
-
-Editable practical document from the Practical Records collection.
-
-[Open 3](https://drive.google.com/file/d/13zj9y3hxtOPitSUIQ13N_Y33JMyjaFXa/view)
-
-DOCX
-4DOCX · 13.9 MB
-
-Editable practical document from the Practical Records collection.
-
-[Open 4](https://drive.google.com/file/d/12aFUQjGZq3g6H-gsGJc7Md6aMJ424_WG/view)
-
-## Practical Slides
-
-1
-
-PPTX
-Selection of bullsPPTX · 2.7 MB
-
-Practical slides from the Practical Slides collection.
-
-[Open Selection of bulls](https://drive.google.com/file/d/1Dw8UzG5RWbFnt5_A7PrVfZLPw5s0R_qX/view)
-
-No practical resources match. Try a shorter title or another type.
-
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
-
-Use these materials alongside your department’s practical teaching and supervision.
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=47). Your university’s current rules take precedence.
 
 [Back to Veterinary Gynaecology and Obstetrics ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 

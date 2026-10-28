@@ -4,81 +4,48 @@
 
 # Veterinary Pathology Practical Vault
 
-Practical material for 2nd Year Veterinary Pathology, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-8 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/#practical)
+Original subject folders · Vetverse
 
-## Practical Files
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/1iuE9ni21A9dzPH4olCzCREAHoMQ-MDnR)
 
-3
+[Practical LectureOpen folder in Google Drive](https://drive.google.com/drive/folders/12KA5Nofo-DwNi6GH9XF7gQAPKgDTHeAb)
 
-PPTX
-KnizocytesPPTX · 48 KB
+## Before the practical
 
-Practical slides from the Practical Files collection.
+Start with the syllabus. Then open your record.
 
-[Open Knizocytes](https://drive.google.com/file/d/1khunm9ZJ2aHVds3-c30slJb_LeGue-Yw/view)
+[Practical syllabus checklist6 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/#practical)
 
-PPTX
-Pappenheimer BodiesPPTX · 59 KB
+### Assessment at a glance
 
-Practical slides from the Practical Files collection.
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-[Open Pappenheimer Bodies](https://drive.google.com/file/d/10_PY_GPea9PGQdxPwPCGh50No5Ew6pKp/view)
+- Practical Paper I: Units 1–3 · 60 marks · weightage 20
 
-PPTX
-StomatocytesPPTX · 65 KB
+- Practical Paper II: Units 4–6 · 60 marks · weightage 20
 
-Practical slides from the Practical Files collection.
+Assessment rules 
 
-[Open Stomatocytes](https://drive.google.com/file/d/1-wLW2i1OPy_urUYFzi2urikJ0RPOifLV/view)
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-## Practical Lectures
+Practical units & skills 
 
-5
+- General Veterinary Pathology
+- Systemic Veterinary Pathology
+- Animal Oncology, Veterinary Clinical Pathology And Necropsy
+- Pathology Of Infectious And Non-Infectious Diseases Of Domestic Animals
+- Avian Pathology
+- Pathology Of Diseases Of Laboratory And Wild Animals
 
-PPTX
-Avian PathologyPPTX · 17.7 MB
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
 
-Practical slides from the Practical Lectures collection.
-
-[Open Avian Pathology](https://drive.google.com/file/d/1JJlGHSu2HAL9tCFByBoguASJJc041TVB/view)
-
-PDF
-General Pathology and OncologyPDF · 4.2 MB
-
-Practical reference from the Practical Lectures collection.
-
-[Open General Pathology and Oncology](https://drive.google.com/file/d/1q0nFem0Pl8JH2escAhngOygJ6Rr9yXpI/view)
-
-PPTX
-Revision Paper 1PPTX · 22.7 MB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Revision Paper 1](https://drive.google.com/file/d/18Fe8q85oP3m_7nt8LtAQuFoA_tt0am45/view)
-
-PPTX
-Revision Paper IIPPTX · 39.6 MB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Revision Paper II](https://drive.google.com/file/d/17puIdVeeV55yFgDGkYGrV-xk6kCrJROA/view)
-
-PPTX
-Special Pathology -Part IIPPTX · 25.7 MB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Special Pathology -Part II](https://drive.google.com/file/d/12-hJ8akVl_5pRhIzki4y6siJih_-_XbX/view)
-
-No practical resources match. Try a shorter title or another type.
-
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
-
-Use these materials alongside your department’s practical teaching and supervision.
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=25). Your university’s current rules take precedence.
 
 [Back to Veterinary Pathology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 

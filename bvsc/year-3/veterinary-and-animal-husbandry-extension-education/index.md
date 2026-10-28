@@ -13,7 +13,7 @@ Veterinary and Animal Husbandry Extension Education focuses on communicating ani
 ## Notes
 
 25 notes
-[Topic-wise Notes23 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/)
+[Topic-wise Notes23 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -145,22 +145,11 @@ Try a shorter title or another collection.
 
 2 books
 
-[Source previewTextbook of Animal Husbandry and Livestock ExtensionP. MathialaganView book](https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/)
+[Textbook of Animal Husbandry and Livestock Extension](https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/)
 
-[Source previewVeterinary Extension Education GRK SharmaView book](https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/)
+[Veterinary Extension Education GRK Sharma](https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Match the communication method to the audience and explain how you would assess whether the advice was understood.
-
-- Extension principles and teaching methods
-- Rural sociology and communication
-- Programme planning and evaluation
-- Livestock entrepreneurship and advisory services
-
-Match the communication method to the audience and explain how you would assess whether the advice was understood.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 

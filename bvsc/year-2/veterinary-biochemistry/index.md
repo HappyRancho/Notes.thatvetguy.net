@@ -13,7 +13,7 @@ Veterinary Biochemistry focuses on linking molecular processes with animal healt
 ## Notes
 
 23 notes
-[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/)
+[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -119,20 +119,9 @@ Try a shorter title or another collection.
 
 1 book
 
-[Cover unavailableBiochemistryU. Satyanarayana and U. ChakrapaniReading guide](https://notes.thatvetguy.net/books/biochemistry/)
+[Biochemistry](https://notes.thatvetguy.net/books/biochemistry/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
-
-- Carbohydrate, lipid and protein metabolism
-- Enzymes and biological oxidation
-- Vitamins and minerals
-- Molecular biology and biochemical tests
-
-Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 

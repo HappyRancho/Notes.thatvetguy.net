@@ -13,7 +13,7 @@ Veterinary Pharmacology and Toxicology focuses on connecting drug action with sp
 ## Notes
 
 31 notes
-[Topic-wise Notes27 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/)
+[Topic-wise Notes27 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -155,26 +155,15 @@ Try a shorter title or another collection.
 
 4 books
 
-[Cover unavailableEssentials of Medical Pharmacology - K.D.TripathiView book](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
+[Essentials of Medical Pharmacology - K.D.Tripathi](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
 
-[Cover unavailableEssentials of Veterinary Pharmacology and TherapeuticsH. S. SandhuView book](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
+[Essentials of Veterinary Pharmacology and Therapeutics](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
 
-[Cover unavailableGoodman and Gilman’s The Pharmacological Basis of TherapeuticsView book](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/)
+[Goodman and Gilman’s The Pharmacological Basis of Therapeutics](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/)
 
-[Source previewHandbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)View book](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/)
+[Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
-
-- General pharmacology and pharmacokinetics
-- Systemic pharmacology
-- Antimicrobial and antiparasitic agents
-- Toxicology and poisoning principles
-
-Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 

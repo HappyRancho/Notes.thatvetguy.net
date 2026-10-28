@@ -4,35 +4,44 @@
 
 # Livestock Products Technology Practical Vault
 
-Practical material for 3rd Year Livestock Products Technology, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-2 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/#practical)
+Original subject folders · Vetverse
 
-## Practical Files
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/1Dg-gDxFFCRaTWcT6P3LWkH6MPJ-h9z6P)
 
-2
+## Before the practical
 
-PDF
-Abattoir recordPDF · 788 KB
+Start with the syllabus. Then open your record.
 
-Practical reference from the Practical Files collection.
+[Practical syllabus checklist4 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/#practical)
 
-[Open Abattoir record](https://drive.google.com/file/d/1jajyX0kDcUU8aaZ7-nZxS7tE1CsZvEI8/view)
+### Assessment at a glance
 
-DOCX
-LPT-Dairy- Practical Record-2021DOCX · 477 KB
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-Editable practical document from the Practical Files collection.
+- Practical Paper I: Units 1–2 · 60 marks · weightage 20
 
-[Open LPT-Dairy- Practical Record-2021](https://drive.google.com/file/d/1pRl5I0xAsZYKHEPokpBSKl9qz45FQcGM/view)
+- Practical Paper II: Units 3–4 · 60 marks · weightage 20
 
-No practical resources match. Try a shorter title or another type.
+Assessment rules 
 
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-Use these materials alongside your department’s practical teaching and supervision.
+Practical units & skills 
+
+- Milk And Milk Products Technology
+- Wool Science
+- Abattoir Practices And Animal Byproducts Technology
+- Meat Science
+
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
+
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=35). Your university’s current rules take precedence.
 
 [Back to Livestock Products Technology ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 

@@ -4,136 +4,49 @@
 
 # Animal Genetics and Breeding Practical Vault
 
-Practical material for 2nd Year Animal Genetics and Breeding, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-15 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/#practical)
+Original subject folders · Vetverse
 
-Find practical material
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/1bK2pv5HPYRRnBVKSZjZfLnKIHaywZk3Q)
 
-## Practical Manuals
+[Practical LectureOpen folder in Google Drive](https://drive.google.com/drive/folders/1jfY2Tlzklx_lwTMThbzByj6_rvXU7SB9)
 
-5
+[Practical ManualOpen folder in Google Drive](https://drive.google.com/drive/folders/1o-O3zu6PXf2NoyLNozUz1EVdYOPnf4K2)
 
-DOCX
-Design of Experiments- RBD-Ex No 12DOCX · 17 KB
+[WorksOpen folder in Google Drive](https://drive.google.com/drive/folders/1SVDztnsL2fQNrJ43acCA9B8UCbU1A9TG)
 
-Editable practical document from the Practical Manuals collection.
+## Before the practical
 
-[Open Design of Experiments- RBD-Ex No 12](https://drive.google.com/file/d/1HZKlJCD-pXtkE4JteufKYkWCf_1vXEVr/view)
+Start with the syllabus. Then open your record.
 
-DOCX
-Distribution TablesDOCX · 32 KB
+[Practical syllabus checklist3 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/#practical)
 
-Editable practical document from the Practical Manuals collection.
+### Assessment at a glance
 
-[Open Distribution Tables](https://drive.google.com/file/d/1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N/view)
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-DOCX
-Probability and Normal Distribution - Ex No 13DOCX · 14 KB
+- Practical Paper I: Units 1–2 · 60 marks · weightage 20
 
-Editable practical document from the Practical Manuals collection.
+- Practical Paper II: Units 3 · 60 marks · weightage 20
 
-[Open Probability and Normal Distribution - Ex No 13](https://drive.google.com/file/d/1ucV-iNrp-7q9tI2vCjzoINFu9oOgjHVB/view)
+Assessment rules 
 
-DOCX
-Test of Significance - 'F' Test - Ex No 11DOCX · 17 KB
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-Editable practical document from the Practical Manuals collection.
+Practical units & skills 
 
-[Open Test of Significance - 'F' Test - Ex No 11](https://drive.google.com/file/d/14QLB01sBCBgd16i07rRW8M7LnOTt3LKL/view)
+- Biostatistics And Computer Application
+- Principles Of Animal And Population Genetics
+- Principles Of Animal Breeding
 
-DOCX
-Test of Significance - Chi Square Test - Ex No 10DOCX · 16 KB
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
 
-Editable practical document from the Practical Manuals collection.
-
-[Open Test of Significance - Chi Square Test - Ex No 10](https://drive.google.com/file/d/1Ig-8T7hLmKjLSV24smHJHD9rUXlWz5_f/view)
-
-## Practical Lectures
-
-8
-
-PPT
-Breeding Value and Effective population sizePPT · 401 KB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Breeding Value and Effective population size](https://drive.google.com/file/d/1oTjM6iafmKr7yu4Khrre4SymrgPuz7WA/view)
-
-PDF
-Heritability and HWEPDF · 669 KB
-
-Practical reference from the Practical Lectures collection.
-
-[Open Heritability and HWE](https://drive.google.com/file/d/19YtFxys_2YZNkJKuk476PGuEz4YtShaT/view)
-
-PPT
-HeterosisPPT · 287 KB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Heterosis](https://drive.google.com/file/d/1Zx5GMmyZC8kS1l4l5m-EvCWtmkBXYsGC/view)
-
-PPTX
-Inbreeding coefficientPPTX · 197 KB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Inbreeding coefficient](https://drive.google.com/file/d/1kITBjel-xTOx5qSqukmZQ_wZm0g5Y4Ne/view)
-
-PPTX
-Migration and SelectionPPTX · 86 KB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Migration and Selection](https://drive.google.com/file/d/1YDp0qo6YDWo0Q10asLunklWWTbogOgOb/view)
-
-PPT
-Relationship coefficient and Selection indexPPT · 530 KB
-
-Practical slides from the Practical Lectures collection.
-
-[Open Relationship coefficient and Selection index](https://drive.google.com/file/d/1SoSMHjA83JwtwQPyuWxNk2oP4WVYvmDF/view)
-
-PDF
-Selection and GIPDF · 525 KB
-
-Practical reference from the Practical Lectures collection.
-
-[Open Selection and GI](https://drive.google.com/file/d/1b86UNIZQwga5Fcr3WvTW_ig7e2h3T9fR/view)
-
-PDF
-Sire index and MPPAPDF · 554 KB
-
-Practical reference from the Practical Lectures collection.
-
-[Open Sire index and MPPA](https://drive.google.com/file/d/1oWea242Ghhdkh_-IRSVsqTWX3gotBnfh/view)
-
-## Worksheets
-
-2
-
-PPTX
-SNK PPT RESUMEPPTX · 50 KB
-
-Practical slides from the Worksheets collection.
-
-[Open SNK PPT RESUME](https://drive.google.com/file/d/1CU9h2Wntm-EbW1ni_9aLBwZ205uePP6f/view)
-
-DOCX
-SNK RESUMEDOCX · 25 KB
-
-Editable practical document from the Worksheets collection.
-
-[Open SNK RESUME](https://drive.google.com/file/d/1m2NA8-BUNenptGUlNxtUpsvyPDVc4nQV/view)
-
-No practical resources match. Try a shorter title or another type.
-
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
-
-Use these materials alongside your department’s practical teaching and supervision.
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=27). Your university’s current rules take precedence.
 
 [Back to Animal Genetics and Breeding ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 

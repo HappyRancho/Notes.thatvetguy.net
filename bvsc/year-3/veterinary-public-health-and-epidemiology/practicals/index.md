@@ -4,35 +4,44 @@
 
 # Veterinary Public Health and Epidemiology Practical Vault
 
-Practical material for 3rd Year Veterinary Public Health and Epidemiology, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-2 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/#practical)
+Original subject folders · Vetverse
 
-## Practical Files
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/1KBnozV52LyKTTu_jHW97JvYppXy8accI)
 
-2
+## Before the practical
 
-PPTX
-Epi Practical manual cover design 2021PPTX · 326 KB
+Start with the syllabus. Then open your record.
 
-Practical slides from the Practical Files collection.
+[Practical syllabus checklist4 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/#practical)
 
-[Open Epi Practical manual cover design 2021](https://drive.google.com/file/d/1XliuOn3yc2bbtmLHY-pE2iA-pgTQbmH0/view)
+### Assessment at a glance
 
-PDF
-Epi Practical manual-2021-convertedPDF · 930 KB
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-Practical reference from the Practical Files collection.
+- Practical Paper I: Units 1–2 · 60 marks · weightage 20
 
-[Open Epi Practical manual-2021-converted](https://drive.google.com/file/d/1DkZ8SnBJLjs26e-AG7EuvLNi5rjR9GfD/view)
+- Practical Paper II: Units 3–4 · 60 marks · weightage 20
 
-No practical resources match. Try a shorter title or another type.
+Assessment rules 
 
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-Use these materials alongside your department’s practical teaching and supervision.
+Practical units & skills 
+
+- Veterinary Public Health And Food Safety
+- Veterinary Epidemiology
+- Zoonotic Diseases
+- Environmental Hygiene
+
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
+
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=32). Your university’s current rules take precedence.
 
 [Back to Veterinary Public Health and Epidemiology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 

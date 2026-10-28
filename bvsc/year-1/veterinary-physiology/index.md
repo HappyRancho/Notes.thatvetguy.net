@@ -13,7 +13,7 @@ Veterinary Physiology focuses on understanding how healthy animals maintain norm
 ## Notes
 
 15 notes
-[Topic-wise Notes12 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/)
+[Topic-wise Notes12 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -103,26 +103,15 @@ Try a shorter title or another collection.
 
 4 books
 
-[Cover unavailableCunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor)View book](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/)
+[Cunningham’s Textbook of Veterinary Physiology](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/)
 
-[Source previewDukes’ Physiology of Domestic AnimalsWilliam O. Reece et al.View book](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
+[Dukes’ Physiology of Domestic Animals](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
 
-[Reference coverGuyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. GuytonView book](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
+[Guyton and Hall Textbook of Medical Physiology](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
 
-[Source previewSembulingam Medical Physiology 6th-editionView book](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/)
+[Sembulingam Medical Physiology 6th-edition](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
-
-- Blood and cardiovascular physiology
-- Respiratory and renal physiology
-- Digestion and metabolism
-- Endocrine and reproductive physiology
-
-Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 

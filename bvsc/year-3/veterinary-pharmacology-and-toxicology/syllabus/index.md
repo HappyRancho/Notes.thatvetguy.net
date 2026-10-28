@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1General Pharmacology
@@ -64,7 +66,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 - [ ] Introduction and historical developments of chemotherapy.
 - [ ] Antimicrobial agents: Classification, general principles in antimicrobial chemotherapy, antimicrobial resistance, combined antimicrobial therapy.
-- [ ] Sulphonamides and their combination with diaminopyrimidines.
+- [ ] Sulphonamides and _ their combination with diaminopyrimidines.
 - [ ] Penicillins, cephalopsorins, cephamycins and other beta lactams, beta lactamase inhibitors.
 - [ ] Aminoglycosides and aminocyclitols, tetracyclines, amphenicols (chloramphenicol, thiamphenicol, florfenicol), macrolides, quinolones and fluoroquinolones, polypeptides (polymixins, bacitracin) and glycopeptide antibiotics, Miscellaneous agents: Lincosamides, novobiocin, virginiamycin, tiamulin, nitrofurans and methenamine, Antitubercular drugs.
 - [ ] Antifungal agents: Topical and systemic agents including anti-fungal antibiotics.
@@ -144,13 +146,13 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Detection of heavy metalsor non-metalsor plant poisons.
 - [ ] Demonstration of agrochemical toxicity and its antidotal therapy via simulation methods.
 - [ ] Demonstration of toxic weeds and plants of local area.
-- [ ] Methods of calculation of median lethal dose (LD50)or maximum tolerated dose (MTD).
+- [ ] Methods of calculation of median lethal dose (LDs9)or maximum tolerated dose (MTD).
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf#page=1)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=28)
 
 Checked 2026-10-28.
 

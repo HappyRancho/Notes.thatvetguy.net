@@ -1503,7 +1503,16 @@
     "humanReference": true,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp",
+      "width": 400,
+      "height": 500,
+      "source": "https://covers.openlibrary.org/b/isbn/0071468048-L.jpg?default=false",
+      "kind": "reference-cover",
+      "reference": "https://openlibrary.org/works/OL7301404M",
+      "ocr": "ES)\n\neleventh edition\n\nGoodman & Gilman’s\n\nThe Pharmacological Basis of\n\nTHERAPEUTICS\n\ndigital edition\n\n“OMe\n\nTE Print\n\nthe eaten ite\n\nas oxsbity\n\nset\n\nLaurence Brunton\n\nJohn Lazo\n\nKeith Parker\n\nlain Buxton\n\nDonald Blumenthal\n\n\"2",
+      "sha256": "20f519b7ff6cd474633650e238d37bb0d995e268fbaf9a77c1cbc961b746f129"
+    },
     "page": "/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/",
     "primaryUrl": "https://drive.google.com/file/d/15a_t3ChRGC96B9lQ4Jf1HxiK17IntZdt/view",
     "access": "Google Drive",
@@ -2745,7 +2754,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/research-prescott-s-microbiology.webp",
+      "width": 128,
+      "height": 166,
+      "source": "https://covers.openlibrary.org/b/isbn/9780072992915-L.jpg?default=false",
+      "kind": "reference-cover",
+      "reference": "https://openlibrary.org/works/OL15014670W",
+      "ocr": "ree",
+      "sha256": "f10cf36ca83305879d9beb2e330227223d906a280249e8d39b4db9257d1a893b"
+    },
     "page": "/books/prescott-s-microbiology/",
     "primaryUrl": "https://drive.google.com/file/d/1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw/view",
     "access": "Google Drive",
@@ -2764,7 +2782,7 @@
       }
     ],
     "files": [],
-    "telegram": null,
+    "telegram": "https://t.me/c/4312433672/2",
     "collection": null,
     "recommended": true,
     "type": "Book",
@@ -2772,6 +2790,7 @@
       "https://currentbooksint.com/product/primary-veterinary-anatomy-9ed-by-r-k-ghosh"
     ],
     "lastVerified": "2026-10-18",
+    "originalLabel": "Veterinary Anatomy by RK Ghosh.pdf",
     "humanReference": false,
     "referenceISBNs": [
       "9789385274725"
@@ -2779,9 +2798,9 @@
     "bibliography": {},
     "cover": null,
     "page": "/books/primary-veterinary-anatomy/",
-    "primaryUrl": null,
-    "access": "Reading guide",
-    "downloadLabel": "Request this book",
+    "primaryUrl": "https://t.me/c/4312433672/2",
+    "access": "Telegram",
+    "downloadLabel": "Download via Telegram",
     "clinical": false
   },
   {
@@ -2952,7 +2971,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp",
+      "width": 341,
+      "height": 500,
+      "source": "https://covers.openlibrary.org/b/isbn/9780812110135-L.jpg?default=false",
+      "kind": "reference-cover",
+      "reference": "https://openlibrary.org/works/OL17936019W",
+      "ocr": "ODUCTION\n\nFA\n\nANIMALS\n\nESE HAFEZ",
+      "sha256": "33f57aca511aa54520db0ba6283f2fca605d8f671604080ca9487051bee96153"
+    },
     "page": "/books/reproduction-in-farm-animals-7th-edition-by-hafeez/",
     "primaryUrl": "https://drive.google.com/file/d/1PqJQDjKzLrX5mj2us9PWMn4SmssV3XvL/view",
     "access": "Google Drive",
@@ -3297,7 +3325,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/research-slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition.webp",
+      "width": 379,
+      "height": 500,
+      "source": "https://covers.openlibrary.org/b/isbn/0721605613-L.jpg?default=false",
+      "kind": "reference-cover",
+      "reference": "https://openlibrary.org/works/OL12374664W",
+      "ocr": "Slatter’s Fundamentals of\n\nVeterinary\n\nOphthalmology\n\nFourth Edition\n\nmi.",
+      "sha256": "1f19692eae2d8712cf239880d39a5175d5ec94b3b633e98d35e661b5761f1104"
+    },
     "page": "/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/1VikNtt8A5o6_kX4wjXEIY54hvv2ixOty/view",
     "access": "Google Drive",
@@ -3440,7 +3477,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/research-small-animal-surgery-5th-edition-theresa-fossum.webp",
+      "width": 392,
+      "height": 500,
+      "source": "https://covers.openlibrary.org/b/isbn/9780323443449-L.jpg?default=false",
+      "kind": "reference-cover",
+      "reference": "https://openlibrary.org/works/OL6016710W",
+      "ocr": "ol\n\nSDRGERY\n\nWR»\n\nOxon",
+      "sha256": "99527e5c59a49c49c223e483d1df066b28f813f3a3a215136f62870c996612dc"
+    },
     "page": "/books/small-animal-surgery-5th-edition-theresa-fossum/",
     "primaryUrl": "https://drive.google.com/file/d/1ET3tVHdFKOSS6StF291FrDpWdPojyRGD/view",
     "access": "Google Drive",
@@ -4027,7 +4073,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/research-veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition.webp",
+      "width": 373,
+      "height": 500,
+      "source": "https://covers.openlibrary.org/b/isbn/3132429333-L.jpg?default=false",
+      "kind": "reference-cover",
+      "reference": "https://openlibrary.org/works/OL25245466W",
+      "ocr": "Veterinary Anatomy of\n\nDomestic Animals\n\nTextbook and Colour Atlas\n\nited by\n\nHorst Erich Kénig\n\nHans-Georg Liebich,\n\nSeventh ton\n\nj\n\nY\n\n\\\\\n\ni=3)\n\nea\n\n{[\n\nNs\n\nen\n\n®Thieme",
+      "sha256": "350c552cf68a31a30de4ecfa4c696ba88584779b0569ba1b6e7ad3ff4dc4eb53"
+    },
     "page": "/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/11bxwhHjGLv3AiXLd9U2yPezwd89bbVYf/view",
     "access": "Google Drive",
@@ -4162,6 +4217,35 @@
     "primaryUrl": "https://drive.google.com/file/d/1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
+    "clinical": false
+  },
+  {
+    "id": "veterinary-histology-and-embryology-r-k-ghosh",
+    "title": "Veterinary Histology & Embryology",
+    "author": "R. K. Ghosh",
+    "description": "A histology and embryology reference listed as R. K. Ghosh in the shared collection. Use it alongside your microscopic anatomy practicals and developmental anatomy syllabus; confirm the full title and edition on the file’s title page.",
+    "subjects": [
+      {
+        "year": 1,
+        "name": "Veterinary Anatomy"
+      }
+    ],
+    "files": [],
+    "telegram": "https://t.me/c/4312433672/3",
+    "collection": null,
+    "recommended": false,
+    "type": "Book",
+    "references": [],
+    "lastVerified": "2026-10-28",
+    "originalLabel": "Vet histology & embryology-RK Ghosh .pdf",
+    "humanReference": false,
+    "referenceISBNs": [],
+    "bibliography": {},
+    "cover": null,
+    "page": "/books/veterinary-histology-and-embryology-r-k-ghosh/",
+    "primaryUrl": "https://t.me/c/4312433672/3",
+    "access": "Telegram",
+    "downloadLabel": "Download via Telegram",
     "clinical": false
   },
   {

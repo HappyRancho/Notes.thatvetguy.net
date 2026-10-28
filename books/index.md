@@ -10,7 +10,7 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 ## 1st Year
 
-12 resources
+13 resources
 
 [A Textbook of Animal HusbandryG. C. Banerjee · Reading guide](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
 
@@ -26,7 +26,7 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 [Livestock Production ManagementN. S. R. Sastry and C. K. Thomas · Reading guide](https://notes.thatvetguy.net/books/livestock-production-management/)
 
-[Primary Veterinary AnatomyR. K. Ghosh · Reading guide](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
+[Primary Veterinary AnatomyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
 
 [Restraint and Handling of Wild and Domestic AnimalsMurray Fowler · Google Drive](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)
 
@@ -35,6 +35,8 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 [Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing · Reading guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
 
 [Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
+
+[Veterinary Histology & EmbryologyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
 
 ## 2nd Year
 

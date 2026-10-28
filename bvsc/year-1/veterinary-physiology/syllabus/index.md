@@ -12,6 +12,8 @@ Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
 
+[Theory](#theory)[Practical](#practical)
+
 ## Theory
 
 ### Unit 1Blood, Cardiovascular, Nervous And Muscular Systems
@@ -69,7 +71,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 0 / 13
 
-- [ ] Kidney- Functional morphology of nephrons, factors determining filtration pressure, determination of glomerular filtration rate (GFR) and renal plasma flow – Re-absorption mechanisms for glucose, protein, amino acids, electrolytes
+- [ ] Kidney- Functional morphology of nephrons, factors determining filtration pressure, determination of glomerular filtration rate (GFR) and renal plasma flow — Re-absorption mechanisms for glucose, protein, amino acids, electrolytes
 - [ ] ammonium mechanism, glomerulo-tubular balance, methods of studying renal functions
 - [ ] urine concentration
 - [ ] micturition, uremia.
@@ -151,9 +153,9 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/1st-year-course-outline.pdf#page=4)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=15)
 
 Checked 2026-10-28.
 

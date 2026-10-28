@@ -13,7 +13,7 @@ Animal Genetics and Breeding focuses on applying inheritance and population prin
 ## Notes
 
 48 notes
-[Topic-wise Notes45 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/practicals/)
+[Topic-wise Notes45 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -194,22 +194,11 @@ Try a shorter title or another collection.
 
 2 books
 
-[Source previewAnimal breedingView book](https://notes.thatvetguy.net/books/animal-breeding/)
+[Animal breeding](https://notes.thatvetguy.net/books/animal-breeding/)
 
-[Cover unavailableText Book on Animal Genetics and BreedingP. KanakarajReading guide](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/)
+[Text Book on Animal Genetics and Breeding](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
-
-- Mendelian and molecular genetics
-- Population and quantitative genetics
-- Selection and breeding systems
-- Animal breeding programmes
-
-Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 

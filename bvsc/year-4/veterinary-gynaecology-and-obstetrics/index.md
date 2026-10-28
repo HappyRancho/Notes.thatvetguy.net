@@ -13,7 +13,7 @@ Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fer
 ## Notes
 
 13 notes
-[Topic-wise Notes11 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/)
+[Topic-wise Notes11 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -93,30 +93,19 @@ Try a shorter title or another collection.
 
 6 books
 
-[Source previewApplied Veterinary Gynaecology and Obstetrics Dr PradeepView book](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
+[Applied Veterinary Gynaecology and Obstetrics Dr Pradeep](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
 
-[Reference coverCanine and Feline Endocrinology and ReproductionEdward C. Feldman, Richard W. NelsonView book](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
+[Canine and Feline Endocrinology and Reproduction](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
 
-[Reference coverPathways to Pregnancy and ParturitionP. L. SengerView book](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
+[Pathways to Pregnancy and Parturition](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
 
-[Cover unavailableReproduction in Farm Animals,7th Edition by HafeezView book](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
+[Reproduction in Farm Animals,7th Edition by Hafeez](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
 
-[Reference coverVeterinary Obstetrics and Genital diseaseStephen J. RobertsView book](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/)
+[Veterinary Obstetrics and Genital disease](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/)
 
-[Source previewVeterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. EnglandView book](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)
+[Veterinary Reproduction and Obstetrics](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
-
-- Reproductive cycles and breeding
-- Infertility and reproductive disorders
-- Pregnancy and parturition
-- Obstetrics, andrology and assisted reproduction
-
-Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 

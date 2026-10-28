@@ -4,63 +4,45 @@
 
 # Veterinary Pharmacology and Toxicology Practical Vault
 
-Practical material for 3rd Year Veterinary Pharmacology and Toxicology, organised by source folder. Choose a collection to prepare for your next lab.
+Your lab material, together. Open a practical folder or check what your syllabus expects.
 
-6 documents · Source collection: Vetverse
+## Practical collections
 
-[Practical syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/#practical)
+Original subject folders · Vetverse
 
-## Practical Files
+[All practical materialBrowse the complete collection](https://drive.google.com/drive/folders/18MsbE60v7Ua4OIo-G9SWwvT15Anue34P)
 
-6
+## Before the practical
 
-PDF
-Chemotherapy RecordPDF · 1.9 MB
+Start with the syllabus. Then open your record.
 
-Practical reference from the Practical Files collection.
+[Practical syllabus checklist5 units / sections · tick off your preparation](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/#practical)
 
-[Open Chemotherapy Record](https://drive.google.com/file/d/1aY85UR94iMZaSCaY9O36GRYxJDa6wFXY/view)
+### Assessment at a glance
 
-PDF
-Drug interactionsPDF · 1.7 MB
+Annual practical: two papers of 60 marks each, each carrying a weightage of 20. Practical assessment is conducted internally.
 
-Practical reference from the Practical Files collection.
+- Practical Paper I: Units 1–2 · 60 marks · weightage 20
 
-[Open Drug interactions](https://drive.google.com/file/d/1eI5PZIT5kreUKW-hbCDkllx_6NiQOL0N/view)
+- Practical Paper II: Units 3–5 · 60 marks · weightage 20
 
-PPTX
-Isolated Tissue Experiments using Organ BathPPTX · 970 KB
+Assessment rules 
 
-Practical slides from the Practical Files collection.
+- At least 75% attendance in theory and practical separately is required for examination eligibility.
+- Pass theory (internal and external combined) and practical separately with at least 50%.
+- Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-[Open Isolated Tissue Experiments using Organ Bath](https://drive.google.com/file/d/1rl33429JFpuTgSZyoJK29aTrvPGZ6Sqr/view)
+Practical units & skills 
 
-PDF
-Ointments linimentsPDF · 884 KB
+- General Pharmacology
+- Ans Pharmacology
+- Cns Pharmacology
+- Veterinary Chemotherapy
+- Veterinary Toxicology
 
-Practical reference from the Practical Files collection.
+Follow your department’s current assessment instructions and practise clinical procedures under supervision.
 
-[Open Ointments liniments](https://drive.google.com/file/d/1ozsoeckUF6ooE8bB17UaeEWfXZ5JoM9k/view)
-
-PDF
-Powders mixture lotion solutionPDF · 705 KB
-
-Practical reference from the Practical Files collection.
-
-[Open Powders mixture lotion solution](https://drive.google.com/file/d/124GrJQZ-HDassH_964Yf5x8i2nKWOHnH/view)
-
-PDF
-Principles of compounding dispensing - VPT-311 PWPDF · 683 KB
-
-Practical reference from the Practical Files collection.
-
-[Open Principles of compounding dispensing - VPT-311 PW](https://drive.google.com/file/d/1ydOFqC5q_2iiTYnd4L6I4eLtB1wa4-zi/view)
-
-No practical resources match. Try a shorter title or another type.
-
-Files open in the original collection. Photo sets open as folders so the whole collection remains available.
-
-Use these materials alongside your department’s practical teaching and supervision.
+Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=30). Your university’s current rules take precedence.
 
 [Back to Veterinary Pharmacology and Toxicology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 

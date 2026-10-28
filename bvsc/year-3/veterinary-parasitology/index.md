@@ -13,7 +13,7 @@ Veterinary Parasitology focuses on understanding parasite life cycles and their 
 ## Notes
 
 50 notes
-[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/)
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -208,22 +208,11 @@ Try a shorter title or another collection.
 
 2 books
 
-[Source previewText Book of Veterinary Parasitology - BhatiaView book](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/)
+[Text Book of Veterinary Parasitology - Bhatia](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/)
 
-[Cover unavailableVeterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. WallReading guide](https://notes.thatvetguy.net/books/veterinary-parasitology/)
+[Veterinary Parasitology](https://notes.thatvetguy.net/books/veterinary-parasitology/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
-
-- Helminthology
-- Veterinary protozoology
-- Veterinary entomology and acarology
-- Parasitological diagnosis and control
-
-Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 

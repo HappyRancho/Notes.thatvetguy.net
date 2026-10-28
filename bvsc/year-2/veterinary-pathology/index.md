@@ -13,7 +13,7 @@ Veterinary Pathology focuses on recognising mechanisms of disease and the lesion
 ## Notes
 
 52 notes
-[Topic-wise Notes48 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practicals/)
+[Topic-wise Notes48 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -218,24 +218,13 @@ Try a shorter title or another collection.
 
 3 books
 
-[Source previewA Textbook of Veterinary General PathologyJ. L. VegadView book](https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/)
+[A Textbook of Veterinary General Pathology](https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/)
 
-[Source previewTextbook of Veterinary PathologyView book](https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/)
+[Textbook of Veterinary Pathology](https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/)
 
-[Source previewThe Necropsy BookJohn M. King, Lois Roth-Johnson, David C. Dodd and Marion E. NewsomView book](https://notes.thatvetguy.net/books/necropsy-book-john-king/)
+[The Necropsy Book](https://notes.thatvetguy.net/books/necropsy-book-john-king/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
-
-- Cell injury and inflammation
-- Circulatory disturbances
-- Systemic pathology
-- Necropsy and diagnostic sampling
-
-Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 

@@ -6,11 +6,13 @@
 
 Your 4th Year course outline, one topic at a time. Tick what you have covered and pick up where you left off.
 
-0 of 132 topics checked0%
+0 of 131 topics checked0%
 
 Your progress stays on this device.
 
 You can tick topics here. Enable JavaScript to save progress between visits.
+
+[Theory](#theory)[Practical](#practical)
 
 ## Theory
 
@@ -76,7 +78,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Management of ocular emergencies.
 - [ ] Tracheotomy
 
-### Unit 5Regional Surgery-Ii
+### Unit 5Regional Surgery-Id
 
 0 / 19
 
@@ -180,7 +182,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Operation for aural haematoma.
 - [ ] Protection and bandage of eyes, tarsorhhaphy, third eyelid flap, flushing of nasolacrimal duct
 
-### Unit 5Regional Surgery-Ii
+### Unit 5Regional Surgery-I
 
 0 / 9
 
@@ -196,7 +198,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 
 ### Unit 6Orthopedics And Lameness
 
-0 / 9
+0 / 8
 
 - [ ] Demonstration or Audio visual aids-Familiarization with various orthopaedic instruments and implants.
 - [ ] Basic orthopaedic and neurological examination in small and large animals.
@@ -205,14 +207,13 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Basic limb stabilization techniques and splinting techniques.
 - [ ] Application of cast in small and large animals.
 - [ ] Internal fixation techniques in animals.
-- [ ] Medial patellar desmotomy in bovines.
-- [ ] Examination of animals for soundness and preparation of soundness certificate.
+- [ ] Medial patellar desmotomy in bovines, Examination of animals for soundness and preparation of soundness certificate.
 
 Course outline & source notes 
 
-Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the original professional-year outline; your university’s current syllabus and teaching instructions take precedence.
+Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
-[Read the source outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf#page=1)
+[Read the MSVE 2016 curriculum (PDF) ](https://upvetuniv.edu.in/wp-content/uploads/2020/12/BVSc-AH-Syllabus-and-Course-curriculum-MSVE-2016.pdf#page=40)
 
 Checked 2026-10-28.
 

@@ -13,7 +13,7 @@ Livestock Products Technology focuses on following animal products from producti
 ## Notes
 
 49 notes
-[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultManuals, slides & practical collections](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/)
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -201,34 +201,23 @@ Try a shorter title or another collection.
 
 7 books
 
-[Source previewGracey's Meat Hygiene 11EditionView book](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
+[Gracey's Meat Hygiene 11Edition](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
 
-[Reference coverLawrie's Meat ScienceR. A. LawrieView book](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
+[Lawrie's Meat Science](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
 
-[Cover unavailableMeat and Meat Products TechnologyB. D. SharmaReading guide](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
+[Meat and Meat Products Technology](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
 
-[Source previewMeat Processing TechnologyView book](https://notes.thatvetguy.net/books/meat-processing-technology/)
+[Meat Processing Technology](https://notes.thatvetguy.net/books/meat-processing-technology/)
 
-[Cover unavailableOckerman Animal Byproduct ProcessingView book](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
+[Ockerman Animal Byproduct Processing](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
 
-[Reference coverOutlines of Dairy TechnologySukumar DeReading guide](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
+[Outlines of Dairy Technology](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
 
 Show 1 more book
 
-[Source previewPrinciples of Meat Science — ForrestView book](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)
+[Principles of Meat Science — Forrest](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)
 
 No books match that title or author.
-
-Course focus & study tips 
-
-Livestock Products Technology focuses on following animal products from production through processing and safety. This guide helps BVSc & AH students locate credited notes and year-wise book collections, with a short revision outline to organise reading. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
-
-- Milk processing and dairy products
-- Meat science and meat products
-- Poultry and egg products
-- By-products, quality and preservation
-
-Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
