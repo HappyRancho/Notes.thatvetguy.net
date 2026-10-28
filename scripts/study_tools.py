@@ -60,7 +60,7 @@ def careers(b):
  categories=[('All','All paths','map'),('Clinical','Clinical','stethoscope'),('Production','Production','leaf'),('Public service','Public service','shield'),('Research','Research','microscope'),('Industry','Industry','flask')]
  for i,(category,label,ic) in enumerate(categories):
   count=len(DATA['careers']) if category=='All' else sum(c['category']==category for c in DATA['careers'])
-  body+='<button type="button" data-tool-filter="'+category+'" aria-label="'+category+'" aria-pressed="'+str(i==0).lower()+'">'+b.icon(ic)+'<span>'+label+'</span><small>'+str(count)+'</small></button>'
+  body+='<button type="button" data-tool-filter="'+category+'" aria-label="'+label+'" aria-pressed="'+str(i==0).lower()+'">'+b.icon(ic)+'<span>'+label+'</span><small>'+str(count)+'</small></button>'
  body+='</div><div class="career-list-label"><p role="status" data-tool-status>'+str(len(DATA['careers']))+' career routes</p><span>Open a path to explore</span></div><div class="career-grid">'
  source_map={s['id']:s for s in DATA['careerSources']}
  for i,c in enumerate(DATA['careers']):
