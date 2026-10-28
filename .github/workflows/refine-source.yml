@@ -8,13 +8,13 @@ jobs:
   curriculum:
     if: contains(github.event.head_commit.message, '[curriculum-fetch]')
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: sudo apt-get -qq update && sudo apt-get -qq install -y poppler-utils
+      - run: sudo apt-get -qq update && sudo apt-get -qq install -y poppler-utils tesseract-ocr
       - run: python3 scripts/fetch-msve-source.py
       - run: |
           git config user.name 'github-actions[bot]'
