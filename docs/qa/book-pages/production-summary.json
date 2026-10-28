@@ -1,0 +1,763 @@
+{
+  "commit": "b498a16e538e3832401182c6e4cc8d920551d824",
+  "workflow": "https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40644122918",
+  "crawl": {
+    "pages": 143,
+    "findings": []
+  },
+  "deployment": {
+    "purge": "not attempted: Cloudflare token/zone unavailable",
+    "pages": [
+      {
+        "path": "/books/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e3382c2356fd-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "607c9154c28bdab76f4acf3e2a226f9bf39e0bc5b063ed9251f0fe4592fe3d01",
+        "repoSha256": "59210a65dbaefb206598e0fbc76892bb315b3821217999f8aebf792161dcafe5",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/books/animal-nutrition/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e33a19739ab6-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "b0a39693b22cef1f7178f8ec64985be9a3965c910a93f6d108ea8268b914eb57",
+        "repoSha256": "f094d9423e55855886f9667bbea9ba42e4e8dad0434bab465b15a244911009cd",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/books/dhruv-desai/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e33baf079af6-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "2b71b9802f3e43e7a77c6ed671ec944996af2238f6675fb41d242391a8012a0b",
+        "repoSha256": "a8f5ee03c2bfd9e07b96c81add9f04e784b2baa1d93eb2a3b5d8df0a90798cad",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/books/plumbs-handbook/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e33cfdc183ef-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "98f408876869ad40db8e683d2ec16322c9f109361bba517793643c872f7b8d34",
+        "repoSha256": "906ebbd7134906c8b3a599f8c2be3046e8cb1a46b34c03871735c3eaa6b1d4ef",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/books/primary-veterinary-anatomy/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e33e4a011d3e-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "f5ea0dd9954f2619086edb2cdb54ea053fe42a2a4dd6525a47a52b0a7c9eb62d",
+        "repoSha256": "0561ea4cc0439e0321b236ee3ef59a430f4fa3f1871860b189abd14f8a08a0a0",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e3400b7d0928-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "09c47b72cbaceb52d124c76b4f85e4a0b38b9edd18d88324405971ae08ec8436",
+        "repoSha256": "9f6172e89a945a6407b21c4803d18b870be509e21d06257843d37caf55b375ac",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e341198da9be-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "e8b102f81b15e33cb8b5441576584044ab0d66256f478f68557042c2069204b9",
+        "repoSha256": "99b9d97c87d647889b8892ccfc4dd1d9fd965902b2c6c1d5365e3b5e156aac3e",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/objective/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e3433c2e9810-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "91f960c27af575308649fd4a143364084db03c3be2f9618235611813708e04d7",
+        "repoSha256": "9f3952aab769f333a27396a89f510d01238e94693335580bf90e0938b9ffaff9",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/study-tools/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e344fb62c695-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "8c5940a3fd11ef8f5820d694025f02f582e4226f41a529bf3744ddc73cef6ece",
+        "repoSha256": "b9e72027c31ac9ab71b1ffe507836488366edc0572b344bbdba7fbe262d80c8a",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/clinical/handbooks/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e346ce762efc-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "c5d2aeb01578b9eac0d155fe28bade10b3eb8f5bf2628d42b866265317276482",
+        "repoSha256": "ec504e4f49fd3367fa8c9fb789deea31382876df71758c60fdba86fde8792b21",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/clinical/drug-index/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e3483a6f69c1-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "0b793b533c7f0babb9cdf79cc583c9b07f905eb4d63018d2f87df3a27f7ceb7f",
+        "repoSha256": "9811e0b78b32872acec62aa211745cfb6a110a32ba12d8c8a5bc6b06ca167572",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/search/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e349d8c13adc-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "354bca775fc5a5349b63428286f52713877f045e502ec6702692a822a2575729",
+        "repoSha256": "a810e9a04a09b77d299cd6c3b5e05c410ef6a81bf81184c1a4fe48a93360c864",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/about/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e34b997ac4c6-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "7ea7d5b7ec71fd54bcade19ebda67360f19f42205d2799ec77c4fdd772751afa",
+        "repoSha256": "45a0019dcfd65b552abaec7f19859538654ae1db9bc76f30221b23449cb5b64c",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/request-resource/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e34c499529ab-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "6f91a7a6856eee0249f8c1496aa38f7ba604a9dd817d307a41f48e427da6ee46",
+        "repoSha256": "7d5c9b77dfefbdd10c11cd7f66ec10cf25831d38d2e4d80d9ff851ed6ade4447",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/year-1/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e34cfc63c9f5-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "eeb033bf5ea297a25af6e294fb85dc5053bcb712a20b4bf30fa897ad1e2b8141",
+        "repoSha256": "8522b5eb23bdd84d69763c929620c46174a1701d1fb3d7419050531865f4a97a",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/year-2/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e34db80ef7c3-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "d6c3521c73b734a5cbb073b664c67a42d4c61cd835d80384272fe9fb9da3f0ee",
+        "repoSha256": "2eb0e5967d107ab5883c8c54de4564fb51ba8762ac2c7839ae816f4e52b52769",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/year-3/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e34e8a6cb6a4-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "c714456a5708acb3ba230232f9cee157c9cb141046f6feea0b5a10a95f28beec",
+        "repoSha256": "8d8879c91430e3eae5b86647dff5e8181e78bf9f4f9d2a0d718bdb1377ea9611",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/year-4/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e34f1e5bd00b-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "1a68cb6575abaa723b03db9249c4dd4ac74176ecc1c0ae4d467b9d8708e9d73e",
+        "repoSha256": "39b6ca9f165cb1b2cfd49cb594707c82f196ff4b0d36b4921750f77b06aa8acf",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/year-1/veterinary-anatomy/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e35019323511-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "779bde4f41dfc9e374782ab061f114e8d2b4f28def4feab2f8f34297d601b561",
+        "repoSha256": "981647e01a4461fe1171f82beb5ad5cbecff0b8eca85e09be3ece34582578599",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      },
+      {
+        "path": "/bvsc/year-3/veterinary-pharmacology-and-toxicology/",
+        "status": 200,
+        "headers": {
+          "cf-cache-status": "DYNAMIC",
+          "age": null,
+          "etag": null,
+          "last-modified": null,
+          "cf-ray": "a517e350e9de8187-LAX"
+        },
+        "buildMatches": true,
+        "liveBuild": "07fa0d361dbb",
+        "repoBuild": "07fa0d361dbb",
+        "assetVersionsMatch": true,
+        "sha256": "a43a06ca9ec4ee5d4e9ce44cb09ecb44404a8386ccbf380bc735d5a4c534eda9",
+        "repoSha256": "60640802d4dd5b3d9ea9ca487cb7f34116e59765c0b3ed0974fec1f65c8d6c7a",
+        "matchesRepo": false,
+        "oldExploreHeading": false,
+        "orphanObjective": false
+      }
+    ]
+  },
+  "summary": {
+    "phase": "production",
+    "views": 30,
+    "bugs": [],
+    "lighthouse": 5,
+    "scoreFailures": [
+      {
+        "url": "/books/",
+        "scores": {
+          "performance": 98,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 92
+        },
+        "lcp": 2032.4289999999999,
+        "cls": 0.005687432167703504,
+        "failures": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint",
+            "score": 0.91
+          },
+          {
+            "id": "largest-contentful-paint",
+            "title": "Largest Contentful Paint",
+            "score": 0.97
+          },
+          {
+            "id": "interactive",
+            "title": "Time to Interactive",
+            "score": 0.99
+          },
+          {
+            "id": "uses-long-cache-ttl",
+            "title": "Serve static assets with an efficient cache policy",
+            "score": 0.5
+          },
+          {
+            "id": "render-blocking-resources",
+            "title": "Eliminate render-blocking resources",
+            "score": 0.5
+          },
+          {
+            "id": "uses-responsive-images",
+            "title": "Properly size images",
+            "score": 0.5
+          },
+          {
+            "id": "legacy-javascript",
+            "title": "Avoid serving legacy JavaScript to modern browsers",
+            "score": 0.5
+          },
+          {
+            "id": "dom-size",
+            "title": "Avoid an excessive DOM size",
+            "score": 0.5
+          },
+          {
+            "id": "robots-txt",
+            "title": "robots.txt is not valid",
+            "score": 0
+          },
+          {
+            "id": "cache-insight",
+            "title": "Use efficient cache lifetimes",
+            "score": 0.5
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery",
+            "score": 0.5
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render blocking requests",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "url": "/books/animal-nutrition/",
+        "scores": {
+          "performance": 97,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 92
+        },
+        "lcp": 2331.66,
+        "cls": 0.005687432167703504,
+        "failures": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint",
+            "score": 0.92
+          },
+          {
+            "id": "largest-contentful-paint",
+            "title": "Largest Contentful Paint",
+            "score": 0.93
+          },
+          {
+            "id": "interactive",
+            "title": "Time to Interactive",
+            "score": 0.99
+          },
+          {
+            "id": "uses-long-cache-ttl",
+            "title": "Serve static assets with an efficient cache policy",
+            "score": 0.5
+          },
+          {
+            "id": "render-blocking-resources",
+            "title": "Eliminate render-blocking resources",
+            "score": 0
+          },
+          {
+            "id": "uses-responsive-images",
+            "title": "Properly size images",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript",
+            "title": "Avoid serving legacy JavaScript to modern browsers",
+            "score": 0.5
+          },
+          {
+            "id": "robots-txt",
+            "title": "robots.txt is not valid",
+            "score": 0
+          },
+          {
+            "id": "cache-insight",
+            "title": "Use efficient cache lifetimes",
+            "score": 0.5
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery",
+            "score": 0
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render blocking requests",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "url": "/books/dhruv-desai/",
+        "scores": {
+          "performance": 98,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 92
+        },
+        "lcp": 1993.587,
+        "cls": 0.005687432167703504,
+        "failures": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint",
+            "score": 0.91
+          },
+          {
+            "id": "largest-contentful-paint",
+            "title": "Largest Contentful Paint",
+            "score": 0.97
+          },
+          {
+            "id": "interactive",
+            "title": "Time to Interactive",
+            "score": 0.99
+          },
+          {
+            "id": "uses-long-cache-ttl",
+            "title": "Serve static assets with an efficient cache policy",
+            "score": 0.5
+          },
+          {
+            "id": "render-blocking-resources",
+            "title": "Eliminate render-blocking resources",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript",
+            "title": "Avoid serving legacy JavaScript to modern browsers",
+            "score": 0.5
+          },
+          {
+            "id": "robots-txt",
+            "title": "robots.txt is not valid",
+            "score": 0
+          },
+          {
+            "id": "cache-insight",
+            "title": "Use efficient cache lifetimes",
+            "score": 0.5
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render blocking requests",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "url": "/books/plumbs-handbook/",
+        "scores": {
+          "performance": 98,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 92
+        },
+        "lcp": 2060.551,
+        "cls": 0.005687432167703504,
+        "failures": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint",
+            "score": 0.92
+          },
+          {
+            "id": "largest-contentful-paint",
+            "title": "Largest Contentful Paint",
+            "score": 0.96
+          },
+          {
+            "id": "interactive",
+            "title": "Time to Interactive",
+            "score": 0.99
+          },
+          {
+            "id": "uses-long-cache-ttl",
+            "title": "Serve static assets with an efficient cache policy",
+            "score": 0.5
+          },
+          {
+            "id": "render-blocking-resources",
+            "title": "Eliminate render-blocking resources",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript",
+            "title": "Avoid serving legacy JavaScript to modern browsers",
+            "score": 0.5
+          },
+          {
+            "id": "robots-txt",
+            "title": "robots.txt is not valid",
+            "score": 0
+          },
+          {
+            "id": "cache-insight",
+            "title": "Use efficient cache lifetimes",
+            "score": 0.5
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render blocking requests",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "url": "/books/primary-veterinary-anatomy/",
+        "scores": {
+          "performance": 98,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 92
+        },
+        "lcp": 1985.9319999999993,
+        "cls": 0.005687432167703504,
+        "failures": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint",
+            "score": 0.91
+          },
+          {
+            "id": "largest-contentful-paint",
+            "title": "Largest Contentful Paint",
+            "score": 0.97
+          },
+          {
+            "id": "interactive",
+            "title": "Time to Interactive",
+            "score": 0.99
+          },
+          {
+            "id": "uses-long-cache-ttl",
+            "title": "Serve static assets with an efficient cache policy",
+            "score": 0.5
+          },
+          {
+            "id": "render-blocking-resources",
+            "title": "Eliminate render-blocking resources",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript",
+            "title": "Avoid serving legacy JavaScript to modern browsers",
+            "score": 0.5
+          },
+          {
+            "id": "robots-txt",
+            "title": "robots.txt is not valid",
+            "score": 0
+          },
+          {
+            "id": "cache-insight",
+            "title": "Use efficient cache lifetimes",
+            "score": 0.5
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render blocking requests",
+            "score": 0
+          }
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "cloudflareManagedRobots": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the corresponding use.\n\n# The content signals and their meanings are:\n\n# search:   building a search index and providing search results (e.g., returning\n#           hyperlinks and short excerpts from your website's contents). Search does not\n#           include providing AI-generated search summaries.\n# ai-input: inputting content into one or more AI models (e.g., retrieval\n#           augmented generation, grounding, or other real-time taking of content for\n#           generative AI search answers).\n# ai-train: training or fine-tuning AI models.\n# use:      how AI systems may consume the content (immediate, reference, or full).\n\n# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF\n# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT\n# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.\n\n# BEGIN Cloudflare Managed content\n\n\nUser-agent: *\nContent-Signal: search=yes,ai-train=no,use=reference\nAllow: /\n\n# Training crawlers\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: omgili\nDisallow: /\n\nUser-agent: anthropic-ai\nDisallow: /\n\nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: MistralAI-Training\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: GoogleOther\nDisallow: /\n\nUser-agent: Baiduspider\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: AwarioSmartBot\nUser-agent: AwarioRssBot\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: QualifiedBot\nDisallow: /\n\nUser-agent: Cotoyogi\nDisallow: /\n\nUser-agent: ICC-Crawler\nDisallow: /\n\nUser-agent: atlassian-bot\nDisallow: /\n\nUser-agent: FishBot\nDisallow: /\n\nUser-agent: BorderxBot\nDisallow: /\n\nUser-agent: NavuBot\nDisallow: /\n\nUser-agent: SemrushBot-SWA\nDisallow: /\n\nUser-agent: WARDBot\nDisallow: /\n\nUser-agent: magpie-crawler\nDisallow: /\n\nUser-agent: KimiBot\nDisallow: /\n\nUser-agent: CitibotSiteCrawler\nDisallow: /\n\n# END Cloudflare Managed Content\n\nUser-agent: *\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: Claude-SearchBot\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: Applebot-Extended\nAllow: /\n\nUser-agent: CCBot\nAllow: /\n\nSitemap: https://notes.thatvetguy.net/sitemap.xml\n"
+}

@@ -49,6 +49,12 @@ def books():
   book['bibliography']=info if info.get('bibliographyVerified') else {}
   book['cover']=None if book['id'] in c.get('rejectedCovers',{}) else info.get('cover')
   if book['cover'] and c.get('fileCoverEvidence',{}).get(book['id']) and c['fileCoverEvidence'][book['id']] in book['cover'].get('source',''):book['cover']['kind']='file-cover'
+  if book['cover'] and book['id'] in c.get('coverRotations',{}):
+   from PIL import Image
+   original=book['cover'];dest=ROOT/'assets/books'/(book['id']+'-upright.webp')
+   with Image.open(ROOT/original['path'].lstrip('/')) as image:
+    image=image.convert('RGB').rotate(c['coverRotations'][book['id']],expand=True);image.thumbnail((520,760));image.save(dest,'WEBP',quality=85,method=6)
+    book['cover']={**original,'path':'/assets/books/'+dest.name,'width':image.width,'height':image.height,'manualOrientation':c['coverRotations'][book['id']]}
   book['page']=route(book['id'])
   book['files'].sort(key=lambda f:(-int(m[1]) if (m:=re.search(r'\b(\d+)(?:st|nd|rd|th)?\s*[- ]?edition',f['name'],re.I)) else 0,natural(f['name'])))
   book['primaryUrl']=book['telegram'] or (book['files'][0]['url'] if book['files'] else None)

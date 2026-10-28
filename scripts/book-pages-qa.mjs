@@ -1,7 +1,7 @@
 /* Canonical book routes, real covers, responsive geometry and download destinations. */
 import fs from 'node:fs';import {spawn} from 'node:child_process';import {chromium} from 'playwright';import AxeBuilder from '@axe-core/playwright';
 const books=JSON.parse(fs.readFileSync('data/books.json')),base='http://127.0.0.1:4173',out='docs/qa/book-pages';fs.mkdirSync(out,{recursive:true});
-const examples=['animal-nutrition','dhruv-desai','plumbs-handbook','primary-veterinary-anatomy','textbook-of-veterinary-internal-medicine','applied-nutrition-d-v-reddy'];
+const examples=['dukes-physiology-of-domestic-animals','animal-breeding','animal-nutrition','dhruv-desai','plumbs-handbook','primary-veterinary-anatomy','textbook-of-veterinary-internal-medicine','applied-nutrition-d-v-reddy'];
 const report={views:[],errors:[],interactions:[]};let browser,server;
 try{
  server=spawn('python3',['scripts/qa-server.py',process.cwd()],{stdio:'ignore'});for(let n=0;n<50;n++){try{if((await fetch(base)).ok)break}catch{}await new Promise(r=>setTimeout(r,100))}
@@ -28,5 +28,5 @@ try{
  await p.goto(base+'/search/?q=Animal%20Nutrition');await p.waitForSelector('#page-results a[href^="/books/"]');
  await p.goto(base+'/books/');await p.locator('.book-directory-card a').first().click();await p.waitForURL('**/books/**');
  await c.close();const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:360,height:844}}),n=await nojs.newPage();for(const b of books.filter(b=>examples.includes(b.id))){await n.goto(base+b.page);if(!await n.locator('.book-download').isVisible())throw Error('No-JS download '+b.id);await n.locator('.book-source-details>summary').click();if(!await n.locator('.book-source-details').evaluate(e=>e.open))throw Error('No-JS source details');}await nojs.close();
- report.interactions.push('All book pages in two themes at 390px; six representative pages at 360/430/768/1280px; exact provider labels/URLs; source images; objective, handbook, subject and search navigation; title/author filtering; no-JS access and source disclosure.');
+ report.interactions.push('All book pages in two themes at 390px; eight representative pages at 360/430/768/1280px; exact provider labels/URLs; source images; objective, handbook, subject and search navigation; title/author filtering; no-JS access and source disclosure.');
 }catch(e){report.errors.push(e.stack||String(e))}finally{if(browser)await browser.close();if(server)server.kill();fs.writeFileSync(out+'/browser-report.json',JSON.stringify(report,null,2));console.log('BOOK_QA '+JSON.stringify({views:report.views.length,errors:report.errors,interactions:report.interactions}));if(report.errors.length)process.exitCode=1}
