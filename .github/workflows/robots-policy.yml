@@ -1,0 +1,23 @@
+name: Crawler policy verification
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  crawler-policy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check committed policy and production regression cases
+        run: python3 scripts/ci/test-robots-policy.py
+      - name: Check the public Cloudflare response
+        run: python3 scripts/ci/check-live-robots.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: public-crawler-policy
+          path: docs/qa/search/robots-policy.json

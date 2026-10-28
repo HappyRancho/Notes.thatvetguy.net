@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "python3 scripts/build.py",
-    "check": "python3 scripts/task3-static.py && python3 scripts/check-seo.py && python3 scripts/check-roadmaps.py && python3 scripts/check-academic-pages.py && python3 scripts/check-drive.py && node scripts/check-interactions.cjs && node scripts/contrast-check.mjs && node scripts/homepage-contrast.mjs && python3 scripts/check-books.py && python3 scripts/check-syllabi.py && python3 scripts/check-practicals.py",
+    "check": "python3 scripts/task3-static.py && python3 scripts/check-seo.py && python3 scripts/check-roadmaps.py && python3 scripts/check-academic-pages.py && python3 scripts/check-drive.py && node scripts/check-interactions.cjs && node scripts/contrast-check.mjs && node scripts/homepage-contrast.mjs && python3 scripts/check-books.py && python3 scripts/check-syllabi.py && python3 scripts/check-practicals.py && python3 scripts/ci/test-robots-policy.py",
     "qa": "node scripts/task3-browser.mjs"
   },
   "devDependencies": {
