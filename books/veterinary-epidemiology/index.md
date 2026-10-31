@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Epidemiology — Details & Drive Access
+- ›Veterinary Epidemiology
 
-Preview from the linked source file.
-Book · Veterinary Public Health and Epidemiology
+Book · Year 3
 
 # Veterinary Epidemiology
 
@@ -19,13 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A reference for disease patterns, study design and interpreting diagnostic tests.
 
-## A study note
-
-Use this alongside veterinary public health and epidemiology lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: Michael Thrusfield and Robert Christley
 
@@ -37,16 +30,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Michael Thrusfield Veterinary Epidemiology.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Epidemiology#report)
+- Michael Thrusfield Veterinary Epidemiology.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Epidemiology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

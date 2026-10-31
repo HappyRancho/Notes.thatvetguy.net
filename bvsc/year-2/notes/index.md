@@ -15,4 +15,4 @@ Choose a 2nd Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Animal Genetics and Breeding48 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - [Animal Nutrition33 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.

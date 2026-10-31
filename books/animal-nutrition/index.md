@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/animal-nutrition/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/animal-nutrition/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Animal Nutrition — Details & Drive Access
+- ›Animal Nutrition
 
-Cover from the linked file.
-Book · Animal Nutrition
+Book · Year 2
 
 # Animal Nutrition
 
@@ -19,13 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A detailed reference for nutrients, digestion and ration-related concepts.
 
-## A study note
-
-Use this alongside animal nutrition lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: P. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. Wilkinson
 
@@ -37,16 +30,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Animal Nutrition, 7th edition.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Animal%20Nutrition#report)
+- Animal Nutrition, 7th edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Animal%20Nutrition#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

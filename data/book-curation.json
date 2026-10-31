@@ -58,7 +58,14 @@
     "ananthanarayan-microbiology": "C. K. J. Paniker (editor)",
     "animal-science-refresher": "Sheelendra Kumar Tanwar",
     "veterinary-obstetrics-and-genital-disease": "Stephen J. Roberts",
-    "pocket-guide-diagnostic-tests": "Diana Nicoll, Stephen J. McPhee and Michael Pignone"
+    "pocket-guide-diagnostic-tests": "Diana Nicoll, Stephen J. McPhee and Michael Pignone",
+    "vet-scorer": "Shailesh Kumar Patel, Jigyasa Rana and B. Balamurugan",
+    "essentials-of-medical-pharmacology-k-d-tripathi": "K. D. Tripathi",
+    "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard": "Bonnie Ballard and Ryan Cheek",
+    "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures": "Margi Sirois",
+    "ockerman-animal-byproduct-processing": "H. W. Ockerman and C. L. Hansen",
+    "small-animal-internal-medicine-5th-edition": "Richard W. Nelson and C. Guillermo Couto",
+    "veterinary-surgery-and-radiology-by-s-k-nandi": "Samit Kumar Nandi, Samar Halder and Mozammel Hoque"
   },
   "authorEvidence": {
     "necropsy-book-john-king": "Title page of source file 1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz",
@@ -75,6 +82,9 @@
     ],
     "animal-science-refresher": [
       "https://play.google.com/store/books/details?id=kwslDwAAQBAJ"
+    ],
+    "vet-scorer": [
+      "https://www.ibpbooks.com/vet-scorer-a-complete-solution-of-veterinary-science-3-mock-tests-3-old-psc-papers/p/56196"
     ]
   },
   "metadataAliases": {
@@ -101,7 +111,22 @@
   "descriptions": {
     "primary-veterinary-anatomy": "Primary Veterinary Anatomy introduces gross anatomy for veterinary students. R. K. Ghosh’s text relates the arrangement of organs and body regions to dissection, with comparative material across domestic animals and birds. Use it to build anatomical terminology, identify structures in practical classes and connect systems with their position and relationships. Check your university’s prescribed edition before planning detailed reading.",
     "plumbs-handbook": "Plumb’s Veterinary Drug Handbook is a veterinary drug reference organised around individual medicines. It brings together information used to look up veterinary drug monographs, including precautions and interactions. It is a reference for trained clinical use, not a substitute for diagnosis or current product information. Confirm the edition of the linked copy and use current, species-specific clinical guidance.",
-    "applied-nutrition-d-v-reddy": "Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals is a nutrition text by D. V. Reddy. The source title page identifies this copy as the third edition. It is filed in the Animal Nutrition Books collection for second-year BVSc & AH reading. Use your course outline to select the relevant species and nutrition themes, and keep this applied text distinct from Principles of Animal Nutrition and Feed Technology."
+    "applied-nutrition-d-v-reddy": "An applied nutrition text covering livestock, poultry, rabbits and laboratory animals. Useful for connecting nutrient requirements with feeding decisions. The linked copy identifies itself as the third edition.",
+    "principles-of-animal-nutrition-and-feed-technology": "Covers the principles of animal nutrition, evaluation of feedstuffs and feed technology. A companion for understanding the science behind feeds before moving to applied ration work.",
+    "vet-scorer": "A veterinary-science revision book combining subject review with practice questions. The 2022 listing includes three mock tests and three previous PSC papers. Best used to identify gaps after studying a topic.",
+    "adam-s-lameness-in-horses-7th-edition": "An equine reference for studying lameness and the locomotor system. Use alongside orthopaedics teaching to connect anatomy with examination and clinical reasoning.",
+    "ananthanarayan-microbiology": "A general medical microbiology text for foundational concepts in microbes, infection and laboratory methods. Pair it with veterinary microbiology notes for animal-specific organisms and diseases.",
+    "animal-breeding": "An animal-breeding reading resource from the second-year collection. Use your syllabus to select relevant breeding and selection topics; the shared file does not establish a verified author or edition.",
+    "applied-veterinary-gynaecology-and-obstetrics-dr-pradeep": "A reference on veterinary gynaecology and obstetrics, connecting reproductive study with applied clinical topics. Read alongside species-specific teaching and supervised practicals.",
+    "colour-atlas-of-veterinary-anatomy-the-ruminants": "A visual anatomy reference focused on ruminants. Useful beside dissection notes for recognising structures and understanding their spatial relationships.",
+    "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard": "An introduction to exotic-animal medicine for veterinary technicians. A useful companion for learning species-specific handling, husbandry and clinical-care concepts.",
+    "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures": "A reference on the principles and procedures used with laboratory animals and exotic pets. Useful for linking species knowledge with practical care and laboratory teaching.",
+    "ockerman-animal-byproduct-processing": "Explores the processing and use of animal by-products. Relevant to livestock-products technology, especially the relationship between processing, utilisation and waste management.",
+    "small-animal-internal-medicine-5th-edition": "A small-animal medicine reference for studying internal diseases in dogs and cats. Use it to connect clinical signs, diagnostic reasoning and disease mechanisms during case-based learning.",
+    "veterinary-surgery-and-radiology-by-s-k-nandi": "A veterinary surgery and radiology textbook organised for veterinary study. Use alongside lectures and supervised practicals to connect surgical principles with diagnostic imaging.",
+    "principles-of-meat-science-forrest": "A meat-science reference for understanding muscle, meat quality and processing concepts. Useful alongside livestock-products technology lectures.",
+    "veterinary-clinician-handbook": "A clinical handbook by A. U. Bhikane for quick veterinary reference. Use it to revisit clinical topics alongside current guidance and supervised training.",
+    "veterinary-practice-handbook": "A veterinary-practice handbook credited to R. K. Chandolia. Useful as a quick reading companion for clinical teaching and practical revision."
   },
   "rejectedCovers": {
     "essentials-of-veterinary-pharmacology-and-therapeutics": "Provider returned an image-not-available placeholder.",

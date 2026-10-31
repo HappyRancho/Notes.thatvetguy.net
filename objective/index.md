@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Objective Resources
@@ -105,4 +105,4 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://notes.thatvetguy.net/books/e-nanu-qbank/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

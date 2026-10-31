@@ -1,11 +1,11 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/dhruv-desai/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/dhruv-desai/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Compiled Question Bank by Dhruv N Desai — Telegram Download
+- ›Compiled Question Bank by Dhruv N Desai
 
-Cover unavailable
-Study book · veterinary revision
+Symbolic cover
+Study book · Exam revision
 
 # Compiled Question Bank by Dhruv N Desai
 
@@ -19,13 +19,7 @@ This button opens the book’s Telegram post. View or download the file there.
 
 Compiled objective questions across veterinary subjects for focused revision.
 
-## A study note
-
-Useful for a second pass after learning the topic. Attempt a short set, check each answer against your teaching notes and keep a list of concepts to revisit; question collections can contain errors or older answers.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: Dhruv N Desai
 
@@ -33,14 +27,14 @@ Book details, edition & credits
 
 - Access: Telegram
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Symbolic artwork made for this listing; not the publisher’s cover.
+
+Credit belongs to the original authors and publishers.
 
 Access is provided through the original Telegram post.
-
-Last source check: 2026-10-19.
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Compiled%20Question%20Bank%20by%20Dhruv%20N%20Desai#report)
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

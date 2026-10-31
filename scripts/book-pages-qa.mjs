@@ -1,7 +1,7 @@
 /* Canonical book routes, real covers, responsive geometry and download destinations. */
 import fs from 'node:fs';import {spawn} from 'node:child_process';import {chromium} from 'playwright';import AxeBuilder from '@axe-core/playwright';
 const books=JSON.parse(fs.readFileSync('data/books.json')),base='http://127.0.0.1:4173',out='docs/qa/book-pages';fs.mkdirSync(out,{recursive:true});
-const examples=['dukes-physiology-of-domestic-animals','animal-breeding','animal-nutrition','dhruv-desai','plumbs-handbook','primary-veterinary-anatomy','textbook-of-veterinary-internal-medicine','applied-nutrition-d-v-reddy'];
+const examples=['tanuvas-qbank','vet-scorer','small-animal-colour-handbook','dukes-physiology-of-domestic-animals','animal-breeding','animal-nutrition','dhruv-desai','plumbs-handbook','primary-veterinary-anatomy','textbook-of-veterinary-internal-medicine','applied-nutrition-d-v-reddy'];
 const report={views:[],errors:[],interactions:[]};let browser,server;
 try{
  server=spawn('python3',['scripts/qa-server.py',process.cwd()],{stdio:'ignore'});for(let n=0;n<50;n++){try{if((await fetch(base)).ok)break}catch{}await new Promise(r=>setTimeout(r,100))}

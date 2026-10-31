@@ -54,4 +54,4 @@ Choose a subject. These collections already have resources.
 
 Can’t find it? [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.

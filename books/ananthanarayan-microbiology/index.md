@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ananthanarayan and Paniker’s Textbook of Microbiology — Details & Drive Access
+- ›Ananthanarayan and Paniker’s Textbook of Microbiology
 
-Cover from the linked file.
-Book · Veterinary Microbiology
+Book · Year 2
 
 # Ananthanarayan and Paniker’s Textbook of Microbiology
 
@@ -17,15 +16,9 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Ananthanarayan and Paniker’s Textbook of Microbiology is listed in the Veterinary Microbiology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+A general medical microbiology text for foundational concepts in microbes, infection and laboratory methods. Pair it with veterinary microbiology notes for animal-specific organisms and diseases.
 
-## A study note
-
-Use this alongside veterinary microbiology lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: C. K. J. Paniker (editor)
 
@@ -37,16 +30,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Ananthanarayan microbio.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ananthanarayan%20and%20Paniker%E2%80%99s%20Textbook%20of%20Microbiology#report)
+- Ananthanarayan microbio.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ananthanarayan%20and%20Paniker%E2%80%99s%20Textbook%20of%20Microbiology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

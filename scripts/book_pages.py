@@ -6,11 +6,9 @@ from book_catalogue import books,route
 from library import slug
 ROOT=Path(__file__).resolve().parent.parent
 def cover(b,book):
- c=book.get('cover')
- if c:
-  caption='Reference cover; the linked edition may differ.' if c['kind']=='reference-cover' else 'Title-page preview from the linked file.' if c['kind']=='title-page' else 'Cover from the linked file.' if c['kind']=='file-cover' else 'Preview from the linked source file.'
-  return '<figure class="book-cover"><img src="'+e(c['path'],quote=True)+'" width="'+str(c['width'])+'" height="'+str(c['height'])+'" alt="'+e(('Reference cover for ' if c['kind']=='reference-cover' else 'Source preview for ')+book['title'],quote=True)+'" fetchpriority="high" decoding="async"><figcaption>'+caption+'</figcaption></figure>'
- return '<div class="book-cover book-cover-unavailable" role="img" aria-label="No verified cover available for '+e(book['title'],quote=True)+'">'+b.icon('book')+'<span>Cover unavailable</span></div>'
+ c=book['cover'];symbolic=c['kind']=='symbolic-cover'
+ label='Symbolic cover' if symbolic else 'Book cover'
+ return '<figure class="book-cover"><img src="'+e(c['path'],quote=True)+'" width="'+str(c['width'])+'" height="'+str(c['height'])+'" alt="'+e(label+' — '+book['title'],quote=True)+'" fetchpriority="high" decoding="async">'+('<figcaption>Symbolic cover</figcaption>' if symbolic else '')+'</figure>'
 def access_text(book):
  if book['telegram']:return 'This button opens the book’s Telegram post. View or download the file there.'+(' This is a private collection; access to its posts is required.' if '/c/' in book['telegram'] else '')
  if book['files']:return 'View or download this copy in Google Drive. Check its title page and edition before use.'
@@ -39,25 +37,18 @@ def page(b,book):
   r=b.CATALOGUE[rid];aliases=''.join('<span class="anchor-alias" id="file-'+v['id']+'"></span>' for v in r['variants'] if v['id']!=rid)
  target=book['primaryUrl'] or '/request-resource/?resource='+__import__('urllib.parse',fromlist=['quote']).quote(book['title'])
  button=b.link(target,b.icon('telegram' if book['telegram'] else 'book' if book['files'] else 'message')+'<span>'+book['downloadLabel']+'</span>'+b.icon('external' if book['primaryUrl'] else 'arrow'),'book-download'+(' file-open' if rid else ''))
- body+='<section class="book-overview"><div class="book-overview-grid">'+cover(b,book)+'<div class="book-hero-copy"><span class="book-category">'+e(book['type'])+' · '+e(subject)+'</span><h1>'+e(book['title'])+'</h1>'
+ body+='<section class="book-overview"><div class="book-overview-grid">'+cover(b,book)+'<div class="book-hero-copy"><span class="book-category">'+e(book['type'])+' · '+e(('Year '+str(book['subjects'][0]['year'])) if book['subjects'] else 'Exam revision' if book['collection'] in ['objective-notes','question-banks'] else 'Clinical reference')+'</span><h1>'+e(book['title'])+'</h1>'
  if book.get('author'):body+='<p class="book-author">'+e(book['author'])+'</p>'
- body+='<article class="book-access"'+(' id="file-'+rid+'" data-resource-id="'+rid+'"' if rid else '')+'>'+aliases+button+'<p>'+access_text(book)+'</p></article></div></div></section>'
+ body+='</div></div><article class="book-access"'+(' id="file-'+rid+'" data-resource-id="'+rid+'"' if rid else '')+'>'+aliases+button+'<p>'+access_text(book)+'</p></article></section>'
  body+='<section class="book-about"><h2>About this '+('reference' if book['type']=='Reference sheet' else 'book')+'</h2><p>'+e(book['description'])+'</p>'
  if book.get('humanReference'):body+='<p>This is a general medical text. Use veterinary-specific teaching and current species-specific references for clinical decisions.</p>'
  if book['clinical']:body+='<aside class="book-clinical-note" role="note">For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.</aside>'
  body+='</section>'
- if book['subjects']:
-  guide=b.SUBJECTS[book['subjects'][0]['name']];themes=guide['topics'][:3]
-  note='Use this alongside '+subject.lower()+' lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.'
- elif book['collection'] in ['objective-notes','question-banks']:
-  note='Useful for a second pass after learning the topic. Attempt a short set, check each answer against your teaching notes and keep a list of concepts to revisit; question collections can contain errors or older answers.'
- else:note='Use this as a reference to look up a specific question, rather than a substitute for current clinical guidance. Confirm the edition, species and context before relying on a table or recommendation.'
- body+='<section class="book-study"><header><span class="rx-row-icon yellow">'+b.icon('paper')+'</span><h2>A study note</h2></header><p>'+e(note)+'</p><small class="book-editorial">Rx Notes reading guidance</small></section>'
- body+='<details class="book-source-details"><summary>Book details, edition &amp; credits '+b.icon('chevron')+'</summary><div>'+facts(book)+'<p>Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.</p>'
+ body+='<details class="book-source-details"><summary>Edition &amp; source details '+b.icon('chevron')+'</summary><div>'+facts(book)+('<p>Reference cover; the linked edition may differ.</p>' if book['cover']['kind']=='reference-cover' else '<p>Symbolic artwork made for this listing; not the publisher’s cover.</p>' if book['cover']['kind']=='symbolic-cover' else '<p>Cover extracted from the linked PDF.</p>')+'<p>Credit belongs to the original authors and publishers.</p>'
  if book['files']:body+='<p>Collection: Vetverse. Original file '+('labels' if len(book['files'])>1 else 'label')+':</p><ul>'+''.join('<li>'+e(f['name'])+'</li>' for f in book['files'])+'</ul>'
  elif book['telegram']:body+='<p>Access is provided through the original Telegram post.</p>'
  if book.get('originalLabel'):body+='<p>Shared file label: '+e(book['originalLabel'])+'</p>'
- body+='<p>Last source check: <time datetime="'+book['lastVerified']+'">'+book['lastVerified']+'</time>.</p>'+b.link('/request-resource/?resource='+__import__('urllib.parse',fromlist=['quote']).quote(book['title'])+'#report','Report a link or credit issue '+b.icon('arrow'),'book-report')+'</div></details>'
+ body+=b.link('/request-resource/?resource='+__import__('urllib.parse',fromlist=['quote']).quote(book['title'])+'#report','Report a link or credit issue '+b.icon('arrow'),'book-report')+'</div></details>'
  if len(book['files'])>1:body+='<details class="book-other-copies"><summary>Other available copies '+b.icon('chevron')+'</summary><ul>'+''.join('<li><span>'+e(f['name'])+'</span>'+b.link(f['url'],'Open in Drive '+b.icon('external'))+'</li>' for f in book['files'][1:])+'</ul></details>'
  if book['subjects']:body+=b.link(f'/bvsc/year-{book["subjects"][0]["year"]}/'+slug(book['subjects'][0]['name'])+'/#books','Back to subject books '+b.icon('arrow'),'book-subject-link')
  else:body+=b.link('/objective/' if book['collection'] in ['objective-notes','question-banks'] else '/clinical/'+str(book['collection'])+'/' if book['collection'] in ['drug-index','handbooks'] else '/books/','Back to collection '+b.icon('arrow'),'book-subject-link')

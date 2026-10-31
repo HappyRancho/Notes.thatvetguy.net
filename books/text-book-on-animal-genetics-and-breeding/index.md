@@ -1,11 +1,11 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Text Book on Animal Genetics and Breeding — BVSc Reading Guide
+- ›Text Book on Animal Genetics and Breeding
 
-Cover unavailable
-Book · Animal Genetics and Breeding
+Symbolic cover
+Book · Year 2
 
 # Text Book on Animal Genetics and Breeding
 
@@ -19,13 +19,7 @@ This is a reading recommendation. A linked copy is not currently available; you 
 
 A subject-focused companion for inheritance, population genetics and breeding principles.
 
-## A study note
-
-Use this alongside animal genetics and breeding lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: P. Kanakaraj
 
@@ -37,12 +31,12 @@ Book details, edition & credits
 
 - Access: Reading guide
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Symbolic artwork made for this listing; not the publisher’s cover.
 
-Last source check: 2026-10-18.
+Credit belongs to the original authors and publishers.
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Text%20Book%20on%20Animal%20Genetics%20and%20Breeding#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

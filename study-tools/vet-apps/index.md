@@ -146,4 +146,4 @@ ICAR-IVRI & ICAR-IASRI
 
 [Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.

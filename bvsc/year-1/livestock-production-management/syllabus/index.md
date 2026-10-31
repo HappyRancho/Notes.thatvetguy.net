@@ -346,4 +346,4 @@ Checked 2026-10-28.
 
 [Back to Livestock Production Management ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.

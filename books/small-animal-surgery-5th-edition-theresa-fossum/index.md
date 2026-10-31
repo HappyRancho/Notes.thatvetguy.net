@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Small Animal Surgery, 5th Edition - Theresa Fossum — Details & Drive Access
+- ›Small Animal Surgery, 5th Edition - Theresa Fossum
 
-Reference cover; the linked edition may differ.
-Book · Veterinary Surgery and Radiology
+Book · Year 4
 
 # Small Animal Surgery, 5th Edition - Theresa Fossum
 
@@ -15,17 +14,11 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Small Animal Surgery, 5th Edition - Theresa Fossum is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-## A study note
-
-Use this alongside veterinary surgery and radiology lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Study area: Veterinary Surgery and Radiology
 
@@ -35,16 +28,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Small Animal Surgery, 5th Edition - Theresa Fossum.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Small%20Animal%20Surgery%2C%205th%20Edition%20-%20Theresa%20Fossum#report)
+- Small Animal Surgery, 5th Edition - Theresa Fossum.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Small%20Animal%20Surgery%2C%205th%20Edition%20-%20Theresa%20Fossum#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

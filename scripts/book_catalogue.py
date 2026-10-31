@@ -60,13 +60,15 @@ def books():
     image=image.convert('RGB').rotate(c['coverRotations'][book['id']],expand=True);image.thumbnail((520,760));image.save(dest,'WEBP',quality=85,method=6)
     book['cover']={**original,'path':'/assets/books/'+dest.name,'width':image.width,'height':image.height,'manualOrientation':c['coverRotations'][book['id']]}
   if book['id'] in c.get('coverOverrides',{}):book['cover']=c['coverOverrides'][book['id']]
+  from book_covers import resolve
+  book['cover']=resolve(book)
   book['page']=route(book['id'])
   book['files'].sort(key=lambda f:(-int(m[1]) if (m:=re.search(r'\b(\d+)(?:st|nd|rd|th)?\s*[- ]?edition',f['name'],re.I)) else 0,natural(f['name'])))
   book['primaryUrl']=book['telegram'] or (book['files'][0]['url'] if book['files'] else None)
   book['access']='Telegram' if book['telegram'] else 'Google Drive' if book['files'] else 'Reading guide'
   book['downloadLabel']='Download via Telegram' if book['telegram'] else 'Open in Google Drive' if book['files'] else 'Request this book'
   if not book['description']:
-   subject=book['subjects'][0]['name'];book['description']=f'{book["title"]} is listed in the {subject} Books collection for Year {book["subjects"][0]["year"]} BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.'
+   subject=book['subjects'][0]['name'];book['description']=f'A {subject.lower()} reference for Year {book["subjects"][0]["year"]} BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.'
   book['clinical']=book['collection'] in ['handbooks','drug-index'] or any(s['year']==4 for s in book['subjects'])
  result=sorted(all.values(),key=lambda b:natural(b['title']))
  (ROOT/'data/books.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')

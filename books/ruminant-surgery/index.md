@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/ruminant-surgery/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/ruminant-surgery/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ruminant Surgery — Details & Drive Access
+- ›Ruminant Surgery
 
-Cover unavailable
-Book · Veterinary Surgery and Radiology
+Book · Year 4
 
 # Ruminant Surgery
 
@@ -21,13 +20,7 @@ A species-focused reference to pair with supervised surgical teaching.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-## A study note
-
-Use this alongside veterinary surgery and radiology lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: R. P. S. Tyagi and Jit Singh
 
@@ -39,16 +32,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Reference cover; the linked edition may differ.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Ruminant Surgery by R.P.S Tyagi and Jit Singh.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ruminant%20Surgery#report)
+- Ruminant Surgery by R.P.S Tyagi and Jit Singh.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ruminant%20Surgery#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

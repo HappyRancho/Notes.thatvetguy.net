@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vet-scorer",
+    "path": "/assets/books/online-review/vet-scorer.webp",
+    "width": 300,
+    "height": 388,
+    "kind": "reference-cover",
+    "source": "https://cdn.ibpbooks.com/images/sdf/vet-scorer-a-complete-solution-of-v.jpg",
+    "reference": "https://www.ibpbooks.com/vet-scorer-a-complete-solution-of-veterinary-science-3-mock-tests-3-old-psc-papers/p/56196"
+  },
+  {
+    "id": "applied-nutrition-d-v-reddy",
+    "path": "/assets/books/online-review/applied-nutrition-d-v-reddy.webp",
+    "width": 376,
+    "height": 524,
+    "kind": "reference-cover",
+    "source": "https://cbspd.s3.ap-south-1.amazonaws.com/assets/images/RWKiL8UMdiVE8oegLiyv1732859138.jpg",
+    "reference": "https://www.cbspd.com/product/applied-nutrition-livestock-poultry-rabbits-and-laboratory-animals-6th-cbs-reprint"
+  },
+  {
+    "id": "principles-of-animal-nutrition-and-feed-technology",
+    "path": "/assets/books/online-review/principles-of-animal-nutrition-and-feed-technology.webp",
+    "width": 388,
+    "height": 508,
+    "kind": "reference-cover",
+    "source": "https://cbspd.s3.ap-south-1.amazonaws.com/assets/images/wnmaLHjvGsw895YxwGVG1732859139.jpg",
+    "reference": "https://www.cbspd.com/product/principles-of-animal-nutrition-and-feed-technology-3-e-cbs-6th-reprint"
+  },
+  {
+    "id": "biochemistry",
+    "path": "/assets/books/online-review/biochemistry.webp",
+    "width": 520,
+    "height": 643,
+    "kind": "reference-cover",
+    "source": "https://www.atithibooks.com/s/598ecac63f8a479051bb2633/68622f27bec87bafa94eed40/9788198953803.jpg",
+    "reference": "https://www.cbspd.com/product/Biochemistry-with-Free-Mind-Maps-in-Biochemistry-with-Clinical-Correlation"
+  },
+  {
+    "id": "textbook-of-clinical-veterinary-medicine",
+    "path": "/assets/books/online-review/textbook-of-clinical-veterinary-medicine.webp",
+    "width": 520,
+    "height": 709,
+    "kind": "reference-cover",
+    "source": "https://f.nooncdn.com/p/v1648044114/N52981758A_1.jpg",
+    "reference": "https://www.noon.com/egypt-en/textbook-of-clinical-veterinary-medicine-paperback-english-by-chakrabarti-2009/N52981758A/p/"
+  },
+  {
+    "id": "ruminant-surgery",
+    "path": "/assets/books/online-review/ruminant-surgery.webp",
+    "width": 312,
+    "height": 445,
+    "kind": "reference-cover",
+    "source": "https://cbspd.s3.ap-south-1.amazonaws.com/assets/images/17456572759789387964167.jpg",
+    "reference": "https://www.cbspd.com/product/ruminant-surgery-2ed-pb-2020-9789387964167-jit-singh"
+  },
+  {
+    "id": "veterinary-surgery-and-radiology-by-s-k-nandi",
+    "path": "/assets/books/online-review/veterinary-surgery-and-radiology-by-s-k-nandi.webp",
+    "width": 520,
+    "height": 717,
+    "kind": "reference-cover",
+    "source": "http://www.jainbookmart.com/cdn/shop/files/81LtiDunQCL._SL1500.jpg?v=1712514467",
+    "reference": "https://www.jainbookmart.com/products/a-textbook-on-veterinary-surgery-and-radiology-2nd-edition-by-samit-kumar-nandi"
+  },
+  {
+    "id": "essentials-of-medical-pharmacology-k-d-tripathi",
+    "path": "/assets/books/online-review/essentials-of-medical-pharmacology-k-d-tripathi.webp",
+    "width": 386,
+    "height": 500,
+    "kind": "reference-cover",
+    "source": "https://covers.openlibrary.org/b/isbn/9789350259375-L.jpg?default=false",
+    "reference": "https://openlibrary.org/isbn/9789350259375"
+  }
+]

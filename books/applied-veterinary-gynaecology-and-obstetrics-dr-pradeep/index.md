@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep — Details & Drive Access
+- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep
 
-Preview from the linked source file.
-Book · Veterinary Gynaecology and Obstetrics
+Book · Year 4
 
 # Applied Veterinary Gynaecology and Obstetrics Dr Pradeep
 
@@ -15,17 +14,11 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Applied Veterinary Gynaecology and Obstetrics Dr Pradeep is listed in the Veterinary Gynaecology and Obstetrics Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+A reference on veterinary gynaecology and obstetrics, connecting reproductive study with applied clinical topics. Read alongside species-specific teaching and supervised practicals.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-## A study note
-
-Use this alongside veterinary gynaecology and obstetrics lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Study area: Veterinary Gynaecology and Obstetrics
 
@@ -35,16 +28,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Applied Veterinary Gynaecology and Obstetrics Dr Pradeep.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Applied%20Veterinary%20Gynaecology%20and%20Obstetrics%20Dr%20Pradeep#report)
+- Applied Veterinary Gynaecology and Obstetrics Dr Pradeep.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Applied%20Veterinary%20Gynaecology%20and%20Obstetrics%20Dr%20Pradeep#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

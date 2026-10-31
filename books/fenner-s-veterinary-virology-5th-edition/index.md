@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Fenner’s Veterinary Virology 5th edition — Details & Drive Access
+- ›Fenner’s Veterinary Virology 5th edition
 
-Reference cover; the linked edition may differ.
-Book · Veterinary Microbiology
+Book · Year 2
 
 # Fenner’s Veterinary Virology 5th edition
 
@@ -15,15 +14,9 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Fenner’s Veterinary Virology 5th edition is listed in the Veterinary Microbiology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+A veterinary microbiology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-## A study note
-
-Use this alongside veterinary microbiology lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Study area: Veterinary Microbiology
 
@@ -33,16 +26,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Reference cover; the linked edition may differ.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Fenner’s Veterinary Virology 5th edition.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Fenner%E2%80%99s%20Veterinary%20Virology%205th%20edition#report)
+- Fenner’s Veterinary Virology 5th edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Fenner%E2%80%99s%20Veterinary%20Virology%205th%20edition#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

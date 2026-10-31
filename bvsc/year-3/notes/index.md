@@ -17,4 +17,4 @@ Choose a 3rd Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Clinical Practices I1 resource](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - [Livestock Farm Practices1 resource](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.

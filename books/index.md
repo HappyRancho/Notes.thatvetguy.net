@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Books
@@ -75,7 +75,7 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 16 resources
 
-[Essentials of Medical Pharmacology - K.D.TripathiGoogle Drive](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
+[Essentials of Medical Pharmacology - K.D.TripathiK. D. Tripathi · Google Drive](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
 
 [Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu · Google Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
 
@@ -91,7 +91,7 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 [Meat Processing TechnologyGoogle Drive](https://notes.thatvetguy.net/books/meat-processing-technology/)
 
-[Ockerman Animal Byproduct ProcessingGoogle Drive](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
+[Ockerman Animal Byproduct ProcessingH. W. Ockerman and C. L. Hansen · Google Drive](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
 
 [Outlines of Dairy TechnologySukumar De · Reading guide](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
 
@@ -127,13 +127,13 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 [Essentials of Veterinary Surgery, 8th EditionGoogle Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
 
-[Exotic Animal Medicine for the Veterinary Technician by Bonnie BallardGoogle Drive](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
+[Exotic Animal Medicine for the Veterinary Technician by Bonnie BallardBonnie Ballard and Ryan Cheek · Google Drive](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
 
 [Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors) · Reading guide](https://notes.thatvetguy.net/books/farm-animal-surgery/)
 
 [Fluid therapy guidelines for dogs and catsGoogle Drive](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
 
-[Laboratory Animal and Exotic Pet Medicine Principles and ProceduresGoogle Drive](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
+[Laboratory Animal and Exotic Pet Medicine Principles and ProceduresMargi Sirois · Google Drive](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
 
 [Lumb & Jones Veterinary Anesthesia and AnalgesiaKurt Grimm, John Thurmon · Google Drive](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
 
@@ -157,7 +157,7 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 [Small Animal ECGs, An Introductory Guide, 3rd EditionGoogle Drive](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
 
-[Small Animal Internal Medicine 5th EditionGoogle Drive](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
+[Small Animal Internal Medicine 5th EditionRichard W. Nelson and C. Guillermo Couto · Google Drive](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
 
 Show 7 more 7 remaining
 
@@ -173,7 +173,7 @@ Show 7 more 7 remaining
 
 [Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England · Google Drive](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)
 
-[Veterinary surgery and radiology by s.k.nandiGoogle Drive](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)
+[Veterinary surgery and radiology by s.k.nandiSamit Kumar Nandi, Samar Halder and Mozammel Hoque · Google Drive](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)
 
 ## Objective & Competition
 
@@ -197,7 +197,7 @@ Show 7 more 7 remaining
 
 [TANUVAS All-Subjects Question BankTelegram](https://notes.thatvetguy.net/books/tanuvas-qbank/)
 
-[Vet Scorer 2022 — 1st EditionTelegram](https://notes.thatvetguy.net/books/vet-scorer/)
+[Vet Scorer 2022 — 1st EditionShailesh Kumar Patel, Jigyasa Rana and B. Balamurugan · Telegram](https://notes.thatvetguy.net/books/vet-scorer/)
 
 ## Clinical References
 
@@ -225,4 +225,4 @@ Show 7 more 7 remaining
 
 [Veterinary Practice HandbookRK Chandolia · Telegram](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
