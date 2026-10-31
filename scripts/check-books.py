@@ -38,8 +38,12 @@ for b in books:
   with Image.open(path) as image:assert image.size==(c['width'],c['height'])
   assert f'width="{c["width"]}" height="{c["height"]}"' in raw
   if c['kind']=='reference-cover':assert 'linked edition may differ' in raw
+  assert c['kind'] in ['file-cover','reference-cover','symbolic-cover'],(b['id'],'unreviewed preview')
+  if c['kind']=='symbolic-cover':
+   assert c['title']==b['title'] and c['author']==(b.get('author') or 'Author not listed')
+   assert 'Symbolic cover' in raw
   coverage[c['kind']]+=1
- else:assert 'Cover unavailable' in raw;unavailable.append(b['id'])
+ else:raise AssertionError('Missing cover: '+b['id'])
  with Image.open(ROOT/'assets/social/books'/str(b['id']+'.webp')) as image:assert image.size==(1200,630)
  assert 'Arthur Symons' not in raw
 by_year=Counter(f['year'] for b in books for f in b['files'])

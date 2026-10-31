@@ -27,6 +27,8 @@ jobs:
         if: "!contains(github.event.head_commit.message, '[search-keywords]')"
       - run: npm install && npx playwright install --with-deps chromium
         if: "!contains(github.event.head_commit.message, '[search-keywords]') && !contains(github.event.head_commit.message, '[metadata-only]')"
+      - run: python3 scripts/finalize-book-covers.py
+        if: contains(github.event.head_commit.message, '[book-pages]')
       - run: npm run build && npm run check
       - name: Render approved homepage
         run: |
