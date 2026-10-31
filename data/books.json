@@ -94,12 +94,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/a-textbook-of-veterinary-general-pathology.webp",
-      "width": 520,
-      "height": 657,
-      "source": "https://drive.google.com/thumbnail?id=1tXZyya7hVjh38o1T71Hqkj2RwfygKus-&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-a-textbook-of-veterinary-general-pathology.webp",
+      "width": 377,
+      "height": 476,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1tXZyya7hVjh38o1T71Hqkj2RwfygKus-/view",
+      "fileId": "1tXZyya7hVjh38o1T71Hqkj2RwfygKus-",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/a-textbook-of-veterinary-general-pathology-p1.webp"
     },
     "page": "/books/a-textbook-of-veterinary-general-pathology/",
     "primaryUrl": "https://drive.google.com/file/d/1tXZyya7hVjh38o1T71Hqkj2RwfygKus-/view",
@@ -111,7 +115,7 @@
     "id": "adam-s-lameness-in-horses-7th-edition",
     "title": "Adam's Lameness in Horses 7th Edition",
     "author": null,
-    "description": "Adam's Lameness in Horses 7th Edition is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "An equine reference for studying lameness and the locomotor system. Use alongside orthopaedics teaching to connect anatomy with examination and clinical reasoning.",
     "subjects": [
       {
         "year": 4,
@@ -146,13 +150,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/verified-adam-s-lameness-in-horses-7th-edition.webp",
-      "width": 393,
-      "height": 500,
-      "source": "https://m.media-amazon.com/images/I/81GZIs-QnML._US500_.jpg",
-      "reference": "https://snapklik.com/en-ca/product/adams-and-stashaks-lameness-in-horses/0762478713697",
-      "kind": "reference-cover",
-      "sha256": "69498df42b50181cb2194d0c72ccf85f12d632b4bd21065c9bfd3e6951a43ef5"
+      "path": "/assets/books/source-adam-s-lameness-in-horses-7th-edition.webp",
+      "width": 600,
+      "height": 766,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/11GD5DNn2cRLIGrQuyAmYuOV5LDwZSP13/view",
+      "fileId": "11GD5DNn2cRLIGrQuyAmYuOV5LDwZSP13",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/adam-s-lameness-in-horses-7th-edition-p1.webp"
     },
     "page": "/books/adam-s-lameness-in-horses-7th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/11GD5DNn2cRLIGrQuyAmYuOV5LDwZSP13/view",
@@ -177,7 +184,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-veterinary-capsule.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "All in One Veterinary Capsule",
+      "author": "Author not listed",
+      "fingerprint": "82f4cbe84f8a36c262a5c3c25b350c5f8c309b2091ab5a040fafa683a52a66be"
+    },
     "page": "/books/veterinary-capsule/",
     "primaryUrl": "https://t.me/veterinary_objectives/3?single",
     "access": "Telegram",
@@ -188,7 +204,7 @@
     "id": "ananthanarayan-microbiology",
     "title": "Ananthanarayan and Paniker’s Textbook of Microbiology",
     "author": "C. K. J. Paniker (editor)",
-    "description": "Ananthanarayan and Paniker’s Textbook of Microbiology is listed in the Veterinary Microbiology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A general medical microbiology text for foundational concepts in microbes, infection and laboratory methods. Pair it with veterinary microbiology notes for animal-specific organisms and diseases.",
     "subjects": [
       {
         "year": 2,
@@ -223,12 +239,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/ananthanarayan-microbiology.webp",
-      "width": 520,
-      "height": 729,
-      "source": "https://drive.google.com/thumbnail?id=1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ&sz=w700",
+      "path": "/assets/books/source-ananthanarayan-microbiology.webp",
+      "width": 600,
+      "height": 842,
       "kind": "file-cover",
-      "oriented": true
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ/view",
+      "fileId": "1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/ananthanarayan-microbiology-p1.webp"
     },
     "page": "/books/ananthanarayan-microbiology/",
     "primaryUrl": "https://drive.google.com/file/d/1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ/view",
@@ -240,7 +260,7 @@
     "id": "animal-breeding",
     "title": "Animal breeding",
     "author": null,
-    "description": "Animal breeding is listed in the Animal Genetics and Breeding Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "An animal-breeding reading resource from the second-year collection. Use your syllabus to select relevant breeding and selection topics; the shared file does not establish a verified author or edition.",
     "subjects": [
       {
         "year": 2,
@@ -275,13 +295,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/animal-breeding-upright.webp",
-      "width": 520,
-      "height": 368,
-      "source": "https://drive.google.com/thumbnail?id=11ZOm73joJiohbgPyZ1HBj9jJK94BuJxF&sz=w700",
-      "kind": "file-preview",
-      "oriented": true,
-      "manualOrientation": 90
+      "path": "/assets/books/symbolic-animal-breeding.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Animal breeding",
+      "author": "Author not listed",
+      "fingerprint": "5a61742ede5cc8695390a04cc59685763d1739a95a5d8a8c8a0d97fa26526b54"
     },
     "page": "/books/animal-breeding/",
     "primaryUrl": "https://drive.google.com/file/d/11ZOm73joJiohbgPyZ1HBj9jJK94BuJxF/view",
@@ -330,12 +351,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/animal-nutrition-7th-edition.webp",
-      "width": 520,
-      "height": 677,
-      "source": "https://drive.google.com/thumbnail?id=1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r&sz=w700",
+      "path": "/assets/books/source-animal-nutrition.webp",
+      "width": 590,
+      "height": 768,
       "kind": "file-cover",
-      "oriented": true
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view",
+      "fileId": "1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/animal-nutrition-p1.webp"
     },
     "page": "/books/animal-nutrition/",
     "primaryUrl": "https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view",
@@ -382,7 +407,7 @@
     "id": "applied-nutrition-d-v-reddy",
     "title": "Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals",
     "author": "D. V. Reddy",
-    "description": "Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals is a nutrition text by D. V. Reddy. The source title page identifies this copy as the third edition. It is filed in the Animal Nutrition Books collection for second-year BVSc & AH reading. Use your course outline to select the relevant species and nutrition themes, and keep this applied text distinct from Principles of Animal Nutrition and Feed Technology.",
+    "description": "An applied nutrition text covering livestock, poultry, rabbits and laboratory animals. Useful for connecting nutrient requirements with feeding decisions. The linked copy identifies itself as the third edition.",
     "subjects": [
       {
         "year": 2,
@@ -417,12 +442,15 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/d-v-reddy-part-2.webp",
-      "width": 520,
-      "height": 673,
-      "source": "https://drive.google.com/thumbnail?id=1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-applied-nutrition-d-v-reddy.webp",
+      "width": 376,
+      "height": 524,
+      "kind": "reference-cover",
+      "source": "https://cbspd.s3.ap-south-1.amazonaws.com/assets/images/RWKiL8UMdiVE8oegLiyv1732859138.jpg",
+      "reference": "https://www.cbspd.com/product/applied-nutrition-livestock-poultry-rabbits-and-laboratory-animals-6th-cbs-reprint",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/applied-nutrition-d-v-reddy.webp"
     },
     "page": "/books/applied-nutrition-d-v-reddy/",
     "primaryUrl": "https://drive.google.com/file/d/1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe/view",
@@ -434,7 +462,7 @@
     "id": "applied-veterinary-gynaecology-and-obstetrics-dr-pradeep",
     "title": "Applied Veterinary Gynaecology and Obstetrics Dr Pradeep",
     "author": null,
-    "description": "Applied Veterinary Gynaecology and Obstetrics Dr Pradeep is listed in the Veterinary Gynaecology and Obstetrics Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A reference on veterinary gynaecology and obstetrics, connecting reproductive study with applied clinical topics. Read alongside species-specific teaching and supervised practicals.",
     "subjects": [
       {
         "year": 4,
@@ -469,12 +497,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep.webp",
-      "width": 520,
-      "height": 657,
-      "source": "https://drive.google.com/thumbnail?id=1hgcs2A58OOunIz_pqwzyFYa632OE2JhW&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-applied-veterinary-gynaecology-and-obstetrics-dr-pradeep.webp",
+      "width": 377,
+      "height": 476,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1hgcs2A58OOunIz_pqwzyFYa632OE2JhW/view",
+      "fileId": "1hgcs2A58OOunIz_pqwzyFYa632OE2JhW",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep-p1.webp"
     },
     "page": "/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/",
     "primaryUrl": "https://drive.google.com/file/d/1hgcs2A58OOunIz_pqwzyFYa632OE2JhW/view",
@@ -505,7 +537,17 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-biochemistry.webp",
+      "width": 520,
+      "height": 643,
+      "kind": "reference-cover",
+      "source": "https://www.atithibooks.com/s/598ecac63f8a479051bb2633/68622f27bec87bafa94eed40/9788198953803.jpg",
+      "reference": "https://www.cbspd.com/product/Biochemistry-with-Free-Mind-Maps-in-Biochemistry-with-Clinical-Correlation",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/biochemistry.webp"
+    },
     "page": "/books/biochemistry/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -516,7 +558,7 @@
     "id": "brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics",
     "title": "Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics",
     "author": null,
-    "description": "Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -551,12 +593,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics.webp",
-      "width": 520,
-      "height": 520,
-      "source": "https://drive.google.com/thumbnail?id=1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics.webp",
+      "width": 550,
+      "height": 550,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj/view",
+      "fileId": "1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics-p1.webp"
     },
     "page": "/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/",
     "primaryUrl": "https://drive.google.com/file/d/1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj/view",
@@ -568,7 +614,7 @@
     "id": "canine-and-feline-endocrinology-and-reproduction",
     "title": "Canine and Feline Endocrinology and Reproduction",
     "author": "Edward C. Feldman, Richard W. Nelson",
-    "description": "Canine and Feline Endocrinology and Reproduction is listed in the Veterinary Gynaecology and Obstetrics Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -629,11 +675,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/canine-and-feline-endocrinology-and-reproduction.webp",
-      "width": 375,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/8626384-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-canine-and-feline-endocrinology-and-reproduction.webp",
+      "width": 600,
+      "height": 776,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/10ypASD9i1y7ItEwfKgHHX4SasikuVjqz/view",
+      "fileId": "10ypASD9i1y7ItEwfKgHHX4SasikuVjqz",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/canine-and-feline-endocrinology-and-reproduction-p1.webp"
     },
     "page": "/books/canine-and-feline-endocrinology-and-reproduction/",
     "primaryUrl": "https://drive.google.com/file/d/10ypASD9i1y7ItEwfKgHHX4SasikuVjqz/view",
@@ -645,7 +696,7 @@
     "id": "clinical-examination-of-farm-animals",
     "title": "Clinical Examination of Farm Animals",
     "author": "Peter G. G. Jackson, Peter D. Cockcroft",
-    "description": "Clinical Examination of Farm Animals is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -718,7 +769,7 @@
     "id": "clinical-handbook-on-canine-dermatology-3rd-edition",
     "title": "Clinical Handbook on Canine Dermatology 3rd Edition",
     "author": null,
-    "description": "Clinical Handbook on Canine Dermatology 3rd Edition is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -753,12 +804,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/clinical-handbook-on-canine-dermatology-3rd-edition.webp",
-      "width": 520,
-      "height": 735,
-      "source": "https://drive.google.com/thumbnail?id=1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-clinical-handbook-on-canine-dermatology-3rd-edition.webp",
+      "width": 600,
+      "height": 849,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot/view",
+      "fileId": "1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/clinical-handbook-on-canine-dermatology-3rd-edition-p1.webp"
     },
     "page": "/books/clinical-handbook-on-canine-dermatology-3rd-edition/",
     "primaryUrl": "https://drive.google.com/file/d/1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot/view",
@@ -770,7 +825,7 @@
     "id": "color-atlas-of-veterinary-histology",
     "title": "Color Atlas of Veterinary Histology",
     "author": "Linda M. Bacha",
-    "description": "Color Atlas of Veterinary Histology is listed in the Veterinary Anatomy Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary anatomy reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 1,
@@ -831,11 +886,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/color-atlas-of-veterinary-histology.webp",
-      "width": 396,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/8981049-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-color-atlas-of-veterinary-histology.webp",
+      "width": 600,
+      "height": 832,
+      "kind": "file-cover",
+      "page": 2,
+      "source": "https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view",
+      "fileId": "11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/color-atlas-of-veterinary-histology-p2.webp"
     },
     "page": "/books/color-atlas-of-veterinary-histology/",
     "primaryUrl": "https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view",
@@ -847,7 +907,7 @@
     "id": "color-handbook-of-skin-diseases-of-dog-and-cat",
     "title": "Color handbook of Skin Diseases of Dog and Cat",
     "author": "P. J. McKeever",
-    "description": "Color handbook of Skin Diseases of Dog and Cat is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -904,11 +964,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/color-handbook-of-skin-diseases-of-dog-and-cat.webp",
-      "width": 294,
-      "height": 475,
-      "source": "https://covers.openlibrary.org/b/id/2648473-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-color-handbook-of-skin-diseases-of-dog-and-cat.webp",
+      "width": 278,
+      "height": 436,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5/view",
+      "fileId": "12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/color-handbook-of-skin-diseases-of-dog-and-cat-p1.webp"
     },
     "page": "/books/color-handbook-of-skin-diseases-of-dog-and-cat/",
     "primaryUrl": "https://drive.google.com/file/d/12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5/view",
@@ -920,7 +985,7 @@
     "id": "colour-atlas-of-veterinary-anatomy-the-ruminants",
     "title": "Colour Atlas of Veterinary Anatomy - The Ruminants",
     "author": null,
-    "description": "Colour Atlas of Veterinary Anatomy - The Ruminants is listed in the Veterinary Anatomy Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A visual anatomy reference focused on ruminants. Useful beside dissection notes for recognising structures and understanding their spatial relationships.",
     "subjects": [
       {
         "year": 1,
@@ -954,7 +1019,18 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-colour-atlas-of-veterinary-anatomy-the-ruminants.webp",
+      "width": 600,
+      "height": 732,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/11XoUGYh3QQCeovB4gBQ12qGCF-7xgieE/view",
+      "fileId": "11XoUGYh3QQCeovB4gBQ12qGCF-7xgieE",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/colour-atlas-of-veterinary-anatomy-the-ruminants-p1.webp"
+    },
     "page": "/books/colour-atlas-of-veterinary-anatomy-the-ruminants/",
     "primaryUrl": "https://drive.google.com/file/d/11XoUGYh3QQCeovB4gBQ12qGCF-7xgieE/view",
     "access": "Google Drive",
@@ -978,7 +1054,21 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-small-animal-colour-handbook.webp",
+      "width": 312,
+      "height": 500,
+      "kind": "reference-cover",
+      "source": "https://covers.openlibrary.org/b/id/13832877-L.jpg?default=false",
+      "matchedTitle": "A Colour Handbook of Small Animal Emergency and Critical Care Medicine",
+      "matchedAuthors": [
+        "Elizabeth A. Rozanski"
+      ],
+      "reference": "https://openlibrary.org/works/OL12366795W",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/small-animal-colour-handbook-reference-cover.webp"
+    },
     "page": "/books/small-animal-colour-handbook/",
     "primaryUrl": "https://t.me/Vethandbooks/9",
     "access": "Telegram",
@@ -1002,7 +1092,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-dhruv-desai.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Compiled Question Bank by Dhruv N Desai",
+      "author": "Dhruv N Desai",
+      "fingerprint": "5b114f8f02222ed9b5df27aebd6764bd9dbb9b64cf4b58eb02dad32cf167eba7"
+    },
     "page": "/books/dhruv-desai/",
     "primaryUrl": "https://t.me/veterinary_objectives/2?single",
     "access": "Telegram",
@@ -1050,13 +1149,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/verified-cunningham-s-textbook-of-veterinary-physiology.webp",
-      "width": 437,
-      "height": 573,
-      "source": "https://i5.walmartimages.com/seo/Cunningham-s-Textbook-of-Veterinary-Physiology-Hardcover-9780323552271_1cfab384-b35c-44db-8564-22ffb619eb16.6c907a6f488407292fb7dc8174284faf.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
-      "reference": "https://www.walmart.com/ip/323963405",
-      "kind": "reference-cover",
-      "sha256": "c220675aa0c3f49f50add48addc6a2ddaac507f966c5449f00ebea6c7e6f97f0"
+      "path": "/assets/books/source-cunningham-s-textbook-of-veterinary-physiology.webp",
+      "width": 600,
+      "height": 661,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1WbSAFwwzlha7zaHluQ7FzSSLeTX7zb4Q/view",
+      "fileId": "1WbSAFwwzlha7zaHluQ7FzSSLeTX7zb4Q",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/cunningham-s-textbook-of-veterinary-physiology-p1.webp"
     },
     "page": "/books/cunningham-s-textbook-of-veterinary-physiology/",
     "primaryUrl": "https://drive.google.com/file/d/1WbSAFwwzlha7zaHluQ7FzSSLeTX7zb4Q/view",
@@ -1081,7 +1183,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-wall-drug-dose.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Drug Dose — Wall Reference",
+      "author": "Author not listed",
+      "fingerprint": "59ae67ee6aaa6398e70b3ebcf3c5c621dcae2d28bb8000e39a5c7e07fd943216"
+    },
     "page": "/books/wall-drug-dose/",
     "primaryUrl": "https://t.me/c/4430259212/7",
     "access": "Telegram",
@@ -1129,13 +1240,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/dukes-physiology-of-domestic-animals-upright.webp",
-      "width": 520,
-      "height": 681,
-      "source": "https://drive.google.com/thumbnail?id=1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF&sz=w700",
-      "kind": "file-preview",
-      "oriented": true,
-      "manualOrientation": 180
+      "path": "/assets/books/source-dukes-physiology-of-domestic-animals.webp",
+      "width": 600,
+      "height": 785,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF/view",
+      "fileId": "1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/dukes-physiology-of-domestic-animals-p1.webp"
     },
     "page": "/books/dukes-physiology-of-domestic-animals/",
     "primaryUrl": "https://drive.google.com/file/d/1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF/view",
@@ -1160,7 +1274,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-e-nanu-qbank.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "E. Nanu Veterinary Question Bank",
+      "author": "E. Nanu",
+      "fingerprint": "e83c589806546833e733f2d7b1f9b520e5a643d7c8952b615b68bc4c17fca040"
+    },
     "page": "/books/e-nanu-qbank/",
     "primaryUrl": "https://t.me/veterinary_question_bank/4",
     "access": "Telegram",
@@ -1170,8 +1293,8 @@
   {
     "id": "essentials-of-medical-pharmacology-k-d-tripathi",
     "title": "Essentials of Medical Pharmacology - K.D.Tripathi",
-    "author": null,
-    "description": "Essentials of Medical Pharmacology - K.D.Tripathi is listed in the Veterinary Pharmacology and Toxicology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "author": "K. D. Tripathi",
+    "description": "A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -1205,7 +1328,17 @@
     "humanReference": true,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-essentials-of-medical-pharmacology-k-d-tripathi.webp",
+      "width": 386,
+      "height": 500,
+      "kind": "reference-cover",
+      "source": "https://covers.openlibrary.org/b/isbn/9789350259375-L.jpg?default=false",
+      "reference": "https://openlibrary.org/isbn/9789350259375",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/essentials-of-medical-pharmacology-k-d-tripathi.webp"
+    },
     "page": "/books/essentials-of-medical-pharmacology-k-d-tripathi/",
     "primaryUrl": "https://drive.google.com/file/d/1xKXP28A5jvKCIoYGTBXm_lrp_a0dwXxt/view",
     "access": "Google Drive",
@@ -1291,7 +1424,18 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-essentials-of-veterinary-pharmacology-and-therapeutics.webp",
+      "width": 600,
+      "height": 848,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1DQ05pX9kM6lQ9tdOfQWy2GTEuaJyvwRW/view",
+      "fileId": "1DQ05pX9kM6lQ9tdOfQWy2GTEuaJyvwRW",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/essentials-of-veterinary-pharmacology-and-therapeutics-p1.webp"
+    },
     "page": "/books/essentials-of-veterinary-pharmacology-and-therapeutics/",
     "primaryUrl": "https://drive.google.com/file/d/1DQ05pX9kM6lQ9tdOfQWy2GTEuaJyvwRW/view",
     "access": "Google Drive",
@@ -1302,7 +1446,7 @@
     "id": "essentials-of-veterinary-surgery-8th-edition",
     "title": "Essentials of Veterinary Surgery, 8th Edition",
     "author": null,
-    "description": "Essentials of Veterinary Surgery, 8th Edition is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -1337,12 +1481,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/essentials-of-veterinary-surgery-8th-edition.webp",
-      "width": 520,
-      "height": 673,
-      "source": "https://drive.google.com/thumbnail?id=1Vcpz-sOF9immjL0tGtTkNW1WPmSGsICX&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-essentials-of-veterinary-surgery-8th-edition.webp",
+      "width": 600,
+      "height": 776,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1Vcpz-sOF9immjL0tGtTkNW1WPmSGsICX/view",
+      "fileId": "1Vcpz-sOF9immjL0tGtTkNW1WPmSGsICX",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/essentials-of-veterinary-surgery-8th-edition-p1.webp"
     },
     "page": "/books/essentials-of-veterinary-surgery-8th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/1Vcpz-sOF9immjL0tGtTkNW1WPmSGsICX/view",
@@ -1353,8 +1501,8 @@
   {
     "id": "exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard",
     "title": "Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard",
-    "author": null,
-    "description": "Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "author": "Bonnie Ballard and Ryan Cheek",
+    "description": "An introduction to exotic-animal medicine for veterinary technicians. A useful companion for learning species-specific handling, husbandry and clinical-care concepts.",
     "subjects": [
       {
         "year": 4,
@@ -1388,7 +1536,18 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard.webp",
+      "width": 600,
+      "height": 756,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1Adf9q6xJDzmywXXxchro2_keAF6SC7BG/view",
+      "fileId": "1Adf9q6xJDzmywXXxchro2_keAF6SC7BG",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard-p1.webp"
+    },
     "page": "/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/",
     "primaryUrl": "https://drive.google.com/file/d/1Adf9q6xJDzmywXXxchro2_keAF6SC7BG/view",
     "access": "Google Drive",
@@ -1435,7 +1594,7 @@
     "id": "fenner-s-veterinary-virology-5th-edition",
     "title": "Fenner’s Veterinary Virology 5th edition",
     "author": null,
-    "description": "Fenner’s Veterinary Virology 5th edition is listed in the Veterinary Microbiology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary microbiology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 2,
@@ -1488,7 +1647,7 @@
     "id": "fluid-therapy-guidelines-for-dogs-and-cats",
     "title": "Fluid therapy guidelines for dogs and cats",
     "author": null,
-    "description": "Fluid therapy guidelines for dogs and cats is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -1523,12 +1682,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/fluid-therapy-guidelines-for-dogs-and-cats.webp",
-      "width": 520,
-      "height": 675,
-      "source": "https://drive.google.com/thumbnail?id=1tVLqmfGBpSLb2nm_8gShyS-vaPRWNAPy&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-fluid-therapy-guidelines-for-dogs-and-cats.webp",
+      "width": 600,
+      "height": 779,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1tVLqmfGBpSLb2nm_8gShyS-vaPRWNAPy/view",
+      "fileId": "1tVLqmfGBpSLb2nm_8gShyS-vaPRWNAPy",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/fluid-therapy-guidelines-for-dogs-and-cats-p1.webp"
     },
     "page": "/books/fluid-therapy-guidelines-for-dogs-and-cats/",
     "primaryUrl": "https://drive.google.com/file/d/1tVLqmfGBpSLb2nm_8gShyS-vaPRWNAPy/view",
@@ -1540,7 +1703,7 @@
     "id": "goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics",
     "title": "Goodman and Gilman’s The Pharmacological Basis of Therapeutics",
     "author": null,
-    "description": "Goodman and Gilman’s The Pharmacological Basis of Therapeutics is listed in the Veterinary Pharmacology and Toxicology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -1575,14 +1738,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/research-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp",
-      "width": 400,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/isbn/0071468048-L.jpg?default=false",
-      "kind": "reference-cover",
-      "reference": "https://openlibrary.org/works/OL7301404M",
-      "ocr": "ES)\n\neleventh edition\n\nGoodman & Gilman’s\n\nThe Pharmacological Basis of\n\nTHERAPEUTICS\n\ndigital edition\n\n“OMe\n\nTE Print\n\nthe eaten ite\n\nas oxsbity\n\nset\n\nLaurence Brunton\n\nJohn Lazo\n\nKeith Parker\n\nlain Buxton\n\nDonald Blumenthal\n\n\"2",
-      "sha256": "20f519b7ff6cd474633650e238d37bb0d995e268fbaf9a77c1cbc961b746f129"
+      "path": "/assets/books/source-goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics.webp",
+      "width": 600,
+      "height": 767,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/15a_t3ChRGC96B9lQ4Jf1HxiK17IntZdt/view",
+      "fileId": "15a_t3ChRGC96B9lQ4Jf1HxiK17IntZdt",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics-p1.webp"
     },
     "page": "/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/",
     "primaryUrl": "https://drive.google.com/file/d/15a_t3ChRGC96B9lQ4Jf1HxiK17IntZdt/view",
@@ -1594,7 +1759,7 @@
     "id": "gracey-s-meat-hygiene-11edition",
     "title": "Gracey's Meat Hygiene 11Edition",
     "author": null,
-    "description": "Gracey's Meat Hygiene 11Edition is listed in the Livestock Products Technology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A livestock products technology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -1629,12 +1794,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/gracey-s-meat-hygiene-11edition.webp",
-      "width": 520,
-      "height": 592,
-      "source": "https://drive.google.com/thumbnail?id=1zSjwKCifb-4r9AjRKky6UKAZYAyGFA63&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-gracey-s-meat-hygiene-11edition.webp",
+      "width": 321,
+      "height": 365,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1zSjwKCifb-4r9AjRKky6UKAZYAyGFA63/view",
+      "fileId": "1zSjwKCifb-4r9AjRKky6UKAZYAyGFA63",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/gracey-s-meat-hygiene-11edition-p1.webp"
     },
     "page": "/books/gracey-s-meat-hygiene-11edition/",
     "primaryUrl": "https://drive.google.com/file/d/1zSjwKCifb-4r9AjRKky6UKAZYAyGFA63/view",
@@ -1646,7 +1815,7 @@
     "id": "guyton-and-hall-textbook-of-medical-physiology",
     "title": "Guyton and Hall Textbook of Medical Physiology",
     "author": "John E. Hall, Arthur C. Guyton",
-    "description": "Guyton and Hall Textbook of Medical Physiology is listed in the Veterinary Physiology Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary physiology reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 1,
@@ -1707,11 +1876,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/guyton-and-hall-textbook-of-medical-physiology.webp",
-      "width": 312,
-      "height": 400,
-      "source": "https://covers.openlibrary.org/b/id/7903978-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-guyton-and-hall-textbook-of-medical-physiology.webp",
+      "width": 600,
+      "height": 768,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1St-9npUosg-MKVRwZEQeoGKWspdILLAj/view",
+      "fileId": "1St-9npUosg-MKVRwZEQeoGKWspdILLAj",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/guyton-and-hall-textbook-of-medical-physiology-p1.webp"
     },
     "page": "/books/guyton-and-hall-textbook-of-medical-physiology/",
     "primaryUrl": "https://drive.google.com/file/d/1St-9npUosg-MKVRwZEQeoGKWspdILLAj/view",
@@ -1723,7 +1897,7 @@
     "id": "veterinary-clinician-handbook",
     "title": "Handbook for Veterinary Clinician",
     "author": "A U Bhikane",
-    "description": "Veterinary Clinician Handbook by A U Bhikane.",
+    "description": "A clinical handbook by A. U. Bhikane for quick veterinary reference. Use it to revisit clinical topics alongside current guidance and supervised training.",
     "subjects": [],
     "files": [],
     "telegram": "https://t.me/Vethandbooks/4",
@@ -1736,7 +1910,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-veterinary-clinician-handbook.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Handbook for Veterinary Clinician",
+      "author": "A U Bhikane",
+      "fingerprint": "a3124a7f5f96cf8d88f9f98436b1c782293c0ebe02ed3499afcfc19a3405117d"
+    },
     "page": "/books/veterinary-clinician-handbook/",
     "primaryUrl": "https://t.me/Vethandbooks/4",
     "access": "Telegram",
@@ -1776,7 +1959,21 @@
       "errors": [],
       "reviewed": "2026-10-28"
     },
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-small-animal-radiology-handbook.webp",
+      "width": 382,
+      "height": 500,
+      "kind": "reference-cover",
+      "source": "https://covers.openlibrary.org/b/id/8524604-L.jpg?default=false",
+      "matchedTitle": "Handbook of small animal radiology and ultrasound",
+      "matchedAuthors": [
+        "Ruth Dennis"
+      ],
+      "reference": "https://openlibrary.org/works/OL19556315W",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/small-animal-radiology-handbook-reference-cover.webp"
+    },
     "page": "/books/small-animal-radiology-handbook/",
     "primaryUrl": "https://t.me/Vethandbooks/8",
     "access": "Telegram",
@@ -1787,7 +1984,7 @@
     "id": "handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008",
     "title": "Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)",
     "author": null,
-    "description": "Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008) is listed in the Veterinary Pharmacology and Toxicology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -1822,12 +2019,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008.webp",
-      "width": 520,
-      "height": 742,
-      "source": "https://drive.google.com/thumbnail?id=10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008.webp",
+      "width": 555,
+      "height": 792,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE/view",
+      "fileId": "10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008-p1.webp"
     },
     "page": "/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/",
     "primaryUrl": "https://drive.google.com/file/d/10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE/view",
@@ -1852,7 +2053,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-kvafsu-qbank.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "KVAFSU Question Bank",
+      "author": "Author not listed",
+      "fingerprint": "bd1bbd7827c8bb440014e58119c78a253a65c58fa44e4bb0e8a29993b6b57713"
+    },
     "page": "/books/kvafsu-qbank/",
     "primaryUrl": "https://t.me/veterinary_question_bank/5",
     "access": "Telegram",
@@ -1862,8 +2072,8 @@
   {
     "id": "laboratory-animal-and-exotic-pet-medicine-principles-and-procedures",
     "title": "Laboratory Animal and Exotic Pet Medicine Principles and Procedures",
-    "author": null,
-    "description": "Laboratory Animal and Exotic Pet Medicine Principles and Procedures is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "author": "Margi Sirois",
+    "description": "A reference on the principles and procedures used with laboratory animals and exotic pets. Useful for linking species knowledge with practical care and laboratory teaching.",
     "subjects": [
       {
         "year": 4,
@@ -1897,7 +2107,18 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-laboratory-animal-and-exotic-pet-medicine-principles-and-procedures.webp",
+      "width": 600,
+      "height": 767,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1-3x5XkdixkM1RU05PYpe87NqaPJ5w2JJ/view",
+      "fileId": "1-3x5XkdixkM1RU05PYpe87NqaPJ5w2JJ",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures-p1.webp"
+    },
     "page": "/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/",
     "primaryUrl": "https://drive.google.com/file/d/1-3x5XkdixkM1RU05PYpe87NqaPJ5w2JJ/view",
     "access": "Google Drive",
@@ -1908,7 +2129,7 @@
     "id": "lawrie-s-meat-science",
     "title": "Lawrie's Meat Science",
     "author": "R. A. Lawrie",
-    "description": "Lawrie's Meat Science is listed in the Livestock Products Technology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A livestock products technology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -2021,7 +2242,7 @@
     "id": "lumb-jones-veterinary-anesthesia-and-analgesia",
     "title": "Lumb & Jones Veterinary Anesthesia and Analgesia",
     "author": "Kurt Grimm, John Thurmon",
-    "description": "Lumb & Jones Veterinary Anesthesia and Analgesia is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -2078,11 +2299,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/lumb-jones-veterinary-anesthesia-and-analgesia.webp",
-      "width": 386,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/1461988-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-lumb-jones-veterinary-anesthesia-and-analgesia.webp",
+      "width": 600,
+      "height": 778,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/19OwUuJ2JU7IQuhZ9PrEGS0IhHgQuU3t-/view",
+      "fileId": "19OwUuJ2JU7IQuhZ9PrEGS0IhHgQuU3t-",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/lumb-jones-veterinary-anesthesia-and-analgesia-p1.webp"
     },
     "page": "/books/lumb-jones-veterinary-anesthesia-and-analgesia/",
     "primaryUrl": "https://drive.google.com/file/d/19OwUuJ2JU7IQuhZ9PrEGS0IhHgQuU3t-/view",
@@ -2094,7 +2320,7 @@
     "id": "manual-of-canine-and-feline-cardiology",
     "title": "Manual of Canine and Feline Cardiology",
     "author": "Larry P. Tilley, John-Karl Goodwin",
-    "description": "Manual of Canine and Feline Cardiology is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -2153,11 +2379,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/manual-of-canine-and-feline-cardiology.webp",
-      "width": 331,
-      "height": 475,
-      "source": "https://covers.openlibrary.org/b/id/1358723-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-manual-of-canine-and-feline-cardiology.webp",
+      "width": 575,
+      "height": 812,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1ufeZVFfNgxzTQTQWGuAsbxGYVwiMUK-I/view",
+      "fileId": "1ufeZVFfNgxzTQTQWGuAsbxGYVwiMUK-I",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/manual-of-canine-and-feline-cardiology-p1.webp"
     },
     "page": "/books/manual-of-canine-and-feline-cardiology/",
     "primaryUrl": "https://drive.google.com/file/d/1ufeZVFfNgxzTQTQWGuAsbxGYVwiMUK-I/view",
@@ -2188,7 +2419,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-meat-and-meat-products-technology.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Meat and Meat Products Technology",
+      "author": "B. D. Sharma",
+      "fingerprint": "655b0a72f2edf54216b28fc17d47449e0bff8730fd049dd85d34140aba65c291"
+    },
     "page": "/books/meat-and-meat-products-technology/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -2199,7 +2439,7 @@
     "id": "meat-processing-technology",
     "title": "Meat Processing Technology",
     "author": null,
-    "description": "Meat Processing Technology is listed in the Livestock Products Technology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A livestock products technology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -2234,12 +2474,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/meat-processing-technology.webp",
-      "width": 520,
-      "height": 736,
-      "source": "https://drive.google.com/thumbnail?id=1XveEX6w8dVs--uKsRlEM1RCGvCx3Qi8j&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-meat-processing-technology.webp",
+      "width": 600,
+      "height": 849,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1XveEX6w8dVs--uKsRlEM1RCGvCx3Qi8j/view",
+      "fileId": "1XveEX6w8dVs--uKsRlEM1RCGvCx3Qi8j",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/meat-processing-technology-p1.webp"
     },
     "page": "/books/meat-processing-technology/",
     "primaryUrl": "https://drive.google.com/file/d/1XveEX6w8dVs--uKsRlEM1RCGvCx3Qi8j/view",
@@ -2251,7 +2495,7 @@
     "id": "metabolic-diseases-in-farm-animals",
     "title": "Metabolic Diseases in Farm Animals",
     "author": "Jack M. Payne",
-    "description": "Metabolic Diseases in Farm Animals is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -2310,11 +2554,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/metabolic-diseases-in-farm-animals.webp",
-      "width": 313,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/12583248-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-metabolic-diseases-in-farm-animals.webp",
+      "width": 436,
+      "height": 674,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1E1v6I6yCde6-jhgUFDV2C4Z07M_Valkg/view",
+      "fileId": "1E1v6I6yCde6-jhgUFDV2C4Z07M_Valkg",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/metabolic-diseases-in-farm-animals-p1.webp"
     },
     "page": "/books/metabolic-diseases-in-farm-animals/",
     "primaryUrl": "https://drive.google.com/file/d/1E1v6I6yCde6-jhgUFDV2C4Z07M_Valkg/view",
@@ -2339,7 +2588,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-ndri-qbank.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "NDRI Veterinary Question Bank",
+      "author": "Author not listed",
+      "fingerprint": "7857360ccbb263e4e6b4b7c62fe5546f0c1ff265d9b88e821de3ddd65778c536"
+    },
     "page": "/books/ndri-qbank/",
     "primaryUrl": "https://t.me/veterinary_question_bank/6",
     "access": "Telegram",
@@ -2349,8 +2607,8 @@
   {
     "id": "ockerman-animal-byproduct-processing",
     "title": "Ockerman Animal Byproduct Processing",
-    "author": null,
-    "description": "Ockerman Animal Byproduct Processing is listed in the Livestock Products Technology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "author": "H. W. Ockerman and C. L. Hansen",
+    "description": "Explores the processing and use of animal by-products. Relevant to livestock-products technology, especially the relationship between processing, utilisation and waste management.",
     "subjects": [
       {
         "year": 3,
@@ -2384,7 +2642,18 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-ockerman-animal-byproduct-processing.webp",
+      "width": 564,
+      "height": 850,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1QRE51mACfqXTgDAXacuEkcmepdQigqJg/view",
+      "fileId": "1QRE51mACfqXTgDAXacuEkcmepdQigqJg",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/ockerman-animal-byproduct-processing-p1.webp"
+    },
     "page": "/books/ockerman-animal-byproduct-processing/",
     "primaryUrl": "https://drive.google.com/file/d/1QRE51mACfqXTgDAXacuEkcmepdQigqJg/view",
     "access": "Google Drive",
@@ -2453,7 +2722,7 @@
     "id": "pathways-to-pregnancy-and-parturition",
     "title": "Pathways to Pregnancy and Parturition",
     "author": "P. L. Senger",
-    "description": "Pathways to Pregnancy and Parturition is listed in the Veterinary Gynaecology and Obstetrics Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -2529,11 +2798,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/pathways-to-pregnancy-and-parturition.webp",
-      "width": 372,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/12757368-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-pathways-to-pregnancy-and-parturition.webp",
+      "width": 600,
+      "height": 848,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1orKFVdVBfLt2FTidFUYxUQJl51C5fTrO/view",
+      "fileId": "1orKFVdVBfLt2FTidFUYxUQJl51C5fTrO",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/pathways-to-pregnancy-and-parturition-p1.webp"
     },
     "page": "/books/pathways-to-pregnancy-and-parturition/",
     "primaryUrl": "https://drive.google.com/file/d/1orKFVdVBfLt2FTidFUYxUQJl51C5fTrO/view",
@@ -2605,7 +2879,7 @@
     "id": "pocket-guide-diagnostic-tests",
     "title": "Pocket Guide Diagnostic Tests",
     "author": "Diana Nicoll, Stephen J. McPhee and Michael Pignone",
-    "description": "Pocket Guide Diagnostic Tests is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -2662,11 +2936,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/pocket-guide-diagnostic-tests.webp",
-      "width": 307,
-      "height": 475,
-      "source": "https://covers.openlibrary.org/b/id/1078430-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-pocket-guide-diagnostic-tests.webp",
+      "width": 357,
+      "height": 555,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1qtqPZKe9ytj7xwt1wv9zm6fvh3pzxu7p/view",
+      "fileId": "1qtqPZKe9ytj7xwt1wv9zm6fvh3pzxu7p",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/pocket-guide-diagnostic-tests-p1.webp"
     },
     "page": "/books/pocket-guide-diagnostic-tests/",
     "primaryUrl": "https://drive.google.com/file/d/1qtqPZKe9ytj7xwt1wv9zm6fvh3pzxu7p/view",
@@ -2732,7 +3011,7 @@
     "id": "poultry-metabolic-disorders-and-mycotoxins",
     "title": "Poultry Metabolic Disorders and Mycotoxins",
     "author": "Steven Leeson",
-    "description": "Poultry Metabolic Disorders and Mycotoxins is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -2788,7 +3067,18 @@
       "errors": [],
       "reviewed": "2026-10-28"
     },
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-poultry-metabolic-disorders-and-mycotoxins.webp",
+      "width": 576,
+      "height": 742,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1gqmSEaqXGXKrvPeX8kNAveCGKM_bnE1b/view",
+      "fileId": "1gqmSEaqXGXKrvPeX8kNAveCGKM_bnE1b",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/poultry-metabolic-disorders-and-mycotoxins-p1.webp"
+    },
     "page": "/books/poultry-metabolic-disorders-and-mycotoxins/",
     "primaryUrl": "https://drive.google.com/file/d/1gqmSEaqXGXKrvPeX8kNAveCGKM_bnE1b/view",
     "access": "Google Drive",
@@ -2799,7 +3089,7 @@
     "id": "prescott-s-microbiology",
     "title": "Prescott’s Microbiology",
     "author": null,
-    "description": "Prescott’s Microbiology is listed in the Veterinary Microbiology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary microbiology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 2,
@@ -2834,14 +3124,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/research-prescott-s-microbiology.webp",
-      "width": 128,
-      "height": 166,
-      "source": "https://covers.openlibrary.org/b/isbn/9780072992915-L.jpg?default=false",
-      "kind": "reference-cover",
-      "reference": "https://openlibrary.org/works/OL15014670W",
-      "ocr": "ree",
-      "sha256": "f10cf36ca83305879d9beb2e330227223d906a280249e8d39b4db9257d1a893b"
+      "path": "/assets/books/source-prescott-s-microbiology.webp",
+      "width": 600,
+      "height": 726,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw/view",
+      "fileId": "1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/prescott-s-microbiology-p1.webp"
     },
     "page": "/books/prescott-s-microbiology/",
     "primaryUrl": "https://drive.google.com/file/d/1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw/view",
@@ -2894,7 +3186,7 @@
     "id": "principles-of-animal-nutrition-and-feed-technology",
     "title": "Principles of Animal Nutrition and Feed Technology",
     "author": "D. V. Reddy",
-    "description": "Link nutritional principles with feeds and feed processing.",
+    "description": "Covers the principles of animal nutrition, evaluation of feedstuffs and feed technology. A companion for understanding the science behind feeds before moving to applied ration work.",
     "subjects": [
       {
         "year": 2,
@@ -2954,12 +3246,15 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/principles-of-animal-nutrition-and-feed-technology.webp",
-      "width": 520,
-      "height": 368,
-      "source": "https://drive.google.com/thumbnail?id=1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-principles-of-animal-nutrition-and-feed-technology.webp",
+      "width": 388,
+      "height": 508,
+      "kind": "reference-cover",
+      "source": "https://cbspd.s3.ap-south-1.amazonaws.com/assets/images/wnmaLHjvGsw895YxwGVG1732859139.jpg",
+      "reference": "https://www.cbspd.com/product/principles-of-animal-nutrition-and-feed-technology-3-e-cbs-6th-reprint",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/principles-of-animal-nutrition-and-feed-technology.webp"
     },
     "page": "/books/principles-of-animal-nutrition-and-feed-technology/",
     "primaryUrl": "https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view",
@@ -2971,7 +3266,7 @@
     "id": "principles-of-meat-science-forrest",
     "title": "Principles of Meat Science — Forrest",
     "author": null,
-    "description": "Principles of Meat Science — Forrest is listed in the Livestock Products Technology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A meat-science reference for understanding muscle, meat quality and processing concepts. Useful alongside livestock-products technology lectures.",
     "subjects": [
       {
         "year": 3,
@@ -3006,13 +3301,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/principles-of-meat-science-forrest-upright.webp",
-      "width": 520,
-      "height": 735,
-      "source": "https://drive.google.com/thumbnail?id=1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg&sz=w700",
-      "kind": "file-preview",
-      "oriented": true,
-      "manualOrientation": 180
+      "path": "/assets/books/symbolic-principles-of-meat-science-forrest.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Principles of Meat Science — Forrest",
+      "author": "Author not listed",
+      "fingerprint": "8b172e4802696f06c0d2c30acad01d838db4ab1788a35d0341c5fbedb8ac7693"
     },
     "page": "/books/principles-of-meat-science-forrest/",
     "primaryUrl": "https://drive.google.com/file/d/1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg/view",
@@ -3024,7 +3320,7 @@
     "id": "reproduction-in-farm-animals-7th-edition-by-hafeez",
     "title": "Reproduction in Farm Animals,7th Edition by Hafeez",
     "author": null,
-    "description": "Reproduction in Farm Animals,7th Edition by Hafeez is listed in the Veterinary Gynaecology and Obstetrics Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -3059,14 +3355,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/research-reproduction-in-farm-animals-7th-edition-by-hafeez.webp",
-      "width": 341,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/isbn/9780812110135-L.jpg?default=false",
-      "kind": "reference-cover",
-      "reference": "https://openlibrary.org/works/OL17936019W",
-      "ocr": "ODUCTION\n\nFA\n\nANIMALS\n\nESE HAFEZ",
-      "sha256": "33f57aca511aa54520db0ba6283f2fca605d8f671604080ca9487051bee96153"
+      "path": "/assets/books/source-reproduction-in-farm-animals-7th-edition-by-hafeez.webp",
+      "width": 600,
+      "height": 823,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1PqJQDjKzLrX5mj2us9PWMn4SmssV3XvL/view",
+      "fileId": "1PqJQDjKzLrX5mj2us9PWMn4SmssV3XvL",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/reproduction-in-farm-animals-7th-edition-by-hafeez-p1.webp"
     },
     "page": "/books/reproduction-in-farm-animals-7th-edition-by-hafeez/",
     "primaryUrl": "https://drive.google.com/file/d/1PqJQDjKzLrX5mj2us9PWMn4SmssV3XvL/view",
@@ -3078,7 +3376,7 @@
     "id": "restraint-and-handling-of-wild-and-domestic-animals",
     "title": "Restraint and Handling of Wild and Domestic Animals",
     "author": "Murray Fowler",
-    "description": "Restraint and Handling of Wild and Domestic Animals is listed in the Livestock Production Management Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A livestock production management reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 1,
@@ -3138,13 +3436,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/restraint-and-handling-of-wild-and-domestic-animals-upright.webp",
-      "width": 520,
-      "height": 673,
-      "source": "https://drive.google.com/thumbnail?id=1keer053qB9ad7akDT8ewFnM1OuUJwjjg&sz=w700",
-      "kind": "file-preview",
-      "oriented": true,
-      "manualOrientation": 180
+      "path": "/assets/books/source-restraint-and-handling-of-wild-and-domestic-animals.webp",
+      "width": 370,
+      "height": 479,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1keer053qB9ad7akDT8ewFnM1OuUJwjjg/view",
+      "fileId": "1keer053qB9ad7akDT8ewFnM1OuUJwjjg",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/restraint-and-handling-of-wild-and-domestic-animals-p1.webp"
     },
     "page": "/books/restraint-and-handling-of-wild-and-domestic-animals/",
     "primaryUrl": "https://drive.google.com/file/d/1keer053qB9ad7akDT8ewFnM1OuUJwjjg/view",
@@ -3169,7 +3470,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-review-animal-science.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Review of Animal Science",
+      "author": "Author not listed",
+      "fingerprint": "d2693f76f025f247fddf3f4dd7d8091aedfc7c84ab2ecc77d0f95103ca9a77ff"
+    },
     "page": "/books/review-animal-science/",
     "primaryUrl": "https://t.me/veterinary_objectives/8",
     "access": "Telegram",
@@ -3193,7 +3503,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-review-veterinary-science.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Review of Veterinary Science",
+      "author": "Author not listed",
+      "fingerprint": "a5e98fe1ff63ac7752dd343e2499ef788bba002aa2b44c2bbb141f8bae4c6048"
+    },
     "page": "/books/review-veterinary-science/",
     "primaryUrl": "https://t.me/veterinary_objectives/7",
     "access": "Telegram",
@@ -3240,7 +3559,17 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-ruminant-surgery.webp",
+      "width": 312,
+      "height": 445,
+      "kind": "reference-cover",
+      "source": "https://cbspd.s3.ap-south-1.amazonaws.com/assets/images/17456572759789387964167.jpg",
+      "reference": "https://www.cbspd.com/product/ruminant-surgery-2ed-pb-2020-9789387964167-jit-singh",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/ruminant-surgery.webp"
+    },
     "page": "/books/ruminant-surgery/",
     "primaryUrl": "https://drive.google.com/file/d/18crjTihtryrbE5McfguxOxde9xTYjjO0/view",
     "access": "Google Drive",
@@ -3251,7 +3580,7 @@
     "id": "sembulingam-medical-physiology-6th-edition",
     "title": "Sembulingam Medical Physiology 6th-edition",
     "author": null,
-    "description": "Sembulingam Medical Physiology 6th-edition is listed in the Veterinary Physiology Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary physiology reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 1,
@@ -3286,12 +3615,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/sembulingam-medical-physiology-6th-edition.webp",
-      "width": 520,
-      "height": 691,
-      "source": "https://drive.google.com/thumbnail?id=1AnvRApqHkTeDu59SHiasERTWUEWK5fYY&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-sembulingam-medical-physiology-6th-edition.webp",
+      "width": 600,
+      "height": 797,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1AnvRApqHkTeDu59SHiasERTWUEWK5fYY/view",
+      "fileId": "1AnvRApqHkTeDu59SHiasERTWUEWK5fYY",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/sembulingam-medical-physiology-6th-edition-p1.webp"
     },
     "page": "/books/sembulingam-medical-physiology-6th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/1AnvRApqHkTeDu59SHiasERTWUEWK5fYY/view",
@@ -3303,7 +3636,7 @@
     "id": "skin-diseases-of-exotic-pets",
     "title": "Skin Diseases of Exotic Pets",
     "author": "Sue Paterson",
-    "description": "Skin Diseases of Exotic Pets is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -3378,7 +3711,7 @@
     "id": "slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition",
     "title": "Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition",
     "author": null,
-    "description": "Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -3413,14 +3746,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/research-slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition.webp",
-      "width": 379,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/isbn/0721605613-L.jpg?default=false",
-      "kind": "reference-cover",
-      "reference": "https://openlibrary.org/works/OL12374664W",
-      "ocr": "Slatter’s Fundamentals of\n\nVeterinary\n\nOphthalmology\n\nFourth Edition\n\nmi.",
-      "sha256": "1f19692eae2d8712cf239880d39a5175d5ec94b3b633e98d35e661b5761f1104"
+      "path": "/assets/books/source-slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition.webp",
+      "width": 600,
+      "height": 768,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1VikNtt8A5o6_kX4wjXEIY54hvv2ixOty/view",
+      "fileId": "1VikNtt8A5o6_kX4wjXEIY54hvv2ixOty",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition-p1.webp"
     },
     "page": "/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/1VikNtt8A5o6_kX4wjXEIY54hvv2ixOty/view",
@@ -3432,7 +3767,7 @@
     "id": "small-animal-ecgs-an-introductory-guide-3rd-edition",
     "title": "Small Animal ECGs, An Introductory Guide, 3rd Edition",
     "author": null,
-    "description": "Small Animal ECGs, An Introductory Guide, 3rd Edition is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -3467,13 +3802,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/small-animal-ecgs-an-introductory-guide-3rd-edition-upright.webp",
-      "width": 520,
-      "height": 362,
-      "source": "https://drive.google.com/thumbnail?id=10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i&sz=w700",
-      "kind": "file-preview",
-      "oriented": true,
-      "manualOrientation": 180
+      "path": "/assets/books/source-small-animal-ecgs-an-introductory-guide-3rd-edition.webp",
+      "width": 600,
+      "height": 418,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i/view",
+      "fileId": "10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/small-animal-ecgs-an-introductory-guide-3rd-edition-p1.webp"
     },
     "page": "/books/small-animal-ecgs-an-introductory-guide-3rd-edition/",
     "primaryUrl": "https://drive.google.com/file/d/10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i/view",
@@ -3484,8 +3822,8 @@
   {
     "id": "small-animal-internal-medicine-5th-edition",
     "title": "Small Animal Internal Medicine 5th Edition",
-    "author": null,
-    "description": "Small Animal Internal Medicine 5th Edition is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "author": "Richard W. Nelson and C. Guillermo Couto",
+    "description": "A small-animal medicine reference for studying internal diseases in dogs and cats. Use it to connect clinical signs, diagnostic reasoning and disease mechanisms during case-based learning.",
     "subjects": [
       {
         "year": 4,
@@ -3519,7 +3857,18 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-small-animal-internal-medicine-5th-edition.webp",
+      "width": 600,
+      "height": 768,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1DCiyZN02NtS9d79hVsJ6tKANP4rhf8vQ/view",
+      "fileId": "1DCiyZN02NtS9d79hVsJ6tKANP4rhf8vQ",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/small-animal-internal-medicine-5th-edition-p1.webp"
+    },
     "page": "/books/small-animal-internal-medicine-5th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/1DCiyZN02NtS9d79hVsJ6tKANP4rhf8vQ/view",
     "access": "Google Drive",
@@ -3530,7 +3879,7 @@
     "id": "small-animal-surgery-5th-edition-theresa-fossum",
     "title": "Small Animal Surgery, 5th Edition - Theresa Fossum",
     "author": null,
-    "description": "Small Animal Surgery, 5th Edition - Theresa Fossum is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -3565,14 +3914,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/research-small-animal-surgery-5th-edition-theresa-fossum.webp",
-      "width": 392,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/isbn/9780323443449-L.jpg?default=false",
-      "kind": "reference-cover",
-      "reference": "https://openlibrary.org/works/OL6016710W",
-      "ocr": "ol\n\nSDRGERY\n\nWR»\n\nOxon",
-      "sha256": "99527e5c59a49c49c223e483d1df066b28f813f3a3a215136f62870c996612dc"
+      "path": "/assets/books/source-small-animal-surgery-5th-edition-theresa-fossum.webp",
+      "width": 600,
+      "height": 767,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1ET3tVHdFKOSS6StF291FrDpWdPojyRGD/view",
+      "fileId": "1ET3tVHdFKOSS6StF291FrDpWdPojyRGD",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/small-animal-surgery-5th-edition-theresa-fossum-p1.webp"
     },
     "page": "/books/small-animal-surgery-5th-edition-theresa-fossum/",
     "primaryUrl": "https://drive.google.com/file/d/1ET3tVHdFKOSS6StF291FrDpWdPojyRGD/view",
@@ -3597,7 +3948,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-tanuvas-qbank.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "TANUVAS All-Subjects Question Bank",
+      "author": "Author not listed",
+      "fingerprint": "3af20f165cdfb827df5d9b684a7c9f2689087ae09d208877e4a31a98ea99593a"
+    },
     "page": "/books/tanuvas-qbank/",
     "primaryUrl": "https://t.me/veterinary_question_bank/3",
     "access": "Telegram",
@@ -3608,7 +3968,7 @@
     "id": "text-book-of-veterinary-parasitology-bhatia",
     "title": "Text Book of Veterinary Parasitology - Bhatia",
     "author": null,
-    "description": "Text Book of Veterinary Parasitology - Bhatia is listed in the Veterinary Parasitology Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary parasitology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -3643,12 +4003,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/text-book-of-veterinary-parasitology-bhatia.webp",
-      "width": 520,
-      "height": 368,
-      "source": "https://drive.google.com/thumbnail?id=1rqGzFoopej4pD-ozzr0aNUQfkn9nMY3F&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/symbolic-text-book-of-veterinary-parasitology-bhatia.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Text Book of Veterinary Parasitology - Bhatia",
+      "author": "Author not listed",
+      "fingerprint": "69eb8bdd0c2defe796359b99b4591538e1c0eefdc2310a3faab614f10bef6b32"
     },
     "page": "/books/text-book-of-veterinary-parasitology-bhatia/",
     "primaryUrl": "https://drive.google.com/file/d/1rqGzFoopej4pD-ozzr0aNUQfkn9nMY3F/view",
@@ -3679,7 +4041,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-text-book-on-animal-genetics-and-breeding.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Text Book on Animal Genetics and Breeding",
+      "author": "P. Kanakaraj",
+      "fingerprint": "4d9872bd15a144358b88a307e1e7bc0f8a3c87da3a8b1aa690fedc27aea0cd90"
+    },
     "page": "/books/text-book-on-animal-genetics-and-breeding/",
     "primaryUrl": null,
     "access": "Reading guide",
@@ -3727,12 +4098,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/textbook-of-animal-husbandry-and-livestock-extension.webp",
-      "width": 520,
-      "height": 657,
-      "source": "https://drive.google.com/thumbnail?id=1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-textbook-of-animal-husbandry-and-livestock-extension.webp",
+      "width": 377,
+      "height": 476,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f/view",
+      "fileId": "1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/textbook-of-animal-husbandry-and-livestock-extension-p1.webp"
     },
     "page": "/books/textbook-of-animal-husbandry-and-livestock-extension/",
     "primaryUrl": "https://drive.google.com/file/d/1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f/view",
@@ -3781,12 +4156,15 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/textbook-of-clinical-veterinary-medicine.webp",
+      "path": "/assets/books/source-textbook-of-clinical-veterinary-medicine.webp",
       "width": 520,
-      "height": 712,
-      "source": "https://drive.google.com/thumbnail?id=1m8BuPXfGu0Rj0J4STWEsk0Ilu4dH1pUn&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "height": 709,
+      "kind": "reference-cover",
+      "source": "https://f.nooncdn.com/p/v1648044114/N52981758A_1.jpg",
+      "reference": "https://www.noon.com/egypt-en/textbook-of-clinical-veterinary-medicine-paperback-english-by-chakrabarti-2009/N52981758A/p/",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/textbook-of-clinical-veterinary-medicine.webp"
     },
     "page": "/books/textbook-of-clinical-veterinary-medicine/",
     "primaryUrl": "https://drive.google.com/file/d/1m8BuPXfGu0Rj0J4STWEsk0Ilu4dH1pUn/view",
@@ -3834,7 +4212,7 @@
     "id": "textbook-of-veterinary-internal-medicine",
     "title": "Textbook of Veterinary Internal Medicine",
     "author": "Stephen J. Ettinger",
-    "description": "Textbook of Veterinary Internal Medicine is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -3910,11 +4288,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/textbook-of-veterinary-internal-medicine.webp",
-      "width": 369,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/9556047-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-textbook-of-veterinary-internal-medicine.webp",
+      "width": 600,
+      "height": 849,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1mr1sLm0C53nUKO_YKiOV80nXeUzCoVcu/view",
+      "fileId": "1mr1sLm0C53nUKO_YKiOV80nXeUzCoVcu",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/textbook-of-veterinary-internal-medicine-p1.webp"
     },
     "page": "/books/textbook-of-veterinary-internal-medicine/",
     "primaryUrl": "https://drive.google.com/file/d/1mr1sLm0C53nUKO_YKiOV80nXeUzCoVcu/view",
@@ -3926,7 +4309,7 @@
     "id": "textbook-of-veterinary-pathology",
     "title": "Textbook of Veterinary Pathology",
     "author": null,
-    "description": "Textbook of Veterinary Pathology is listed in the Veterinary Pathology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary pathology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 2,
@@ -3961,12 +4344,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/textbook-of-veterinary-pathology.webp",
-      "width": 478,
-      "height": 760,
-      "source": "https://drive.google.com/thumbnail?id=1knDpOeF1ckigyNJUJ_VjojvwAo3OxERn&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-textbook-of-veterinary-pathology.webp",
+      "width": 421,
+      "height": 671,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1knDpOeF1ckigyNJUJ_VjojvwAo3OxERn/view",
+      "fileId": "1knDpOeF1ckigyNJUJ_VjojvwAo3OxERn",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/textbook-of-veterinary-pathology-p1.webp"
     },
     "page": "/books/textbook-of-veterinary-pathology/",
     "primaryUrl": "https://drive.google.com/file/d/1knDpOeF1ckigyNJUJ_VjojvwAo3OxERn/view",
@@ -3978,7 +4365,7 @@
     "id": "necropsy-book-john-king",
     "title": "The Necropsy Book",
     "author": "John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom",
-    "description": "The Necropsy Book is listed in the Veterinary Pathology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary pathology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 2,
@@ -4013,12 +4400,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/necropsy-book-john-king.webp",
-      "width": 520,
-      "height": 724,
-      "source": "https://drive.google.com/thumbnail?id=1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-necropsy-book-john-king.webp",
+      "width": 533,
+      "height": 743,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz/view",
+      "fileId": "1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/necropsy-book-john-king-p1.webp"
     },
     "page": "/books/necropsy-book-john-king/",
     "primaryUrl": "https://drive.google.com/file/d/1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz/view",
@@ -4043,7 +4434,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-ultimate-vet-handbook.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Ultimate Vet Handbook",
+      "author": "Author not listed",
+      "fingerprint": "8ff5bf69f6154880a42f1e0d50073b44ffa3664ff9da87583f05aec0f476d61f"
+    },
     "page": "/books/ultimate-vet-handbook/",
     "primaryUrl": "https://t.me/Vethandbooks/3",
     "access": "Telegram",
@@ -4067,7 +4467,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-vaccination-schedule.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Vaccination Schedule of All Animals",
+      "author": "Author not listed",
+      "fingerprint": "7f41de0247f8077e34070f67bbfa5e556211ec5a147356c4a34d52db13b59ec1"
+    },
     "page": "/books/vaccination-schedule/",
     "primaryUrl": "https://t.me/c/4430259212/6",
     "access": "Telegram",
@@ -4091,7 +4500,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-vendex.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "VENDEX: The Fundamental Veterinary Drug Index",
+      "author": "Author not listed",
+      "fingerprint": "2d978c81cd00d7d0e94ae5fd9adb871ce980d81285db52631ceda0a356a1d5fe"
+    },
     "page": "/books/vendex/",
     "primaryUrl": "https://t.me/c/4430259212/3",
     "access": "Telegram",
@@ -4101,21 +4519,33 @@
   {
     "id": "vet-scorer",
     "title": "Vet Scorer 2022 — 1st Edition",
-    "author": null,
-    "description": "A veterinary objective-practice resource; use this 2022 edition with current notes.",
+    "author": "Shailesh Kumar Patel, Jigyasa Rana and B. Balamurugan",
+    "description": "A veterinary-science revision book combining subject review with practice questions. The 2022 listing includes three mock tests and three previous PSC papers. Best used to identify gaps after studying a topic.",
     "subjects": [],
     "files": [],
     "telegram": "https://t.me/veterinary_question_bank/12",
     "collection": "question-banks",
     "recommended": false,
     "type": "Question bank",
-    "references": [],
+    "references": [
+      "https://www.ibpbooks.com/vet-scorer-a-complete-solution-of-veterinary-science-3-mock-tests-3-old-psc-papers/p/56196"
+    ],
     "lastVerified": "2026-10-19",
     "resourceId": "telegram-vet-scorer",
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-vet-scorer.webp",
+      "width": 300,
+      "height": 388,
+      "kind": "reference-cover",
+      "source": "https://cdn.ibpbooks.com/images/sdf/vet-scorer-a-complete-solution-of-v.jpg",
+      "reference": "https://www.ibpbooks.com/vet-scorer-a-complete-solution-of-veterinary-science-3-mock-tests-3-old-psc-papers/p/56196",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/vet-scorer.webp"
+    },
     "page": "/books/vet-scorer/",
     "primaryUrl": "https://t.me/veterinary_question_bank/12",
     "access": "Telegram",
@@ -4126,7 +4556,7 @@
     "id": "veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition",
     "title": "Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition",
     "author": null,
-    "description": "Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition is listed in the Veterinary Anatomy Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary anatomy reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 1,
@@ -4161,14 +4591,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/research-veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition.webp",
-      "width": 373,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/isbn/3132429333-L.jpg?default=false",
-      "kind": "reference-cover",
-      "reference": "https://openlibrary.org/works/OL25245466W",
-      "ocr": "Veterinary Anatomy of\n\nDomestic Animals\n\nTextbook and Colour Atlas\n\nited by\n\nHorst Erich Kénig\n\nHans-Georg Liebich,\n\nSeventh ton\n\nj\n\nY\n\n\\\\\n\ni=3)\n\nea\n\n{[\n\nNs\n\nen\n\n®Thieme",
-      "sha256": "350c552cf68a31a30de4ecfa4c696ba88584779b0569ba1b6e7ad3ff4dc4eb53"
+      "path": "/assets/books/source-veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition.webp",
+      "width": 600,
+      "height": 808,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/11bxwhHjGLv3AiXLd9U2yPezwd89bbVYf/view",
+      "fileId": "11bxwhHjGLv3AiXLd9U2yPezwd89bbVYf",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition-p1.webp"
     },
     "page": "/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/",
     "primaryUrl": "https://drive.google.com/file/d/11bxwhHjGLv3AiXLd9U2yPezwd89bbVYf/view",
@@ -4193,7 +4625,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-navsari-drug-index.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Veterinary Drug Index by NAVSARI",
+      "author": "Author not listed",
+      "fingerprint": "2008df4234fec7ab5345b9bc73ff35052db4d9269d1af1e71212c9490d29d92c"
+    },
     "page": "/books/navsari-drug-index/",
     "primaryUrl": "https://t.me/c/4430259212/4",
     "access": "Telegram",
@@ -4241,12 +4682,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/veterinary-epidemiology.webp",
-      "width": 520,
-      "height": 672,
-      "source": "https://drive.google.com/thumbnail?id=1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-veterinary-epidemiology.webp",
+      "width": 600,
+      "height": 775,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM/view",
+      "fileId": "1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/veterinary-epidemiology-p1.webp"
     },
     "page": "/books/veterinary-epidemiology/",
     "primaryUrl": "https://drive.google.com/file/d/1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM/view",
@@ -4258,7 +4703,7 @@
     "id": "veterinary-extension-education-grk-sharma",
     "title": "Veterinary Extension Education GRK Sharma",
     "author": null,
-    "description": "Veterinary Extension Education GRK Sharma is listed in the Veterinary and Animal Husbandry Extension Education Books collection for Year 3 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary and animal husbandry extension education reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 3,
@@ -4293,12 +4738,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/veterinary-extension-education-grk-sharma.webp",
-      "width": 474,
-      "height": 760,
-      "source": "https://drive.google.com/thumbnail?id=1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-veterinary-extension-education-grk-sharma.webp",
+      "width": 471,
+      "height": 755,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt/view",
+      "fileId": "1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/veterinary-extension-education-grk-sharma-p1.webp"
     },
     "page": "/books/veterinary-extension-education-grk-sharma/",
     "primaryUrl": "https://drive.google.com/file/d/1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt/view",
@@ -4347,12 +4796,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/veterinary-medicine.webp",
-      "width": 520,
-      "height": 666,
-      "source": "https://drive.google.com/thumbnail?id=1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-veterinary-medicine.webp",
+      "width": 600,
+      "height": 768,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY/view",
+      "fileId": "1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/veterinary-medicine-p1.webp"
     },
     "page": "/books/veterinary-medicine/",
     "primaryUrl": "https://drive.google.com/file/d/1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY/view",
@@ -4400,7 +4853,7 @@
     "id": "veterinary-mycology",
     "title": "Veterinary Mycology",
     "author": "Indranil Samanta",
-    "description": "Veterinary Mycology is listed in the Veterinary Microbiology Books collection for Year 2 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary microbiology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 2,
@@ -4460,12 +4913,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/veterinary-mycology.webp",
-      "width": 520,
-      "height": 759,
-      "source": "https://drive.google.com/thumbnail?id=1ePan-dG10lehu5icHLxSfREmwBCIEUtZ&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-veterinary-mycology.webp",
+      "width": 556,
+      "height": 811,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1ePan-dG10lehu5icHLxSfREmwBCIEUtZ/view",
+      "fileId": "1ePan-dG10lehu5icHLxSfREmwBCIEUtZ",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/veterinary-mycology-p1.webp"
     },
     "page": "/books/veterinary-mycology/",
     "primaryUrl": "https://drive.google.com/file/d/1ePan-dG10lehu5icHLxSfREmwBCIEUtZ/view",
@@ -4477,7 +4934,7 @@
     "id": "veterinary-obstetrics-and-genital-disease",
     "title": "Veterinary Obstetrics and Genital disease",
     "author": "Stephen J. Roberts",
-    "description": "Veterinary Obstetrics and Genital disease is listed in the Veterinary Gynaecology and Obstetrics Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "description": "A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.",
     "subjects": [
       {
         "year": 4,
@@ -4533,11 +4990,16 @@
       "reviewed": "2026-10-28"
     },
     "cover": {
-      "path": "/assets/books/veterinary-obstetrics-and-genital-disease.webp",
-      "width": 361,
-      "height": 500,
-      "source": "https://covers.openlibrary.org/b/id/15087005-L.jpg?default=false",
-      "kind": "reference-cover"
+      "path": "/assets/books/source-veterinary-obstetrics-and-genital-disease.webp",
+      "width": 571,
+      "height": 816,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1zB46XFHMqBgQKtNGLMqXBZllKxNAVgOz/view",
+      "fileId": "1zB46XFHMqBgQKtNGLMqXBZllKxNAVgOz",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/veterinary-obstetrics-and-genital-disease-p1.webp"
     },
     "page": "/books/veterinary-obstetrics-and-genital-disease/",
     "primaryUrl": "https://drive.google.com/file/d/1zB46XFHMqBgQKtNGLMqXBZllKxNAVgOz/view",
@@ -4587,7 +5049,7 @@
     "id": "veterinary-practice-handbook",
     "title": "Veterinary Practice Handbook",
     "author": "RK Chandolia",
-    "description": "Preliminary Veterinary Handbooks by RK Chandolia.",
+    "description": "A veterinary-practice handbook credited to R. K. Chandolia. Useful as a quick reading companion for clinical teaching and practical revision.",
     "subjects": [],
     "files": [],
     "telegram": "https://t.me/Vethandbooks/7",
@@ -4600,7 +5062,16 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/symbolic-veterinary-practice-handbook.webp",
+      "width": 500,
+      "height": 750,
+      "kind": "symbolic-cover",
+      "source": "Rx Notes original symbolic artwork",
+      "title": "Veterinary Practice Handbook",
+      "author": "RK Chandolia",
+      "fingerprint": "21a2785ad5b92cec32650c8a2582093524eb8771e749b1ad87f72ba4fe068f21"
+    },
     "page": "/books/veterinary-practice-handbook/",
     "primaryUrl": "https://t.me/Vethandbooks/7",
     "access": "Telegram",
@@ -4663,12 +5134,16 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/veterinary-reproduction-and-obstetrics.webp",
-      "width": 520,
-      "height": 706,
-      "source": "https://drive.google.com/thumbnail?id=1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_&sz=w700",
-      "kind": "file-preview",
-      "oriented": true
+      "path": "/assets/books/source-veterinary-reproduction-and-obstetrics.webp",
+      "width": 555,
+      "height": 753,
+      "kind": "file-cover",
+      "page": 1,
+      "source": "https://drive.google.com/file/d/1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_/view",
+      "fileId": "1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched cover and title in source audit",
+      "candidatePath": "/assets/books/audit/veterinary-reproduction-and-obstetrics-p1.webp"
     },
     "page": "/books/veterinary-reproduction-and-obstetrics/",
     "primaryUrl": "https://drive.google.com/file/d/1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_/view",
@@ -4679,8 +5154,8 @@
   {
     "id": "veterinary-surgery-and-radiology-by-s-k-nandi",
     "title": "Veterinary surgery and radiology by s.k.nandi",
-    "author": null,
-    "description": "Veterinary surgery and radiology by s.k.nandi is listed in the Veterinary Surgery and Radiology Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.",
+    "author": "Samit Kumar Nandi, Samar Halder and Mozammel Hoque",
+    "description": "A veterinary surgery and radiology textbook organised for veterinary study. Use alongside lectures and supervised practicals to connect surgical principles with diagnostic imaging.",
     "subjects": [
       {
         "year": 4,
@@ -4714,7 +5189,17 @@
     "humanReference": false,
     "referenceISBNs": [],
     "bibliography": {},
-    "cover": null,
+    "cover": {
+      "path": "/assets/books/source-veterinary-surgery-and-radiology-by-s-k-nandi.webp",
+      "width": 520,
+      "height": 717,
+      "kind": "reference-cover",
+      "source": "http://www.jainbookmart.com/cdn/shop/files/81LtiDunQCL._SL1500.jpg?v=1712514467",
+      "reference": "https://www.jainbookmart.com/products/a-textbook-on-veterinary-surgery-and-radiology-2nd-edition-by-samit-kumar-nandi",
+      "reviewed": "2026-10-31",
+      "review": "Visually matched title and author against researched listing",
+      "candidatePath": "/assets/books/online-review/veterinary-surgery-and-radiology-by-s-k-nandi.webp"
+    },
     "page": "/books/veterinary-surgery-and-radiology-by-s-k-nandi/",
     "primaryUrl": "https://drive.google.com/file/d/1JF5935zW9GiaDRHXn7g0YW-w4SUd1Y2F/view",
     "access": "Google Drive",

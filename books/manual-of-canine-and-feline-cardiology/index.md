@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Manual of Canine and Feline Cardiology — Details & Drive Access
 
-Reference cover; the linked edition may differ.
-Book · Veterinary Medicine
+Book · Year 4
 
 # Manual of Canine and Feline Cardiology
 
@@ -17,17 +16,11 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Manual of Canine and Feline Cardiology is listed in the Veterinary Medicine Books collection for Year 4 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-## A study note
-
-Use this alongside veterinary medicine lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: Larry P. Tilley, John-Karl Goodwin
 
@@ -43,16 +36,14 @@ Book details, edition & credits
 
 - Bibliographic year: 2001 · linked edition may differ
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Manual of Canine and Feline Cardiology.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Manual%20of%20Canine%20and%20Feline%20Cardiology#report)
+- Manual of Canine and Feline Cardiology.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Manual%20of%20Canine%20and%20Feline%20Cardiology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

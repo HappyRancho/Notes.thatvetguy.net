@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Color Atlas of Veterinary Histology — Details & Drive Access
 
-Reference cover; the linked edition may differ.
-Book · Veterinary Anatomy
+Book · Year 1
 
 # Color Atlas of Veterinary Histology
 
@@ -17,15 +16,9 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Color Atlas of Veterinary Histology is listed in the Veterinary Anatomy Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+A veterinary anatomy reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-## A study note
-
-Use this alongside veterinary anatomy lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: Linda M. Bacha
 
@@ -41,16 +34,14 @@ Book details, edition & credits
 
 - Bibliographic year: 2012 · linked edition may differ
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Color Atlas of Veterinary Histology.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Color%20Atlas%20of%20Veterinary%20Histology#report)
+- Color Atlas of Veterinary Histology.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Color%20Atlas%20of%20Veterinary%20Histology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

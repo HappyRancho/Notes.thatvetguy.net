@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Textbook of Clinical Veterinary Medicine — Details & Drive Access
 
-Preview from the linked source file.
-Book · Veterinary Medicine
+Book · Year 4
 
 # Textbook of Clinical Veterinary Medicine
 
@@ -21,13 +20,7 @@ A companion for clinical examination and a systematic approach to disease.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-## A study note
-
-Use this alongside veterinary medicine lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: Amalendu Chakrabarti
 
@@ -39,16 +32,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Reference cover; the linked edition may differ.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Textbook of Clinical Veterinary Medicine by Amalendu Chakrabarti.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Clinical%20Veterinary%20Medicine#report)
+- Textbook of Clinical Veterinary Medicine by Amalendu Chakrabarti.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Clinical%20Veterinary%20Medicine#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

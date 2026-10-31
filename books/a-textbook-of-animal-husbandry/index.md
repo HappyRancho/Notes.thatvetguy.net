@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›A Textbook of Animal Husbandry — BVSc Reading Guide
 
-Reference cover; the linked edition may differ.
-Book · Livestock Production Management
+Book · Year 1
 
 # A Textbook of Animal Husbandry
 
@@ -19,13 +18,7 @@ This is a reading recommendation. A linked copy is not currently available; you 
 
 A broader reference for breeds, production systems and farm management.
 
-## A study note
-
-Use this alongside livestock production management lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Authors / editors: G. C. Banerjee
 
@@ -41,12 +34,12 @@ Book details, edition & credits
 
 - Bibliographic year: 1970 · linked edition may differ
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Reference cover; the linked edition may differ.
 
-Last source check: 2026-10-18.
+Credit belongs to the original authors and publishers.
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=A%20Textbook%20of%20Animal%20Husbandry#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

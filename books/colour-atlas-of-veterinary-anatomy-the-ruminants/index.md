@@ -1,11 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Colour Atlas of Veterinary Anatomy - The Ruminants — Details & Drive Access
 
-Cover unavailable
-Book · Veterinary Anatomy
+Book · Year 1
 
 # Colour Atlas of Veterinary Anatomy - The Ruminants
 
@@ -15,15 +14,9 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Colour Atlas of Veterinary Anatomy - The Ruminants is listed in the Veterinary Anatomy Books collection for Year 1 BVSc & AH study. Use it alongside your course outline and teaching notes, and check the linked copy’s title page and edition before citing it.
+A visual anatomy reference focused on ruminants. Useful beside dissection notes for recognising structures and understanding their spatial relationships.
 
-## A study note
-
-Use this alongside veterinary anatomy lectures and practicals. Start with the topics in your current unit, then test whether you can explain the key ideas without the page in front of you.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Study area: Veterinary Anatomy
 
@@ -33,16 +26,14 @@ Book details, edition & credits
 
 - Access: Google Drive
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Cover extracted from the linked PDF.
+
+Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Colour Atlas of Veterinary Anatomy - The Ruminants.pdf
-
-Last source check: 2026-10-28.
-
-[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Colour%20Atlas%20of%20Veterinary%20Anatomy%20-%20The%20Ruminants#report)
+- Colour Atlas of Veterinary Anatomy - The Ruminants.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Colour%20Atlas%20of%20Veterinary%20Anatomy%20-%20The%20Ruminants#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.

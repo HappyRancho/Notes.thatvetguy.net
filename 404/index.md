@@ -9,4 +9,4 @@ Try a subject or search for the resource you need.
 
 [Back to the notes ](https://notes.thatvetguy.net/bvsc/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.

@@ -1,11 +1,11 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/kvafsu-qbank/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/kvafsu-qbank/; updated: 2026-10-31 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›KVAFSU Question Bank — Telegram Download
 
-Cover unavailable
-Question bank · veterinary revision
+Symbolic cover
+Question bank · Exam revision
 
 # KVAFSU Question Bank
 
@@ -17,26 +17,20 @@ This button opens the book’s Telegram post. View or download the file there.
 
 Build a subject-wise practice routine with this veterinary question collection.
 
-## A study note
-
-Useful for a second pass after learning the topic. Attempt a short set, check each answer against your teaching notes and keep a list of concepts to revisit; question collections can contain errors or older answers.
-
-Rx Notes reading guidance
-
-Book details, edition & credits 
+Edition & source details 
 
 - Resource type: Question bank
 
 - Access: Telegram
 
-Credit remains with the original authors and publishers. Reference covers and bibliographic details may describe a different edition from the linked copy. Check its title page before citing it.
+Symbolic artwork made for this listing; not the publisher’s cover.
+
+Credit belongs to the original authors and publishers.
 
 Access is provided through the original Telegram post.
-
-Last source check: 2026-10-19.
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=KVAFSU%20Question%20Bank#report)
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-28; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
