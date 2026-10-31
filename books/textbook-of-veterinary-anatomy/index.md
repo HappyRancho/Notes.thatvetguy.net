@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Veterinary Anatomy — BVSc Reading Guide
+- ›Textbook of Veterinary Anatomy
 
 Book · Year 1
 

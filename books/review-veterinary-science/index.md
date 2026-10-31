@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Review of Veterinary Science — Telegram Download
+- ›Review of Veterinary Science
 
 Symbolic cover
 Study book · Exam revision

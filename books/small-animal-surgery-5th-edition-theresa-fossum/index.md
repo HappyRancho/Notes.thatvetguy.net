@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Small Animal Surgery, 5th Edition - Theresa Fossum — Details & Drive Access
+- ›Small Animal Surgery, 5th Edition - Theresa Fossum
 
 Book · Year 4
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ruminant Surgery — Details & Drive Access
+- ›Ruminant Surgery
 
 Book · Year 4
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Extension Education GRK Sharma — Details & Drive Access
+- ›Veterinary Extension Education GRK Sharma
 
 Book · Year 3
 

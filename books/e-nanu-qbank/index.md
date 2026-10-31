@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›E. Nanu Veterinary Question Bank — Telegram Download
+- ›E. Nanu Veterinary Question Bank
 
 Symbolic cover
 Question bank · Exam revision

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Outlines of Dairy Technology — BVSc Reading Guide
+- ›Outlines of Dairy Technology
 
 Book · Year 3
 

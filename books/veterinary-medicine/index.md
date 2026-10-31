@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Medicine — Details & Drive Access
+- ›Veterinary Medicine
 
 Book · Year 4
 

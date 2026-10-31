@@ -6339,7 +6339,7 @@ Canonical: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›A Textbook of Animal Husbandry — BVSc Reading Guide
+- ›A Textbook of Animal Husbandry
 
 Book · Year 1
 
@@ -6389,7 +6389,7 @@ Canonical: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-p
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›A Textbook of Veterinary General Pathology — Details & Drive Access
+- ›A Textbook of Veterinary General Pathology
 
 Book · Year 2
 
@@ -6437,7 +6437,7 @@ Canonical: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edit
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Adam's Lameness in Horses 7th Edition — Details & Drive Access
+- ›Adam's Lameness in Horses 7th Edition
 
 Book · Year 4
 
@@ -6483,7 +6483,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-capsule/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›All in One Veterinary Capsule — Telegram Download
+- ›All in One Veterinary Capsule
 
 Symbolic cover
 Study book · Exam revision
@@ -6524,7 +6524,7 @@ Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ananthanarayan and Paniker’s Textbook of Microbiology — Details & Drive Access
+- ›Ananthanarayan and Paniker’s Textbook of Microbiology
 
 Book · Year 2
 
@@ -6572,7 +6572,7 @@ Canonical: https://notes.thatvetguy.net/books/animal-breeding/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Animal breeding — Details & Drive Access
+- ›Animal breeding
 
 Symbolic cover
 Book · Year 2
@@ -6617,7 +6617,7 @@ Canonical: https://notes.thatvetguy.net/books/animal-nutrition/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Animal Nutrition — Details & Drive Access
+- ›Animal Nutrition
 
 Book · Year 2
 
@@ -6665,7 +6665,7 @@ Canonical: https://notes.thatvetguy.net/books/animal-science-refresher/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Animal Science Refresher — Telegram Download
+- ›Animal Science Refresher
 
 Study book · Exam revision
 
@@ -6709,7 +6709,7 @@ Canonical: https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals — Details & Drive Access
+- ›Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals
 
 Book · Year 2
 
@@ -6757,7 +6757,7 @@ Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep — Details & Drive Access
+- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep
 
 Book · Year 4
 
@@ -6803,7 +6803,7 @@ Canonical: https://notes.thatvetguy.net/books/biochemistry/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Biochemistry — BVSc Reading Guide
+- ›Biochemistry
 
 Book · Year 2
 
@@ -6849,7 +6849,7 @@ Canonical: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handb
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics — Details & Drive Access
+- ›Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics
 
 Book · Year 4
 
@@ -6895,7 +6895,7 @@ Canonical: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-an
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Canine and Feline Endocrinology and Reproduction — Details & Drive Access
+- ›Canine and Feline Endocrinology and Reproduction
 
 Book · Year 4
 
@@ -6949,7 +6949,7 @@ Canonical: https://notes.thatvetguy.net/books/clinical-examination-of-farm-anima
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Clinical Examination of Farm Animals — Details & Drive Access
+- ›Clinical Examination of Farm Animals
 
 Book · Year 4
 
@@ -7003,7 +7003,7 @@ Canonical: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermat
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Clinical Handbook on Canine Dermatology 3rd Edition — Details & Drive Access
+- ›Clinical Handbook on Canine Dermatology 3rd Edition
 
 Book · Year 4
 
@@ -7049,7 +7049,7 @@ Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histolog
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Color Atlas of Veterinary Histology — Details & Drive Access
+- ›Color Atlas of Veterinary Histology
 
 Book · Year 1
 
@@ -7101,7 +7101,7 @@ Canonical: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Color handbook of Skin Diseases of Dog and Cat — Details & Drive Access
+- ›Color handbook of Skin Diseases of Dog and Cat
 
 Book · Year 4
 
@@ -7155,7 +7155,7 @@ Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Colour Atlas of Veterinary Anatomy - The Ruminants — Details & Drive Access
+- ›Colour Atlas of Veterinary Anatomy - The Ruminants
 
 Book · Year 1
 
@@ -7199,7 +7199,7 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-colour-handbook/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Colour Handbook of Small Animal Emergency and Critical Care — Telegram Download
+- ›Colour Handbook of Small Animal Emergency and Critical Care
 
 Handbook · Clinical reference
 
@@ -7241,7 +7241,7 @@ Canonical: https://notes.thatvetguy.net/books/dhruv-desai/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Compiled Question Bank by Dhruv N Desai — Telegram Download
+- ›Compiled Question Bank by Dhruv N Desai
 
 Symbolic cover
 Study book · Exam revision
@@ -7286,7 +7286,7 @@ Canonical: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinar
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Cunningham’s Textbook of Veterinary Physiology — Details & Drive Access
+- ›Cunningham’s Textbook of Veterinary Physiology
 
 Book · Year 1
 
@@ -7334,7 +7334,7 @@ Canonical: https://notes.thatvetguy.net/books/wall-drug-dose/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Drug Dose — Wall Reference — Telegram Download
+- ›Drug Dose — Wall Reference
 
 Symbolic cover
 Reference sheet · Clinical reference
@@ -7377,7 +7377,7 @@ Canonical: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-anima
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Dukes’ Physiology of Domestic Animals — Details & Drive Access
+- ›Dukes’ Physiology of Domestic Animals
 
 Book · Year 1
 
@@ -7425,7 +7425,7 @@ Canonical: https://notes.thatvetguy.net/books/e-nanu-qbank/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›E. Nanu Veterinary Question Bank — Telegram Download
+- ›E. Nanu Veterinary Question Bank
 
 Symbolic cover
 Question bank · Exam revision
@@ -7470,7 +7470,7 @@ Canonical: https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Medical Pharmacology - K.D.Tripathi — Details & Drive Access
+- ›Essentials of Medical Pharmacology - K.D.Tripathi
 
 Book · Year 3
 
@@ -7522,7 +7522,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-histology-and-embryolog
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Veterinary Histology & Embryology — Telegram Download
+- ›Essentials of Veterinary Histology & Embryology
 
 Book · Year 1
 
@@ -7572,7 +7572,7 @@ Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacol
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Veterinary Pharmacology and Therapeutics — Details & Drive Access
+- ›Essentials of Veterinary Pharmacology and Therapeutics
 
 Book · Year 3
 
@@ -7620,7 +7620,7 @@ Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Veterinary Surgery, 8th Edition — Details & Drive Access
+- ›Essentials of Veterinary Surgery, 8th Edition
 
 Book · Year 4
 
@@ -7666,7 +7666,7 @@ Canonical: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-vet
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard — Details & Drive Access
+- ›Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard
 
 Book · Year 4
 
@@ -7716,7 +7716,7 @@ Canonical: https://notes.thatvetguy.net/books/farm-animal-surgery/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Farm Animal Surgery — BVSc Reading Guide
+- ›Farm Animal Surgery
 
 Book · Year 4
 
@@ -7764,7 +7764,7 @@ Canonical: https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-e
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Fenner’s Veterinary Virology 5th edition — Details & Drive Access
+- ›Fenner’s Veterinary Virology 5th edition
 
 Book · Year 2
 
@@ -7808,7 +7808,7 @@ Canonical: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Fluid therapy guidelines for dogs and cats — Details & Drive Access
+- ›Fluid therapy guidelines for dogs and cats
 
 Clinical guide · Year 4
 
@@ -7854,7 +7854,7 @@ Canonical: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacol
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Goodman and Gilman’s The Pharmacological Basis of Therapeutics — Details & Drive Access
+- ›Goodman and Gilman’s The Pharmacological Basis of Therapeutics
 
 Book · Year 3
 
@@ -7902,7 +7902,7 @@ Canonical: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Gracey's Meat Hygiene 11Edition — Details & Drive Access
+- ›Gracey's Meat Hygiene 11Edition
 
 Book · Year 3
 
@@ -7946,7 +7946,7 @@ Canonical: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medica
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Guyton and Hall Textbook of Medical Physiology — Details & Drive Access
+- ›Guyton and Hall Textbook of Medical Physiology
 
 Book · Year 1
 
@@ -8002,7 +8002,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-clinician-handbook/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Handbook for Veterinary Clinician — Telegram Download
+- ›Handbook for Veterinary Clinician
 
 Symbolic cover
 Handbook · Clinical reference
@@ -8049,7 +8049,7 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-radiology-handbook/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Handbook of Small Animal Radiology and Ultrasound — Telegram Download
+- ›Handbook of Small Animal Radiology and Ultrasound
 
 Handbook · Clinical reference
 
@@ -8099,7 +8099,7 @@ Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacolog
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008) — Details & Drive Access
+- ›Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)
 
 Book · Year 3
 
@@ -8143,7 +8143,7 @@ Canonical: https://notes.thatvetguy.net/books/kvafsu-qbank/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›KVAFSU Question Bank — Telegram Download
+- ›KVAFSU Question Bank
 
 Symbolic cover
 Question bank · Exam revision
@@ -8184,7 +8184,7 @@ Canonical: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-m
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Laboratory Animal and Exotic Pet Medicine Principles and Procedures — Details & Drive Access
+- ›Laboratory Animal and Exotic Pet Medicine Principles and Procedures
 
 Book · Year 4
 
@@ -8234,7 +8234,7 @@ Canonical: https://notes.thatvetguy.net/books/lawrie-s-meat-science/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Lawrie's Meat Science — Details & Drive Access
+- ›Lawrie's Meat Science
 
 Book · Year 3
 
@@ -8286,7 +8286,7 @@ Canonical: https://notes.thatvetguy.net/books/livestock-production-management/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Livestock Production Management — BVSc Reading Guide
+- ›Livestock Production Management
 
 Book · Year 1
 
@@ -8332,7 +8332,7 @@ Canonical: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-a
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Lumb & Jones Veterinary Anesthesia and Analgesia — Details & Drive Access
+- ›Lumb & Jones Veterinary Anesthesia and Analgesia
 
 Book · Year 4
 
@@ -8386,7 +8386,7 @@ Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardio
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Manual of Canine and Feline Cardiology — Details & Drive Access
+- ›Manual of Canine and Feline Cardiology
 
 Book · Year 4
 
@@ -8440,7 +8440,7 @@ Canonical: https://notes.thatvetguy.net/books/meat-and-meat-products-technology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Meat and Meat Products Technology — BVSc Reading Guide
+- ›Meat and Meat Products Technology
 
 Symbolic cover
 Book · Year 3
@@ -8487,7 +8487,7 @@ Canonical: https://notes.thatvetguy.net/books/meat-processing-technology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Meat Processing Technology — Details & Drive Access
+- ›Meat Processing Technology
 
 Book · Year 3
 
@@ -8531,7 +8531,7 @@ Canonical: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Metabolic Diseases in Farm Animals — Details & Drive Access
+- ›Metabolic Diseases in Farm Animals
 
 Book · Year 4
 
@@ -8585,7 +8585,7 @@ Canonical: https://notes.thatvetguy.net/books/ndri-qbank/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›NDRI Veterinary Question Bank — Telegram Download
+- ›NDRI Veterinary Question Bank
 
 Symbolic cover
 Question bank · Exam revision
@@ -8626,7 +8626,7 @@ Canonical: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processi
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ockerman Animal Byproduct Processing — Details & Drive Access
+- ›Ockerman Animal Byproduct Processing
 
 Book · Year 3
 
@@ -8674,7 +8674,7 @@ Canonical: https://notes.thatvetguy.net/books/outlines-of-dairy-technology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Outlines of Dairy Technology — BVSc Reading Guide
+- ›Outlines of Dairy Technology
 
 Book · Year 3
 
@@ -8724,7 +8724,7 @@ Canonical: https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturit
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Pathways to Pregnancy and Parturition — Details & Drive Access
+- ›Pathways to Pregnancy and Parturition
 
 Book · Year 4
 
@@ -8783,7 +8783,7 @@ Canonical: https://notes.thatvetguy.net/books/plumbs-handbook/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Plumb’s Veterinary Drug Handbook — Telegram Download
+- ›Plumb’s Veterinary Drug Handbook
 
 Handbook · Clinical reference
 
@@ -8833,7 +8833,7 @@ Canonical: https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Pocket Guide Diagnostic Tests — Details & Drive Access
+- ›Pocket Guide Diagnostic Tests
 
 Book · Year 4
 
@@ -8891,7 +8891,7 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-medicine-handbook/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Pocket Handbook of Small Animal Medicine — Telegram Download
+- ›Pocket Handbook of Small Animal Medicine
 
 Handbook · Clinical reference
 
@@ -8941,7 +8941,7 @@ Canonical: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-my
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Poultry Metabolic Disorders and Mycotoxins — Details & Drive Access
+- ›Poultry Metabolic Disorders and Mycotoxins
 
 Book · Year 4
 
@@ -8995,7 +8995,7 @@ Canonical: https://notes.thatvetguy.net/books/prescott-s-microbiology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Prescott’s Microbiology — Details & Drive Access
+- ›Prescott’s Microbiology
 
 Book · Year 2
 
@@ -9039,7 +9039,7 @@ Canonical: https://notes.thatvetguy.net/books/primary-veterinary-anatomy/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Primary Veterinary Anatomy — Telegram Download
+- ›Primary Veterinary Anatomy
 
 Book · Year 1
 
@@ -9089,7 +9089,7 @@ Canonical: https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Principles of Animal Nutrition and Feed Technology — Details & Drive Access
+- ›Principles of Animal Nutrition and Feed Technology
 
 Book · Year 2
 
@@ -9141,7 +9141,7 @@ Canonical: https://notes.thatvetguy.net/books/principles-of-meat-science-forrest
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Principles of Meat Science — Forrest — Details & Drive Access
+- ›Principles of Meat Science — Forrest
 
 Symbolic cover
 Book · Year 3
@@ -9186,7 +9186,7 @@ Canonical: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-e
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Reproduction in Farm Animals,7th Edition by Hafeez — Details & Drive Access
+- ›Reproduction in Farm Animals,7th Edition by Hafeez
 
 Book · Year 4
 
@@ -9232,7 +9232,7 @@ Canonical: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Restraint and Handling of Wild and Domestic Animals — Details & Drive Access
+- ›Restraint and Handling of Wild and Domestic Animals
 
 Book · Year 1
 
@@ -9284,7 +9284,7 @@ Canonical: https://notes.thatvetguy.net/books/review-animal-science/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Review of Animal Science — Telegram Download
+- ›Review of Animal Science
 
 Symbolic cover
 Study book · Exam revision
@@ -9325,7 +9325,7 @@ Canonical: https://notes.thatvetguy.net/books/review-veterinary-science/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Review of Veterinary Science — Telegram Download
+- ›Review of Veterinary Science
 
 Symbolic cover
 Study book · Exam revision
@@ -9366,7 +9366,7 @@ Canonical: https://notes.thatvetguy.net/books/ruminant-surgery/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ruminant Surgery — Details & Drive Access
+- ›Ruminant Surgery
 
 Book · Year 4
 
@@ -9416,7 +9416,7 @@ Canonical: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Sembulingam Medical Physiology 6th-edition — Details & Drive Access
+- ›Sembulingam Medical Physiology 6th-edition
 
 Book · Year 1
 
@@ -9464,7 +9464,7 @@ Canonical: https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Skin Diseases of Exotic Pets — Details & Drive Access
+- ›Skin Diseases of Exotic Pets
 
 Book · Year 4
 
@@ -9518,7 +9518,7 @@ Canonical: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterina
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition — Details & Drive Access
+- ›Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition
 
 Book · Year 4
 
@@ -9564,7 +9564,7 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Small Animal ECGs, An Introductory Guide, 3rd Edition — Details & Drive Access
+- ›Small Animal ECGs, An Introductory Guide, 3rd Edition
 
 Book · Year 4
 
@@ -9610,7 +9610,7 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Small Animal Internal Medicine 5th Edition — Details & Drive Access
+- ›Small Animal Internal Medicine 5th Edition
 
 Book · Year 4
 
@@ -9660,7 +9660,7 @@ Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-t
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Small Animal Surgery, 5th Edition - Theresa Fossum — Details & Drive Access
+- ›Small Animal Surgery, 5th Edition - Theresa Fossum
 
 Book · Year 4
 
@@ -9706,7 +9706,7 @@ Canonical: https://notes.thatvetguy.net/books/tanuvas-qbank/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›TANUVAS All-Subjects Question Bank — Telegram Download
+- ›TANUVAS All-Subjects Question Bank
 
 Symbolic cover
 Question bank · Exam revision
@@ -9747,7 +9747,7 @@ Canonical: https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitolo
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Text Book of Veterinary Parasitology - Bhatia — Details & Drive Access
+- ›Text Book of Veterinary Parasitology - Bhatia
 
 Symbolic cover
 Book · Year 3
@@ -9792,7 +9792,7 @@ Canonical: https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-b
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Text Book on Animal Genetics and Breeding — BVSc Reading Guide
+- ›Text Book on Animal Genetics and Breeding
 
 Symbolic cover
 Book · Year 2
@@ -9839,7 +9839,7 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-l
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Animal Husbandry and Livestock Extension — Details & Drive Access
+- ›Textbook of Animal Husbandry and Livestock Extension
 
 Book · Year 3
 
@@ -9887,7 +9887,7 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-me
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Clinical Veterinary Medicine — Details & Drive Access
+- ›Textbook of Clinical Veterinary Medicine
 
 Book · Year 4
 
@@ -9937,7 +9937,7 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Veterinary Anatomy — BVSc Reading Guide
+- ›Textbook of Veterinary Anatomy
 
 Book · Year 1
 
@@ -9983,7 +9983,7 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-me
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Veterinary Internal Medicine — Details & Drive Access
+- ›Textbook of Veterinary Internal Medicine
 
 Book · Year 4
 
@@ -10042,7 +10042,7 @@ Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Veterinary Pathology — Details & Drive Access
+- ›Textbook of Veterinary Pathology
 
 Book · Year 2
 
@@ -10086,7 +10086,7 @@ Canonical: https://notes.thatvetguy.net/books/necropsy-book-john-king/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›The Necropsy Book — Details & Drive Access
+- ›The Necropsy Book
 
 Book · Year 2
 
@@ -10134,7 +10134,7 @@ Canonical: https://notes.thatvetguy.net/books/ultimate-vet-handbook/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ultimate Vet Handbook — Telegram Download
+- ›Ultimate Vet Handbook
 
 Symbolic cover
 Handbook · Clinical reference
@@ -10177,7 +10177,7 @@ Canonical: https://notes.thatvetguy.net/books/vaccination-schedule/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Vaccination Schedule of All Animals — Telegram Download
+- ›Vaccination Schedule of All Animals
 
 Symbolic cover
 Reference sheet · Clinical reference
@@ -10220,7 +10220,7 @@ Canonical: https://notes.thatvetguy.net/books/vendex/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›VENDEX: The Fundamental Veterinary Drug Index — Telegram Download
+- ›VENDEX: The Fundamental Veterinary Drug Index
 
 Symbolic cover
 Handbook · Clinical reference
@@ -10263,7 +10263,7 @@ Canonical: https://notes.thatvetguy.net/books/vet-scorer/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Vet Scorer 2022 — 1st Edition — Telegram Download
+- ›Vet Scorer 2022 — 1st Edition
 
 Question bank · Exam revision
 
@@ -10307,7 +10307,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-ani
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition — Details & Drive Access
+- ›Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition
 
 Book · Year 1
 
@@ -10351,7 +10351,7 @@ Canonical: https://notes.thatvetguy.net/books/navsari-drug-index/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Drug Index by NAVSARI — Telegram Download
+- ›Veterinary Drug Index by NAVSARI
 
 Symbolic cover
 Handbook · Clinical reference
@@ -10394,7 +10394,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Epidemiology — Details & Drive Access
+- ›Veterinary Epidemiology
 
 Book · Year 3
 
@@ -10442,7 +10442,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-extension-education-grk
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Extension Education GRK Sharma — Details & Drive Access
+- ›Veterinary Extension Education GRK Sharma
 
 Book · Year 3
 
@@ -10486,7 +10486,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-medicine/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Medicine — Details & Drive Access
+- ›Veterinary Medicine
 
 Book · Year 4
 
@@ -10536,7 +10536,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-microbiology-and-microb
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Microbiology and Microbial Disease — BVSc Reading Guide
+- ›Veterinary Microbiology and Microbial Disease
 
 Book · Year 2
 
@@ -10582,7 +10582,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-mycology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Mycology — Details & Drive Access
+- ›Veterinary Mycology
 
 Book · Year 2
 
@@ -10634,7 +10634,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Obstetrics and Genital disease — Details & Drive Access
+- ›Veterinary Obstetrics and Genital disease
 
 Book · Year 4
 
@@ -10688,7 +10688,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-parasitology/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Parasitology — BVSc Reading Guide
+- ›Veterinary Parasitology
 
 Book · Year 3
 
@@ -10734,7 +10734,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-practice-handbook/
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Practice Handbook — Telegram Download
+- ›Veterinary Practice Handbook
 
 Symbolic cover
 Handbook · Clinical reference
@@ -10781,7 +10781,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstet
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Reproduction and Obstetrics — Details & Drive Access
+- ›Veterinary Reproduction and Obstetrics
 
 Book · Year 4
 
@@ -10836,7 +10836,7 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-b
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary surgery and radiology by s.k.nandi — Details & Drive Access
+- ›Veterinary surgery and radiology by s.k.nandi
 
 Book · Year 4
 

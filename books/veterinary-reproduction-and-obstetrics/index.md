@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Reproduction and Obstetrics — Details & Drive Access
+- ›Veterinary Reproduction and Obstetrics
 
 Book · Year 4
 

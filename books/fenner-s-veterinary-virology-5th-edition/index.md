@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Fenner’s Veterinary Virology 5th edition — Details & Drive Access
+- ›Fenner’s Veterinary Virology 5th edition
 
 Book · Year 2
 

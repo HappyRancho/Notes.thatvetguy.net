@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Text Book on Animal Genetics and Breeding — BVSc Reading Guide
+- ›Text Book on Animal Genetics and Breeding
 
 Symbolic cover
 Book · Year 2

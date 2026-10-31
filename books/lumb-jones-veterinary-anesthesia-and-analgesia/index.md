@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Lumb & Jones Veterinary Anesthesia and Analgesia — Details & Drive Access
+- ›Lumb & Jones Veterinary Anesthesia and Analgesia
 
 Book · Year 4
 

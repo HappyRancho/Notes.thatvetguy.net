@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Animal Husbandry and Livestock Extension — Details & Drive Access
+- ›Textbook of Animal Husbandry and Livestock Extension
 
 Book · Year 3
 

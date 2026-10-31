@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition — Details & Drive Access
+- ›Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition
 
 Book · Year 1
 

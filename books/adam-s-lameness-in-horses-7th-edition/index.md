@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Adam's Lameness in Horses 7th Edition — Details & Drive Access
+- ›Adam's Lameness in Horses 7th Edition
 
 Book · Year 4
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008) — Details & Drive Access
+- ›Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)
 
 Book · Year 3
 

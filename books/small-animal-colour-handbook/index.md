@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Colour Handbook of Small Animal Emergency and Critical Care — Telegram Download
+- ›Colour Handbook of Small Animal Emergency and Critical Care
 
 Handbook · Clinical reference
 

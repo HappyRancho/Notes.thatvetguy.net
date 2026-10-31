@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Colour Atlas of Veterinary Anatomy - The Ruminants — Details & Drive Access
+- ›Colour Atlas of Veterinary Anatomy - The Ruminants
 
 Book · Year 1
 

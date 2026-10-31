@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Handbook for Veterinary Clinician — Telegram Download
+- ›Handbook for Veterinary Clinician
 
 Symbolic cover
 Handbook · Clinical reference

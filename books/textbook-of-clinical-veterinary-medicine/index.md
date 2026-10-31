@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Clinical Veterinary Medicine — Details & Drive Access
+- ›Textbook of Clinical Veterinary Medicine
 
 Book · Year 4
 

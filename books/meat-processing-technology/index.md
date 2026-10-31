@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Meat Processing Technology — Details & Drive Access
+- ›Meat Processing Technology
 
 Book · Year 3
 

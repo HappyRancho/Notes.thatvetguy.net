@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Animal Science Refresher — Telegram Download
+- ›Animal Science Refresher
 
 Study book · Exam revision
 

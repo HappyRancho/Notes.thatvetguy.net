@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Guyton and Hall Textbook of Medical Physiology — Details & Drive Access
+- ›Guyton and Hall Textbook of Medical Physiology
 
 Book · Year 1
 

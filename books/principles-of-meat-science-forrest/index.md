@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Principles of Meat Science — Forrest — Details & Drive Access
+- ›Principles of Meat Science — Forrest
 
 Symbolic cover
 Book · Year 3

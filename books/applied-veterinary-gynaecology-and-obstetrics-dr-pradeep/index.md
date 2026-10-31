@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep — Details & Drive Access
+- ›Applied Veterinary Gynaecology and Obstetrics Dr Pradeep
 
 Book · Year 4
 

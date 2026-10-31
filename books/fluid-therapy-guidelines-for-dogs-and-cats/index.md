@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Fluid therapy guidelines for dogs and cats — Details & Drive Access
+- ›Fluid therapy guidelines for dogs and cats
 
 Clinical guide · Year 4
 

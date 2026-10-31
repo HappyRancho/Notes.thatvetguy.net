@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›NDRI Veterinary Question Bank — Telegram Download
+- ›NDRI Veterinary Question Bank
 
 Symbolic cover
 Question bank · Exam revision

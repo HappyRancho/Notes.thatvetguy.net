@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›A Textbook of Animal Husbandry — BVSc Reading Guide
+- ›A Textbook of Animal Husbandry
 
 Book · Year 1
 

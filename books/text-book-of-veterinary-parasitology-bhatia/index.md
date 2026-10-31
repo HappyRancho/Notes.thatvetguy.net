@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Text Book of Veterinary Parasitology - Bhatia — Details & Drive Access
+- ›Text Book of Veterinary Parasitology - Bhatia
 
 Symbolic cover
 Book · Year 3

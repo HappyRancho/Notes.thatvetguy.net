@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition — Details & Drive Access
+- ›Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition
 
 Book · Year 4
 

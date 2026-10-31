@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Small Animal ECGs, An Introductory Guide, 3rd Edition — Details & Drive Access
+- ›Small Animal ECGs, An Introductory Guide, 3rd Edition
 
 Book · Year 4
 

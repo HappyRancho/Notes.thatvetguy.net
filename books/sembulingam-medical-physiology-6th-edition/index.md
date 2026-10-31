@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Sembulingam Medical Physiology 6th-edition — Details & Drive Access
+- ›Sembulingam Medical Physiology 6th-edition
 
 Book · Year 1
 

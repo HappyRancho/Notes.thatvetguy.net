@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›A Textbook of Veterinary General Pathology — Details & Drive Access
+- ›A Textbook of Veterinary General Pathology
 
 Book · Year 2
 

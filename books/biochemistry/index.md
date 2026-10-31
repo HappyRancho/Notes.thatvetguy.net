@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Biochemistry — BVSc Reading Guide
+- ›Biochemistry
 
 Book · Year 2
 

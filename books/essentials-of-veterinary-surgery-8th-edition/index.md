@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Veterinary Surgery, 8th Edition — Details & Drive Access
+- ›Essentials of Veterinary Surgery, 8th Edition
 
 Book · Year 4
 

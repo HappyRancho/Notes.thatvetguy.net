@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Mycology — Details & Drive Access
+- ›Veterinary Mycology
 
 Book · Year 2
 

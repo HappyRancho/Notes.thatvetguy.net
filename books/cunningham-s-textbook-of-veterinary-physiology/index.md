@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Cunningham’s Textbook of Veterinary Physiology — Details & Drive Access
+- ›Cunningham’s Textbook of Veterinary Physiology
 
 Book · Year 1
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Laboratory Animal and Exotic Pet Medicine Principles and Procedures — Details & Drive Access
+- ›Laboratory Animal and Exotic Pet Medicine Principles and Procedures
 
 Book · Year 4
 

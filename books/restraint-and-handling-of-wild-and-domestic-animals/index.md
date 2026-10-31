@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Restraint and Handling of Wild and Domestic Animals — Details & Drive Access
+- ›Restraint and Handling of Wild and Domestic Animals
 
 Book · Year 1
 

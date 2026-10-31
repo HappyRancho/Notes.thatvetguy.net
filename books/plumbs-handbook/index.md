@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Plumb’s Veterinary Drug Handbook — Telegram Download
+- ›Plumb’s Veterinary Drug Handbook
 
 Handbook · Clinical reference
 

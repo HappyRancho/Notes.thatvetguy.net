@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Reproduction in Farm Animals,7th Edition by Hafeez — Details & Drive Access
+- ›Reproduction in Farm Animals,7th Edition by Hafeez
 
 Book · Year 4
 

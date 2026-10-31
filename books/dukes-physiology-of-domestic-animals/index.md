@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Dukes’ Physiology of Domestic Animals — Details & Drive Access
+- ›Dukes’ Physiology of Domestic Animals
 
 Book · Year 1
 

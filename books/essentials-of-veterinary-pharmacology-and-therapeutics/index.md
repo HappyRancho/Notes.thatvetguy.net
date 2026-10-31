@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Veterinary Pharmacology and Therapeutics — Details & Drive Access
+- ›Essentials of Veterinary Pharmacology and Therapeutics
 
 Book · Year 3
 

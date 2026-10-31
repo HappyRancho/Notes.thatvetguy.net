@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Medical Pharmacology - K.D.Tripathi — Details & Drive Access
+- ›Essentials of Medical Pharmacology - K.D.Tripathi
 
 Book · Year 3
 

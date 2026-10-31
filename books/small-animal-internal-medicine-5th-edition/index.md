@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Small Animal Internal Medicine 5th Edition — Details & Drive Access
+- ›Small Animal Internal Medicine 5th Edition
 
 Book · Year 4
 

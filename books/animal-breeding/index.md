@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Animal breeding — Details & Drive Access
+- ›Animal breeding
 
 Symbolic cover
 Book · Year 2

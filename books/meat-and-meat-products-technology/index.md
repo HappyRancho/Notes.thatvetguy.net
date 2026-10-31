@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Meat and Meat Products Technology — BVSc Reading Guide
+- ›Meat and Meat Products Technology
 
 Symbolic cover
 Book · Year 3

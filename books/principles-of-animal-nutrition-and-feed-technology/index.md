@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Principles of Animal Nutrition and Feed Technology — Details & Drive Access
+- ›Principles of Animal Nutrition and Feed Technology
 
 Book · Year 2
 

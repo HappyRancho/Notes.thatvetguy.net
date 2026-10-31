@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Pocket Handbook of Small Animal Medicine — Telegram Download
+- ›Pocket Handbook of Small Animal Medicine
 
 Handbook · Clinical reference
 

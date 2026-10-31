@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Manual of Canine and Feline Cardiology — Details & Drive Access
+- ›Manual of Canine and Feline Cardiology
 
 Book · Year 4
 

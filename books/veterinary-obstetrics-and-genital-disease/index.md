@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Obstetrics and Genital disease — Details & Drive Access
+- ›Veterinary Obstetrics and Genital disease
 
 Book · Year 4
 

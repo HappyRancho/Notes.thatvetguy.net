@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Drug Dose — Wall Reference — Telegram Download
+- ›Drug Dose — Wall Reference
 
 Symbolic cover
 Reference sheet · Clinical reference

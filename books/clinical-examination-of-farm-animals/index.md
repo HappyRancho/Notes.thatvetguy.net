@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Clinical Examination of Farm Animals — Details & Drive Access
+- ›Clinical Examination of Farm Animals
 
 Book · Year 4
 

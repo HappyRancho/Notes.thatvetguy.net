@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Epidemiology — Details & Drive Access
+- ›Veterinary Epidemiology
 
 Book · Year 3
 

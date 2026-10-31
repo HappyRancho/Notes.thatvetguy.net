@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary surgery and radiology by s.k.nandi — Details & Drive Access
+- ›Veterinary surgery and radiology by s.k.nandi
 
 Book · Year 4
 

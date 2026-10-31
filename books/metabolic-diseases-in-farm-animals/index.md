@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Metabolic Diseases in Farm Animals — Details & Drive Access
+- ›Metabolic Diseases in Farm Animals
 
 Book · Year 4
 

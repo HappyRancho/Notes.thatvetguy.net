@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Primary Veterinary Anatomy — Telegram Download
+- ›Primary Veterinary Anatomy
 
 Book · Year 1
 

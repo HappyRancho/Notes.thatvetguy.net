@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Gracey's Meat Hygiene 11Edition — Details & Drive Access
+- ›Gracey's Meat Hygiene 11Edition
 
 Book · Year 3
 

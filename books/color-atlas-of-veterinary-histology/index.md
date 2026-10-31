@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Color Atlas of Veterinary Histology — Details & Drive Access
+- ›Color Atlas of Veterinary Histology
 
 Book · Year 1
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Livestock Production Management — BVSc Reading Guide
+- ›Livestock Production Management
 
 Book · Year 1
 

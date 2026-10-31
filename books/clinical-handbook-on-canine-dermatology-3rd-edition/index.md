@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Clinical Handbook on Canine Dermatology 3rd Edition — Details & Drive Access
+- ›Clinical Handbook on Canine Dermatology 3rd Edition
 
 Book · Year 4
 

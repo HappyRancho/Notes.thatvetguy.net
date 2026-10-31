@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Vet Scorer 2022 — 1st Edition — Telegram Download
+- ›Vet Scorer 2022 — 1st Edition
 
 Question bank · Exam revision
 

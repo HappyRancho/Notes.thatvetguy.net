@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Pocket Guide Diagnostic Tests — Details & Drive Access
+- ›Pocket Guide Diagnostic Tests
 
 Book · Year 4
 

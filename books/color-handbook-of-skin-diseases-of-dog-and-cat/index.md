@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Color handbook of Skin Diseases of Dog and Cat — Details & Drive Access
+- ›Color handbook of Skin Diseases of Dog and Cat
 
 Book · Year 4
 

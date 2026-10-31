@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ultimate Vet Handbook — Telegram Download
+- ›Ultimate Vet Handbook
 
 Symbolic cover
 Handbook · Clinical reference

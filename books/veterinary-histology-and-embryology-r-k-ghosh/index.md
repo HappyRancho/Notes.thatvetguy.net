@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Essentials of Veterinary Histology & Embryology — Telegram Download
+- ›Essentials of Veterinary Histology & Embryology
 
 Book · Year 1
 

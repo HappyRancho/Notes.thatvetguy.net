@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ananthanarayan and Paniker’s Textbook of Microbiology — Details & Drive Access
+- ›Ananthanarayan and Paniker’s Textbook of Microbiology
 
 Book · Year 2
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Pathways to Pregnancy and Parturition — Details & Drive Access
+- ›Pathways to Pregnancy and Parturition
 
 Book · Year 4
 

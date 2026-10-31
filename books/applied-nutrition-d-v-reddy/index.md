@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals — Details & Drive Access
+- ›Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals
 
 Book · Year 2
 

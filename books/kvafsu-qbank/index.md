@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›KVAFSU Question Bank — Telegram Download
+- ›KVAFSU Question Bank
 
 Symbolic cover
 Question bank · Exam revision

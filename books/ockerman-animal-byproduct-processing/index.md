@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Ockerman Animal Byproduct Processing — Details & Drive Access
+- ›Ockerman Animal Byproduct Processing
 
 Book · Year 3
 

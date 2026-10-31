@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Practice Handbook — Telegram Download
+- ›Veterinary Practice Handbook
 
 Symbolic cover
 Handbook · Clinical reference

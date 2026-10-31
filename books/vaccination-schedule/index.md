@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Vaccination Schedule of All Animals — Telegram Download
+- ›Vaccination Schedule of All Animals
 
 Symbolic cover
 Reference sheet · Clinical reference

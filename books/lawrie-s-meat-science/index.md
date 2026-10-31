@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Lawrie's Meat Science — Details & Drive Access
+- ›Lawrie's Meat Science
 
 Book · Year 3
 

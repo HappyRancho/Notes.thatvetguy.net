@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Farm Animal Surgery — BVSc Reading Guide
+- ›Farm Animal Surgery
 
 Book · Year 4
 

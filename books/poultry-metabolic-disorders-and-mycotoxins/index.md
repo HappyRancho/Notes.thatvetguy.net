@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Poultry Metabolic Disorders and Mycotoxins — Details & Drive Access
+- ›Poultry Metabolic Disorders and Mycotoxins
 
 Book · Year 4
 

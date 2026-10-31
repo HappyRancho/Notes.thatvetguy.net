@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Animal Nutrition — Details & Drive Access
+- ›Animal Nutrition
 
 Book · Year 2
 

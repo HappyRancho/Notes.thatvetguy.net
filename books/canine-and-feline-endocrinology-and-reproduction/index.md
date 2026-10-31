@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Canine and Feline Endocrinology and Reproduction — Details & Drive Access
+- ›Canine and Feline Endocrinology and Reproduction
 
 Book · Year 4
 

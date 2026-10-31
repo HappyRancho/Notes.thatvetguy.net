@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Skin Diseases of Exotic Pets — Details & Drive Access
+- ›Skin Diseases of Exotic Pets
 
 Book · Year 4
 

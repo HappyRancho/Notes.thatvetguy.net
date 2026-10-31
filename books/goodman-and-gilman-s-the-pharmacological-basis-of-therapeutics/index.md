@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Goodman and Gilman’s The Pharmacological Basis of Therapeutics — Details & Drive Access
+- ›Goodman and Gilman’s The Pharmacological Basis of Therapeutics
 
 Book · Year 3
 

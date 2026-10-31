@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Veterinary Drug Index by NAVSARI — Telegram Download
+- ›Veterinary Drug Index by NAVSARI
 
 Symbolic cover
 Handbook · Clinical reference

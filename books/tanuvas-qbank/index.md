@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›TANUVAS All-Subjects Question Bank — Telegram Download
+- ›TANUVAS All-Subjects Question Bank
 
 Symbolic cover
 Question bank · Exam revision

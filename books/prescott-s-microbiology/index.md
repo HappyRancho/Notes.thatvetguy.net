@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Prescott’s Microbiology — Details & Drive Access
+- ›Prescott’s Microbiology
 
 Book · Year 2
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›The Necropsy Book — Details & Drive Access
+- ›The Necropsy Book
 
 Book · Year 2
 

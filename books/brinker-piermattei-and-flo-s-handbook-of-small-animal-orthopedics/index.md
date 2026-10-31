@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics — Details & Drive Access
+- ›Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics
 
 Book · Year 4
 

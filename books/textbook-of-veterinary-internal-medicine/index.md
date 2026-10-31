@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Textbook of Veterinary Internal Medicine — Details & Drive Access
+- ›Textbook of Veterinary Internal Medicine
 
 Book · Year 4
 

@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›VENDEX: The Fundamental Veterinary Drug Index — Telegram Download
+- ›VENDEX: The Fundamental Veterinary Drug Index
 
 Symbolic cover
 Handbook · Clinical reference

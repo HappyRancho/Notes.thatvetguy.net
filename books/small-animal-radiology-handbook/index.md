@@ -2,7 +2,7 @@
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
-- ›Handbook of Small Animal Radiology and Ultrasound — Telegram Download
+- ›Handbook of Small Animal Radiology and Ultrasound
 
 Handbook · Clinical reference
 
