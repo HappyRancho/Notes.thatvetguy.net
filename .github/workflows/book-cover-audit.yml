@@ -6,7 +6,7 @@ permissions:
   contents: write
 jobs:
   covers:
-    if: contains(github.event.head_commit.message, '[cover-source-audit]')
+    if: contains(github.event.head_commit.message, '[cover-source-audit]') || contains(github.event.head_commit.message, '[cover-online]')
     runs-on: ubuntu-latest
     timeout-minutes: 18
     steps:
@@ -16,11 +16,15 @@ jobs:
           python-version: '3.12'
       - run: pip install pillow requests pymupdf
       - run: python3 scripts/audit-book-covers.py
+        if: contains(github.event.head_commit.message, '[cover-source-audit]')
+      - run: python3 scripts/collect-online-covers.py
+        if: contains(github.event.head_commit.message, '[cover-online]')
       - name: Save source candidates for review
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/books/audit/ data/book-cover-audit.json data/book-cover-audit-index.json
+          git add assets/books/ data/book-cover-audit.json data/book-cover-audit-index.json
+          if [ -f data/cover-online-candidates.json ]; then git add data/cover-online-candidates.json; fi
           git commit -m 'Record PDF and online cover candidates for visual review [generated]'
           git pull --rebase origin homepage-approved-mockups
           git push origin HEAD:homepage-approved-mockups
