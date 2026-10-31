@@ -16,6 +16,7 @@ def trail(path,title,pages=None):
    if name:rows.append((name,parent))
  current=LABELS.get(path,title)
  if re.fullmatch(r'/bvsc/year-[1-4]/',path):current={'1':'1st','2':'2nd','3':'3rd','4':'4th'}[parts[1][-1]]+' Year'
+ elif parts[0]=='books' and len(parts)>1:current=re.sub(r' — (Telegram Download|Details & Drive Access|BVSc Reading Guide)$','',title)
  elif parts[-1]=='syllabus':current='Syllabus Checklist'
  elif parts[-1]=='practicals':current='Practical Vault'
  elif parts[-1]=='roadmap':current='Year Roadmap'

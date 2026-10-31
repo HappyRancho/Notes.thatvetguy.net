@@ -18,6 +18,7 @@ assert all(any(part.lower().strip() in ['book','books'] for part in f['path'].sp
 coverage=Counter();unavailable=[]
 for b in books:
  p=ROOT/b['page'].strip('/')/'index.html';raw=p.read_text();d=Document(raw)
+ assert 'A study note' not in raw
  assert d.h1==1 and d.canonical==['https://notes.thatvetguy.net'+b['page']]
  assert p.with_suffix('.md').exists() and b['page'] in (ROOT/'llms.txt').read_text()
  assert any(r['url'].split('#')[0]==b['page'] for r in search)==bool(b['primaryUrl']),(b['id'],'search availability mismatch')
