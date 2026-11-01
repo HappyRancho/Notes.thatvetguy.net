@@ -14,7 +14,7 @@ try{
     await tile.click();const panel=p.locator('#'+option);assert(await panel.isVisible(),path+option+' hidden');
     assert(!await panel.locator('.reader-unit[open]').count(),path+' first unit auto-expanded');
     assert(await panel.evaluate(e=>e.getBoundingClientRect().bottom<=document.querySelector('.subject-practical-link').getBoundingClientRect().top),path+' panel below Vault');
-    await p.waitForTimeout(50);assert(await panel.locator(':scope > summary').evaluate(e=>{const r=e.getBoundingClientRect();const header=document.querySelector('.rx-header')?.getBoundingClientRect();return r.top>=(header?.bottom||0)-1&&r.bottom<innerHeight-85}),path+' expansion not brought into view');
+    await p.waitForTimeout(50);assert(await panel.locator(':scope > summary').evaluate(e=>{const r=e.getBoundingClientRect();const header=document.querySelector('.rx-header')?.getBoundingClientRect();return r.top>=(header?.bottom||0)-1&&r.bottom<innerHeight-85}),path+' expansion not brought into view at '+width+'px: '+JSON.stringify(await panel.locator(':scope > summary').evaluate(e=>({top:e.getBoundingClientRect().top,bottom:e.getBoundingClientRect().bottom,header:document.querySelector('.rx-header')?.getBoundingClientRect().bottom,scrollY}))));
     if(await panel.locator('.reader-unit').count()){await panel.locator('.reader-unit>summary').first().click();assert(await panel.locator('.file-row:visible').count()>0,'Unit will not open');await tile.click();await tile.click();assert(!await panel.locator('.reader-unit[open]').count(),'Reopened notes keep first unit open');}
    }
    await p.goto(base+path+'syllabus/');assert(!await p.locator('.syllabus-unit[open]').count(),path+' checklist starts open');
