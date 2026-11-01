@@ -158,3 +158,23 @@ html{scroll-padding-top:165px}.mockup-home [id]{scroll-margin-top:165px}
  .mockup-home{padding-bottom:100px}
  .mockup-home .bottom-nav{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));width:min(540px,calc(100% - 24px));left:50%;right:auto;transform:translateX(-50%);bottom:12px}
 }
+
+/* Real book covers keep both Objective drawers recognisable at a glance. */
+.rx-objective .rx-resource-cover{display:flex;align-items:center;justify-content:center;flex:0 0 39px;width:39px;height:54px;background:transparent}
+.rx-objective .rx-resource-cover img{display:block;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 2px 2px #101b4326);border-radius:2px}
+.rx-objective .rx-resource-row{gap:10px;padding-block:9px}
+@media(min-width:600px){.rx-objective .rx-resource-cover{flex-basis:43px;width:43px;height:59px}}
+/* A gently highlighted revision corner, with less nested padding and blank height. */
+.rx-backbench{border:1px solid color-mix(in srgb,var(--surface) 45%,#dfba50);background:linear-gradient(135deg,color-mix(in srgb,var(--surface) 90%,#ffdf70),var(--surface) 65%);box-shadow:0 3px 16px #c9a43914;align-self:start}
+.rx-backbench .rx-section-heading{gap:10px;margin-bottom:10px}
+.rx-backbench .rx-section-heading h2{font-size:22px;margin-top:0;margin-bottom:4px}
+.rx-backbench .rx-section-heading .rx-hand{font-size:18px;line-height:1.25}
+.rx-backbench .rx-heading-icon{width:36px;height:40px}
+.rx-backbench .rx-heading-icon>.icon-svg{width:34px;height:34px}
+.rx-backbench .rx-revision-card{grid-template-columns:minmax(0,.55fr) minmax(0,1.45fr);min-height:0;gap:10px;padding:11px;border-radius:12px;background:var(--rx-tab);color:var(--text)}
+.rx-backbench .rx-phone-art{width:100%;max-width:108px;justify-self:center}
+.rx-backbench .rx-revision-card h3{font-size:19px;line-height:1.15;margin-bottom:7px}
+.rx-backbench .rx-revision-card h3 mark{background:transparent;color:inherit}
+.rx-backbench .rx-revision-card p{font-size:13px;line-height:1.4;margin-bottom:9px;color:var(--muted)}
+.rx-backbench .rx-revision-card .rx-button{min-height:48px;padding:8px 14px;font-size:14px;width:auto;display:inline-flex}
+@media(min-width:600px){.rx-backbench .rx-section-heading h2{font-size:24px}.rx-backbench .rx-section-heading .rx-hand{font-size:20px}.rx-backbench .rx-revision-card{padding:14px;gap:14px}.rx-backbench .rx-revision-card h3{font-size:22px}.rx-backbench .rx-revision-card p{font-size:14px}}
