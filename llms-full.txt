@@ -7790,11 +7790,13 @@ CanadaNEB certification → provincial registrationRead answerClose answer+−
 
 - 1 · Start with the NEB: Check how your qualification is assessed and which examinations or recognised equivalencies apply. The Canadian process should not be treated as identical to a US state licence. If Canadian licensure is your goal, ICVA directs NAVLE applicants to the Canadian NEB process. Choose the intended province too, so you can read its registration requirements alongside the national examination pathway. Do not build the plan solely from a friend’s US experience.
 
-- 2 · Understand the sequence: For the applicable non-accredited-graduate pathway, review BCSE, NAVLE and the clinical assessment requirements, including PSA/CPE where required. Use the current NEB rules for ordering and eligibility. The NEB overview states that non-accredited graduates must pass BCSE before NAVLE or CPE eligibility. Check the separate clinical-exam guidance for your remaining prerequisites and waiting-list process. Avoid non-refundable travel before receiving the appropriate confirmation. Examination availability can shape your budget as much as the published fee.
+- 2 · Understand the sequence: For the applicable non-accredited-graduate pathway, review BCSE, NAVLE and the clinical assessment requirements, including CPE prerequisites and surgical-experience documentation. Use the current NEB rules for ordering and eligibility. The NEB overview states that non-accredited graduates must pass BCSE before NAVLE or CPE eligibility. Check the separate clinical-exam guidance for your remaining prerequisites and waiting-list process. Avoid non-refundable travel before receiving the appropriate confirmation. Examination availability can shape your budget as much as the published fee.
+
+- 2026 update: The Manitoba regulator reports that PSA ceased to be an NEB requirement in June 2026. Current NEB CPE registration guidance lists BCSE, the application/payment process and applicable surgical-experience documentation. Older PSA-based checklists are still online. Use the current NEB instructions and check provincial supervision requirements separately.
 
 - 3 · Check the province: The NEB Certificate of Qualification and registration with the intended provincial regulator are distinct stages. Language, local registration and immigration requirements also need checking. Keep certification, provincial registration and work permission as separate rows in your plan. Ask which documents must come directly from your university or regulator and how current they must be. An employer’s interest is useful, but it is not a substitute for confirmation that you can legally perform the advertised duties.
 
-[CVMA/NEB: examinations and certification](#source-canada-neb)
+[CVMA/NEB: examinations and certification](#source-canada-neb)[NEB: current CPE requirements](#source-canada-cpe)[MVMA: June 2026 pathway update](#source-canada-update)
 
 Australia & New ZealandRecognised qualification or AVE routeRead answerClose answer+−
 
@@ -7971,6 +7973,14 @@ Institution-specific entry routes, eligibility and counselling. Current prospect
 - [CVMA — examination pathway for international graduates](https://www.canadianveterinarians.net/accreditation-and-national-examining-board/national-examining-board/policies-and-procedures/overview-and-availability-of-the-examinations/)
 
 Canadian NEB requirements and examinations; provincial registration is a separate step.
+
+- [CVMA/NEB — current CPE registration and examination manual](https://www.canadianveterinarians.net/accreditation-and-national-examining-board/national-examining-board/clinical-proficiency-examination-cpe/exam-information-and-manual-of-administration/)
+
+Current clinical-examination prerequisites, surgical-experience documentation and the 2026 administration manual. Checked 1 November 2026.
+
+- [MVMA — NEB pathway and June 2026 PSA change](https://www.mvma.ca/neb_pathway/)
+
+Manitoba regulator explains removal of the NEB PSA requirement in June 2026 and separate provincial supervision rules. Checked 1 November 2026.
 
 [Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)
 
