@@ -1,0 +1,24 @@
+name: Inspect primary Rx Notes Drive
+on:
+  push:
+    branches: [homepage-approved-mockups]
+permissions:
+  contents: write
+jobs:
+  inventory:
+    if: contains(github.event.head_commit.message, '[primary-drive-audit]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/inspect-primary-drive.py
+      - name: Record inspected primary inventory
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/primary-drive-inventory.json
+          git commit -m 'Record primary storage inventory [generated]'
+          git push origin HEAD:homepage-approved-mockups
