@@ -4,7 +4,6 @@
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Compiled Question Bank by Dhruv N Desai
 
-Symbolic cover
 Study book · Exam revision
 
 # Compiled Question Bank by Dhruv N Desai
@@ -27,7 +26,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 

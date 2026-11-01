@@ -1,6 +1,6 @@
 {
   "/": {
-    "sha256": "84e1f469a7fa83596b65bd956d42c6b25ad1eaff7edcdf0e385ca49a5c4de408",
+    "sha256": "cfc3e155af36a8c4353259b61183adfd9b57c72f4e0495ba590734e5dd3047cd",
     "modified": "2026-11-01"
   },
   "/bvsc/": {
@@ -132,7 +132,7 @@
     "modified": "2026-10-28"
   },
   "/objective/": {
-    "sha256": "11cd3becc73fa8c0c4315df7cabbf6f46148f672761ab910cb92a232c2f68cbd",
+    "sha256": "b0c12ec4100319c822c8d2be2f7590be14fc09856aa1115acd8f3fd846455ea2",
     "modified": "2026-11-01"
   },
   "/study-tools/": {
@@ -172,7 +172,7 @@
     "modified": "2026-11-01"
   },
   "/books/": {
-    "sha256": "113f5e63051a6e8b797e0251741b550ec6e7809d1b3f156769103d17dd10efc7",
+    "sha256": "eb48736c72fc0bde10779e59696c5e2be05e9a51042409a3efd5d6437676a2e7",
     "modified": "2026-11-01"
   },
   "/books/a-textbook-of-animal-husbandry/": {
@@ -252,7 +252,7 @@
     "modified": "2026-11-01"
   },
   "/books/dhruv-desai/": {
-    "sha256": "115f901be44219751bd228cdf2f4f72c07bc88c67aa48c3e50ca5f8b308554bf",
+    "sha256": "57a94dcd9566ae7c00dfbe39c489112cf0e66576e389992c745d772a5db5dc27",
     "modified": "2026-11-01"
   },
   "/books/cunningham-s-textbook-of-veterinary-physiology/": {

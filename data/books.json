@@ -1150,14 +1150,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/symbolic-dhruv-desai.webp",
-      "width": 500,
-      "height": 750,
-      "kind": "symbolic-cover",
-      "source": "Rx Notes original symbolic artwork",
-      "title": "Compiled Question Bank by Dhruv N Desai",
-      "author": "Dhruv N Desai",
-      "fingerprint": "5b114f8f02222ed9b5df27aebd6764bd9dbb9b64cf4b58eb02dad32cf167eba7"
+      "path": "/assets/books/owner-dhruv-desai.webp",
+      "width": 520,
+      "height": 740,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 1000088071.png",
+      "reviewed": "2026-11-01",
+      "review": "Cover identifies Dhruv N Desai and Question Bank, 2015, second edition.",
+      "sha256": "4c380b0926119d65652e962041a53604be4cda817ccd674abc5f39307e440943"
     },
     "page": "/books/dhruv-desai/",
     "primaryDrive": {
