@@ -756,6 +756,16 @@
       "reviewed": "2026-11-01",
       "review": "Owner-supplied cover visually matched to this book title.",
       "sha256": "bf76841e3d29c5ca7a96c6a7a0d8927bf6605ac408e67dbbf10470147cf488a6"
+    },
+    "dhruv-desai": {
+      "path": "/assets/books/owner-dhruv-desai.webp",
+      "width": 520,
+      "height": 740,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 1000088071.png",
+      "reviewed": "2026-11-01",
+      "review": "Cover identifies Dhruv N Desai and Question Bank, 2015, second edition.",
+      "sha256": "4c380b0926119d65652e962041a53604be4cda817ccd674abc5f39307e440943"
     }
   },
   "replacePreviews": [
