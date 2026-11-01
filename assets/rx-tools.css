@@ -408,6 +408,85 @@ html{scroll-padding-top:165px}.mockup-home [id]{scroll-margin-top:165px}
 .rx-backbench .rx-revision-card .rx-button{min-height:48px;padding:8px 14px;font-size:14px;width:auto;display:inline-flex}
 @media(min-width:600px){.rx-backbench .rx-section-heading h2{font-size:24px}.rx-backbench .rx-section-heading .rx-hand{font-size:20px}.rx-backbench .rx-revision-card{padding:14px;gap:14px}.rx-backbench .rx-revision-card h3{font-size:22px}.rx-backbench .rx-revision-card p{font-size:14px}}
 
+/* Compact study destinations: illustrated, readable and balanced across the row. */
+.rx-tool-art{display:block;flex:0 0 56px;width:56px;height:56px}
+.rx-tool-art svg{display:block;width:100%;height:100%}
+.rx-tools .rx-tool-row{gap:12px;padding-block:10px;min-height:78px}
+.rx-tools .rx-tool-row .rx-row-label{font-weight:600;font-size:15px}
+.rx-tools .rx-tool-row small{font-size:12px;line-height:1.4;font-weight:400;margin-top:4px}
+.rx-tools .rx-tool-row+.rx-tool-row:before{left:70px}
+.rx-clinical,.rx-backbench{display:flex;flex-direction:column;padding:18px;align-self:stretch}
+.rx-clinical{border:1px solid color-mix(in srgb,var(--surface) 55%,#92cabd);background:linear-gradient(145deg,color-mix(in srgb,var(--surface) 92%,#bde9dc),var(--surface) 65%)}
+.rx-clinical-heading{grid-template-columns:minmax(0,1fr) 34px;margin:0 0 12px;gap:5px 8px}
+.rx-clinical-heading h2{font-size:24px;letter-spacing:-.025em;margin:0}
+.rx-clinical-heading>span>.icon-svg{width:32px;height:36px}
+.rx-clinical-heading .rx-underline{height:6px;max-width:200px;margin-top:3px}
+.rx-clinical-heading>p{font-size:18px;line-height:1.25;margin:3px 0 0}
+.rx-clinical-grid{gap:10px;flex:1}
+.mockup-home .rx-clinical-icon-card{display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-rows:auto 1fr;align-items:center;justify-items:start;aspect-ratio:auto;gap:8px 4px;padding:12px;min-height:126px;border-radius:14px}
+.mockup-home .rx-clinical-icon-card h3{grid-column:1/-1;font-size:19px;text-align:left;max-width:none;text-wrap:initial}
+.mockup-home .rx-clinical-icon-card>img{width:64px;height:62px;max-height:62px!important;object-fit:contain}
+.rx-clinical-cta{min-height:36px;padding:0 9px;gap:3px;font-size:12px;justify-self:end}
+.rx-clinical-cta .icon-svg{width:14px;height:14px}
+.rx-backbench{border-color:color-mix(in srgb,var(--surface) 20%,#dfba50);background:linear-gradient(125deg,color-mix(in srgb,var(--surface) 79%,#ffdf70),var(--surface) 85%);box-shadow:0 4px 18px #c9a43920}
+.rx-backbench .rx-section-heading{margin-bottom:12px;gap:9px}
+.rx-backbench .rx-section-heading h2{font-size:23px}
+.rx-backbench .rx-section-heading .rx-hand{font-size:18px;line-height:1.25}
+.rx-backbench .rx-revision-card{flex:1;background:color-mix(in srgb,var(--surface) 80%,#ffe9a2);border:1px solid color-mix(in srgb,var(--surface) 55%,#e8c86e);padding:12px;gap:10px;grid-template-columns:78px minmax(0,1fr)}
+.rx-backbench .rx-phone-art{max-width:78px}
+.rx-backbench .rx-revision-card h3{font-size:19px;line-height:1.2;margin-bottom:5px}
+.rx-backbench .rx-revision-card h3 mark{background:linear-gradient(transparent 62%,color-mix(in srgb,var(--surface) 40%,#e5bc48) 62%);box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.rx-backbench .rx-revision-card p{font-size:13px;line-height:1.4;margin-bottom:8px}
+.rx-backbench .rx-revision-card .rx-button{font-size:13px;padding:7px 12px}
+.rx-involved{padding:18px}
+.rx-involved .rx-section-heading{margin-bottom:12px;gap:10px;align-items:center}
+.rx-involved .rx-section-heading h2{font-size:23px;margin:0 0 3px}
+.rx-involved .rx-section-heading .rx-hand{font-size:18px;line-height:1.2}
+.rx-involved .rx-heading-icon{width:34px;height:36px}
+.rx-involved .rx-heading-icon>.icon-svg{width:32px;height:32px}
+.rx-community-grid{grid-template-columns:minmax(0,1fr);gap:9px}
+.rx-community-card{display:grid;grid-template-columns:48px minmax(0,1fr) 28px;align-items:center;gap:10px;min-height:90px;padding:12px;border:1px solid #d1e8dc}
+.rx-community-card.mint{background:linear-gradient(110deg,#e1f4e9,#f1fbf5)}
+.rx-community-card.peach{border-color:#f1ddca}
+.rx-community-card .rx-tool-art{width:48px;height:48px}
+.rx-community-copy{min-width:0}
+.rx-community-card h3{font-size:19px;margin:0 0 4px}
+.rx-community-card p{font-size:12px;line-height:1.4;margin:0}
+.rx-community-card .rx-cta-icon{display:grid;place-items:center}
+.rx-community-card .rx-cta-icon>.icon-svg{width:32px;height:32px}
+.rx-community-card .rx-cta-arrow{position:static;width:28px;height:28px}
+.rx-community-card .rx-cta-arrow>.icon-svg{width:17px;height:17px}
+.rx-involved .rx-signoff{margin:10px 0 0;gap:6px}
+.rx-involved .rx-signoff .rx-hand{font-size:17px}
+.rx-involved .rx-signoff>.icon-svg{width:16px;height:16px}
+@media(min-width:600px){
+ .rx-community-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .rx-clinical,.rx-backbench,.rx-involved{padding:20px}
+ .rx-clinical-heading h2,.rx-backbench .rx-section-heading h2{font-size:24px}
+ .rx-clinical-heading>p,.rx-backbench .rx-section-heading .rx-hand{font-size:19px}
+ .rx-backbench .rx-revision-card{grid-template-columns:90px minmax(0,1fr)}
+ .rx-backbench .rx-phone-art{max-width:90px}
+ .rx-tool-art{flex-basis:60px;width:60px;height:60px}
+ .rx-tools .rx-tool-row .rx-row-label{font-size:16px}
+ .rx-clinical-icon-card .rx-clinical-cta{font-size:13px}
+}
+@media(min-width:900px){
+ .rx-clinical,.rx-backbench{gap:0}
+ .rx-clinical-heading,.rx-backbench .rx-section-heading{min-height:76px}
+ .rx-clinical-grid,.rx-backbench .rx-revision-card{min-height:154px}
+ .rx-involved{display:grid;grid-template-columns:230px minmax(0,1fr);gap:10px 18px;align-items:center}
+ .rx-involved .rx-section-heading{margin:0}
+ .rx-involved .rx-community-grid{gap:10px}
+ .rx-involved .rx-signoff{grid-column:1/-1;margin:0}
+ .rx-community-card{min-height:94px;padding:12px 10px;gap:8px}
+}
+@media(max-width:374px){
+ .mockup-home .rx-clinical-icon-card{padding:10px}
+ .mockup-home .rx-clinical-icon-card>img{width:50px;height:56px}
+ .rx-clinical-cta{padding:0 7px;font-size:11px}
+ .rx-backbench .rx-revision-card{grid-template-columns:64px minmax(0,1fr)}
+}
+
 /* Rx Notes student tools: compact, progressive and readable without JavaScript. */
 .reading-page:has(.study-guide){padding-top:0}.reading-page:has(.study-guide)>.breadcrumbs{margin:0 0 6px;padding:0;min-height:48px}.reading-page:has(.study-guide)>.reading-header{padding:14px;margin-bottom:10px}.reading-page:has(.study-guide)>.reading-header h1{font-size:24px}.reading-page:has(.study-guide)>.reading-header p{font-size:14px;margin:5px 0 0}.study-guide{display:grid;gap:12px;min-width:0}.study-guide [hidden]{display:none!important}.study-guide p{max-width:70ch}.study-guide :is(h2,h3,h4){overflow-wrap:normal}.study-guide .tool-section{padding:15px;margin:0;background:var(--surface);border-radius:18px;box-shadow:var(--rx-shadow)}.tool-section-title{display:flex;align-items:center;gap:9px;margin-bottom:12px}.tool-section-title>.rx-row-icon{width:35px;height:36px;flex-basis:35px}.study-guide .tool-section-title h2{font-size:21px;margin:0}.tool-section-title .rx-hand{font-size:18px;margin:3px 0 0}.tool-eyebrow{text-transform:uppercase;letter-spacing:.07em;font-size:10px;font-weight:600;color:var(--muted)}.study-guide .tool-copy,.study-guide .tool-review-note{font-size:13px;line-height:1.55;color:var(--muted);margin:8px 0}.tool-callout{padding:10px 12px;border-radius:12px;background:var(--rx-yellow);color:#384664;font-size:12px;line-height:1.5;border-left:3px solid #d7ac32}.tool-related{display:grid;gap:8px}.tool-related>a{display:flex;align-items:center;gap:8px;min-height:60px;padding:10px;border-radius:14px;background:var(--surface);color:var(--text);font-size:13px;box-shadow:var(--rx-shadow)}.tool-related .rx-row-icon{width:32px;height:34px;flex-basis:32px}.tool-related>a>span:nth-child(2){flex:1}.tool-related>a>.icon-svg{width:18px}.tool-hub-card{display:grid;grid-template-columns:40px minmax(0,1fr) 18px;gap:10px;align-items:center;background:var(--surface);border-radius:16px;padding:16px;margin:10px 0;color:var(--text)}.tool-hub-card strong{display:block;font:700 21px/1.2 var(--rx-heading);margin-bottom:5px}.tool-hub-card small{font-size:13px;line-height:1.5;color:var(--muted)}.tool-hub-card>.icon-svg{width:18px}.tool-hub-card .rx-row-icon{width:36px;height:38px}
 /* A real app shelf: the apps come before every secondary collection. */

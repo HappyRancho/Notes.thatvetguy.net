@@ -83,16 +83,31 @@ def objectives(b):
     body+='<div class="rx-collection-footer">'+link('/objective/','Explore more '+icon('arrow'),'rx-explore')+'</div>'
     return '<section class="rx-section rx-objective" id="objective" data-home-tabs>'+body+'</section>'
 
+def toolkit_art(kind):
+    """Small, purpose-made illustrations; labels live in the adjacent link text."""
+    paw='<ellipse cx="37" cy="36" rx="7" ry="6" fill="#0769ce" stroke="none"/><g fill="#0769ce" stroke="none"><circle cx="29" cy="28" r="3"/><circle cx="35" cy="24" r="3"/><circle cx="42" cy="25" r="3"/><circle cx="47" cy="30" r="3"/></g>'
+    drawings={
+        'apps':'<rect x="7" y="10" width="41" height="49" rx="10" fill="#bde9dc" stroke="none"/><rect x="20" y="5" width="34" height="52" rx="8" fill="white"/><path d="M31 11h12M33 51h8"/>'+paw+'<rect x="5" y="40" width="19" height="19" rx="6" fill="#ffe38b"/><path d="M11 49h7m-3.5-3.5v7"/>',
+        'web':'<rect x="5" y="8" width="54" height="42" rx="8" fill="#fff"/><path d="M6 20h52"/><circle cx="13" cy="14" r="1.5" fill="#efb560" stroke="none"/><circle cx="19" cy="14" r="1.5" fill="#81cbb5" stroke="none"/><path d="M13 28h16m-16 6h12" stroke="#0769ce"/><path d="M31 35q-10-5-19-1v20q9-4 19 1 10-5 21-1V34q-11-4-21 1Z" fill="#bde9dc"/><path d="M31 35v20m-14-15h8m-8 5h8m13-5h8m-8 5h8"/>',
+        'career':'<path d="M18 57V43q0-8 14-8t14-9V16" stroke="#0769ce" stroke-width="4"/><path d="m39 22 7-7 7 7" stroke="#0769ce"/><path d="m3 17 20-10 20 10-20 10Z" fill="#ffe38b"/><path d="M12 22v9q11 8 22 0v-9M5 18v13"/><circle cx="18" cy="54" r="7" fill="#bde9dc"/><path d="m15 54 2 2 4-4"/><circle cx="46" cy="43" r="9" fill="#ffe8d7"/><path d="M42 43h8m-4-4v8"/>',
+        'jobs':'<rect x="7" y="20" width="50" height="35" rx="7" fill="#bde9dc"/><path d="M23 20v-6h18v6M8 32q24 12 48 0"/><rect x="27" y="32" width="10" height="9" rx="2" fill="#fff"/><circle cx="51" cy="14" r="9" fill="#ffe38b"/><path d="M51 10v8m-4-4h8"/>'
+    }
+    return '<span class="rx-tool-art" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#183654" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'+drawings[kind]+'</svg></span>'
+
 def tools():
     body=heading('Tools &amp; Tips','Study smart. Because suffering manually is outdated.','bulb','yellow')+tabs('tools',[('Tools','/study-tools/#tools'),('Tips','/study-tools/#tips')])
     for i,key in enumerate(['tools','tips']):
-        rows=''.join(row(r['title'],r['url'],r['icon'],r['tone']) if r.get('url') else missing(r['title'],r['icon'],r['tone']) for r in CONTENT[key])
+        if key=='tools':
+            details=[('apps','Revision, reference & anatomy'),('web','Notes, cases & trusted sources'),('career','Find your path after BVSc')]
+            rows=''.join(link(r['url'],toolkit_art(kind)+'<span class="rx-row-label">'+e(r['title'])+'<small>'+e(detail)+'</small></span>'+icon('chevron'),'rx-row rx-tool-row') for r,(kind,detail) in zip(CONTENT[key],details))
+        else:
+            rows=''.join(row(r['title'],r['url'],r['icon'],r['tone']) if r.get('url') else missing(r['title'],r['icon'],r['tone']) for r in CONTENT[key])
         body+=panel('tools',i,'<div class="rx-row-drawer">'+rows+'</div>')
     return '<section class="rx-section rx-tools" id="study" data-home-tabs>'+body+'</section>'
 
 def clinical():
     body='<header class="rx-clinical-heading"><div><h2>Clinical Resources</h2><svg class="rx-underline" viewBox="0 0 320 10" aria-hidden="true"><path d="M2 6Q12-2 22 6T42 6T62 6T82 6T102 6T122 6T142 6T162 6T182 6T202 6T222 6T242 6T262 6T282 6T302 6T318 6"/></svg></div><span>'+icon('stethoscope')+burst()+'</span><p class="rx-hand">Check the dose twice. The patient can’t leave a review.</p></header><div class="rx-clinical-grid">'
-    for title,url,asset,tone in [('Handbooks Collection','/clinical/handbooks/','handbook-case','mint'),('Drug Index Collection','/clinical/drug-index/','drug-prescription','yellow')]:
+    for title,url,asset,tone in [('Handbooks','/clinical/handbooks/','handbook-case','mint'),('Drug Index','/clinical/drug-index/','drug-prescription','yellow')]:
         body+=link(url,'<h3>'+title+'</h3><img src="/assets/home/'+asset+'.svg" width="240" height="200" alt="" loading="lazy" decoding="async"><span class="rx-clinical-cta">Open '+icon('arrow')+'</span>','rx-clinical-card rx-clinical-icon-card '+tone)
     return '<section class="rx-section rx-clinical" id="clinical">'+body+'</div></section>'
 
@@ -100,9 +115,10 @@ def backbench():
     return '<section class="rx-section rx-backbench" id="backbench">'+heading('Backbenchers Corner','For when the exam is tomorrow and the motivation arrived today.','telegram','sky')+'<div class="rx-revision-card">'+art('community',(53,290,250,270),'rx-phone-art')+'<div><h3><mark>Last-minute revision notes</mark></h3><p>Short notes and high-yield topics for one more revision.</p>'+link('https://t.me/vetshortnotesbytvg','View Notes','rx-button')+'</div></div></section>'
 
 def involved():
-    body=heading('Get Involved','Because your next note shouldn’t depend on a forwarded PDF.','people','sky')+'<div class="rx-community-grid">'
-    for title,text,url,ic,tone in [('Vet Job Updates','Join the Telegram group for opportunities.','https://t.me/jobupdatesbytvg','megaphone','mint'),('Request Resources','Can’t find a resource? Ask for it.','/request-resource/','message','peach')]:
-        body+=link(url,'<span class="rx-cta-icon">'+icon(ic)+'</span><h3>'+title+'</h3><p>'+text+'</p><span class="rx-cta-arrow">'+icon('arrow')+'</span>','rx-community-card '+tone)
+    body=heading('Get Involved','Find an opportunity. Help fill a gap.','people','sky')+'<div class="rx-community-grid">'
+    for title,text,url,ic,tone in [('Vet Job Updates','Explore opportunities on Telegram.','https://t.me/jobupdatesbytvg','jobs','mint'),('Request Resources','Missing a note or book? Let us know.','/request-resource/','message','peach')]:
+        artwork=toolkit_art('jobs') if ic=='jobs' else '<span class="rx-cta-icon">'+icon(ic)+'</span>'
+        body+=link(url,artwork+'<div class="rx-community-copy"><h3>'+title+'</h3><p>'+text+'</p></div><span class="rx-cta-arrow">'+icon('arrow')+'</span>','rx-community-card '+tone)
     body+='</div><p class="rx-signoff">'+icon('paw')+'<span class="rx-hand">Students today. Better vets tomorrow.</span>'+icon('paw')+'</p>'
     return '<section class="rx-section rx-involved" id="community">'+body+'</section>'
 
