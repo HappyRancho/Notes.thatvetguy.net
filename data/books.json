@@ -48,6 +48,7 @@
       "sha256": "6039ae4a0bda1b769b656020b163ed2bb652b9e420a1d3df51c90e6bdd138da1"
     },
     "page": "/books/a-textbook-of-animal-husbandry/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -106,6 +107,7 @@
       "candidatePath": "/assets/books/audit/a-textbook-of-veterinary-general-pathology-p1.webp"
     },
     "page": "/books/a-textbook-of-veterinary-general-pathology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1tXZyya7hVjh38o1T71Hqkj2RwfygKus-/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -162,6 +164,7 @@
       "candidatePath": "/assets/books/audit/adam-s-lameness-in-horses-7th-edition-p1.webp"
     },
     "page": "/books/adam-s-lameness-in-horses-7th-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/11GD5DNn2cRLIGrQuyAmYuOV5LDwZSP13/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -174,12 +177,12 @@
     "description": "A compact veterinary revision resource for a final pass through key topics.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_objectives/3?single",
+    "telegram": null,
     "collection": "objective-notes",
     "recommended": false,
     "type": "Study book",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-veterinary-capsule",
     "humanReference": false,
     "referenceISBNs": [],
@@ -195,9 +198,17 @@
       "fingerprint": "82f4cbe84f8a36c262a5c3c25b350c5f8c309b2091ab5a040fafa683a52a66be"
     },
     "page": "/books/veterinary-capsule/",
-    "primaryUrl": "https://t.me/veterinary_objectives/3?single",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1d-Vf74CelNRSyqGPTrFuY02XBxcdiYau",
+      "name": "All in One Veterinary Capsule (Subjective) (1).pdf",
+      "path": "Objective and competition /Objective notes /All in One Veterinary Capsule (Subjective) (1).pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1d-Vf74CelNRSyqGPTrFuY02XBxcdiYau/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1d-Vf74CelNRSyqGPTrFuY02XBxcdiYau/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -251,6 +262,7 @@
       "candidatePath": "/assets/books/audit/ananthanarayan-microbiology-p1.webp"
     },
     "page": "/books/ananthanarayan-microbiology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1FCpMCoSu07uJrE8VuWPSfAeImNmOFTAJ/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -305,6 +317,7 @@
       "fingerprint": "5a61742ede5cc8695390a04cc59685763d1739a95a5d8a8c8a0d97fa26526b54"
     },
     "page": "/books/animal-breeding/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/11ZOm73joJiohbgPyZ1HBj9jJK94BuJxF/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -363,6 +376,7 @@
       "candidatePath": "/assets/books/audit/animal-nutrition-p1.webp"
     },
     "page": "/books/animal-nutrition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1szZ07cnrVgMivu2RaoNuidgmgsu1Cy2r/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -375,14 +389,14 @@
     "description": "A broad animal-science revision companion for reviewing core concepts.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_objectives/5",
+    "telegram": null,
     "collection": "objective-notes",
     "recommended": false,
     "type": "Study book",
     "references": [
       "https://play.google.com/store/books/details?id=kwslDwAAQBAJ"
     ],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-animal-science-refresher",
     "humanReference": false,
     "referenceISBNs": [
@@ -398,9 +412,17 @@
       "kind": "reference-cover"
     },
     "page": "/books/animal-science-refresher/",
-    "primaryUrl": "https://t.me/veterinary_objectives/5",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1W--1DTvdAoTSAWr-T6Xv_Irl-FThmvZ9",
+      "name": "Animal Science Refresher for ICAR-PG.pdf",
+      "path": "Objective and competition /Objective notes /Animal Science Refresher for ICAR-PG.pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1W--1DTvdAoTSAWr-T6Xv_Irl-FThmvZ9/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1W--1DTvdAoTSAWr-T6Xv_Irl-FThmvZ9/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -453,6 +475,7 @@
       "candidatePath": "/assets/books/online-review/applied-nutrition-d-v-reddy.webp"
     },
     "page": "/books/applied-nutrition-d-v-reddy/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1xrH_f0NoBt7f6ijQtWPwGvmd9KBXPGDe/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -509,6 +532,7 @@
       "candidatePath": "/assets/books/audit/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep-p1.webp"
     },
     "page": "/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1hgcs2A58OOunIz_pqwzyFYa632OE2JhW/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -549,6 +573,7 @@
       "candidatePath": "/assets/books/online-review/biochemistry.webp"
     },
     "page": "/books/biochemistry/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -605,6 +630,7 @@
       "candidatePath": "/assets/books/audit/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics-p1.webp"
     },
     "page": "/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1Ts_uStF2tHvIYfx-92FlDI_ozAzawUUj/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -687,6 +713,7 @@
       "candidatePath": "/assets/books/audit/canine-and-feline-endocrinology-and-reproduction-p1.webp"
     },
     "page": "/books/canine-and-feline-endocrinology-and-reproduction/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/10ypASD9i1y7ItEwfKgHHX4SasikuVjqz/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -760,6 +787,7 @@
       "kind": "reference-cover"
     },
     "page": "/books/clinical-examination-of-farm-animals/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1ijD_vNICIFjPCDVHfcbg50KwbBzJG362/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -816,6 +844,7 @@
       "candidatePath": "/assets/books/audit/clinical-handbook-on-canine-dermatology-3rd-edition-p1.webp"
     },
     "page": "/books/clinical-handbook-on-canine-dermatology-3rd-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1TdyHrU3HO8iDkCdY5xMRcIDNZ-NW76Ot/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -854,7 +883,7 @@
     "recommended": false,
     "type": "Book",
     "references": [],
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-11-01",
     "resourceId": "book-color-atlas-of-veterinary-histology",
     "humanReference": false,
     "referenceISBNs": [],
@@ -898,7 +927,15 @@
       "candidatePath": "/assets/books/audit/color-atlas-of-veterinary-histology-p2.webp"
     },
     "page": "/books/color-atlas-of-veterinary-histology/",
-    "primaryUrl": "https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view",
+    "primaryDrive": {
+      "id": "1yhg6P8u3cjh5o3_tX5EAwX6Bu8fjveJt",
+      "name": "Color Atlas of Veterinary Histology.pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Color Atlas of Veterinary Histology.pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1yhg6P8u3cjh5o3_tX5EAwX6Bu8fjveJt/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1yhg6P8u3cjh5o3_tX5EAwX6Bu8fjveJt/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
     "clinical": false
@@ -976,6 +1013,7 @@
       "candidatePath": "/assets/books/audit/color-handbook-of-skin-diseases-of-dog-and-cat-p1.webp"
     },
     "page": "/books/color-handbook-of-skin-diseases-of-dog-and-cat/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/12NuV2EEm94bA3dm3hdS-8DrkMjmKpRm5/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1014,7 +1052,7 @@
     "recommended": false,
     "type": "Book",
     "references": [],
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-11-01",
     "resourceId": "book-colour-atlas-of-veterinary-anatomy-the-ruminants",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1032,7 +1070,15 @@
       "candidatePath": "/assets/books/audit/colour-atlas-of-veterinary-anatomy-the-ruminants-p1.webp"
     },
     "page": "/books/colour-atlas-of-veterinary-anatomy-the-ruminants/",
-    "primaryUrl": "https://drive.google.com/file/d/11XoUGYh3QQCeovB4gBQ12qGCF-7xgieE/view",
+    "primaryDrive": {
+      "id": "1O9o-tXFxZEWicwxTrXtNrLqU0_MUR5Tz",
+      "name": "Colour Atlas of Veterinary Anatomy - The Ruminants.pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Colour Atlas of Veterinary Anatomy - The Ruminants.pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1O9o-tXFxZEWicwxTrXtNrLqU0_MUR5Tz/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1O9o-tXFxZEWicwxTrXtNrLqU0_MUR5Tz/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
     "clinical": false
@@ -1044,12 +1090,12 @@
     "description": "Colour handbook of Small Animal Emergency and Critical care.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/Vethandbooks/9",
+    "telegram": null,
     "collection": "handbooks",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-small-animal-colour-handbook",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1070,9 +1116,17 @@
       "candidatePath": "/assets/books/audit/small-animal-colour-handbook-reference-cover.webp"
     },
     "page": "/books/small-animal-colour-handbook/",
-    "primaryUrl": "https://t.me/Vethandbooks/9",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "17gVkGQOgz8pbUNjZ7WjRkXTql2_aPsrS",
+      "name": "A_Color_Handbook_of_Small_Animall.pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /A_Color_Handbook_of_Small_Animall.pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/17gVkGQOgz8pbUNjZ7WjRkXTql2_aPsrS/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/17gVkGQOgz8pbUNjZ7WjRkXTql2_aPsrS/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -1082,12 +1136,12 @@
     "description": "Compiled objective questions across veterinary subjects for focused revision.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_objectives/2?single",
+    "telegram": null,
     "collection": "objective-notes",
     "recommended": false,
     "type": "Study book",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-dhruv-desai",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1103,9 +1157,17 @@
       "fingerprint": "5b114f8f02222ed9b5df27aebd6764bd9dbb9b64cf4b58eb02dad32cf167eba7"
     },
     "page": "/books/dhruv-desai/",
-    "primaryUrl": "https://t.me/veterinary_objectives/2?single",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25",
+      "name": "ICAR-PG Question Bank by Dhruv N Desai.pdf",
+      "path": "Objective and competition /Objective notes /ICAR-PG Question Bank by Dhruv N Desai.pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -1161,6 +1223,7 @@
       "candidatePath": "/assets/books/audit/cunningham-s-textbook-of-veterinary-physiology-p1.webp"
     },
     "page": "/books/cunningham-s-textbook-of-veterinary-physiology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1WbSAFwwzlha7zaHluQ7FzSSLeTX7zb4Q/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1173,12 +1236,12 @@
     "description": "A printable quick-reference sheet; verify every dose against current clinical guidance.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/c/4430259212/7",
+    "telegram": null,
     "collection": "drug-index",
     "recommended": false,
     "type": "Reference sheet",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-wall-drug-dose",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1194,9 +1257,17 @@
       "fingerprint": "59ae67ee6aaa6398e70b3ebcf3c5c621dcae2d28bb8000e39a5c7e07fd943216"
     },
     "page": "/books/wall-drug-dose/",
-    "primaryUrl": "https://t.me/c/4430259212/7",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1m5Vs5VpatQ4r79gO1IOVsHRvCSKlj7ho",
+      "name": "Drug Dose (for wall) (1) (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Drug Dose (for wall) (1) (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1m5Vs5VpatQ4r79gO1IOVsHRvCSKlj7ho/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1m5Vs5VpatQ4r79gO1IOVsHRvCSKlj7ho/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -1252,6 +1323,7 @@
       "candidatePath": "/assets/books/audit/dukes-physiology-of-domestic-animals-p1.webp"
     },
     "page": "/books/dukes-physiology-of-domestic-animals/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1d55Ck9ZoG3Qv17pt0Sw6iVX0aabK0qCF/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1264,12 +1336,12 @@
     "description": "Another veterinary question set for checking recall and identifying revision gaps.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_question_bank/4",
+    "telegram": null,
     "collection": "question-banks",
     "recommended": false,
     "type": "Question bank",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-e-nanu-qbank",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1285,9 +1357,17 @@
       "fingerprint": "e83c589806546833e733f2d7b1f9b520e5a643d7c8952b615b68bc4c17fca040"
     },
     "page": "/books/e-nanu-qbank/",
-    "primaryUrl": "https://t.me/veterinary_question_bank/4",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1ArkjZrgw-IlKwAPgvuSk4h3yq9kJ_Tmv",
+      "name": "ICAR-PG Question Bank by E Nanu.pdf",
+      "path": "Objective and competition /Question banks/ICAR-PG Question Bank by E Nanu.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1ArkjZrgw-IlKwAPgvuSk4h3yq9kJ_Tmv/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1ArkjZrgw-IlKwAPgvuSk4h3yq9kJ_Tmv/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -1340,6 +1420,7 @@
       "candidatePath": "/assets/books/online-review/essentials-of-medical-pharmacology-k-d-tripathi.webp"
     },
     "page": "/books/essentials-of-medical-pharmacology-k-d-tripathi/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1xKXP28A5jvKCIoYGTBXm_lrp_a0dwXxt/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1357,14 +1438,14 @@
       }
     ],
     "files": [],
-    "telegram": "https://t.me/c/4312433672/3",
+    "telegram": null,
     "collection": null,
     "recommended": false,
     "type": "Book",
     "references": [
       "https://currentbooksint.com/product/essentials-of-veterinary-histology-embryology-4ed-by-r-k-ghosh"
     ],
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-11-01",
     "originalLabel": "Vet histology & embryology-RK Ghosh .pdf",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1379,9 +1460,17 @@
       "sha256": "57d9a35e2e541608b8342b3ca838c2e9c0940755d06428e5fc2158433d2e9a6c"
     },
     "page": "/books/veterinary-histology-and-embryology-r-k-ghosh/",
-    "primaryUrl": "https://t.me/c/4312433672/3",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1GURdmFfJhXcCgwP0mqFCvcFlw523kk_7",
+      "name": "Vet histology & embryology-RK Ghosh  (1).pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Vet histology & embryology-RK Ghosh  (1).pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1GURdmFfJhXcCgwP0mqFCvcFlw523kk_7/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1GURdmFfJhXcCgwP0mqFCvcFlw523kk_7/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -1437,6 +1526,7 @@
       "candidatePath": "/assets/books/audit/essentials-of-veterinary-pharmacology-and-therapeutics-p1.webp"
     },
     "page": "/books/essentials-of-veterinary-pharmacology-and-therapeutics/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1DQ05pX9kM6lQ9tdOfQWy2GTEuaJyvwRW/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1493,6 +1583,7 @@
       "candidatePath": "/assets/books/audit/essentials-of-veterinary-surgery-8th-edition-p1.webp"
     },
     "page": "/books/essentials-of-veterinary-surgery-8th-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1Vcpz-sOF9immjL0tGtTkNW1WPmSGsICX/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1549,6 +1640,7 @@
       "candidatePath": "/assets/books/audit/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard-p1.webp"
     },
     "page": "/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1Adf9q6xJDzmywXXxchro2_keAF6SC7BG/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1585,6 +1677,7 @@
       "kind": "reference-cover"
     },
     "page": "/books/farm-animal-surgery/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -1638,6 +1731,7 @@
       "sha256": "a3c64870b4c03cb5b60e8d834f790c147f614f963f1fa2a742d0fc05d9f5517e"
     },
     "page": "/books/fenner-s-veterinary-virology-5th-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1hmdTX40KfWhqQvkySFjM-CWr_NYkyb1c/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1694,6 +1788,7 @@
       "candidatePath": "/assets/books/audit/fluid-therapy-guidelines-for-dogs-and-cats-p1.webp"
     },
     "page": "/books/fluid-therapy-guidelines-for-dogs-and-cats/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1tVLqmfGBpSLb2nm_8gShyS-vaPRWNAPy/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1750,6 +1845,7 @@
       "candidatePath": "/assets/books/audit/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics-p1.webp"
     },
     "page": "/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/15a_t3ChRGC96B9lQ4Jf1HxiK17IntZdt/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1806,6 +1902,7 @@
       "candidatePath": "/assets/books/audit/gracey-s-meat-hygiene-11edition-p1.webp"
     },
     "page": "/books/gracey-s-meat-hygiene-11edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1zSjwKCifb-4r9AjRKky6UKAZYAyGFA63/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1888,6 +1985,7 @@
       "candidatePath": "/assets/books/audit/guyton-and-hall-textbook-of-medical-physiology-p1.webp"
     },
     "page": "/books/guyton-and-hall-textbook-of-medical-physiology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1St-9npUosg-MKVRwZEQeoGKWspdILLAj/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -1900,12 +1998,12 @@
     "description": "A clinical handbook by A. U. Bhikane for quick veterinary reference. Use it to revisit clinical topics alongside current guidance and supervised training.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/Vethandbooks/4",
+    "telegram": null,
     "collection": "handbooks",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-veterinary-clinician-handbook",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1921,9 +2019,17 @@
       "fingerprint": "a3124a7f5f96cf8d88f9f98436b1c782293c0ebe02ed3499afcfc19a3405117d"
     },
     "page": "/books/veterinary-clinician-handbook/",
-    "primaryUrl": "https://t.me/Vethandbooks/4",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1zsauaRt-Kb_QKnuMbjrFJ2QvRIAGx_cW",
+      "name": "Handbook for Veterinary Clinician (1).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Handbook for Veterinary Clinician (1).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1zsauaRt-Kb_QKnuMbjrFJ2QvRIAGx_cW/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1zsauaRt-Kb_QKnuMbjrFJ2QvRIAGx_cW/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -1933,12 +2039,12 @@
     "description": "Handbook of Small Animal Radiology and Ultrasound.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/Vethandbooks/8",
+    "telegram": null,
     "collection": "handbooks",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-small-animal-radiology-handbook",
     "humanReference": false,
     "referenceISBNs": [],
@@ -1975,9 +2081,17 @@
       "candidatePath": "/assets/books/audit/small-animal-radiology-handbook-reference-cover.webp"
     },
     "page": "/books/small-animal-radiology-handbook/",
-    "primaryUrl": "https://t.me/Vethandbooks/8",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1dBABDt6iVuaahxE3i-cCa_KWS00m8Yb7",
+      "name": "Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_and (2).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_and (2).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1dBABDt6iVuaahxE3i-cCa_KWS00m8Yb7/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1dBABDt6iVuaahxE3i-cCa_KWS00m8Yb7/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -2031,6 +2145,7 @@
       "candidatePath": "/assets/books/audit/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008-p1.webp"
     },
     "page": "/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/10HSoobuDrQBrJjCqu7tvso8XJiFrGtPE/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2043,12 +2158,12 @@
     "description": "Build a subject-wise practice routine with this veterinary question collection.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_question_bank/5",
+    "telegram": null,
     "collection": "question-banks",
     "recommended": false,
     "type": "Question bank",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-kvafsu-qbank",
     "humanReference": false,
     "referenceISBNs": [],
@@ -2064,9 +2179,17 @@
       "fingerprint": "bd1bbd7827c8bb440014e58119c78a253a65c58fa44e4bb0e8a29993b6b57713"
     },
     "page": "/books/kvafsu-qbank/",
-    "primaryUrl": "https://t.me/veterinary_question_bank/5",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "14Q49pXxd0LEM--gQkh_oI8ROwqnd3Mds",
+      "name": "KVAFSU ICAR-PG Question Bank.pdf",
+      "path": "Objective and competition /Question banks/KVAFSU ICAR-PG Question Bank.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/14Q49pXxd0LEM--gQkh_oI8ROwqnd3Mds/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/14Q49pXxd0LEM--gQkh_oI8ROwqnd3Mds/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -2120,6 +2243,7 @@
       "candidatePath": "/assets/books/audit/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures-p1.webp"
     },
     "page": "/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1-3x5XkdixkM1RU05PYpe87NqaPJ5w2JJ/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2195,6 +2319,7 @@
       "kind": "reference-cover"
     },
     "page": "/books/lawrie-s-meat-science/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1HoEhWNBh-Zi2KhSL4jiim3dX7jq7VK09/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2233,6 +2358,7 @@
       "sha256": "d233f586d470c8ba37108243100a68aa7d19d90e7cdda372582d990faa349de2"
     },
     "page": "/books/livestock-production-management/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -2311,6 +2437,7 @@
       "candidatePath": "/assets/books/audit/lumb-jones-veterinary-anesthesia-and-analgesia-p1.webp"
     },
     "page": "/books/lumb-jones-veterinary-anesthesia-and-analgesia/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/19OwUuJ2JU7IQuhZ9PrEGS0IhHgQuU3t-/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2391,6 +2518,7 @@
       "candidatePath": "/assets/books/audit/manual-of-canine-and-feline-cardiology-p1.webp"
     },
     "page": "/books/manual-of-canine-and-feline-cardiology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1ufeZVFfNgxzTQTQWGuAsbxGYVwiMUK-I/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2430,6 +2558,7 @@
       "fingerprint": "655b0a72f2edf54216b28fc17d47449e0bff8730fd049dd85d34140aba65c291"
     },
     "page": "/books/meat-and-meat-products-technology/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -2486,6 +2615,7 @@
       "candidatePath": "/assets/books/audit/meat-processing-technology-p1.webp"
     },
     "page": "/books/meat-processing-technology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1XveEX6w8dVs--uKsRlEM1RCGvCx3Qi8j/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2566,6 +2696,7 @@
       "candidatePath": "/assets/books/audit/metabolic-diseases-in-farm-animals-p1.webp"
     },
     "page": "/books/metabolic-diseases-in-farm-animals/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1E1v6I6yCde6-jhgUFDV2C4Z07M_Valkg/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2578,12 +2709,12 @@
     "description": "An additional question collection to work through during exam preparation.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_question_bank/6",
+    "telegram": null,
     "collection": "question-banks",
     "recommended": false,
     "type": "Question bank",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-ndri-qbank",
     "humanReference": false,
     "referenceISBNs": [],
@@ -2599,9 +2730,17 @@
       "fingerprint": "7857360ccbb263e4e6b4b7c62fe5546f0c1ff265d9b88e821de3ddd65778c536"
     },
     "page": "/books/ndri-qbank/",
-    "primaryUrl": "https://t.me/veterinary_question_bank/6",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1WdzlsxVj4mnl1pAnOWfgBkL-FUi2qnw6",
+      "name": "NDRI Veterinary Question Bank.pdf",
+      "path": "Objective and competition /Question banks/NDRI Veterinary Question Bank.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1WdzlsxVj4mnl1pAnOWfgBkL-FUi2qnw6/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1WdzlsxVj4mnl1pAnOWfgBkL-FUi2qnw6/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -2655,6 +2794,7 @@
       "candidatePath": "/assets/books/audit/ockerman-animal-byproduct-processing-p1.webp"
     },
     "page": "/books/ockerman-animal-byproduct-processing/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1QRE51mACfqXTgDAXacuEkcmepdQigqJg/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2713,6 +2853,7 @@
       "kind": "reference-cover"
     },
     "page": "/books/outlines-of-dairy-technology/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -2810,6 +2951,7 @@
       "candidatePath": "/assets/books/audit/pathways-to-pregnancy-and-parturition-p1.webp"
     },
     "page": "/books/pathways-to-pregnancy-and-parturition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1orKFVdVBfLt2FTidFUYxUQJl51C5fTrO/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2822,7 +2964,7 @@
     "description": "Plumb’s Veterinary Drug Handbook is a veterinary drug reference organised around individual medicines. It brings together information used to look up veterinary drug monographs, including precautions and interactions. It is a reference for trained clinical use, not a substitute for diagnosis or current product information. Confirm the edition of the linked copy and use current, species-specific clinical guidance.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/c/4430259212/5",
+    "telegram": null,
     "collection": "drug-index",
     "recommended": false,
     "type": "Handbook",
@@ -2830,7 +2972,7 @@
       "https://books.google.com/books?id=PhBBygEACAAJ",
       "https://www.ncbi.nlm.nih.gov/nlmcatalog/101571748"
     ],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-plumbs-handbook",
     "humanReference": false,
     "referenceISBNs": [
@@ -2870,9 +3012,17 @@
       "kind": "reference-cover"
     },
     "page": "/books/plumbs-handbook/",
-    "primaryUrl": "https://t.me/c/4430259212/5",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1z11OMBOY-cWizXCMS1GSXrjXTt0gOAbg",
+      "name": "Plumb's Veterinary Drug Handbook (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Plumb's Veterinary Drug Handbook (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1z11OMBOY-cWizXCMS1GSXrjXTt0gOAbg/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1z11OMBOY-cWizXCMS1GSXrjXTt0gOAbg/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -2948,6 +3098,7 @@
       "candidatePath": "/assets/books/audit/pocket-guide-diagnostic-tests-p1.webp"
     },
     "page": "/books/pocket-guide-diagnostic-tests/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1qtqPZKe9ytj7xwt1wv9zm6fvh3pzxu7p/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -2960,12 +3111,12 @@
     "description": "Pocket Handbook of Small Animal Medicine.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/Vethandbooks/5",
+    "telegram": null,
     "collection": "handbooks",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-small-animal-medicine-handbook",
     "humanReference": false,
     "referenceISBNs": [],
@@ -3002,9 +3153,17 @@
       "kind": "reference-cover"
     },
     "page": "/books/small-animal-medicine-handbook/",
-    "primaryUrl": "https://t.me/Vethandbooks/5",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1UrAXuZh2FRjWMwd_Hq827iyiZc7u8E-3",
+      "name": "Pocket Handbook of Small Animal Medicine (1).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Pocket Handbook of Small Animal Medicine (1).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1UrAXuZh2FRjWMwd_Hq827iyiZc7u8E-3/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1UrAXuZh2FRjWMwd_Hq827iyiZc7u8E-3/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -3080,6 +3239,7 @@
       "candidatePath": "/assets/books/audit/poultry-metabolic-disorders-and-mycotoxins-p1.webp"
     },
     "page": "/books/poultry-metabolic-disorders-and-mycotoxins/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1gqmSEaqXGXKrvPeX8kNAveCGKM_bnE1b/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3136,6 +3296,7 @@
       "candidatePath": "/assets/books/audit/prescott-s-microbiology-p1.webp"
     },
     "page": "/books/prescott-s-microbiology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1lvxYpns9hJHwpLVYWqRFhMpiH5Q5q1Uw/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3153,14 +3314,14 @@
       }
     ],
     "files": [],
-    "telegram": "https://t.me/c/4312433672/2",
+    "telegram": null,
     "collection": null,
     "recommended": true,
     "type": "Book",
     "references": [
       "https://currentbooksint.com/product/primary-veterinary-anatomy-9ed-by-r-k-ghosh"
     ],
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-11-01",
     "originalLabel": "Veterinary Anatomy by RK Ghosh.pdf",
     "humanReference": false,
     "referenceISBNs": [
@@ -3177,9 +3338,17 @@
       "sha256": "f14ed57f5bc9157a696971c410ccf92d2fc0d519f4b63f685091f2d63c055210"
     },
     "page": "/books/primary-veterinary-anatomy/",
-    "primaryUrl": "https://t.me/c/4312433672/2",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1HjwYwDo1PPiiXGFdNfpZjzAk1dVf8b3t",
+      "name": "Veterinary Anatomy byRK Ghosh (1).pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Veterinary Anatomy byRK Ghosh (1).pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1HjwYwDo1PPiiXGFdNfpZjzAk1dVf8b3t/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1HjwYwDo1PPiiXGFdNfpZjzAk1dVf8b3t/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -3257,6 +3426,7 @@
       "candidatePath": "/assets/books/online-review/principles-of-animal-nutrition-and-feed-technology.webp"
     },
     "page": "/books/principles-of-animal-nutrition-and-feed-technology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1avywLrEsQ6NBpgPT610JGyMQfkZwj7OR/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3311,6 +3481,7 @@
       "fingerprint": "8b172e4802696f06c0d2c30acad01d838db4ab1788a35d0341c5fbedb8ac7693"
     },
     "page": "/books/principles-of-meat-science-forrest/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1zWc8nr-2cxeTYqMRnWTBvmhfRqaBlzGg/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3367,6 +3538,7 @@
       "candidatePath": "/assets/books/audit/reproduction-in-farm-animals-7th-edition-by-hafeez-p1.webp"
     },
     "page": "/books/reproduction-in-farm-animals-7th-edition-by-hafeez/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1PqJQDjKzLrX5mj2us9PWMn4SmssV3XvL/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3448,6 +3620,7 @@
       "candidatePath": "/assets/books/audit/restraint-and-handling-of-wild-and-domestic-animals-p1.webp"
     },
     "page": "/books/restraint-and-handling-of-wild-and-domestic-animals/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1keer053qB9ad7akDT8ewFnM1OuUJwjjg/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3460,12 +3633,12 @@
     "description": "Review important animal-science topics alongside your syllabus and class notes.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_objectives/8",
+    "telegram": null,
     "collection": "objective-notes",
     "recommended": false,
     "type": "Study book",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-review-animal-science",
     "humanReference": false,
     "referenceISBNs": [],
@@ -3481,9 +3654,17 @@
       "fingerprint": "d2693f76f025f247fddf3f4dd7d8091aedfc7c84ab2ecc77d0f95103ca9a77ff"
     },
     "page": "/books/review-animal-science/",
-    "primaryUrl": "https://t.me/veterinary_objectives/8",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1lBsmrhg926FuxLJMVUETqL-1RX-jkeIc",
+      "name": "REVIEW OF ANIMAL SCIENCE By RAKESH KUMAR GUPTA.pdf",
+      "path": "Objective and competition /Objective notes /REVIEW OF ANIMAL SCIENCE By RAKESH KUMAR GUPTA.pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1lBsmrhg926FuxLJMVUETqL-1RX-jkeIc/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1lBsmrhg926FuxLJMVUETqL-1RX-jkeIc/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -3493,12 +3674,12 @@
     "description": "Revisit veterinary subjects and consolidate key points before an exam.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_objectives/7",
+    "telegram": null,
     "collection": "objective-notes",
     "recommended": false,
     "type": "Study book",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-review-veterinary-science",
     "humanReference": false,
     "referenceISBNs": [],
@@ -3514,9 +3695,17 @@
       "fingerprint": "a5e98fe1ff63ac7752dd343e2499ef788bba002aa2b44c2bbb141f8bae4c6048"
     },
     "page": "/books/review-veterinary-science/",
-    "primaryUrl": "https://t.me/veterinary_objectives/7",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1TOduOUNho0mbKilOaZohpO0HKWQwS49D",
+      "name": "Review of Veterinary science .pdf",
+      "path": "Objective and competition /Objective notes /Review of Veterinary science .pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1TOduOUNho0mbKilOaZohpO0HKWQwS49D/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1TOduOUNho0mbKilOaZohpO0HKWQwS49D/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -3571,6 +3760,7 @@
       "candidatePath": "/assets/books/online-review/ruminant-surgery.webp"
     },
     "page": "/books/ruminant-surgery/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/18crjTihtryrbE5McfguxOxde9xTYjjO0/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3627,6 +3817,7 @@
       "candidatePath": "/assets/books/audit/sembulingam-medical-physiology-6th-edition-p1.webp"
     },
     "page": "/books/sembulingam-medical-physiology-6th-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1AnvRApqHkTeDu59SHiasERTWUEWK5fYY/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3702,6 +3893,7 @@
       "kind": "reference-cover"
     },
     "page": "/books/skin-diseases-of-exotic-pets/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/19V73CHn84hLLZtzIm-DAml4N-d4-bwis/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3758,6 +3950,7 @@
       "candidatePath": "/assets/books/audit/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition-p1.webp"
     },
     "page": "/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1VikNtt8A5o6_kX4wjXEIY54hvv2ixOty/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3814,6 +4007,7 @@
       "candidatePath": "/assets/books/audit/small-animal-ecgs-an-introductory-guide-3rd-edition-p1.webp"
     },
     "page": "/books/small-animal-ecgs-an-introductory-guide-3rd-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/10zT1Ww-zmO-R7VSaldA7ea_VwRqaZd9i/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3870,6 +4064,7 @@
       "candidatePath": "/assets/books/audit/small-animal-internal-medicine-5th-edition-p1.webp"
     },
     "page": "/books/small-animal-internal-medicine-5th-edition/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1DCiyZN02NtS9d79hVsJ6tKANP4rhf8vQ/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3926,6 +4121,7 @@
       "candidatePath": "/assets/books/audit/small-animal-surgery-5th-edition-theresa-fossum-p1.webp"
     },
     "page": "/books/small-animal-surgery-5th-edition-theresa-fossum/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1ET3tVHdFKOSS6StF291FrDpWdPojyRGD/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -3938,12 +4134,12 @@
     "description": "An all-subject question collection for practising veterinary objective questions.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_question_bank/3",
+    "telegram": null,
     "collection": "question-banks",
     "recommended": false,
     "type": "Question bank",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-tanuvas-qbank",
     "humanReference": false,
     "referenceISBNs": [],
@@ -3959,9 +4155,17 @@
       "fingerprint": "3af20f165cdfb827df5d9b684a7c9f2689087ae09d208877e4a31a98ea99593a"
     },
     "page": "/books/tanuvas-qbank/",
-    "primaryUrl": "https://t.me/veterinary_question_bank/3",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1d6YCC2pwTn5emKuQb8_AYQfYs7LpRa_B",
+      "name": "Tanuvas ICAR Question Bank.pdf",
+      "path": "Objective and competition /Question banks/Tanuvas ICAR Question Bank.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1d6YCC2pwTn5emKuQb8_AYQfYs7LpRa_B/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1d6YCC2pwTn5emKuQb8_AYQfYs7LpRa_B/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -4013,6 +4217,7 @@
       "fingerprint": "69eb8bdd0c2defe796359b99b4591538e1c0eefdc2310a3faab614f10bef6b32"
     },
     "page": "/books/text-book-of-veterinary-parasitology-bhatia/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1rqGzFoopej4pD-ozzr0aNUQfkn9nMY3F/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4052,6 +4257,7 @@
       "fingerprint": "4d9872bd15a144358b88a307e1e7bc0f8a3c87da3a8b1aa690fedc27aea0cd90"
     },
     "page": "/books/text-book-on-animal-genetics-and-breeding/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -4110,6 +4316,7 @@
       "candidatePath": "/assets/books/audit/textbook-of-animal-husbandry-and-livestock-extension-p1.webp"
     },
     "page": "/books/textbook-of-animal-husbandry-and-livestock-extension/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1hn4ODDn2U_lLlVKCbu7BTOzoKuluK99f/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4167,6 +4374,7 @@
       "candidatePath": "/assets/books/online-review/textbook-of-clinical-veterinary-medicine.webp"
     },
     "page": "/books/textbook-of-clinical-veterinary-medicine/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1m8BuPXfGu0Rj0J4STWEsk0Ilu4dH1pUn/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4203,6 +4411,7 @@
       "kind": "reference-cover"
     },
     "page": "/books/textbook-of-veterinary-anatomy/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -4300,6 +4509,7 @@
       "candidatePath": "/assets/books/audit/textbook-of-veterinary-internal-medicine-p1.webp"
     },
     "page": "/books/textbook-of-veterinary-internal-medicine/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1mr1sLm0C53nUKO_YKiOV80nXeUzCoVcu/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4356,6 +4566,7 @@
       "candidatePath": "/assets/books/audit/textbook-of-veterinary-pathology-p1.webp"
     },
     "page": "/books/textbook-of-veterinary-pathology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1knDpOeF1ckigyNJUJ_VjojvwAo3OxERn/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4412,6 +4623,7 @@
       "candidatePath": "/assets/books/audit/necropsy-book-john-king-p1.webp"
     },
     "page": "/books/necropsy-book-john-king/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1PQnf7EQH2hc4oVr9vEWX0VXzUUlIs1yz/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4424,12 +4636,12 @@
     "description": "DVM standards handbook for Crisp Veterinary Clinical Knowledge.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/Vethandbooks/3",
+    "telegram": null,
     "collection": "handbooks",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-ultimate-vet-handbook",
     "humanReference": false,
     "referenceISBNs": [],
@@ -4445,9 +4657,15 @@
       "fingerprint": "8ff5bf69f6154880a42f1e0d50073b44ffa3664ff9da87583f05aec0f476d61f"
     },
     "page": "/books/ultimate-vet-handbook/",
-    "primaryUrl": "https://t.me/Vethandbooks/3",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1Xp6Zd6jkY4Hsf15DDumg3IDXOpjZRLaW",
+      "name": "Ultimate Vet handbook.pdf",
+      "url": "https://drive.google.com/file/d/1Xp6Zd6jkY4Hsf15DDumg3IDXOpjZRLaW/view",
+      "providedBy": "Owner, 2026-11-01"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1Xp6Zd6jkY4Hsf15DDumg3IDXOpjZRLaW/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -4457,12 +4675,12 @@
     "description": "A vaccination-schedule reference to compare with species, local guidance and product labels.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/c/4430259212/6",
+    "telegram": null,
     "collection": "drug-index",
     "recommended": false,
     "type": "Reference sheet",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-vaccination-schedule",
     "humanReference": false,
     "referenceISBNs": [],
@@ -4478,9 +4696,17 @@
       "fingerprint": "7f41de0247f8077e34070f67bbfa5e556211ec5a147356c4a34d52db13b59ec1"
     },
     "page": "/books/vaccination-schedule/",
-    "primaryUrl": "https://t.me/c/4430259212/6",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "11JheXJ-U8W6pX2OBz75A0gd_jF8KZP9T",
+      "name": "Veterinary Vaccination Schedule (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Veterinary Vaccination Schedule (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/11JheXJ-U8W6pX2OBz75A0gd_jF8KZP9T/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/11JheXJ-U8W6pX2OBz75A0gd_jF8KZP9T/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -4490,12 +4716,12 @@
     "description": "A veterinary drug-index reference to consult alongside current product information.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/c/4430259212/3",
+    "telegram": null,
     "collection": "drug-index",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-vendex",
     "humanReference": false,
     "referenceISBNs": [],
@@ -4511,9 +4737,17 @@
       "fingerprint": "2d978c81cd00d7d0e94ae5fd9adb871ce980d81285db52631ceda0a356a1d5fe"
     },
     "page": "/books/vendex/",
-    "primaryUrl": "https://t.me/c/4430259212/3",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1UwQlDNMaHC-8OfdempF069lgeTuxYJ5s",
+      "name": "VENDEX- The Fundamental Veterinary Drug Index.pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/VENDEX- The Fundamental Veterinary Drug Index.pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1UwQlDNMaHC-8OfdempF069lgeTuxYJ5s/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1UwQlDNMaHC-8OfdempF069lgeTuxYJ5s/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -4523,14 +4757,14 @@
     "description": "A veterinary-science revision book combining subject review with practice questions. The 2022 listing includes three mock tests and three previous PSC papers. Best used to identify gaps after studying a topic.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/veterinary_question_bank/12",
+    "telegram": null,
     "collection": "question-banks",
     "recommended": false,
     "type": "Question bank",
     "references": [
       "https://www.ibpbooks.com/vet-scorer-a-complete-solution-of-veterinary-science-3-mock-tests-3-old-psc-papers/p/56196"
     ],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-vet-scorer",
     "humanReference": false,
     "referenceISBNs": [],
@@ -4547,9 +4781,17 @@
       "candidatePath": "/assets/books/online-review/vet-scorer.webp"
     },
     "page": "/books/vet-scorer/",
-    "primaryUrl": "https://t.me/veterinary_question_bank/12",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM",
+      "name": "Vet_Scorer_2022_(1st_Edition)[1]_rotated (2).pdf",
+      "path": "Objective and competition /Question banks/Vet_Scorer_2022_(1st_Edition)[1]_rotated (2).pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": false
   },
   {
@@ -4585,7 +4827,7 @@
     "recommended": false,
     "type": "Book",
     "references": [],
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-11-01",
     "resourceId": "book-veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition",
     "humanReference": false,
     "referenceISBNs": [],
@@ -4603,7 +4845,15 @@
       "candidatePath": "/assets/books/audit/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition-p1.webp"
     },
     "page": "/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/",
-    "primaryUrl": "https://drive.google.com/file/d/11bxwhHjGLv3AiXLd9U2yPezwd89bbVYf/view",
+    "primaryDrive": {
+      "id": "1SLfkQgY7Q0EgUPPUOvkhRl8S-m5Wr1w3",
+      "name": "Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition (3).pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition (3).pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1SLfkQgY7Q0EgUPPUOvkhRl8S-m5Wr1w3/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1SLfkQgY7Q0EgUPPUOvkhRl8S-m5Wr1w3/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
     "clinical": false
@@ -4615,12 +4865,12 @@
     "description": "A veterinary drug-reference collection labelled NAVSARI.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/c/4430259212/4",
+    "telegram": null,
     "collection": "drug-index",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-navsari-drug-index",
     "humanReference": false,
     "referenceISBNs": [],
@@ -4636,9 +4886,17 @@
       "fingerprint": "2008df4234fec7ab5345b9bc73ff35052db4d9269d1af1e71212c9490d29d92c"
     },
     "page": "/books/navsari-drug-index/",
-    "primaryUrl": "https://t.me/c/4430259212/4",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1m1q41xURGFBeabH3AZ0zdN9G_kxIQc-W",
+      "name": "Veterinary Drug Index (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Veterinary Drug Index (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1m1q41xURGFBeabH3AZ0zdN9G_kxIQc-W/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1m1q41xURGFBeabH3AZ0zdN9G_kxIQc-W/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -4694,6 +4952,7 @@
       "candidatePath": "/assets/books/audit/veterinary-epidemiology-p1.webp"
     },
     "page": "/books/veterinary-epidemiology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1QVUiZQbEeFn9a56d22fu-DgvCw7KpscM/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4750,6 +5009,7 @@
       "candidatePath": "/assets/books/audit/veterinary-extension-education-grk-sharma-p1.webp"
     },
     "page": "/books/veterinary-extension-education-grk-sharma/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1vlHBx6XLlj1gYtmWijoUyA4zqDjrtdqt/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4808,6 +5068,7 @@
       "candidatePath": "/assets/books/audit/veterinary-medicine-p1.webp"
     },
     "page": "/books/veterinary-medicine/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1gNYR5hxsLHMISdN3AdxQ8V9Oh7TY4jCY/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -4844,6 +5105,7 @@
       "kind": "reference-cover"
     },
     "page": "/books/veterinary-microbiology-and-microbial-disease/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -4925,6 +5187,7 @@
       "candidatePath": "/assets/books/audit/veterinary-mycology-p1.webp"
     },
     "page": "/books/veterinary-mycology/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1ePan-dG10lehu5icHLxSfREmwBCIEUtZ/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -5002,6 +5265,7 @@
       "candidatePath": "/assets/books/audit/veterinary-obstetrics-and-genital-disease-p1.webp"
     },
     "page": "/books/veterinary-obstetrics-and-genital-disease/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1zB46XFHMqBgQKtNGLMqXBZllKxNAVgOz/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -5040,6 +5304,7 @@
       "sha256": "5dd2aa06a5e6bd9f1e5fb11455464b71fd5bd0df5a8d9effd261d18641d0856e"
     },
     "page": "/books/veterinary-parasitology/",
+    "primaryDrive": null,
     "primaryUrl": null,
     "access": "Reading guide",
     "downloadLabel": "Request this book",
@@ -5052,12 +5317,12 @@
     "description": "A veterinary-practice handbook credited to R. K. Chandolia. Useful as a quick reading companion for clinical teaching and practical revision.",
     "subjects": [],
     "files": [],
-    "telegram": "https://t.me/Vethandbooks/7",
+    "telegram": null,
     "collection": "handbooks",
     "recommended": false,
     "type": "Handbook",
     "references": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-01",
     "resourceId": "telegram-veterinary-practice-handbook",
     "humanReference": false,
     "referenceISBNs": [],
@@ -5073,9 +5338,17 @@
       "fingerprint": "21a2785ad5b92cec32650c8a2582093524eb8771e749b1ad87f72ba4fe068f21"
     },
     "page": "/books/veterinary-practice-handbook/",
-    "primaryUrl": "https://t.me/Vethandbooks/7",
-    "access": "Telegram",
-    "downloadLabel": "Download via Telegram",
+    "primaryDrive": {
+      "id": "1RF2PQ6QvaGJxuwdXQBu-vVFS7_oFjrwT",
+      "name": "Veterinary practice handbook (1).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Veterinary practice handbook (1).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1RF2PQ6QvaGJxuwdXQBu-vVFS7_oFjrwT/view"
+    },
+    "primaryUrl": "https://drive.google.com/file/d/1RF2PQ6QvaGJxuwdXQBu-vVFS7_oFjrwT/view",
+    "access": "Google Drive",
+    "downloadLabel": "Open in Google Drive",
     "clinical": true
   },
   {
@@ -5146,6 +5419,7 @@
       "candidatePath": "/assets/books/audit/veterinary-reproduction-and-obstetrics-p1.webp"
     },
     "page": "/books/veterinary-reproduction-and-obstetrics/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1SFBcIP_U02rjln8IemIdp8zX6vVvbDK_/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",
@@ -5201,6 +5475,7 @@
       "candidatePath": "/assets/books/online-review/veterinary-surgery-and-radiology-by-s-k-nandi.webp"
     },
     "page": "/books/veterinary-surgery-and-radiology-by-s-k-nandi/",
+    "primaryDrive": null,
     "primaryUrl": "https://drive.google.com/file/d/1JF5935zW9GiaDRHXn7g0YW-w4SUd1Y2F/view",
     "access": "Google Drive",
     "downloadLabel": "Open in Google Drive",

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/dhruv-desai/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/dhruv-desai/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11,9 +11,9 @@ Study book · Exam revision
 
 Dhruv N Desai
 
-[Download via Telegram](https://t.me/veterinary_objectives/2?single)
+[Open in Google Drive](https://drive.google.com/file/d/19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25/view)
 
-This button opens the book’s Telegram post. View or download the file there.
+View or download this copy in Google Drive. Check its title page and edition before use.
 
 ## About this book
 
@@ -25,16 +25,16 @@ Edition & source details
 
 - Resource type: Study book
 
-- Access: Telegram
+- Access: Google Drive
 
 Symbolic artwork made for this listing; not the publisher’s cover.
 
 Credit belongs to the original authors and publishers.
 
-Access is provided through the original Telegram post.
+Primary collection: Rx Notes. File: ICAR-PG Question Bank by Dhruv N Desai.pdf
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Compiled%20Question%20Bank%20by%20Dhruv%20N%20Desai#report)
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

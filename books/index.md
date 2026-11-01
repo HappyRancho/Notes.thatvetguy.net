@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Books
@@ -23,13 +23,13 @@ Subject books, objective resources and clinical handbooks for BVSc & AH study. O
 
 [Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. · Google Drive](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
 
-[Essentials of Veterinary Histology & EmbryologyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
+[Essentials of Veterinary Histology & EmbryologyR. K. Ghosh · Google Drive](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
 
 [Guyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. Guyton · Google Drive](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
 
 [Livestock Production ManagementN. S. R. Sastry and C. K. Thomas · Reading guide](https://notes.thatvetguy.net/books/livestock-production-management/)
 
-[Primary Veterinary AnatomyR. K. Ghosh · Telegram](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
+[Primary Veterinary AnatomyR. K. Ghosh · Google Drive](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
 
 [Restraint and Handling of Wild and Domestic AnimalsMurray Fowler · Google Drive](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)
 
@@ -179,50 +179,50 @@ Show 7 more 7 remaining
 
 10 resources
 
-[All in One Veterinary CapsuleTelegram](https://notes.thatvetguy.net/books/veterinary-capsule/)
+[All in One Veterinary CapsuleGoogle Drive](https://notes.thatvetguy.net/books/veterinary-capsule/)
 
-[Animal Science RefresherSheelendra Kumar Tanwar · Telegram](https://notes.thatvetguy.net/books/animal-science-refresher/)
+[Animal Science RefresherSheelendra Kumar Tanwar · Google Drive](https://notes.thatvetguy.net/books/animal-science-refresher/)
 
-[Compiled Question Bank by Dhruv N DesaiDhruv N Desai · Telegram](https://notes.thatvetguy.net/books/dhruv-desai/)
+[Compiled Question Bank by Dhruv N DesaiDhruv N Desai · Google Drive](https://notes.thatvetguy.net/books/dhruv-desai/)
 
-[E. Nanu Veterinary Question BankE. Nanu · Telegram](https://notes.thatvetguy.net/books/e-nanu-qbank/)
+[E. Nanu Veterinary Question BankE. Nanu · Google Drive](https://notes.thatvetguy.net/books/e-nanu-qbank/)
 
-[KVAFSU Question BankTelegram](https://notes.thatvetguy.net/books/kvafsu-qbank/)
+[KVAFSU Question BankGoogle Drive](https://notes.thatvetguy.net/books/kvafsu-qbank/)
 
-[NDRI Veterinary Question BankTelegram](https://notes.thatvetguy.net/books/ndri-qbank/)
+[NDRI Veterinary Question BankGoogle Drive](https://notes.thatvetguy.net/books/ndri-qbank/)
 
-[Review of Animal ScienceTelegram](https://notes.thatvetguy.net/books/review-animal-science/)
+[Review of Animal ScienceGoogle Drive](https://notes.thatvetguy.net/books/review-animal-science/)
 
-[Review of Veterinary ScienceTelegram](https://notes.thatvetguy.net/books/review-veterinary-science/)
+[Review of Veterinary ScienceGoogle Drive](https://notes.thatvetguy.net/books/review-veterinary-science/)
 
-[TANUVAS All-Subjects Question BankTelegram](https://notes.thatvetguy.net/books/tanuvas-qbank/)
+[TANUVAS All-Subjects Question BankGoogle Drive](https://notes.thatvetguy.net/books/tanuvas-qbank/)
 
-[Vet Scorer 2022 — 1st EditionShailesh Kumar Patel, Jigyasa Rana and B. Balamurugan · Telegram](https://notes.thatvetguy.net/books/vet-scorer/)
+[Vet Scorer 2022 — 1st EditionShailesh Kumar Patel, Jigyasa Rana and B. Balamurugan · Google Drive](https://notes.thatvetguy.net/books/vet-scorer/)
 
 ## Clinical References
 
 11 resources
 
-[Colour Handbook of Small Animal Emergency and Critical CareTelegram](https://notes.thatvetguy.net/books/small-animal-colour-handbook/)
+[Colour Handbook of Small Animal Emergency and Critical CareGoogle Drive](https://notes.thatvetguy.net/books/small-animal-colour-handbook/)
 
-[Drug Dose — Wall ReferenceTelegram](https://notes.thatvetguy.net/books/wall-drug-dose/)
+[Drug Dose — Wall ReferenceGoogle Drive](https://notes.thatvetguy.net/books/wall-drug-dose/)
 
-[Handbook for Veterinary ClinicianA U Bhikane · Telegram](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/)
+[Handbook for Veterinary ClinicianA U Bhikane · Google Drive](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/)
 
-[Handbook of Small Animal Radiology and UltrasoundRuth Dennis · Telegram](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
+[Handbook of Small Animal Radiology and UltrasoundRuth Dennis · Google Drive](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
 
-[Plumb’s Veterinary Drug HandbookDonald C. Plumb · Telegram](https://notes.thatvetguy.net/books/plumbs-handbook/)
+[Plumb’s Veterinary Drug HandbookDonald C. Plumb · Google Drive](https://notes.thatvetguy.net/books/plumbs-handbook/)
 
-[Pocket Handbook of Small Animal MedicineKit Sturgess · Telegram](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/)
+[Pocket Handbook of Small Animal MedicineKit Sturgess · Google Drive](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/)
 
-[Ultimate Vet HandbookTelegram](https://notes.thatvetguy.net/books/ultimate-vet-handbook/)
+[Ultimate Vet HandbookGoogle Drive](https://notes.thatvetguy.net/books/ultimate-vet-handbook/)
 
-[Vaccination Schedule of All AnimalsTelegram](https://notes.thatvetguy.net/books/vaccination-schedule/)
+[Vaccination Schedule of All AnimalsGoogle Drive](https://notes.thatvetguy.net/books/vaccination-schedule/)
 
-[VENDEX: The Fundamental Veterinary Drug IndexTelegram](https://notes.thatvetguy.net/books/vendex/)
+[VENDEX: The Fundamental Veterinary Drug IndexGoogle Drive](https://notes.thatvetguy.net/books/vendex/)
 
-[Veterinary Drug Index by NAVSARITelegram](https://notes.thatvetguy.net/books/navsari-drug-index/)
+[Veterinary Drug Index by NAVSARIGoogle Drive](https://notes.thatvetguy.net/books/navsari-drug-index/)
 
-[Veterinary Practice HandbookRK Chandolia · Telegram](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
+[Veterinary Practice HandbookRK Chandolia · Google Drive](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

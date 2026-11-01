@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10,7 +10,7 @@ Book · Year 1
 
 Linda M. Bacha
 
-[Open in Google Drive](https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view)
+[Open in Google Drive](https://drive.google.com/file/d/1yhg6P8u3cjh5o3_tX5EAwX6Bu8fjveJt/view)
 
 View or download this copy in Google Drive. Check its title page and edition before use.
 
@@ -38,10 +38,16 @@ Cover extracted from the linked PDF.
 
 Credit belongs to the original authors and publishers.
 
+Primary collection: Rx Notes. File: Color Atlas of Veterinary Histology.pdf
+
 Collection: Vetverse. Original file label:
 
 - Color Atlas of Veterinary Histology.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Color%20Atlas%20of%20Veterinary%20Histology#report)
 
+Other available copies 
+
+- Color Atlas of Veterinary Histology.pdf[Open in Drive ](https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view)
+
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -147,4 +147,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Pathology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

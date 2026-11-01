@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -8,7 +8,7 @@ Book · Year 1
 
 # Colour Atlas of Veterinary Anatomy - The Ruminants
 
-[Open in Google Drive](https://drive.google.com/file/d/11XoUGYh3QQCeovB4gBQ12qGCF-7xgieE/view)
+[Open in Google Drive](https://drive.google.com/file/d/1O9o-tXFxZEWicwxTrXtNrLqU0_MUR5Tz/view)
 
 View or download this copy in Google Drive. Check its title page and edition before use.
 
@@ -30,10 +30,16 @@ Cover extracted from the linked PDF.
 
 Credit belongs to the original authors and publishers.
 
+Primary collection: Rx Notes. File: Colour Atlas of Veterinary Anatomy - The Ruminants.pdf
+
 Collection: Vetverse. Original file label:
 
 - Colour Atlas of Veterinary Anatomy - The Ruminants.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Colour%20Atlas%20of%20Veterinary%20Anatomy%20-%20The%20Ruminants#report)
 
+Other available copies 
+
+- Colour Atlas of Veterinary Anatomy - The Ruminants.pdf[Open in Drive ](https://drive.google.com/file/d/11XoUGYh3QQCeovB4gBQ12qGCF-7xgieE/view)
+
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

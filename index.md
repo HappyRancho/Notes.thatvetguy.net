@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-11-01 -->
 
 # Free Veterinary Academic Resources
 
@@ -52,9 +52,9 @@ MCQs repeat. Your confidence doesn’t.
 
 [Objective Notes](https://notes.thatvetguy.net/objective/#books)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)
 
-[Compiled Question Bank by Dhruv N DesaiOpen ](https://t.me/veterinary_objectives/2?single)[Animal Science RefresherOpen ](https://t.me/veterinary_objectives/5)[Review of Veterinary ScienceOpen ](https://t.me/veterinary_objectives/7)[Review of Animal ScienceOpen ](https://t.me/veterinary_objectives/8)[All in One Veterinary CapsuleOpen ](https://t.me/veterinary_objectives/3?single)
+[Compiled Question Bank by Dhruv N DesaiOpen ](https://drive.google.com/file/d/19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25/view)[Animal Science RefresherOpen ](https://drive.google.com/file/d/1W--1DTvdAoTSAWr-T6Xv_Irl-FThmvZ9/view)[Review of Veterinary ScienceOpen ](https://drive.google.com/file/d/1TOduOUNho0mbKilOaZohpO0HKWQwS49D/view)[Review of Animal ScienceOpen ](https://drive.google.com/file/d/1lBsmrhg926FuxLJMVUETqL-1RX-jkeIc/view)[All in One Veterinary CapsuleOpen ](https://drive.google.com/file/d/1d-Vf74CelNRSyqGPTrFuY02XBxcdiYau/view)
 
-[TANUVAS All-Subjects Question BankOpen ](https://t.me/veterinary_question_bank/3)[NDRI Veterinary Question BankOpen ](https://t.me/veterinary_question_bank/6)[Vet Scorer 2022 — 1st EditionOpen ](https://t.me/veterinary_question_bank/12)[KVAFSU Question BankOpen ](https://t.me/veterinary_question_bank/5)[E. Nanu Veterinary Question BankOpen ](https://t.me/veterinary_question_bank/4)
+[TANUVAS All-Subjects Question BankOpen ](https://drive.google.com/file/d/1d6YCC2pwTn5emKuQb8_AYQfYs7LpRa_B/view)[NDRI Veterinary Question BankOpen ](https://drive.google.com/file/d/1WdzlsxVj4mnl1pAnOWfgBkL-FUi2qnw6/view)[Vet Scorer 2022 — 1st EditionOpen ](https://drive.google.com/file/d/1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM/view)[KVAFSU Question BankOpen ](https://drive.google.com/file/d/14Q49pXxd0LEM--gQkh_oI8ROwqnd3Mds/view)[E. Nanu Veterinary Question BankOpen ](https://drive.google.com/file/d/1ArkjZrgw-IlKwAPgvuSk4h3yq9kJ_Tmv/view)
 [Explore more ](https://notes.thatvetguy.net/objective/)
 
 ## Tools & Tips
@@ -111,4 +111,4 @@ Can’t find a resource? Ask for it.
 
 Students today. Better vets tomorrow.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Objective Resources
@@ -7,7 +7,7 @@
 
 Objective notes and veterinary question banks for BVSc & AH revision. Browse Dhruv N Desai, Animal Science Refresher, TANUVAS and more, with direct Telegram access.
 
-Choose a collection below. Open a book for its details and Telegram download link.
+Choose a collection below. Open a book for its details and Google Drive link.
 
 [Objective Notes](https://notes.thatvetguy.net/objective/#books)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)
 
@@ -105,4 +105,4 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://notes.thatvetguy.net/books/e-nanu-qbank/)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

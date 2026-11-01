@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/handbooks/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Clinical Resources](https://notes.thatvetguy.net/#clinical)
@@ -58,6 +58,6 @@ Colour handbook of Small Animal Emergency and Critical care.
 
 [Open Book: A_Color_Handbook_of_Small_Animal.pdf](https://notes.thatvetguy.net/books/small-animal-colour-handbook/)
 
-Each book page provides its Telegram download link. Use clinical references alongside supervised training and current guidance.
+Open a book to view or download its PDF in Google Drive. Use clinical references alongside supervised training and current guidance.
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
