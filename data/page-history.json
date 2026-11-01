@@ -1,6 +1,6 @@
 {
   "/": {
-    "sha256": "2b2172f9493b327b6431c096c914251437d984a55f5f92dc613fbf0532a964f0",
+    "sha256": "17dd4f4c878545864a34c18f7a74d955472a489be1519428b5c0580a5622cb5d",
     "modified": "2026-11-01"
   },
   "/bvsc/": {
@@ -116,20 +116,20 @@
     "modified": "2026-10-28"
   },
   "/bvsc/year-1/roadmap/": {
-    "sha256": "9f43d36934dae0368736d051daf49320300eadc6c402ac78cdd7a5e7a9f226be",
-    "modified": "2026-10-28"
+    "sha256": "be42baf56b1cadf18c88431721c6901ff116ca6deac01d798827c941a0c76455",
+    "modified": "2026-11-01"
   },
   "/bvsc/year-2/roadmap/": {
-    "sha256": "d5277e109932de5c2f420001adb7a5c8d3a31a0ca1189c1de34c7892bc984b78",
-    "modified": "2026-10-28"
+    "sha256": "2eeea0f5707a2c2c0b7cd9824fb34eff405cb3a47d4e1af96a801bb2026da49e",
+    "modified": "2026-11-01"
   },
   "/bvsc/year-3/roadmap/": {
-    "sha256": "2ea64befdc7233d3df0454b23d91f9657311f826cff0b3ce711370bba1885b4b",
-    "modified": "2026-10-28"
+    "sha256": "3d790cdc544094a7d919787efd48e42b744a90c6bf967f7b37f8ee7e649605d9",
+    "modified": "2026-11-01"
   },
   "/bvsc/year-4/roadmap/": {
-    "sha256": "2ac29f8848d3e1630607ce2bf730602486a3d412dfd5387daf8bf032072f4ba8",
-    "modified": "2026-10-28"
+    "sha256": "70291146a09072731e53ef32fc588ec4b0354b97c447e4ab775bdbc0361bd3c2",
+    "modified": "2026-11-01"
   },
   "/objective/": {
     "sha256": "b0c12ec4100319c822c8d2be2f7590be14fc09856aa1115acd8f3fd846455ea2",

@@ -1,0 +1,492 @@
+{
+  "reviewed": "2026-11-01",
+  "sources": [
+    {
+      "id": "bva",
+      "title": "BVA · Veterinary educators on study methods",
+      "url": "https://www.bva.co.uk/news-and-blog/blog-article/hints-and-tips-for-successful-studying-at-vet-school/",
+      "kind": "Educator guidance",
+      "note": "Active learning and diagnosing weak topics; used for the general learning approach."
+    },
+    {
+      "id": "penn",
+      "title": "Penn Vet · Student mentor study strategies",
+      "url": "https://weingartencenter.universitylife.upenn.edu/straight-from-penn-vet-study-strategies/",
+      "kind": "University / student mentors",
+      "note": "Drawing, explaining and studying with a partner. Not an Indian exam scheme."
+    },
+    {
+      "id": "edinburgh",
+      "title": "Edinburgh · Choosing first-year textbooks",
+      "url": "https://vet.ed.ac.uk/education/admissions/offer-holders/before-you-arrive/1st-year-recommended-textbooks",
+      "kind": "University guidance",
+      "note": "Trying books before purchasing and distinguishing a core text from a reference."
+    },
+    {
+      "id": "anatomy-discussion",
+      "title": "Reddit · Anatomy practical preparation",
+      "url": "https://www.reddit.com/r/veterinaryschool/comments/uszvia/studying_anatomy_tips/",
+      "kind": "Student discussion",
+      "note": "Label-free identification and peer quizzing; individual experiences, not proof of effectiveness."
+    },
+    {
+      "id": "india-discussion",
+      "title": "Reddit · Starting BVSc in India",
+      "url": "https://www.reddit.com/r/VETERetards/comments/1utnees/advice_for_1st_year_students/",
+      "kind": "Student discussion",
+      "note": "Practical college preparation. Medical and hostel-product recommendations were not adopted."
+    },
+    {
+      "id": "clinical-discussion",
+      "title": "Reddit · Moving from exams to clinics",
+      "url": "https://www.reddit.com/r/veterinaryschool/comments/1rac4fn/about_to_be_4th_year_panicking/",
+      "kind": "Student discussion",
+      "note": "Concerns about recall and clinical confidence. Foreign rotation arrangements are not applied to BVSc."
+    },
+    {
+      "id": "rcvs-reasoning",
+      "title": "RCVS · Diagnostic reasoning",
+      "url": "https://www.rcvs.org.uk/veterinary-professionals/learning-and-development/training-and-development-for-veterinary-surgeons/veterinary-graduate-development-programme-vetgdp/entrustable-professional-activities-epas/epa-2",
+      "kind": "Professional guidance",
+      "note": "Prioritised differentials and interpreting evidence; a learning reference, not Indian licensing rules."
+    },
+    {
+      "id": "rcvs-evidence",
+      "title": "RCVS · Finding evidence and recognising gaps",
+      "url": "https://www.rcvs.org.uk/veterinary-professionals/learning-and-development/training-and-development-for-veterinary-surgeons/veterinary-graduate-development-programme-vetgdp/entrustable-professional-activities-epas/epa-5",
+      "kind": "Professional guidance",
+      "note": "Checking applicability of information and asking for assistance."
+    },
+    {
+      "id": "pg-account",
+      "title": "Vet Extension · Dr. Bhupender’s preparation account",
+      "url": "https://www.vetextension.com/toppers-talk-tips-and-tricks-to-crack-icar-pg-examination-in-animal-sciences/",
+      "kind": "First-person exam experience",
+      "note": "Concise revision and reviewing errors only. PG topic predictions and rank claims do not set professional-exam priorities."
+    }
+  ],
+  "years": {
+    "1": {
+      "headline": "Make the basics stick.",
+      "intro": "New words, unfamiliar specimens, three very different subjects. Start with a system that turns each class into something you can explain, identify or do.",
+      "mission": "Identify it. Explain it. Use it.",
+      "priorities": [
+        {
+          "title": "Set up your actual course",
+          "text": "Download the year outline, open the three subject checklists and compare them with your department’s teaching plan. Get the required record-book format before writing a week of work in the wrong one."
+        },
+        {
+          "title": "Choose a small study kit",
+          "text": "Use your class material as the daily route, one reference to clear doubts and a practical notebook. Borrow or preview books first. Buy equipment only after the department confirms what is required."
+        },
+        {
+          "title": "Make your first recall sheet",
+          "text": "After the first anatomy practical, make a blank-label sketch; after physiology, a cause-and-effect chain; after LPM, a species comparison. These are three different tasks, so do not use one method for everything."
+        }
+      ],
+      "subjects": {
+        "Veterinary Anatomy": {
+          "goal": "Recognise structures beyond the textbook picture.",
+          "build": "Start with side, surface and anatomical direction. Add the landmarks that distinguish the specimen before learning its long list of attachments. Keep species differences next to the structure they modify.",
+          "practise": "Use an approved specimen or image from another angle. Point to the structure, name its neighbours and explain one relation. For histology, move from tissue organisation to the feature that supports identification.",
+          "test": "On a scapula, orient it first, identify the spine and glenoid region, then justify the species using features taught in your course. A name without orientation is unfinished revision.",
+          "trap": "Memorising one labelled photograph can train recognition of that photograph. Change the view and remove the labels."
+        },
+        "Veterinary Physiology": {
+          "goal": "Turn mechanisms into predictions.",
+          "build": "Write each process as stimulus → sensor/control → response → feedback. Add the relevant organ and the variable being regulated. Learn the normal mechanism before collecting disease examples.",
+          "practise": "Close the notes and change one variable: less water available, a change in ventilation, or a different feeding state. Explain which responses you expect and why, then check your explanation.",
+          "test": "For a practical, state what is measured, the principle, the units and one source of error. For a theory answer, draw a labelled mechanism rather than a page of disconnected definitions.",
+          "trap": "A normal value without species, units and context is easy to misuse. Copy all three together."
+        },
+        "Livestock Production Management": {
+          "goal": "Make farm observations useful for written answers.",
+          "build": "Organise husbandry by species and life stage: housing, feeding management, handling, identification and records. Keep local breed examples clearly labelled rather than treating one farm as universal.",
+          "practise": "On a visit, record a practice, its purpose and the evidence you would use to judge it. Compare two housing layouts using ventilation, drainage, cleaning and animal movement.",
+          "test": "Explain a management choice in plain language, then write the same answer with the technical headings expected in class. Practise identifying equipment and describing its use.",
+          "trap": "Do not treat LPM as easy theory to leave until the end. Practical routines and species comparisons need repeated exposure."
+        }
+      },
+      "chapters": [
+        {
+          "title": "Build a resource ladder",
+          "deck": "Know which source to open, and when.",
+          "paragraphs": [
+            "Start a topic from the lecture and checklist. If a concept is unclear, read the relevant pages of one reference. If the problem is recognising a structure, change to an atlas, slide or specimen instead of downloading another set of prose notes.",
+            "A senior’s annotated notes can help you find the route through a chapter. Check their headings against your current outline and ask which parts were taught differently in their batch. Keep additions in one place so that revision does not become a search across five PDFs."
+          ],
+          "exampleLabel": "Try this with one chapter",
+          "example": "Choose one source for the first pass and one for clarification. Write their names at the top of the unit checklist. Only add a third when you can name the gap it fills.",
+          "takeaway": "Finish one usable set before collecting another."
+        },
+        {
+          "title": "Prepare for the practical you will actually face",
+          "deck": "Knowing the paragraph and identifying the specimen are separate skills.",
+          "paragraphs": [
+            "Before the session, learn the names and orientation terms that will be used. During it, spend time locating structures yourself within the instructor’s rules. After it, test identification without the labelled guide. Ask a partner to point at a different view rather than always using your favourite image.",
+            "For a viva, rehearse a short sequence: identification, distinguishing feature, location or relation, and relevant function. When you are unsure, describe what you can observe and ask for correction; guessing confidently hides the exact gap you need to fix."
+          ],
+          "exampleLabel": "A useful lab note",
+          "example": "Specimen or slide → feature used to identify it → closest confusion → how to tell them apart. Add a small sketch only if it helps the distinction.",
+          "takeaway": "Permission and lab safety come before photos or extra specimen handling."
+        },
+        {
+          "title": "Make the first internal a diagnostic",
+          "deck": "Use the result to change the method, not just the number of hours.",
+          "paragraphs": [
+            "Separate a missed answer into knowledge, recall, presentation or time. If you understood it only after seeing the answer, practise retrieving it. If you named the structure but could not explain its relation, go back to the specimen and the surrounding anatomy.",
+            "Take one marked answer to a teacher or a reliable senior and ask where it stopped earning credit. Use university papers to understand answer length and practical format, while keeping every prescribed unit on your plan."
+          ],
+          "exampleLabel": "Repair one answer",
+          "example": "Write the corrected answer from a blank page two days later. Include the diagram labels, units or comparison that was missing. Check whether the correction survives without the model answer.",
+          "takeaway": "The internal is feedback early enough to use."
+        }
+      ],
+      "reset": [
+        "List unfinished topics by unit, not by the number of lecture PDFs. Mark the prerequisites you need for the current class.",
+        "Keep attending the current teaching. Add one bounded catch-up task: one bone, one feedback loop or one husbandry comparison.",
+        "If missed classes or distress are building up, contact the course coordinator or student support early; do not wait for the next examination."
+      ],
+      "exam": [
+        "Practise a timed written answer with a labelled diagram, then compare it with your course expectations.",
+        "Use separate practical rounds for specimens, slides, instruments and oral explanations. Reading the theory alone does not test these.",
+        "Check record completion and attendance separately for each subject; ask the department to resolve discrepancies while there is time."
+      ],
+      "sources": [
+        "bva",
+        "penn",
+        "edinburgh",
+        "anatomy-discussion",
+        "india-discussion"
+      ]
+    },
+    "2": {
+      "headline": "Connect the subjects. Keep the numbers moving.",
+      "intro": "The workload grows, and the subjects stop behaving alike. Build links between disease processes while giving calculations and laboratory interpretation their own practice.",
+      "mission": "Mechanism → observation → interpretation.",
+      "priorities": [
+        {
+          "title": "Audit the first-year gaps",
+          "text": "Refresh only the foundations needed for this week: inflammation needs normal tissue, metabolism needs basic chemistry, and feeding calculations need confident units. Avoid restarting every first-year textbook."
+        },
+        {
+          "title": "Protect calculation time",
+          "text": "Reserve short recurring sessions for Genetics and Nutrition before descriptive subjects fill the week. Keep the question, working, assumptions and final units together."
+        },
+        {
+          "title": "Start one laboratory log",
+          "text": "For each technique, record the sample, principle, observation and interpretation. Keep the report format required by the department separate from your short revision notes."
+        }
+      ],
+      "subjects": {
+        "Veterinary Pathology": {
+          "goal": "Describe the change before naming the disease.",
+          "build": "Build a chain from cause to cell injury, tissue response and organ dysfunction. Separate gross appearance from microscopic features; they answer different parts of the practical.",
+          "practise": "Compare two similar lesions side by side using location, distribution, size, colour and consistency where relevant. Practise a description before uncovering the labelled diagnosis.",
+          "test": "For a specimen, give the observation first and then explain which mechanism could produce it. If you cannot connect the two, revisit the general pathology concept.",
+          "trap": "A memorised disease name can mask an inability to describe the lesion in front of you."
+        },
+        "Veterinary Microbiology": {
+          "goal": "Distinguish organisms through evidence.",
+          "build": "Compare a small group by organism type, transmission, pathogenesis, suitable sample and diagnostic principle. Add immunology where it explains the host response or test.",
+          "practise": "Cover one column of the comparison and reconstruct it. In practical revision, explain why that stain, medium or test is being used and what its result can establish.",
+          "test": "Given an academic case and a proposed test, identify the sample needed and one limitation of the result. Use your taught laboratory procedures and biosafety rules.",
+          "trap": "Avoid enormous tables copied without a purpose. Compare organisms you actually confuse."
+        },
+        "Animal Nutrition": {
+          "goal": "Keep the basis of every number visible.",
+          "build": "Label every value: dry matter or as-fed, percentage or fraction, per animal or per unit body weight. Write the requirement and the feed contribution in compatible units before calculating.",
+          "practise": "Solve a worked example, cover it, then solve a different set of values. Estimate the direction and rough size of the result so a misplaced decimal is easier to spot.",
+          "test": "A 10 kg as-fed sample at 20% dry matter contains 2 kg dry matter. State both the arithmetic and what the 2 kg represents before moving to a ration problem.",
+          "trap": "A tidy final number can still be wrong if the moisture basis changed halfway through."
+        },
+        "Animal Genetics and Breeding": {
+          "goal": "Interpret the answer, not just the formula.",
+          "build": "Before substituting numbers, name the quantity being estimated, define each symbol and write the assumptions. Separate population measures from predictions about an individual.",
+          "practise": "Keep one solved example and one common wrong approach for each problem type. Rework a problem with changed values or a changed assumption.",
+          "test": "After calculating a population-genetics quantity, write one sentence explaining what it describes and one thing it does not tell you. Check the expected range.",
+          "trap": "Do not use a heritability estimate as the percentage of an individual animal’s trait caused by genes."
+        },
+        "Veterinary Biochemistry": {
+          "goal": "Learn pathways as regulated routes.",
+          "build": "Map the purpose, cellular location, major inputs and outputs, and control points. Then connect the route to feeding state and the related physiology.",
+          "practise": "Sketch a pathway framework from memory and add the missing regulated steps after checking. For assays, link the colour change or measurement to the chemical principle.",
+          "test": "Explain why a pathway would be more or less active in the stated academic example. In practical work, distinguish the test principle from the result interpretation.",
+          "trap": "Collecting every intermediate before understanding the pathway’s job makes revision harder."
+        }
+      },
+      "chapters": [
+        {
+          "title": "Give different work different study sessions",
+          "deck": "Five subjects do not need five identical notebooks.",
+          "paragraphs": [
+            "Use short problem sessions for calculations and longer linked sessions for Pathology and Microbiology. A useful weekly review contains at least one fresh numerical problem, one lesion description and one laboratory interpretation—not simply five chapters reread.",
+            "Keep one page of recurring calculation errors. Record whether the error came from the formula, the basis, arithmetic or interpretation. If the same error returns, change the exercise: rewrite the units or explain the assumption before touching the calculator."
+          ],
+          "exampleLabel": "A small numerical practice set",
+          "example": "One solved example with annotations → one similar problem without help → one changed scenario → a sentence interpreting the result. Stop and repair the first incorrect step.",
+          "takeaway": "Accuracy on a new problem matters more than recognising an old solution."
+        },
+        {
+          "title": "Connect disease learning without making a monster table",
+          "deck": "Use a short chain that you can reconstruct.",
+          "paragraphs": [
+            "Choose a disease example already taught. Link its cause, mechanism, tissue change, functional consequence and diagnostic evidence. If a link is missing, identify the subject that can fill it. This keeps cross-subject revision concrete.",
+            "Do not add a treatment column just to make the table look complete. This year’s priority is recognising how a process develops and how evidence supports an interpretation. Leave uncertain information marked for clarification."
+          ],
+          "exampleLabel": "A reusable study page",
+          "example": "Agent or cause → mechanism → lesion → effect on function → sample or observation that helps. Write the chain from memory, then correct it using the relevant course material.",
+          "takeaway": "A blank link is a useful target for the next study session."
+        },
+        {
+          "title": "Turn practical records into viva preparation",
+          "deck": "The result is only the middle of the story.",
+          "paragraphs": [
+            "For each exercise, rehearse what was tested, why the method works, what you observed and what might make the observation misleading. Where the department teaches controls, record what the control establishes.",
+            "Compare two similar methods by the question each answers. Ask for feedback on your interpretation rather than only whether the record is signed. Keep feedback beside the original exercise so it is available before the practical exam."
+          ],
+          "exampleLabel": "A four-line viva rehearsal",
+          "example": "Purpose → principle → observation → interpretation and limitation. Say it aloud without reading the record; then check the weakest line.",
+          "takeaway": "Do not turn a laboratory observation into a clinical conclusion without the necessary context."
+        }
+      ],
+      "reset": [
+        "Split the backlog into explanations, identifications and calculations. Count the tasks you can practise, not the pages you can scroll.",
+        "Repair one prerequisite and one current topic in parallel. Keep a small recurring calculation slot even during Pathology-heavy weeks.",
+        "After a weak internal, take a marked problem or answer to the teacher. Ask for the first wrong step and practise that step with changed examples."
+      ],
+      "exam": [
+        "Mix descriptive answers with fresh numerical questions; show working, units and assumptions.",
+        "Practise lesion and organism distinctions using unfamiliar images approved for teaching, not only the ones in your notes.",
+        "For every practical method, rehearse its purpose, principle and limitation as well as the result."
+      ],
+      "sources": [
+        "bva",
+        "penn",
+        "pg-account"
+      ]
+    },
+    "3": {
+      "headline": "Turn knowledge into decisions.",
+      "intro": "Drugs, parasites, populations, products and your first clinical habits now meet. Build the links without letting the smaller courses or practical records disappear.",
+      "mission": "Choose a reason before choosing an answer.",
+      "priorities": [
+        {
+          "title": "Put all seven courses on the map",
+          "text": "Include Clinical Practices I and Livestock Farm Practices in your timetable. Find out how attendance, records and practical assessments are tracked for each."
+        },
+        {
+          "title": "Build two reusable templates",
+          "text": "Set up a drug-class comparison and a parasite life-cycle sheet. Use mechanisms, host context and stages; do not start with a collection of brand names."
+        },
+        {
+          "title": "Prepare for your first posting",
+          "text": "Learn the reporting time, permitted student tasks, record format and whom to ask for supervision. Carry a small list of learning gaps, not a list of procedures to try unsupervised."
+        }
+      ],
+      "subjects": {
+        "Veterinary Pharmacology and Toxicology": {
+          "goal": "Explain the choice and the caution.",
+          "build": "For a drug class, link mechanism to the intended effect, important adverse effects and factors that change suitability. Keep generic names separate from brands.",
+          "practise": "Compare two classes used for the same broad purpose. Use academic calculation examples to practise unit conversion before checking your working against a reliable answer.",
+          "test": "Explain the reasoning behind a taught choice and the information needed before applying it to a patient: species, formulation, route and relevant patient factors.",
+          "trap": "A remembered dose or a screenshot is not a prescribing plan. Actual treatment decisions need current references and supervision."
+        },
+        "Veterinary Parasitology": {
+          "goal": "Use the life cycle to explain diagnosis and control.",
+          "build": "Start with the definitive and intermediate hosts where applicable, infective stage, route of entry, site and diagnostic stage. Draw arrows that name what moves between hosts.",
+          "practise": "Cover the labels and rebuild the cycle. Link a control measure to the stage it interrupts and a diagnostic method to what it can detect.",
+          "test": "Given a cycle taught in class, identify how infection is acquired and what would be looked for diagnostically. Explain why those stages may differ.",
+          "trap": "Memorising a cycle as a circular picture can hide confusion about hosts and stages."
+        },
+        "Veterinary Public Health and Epidemiology": {
+          "goal": "Define the population before calculating the rate.",
+          "build": "Write the event, population at risk and time period before using a measure. Link zoonotic hazards to the route of exposure and the people or animals affected.",
+          "practise": "Work through a small invented dataset. Say whether you are counting existing cases or new cases over time before selecting the measure.",
+          "test": "Ten existing cases among 100 animals examined is 10% prevalence at that observation. It does not by itself give the incidence over the following month.",
+          "trap": "A percentage is incomplete without its denominator, timing and case definition."
+        },
+        "Veterinary and Animal Husbandry Extension Education": {
+          "goal": "Translate a technical point into a usable message.",
+          "build": "Connect the communication method to the audience, language, available resources and decision being made. Keep economic concepts tied to an explicit farm situation.",
+          "practise": "Explain one taught husbandry practice to a classmate acting as a livestock owner. Ask them to repeat the action in their own words and note what was misunderstood.",
+          "test": "Prepare a short extension message with the action, reason, likely constraint and a way to check understanding. Match it to the method taught in class.",
+          "trap": "Technical vocabulary is not evidence that the listener can use the advice."
+        },
+        "Livestock Products Technology": {
+          "goal": "Learn the reason for each processing step.",
+          "build": "Draw a process flow and annotate the purpose of each stage, the quality property assessed and the point at which contamination or deterioration may occur.",
+          "practise": "Reconstruct a taught milk, meat or egg process from a blank page. Add the relevant quality tests and explain what each result indicates.",
+          "test": "Explain the consequence of omitting a step, using the process conditions taught in your course. Keep exact standards attached to their current source.",
+          "trap": "Do not memorise a processing temperature without the product, time and purpose it belongs to."
+        },
+        "Veterinary Clinical Practices I": {
+          "goal": "Build a reliable examination and case-record habit.",
+          "build": "Learn the structure used by your clinic for history, examination and findings. Separate what the owner reported from what you observed or measured.",
+          "practise": "Present one supervised case in a short, organised sequence. Ask the clinician to correct the most important missing finding or weak inference.",
+          "test": "Write a de-identified learning note with the presenting problem, key findings and one point to review. Keep the official record in the institution’s required system.",
+          "trap": "Observation is not permission to perform a procedure. Ask for supervision and follow the posting’s limits."
+        },
+        "Livestock Farm Practices": {
+          "goal": "Read the farm through its routines and records.",
+          "build": "Learn how the farm records feed, production, health events and animal identification. Notice how a change in management could alter more than one record.",
+          "practise": "Track one approved observation across visits, such as a feeding routine or a housing feature. Record the context before drawing conclusions.",
+          "test": "Explain the purpose of a routine, the record it produces and a limitation of what you observed. Include the date and species in your notes.",
+          "trap": "One visit is a snapshot. Avoid treating a single observation as proof of a farm-wide problem."
+        }
+      },
+      "chapters": [
+        {
+          "title": "Build connections around a single example",
+          "deck": "A practical way to revise several subjects without losing the thread.",
+          "paragraphs": [
+            "Take one parasite taught that week. Reconstruct the host and life cycle, describe the relevant disease mechanism, identify the diagnostic stage and explain the principle of prevention. Add drug-class reasoning only at the level covered in your course.",
+            "When the explanation breaks, return to the specific foundation: tissue damage, host response or pharmacological mechanism. Relearning one missing concept is more manageable than reopening an entire previous-year textbook."
+          ],
+          "exampleLabel": "A short integration exercise",
+          "example": "On one page use four headings: agent and host; effect on the animal; evidence; prevention or treatment principle. Mark every uncertain link for review.",
+          "takeaway": "Connection is useful only when you can explain why the links belong together."
+        },
+        {
+          "title": "Keep clinical learning separate from prescribing",
+          "deck": "Clinical curiosity needs a clear boundary.",
+          "paragraphs": [
+            "In a case discussion, write the problem first and the product name last. Ask what finding supports the proposed diagnosis, what else could explain it and which result would change the next step.",
+            "Keep an academic drug-class notebook for mechanisms and comparisons. For real patient care, the supervising clinician and current species-appropriate guidance determine the plan. A food-producing animal also raises withdrawal-period and regulatory questions that a generic revision table cannot settle."
+          ],
+          "exampleLabel": "A better posting note",
+          "example": "Observed finding → possible explanation → evidence needed → supervisor’s feedback. Review the unresolved point after the posting, using an appropriate reference.",
+          "takeaway": "Do not turn a classmate’s treatment list into a clinical protocol."
+        },
+        {
+          "title": "Give the smaller courses a visible place",
+          "deck": "They build skills the clinic alone will not teach.",
+          "paragraphs": [
+            "Extension, LPT and Public Health can disappear behind Pharmacology if they have no scheduled output. Give each a concrete product: an owner-facing explanation, a process flow or an epidemiology calculation.",
+            "Use farm and clinical postings to notice where those subjects connect. A food-safety problem, a communication failure or a poorly defined denominator can matter as much as knowing the drug class. Keep the practical-only courses in your record review every week."
+          ],
+          "exampleLabel": "A weekly evidence check",
+          "example": "Look for one completed case reflection, one farm record and one task from a less-revised theory subject. If a category stays empty, plan that task first next week.",
+          "takeaway": "Judge coverage by completed tasks across courses, not by hours spent on the favourite subject."
+        }
+      ],
+      "reset": [
+        "Map pending work to all seven courses and separate record deadlines from revision tasks.",
+        "Choose one manageable disease example to reconnect prior knowledge. Keep the explanation short enough to test without the notes.",
+        "Ask the posting supervisor which missed competency or incomplete record needs attention first; do not try to repair practical learning only with PDFs."
+      ],
+      "exam": [
+        "Practise drug-class comparisons and life cycles from blank templates, with the relevant species or host stated.",
+        "Solve epidemiology problems with the denominator and time period written before the formula.",
+        "Check Clinical Practices I and Farm Practices requirements directly; practical-only assessment does not follow a generic theory-paper template."
+      ],
+      "sources": [
+        "bva",
+        "pg-account",
+        "rcvs-evidence",
+        "clinical-discussion"
+      ]
+    },
+    "4": {
+      "headline": "Walk into clinics with a method.",
+      "intro": "You do not need every answer on day one. You need a reliable way to gather findings, explain your reasoning, ask for help and learn from the next case.",
+      "mission": "Observe carefully. Reason clearly. Follow through.",
+      "priorities": [
+        {
+          "title": "Get the posting essentials",
+          "text": "Find the roster, reporting time, record requirements, supervisor and escalation route. Clarify what you may observe, assist with or perform under supervision."
+        },
+        {
+          "title": "Refresh by presentation",
+          "text": "Use the next posting to choose a narrow refresher: the examination sequence, relevant anatomy and common problem categories. Avoid trying to revise three years in one weekend."
+        },
+        {
+          "title": "Keep a learning log that leads somewhere",
+          "text": "After a case, save a de-identified summary, one uncertainty and one piece of feedback. Revisit that point before the next similar case; a signature alone does not show what changed."
+        }
+      ],
+      "subjects": {
+        "Veterinary Medicine": {
+          "goal": "Turn findings into a prioritised problem list.",
+          "build": "Separate history, observed findings and your interpretation. Group related problems before listing differentials; explain the evidence supporting and weakening each possibility.",
+          "practise": "Present a supervised case with the signalment, main complaint, key positives and relevant negatives. Suggest what further information would help distinguish the possibilities.",
+          "test": "For an academic case, explain why the proposed investigation could change the next decision. A long test list without a purpose does not demonstrate reasoning.",
+          "trap": "Do not anchor on the first familiar disease name and reinterpret every finding to fit it."
+        },
+        "Veterinary Surgery and Radiology": {
+          "goal": "Understand the whole procedure, including recovery.",
+          "build": "Link the indication and anatomy to preparation, asepsis, analgesia or anaesthesia, monitoring and aftercare at the level taught. Learn instrument function alongside identification.",
+          "practise": "Use permitted simulation or supervised practice for manual skills. For images, identify the patient context, view and image quality before interpreting abnormalities.",
+          "test": "Explain the purpose of the procedure, important structures at risk and the observations needed afterwards. Ask the supervisor to correct your sequence.",
+          "trap": "Watching a procedure is not evidence of competence to perform it. Record whether a skill was observed, assisted or performed under supervision."
+        },
+        "Veterinary Gynaecology and Obstetrics": {
+          "goal": "Put the species and reproductive stage first.",
+          "build": "Revisit normal cycles and reproductive anatomy before abnormal presentations. Keep history, timing, examination findings and interpretation in that order.",
+          "practise": "Compare similar presentations across species using the course material. Build case summaries that state what is known and what still needs to be established.",
+          "test": "Explain how reproductive history changes the interpretation of a finding. Practise a structured handover and recognise when prompt supervisor input is needed.",
+          "trap": "Do not transfer an obstetrical manoeuvre or treatment from a video directly to an animal."
+        },
+        "Veterinary Clinical Practices II": {
+          "goal": "Make every posting leave a useful skill behind.",
+          "build": "Before a posting, choose one realistic learning goal with the supervisor. Keep official case records complete and personal study notes de-identified.",
+          "practise": "Ask for feedback on a specific task: examination sequence, case presentation, communication or permitted practical skill. Apply the correction at the next opportunity.",
+          "test": "At the end of a week, identify one skill you can explain better, one you still need supervised practice with and one case that changed your reasoning.",
+          "trap": "A large logbook is not the same as broad experience. Track species, presentations and skills so gaps become visible."
+        }
+      },
+      "chapters": [
+        {
+          "title": "Present a case so someone can follow your reasoning",
+          "deck": "A short, accurate handover beats a page of disconnected details.",
+          "paragraphs": [
+            "Start with species, age and relevant context, the presenting complaint and its time course. Add the findings that matter, distinguishing measurements from interpretation. State the main problems before offering a prioritised differential list.",
+            "Explain the next piece of information you would seek and how it could change your assessment. If something was not examined or is unknown, say so. Your supervisor can correct an explicit gap; an invented normal finding is much harder to repair."
+          ],
+          "exampleLabel": "A presentation scaffold",
+          "example": "Signalment and complaint → key history → important findings → problem list → leading possibilities and reasons → proposed next information → supervisor’s correction.",
+          "takeaway": "Practise the structure on a teaching case before using it during a busy posting."
+        },
+        {
+          "title": "Study after the case, with a precise target",
+          "deck": "Use the patient encounter to choose the reading.",
+          "paragraphs": [
+            "Write the unresolved point while it is fresh: the meaning of a finding, an alternative explanation or the reason for a diagnostic step. Look up that point in a current reference and check that it applies to the species and setting.",
+            "Bring back a short explanation at the next appropriate discussion. If sources disagree or the reference does not fit the case, ask the supervisor rather than silently choosing a convenient answer. Keep patient identifiers and identifiable images out of personal study material."
+          ],
+          "exampleLabel": "A ten-minute reading target",
+          "example": "Instead of “read all respiratory medicine”, review the mechanism behind one finding and the evidence that distinguishes the leading explanations discussed in the case.",
+          "takeaway": "The suggested time is a boundary for a small task, not a limit on necessary patient-care work."
+        },
+        {
+          "title": "Build confidence through feedback you can act on",
+          "deck": "Make progress visible without pretending to be independent.",
+          "paragraphs": [
+            "Ask for one correction at a time: “Please watch my examination sequence” or “Which part of my case presentation is missing?”. Write the correction, practise it at an appropriate supervised opportunity and ask whether the change helped.",
+            "Keep an honest skill record with observed, assisted and performed-under-supervision categories. Rotate your attention across species and types of work rather than collecting repeated experience in the most comfortable area. Clinical uncertainty is a reason to communicate and seek support, not to improvise beyond your competence."
+          ],
+          "exampleLabel": "A weekly feedback loop",
+          "example": "Task attempted → feedback received → next practice opportunity → result. If the same gap appears repeatedly, arrange a focused demonstration rather than simply doing more cases.",
+          "takeaway": "Specific feedback gives you a next action; comparing yourself with the most confident classmate does not."
+        }
+      ],
+      "reset": [
+        "Separate a knowledge gap from a skill gap and a confidence gap. Reading, supervised practice and supportive feedback address different problems.",
+        "Choose one upcoming presentation or task and prepare its structure. Ask the supervisor to check it before adding more goals.",
+        "Protect recovery time within your posting responsibilities. If the workload is affecting sleep, attendance or functioning, speak to the coordinator or student support promptly."
+      ],
+      "exam": [
+        "Rehearse concise case presentations, structured written answers and practical explanations separately.",
+        "Practise stating the reason for an investigation or procedure, its limitations and the relevant aftercare or follow-up considerations.",
+        "Reconcile clinical records and required competencies before the final deadline. Check your university’s eligibility and internship instructions directly."
+      ],
+      "internship": "The fourth professional spans 18 months in the MSVE 2016 framework. Clinical Practices II belongs to this professional year; it is not the internship. The separate compulsory rotating internship lasts 12 months after the required examinations and credits are completed. Confirm your university’s eligibility, registration formalities, posting order, logbook and completion requirements before planning travel or external placements.",
+      "sources": [
+        "clinical-discussion",
+        "rcvs-reasoning",
+        "rcvs-evidence",
+        "bva"
+      ]
+    }
+  }
+}

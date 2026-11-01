@@ -54,7 +54,7 @@ Subject-specific study methods, weekly rhythms and short margin notes are origin
 - Each roadmap includes a five-stage journey, four glance tiles, credit chart with subject links, exam checkpoints, subject disclosures, weekly study guidance and compact sources. Internship is an on-page section in fourth year, not a fabricated fifth-year course page.
 - The same source data feeds all four roadmaps. Static checks verify course names, reconciled credits, correct routes, framework notes, sitemap/Markdown discovery and external-link policy. Existing 520 resource entries and the original course PDF bytes remain intact.
 - Metadata, sitemap, Markdown mirrors and `LearningResource` JSON-LD are generated through the existing build pipeline. No new production dependency or additional JavaScript is required by the roadmap.
-- Source URLs are recorded here and in the data file. Public roadmap source credits are bibliographic text and local outline links, preserving the site's restricted outbound-link policy.
+- Source URLs are recorded here and in the data file. The original release used bibliographic text and local outline links. The November redesign adds exact-URL citation exceptions on the corresponding roadmap pages only; the resource and search-index restrictions remain in force.
 
 ## Verification
 
@@ -63,3 +63,16 @@ Subject-specific study methods, weekly rhythms and short margin notes are origin
 Publication must be distinguished from deployment. The previous audit found that Cloudflare was serving an older build despite newer commits; verify the current build marker rather than assuming a successful repository update is live.
 
 Review results: all 48 roadmap views passed, as did 12 homepage views and 32 general roadmap regression views. No serious/critical axe issue was reported. Each of the four roadmap routes measured 99 Performance / 100 Accessibility / 100 Best Practices / 100 SEO, LCP approximately 1.96 seconds and CLS 0. Light-mode 390px screenshots of first and third year were manually inspected against the reference. Full results: [verification.json](qa/roadmaps/verification.json); screenshots are attached to [workflow run 40105079175](https://github.com/HappyRancho/Notes.thatvetguy.net/actions/runs/40105079175).
+
+
+## Year-start guide redesign — 1 November 2026
+
+The four pages now lead with first-week actions, subject-specific study workflows, worked learning examples, recovery strategies and exam preparation. They do not use a question-and-answer format. Academic totals, assessment context and the original outline mismatch notes remain in an optional disclosure, backed by the same verified MSVE data. All 19 subject cards link directly to their existing syllabus checklists, subject resources and practical vaults. Each hero links to the unchanged year course-outline PDF.
+
+Research readings and their limited roles are recorded in `data/roadmap-guidance.json`, linked visibly in each relevant page and included in LearningResource citations. BVA educator guidance and Penn Vet student mentors informed the general approach to retrieval and peer study; Edinburgh informed textbook selection. The Reddit anatomy discussion supplied the concrete concern about identifying unlabeled specimens. The Indian student thread informed college preparation, without adopting its medicine recommendations. A clinical-year Reddit discussion supplied concerns about recall and clinical confidence; its foreign rotation arrangements were not transferred to BVSc. RCVS guidance informed clinical reasoning and evidence checks, not Indian licensing or assessment rules. The existing PG preparation account supports concise revision only, not selective syllabus coverage or promised rankings.
+
+Quora was searched but blocked access through robots.txt. No Quora answer, fabricated quotation, private consultation, expert endorsement or unverified topper claim is represented as a source. Most of the guide consists of original subject exercises and examples grounded in the retained course topics. Student discussions are explicitly identified as anecdotal in the source disclosure.
+
+UI: compact year navigation, illustrated hero, three first-week moves, subject cards with initially closed study methods, short expandable guide chapters with worked-example panels, and separate academic/source notes. Native disclosures remain usable without JavaScript. Homepage academic roadmap tiles and the Tools/Tips roadmap rows use distinct year illustrations.
+
+Verification: existing roadmap checks updated to protect credits, subject allocation, all 19 checklist destinations, source allowlisting and non-Q&A semantics. Browser checks cover all four years at six widths in both themes, expanded content, keyboard interaction, course PDFs, checklist responses, year navigation, no-JavaScript reading and reduced motion. Results will be recorded in the corresponding GitHub Actions run rather than inferred here.

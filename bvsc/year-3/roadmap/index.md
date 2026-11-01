@@ -1,246 +1,277 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/roadmap/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
 - ›Year Roadmap
 
-# 3rd Year Roadmap
-
-Now the earlier years start asking to be remembered.
-
-- [1Foundation](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
-- [2Disease & nutrition](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
-- [3Applied study](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
-- [4Clinical](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
+- [1Start strong](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)
+- [2Connect](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
+- [3Apply](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
+- [4Clinics](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 - [Internship](https://notes.thatvetguy.net/bvsc/year-4/roadmap/#internship)
 
-MSVE 2016 · Syllabus & outline notes
+BVSc & AH · YOUR YEAR STARTS HERE
 
-An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
+# 3rd Year Roadmap
 
-## Year at a glance
+Turn knowledge into decisions.
 
-- 24credits15 theory + 9 practical
-- 7core coursesTheory and practical courses
-- 50%to passtheory and practical, counted separately
-- 3 × 40internal marksthree scheduled tests; 40 marks each
+Drugs, parasites, populations, products and your first clinical habits now meet. Build the links without letting the smaller courses or practical records disappear.
 
-- Link the agent, disease process and prevention or treatment principle across subjects.
-- Clinical Practices I and Livestock Farm Practices are practical courses; keep their records and assessment dates visible.
+[Subject checklists](#subjects)[Year course outline](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 
-Attendance: 75% minimum in theory and practical separately. 210 teaching days minimum, excluding annual exams.
+Choose a reason before choosing an answer.
 
-## Where the credits go
+[Start here](#start)[Subjects](#subjects)[Study methods](#study-method)[Stay on track](#keep-on-track)
 
-Bigger bar, bigger commitment.
+01
 
-TheoryPractical
+## Start with these three moves
 
-Tap a row to find its books and notes.
-
-- [Pharmacology & Toxicology4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
-- [Parasitology3 theory + 2 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
-- [Public Health & Epidemiology3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
-- [Extension Education3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
-- [Livestock Products Tech2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
-- [Clinical Practices I0 theory + 1 practical1 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
-- [Livestock Farm Practices0 theory + 2 practical2 credits](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
-
-24 credits in total · 15 theory + 9 practical.
-
-## Exam checkpoints
-
-Applied subjects reward practical understanding.
+A practical setup for your first week.
 
 - 1
 
-### Internal 1
+### Put all seven courses on the map
 
-By 30% course coverage
+Include Clinical Practices I and Livestock Farm Practices in your timetable. Find out how attendance, records and practical assessments are tracked for each.
 
-40 marks · close the first gaps
 - 2
 
-### Internal 2
+### Build two reusable templates
 
-By 60% course coverage
+Set up a drug-class comparison and a parasite life-cycle sheet. Use mechanisms, host context and stages; do not start with a collection of brand names.
 
-40 marks · connect the concepts
 - 3
 
-### Internal 3
+### Prepare for your first posting
 
-By 90% course coverage
+Learn the reporting time, permitted student tasks, record format and whom to ask for supervision. Carry a small list of learning gaps, not a list of procedures to try unsupervised.
 
-40 marks · revisit weak areas
-- 4
+02
 
-### Annual exam
+## Your subjects, with a method
 
-100% of the course
-
-Full course · theory and practical
-
-For theory-bearing subjects: three internals of 40 marks each; the best two assessments count under MSVE 2016. Use your university’s current dates and marking scheme.
-
-Practical-only courses: VCC/LFC assessments follow a separate schedule at 50% and full course completion. Records, observed skills and viva preparation matter.
-
-## Your subject playbook
-
-Know what to learn. Know how to revise.
-
-1
+Open a study approach. Use the unit checklist to track the actual syllabus.
 
 ### Veterinary Pharmacology and Toxicology
 
-Focus on General pharmacology; system-wise drugs; chemotherapy and toxicology.
+Explain the choice and the caution.
 
-Try this Organise each class by mechanism, uses, adverse effects and important cautions. Practise unit conversions from worked academic examples.
+Study approach
 
-A brand name is not a mechanism of action.
+- Build the idea: For a drug class, link mechanism to the intended effect, important adverse effects and factors that change suitability. Keep generic names separate from brands.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#notes)
+- Practise it: Compare two classes used for the same broad purpose. Use academic calculation examples to practise unit conversion before checking your working against a reliable answer.
 
-2
+- Check yourself: Explain the reasoning behind a taught choice and the information needed before applying it to a patient: species, formulation, route and relevant patient factors.
+
+Avoid this trapA remembered dose or a screenshot is not a prescribing plan. Actual treatment decisions need current references and supervision.
+
+[Open practical vault ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/)
+
+[Syllabus checklist](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)[Notes & books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
 ### Veterinary Parasitology
 
-Focus on Helminths, arthropods and protozoa; identification, life cycles and diagnosis.
+Use the life cycle to explain diagnosis and control.
 
-Try this Draw a life cycle with host, infective stage and diagnostic stage. Link each control principle to the point it interrupts.
+Study approach
 
-Do not mix up the infective stage and the stage you identify.
+- Build the idea: Start with the definitive and intermediate hosts where applicable, infective stage, route of entry, site and diagnostic stage. Draw arrows that name what moves between hosts.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#notes)
+- Practise it: Cover the labels and rebuild the cycle. Link a control measure to the stage it interrupts and a diagnostic method to what it can detect.
 
-3
+- Check yourself: Given a cycle taught in class, identify how infection is acquired and what would be looked for diagnostically. Explain why those stages may differ.
+
+Avoid this trapMemorising a cycle as a circular picture can hide confusion about hosts and stages.
+
+[Open practical vault ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/)
+
+[Syllabus checklist](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)[Notes & books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
 ### Veterinary Public Health and Epidemiology
 
-Focus on Zoonoses, food and environmental hygiene; epidemiological measures and investigations.
+Define the population before calculating the rate.
 
-Try this Connect the source, transmission route and prevention. Work through epidemiology measures using the correct denominator.
+Study approach
 
-The denominator is doing more work than the highlighter.
+- Build the idea: Write the event, population at risk and time period before using a measure. Link zoonotic hazards to the route of exposure and the people or animals affected.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#notes)
+- Practise it: Work through a small invented dataset. Say whether you are counting existing cases or new cases over time before selecting the measure.
 
-4
+- Check yourself: Ten existing cases among 100 animals examined is 10% prevalence at that observation. It does not by itself give the incidence over the following month.
+
+Avoid this trapA percentage is incomplete without its denominator, timing and case definition.
+
+[Open practical vault ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/)
+
+[Syllabus checklist](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/)[Notes & books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
 ### Veterinary and Animal Husbandry Extension Education
 
-Focus on Communication, extension methods, rural sociology, economics and entrepreneurship.
+Translate a technical point into a usable message.
 
-Try this Apply each method to a real livestock-owner situation. Practise explaining a technical message clearly in everyday language.
+Study approach
 
-A perfectly memorised message still needs someone to understand it.
+- Build the idea: Connect the communication method to the audience, language, available resources and decision being made. Keep economic concepts tied to an explicit farm situation.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#notes)
+- Practise it: Explain one taught husbandry practice to a classmate acting as a livestock owner. Ask them to repeat the action in their own words and note what was misunderstood.
 
-5
+- Check yourself: Prepare a short extension message with the action, reason, likely constraint and a way to check understanding. Match it to the method taught in class.
+
+Avoid this trapTechnical vocabulary is not evidence that the listener can use the advice.
+
+[Open practical vault ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/)
+
+[Syllabus checklist](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)[Notes & books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 
 ### Livestock Products Technology
 
-Focus on Milk, meat and egg processing; product quality, preservation and abattoir practices.
+Learn the reason for each processing step.
 
-Try this Make process flows with the purpose of each stage. Link a quality test to the property it assesses.
+Study approach
 
-Learn why the process exists, not just the arrows between boxes.
+- Build the idea: Draw a process flow and annotate the purpose of each stage, the quality property assessed and the point at which contamination or deterioration may occur.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#notes)
+- Practise it: Reconstruct a taught milk, meat or egg process from a blank page. Add the relevant quality tests and explain what each result indicates.
 
-6
+- Check yourself: Explain the consequence of omitting a step, using the process conditions taught in your course. Keep exact standards attached to their current source.
+
+Avoid this trapDo not memorise a processing temperature without the product, time and purpose it belongs to.
+
+[Open practical vault ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/)
+
+[Syllabus checklist](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)[Notes & books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
 ### Veterinary Clinical Practices I
 
-Focus on Patient handling, clinical examination, case registration and diagnostic orientation.
+Build a reliable examination and case-record habit.
 
-Try this Observe a structured examination with your supervisor. Record findings, unfamiliar terms and the questions you need to ask.
+Study approach
 
-A case log is more useful before the memory expires.
+- Build the idea: Learn the structure used by your clinic for history, examination and findings. Separate what the owner reported from what you observed or measured.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/#notes)
+- Practise it: Present one supervised case in a short, organised sequence. Ask the clinician to correct the most important missing finding or weak inference.
 
-7
+- Check yourself: Write a de-identified learning note with the presenting problem, key findings and one point to review. Keep the official record in the institution’s required system.
+
+Avoid this trapObservation is not permission to perform a procedure. Ask for supervision and follow the posting’s limits.
+
+[Open practical vault ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/)
+
+[Syllabus checklist](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/)[Notes & books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
 ### Livestock Farm Practices
 
-Focus on Farm routines, animal records, feeding and management observations.
+Read the farm through its routines and records.
 
-Try this Keep the day's farm activity and its purpose together. Ask for feedback on handling and record-keeping skills.
+Study approach
 
-Farm records do not become easier when copied from memory in bulk.
+- Build the idea: Learn how the farm records feed, production, health events and animal identification. Notice how a change in management could alter more than one record.
 
-[Books & course outline ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#books)[Topic-wise notes ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/#notes)
+- Practise it: Track one approved observation across visits, such as a feeding routine or a housing feature. Record the context before drawing conclusions.
 
-## A week that works
+- Check yourself: Explain the purpose of a routine, the record it produces and a limitation of what you observed. Include the date and species in your notes.
 
-Suggested rhythm. Adjust it to your timetable.
+Avoid this trapOne visit is a snapshot. Avoid treating a single observation as proof of a farm-wide problem.
 
-- 
+[Open practical vault ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/practicals/)
 
-### Connect three subjects
+[Syllabus checklist](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/)[Notes & books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Use one example to link the disease process, causative agent and drug or prevention principle.
+03
 
-- 
+## Make the work count
 
-### Make practicals count
+Specific techniques for the places students get stuck.
 
-Finish the case or farm record on the day and ask about one unclear step.
+01Build connections around a single exampleA practical way to revise several subjects without losing the thread.Read the guide
 
-- 
+Take one parasite taught that week. Reconstruct the host and life cycle, describe the relevant disease mechanism, identify the diagnostic stage and explain the principle of prevention. Add drug-class reasoning only at the level covered in your course.
 
-### Revisit the foundations
+When the explanation breaks, return to the specific foundation: tissue damage, host response or pharmacological mechanism. Relearning one missing concept is more manageable than reopening an entire previous-year textbook.
 
-Bring back relevant Physiology, Pathology or Microbiology when a new topic depends on it.
+A short integration exercise
 
-## Small habits, big saves
+On one page use four headings: agent and host; effect on the animal; evidence; prevention or treatment principle. Mark every uncertain link for review.
 
-- Compress your own revision material after understanding a topic; a short note cannot replace a missing concept.
-- Keep one error list and revisit it before the next practice session.
-- Use professional exam papers for your university scheme; PG entrance questions have a different purpose.
+Connection is useful only when you can explain why the links belong together.
 
-Study advice, not an exam rule. A first-person account by Dr. Bhupender (AIEEA Animal Science 2022 Rank 1) informed the concise-revision and error-review habits; his PG strategy is not a professional-exam blueprint.
+02Keep clinical learning separate from prescribingClinical curiosity needs a clear boundary.Read the guide
 
-## Before the final stretch
+In a case discussion, write the problem first and the product name last. Ask what finding supports the proposed diagnosis, what else could explain it and which result would change the next step.
 
-- 
+Keep an academic drug-class notebook for mechanisms and comparisons. For real patient care, the supervising clinician and current species-appropriate guidance determine the plan. A food-producing animal also raises withdrawal-period and regulatory questions that a generic revision table cannot settle.
 
-### Map every course
+A better posting note
 
-Include both practical-only courses, not just the five theory subjects.
+Observed finding → possible explanation → evidence needed → supervisor’s feedback. Review the unresolved point after the posting, using an appropriate reference.
 
-- 
+Do not turn a classmate’s treatment list into a clinical protocol.
 
-### Rehearse explanations
+03Give the smaller courses a visible placeThey build skills the clinic alone will not teach.Read the guide
 
-Practise a drug-class comparison, a parasite life cycle and an epidemiology problem.
+Extension, LPT and Public Health can disappear behind Pharmacology if they have no scheduled output. Give each a concrete product: an owner-facing explanation, a process flow or an epidemiology calculation.
 
-- 
+Use farm and clinical postings to notice where those subjects connect. A food-safety problem, a communication failure or a poorly defined denominator can matter as much as knowing the drug class. Keep the practical-only courses in your record review every week.
 
-### Check practical readiness
+A weekly evidence check
 
-Revisit identification, records and supervised skills as well as written answers.
+Look for one completed case reflection, one farm record and one task from a less-revised theory subject. If a category stays empty, plan that task first next week.
 
-Everything is connected. Unfortunately, so are your exam dates.
+Judge coverage by completed tasks across courses, not by hours spent on the favourite subject.
 
-Sources & academic notes 
+04
+
+## Keep the year on track
+
+Use the next small task to regain momentum.
+
+### When the backlog builds
+
+- Map pending work to all seven courses and separate record deadlines from revision tasks.
+- Choose one manageable disease example to reconnect prior knowledge. Keep the explanation short enough to test without the notes.
+- Ask the posting supervisor which missed competency or incomplete record needs attention first; do not try to repair practical learning only with PDFs.
+
+### Before the exam stretch
+
+- Practise drug-class comparisons and life cycles from blank templates, with the relevant species or host stated.
+- Solve epidemiology problems with the denominator and time period written before the formula.
+- Check Clinical Practices I and Farm Practices requirements directly; practical-only assessment does not follow a generic theory-paper template.
+
+Credits, exams & course-outline notes
 
 An MSVE 2016 study guide. Your university's current syllabus, assessment scheme and academic calendar take precedence.
 
-All seven courses are included below. Farm Practices contributes the final 2 practical credits, bringing the year to 24.
+24 credits15 theory + 9 practical
+75% attendanceTheory and practical separately
+50% to passTheory and practical separately
+210 teaching daysMinimum; annual exams excluded
+[Pharmacology & Toxicology4 theory + 1 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)[Parasitology3 theory + 2 practical5 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[Public Health & Epidemiology3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)[Extension Education3 theory + 1 practical4 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[Livestock Products Tech2 theory + 1 practical3 credits](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)[Clinical Practices I0 theory + 1 practical1 credits](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)[Livestock Farm Practices0 theory + 2 practical2 credits](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-- Veterinary Council of India — MSVE Regulations, 2016Gazette, 12 July 2016: regulations 2, 11–13, 15–16; professional-year transcript in Annexure I.
-- ICAR–Indian Veterinary Research Institute — Undergraduate ProgrammeSystem of education; professional-year course distribution; examinations.
+### Theory-bearing subject assessments
 
-Assessment coverage is cumulative: the 30%, 60% and 90% milestones are not guaranteed chapter ranges or predicted exam weightage.
+MSVE 2016 specifies three internal assessments of 40 marks each; the best two count under that scheme. The 30%, 60% and 90% coverage milestones are cumulative, not predictions of chapters or exam weightage. The annual examination covers the whole course. Confirm the dates and marking scheme with your university.
 
-Study suggestions are original editorial guidance based on the course topics and a reviewed first-person preparation account. No marks or rank are promised.
+Practical-only courses: VCC/LFC follow separate assessments at 50% and full course completion. Use the department’s skill, record and viva requirements rather than the theory-internal pattern.
 
-Research checked 24 October 2026.
+[Read the year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
 
-[Read the 3rd Year course outline (PDF) ](https://notes.thatvetguy.net/assets/course-outlines/3rd-year-course-outline.pdf)
+Sources & reading notes
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+The academic figures use MSVE 2016. The study workflows and examples are original editorial guidance informed by the readings below. Student discussions describe individual experiences; they do not establish examination rules or guaranteed outcomes.
+
+- [Veterinary Council of India — MSVE Regulations, 2016](https://vci.dahd.gov.in/sites/default/files/IVPR/MSVE-Gazette-2016.pdf)Gazette, 12 July 2016: regulations 2, 11–13, 15–16; professional-year transcript in Annexure I.
+- [ICAR–Indian Veterinary Research Institute — Undergraduate Programme](https://ivri.nic.in/academics/ugprog.aspx)System of education; professional-year course distribution; examinations.
+- [BVA · Veterinary educators on study methods](https://www.bva.co.uk/news-and-blog/blog-article/hints-and-tips-for-successful-studying-at-vet-school/)Educator guidance · Active learning and diagnosing weak topics; used for the general learning approach.
+- [Vet Extension · Dr. Bhupender’s preparation account](https://www.vetextension.com/toppers-talk-tips-and-tricks-to-crack-icar-pg-examination-in-animal-sciences/)First-person exam experience · Concise revision and reviewing errors only. PG topic predictions and rank claims do not set professional-exam priorities.
+- [RCVS · Finding evidence and recognising gaps](https://www.rcvs.org.uk/veterinary-professionals/learning-and-development/training-and-development-for-veterinary-surgeons/veterinary-graduate-development-programme-vetgdp/entrustable-professional-activities-epas/epa-5)Professional guidance · Checking applicability of information and asking for assistance.
+- [Reddit · Moving from exams to clinics](https://www.reddit.com/r/veterinaryschool/comments/1rac4fn/about_to_be_4th_year_panicking/)Student discussion · Concerns about recall and clinical confidence. Foreign rotation arrangements are not applied to BVSc.
+
+Research reviewed 1 November 2026. International learning resources inform study methods only; your university’s current syllabus and assessment rules take precedence.
+
+[All 3rd Year resources](https://notes.thatvetguy.net/bvsc/year-3/)[Next year’s roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
+
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

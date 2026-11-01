@@ -104,9 +104,10 @@ def structured(path,title,description,items,home,body,records,date):
                 graph.append(entry);learning['hasPart'].append({'@id':entry['@id']})
         graph.append(learning);page['hasPart']={'@id':learning['@id']}
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):
-        from roadmaps import DATA as ROADMAPS
+        from roadmaps import DATA as ROADMAPS, GUIDANCE
         yr=path.split('/')[2][-1]
         guide={'@type':'LearningResource','@id':BASE+path+'#guide','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+yr,'learningResourceType':'Study guide','teaches':[s['name'] for s in ROADMAPS['years'][yr]['subjects']],'inLanguage':'en','author':{'@id':personid},'dateModified':date,'citation':[s['title']+'; '+s['location'] for s in ROADMAPS['academicSources'][:2]]}
+        guide['citation']=[s['url'] for s in ROADMAPS['academicSources'][:2]]+[s['url'] for s in GUIDANCE['sources'] if s['id'] in GUIDANCE['years'][yr]['sources']]
         graph.append(guide);page['hasPart']={'@id':guide['@id']}
     if items is not None:
         listing={'@type':'ItemList','@id':BASE+path+'#contents','numberOfItems':len(items),'itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'url':u if u.startswith('https:') else BASE+u} for i,(n,u) in enumerate(items)]}
