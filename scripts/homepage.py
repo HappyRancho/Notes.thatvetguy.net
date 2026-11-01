@@ -55,6 +55,16 @@ def subject_icon(name):
         if key in n:return ic,tone
     return 'book','mint'
 
+def roadmap_art(year):
+    """One illustrated route, with a distinct learning symbol for each year."""
+    symbols={
+      1:'<path d="M43 24q-5-6-9 0-4 5 2 8l13 13q3 6 8 2 6-4 0-9L43 24Z" fill="#fff2d7"/><path d="m38 31 13 13"/>',
+      2:'<path d="M36 18h16m-12 0v14L30 49q-3 6 4 6h26q7 0 4-6L48 32V18" fill="#fff"/><path d="M36 42h21l7 10H32Z" fill="#aadccc" stroke="none"/><circle cx="44" cy="44" r="2" fill="#0769ce" stroke="none"/>',
+      3:'<rect x="29" y="21" width="35" height="34" rx="6" fill="#fff"/><path d="M35 29h12m-12 7h10m-10 7h8"/><circle cx="57" cy="49" r="10" fill="#ffe38b"/><path d="m52 49 3 3 6-7"/>',
+      4:'<path d="M32 22v10a10 10 0 0 0 20 0V22m-23 0h6m14 0h6M42 43v5a9 9 0 0 0 18 0v-8" stroke="#0769ce" stroke-width="3"/><circle cx="60" cy="35" r="6" fill="#fff"/>'
+    }
+    return '<span class="rx-road-art" aria-hidden="true"><svg viewBox="0 0 80 72" fill="none" stroke="#183654" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 13 20-6 26 6 22-6v53l-22 6-26-6-20 6Z" fill="#e7f4ff" stroke="#a2c8e0"/><path d="M25 7v53m26-47v53" stroke="#a2c8e0"/><path d="M12 54c28-2-9-35 25-31" stroke="#70b69e" stroke-dasharray="3 4"/>'+symbols[year]+'<circle cx="15" cy="14" r="11" fill="#0769ce" stroke="#fff"/><text x="15" y="18" text-anchor="middle" fill="white" stroke="none" font-family="sans-serif" font-size="12" font-weight="700">'+str(year)+'</text></svg></span>'
+
 def academics(b):
     from course_outlines import outline_url
     ident='year';body=heading('BVSc &amp; AH Resources','Four years. Infinite syllabus. Character development included.','cap','mint','<span class="rx-section-paw" aria-hidden="true">'+icon('paw')+'</span>')
@@ -64,7 +74,7 @@ def academics(b):
         for s in y['subjects']:
             name=s['name'];ic,tone=subject_icon(name);name='Livestock Production & Management' if name=='Livestock Production Management' else name
             subjects+=row(name,base+s['slug']+'/',ic,tone,None if s['count'] else 'Course outline & study guide')
-        roadmap='<aside class="rx-roadmap"><div class="rx-map-heading">'+icon('map')+burst()+'<h3>'+label+'<br>Road Map</h3></div><p class="rx-hand">'+CONTENT['roadmaps'][str(y['year'])]['description']+'</p>'+'<div class="rx-roadmap-actions">'+link(base+'roadmap/','Road Map '+icon('arrow'),'rx-button rx-roadmap-button')+link(outline_url(y['year']),icon('paper')+'<span>Course Outline</span>','rx-course-outline')+'</div></aside>'
+        roadmap='<aside class="rx-roadmap"><div class="rx-map-heading">'+roadmap_art(y['year'])+'<h3>'+label+'<br>Road Map</h3></div><p class="rx-hand">'+CONTENT['roadmaps'][str(y['year'])]['description']+'</p>'+'<div class="rx-roadmap-actions">'+link(base+'roadmap/','Road Map '+icon('arrow'),'rx-button rx-roadmap-button')+link(outline_url(y['year']),icon('paper')+'<span>Course Outline</span>','rx-course-outline')+'</div></aside>'
         footer='<div class="rx-year-footer"><span>'+icon('book')+'<span class="rx-hand">'+str(len(y['subjects']))+' subjects <span class="rx-footer-detail">· notes &amp; books</span></span></span>'+link(base,'Explore '+label+' '+icon('arrow'),'rx-explore')+'</div>'
         body+=panel(ident,i,'<div class="rx-year-drawer"><div class="rx-subjects">'+subjects+'</div>'+roadmap+'</div>'+footer)
     return '<section class="rx-section rx-academics" id="notes" data-home-tabs>'+body+'</section>'
@@ -101,7 +111,7 @@ def tools():
             details=[('apps','Revision, reference & anatomy'),('web','Notes, cases & trusted sources'),('career','Find your path after BVSc')]
             rows=''.join(link(r['url'],toolkit_art(kind)+'<span class="rx-row-label">'+e(r['title'])+'<small>'+e(detail)+'</small></span>'+icon('chevron'),'rx-row rx-tool-row') for r,(kind,detail) in zip(CONTENT[key],details))
         else:
-            rows=''.join(row(r['title'],r['url'],r['icon'],r['tone']) if r.get('url') else missing(r['title'],r['icon'],r['tone']) for r in CONTENT[key])
+            rows=''.join(link(r['url'],roadmap_art(n)+'<span class="rx-row-label">'+e(r['title'])+'</span>'+icon('chevron'),'rx-row rx-roadmap-row') for n,r in enumerate(CONTENT[key],1))
         body+=panel('tools',i,'<div class="rx-row-drawer">'+rows+'</div>')
     return '<section class="rx-section rx-tools" id="study" data-home-tabs>'+body+'</section>'
 

@@ -4,6 +4,9 @@ from pathlib import Path
 import json,re
 ROOT=Path(__file__).resolve().parent.parent
 data=json.loads((ROOT/'data/year-roadmaps.json').read_text())
+guidance=json.loads((ROOT/'data/roadmap-guidance.json').read_text())
+from library import slug
+from course_outlines import outline_url
 mapping=json.loads((ROOT/'data/subject-map.json').read_text())['years']
 expected={1:(12,6,18,3),2:(15,7,22,5),3:(15,9,24,7),4:(8,9,17,4)}
 rules=data['rules']
@@ -19,10 +22,18 @@ for key,year in data['years'].items():
  assert year['durationYears']==(1.5 if n==4 else 1)
  path=f'/bvsc/year-{n}/roadmap/';html=(ROOT/path.strip('/')/'index.html').read_text()
  assert html.count('class="road-credit"')==count and 'aria-current="step"' in html
- assert html.count('class="road-check-track"')==4
+ assert html.count('class="road-subject-card"')==count
+ assert html.count('class="road-checklist-link"')==count
+ assert html.count('class="road-chapter"')==3
+ assert 'FAQPage' not in html and '<details class="road-subject" open' not in html
+ assert outline_url(n) in html
+ assert set(guidance['years'][key]['subjects'])=={s['name'] for s in subjects}
+ for subject in subjects:
+  checklist=f'/bvsc/year-{n}/'+slug(subject['name'])+'/syllabus/'
+  assert checklist in html and (ROOT/checklist.strip('/')/'index.html').exists()
  assert 'MSVE 2016' in html and 'current syllabus' in html
- assert 'LearningResource' in html and 'Sources &amp; academic notes' in html
- assert '<details class="road-academic-brief">' in html and 'Syllabus &amp; outline notes' in html
+ assert 'LearningResource' in html and 'Sources &amp; reading notes' in html
+ assert '<details class="road-academic-brief" id="academic-details">' in html and 'Credits, exams &amp; course-outline notes' in html
  assert f'<h1 id="{n}'+['st','nd','rd','th'][n-1]+'-year-roadmap">' in html
  assert '/assets/roadmaps.css?' in html and path in (ROOT/'sitemap.xml').read_text()
  assert path in (ROOT/'llms.txt').read_text() and (ROOT/path.strip('/')/'index.md').exists()
@@ -32,6 +43,8 @@ for key,year in data['years'].items():
  if n==3:assert any(s['name']=='Livestock Farm Practices' and s['practical']==2 for s in subjects)
  if n==4:assert 'not the internship' in html and 'id="internship"' in html
  main=re.search(r'<main\b[^>]*>(.*?)</main>',html,re.S)[1]
- assert not re.search(r'<a[^>]+href="https?://(?!notes\.thatvetguy\.net)',main),'Roadmap content must not add forbidden outbound links'
+ allowed={s['url'] for s in data['academicSources'][:2]}|{s['url'] for s in guidance['sources']}
+ for destination in re.findall(r'<a[^>]+href="(https?://[^"]+)',main):
+  assert destination in allowed,'Unexpected external destination: '+destination
 assert sum(x[2] for x in expected.values())==rules['totalCredits']==81
-print('PASS: four roadmap routes; 18/22/24/17 credits reconcile; 19 course entries; cited academic scheme; no new outbound links.')
+print('PASS: four roadmap routes; 18/22/24/17 credits reconcile; 19 course entries; 19 syllabus backlinks; closed study guides; cited academic and editorial sources.')
