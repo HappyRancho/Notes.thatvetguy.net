@@ -59,7 +59,7 @@ def credits(b,year,d):
 
 def academic(b,year,d):
     r=DATA['rules']
-    body='<details class="road-academic-brief" id="academic-details"><summary><span>'+b.icon('paper')+'<strong>Credits, exams & course-outline notes</strong></span>'+plus()+'</summary><div class="road-academic-body"><p>'+e(DATA['scope'])+'</p>'
+    body='<details class="road-academic-brief" id="academic-details"><summary><span>'+b.icon('paper')+'<strong>Credits, exams &amp; course-outline notes</strong></span>'+plus()+'</summary><div class="road-academic-body"><p>'+e(DATA['scope'])+'</p>'
     if year in [1,2]:body+='<p class="road-watch"><strong>Course-outline note.</strong>'+e(d['outlineNote'])+'</p>'
     body+='<div class="road-rule-grid"><div><strong>'+str(d['theory']+d['practical'])+' credits</strong><span>'+str(d['theory'])+' theory + '+str(d['practical'])+' practical</span></div><div><strong>'+str(r['attendancePercent'])+'% attendance</strong><span>Theory and practical separately</span></div><div><strong>'+str(r['passPercent'])+'% to pass</strong><span>Theory and practical separately</span></div><div><strong>'+str(315 if year==4 else 210)+' teaching days</strong><span>Minimum; annual exams excluded</span></div></div>'+credits(b,year,d)
     body+='<h3>Theory-bearing subject assessments</h3><p>MSVE 2016 specifies three internal assessments of 40 marks each; the best two count under that scheme. The 30%, 60% and 90% coverage milestones are cumulative, not predictions of chapters or exam weightage. The annual examination covers the whole course. Confirm the dates and marking scheme with your university.</p>'
@@ -68,7 +68,7 @@ def academic(b,year,d):
     return body
 
 def sources(b,year,d,g):
-    body='<details class="road-sources"><summary><span>'+b.icon('book')+'<strong>Sources & reading notes</strong></span>'+plus()+'</summary><div class="road-source-body"><p>The academic figures use MSVE 2016. The study workflows and examples are original editorial guidance informed by the readings below. Student discussions describe individual experiences; they do not establish examination rules or guaranteed outcomes.</p><ul>'
+    body='<details class="road-sources"><summary><span>'+b.icon('book')+'<strong>Sources &amp; reading notes</strong></span>'+plus()+'</summary><div class="road-source-body"><p>The academic figures use MSVE 2016. The study workflows and examples are original editorial guidance informed by the readings below. Student discussions describe individual experiences; they do not establish examination rules or guaranteed outcomes.</p><ul>'
     for s in DATA['academicSources'][:2]:body+='<li>'+b.link(s['url'],e(s['title']))+'<small>'+e(s['location'])+'</small></li>'
     for ident in g['sources']:
         s=next(s for s in GUIDANCE['sources'] if s['id']==ident)
