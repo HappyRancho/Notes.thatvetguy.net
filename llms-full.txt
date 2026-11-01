@@ -98,9 +98,9 @@ Open ](https://notes.thatvetguy.net/clinical/drug-index/)
 
 For when the exam is tomorrow and the motivation arrived today.
 
-### Concise Last Minute Revision Notes
+### Last-minute revision notes
 
-Short notes, high-yield topics and more on our Telegram channel.
+Short notes and high-yield topics for one more revision.
 
 [View Notes](https://t.me/vetshortnotesbytvg)
 
@@ -6495,7 +6495,6 @@ Canonical: https://notes.thatvetguy.net/books/veterinary-capsule/
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›All in One Veterinary Capsule
 
-Symbolic cover
 Study book · Exam revision
 
 # All in One Veterinary Capsule
@@ -6514,7 +6513,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -7265,7 +7264,6 @@ Canonical: https://notes.thatvetguy.net/books/dhruv-desai/
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Compiled Question Bank by Dhruv N Desai
 
-Symbolic cover
 Study book · Exam revision
 
 # Compiled Question Bank by Dhruv N Desai
@@ -7288,7 +7286,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9308,7 +9306,6 @@ Canonical: https://notes.thatvetguy.net/books/review-animal-science/
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Review of Animal Science
 
-Symbolic cover
 Study book · Exam revision
 
 # Review of Animal Science
@@ -9327,7 +9324,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9349,7 +9346,6 @@ Canonical: https://notes.thatvetguy.net/books/review-veterinary-science/
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Review of Veterinary Science
 
-Symbolic cover
 Study book · Exam revision
 
 # Review of Veterinary Science
@@ -9368,7 +9364,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10158,7 +10154,6 @@ Canonical: https://notes.thatvetguy.net/books/ultimate-vet-handbook/
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Ultimate Vet Handbook
 
-Symbolic cover
 Handbook · Clinical reference
 
 # Ultimate Vet Handbook
@@ -10179,7 +10174,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 

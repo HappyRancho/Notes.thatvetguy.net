@@ -4,7 +4,6 @@
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Ultimate Vet Handbook
 
-Symbolic cover
 Handbook · Clinical reference
 
 # Ultimate Vet Handbook
@@ -25,7 +24,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 

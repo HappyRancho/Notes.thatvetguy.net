@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-31",
+  "reviewed": "2026-11-01",
   "covers": {
     "a-textbook-of-veterinary-general-pathology": {
       "path": "/assets/books/source-a-textbook-of-veterinary-general-pathology.webp",
@@ -706,6 +706,66 @@
       "reviewed": "2026-10-31",
       "review": "Visually matched title and author against researched listing",
       "candidatePath": "/assets/books/online-review/essentials-of-medical-pharmacology-k-d-tripathi.webp"
+    },
+    "review-veterinary-science": {
+      "path": "/assets/books/owner-review-veterinary-science.webp",
+      "width": 520,
+      "height": 693,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 1-images-23-.jpg",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "6a00dcfa96e8c01bb9cc4078235a526f026f62ee72704833ded4d6d730f56077"
+    },
+    "animal-science-refresher": {
+      "path": "/assets/books/owner-animal-science-refresher.webp",
+      "width": 520,
+      "height": 715,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 2-images-22-.jpg",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "7223fdd130c13c8fb218fa47ad140ddf7f5185e8b05dbc53548119bde98745c1"
+    },
+    "ultimate-vet-handbook": {
+      "path": "/assets/books/owner-ultimate-vet-handbook.webp",
+      "width": 520,
+      "height": 605,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 3-Screenshot_20261101-202030.png",
+      "reviewed": "2026-11-01",
+      "review": "Matched to the displayed book title; Ultimate Vet Handbook cover explicitly assigned by site owner.",
+      "sha256": "08c4c1d08863398a498fe02bb20a97a01ba71c10d109883fdbdc26fc9174bc91"
+    },
+    "veterinary-capsule": {
+      "path": "/assets/books/owner-veterinary-capsule.webp",
+      "width": 520,
+      "height": 681,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 4-1000088054.png",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "d5a12f0d7d3eb58e7fdd4176135e22db213ebdcec3d73bd46ed43b3b493ad4b3"
+    },
+    "review-animal-science": {
+      "path": "/assets/books/owner-review-animal-science.webp",
+      "width": 520,
+      "height": 707,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 5-1000088057.jpg",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "bf76841e3d29c5ca7a96c6a7a0d8927bf6605ac408e67dbbf10470147cf488a6"
+    },
+    "dhruv-desai": {
+      "path": "/assets/books/owner-dhruv-desai.webp",
+      "width": 520,
+      "height": 740,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 1000088071.png",
+      "reviewed": "2026-11-01",
+      "review": "Cover identifies Dhruv N Desai and Question Bank, 2015, second edition.",
+      "sha256": "4c380b0926119d65652e962041a53604be4cda817ccd674abc5f39307e440943"
     }
   },
   "replacePreviews": [

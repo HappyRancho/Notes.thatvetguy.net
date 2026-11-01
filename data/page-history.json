@@ -1,6 +1,6 @@
 {
   "/": {
-    "sha256": "4ac7d0bd6d135c9ce2e38a0e9792cbcdda0289f1626ff411e5f95da44f51cfa2",
+    "sha256": "cfc3e155af36a8c4353259b61183adfd9b57c72f4e0495ba590734e5dd3047cd",
     "modified": "2026-11-01"
   },
   "/bvsc/": {
@@ -132,7 +132,7 @@
     "modified": "2026-10-28"
   },
   "/objective/": {
-    "sha256": "1cc82442a55836aa64bcb9c29e1fa045b2462bc056bb36bd1b2d935f1208b153",
+    "sha256": "b0c12ec4100319c822c8d2be2f7590be14fc09856aa1115acd8f3fd846455ea2",
     "modified": "2026-11-01"
   },
   "/study-tools/": {
@@ -164,7 +164,7 @@
     "modified": "2026-10-28"
   },
   "/clinical/handbooks/": {
-    "sha256": "9c79b9a5e3ac4752157dd9485a7d2c3b5b663f14f093c989c1d24f82feec8316",
+    "sha256": "5633e47419778521414c65b4c59bacb41446e29cd5ea7b50a3c6589418630849",
     "modified": "2026-11-01"
   },
   "/clinical/drug-index/": {
@@ -172,7 +172,7 @@
     "modified": "2026-11-01"
   },
   "/books/": {
-    "sha256": "481eabc0768fbc7cdaec54919c159819048150fbd24804975f78268e3a8d823e",
+    "sha256": "eb48736c72fc0bde10779e59696c5e2be05e9a51042409a3efd5d6437676a2e7",
     "modified": "2026-11-01"
   },
   "/books/a-textbook-of-animal-husbandry/": {
@@ -188,7 +188,7 @@
     "modified": "2026-11-01"
   },
   "/books/veterinary-capsule/": {
-    "sha256": "b7ee6b5b53bfb1647dcb6575369988688e2bd95d3e4933b4dcf716b591aaae08",
+    "sha256": "e74998d703165385a021f5a3aaa83215b50461decc098e35da96ea2260c14ff1",
     "modified": "2026-11-01"
   },
   "/books/ananthanarayan-microbiology/": {
@@ -204,7 +204,7 @@
     "modified": "2026-11-01"
   },
   "/books/animal-science-refresher/": {
-    "sha256": "8ca073815cd123e6e0315fa03e6a7b5f6b238e430db9b528271f42ade3311b02",
+    "sha256": "a0a609b3fe4ee1d29dff3caabd19cb7c90d928af06ad360c0be9b6cb88789a9e",
     "modified": "2026-11-01"
   },
   "/books/applied-nutrition-d-v-reddy/": {
@@ -252,7 +252,7 @@
     "modified": "2026-11-01"
   },
   "/books/dhruv-desai/": {
-    "sha256": "115f901be44219751bd228cdf2f4f72c07bc88c67aa48c3e50ca5f8b308554bf",
+    "sha256": "57a94dcd9566ae7c00dfbe39c489112cf0e66576e389992c745d772a5db5dc27",
     "modified": "2026-11-01"
   },
   "/books/cunningham-s-textbook-of-veterinary-physiology/": {
@@ -420,11 +420,11 @@
     "modified": "2026-11-01"
   },
   "/books/review-animal-science/": {
-    "sha256": "7eaecf3814af0188252795d9ea248e4daae6c926e9aff4e7b925f03cecb8de0d",
+    "sha256": "052720c4ee8795bcaaebe26a98e6dcf1d4ad52b635e61d86679ef22ae3f1b9b8",
     "modified": "2026-11-01"
   },
   "/books/review-veterinary-science/": {
-    "sha256": "295861e3b707d80dc6b926f500d3a63554021c27dcd45305e0251081137e4b51",
+    "sha256": "a22667c11a0ef6acaec92542286ffeef5770c2ffca78c7ff4e78a1ba4c583088",
     "modified": "2026-11-01"
   },
   "/books/ruminant-surgery/": {
@@ -492,7 +492,7 @@
     "modified": "2026-11-01"
   },
   "/books/ultimate-vet-handbook/": {
-    "sha256": "4cfd756e9ff9d14a57ee0dd34c74489e521b7cfe7c9b9b11c7a43000dc221476",
+    "sha256": "e16f0d1520beadba03467530161a9128fd52f7efe640ba03126f2eb3413bc9b7",
     "modified": "2026-11-01"
   },
   "/books/vaccination-schedule/": {

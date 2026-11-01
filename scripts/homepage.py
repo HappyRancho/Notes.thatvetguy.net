@@ -74,7 +74,10 @@ def objectives(b):
     for i,key in enumerate(['objective-notes','question-banks']):
         rows=''
         for r in [r for r in b.RECORDS if key in r['collections']]:
-            content='<span class="rx-row-icon '+r['tone']+'">'+icon(r['icon'])+'</span><span class="rx-row-label">'+e(r['title'])+'</span><span class="rx-row-open">Open '+icon('external')+'</span>'
+            from book_catalogue import by_resource
+            book=by_resource(r['id']);cover=book['cover']
+            artwork='<img src="'+e(cover['path'],quote=True)+'" width="'+str(cover['width'])+'" height="'+str(cover['height'])+'" alt="" loading="lazy" decoding="async">'
+            content='<span class="rx-resource-cover" aria-hidden="true">'+artwork+'</span><span class="rx-row-label">'+e(r['title'])+'</span><span class="rx-row-open">Open '+icon('external')+'</span>'
             rows+=link(r['url'],content,'rx-row rx-resource-row')
         body+=panel(ident,i,'<div class="rx-row-drawer">'+rows+'</div>')
     body+='<div class="rx-collection-footer">'+link('/objective/','Explore more '+icon('arrow'),'rx-explore')+'</div>'
@@ -94,7 +97,7 @@ def clinical():
     return '<section class="rx-section rx-clinical" id="clinical">'+body+'</div></section>'
 
 def backbench():
-    return '<section class="rx-section rx-backbench" id="backbench">'+heading('Backbenchers Corner','For when the exam is tomorrow and the motivation arrived today.','telegram','sky')+'<div class="rx-revision-card">'+art('community',(53,290,250,270),'rx-phone-art')+'<div><h3><mark>Concise Last Minute Revision Notes</mark></h3><p>Short notes, high-yield topics and more on our Telegram channel.</p>'+link('https://t.me/vetshortnotesbytvg','View Notes','rx-button')+'</div></div></section>'
+    return '<section class="rx-section rx-backbench" id="backbench">'+heading('Backbenchers Corner','For when the exam is tomorrow and the motivation arrived today.','telegram','sky')+'<div class="rx-revision-card">'+art('community',(53,290,250,270),'rx-phone-art')+'<div><h3><mark>Last-minute revision notes</mark></h3><p>Short notes and high-yield topics for one more revision.</p>'+link('https://t.me/vetshortnotesbytvg','View Notes','rx-button')+'</div></div></section>'
 
 def involved():
     body=heading('Get Involved','Because your next note shouldn’t depend on a forwarded PDF.','people','sky')+'<div class="rx-community-grid">'

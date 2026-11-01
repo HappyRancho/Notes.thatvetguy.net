@@ -85,9 +85,9 @@ Open ](https://notes.thatvetguy.net/clinical/drug-index/)
 
 For when the exam is tomorrow and the motivation arrived today.
 
-### Concise Last Minute Revision Notes
+### Last-minute revision notes
 
-Short notes, high-yield topics and more on our Telegram channel.
+Short notes and high-yield topics for one more revision.
 
 [View Notes](https://t.me/vetshortnotesbytvg)
 
