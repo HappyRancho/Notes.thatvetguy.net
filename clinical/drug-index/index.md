@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/clinical/drug-index/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Clinical Resources](https://notes.thatvetguy.net/#clinical)
@@ -6,7 +6,7 @@
 
 # Drug Index Collection
 
-Veterinary drug indexes, a drug handbook, a wall reference and vaccination schedules in one collection. Choose a resource to see its details and Telegram download link. Check the edition before clinical use.
+Veterinary drug indexes, a drug handbook, a wall reference and vaccination schedules in one collection. Choose a resource to see its details and Google Drive link. Check the edition before clinical use.
 
 For study, not prescribing. Verify the species, dose and current clinical guidance before treating a patient.
 
@@ -54,6 +54,6 @@ A vaccination-schedule reference to compare with species, local guidance and pro
 
 [Open Book: Vaccination Schedule of All Animals](https://notes.thatvetguy.net/books/vaccination-schedule/)
 
-Downloads use a private Telegram collection. Access is required to view its posts.
+Open a book to view or download its PDF in Google Drive. Use clinical references alongside supervised training and current guidance.
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

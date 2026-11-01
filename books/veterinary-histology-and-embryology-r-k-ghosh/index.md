@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10,9 +10,9 @@ Book · Year 1
 
 R. K. Ghosh
 
-[Download via Telegram](https://t.me/c/4312433672/3)
+[Open in Google Drive](https://drive.google.com/file/d/1GURdmFfJhXcCgwP0mqFCvcFlw523kk_7/view)
 
-This button opens the book’s Telegram post. View or download the file there. This is a private collection; access to its posts is required.
+View or download this copy in Google Drive. Check its title page and edition before use.
 
 ## About this book
 
@@ -28,13 +28,13 @@ Edition & source details
 
 - Resource type: Book
 
-- Access: Telegram
+- Access: Google Drive
 
 Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 
-Access is provided through the original Telegram post.
+Primary collection: Rx Notes. File: Vet histology & embryology-RK Ghosh  (1).pdf
 
 Shared file label: Vet histology & embryology-RK Ghosh .pdf
 
@@ -42,4 +42,4 @@ Shared file label: Vet histology & embryology-RK Ghosh .pdf
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

@@ -1,0 +1,213 @@
+{
+  "rootUrl": "https://drive.google.com/drive/folders/1CtC2aBVwE6J2ss1NJdCxOKCizaumSbiw",
+  "reviewed": "2026-11-01",
+  "policy": "Prefer matched files in the owner primary storage. Retain existing working sources where no matching file exists. Empty folders do not replace resources.",
+  "books": {
+    "dhruv-desai": {
+      "id": "19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25",
+      "name": "ICAR-PG Question Bank by Dhruv N Desai.pdf",
+      "path": "Objective and competition /Objective notes /ICAR-PG Question Bank by Dhruv N Desai.pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25/view"
+    },
+    "animal-science-refresher": {
+      "id": "1W--1DTvdAoTSAWr-T6Xv_Irl-FThmvZ9",
+      "name": "Animal Science Refresher for ICAR-PG.pdf",
+      "path": "Objective and competition /Objective notes /Animal Science Refresher for ICAR-PG.pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1W--1DTvdAoTSAWr-T6Xv_Irl-FThmvZ9/view"
+    },
+    "review-veterinary-science": {
+      "id": "1TOduOUNho0mbKilOaZohpO0HKWQwS49D",
+      "name": "Review of Veterinary science .pdf",
+      "path": "Objective and competition /Objective notes /Review of Veterinary science .pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1TOduOUNho0mbKilOaZohpO0HKWQwS49D/view"
+    },
+    "review-animal-science": {
+      "id": "1lBsmrhg926FuxLJMVUETqL-1RX-jkeIc",
+      "name": "REVIEW OF ANIMAL SCIENCE By RAKESH KUMAR GUPTA.pdf",
+      "path": "Objective and competition /Objective notes /REVIEW OF ANIMAL SCIENCE By RAKESH KUMAR GUPTA.pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1lBsmrhg926FuxLJMVUETqL-1RX-jkeIc/view"
+    },
+    "veterinary-capsule": {
+      "id": "1d-Vf74CelNRSyqGPTrFuY02XBxcdiYau",
+      "name": "All in One Veterinary Capsule (Subjective) (1).pdf",
+      "path": "Objective and competition /Objective notes /All in One Veterinary Capsule (Subjective) (1).pdf",
+      "parentId": "1YsRqBSn7bxqtAAojIR04uRiIsYqSCg5v",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1d-Vf74CelNRSyqGPTrFuY02XBxcdiYau/view"
+    },
+    "tanuvas-qbank": {
+      "id": "1d6YCC2pwTn5emKuQb8_AYQfYs7LpRa_B",
+      "name": "Tanuvas ICAR Question Bank.pdf",
+      "path": "Objective and competition /Question banks/Tanuvas ICAR Question Bank.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1d6YCC2pwTn5emKuQb8_AYQfYs7LpRa_B/view"
+    },
+    "ndri-qbank": {
+      "id": "1WdzlsxVj4mnl1pAnOWfgBkL-FUi2qnw6",
+      "name": "NDRI Veterinary Question Bank.pdf",
+      "path": "Objective and competition /Question banks/NDRI Veterinary Question Bank.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1WdzlsxVj4mnl1pAnOWfgBkL-FUi2qnw6/view"
+    },
+    "vet-scorer": {
+      "id": "1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM",
+      "name": "Vet_Scorer_2022_(1st_Edition)[1]_rotated (2).pdf",
+      "path": "Objective and competition /Question banks/Vet_Scorer_2022_(1st_Edition)[1]_rotated (2).pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM/view"
+    },
+    "kvafsu-qbank": {
+      "id": "14Q49pXxd0LEM--gQkh_oI8ROwqnd3Mds",
+      "name": "KVAFSU ICAR-PG Question Bank.pdf",
+      "path": "Objective and competition /Question banks/KVAFSU ICAR-PG Question Bank.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/14Q49pXxd0LEM--gQkh_oI8ROwqnd3Mds/view"
+    },
+    "e-nanu-qbank": {
+      "id": "1ArkjZrgw-IlKwAPgvuSk4h3yq9kJ_Tmv",
+      "name": "ICAR-PG Question Bank by E Nanu.pdf",
+      "path": "Objective and competition /Question banks/ICAR-PG Question Bank by E Nanu.pdf",
+      "parentId": "1mqsj2mh7xitC5xhbzsUSfIpvLficLgwE",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1ArkjZrgw-IlKwAPgvuSk4h3yq9kJ_Tmv/view"
+    },
+    "vendex": {
+      "id": "1UwQlDNMaHC-8OfdempF069lgeTuxYJ5s",
+      "name": "VENDEX- The Fundamental Veterinary Drug Index.pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/VENDEX- The Fundamental Veterinary Drug Index.pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1UwQlDNMaHC-8OfdempF069lgeTuxYJ5s/view"
+    },
+    "navsari-drug-index": {
+      "id": "1m1q41xURGFBeabH3AZ0zdN9G_kxIQc-W",
+      "name": "Veterinary Drug Index (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Veterinary Drug Index (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1m1q41xURGFBeabH3AZ0zdN9G_kxIQc-W/view"
+    },
+    "plumbs-handbook": {
+      "id": "1z11OMBOY-cWizXCMS1GSXrjXTt0gOAbg",
+      "name": "Plumb's Veterinary Drug Handbook (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Plumb's Veterinary Drug Handbook (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1z11OMBOY-cWizXCMS1GSXrjXTt0gOAbg/view"
+    },
+    "wall-drug-dose": {
+      "id": "1m5Vs5VpatQ4r79gO1IOVsHRvCSKlj7ho",
+      "name": "Drug Dose (for wall) (1) (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Drug Dose (for wall) (1) (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1m5Vs5VpatQ4r79gO1IOVsHRvCSKlj7ho/view"
+    },
+    "vaccination-schedule": {
+      "id": "11JheXJ-U8W6pX2OBz75A0gd_jF8KZP9T",
+      "name": "Veterinary Vaccination Schedule (1).pdf",
+      "path": "Clincal Resources/Veterinary Drug Indices/Veterinary Vaccination Schedule (1).pdf",
+      "parentId": "1SMtpFPWGtv1cqjF9uK3oAaaJX1euufqc",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/11JheXJ-U8W6pX2OBz75A0gd_jF8KZP9T/view"
+    },
+    "ultimate-vet-handbook": {
+      "id": "1Xp6Zd6jkY4Hsf15DDumg3IDXOpjZRLaW",
+      "name": "Ultimate Vet handbook.pdf",
+      "url": "https://drive.google.com/file/d/1Xp6Zd6jkY4Hsf15DDumg3IDXOpjZRLaW/view",
+      "providedBy": "Owner, 2026-11-01"
+    },
+    "veterinary-clinician-handbook": {
+      "id": "1zsauaRt-Kb_QKnuMbjrFJ2QvRIAGx_cW",
+      "name": "Handbook for Veterinary Clinician (1).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Handbook for Veterinary Clinician (1).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1zsauaRt-Kb_QKnuMbjrFJ2QvRIAGx_cW/view"
+    },
+    "small-animal-medicine-handbook": {
+      "id": "1UrAXuZh2FRjWMwd_Hq827iyiZc7u8E-3",
+      "name": "Pocket Handbook of Small Animal Medicine (1).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Pocket Handbook of Small Animal Medicine (1).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1UrAXuZh2FRjWMwd_Hq827iyiZc7u8E-3/view"
+    },
+    "veterinary-practice-handbook": {
+      "id": "1RF2PQ6QvaGJxuwdXQBu-vVFS7_oFjrwT",
+      "name": "Veterinary practice handbook (1).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Veterinary practice handbook (1).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1RF2PQ6QvaGJxuwdXQBu-vVFS7_oFjrwT/view"
+    },
+    "small-animal-radiology-handbook": {
+      "id": "1dBABDt6iVuaahxE3i-cCa_KWS00m8Yb7",
+      "name": "Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_and (2).pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /Handbook_of_Small_Animal_Radiology_and_Ultrasound,_Techniques_and (2).pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1dBABDt6iVuaahxE3i-cCa_KWS00m8Yb7/view"
+    },
+    "small-animal-colour-handbook": {
+      "id": "17gVkGQOgz8pbUNjZ7WjRkXTql2_aPsrS",
+      "name": "A_Color_Handbook_of_Small_Animall.pdf",
+      "path": "Clincal Resources/Veterinary Handbooks /A_Color_Handbook_of_Small_Animall.pdf",
+      "parentId": "1x9KB5l23QS_WuQYdrQ86vRt8doQeEPlB",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/17gVkGQOgz8pbUNjZ7WjRkXTql2_aPsrS/view"
+    },
+    "primary-veterinary-anatomy": {
+      "id": "1HjwYwDo1PPiiXGFdNfpZjzAk1dVf8b3t",
+      "name": "Veterinary Anatomy byRK Ghosh (1).pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Veterinary Anatomy byRK Ghosh (1).pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1HjwYwDo1PPiiXGFdNfpZjzAk1dVf8b3t/view"
+    },
+    "veterinary-histology-and-embryology-r-k-ghosh": {
+      "id": "1GURdmFfJhXcCgwP0mqFCvcFlw523kk_7",
+      "name": "Vet histology & embryology-RK Ghosh  (1).pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Vet histology & embryology-RK Ghosh  (1).pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1GURdmFfJhXcCgwP0mqFCvcFlw523kk_7/view"
+    },
+    "color-atlas-of-veterinary-histology": {
+      "id": "1yhg6P8u3cjh5o3_tX5EAwX6Bu8fjveJt",
+      "name": "Color Atlas of Veterinary Histology.pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Color Atlas of Veterinary Histology.pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1yhg6P8u3cjh5o3_tX5EAwX6Bu8fjveJt/view"
+    },
+    "colour-atlas-of-veterinary-anatomy-the-ruminants": {
+      "id": "1O9o-tXFxZEWicwxTrXtNrLqU0_MUR5Tz",
+      "name": "Colour Atlas of Veterinary Anatomy - The Ruminants.pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Colour Atlas of Veterinary Anatomy - The Ruminants.pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1O9o-tXFxZEWicwxTrXtNrLqU0_MUR5Tz/view"
+    },
+    "veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition": {
+      "id": "1SLfkQgY7Q0EgUPPUOvkhRl8S-m5Wr1w3",
+      "name": "Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition (3).pdf",
+      "path": "BVSc & AH/1st year /Veterinary Anatomy/Books/Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition (3).pdf",
+      "parentId": "1NgUpxkDAY3sxBbnOI7bJQdC45r4QwCFb",
+      "mime": "application/pdf",
+      "url": "https://drive.google.com/file/d/1SLfkQgY7Q0EgUPPUOvkhRl8S-m5Wr1w3/view"
+    }
+  }
+}

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-practice-handbook/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-practice-handbook/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11,9 +11,9 @@ Handbook · Clinical reference
 
 RK Chandolia
 
-[Download via Telegram](https://t.me/Vethandbooks/7)
+[Open in Google Drive](https://drive.google.com/file/d/1RF2PQ6QvaGJxuwdXQBu-vVFS7_oFjrwT/view)
 
-This button opens the book’s Telegram post. View or download the file there.
+View or download this copy in Google Drive. Check its title page and edition before use.
 
 ## About this book
 
@@ -27,16 +27,16 @@ Edition & source details
 
 - Resource type: Handbook
 
-- Access: Telegram
+- Access: Google Drive
 
 Symbolic artwork made for this listing; not the publisher’s cover.
 
 Credit belongs to the original authors and publishers.
 
-Access is provided through the original Telegram post.
+Primary collection: Rx Notes. File: Veterinary practice handbook (1).pdf
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Practice%20Handbook#report)
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

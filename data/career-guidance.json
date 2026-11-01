@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-28",
+  "reviewed": "2026-11-01",
   "routes": {
     "companion": {
       "compare": {
@@ -8,10 +8,10 @@
         "Working life": "Clinic; emergencies vary",
         "Test it": "Supervised clinic shift"
       },
-      "skills": "Case records; client communication; basic diagnostic reasoning",
-      "progression": "Build general-practice confidence, then consider a focused clinical interest. Specialist training and recognition are separate from simply using a specialist job title.",
-      "questions": "Ask to see the induction plan, who reviews your cases and how referrals work. A large caseload alone does not show how much you will learn.",
-      "evidence": "Prepare an anonymised case discussion under supervision: problem list, reasoning, follow-up and what you learned."
+      "skills": "Make your first learning targets ordinary and measurable: take a complete history, present a problem list, write a clear record and explain follow-up instructions. Keep an anonymised log with observed, assisted and supervised-performance columns. Ask a senior to review one difficult case regularly. Recognising when you need help is part of clinical competence, not a sign that you chose the wrong profession.",
+      "progression": "Build reliable general-practice skills before paying for a collection of short courses. Later you might move towards emergency work, a particular clinical interest, hospital management or formal postgraduate training. A weekend certificate and a recognised specialist qualification are different things. For your next step, look for a role with the cases, supervision and feedback you are missing.",
+      "questions": "Ask: “Who is physically available when I am unsure? When would I first work alone? Can appointments be reduced during induction? Who reviews my records?” Get the night rota, weekly time off, pay deductions and referral arrangements in writing. “We are always available on the phone” needs a backup plan for an emergency when that person cannot answer.",
+      "evidence": "Prepare one authorised, anonymised case reflection: presenting problem, your contribution, what the senior changed and what you learned. It shows reasoning better than a procedure count. At interview, discuss how you would ask for help and communicate uncertainty. Never include client names, identifiable photographs or records taken without permission."
     },
     "livestock": {
       "compare": {
@@ -20,10 +20,10 @@
         "Working life": "Travel; farm emergencies",
         "Test it": "Supervised herd visit"
       },
-      "skills": "Herd history; production records; prevention plans",
-      "progression": "Progress may involve herd consultancy, dairy services or a relevant postgraduate discipline. Learn how health advice fits farm resources and economics.",
-      "questions": "Ask about transport, field safety, backup for emergencies and how new vets learn procedures under supervision.",
-      "evidence": "Turn a supervised herd visit into a one-page observation of records, prevention priorities and practical constraints."
+      "skills": "Practise a structured farm history and a simple spreadsheet of dates, production, reproductive events and health problems. Learn to notice missing or unreliable records before drawing conclusions. Ask your supervisor how they prioritise a problem the farmer can afford to address. Handling, biosecurity, respectful communication and clear follow-up notes matter alongside clinical knowledge.",
+      "progression": "Experience can lead towards herd-health consultancy, reproduction, dairy technical services or management. Relevant postgraduate training may support a specialist direction, but field credibility comes from sound follow-up and decisions made with the farmer. Keep evidence of what changed after an intervention, including other changes on the farm; do not claim every improvement as your own treatment result.",
+      "questions": "Clarify the travel radius, vehicle or fuel reimbursement, emergency roster, safe handling help and access to a senior or referral centre. Who pays when a visit is cancelled? Is there time for follow-up? Ask how the team manages farm-to-farm biosecurity and difficult client interactions. Remote work without transport, equipment or backup is not a useful substitute for supervised experience.",
+      "evidence": "With permission, follow one herd issue over several visits. Summarise the baseline records, questions asked, supervised recommendations, farmer constraints and subsequent observations. Include what you still cannot conclude. A small, carefully documented project is a stronger interview example than saying you are interested in dairy development."
     },
     "production": {
       "compare": {
@@ -32,10 +32,10 @@
         "Working life": "Farm, travel or operations",
         "Test it": "College production visit"
       },
-      "skills": "Biosecurity; production data; clear technical advice",
-      "progression": "Possible directions include farm health, feed technical services and operational responsibilities. Clinical, commercial and production roles have different entry requirements.",
-      "questions": "Ask whether targets relate to production, sales or health outcomes; check farm residency and travel expectations.",
-      "evidence": "Explain one production metric and the factors that affect it using an approved, anonymised dataset."
+      "skills": "Learn what feed conversion, mortality, growth or egg-production measures mean and how the farm records them. Compare like with like: age, feed, flock size and measurement period can change the interpretation. Learn spreadsheet cleaning and charting, then explain one trend without jumping to a diagnosis. Prevention also depends on whether staff can consistently follow the proposed routine.",
+      "progression": "Possible directions include farm management, technical services, nutrition support, hatchery operations and specialised research. Choose the experience that matches your intended direction. If you want nutrition work, ask how much formulation or supervised technical analysis you will do; a job selling feed may teach valuable business skills but may not provide that training.",
+      "questions": "Request the actual performance measures: flock outcomes, customer visits, sales, collections or all of these? Ask about farm residence, leave cover, travel reimbursement, biosecurity training and outbreak escalation. If a result looks poor, can you investigate it with the technical team, or are you expected to recommend a product immediately? The answer tells you a lot about the role.",
+      "evidence": "Use a teaching dataset or authorised anonymised farm records to create a one-page trend report. State definitions, denominators, missing data and two possible explanations. End with the information you would collect next. This demonstrates practical data reasoning without pretending that a spreadsheet alone can establish a disease diagnosis."
     },
     "government": {
       "compare": {
@@ -44,10 +44,10 @@
         "Working life": "Postings; public service",
         "Test it": "Read one live notice"
       },
-      "skills": "Syllabus-led preparation; documentation; local communication",
-      "progression": "A state veterinary post, central vacancy and deputation appointment are different routes. Keep a vacancy tracker and a parallel skills plan while preparing.",
-      "questions": "Check recognised degree and registration requirements, domicile or language rules, age cut-off, documents and selection stages in the exact notice.",
-      "evidence": "Build a one-page tracker from a real official notice: eligibility, syllabus, documents, dates and selection stages."
+      "skills": "Prepare from the notified syllabus and exam pattern, then use previous papers from the same recruitment where available. Keep an error log by topic rather than endlessly collecting new notes. Field communication, concise reports and basic data handling remain useful after selection. For interviews, practise explaining a public-service problem clearly without inventing experience or a universal treatment protocol.",
+      "progression": "Responsibilities may expand towards programme coordination, administration or specialist departmental work, depending on service rules and opportunities. Selection is only one stage; posting and service conditions affect everyday life. Read probation, transfer, bond and promotion provisions where published. Do not select this path solely on an assumption that every veterinary post has the same stability or progression.",
+      "questions": "Is this regular recruitment, a fixed-term contract or an outsourced position? What are the posting rules and whether pay includes allowances? Check document deadlines and whether internship and registration must be complete by a specified date. Ask serving officers about a normal week. Treat informal vacancy predictions as rumours until the recruiting authority publishes a notice.",
+      "evidence": "Create a vacancy tracker with the official PDF, closing date, qualification cut-off, selection stages and application status. Save the advertisement and submitted form. If vacancies are uncertain, set a preparation review date and a parallel supervised-work or study option. Waiting indefinitely for one notification can cost income and useful experience."
     },
     "armed-forces": {
       "compare": {
@@ -56,10 +56,10 @@
         "Working life": "Military postings/training",
         "Test it": "Read RVC officer notice"
       },
-      "skills": "Veterinary fundamentals; officer awareness; clear communication",
-      "progression": "Understand both the professional and military responsibilities. Short Service Commission terms, possible later progression and training must come from the applicable Army notice.",
-      "questions": "Confirm medical standards, service liability and category-specific eligibility. CAPF veterinary posts, where advertised, are separate recruitment routes, not interchangeable RVC entries.",
-      "evidence": "Summarise an official RVC officer notice and list questions about duties, training and postings for a serving or former officer."
+      "skills": "Keep veterinary fundamentals strong and build the ability to explain decisions, work in a team and take responsibility. Learn what officer selection assesses instead of treating it as another veterinary MCQ examination. Maintain an appropriate fitness routine and obtain medical advice for health concerns; neither coaching nor self-assessment can guarantee that you meet service medical standards.",
+      "progression": "Read the commission’s service period, training obligations, extension possibilities and release conditions in the current notice. Do not assume a short-service entry guarantees permanent commission or a particular posting. Speak with a serving or former RVC officer about duties across appointments and what professional options they considered after service.",
+      "questions": "Ask what a junior officer’s normal week looks like, how animal care and administrative duties are shared, and how postings affect family life. Separately verify eligibility and medical standards from official instructions. The linked archived recruitment notice is an example of the process, not proof that applications are currently open or that last year’s conditions still apply.",
+      "evidence": "Build a document checklist directly from the current advertisement and retain official copies of your qualification and registration records. Prepare honest examples of teamwork, setbacks and responsibilities from college or internship. Learn enough about the Corps to explain why its service environment suits you, rather than presenting it simply as an alternative government vacancy."
     },
     "public-health": {
       "compare": {
@@ -68,10 +68,10 @@
         "Working life": "Project, field or policy",
         "Test it": "Write an evidence brief"
       },
-      "skills": "Epidemiology; spreadsheets; evidence appraisal",
-      "progression": "Look for the actual qualifications in public-health, food-safety and project vacancies before choosing MVSc, MPH or another course. Not every food-safety role accepts the same degree.",
-      "questions": "Ask what the project delivers, who supervises the work, how long funding lasts and whether field travel is required.",
-      "evidence": "Write a short evidence brief on a defined animal-health question, distinguishing findings, uncertainty and possible action."
+      "skills": "Start with rates and denominators, study design, questionnaire quality, spreadsheet cleaning and clear writing. Practise explaining what a surveillance dataset cannot tell you as well as what it suggests. Learn consent, confidentiality and the project’s reporting procedures before fieldwork. A good recommendation accounts for the people who would have to implement it.",
+      "progression": "You might develop towards epidemiology, programme management, food safety, research or policy support. Progress depends on methods, project experience and the requirements of the next role. Some posts run only for a grant period. Ask how a course or project will give you supervised analytical work, a credible output and a reference, not just a broad One Health label.",
+      "questions": "Who funds the post, when does that funding end, and how much travel is expected? Will you collect data, analyse it or mostly coordinate logistics? Who approves reports? For further study, ask where graduates with a veterinary background actually went and which skills employers used. A placement list covering all degree backgrounds may be misleading for your situation.",
+      "evidence": "Make a short evidence brief using public data: define a question, describe the population and measurement period, cite the source and explain limitations. Add a realistic communication or prevention step within the evidence. This gives an interviewer something concrete to discuss without needing access to confidential patient or outbreak records."
     },
     "diagnostics": {
       "compare": {
@@ -80,10 +80,10 @@
         "Working life": "Laboratory; shifts vary",
         "Test it": "Follow a sample to report"
       },
-      "skills": "Sample handling; quality assurance; interpretation",
-      "progression": "A diagnostic laboratory and a research laboratory have different outputs. Relevant postgraduate training can support advanced interpretation or research; check each post.",
-      "questions": "Ask about biosafety, validated methods, training and who authorises reports. A test result needs clinical context.",
-      "evidence": "Create a sample-to-report flowchart showing identification, transport, quality checks and interpretation under laboratory supervision."
+      "skills": "Follow one sample from request form to authorised report. Learn rejection criteria, controls, record keeping, biosafety and how the team investigates unexpected results. Build microscopy and data-handling skills under supervision. When discussing a result, consider specimen quality, the test’s limits and the clinical context rather than treating a positive finding as a complete diagnosis.",
+      "progression": "Possible directions include diagnostic pathology, microbiology, parasitology, quality systems, laboratory management or research. Choose training with enough real samples and feedback. If you want interpretation, check whether the role includes case discussions; if you want research, ask whether you will learn experimental design rather than repeatedly perform one assay.",
+      "questions": "Which tests are genuinely performed here and which are referred out? Who supervises new staff, reviews quality-control failures and signs reports? Ask about protective equipment, waste handling, working hours, sample volumes and training records. An impressive equipment list means little if instruments are not functioning or trainees cannot use them.",
+      "evidence": "With approval, prepare an anonymised workflow audit or teaching case: what arrived, which quality checks applied, what could bias the result and how it was reported. Do not publish identifiable reports. A careful explanation of a limitation can demonstrate better diagnostic judgement than a long list of instruments on your CV."
     },
     "academia": {
       "compare": {
@@ -92,10 +92,10 @@
         "Working life": "Teaching, lab and writing",
         "Test it": "Small supervised project"
       },
-      "skills": "Statistics; research ethics; literature appraisal",
-      "progression": "Choose a discipline and supervisor around the kind of research you want to do. Teaching, project and scientist appointments differ in qualifications, examinations and contract terms.",
-      "questions": "Ask current students about supervision, facilities, thesis timelines, funding and where recent graduates went.",
-      "evidence": "Complete a small literature review with a clear question, reproducible search and a table of study limitations."
+      "skills": "Learn to turn a broad interest into a question with a feasible method and a defensible outcome measure. Build referencing, statistics, research ethics, data management and scientific writing alongside laboratory or field methods. Ask for feedback on a small piece of work regularly. Reproducible notes and honest negative results are more valuable than chasing an impressive-sounding topic.",
+      "progression": "Possible moves include postgraduate study, funded project work, doctoral training, postdoctoral research or teaching appointments. Each has its own selection process and funding conditions. Think about the methods and outputs you will carry to the next role. A topic can change; the ability to design, analyse and explain careful work transfers much more widely.",
+      "questions": "Ask the supervisor how often you will meet and who will teach unfamiliar methods. Are samples, approvals, instruments and funds available? What is the fallback if the project fails? Clarify stipend terms, authorship discussions and expected duties. Speak privately with current and recent students about supervision and completion, not only publication counts.",
+      "evidence": "Start with a scoped literature review, a reproducible analysis of an open dataset or an approved pilot project. Show the question, search or analysis method, limitations and next step. Avoid predatory journals and paid authorship offers. A modest, transparent piece of work is stronger evidence of research potential than an unverifiable publication claim."
     },
     "industry": {
       "compare": {
@@ -104,10 +104,10 @@
         "Working life": "Travel/targets vary",
         "Test it": "Compare three vacancies"
       },
-      "skills": "Scientific explanation; presentations; documentation",
-      "progression": "Technical services, regulatory support, product roles and sales are different jobs. Choose a skill to demonstrate, then target vacancies that actually use it.",
-      "questions": "Ask how time is divided between travel, training, desk work and selling, and how performance is measured.",
-      "evidence": "Create a source-checked technical explainer for a specific audience; clearly separate scientific evidence from promotional claims."
+      "skills": "Practise explaining a product’s evidence, limitations and appropriate context without making unsupported claims. Learn presentations, literature appraisal, spreadsheet work and professional follow-up. For pharmacovigilance or regulatory work, understand the employer’s documented processes and reporting responsibilities. You do not need to pretend to know every product; show how you check information and escalate uncertainty.",
+      "progression": "Routes may lead towards senior technical services, training, product management, regulatory work or commercial leadership. Moving between them is possible but not automatic. Identify what your next role requires and seek relevant projects. For example, organising customer visits develops different experience from reviewing safety reports or designing an evidence-based training session.",
+      "questions": "Ask how much time involves travel, sales, collections, scientific support and administration. Is pay partly incentive-based, and what are the conditions? Who approves scientific claims? Are expenses reimbursed promptly? If a job is advertised as technical, request examples of recent technical work. Decide whether the actual role fits you instead of rejecting or accepting it on the title.",
+      "evidence": "Create a short, cited technical explainer or training presentation for a defined audience. Separate established evidence from uncertainty and avoid patient-specific prescriptions. In an interview, explain how you would adapt it for a farmer, veterinarian or sales colleague. Clear audience-aware communication is a useful work sample across several industry roles."
     },
     "wildlife": {
       "compare": {
@@ -116,10 +116,10 @@
         "Working life": "Field; project posts possible",
         "Test it": "Formal supervised placement"
       },
-      "skills": "Biosecurity; welfare; team communication",
-      "progression": "Build relevant experience through recognised placements and mentors. A wildlife interest alone does not establish eligibility for a zoo, rescue or research appointment.",
-      "questions": "Ask about permits, supervision, safety, contract duration and the real daily duties before committing to a placement.",
-      "evidence": "Use a permitted observation placement to document quarantine, record-keeping or welfare processes without identifying animals or locations that should stay private."
+      "skills": "Learn observation, species-appropriate husbandry questions, biosecurity, record keeping and teamwork before chasing advanced procedures. Ask how clinical decisions account for welfare, conservation aims and the constraints of the setting. Handling and chemical restraint are not skills to practise independently from online material. A valuable placement teaches you when to step back and involve the right team.",
+      "progression": "Possible directions include zoo medicine, conservation projects, wildlife health research and rehabilitation. Relevant postgraduate study may help for particular posts, but experience, permissions and institutional needs still matter. Keep a parallel option that uses your transferable skills, such as diagnostics or research, rather than assuming a permanent wildlife opening will appear immediately.",
+      "questions": "Who supervises you, what activities are permitted, and what happens during an emergency? Ask about accommodation, field safety, insurance or institutional coverage, contract duration and funding. Clarify whether this is an educational placement, a paid job or routine unpaid labour. Be cautious if unsupervised handling is presented as a selling point.",
+      "evidence": "An authorised, anonymised preventive-health or record-quality project can be useful even without hands-on procedures. Explain the question, observations and limitations, and acknowledge the team’s contribution. Photographs with animals do not demonstrate clinical competence; a thoughtful report and a credible supervisor reference usually say much more about what you learned."
     },
     "welfare": {
       "compare": {
@@ -128,10 +128,10 @@
         "Working life": "Facilities and rota vary",
         "Test it": "Supervised shelter visit"
       },
-      "skills": "Population records; infection control; team working",
-      "progression": "Shelter medicine combines individual care with programme design. Clinical, welfare-programme and management jobs may have different experience requirements.",
-      "questions": "Ask about caseload limits, facilities, pain management, emergency cover and staff support. Do not infer working hours from the organisation’s mission.",
-      "evidence": "With permission, map a shelter’s intake-to-follow-up workflow and propose one measurable record-keeping improvement."
+      "skills": "Learn to maintain traceable patient records, communicate priorities and recognise when capacity is exceeded. Observe the entire patient pathway, including pre-operative assessment, anaesthesia monitoring, recovery and follow-up. Work within supervision and local requirements. Population health, calm teamwork and consistent protocols can improve care as much as individual procedural speed.",
+      "progression": "Experience may lead towards shelter medicine, programme coordination, community outreach or welfare management. Build evidence that you understand both clinical quality and the organisation’s constraints. If you want further clinical training, check whether the post provides varied cases and senior review, not only repeated procedures under pressure.",
+      "questions": "Ask about staffing, caseload limits, isolation areas, pain-management and anaesthesia supervision, emergency referral and staff time off. Who decides when intake or surgery must slow down? How are adverse outcomes reviewed? A mission you care about does not remove the need for safe facilities, support and a sustainable workload.",
+      "evidence": "With authorisation, help improve a record template, follow-up system or staff-training resource and describe what changed. Use anonymised aggregate information and avoid claiming causation from a small audit. This shows a practical contribution to welfare without turning vulnerable animals or distressing cases into promotional content."
     },
     "enterprise": {
       "compare": {
@@ -140,10 +140,10 @@
         "Working life": "Business responsibility",
         "Test it": "Interview five users"
       },
-      "skills": "Budgeting; records; referrals; service design",
-      "progression": "Validate demand before buying equipment or renting space. Clinical services need professional and local compliance; teaching or technology ventures have their own requirements.",
-      "questions": "Build a break-even estimate using actual quotations: rent, staff, supplies, compliance, insurance where relevant and time when you cannot bill.",
-      "evidence": "Draft a one-page service concept from user interviews, actual cost quotations, permissions and a realistic referral plan."
+      "skills": "Learn basic cash-flow planning, pricing, inventory control, consent and communication as well as clinical quality. Separate personal spending from business accounts. Ask potential clients what they currently do, what is inconvenient and what they would realistically pay for. Interest in an idea is not the same as willingness to use and pay for a service.",
+      "progression": "Begin with a service you can deliver safely and consistently, then expand when demand and finances support it. Partnerships can share skills and costs, but responsibilities, ownership and exits need written agreements. A bigger premises or more equipment does not necessarily improve profit. Track repeat use, outcomes, complaints and cash flow before adding another service.",
+      "questions": "How many paying visits are needed to cover costs? What happens if demand is half the forecast for several months? Who covers illness, emergencies and referrals? Include rent, staff, consumables, maintenance, compliance and loan payments. Ask an accountant to distinguish profit, cash flow and owner income so a busy month does not hide an unsustainable business.",
+      "evidence": "Build an explicitly hypothetical break-even example: fixed monthly costs of ₹60,000 divided by ₹300 contribution per visit requires 200 visits before owner pay, tax or additional costs. These are illustrative figures, not market prices. Replace them with local quotations and a realistic service mix. Test demand on a lawful, limited scale before committing major savings."
     },
     "communication": {
       "compare": {
@@ -152,10 +152,10 @@
         "Working life": "Desk/team; contract varies",
         "Test it": "Create a cited explainer"
       },
-      "skills": "Writing; evidence checking; user understanding",
-      "progression": "Build a portfolio for a specific audience or problem. Product, education and health-data roles need skills beyond veterinary subject knowledge; consider small supervised projects.",
-      "questions": "Ask who checks scientific claims, who owns the work, how revisions are handled and how success is measured.",
-      "evidence": "Build a small portfolio containing a cited explainer, an edited teaching note and a clear visual explanation for a defined audience."
+      "skills": "Practise finding original sources, checking dates, explaining uncertainty and writing for a defined reader. For tech roles, learn to describe a user problem, map a workflow and test whether the proposed solution helps. If using AI, verify every clinical claim and citation yourself; fluent text is not evidence. Respect patient confidentiality and source permissions.",
+      "progression": "You might move into specialist writing, educational design, product operations, customer training or data work. Choose one direction long enough to build demonstrable skill. Freelance and salaried work have different income and administrative demands. Before buying another certificate, ask whether it helps you produce the work employers or clients actually request.",
+      "questions": "Who reviews clinical content and carries responsibility for publication? Are deadlines realistic, revisions paid and intellectual-property terms clear? For a product role, ask whether you will contribute domain expertise or mainly do sales/support. For freelance work, agree the brief, payment schedule and permitted portfolio use before starting.",
+      "evidence": "Prepare three short samples: a cited explainer for students, a plain-language client handout and a one-page evidence or workflow brief. Add the audience, purpose and sources to each. A polished, accurate sample is more convincing than calling yourself a medical-content expert. Use public or authorised anonymised material, never copied confidential records."
     }
   },
   "community": [
@@ -164,21 +164,21 @@
       "url": "https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/",
       "context": "Indian student/vet discussion · personal reports",
       "observation": "Commenters described finding private roles through seniors and professional networks, alongside job platforms. Salary reports varied and cannot establish what a fresh graduate will earn.",
-      "action": "Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location."
+      "action": "Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location. Make the request specific: tell a senior the location, species or role you want, your registration status and when you can start. Ask whether they can introduce you to someone hiring. Then verify the vacancy and terms directly with the employer. Networking can open a conversation; it does not replace checking whether the role is suitable."
     },
     {
       "title": "Lifestyle belongs in the decision",
       "url": "https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/",
       "context": "Indian career discussion · personal reports",
       "observation": "An intern prioritised staying near home and work–life balance. One reply suggested municipal animal-birth-control work; this is an individual suggestion, not evidence of predictable hours or vacancies.",
-      "action": "Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week."
+      "action": "Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week. Staying near home can be a legitimate requirement, not a lack of ambition. List employers within a realistic commute and investigate what each actually needs. For an animal-birth-control role, ask about surgery supervision, recovery staffing and emergency cover. Do not infer predictable hours from a single commenter’s positive experience."
     },
     {
       "title": "Ask what “mentorship” means on Monday morning",
       "url": "https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/",
       "context": "International new-graduate discussion · not Indian recruitment guidance",
       "observation": "A new graduate described a mismatch between promised support and early clinical responsibility. Replies discussed protected shadowing time, manageable appointments and ready access to a senior vet.",
-      "action": "Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview."
+      "action": "Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview. Try asking, “If I am uncertain in my first consultation, what happens next?” A useful answer names a person, a way to reach them and how work is adjusted while you learn. If support fails after joining, document the gap, request a clear plan and review whether the role remains appropriate for your competence."
     }
   ]
 }

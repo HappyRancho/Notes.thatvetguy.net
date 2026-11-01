@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/plumbs-handbook/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/plumbs-handbook/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -8,25 +8,25 @@ Handbook · Clinical reference
 
 # Plumb’s Veterinary Drug Handbook
 
-Donald C. Plumb
+James A. Budde and Dawn M. McCluskey
 
-[Download via Telegram](https://t.me/c/4430259212/5)
+[Open in Google Drive](https://drive.google.com/file/d/1z11OMBOY-cWizXCMS1GSXrjXTt0gOAbg/view)
 
-This button opens the book’s Telegram post. View or download the file there. This is a private collection; access to its posts is required.
+View or download this copy in Google Drive. Check its title page and edition before use.
 
 ## About this book
 
-Plumb’s Veterinary Drug Handbook is a veterinary drug reference organised around individual medicines. It brings together information used to look up veterinary drug monographs, including precautions and interactions. It is a reference for trained clinical use, not a substitute for diagnosis or current product information. Confirm the edition of the linked copy and use current, species-specific clinical guidance.
+The linked copy is the 10th edition of Plumb’s Veterinary Drug Handbook by James A. Budde and Dawn M. McCluskey. Organised by medicine, it brings together veterinary drug information, precautions and interactions for trained clinical reference. Use current product information and species-specific guidance when applying it; a drug handbook does not replace diagnosis or supervised clinical judgement.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
 Edition & source details 
 
-- Authors / editors: Donald C. Plumb
+- Authors / editors: James A. Budde and Dawn M. McCluskey
 
 - Resource type: Handbook
 
-- Access: Telegram
+- Access: Google Drive
 
 - Reference publisher: Wiley-Interscience
 
@@ -36,10 +36,10 @@ Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 
-Access is provided through the original Telegram post.
+Primary collection: Rx Notes. File: Plumb's Veterinary Drug Handbook (1).pdf
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Plumb%E2%80%99s%20Veterinary%20Drug%20Handbook#report)
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

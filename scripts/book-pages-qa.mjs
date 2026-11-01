@@ -22,7 +22,7 @@ try{
  }
  const c=await browser.newContext({viewport:{width:390,height:844}}),p=await c.newPage();
  await p.goto(base+'/bvsc/year-1/veterinary-physiology/#books');await p.locator('#books .year-book-link').first().click();await p.waitForURL('**/books/**');if(!await p.locator('.book-download').isVisible())throw Error('Subject-to-book navigation');
- await p.goto(base+'/objective/');await p.locator('.rx-book-card a').first().click();await p.waitForURL('**/books/dhruv-desai/');if(!await p.locator('.book-download').getAttribute('href').then(s=>s.startsWith('https://t.me/')))throw Error('Telegram mapping');
+ await p.goto(base+'/objective/');await p.locator('.rx-book-card a').first().click();await p.waitForURL('**/books/dhruv-desai/');if(await p.locator('.book-download').getAttribute('href')!==JSON.parse(fs.readFileSync('data/primary-drive-links.json')).books['dhruv-desai'].url)throw Error('Primary Drive mapping');
  await p.goto(base+'/clinical/handbooks/');await p.locator('.rx-book-card a').first().click();await p.waitForURL('**/books/ultimate-vet-handbook/');
  await p.goto(base+'/bvsc/year-4/veterinary-surgery-and-radiology/#books');if(await p.locator('#books .year-book-link').count()>=12){await p.locator('.collection-query').fill('ophthalmology');if(await p.locator('#books .year-book-link:visible').count()!==1)throw Error('Book author/title search');}
  await p.goto(base+'/search/?q=Animal%20Nutrition');await p.waitForSelector('#page-results a[href^="/books/"]');

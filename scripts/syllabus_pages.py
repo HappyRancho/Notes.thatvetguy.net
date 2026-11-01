@@ -27,7 +27,7 @@ def render(b):
             if subject['unitNumbering']=='sections':body+='<p class="syllabus-section-note">The outline uses practical sections rather than numbered units.</p>'
             for i,unit in enumerate(units):
                 prefix='<small>Unit '+str(unit['number'])+'</small>' if unit['number'] is not None else ''
-                body+='<details class="syllabus-unit" id="'+unit['key']+'" data-syllabus-unit'+(' open' if i==0 else '')+'><summary><h3>'+prefix+e(unit['title'])+'</h3><span class="syllabus-unit-count" data-unit-count>0 / '+str(len(unit['topics']))+'</span>'+b.icon('chevron')+'</summary>'+topic_list(b,unit['topics'])+'</details>'
+                body+='<details class="syllabus-unit" id="'+unit['key']+'" data-syllabus-unit'+'><summary><h3>'+prefix+e(unit['title'])+'</h3><span class="syllabus-unit-count" data-unit-count>0 / '+str(len(unit['topics']))+'</span>'+b.icon('chevron')+'</summary>'+topic_list(b,unit['topics'])+'</details>'
             body+='</section>'
         body+='</div><details class="syllabus-source"><summary>Course outline &amp; source notes '+b.icon('chevron')+'</summary><p>'+e(DATA['authority'])+'. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.</p>'
         body+=b.link(subject['sourceUrl']+'#page='+str(subject['sourcePage']),'Read the MSVE 2016 curriculum (PDF) '+b.icon('paper'),'syllabus-source-link')+'<p>Checked <time datetime="'+DATA['reviewed']+'">'+DATA['reviewed']+'</time>.</p></details>'+b.link(parent,'Back to '+e(name)+' '+b.icon('arrow'),'syllabus-back')+'</div>'

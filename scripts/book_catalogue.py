@@ -20,7 +20,7 @@ def books():
  for r in read('collections.json',{'resources':[]})['resources']:
   ident=r['id'];kind='Reference sheet' if ident in ['wall-drug-dose','vaccination-schedule'] else 'Question bank' if r['collection']=='question-banks' else 'Handbook' if r['collection'] in ['handbooks','drug-index'] else 'Study book'
   known=r.get('sourceCredit') if ident in ['dhruv-desai','e-nanu-qbank','veterinary-clinician-handbook','veterinary-practice-handbook'] else None
-  all[ident]={'id':ident,'title':c.get('collectionTitles',{}).get(ident,clean(r['title'])),'author':known,'description':r['description'],'subjects':[],'files':[],'telegram':r['url'],'collection':r['collection'],'recommended':False,'type':kind,'references':[],'lastVerified':read('collections.json',{})['reviewed'],'resourceId':'telegram-'+ident}
+  all[ident]={'id':ident,'title':c.get('collectionTitles',{}).get(ident,clean(r['title'])),'author':known,'description':r['description'],'subjects':[],'files':[],'telegram':r['url'] if r['url'].startswith('https://t.me/') else None,'collection':r['collection'],'recommended':False,'type':kind,'references':[],'lastVerified':read('collections.json',{})['reviewed'],'resourceId':'telegram-'+ident}
  source=read('vetverse-books.json',{'files':[],'reviewed':''});seen={}
  for f in source['files']:
   if f['id'] in c.get('excludedFiles',{}):continue
@@ -64,9 +64,13 @@ def books():
   book['cover']=resolve(book)
   book['page']=route(book['id'])
   book['files'].sort(key=lambda f:(-int(m[1]) if (m:=re.search(r'\b(\d+)(?:st|nd|rd|th)?\s*[- ]?edition',f['name'],re.I)) else 0,natural(f['name'])))
-  book['primaryUrl']=book['telegram'] or (book['files'][0]['url'] if book['files'] else None)
-  book['access']='Telegram' if book['telegram'] else 'Google Drive' if book['files'] else 'Reading guide'
-  book['downloadLabel']='Download via Telegram' if book['telegram'] else 'Open in Google Drive' if book['files'] else 'Request this book'
+  book['primaryDrive']=read('primary-drive-links.json',{}).get('books',{}).get(book['id'])
+  if book['primaryDrive']:
+   book['telegram']=None
+   book['lastVerified']=read('primary-drive-links.json',{})['reviewed']
+  book['primaryUrl']=(book['primaryDrive']['url'] if book['primaryDrive'] else None) or book['telegram'] or (book['files'][0]['url'] if book['files'] else None)
+  book['access']='Telegram' if book['telegram'] else 'Google Drive' if book['primaryDrive'] or book['files'] else 'Reading guide'
+  book['downloadLabel']='Download via Telegram' if book['telegram'] else 'Open in Google Drive' if book['primaryDrive'] or book['files'] else 'Request this book'
   if not book['description']:
    subject=book['subjects'][0]['name'];book['description']=f'A {subject.lower()} reference for Year {book["subjects"][0]["year"]} BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.'
   book['clinical']=book['collection'] in ['handbooks','drug-index'] or any(s['year']==4 for s in book['subjects'])
@@ -74,5 +78,5 @@ def books():
  (ROOT/'data/books.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
  return result
 def by_subject(year,subject):return [b for b in books() if {'year':year,'name':subject} in b['subjects']]
-def by_url(url):return next((b for b in books() if b['telegram']==url or any(f['url']==url for f in b['files'])),None)
+def by_url(url):return next((b for b in books() if b['primaryUrl']==url or b['telegram']==url or any(f['url']==url for f in b['files'])),None)
 def by_resource(ident):return next((b for b in books() if b.get('resourceId')==ident),None)

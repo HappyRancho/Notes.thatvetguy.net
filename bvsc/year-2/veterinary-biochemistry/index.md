@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -16,7 +16,7 @@ Veterinary Biochemistry focuses on linking molecular processes with animal healt
 ## Notes
 
 23 notes
-[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/)
+[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -114,7 +114,7 @@ No notes found.
 
 Try a shorter title or another collection.
 
-[Request a resource ](https://notes.thatvetguy.net/request-resource/)
+[Request a resource ](https://notes.thatvetguy.net/request-resource/)[Practical VaultPractical folders & assessment guide](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/)
 
 ℞
 
@@ -128,4 +128,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

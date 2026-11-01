@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/vet-scorer/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/vet-scorer/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10,9 +10,9 @@ Question bank · Exam revision
 
 Shailesh Kumar Patel, Jigyasa Rana and B. Balamurugan
 
-[Download via Telegram](https://t.me/veterinary_question_bank/12)
+[Open in Google Drive](https://drive.google.com/file/d/1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM/view)
 
-This button opens the book’s Telegram post. View or download the file there.
+View or download this copy in Google Drive. Check its title page and edition before use.
 
 ## About this book
 
@@ -24,16 +24,16 @@ Edition & source details
 
 - Resource type: Question bank
 
-- Access: Telegram
+- Access: Google Drive
 
 Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 
-Access is provided through the original Telegram post.
+Primary collection: Rx Notes. File: Vet_Scorer_2022_(1st_Edition)[1]_rotated (2).pdf
 
 [Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Vet%20Scorer%202022%20%E2%80%94%201st%20Edition#report)
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-10-31; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
