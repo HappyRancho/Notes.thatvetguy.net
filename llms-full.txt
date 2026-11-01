@@ -7731,10 +7731,10 @@ Which postgraduate discipline fits?Match the work, then investigate the departme
 
 Admissions: follow the right routeAn exam application and a college application can be separate.Read answerClose answer+−
 
-- Pick the programme and institution. Read its current prospectus, recognised qualifications, subject eligibility and registration or internship requirements.
-- Identify the exact selection route. Check whether the applicable veterinary seats use an ICAR-linked process, a university examination or another route. Do not assume one exam covers every MVSc seat.
-- Track every stage. Examination, institutional application, counselling, document verification and fee deadlines may be separate.
-- Prepare the documents early. Check degree/provisional certificates, transcripts, internship completion, registration and category documents against the current notice.
+- Pick the programme and institution. Read its current prospectus, recognised qualifications, subject eligibility and registration or internship requirements. Note the date by which each requirement must be complete; being eligible eventually is not the same as meeting the advertised cut-off. Keep the relevant page of the prospectus with your checklist.
+- Identify the exact selection route. Check whether the applicable veterinary seats use an ICAR-linked process, a university examination or another route. Do not assume one exam covers every MVSc seat. For example, verify the applicable ICAR-linked route for the institution and seat category you want, while checking university-specific admissions separately. Use the institution’s current notice to resolve conflicts with coaching material.
+- Track every stage. Examination, institutional application, counselling, document verification and fee deadlines may be separate. Make one row per stage with the portal, deadline, fee and confirmation receipt. An exam score does not automatically register you for every counselling process or guarantee a seat.
+- Prepare the documents early. Check degree/provisional certificates, transcripts, internship completion, registration and category documents against the current notice. Confirm required formats and validity periods. Before paying for a seat, understand withdrawal, refund, reporting and any bond conditions, and keep a copy of what you accepted.
 
 [NTA: current ICAR notices](#source-pg-nta)[IVRI: MVSc information](#source-ivri)[TANUVAS: PG admissions](#source-pg-tanuvas)
 
@@ -7892,19 +7892,19 @@ A job search is more than an examIndian student/vet discussion · personal repor
 
 - What the discussion raised.: Commenters described finding private roles through seniors and professional networks, alongside job platforms. Salary reports varied and cannot establish what a fresh graduate will earn.
 
-- Our practical takeaway.: Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/)
+- Our practical takeaway.: Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location. Make the request specific: tell a senior the location, species or role you want, your registration status and when you can start. Ask whether they can introduce you to someone hiring. Then verify the vacancy and terms directly with the employer. Networking can open a conversation; it does not replace checking whether the role is suitable.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/)
 
 Lifestyle belongs in the decisionIndian career discussion · personal reportsRead answerClose answer+−
 
 - What the discussion raised.: An intern prioritised staying near home and work–life balance. One reply suggested municipal animal-birth-control work; this is an individual suggestion, not evidence of predictable hours or vacancies.
 
-- Our practical takeaway.: Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/)
+- Our practical takeaway.: Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week. Staying near home can be a legitimate requirement, not a lack of ambition. List employers within a realistic commute and investigate what each actually needs. For an animal-birth-control role, ask about surgery supervision, recovery staffing and emergency cover. Do not infer predictable hours from a single commenter’s positive experience.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/)
 
 Ask what “mentorship” means on Monday morningInternational new-graduate discussion · not Indian recruitment guidanceRead answerClose answer+−
 
 - What the discussion raised.: A new graduate described a mismatch between promised support and early clinical responsibility. Replies discussed protected shadowing time, manageable appointments and ready access to a senior vet.
 
-- Our practical takeaway.: Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview.[Read the original discussion](https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/)
+- Our practical takeaway.: Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview. Try asking, “If I am uncertain in my first consultation, what happens next?” A useful answer names a person, a way to reach them and how work is adjusted while you learn. If support fails after joining, document the gap, request a clear plan and review whether the role remains appropriate for your competence.[Read the original discussion](https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/)
 
 Official checks & further reading 
 
@@ -8475,7 +8475,7 @@ Show 7 more 7 remaining
 
 [Handbook of Small Animal Radiology and UltrasoundRuth Dennis · Google Drive](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
 
-[Plumb’s Veterinary Drug HandbookDonald C. Plumb · Google Drive](https://notes.thatvetguy.net/books/plumbs-handbook/)
+[Plumb’s Veterinary Drug HandbookJames A. Budde and Dawn M. McCluskey · Google Drive](https://notes.thatvetguy.net/books/plumbs-handbook/)
 
 [Pocket Handbook of Small Animal MedicineKit Sturgess · Google Drive](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/)
 
@@ -8545,7 +8545,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -8577,7 +8577,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -8587,13 +8587,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -8623,7 +8623,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -8633,7 +8633,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -8680,7 +8680,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/ananthanarayan-microbiology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -8712,7 +8712,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -8722,7 +8722,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -8773,7 +8773,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/animal-nutrition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/animal-nutrition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/animal-nutrition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -8805,7 +8805,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -8815,7 +8815,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -8913,7 +8913,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -8943,7 +8943,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -8953,7 +8953,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -9005,7 +9005,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9035,7 +9035,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9045,13 +9045,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9089,7 +9089,7 @@ Edition & source details
 
 - Bibliographic year: 1987 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9099,7 +9099,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -9159,7 +9159,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9189,7 +9189,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9199,7 +9199,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -9241,7 +9241,7 @@ Edition & source details
 
 - Bibliographic year: 2012 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9263,7 +9263,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9301,7 +9301,7 @@ Edition & source details
 
 - Bibliographic year: 1998 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9311,7 +9311,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -9345,7 +9345,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9454,7 +9454,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9486,7 +9486,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9496,7 +9496,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -9545,7 +9545,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9577,7 +9577,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9587,7 +9587,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -9740,7 +9740,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9772,7 +9772,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9782,13 +9782,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9818,7 +9818,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9828,13 +9828,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -9868,7 +9868,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -9878,7 +9878,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -9976,7 +9976,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10006,7 +10006,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10016,13 +10016,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10054,7 +10054,7 @@ Edition & source details
 
 - Scope: General medical reference; pair with veterinary teaching
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10064,13 +10064,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10098,7 +10098,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10108,13 +10108,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10154,7 +10154,7 @@ Edition & source details
 
 - Scope: General medical reference; pair with veterinary teaching
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10164,7 +10164,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -10267,7 +10267,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10295,7 +10295,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10305,7 +10305,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -10352,7 +10352,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10386,7 +10386,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10396,7 +10396,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -10500,7 +10500,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10538,7 +10538,7 @@ Edition & source details
 
 - Bibliographic year: 2007 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10548,13 +10548,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10592,7 +10592,7 @@ Edition & source details
 
 - Bibliographic year: 2001 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10602,7 +10602,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -10655,7 +10655,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/meat-processing-technology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/meat-processing-technology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/meat-processing-technology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10683,7 +10683,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10693,13 +10693,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10737,7 +10737,7 @@ Edition & source details
 
 - Bibliographic year: 1977 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10747,7 +10747,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -10794,7 +10794,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10826,7 +10826,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10836,7 +10836,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -10892,7 +10892,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -10930,7 +10930,7 @@ Edition & source details
 
 - Bibliographic year: 1997 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -10945,7 +10945,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -10961,7 +10961,7 @@ Handbook · Clinical reference
 
 # Plumb’s Veterinary Drug Handbook
 
-Donald C. Plumb
+James A. Budde and Dawn M. McCluskey
 
 [Open in Google Drive](https://drive.google.com/file/d/1z11OMBOY-cWizXCMS1GSXrjXTt0gOAbg/view)
 
@@ -10969,13 +10969,13 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 ## About this book
 
-Plumb’s Veterinary Drug Handbook is a veterinary drug reference organised around individual medicines. It brings together information used to look up veterinary drug monographs, including precautions and interactions. It is a reference for trained clinical use, not a substitute for diagnosis or current product information. Confirm the edition of the linked copy and use current, species-specific clinical guidance.
+The linked copy is the 10th edition of Plumb’s Veterinary Drug Handbook by James A. Budde and Dawn M. McCluskey. Organised by medicine, it brings together veterinary drug information, precautions and interactions for trained clinical reference. Use current product information and species-specific guidance when applying it; a drug handbook does not replace diagnosis or supervised clinical judgement.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
 Edition & source details 
 
-- Authors / editors: Donald C. Plumb
+- Authors / editors: James A. Budde and Dawn M. McCluskey
 
 - Resource type: Handbook
 
@@ -11001,7 +11001,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11043,7 +11043,7 @@ Edition & source details
 
 - Scope: General medical reference; pair with veterinary teaching
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11053,7 +11053,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -11109,7 +11109,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11147,7 +11147,7 @@ Edition & source details
 
 - Bibliographic year: 2001 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11157,13 +11157,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/prescott-s-microbiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/prescott-s-microbiology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/prescott-s-microbiology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11191,7 +11191,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11201,7 +11201,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -11354,7 +11354,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11384,7 +11384,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11394,13 +11394,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11436,7 +11436,7 @@ Edition & source details
 
 - Bibliographic year: 2009 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11446,7 +11446,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -11584,7 +11584,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11616,7 +11616,7 @@ Edition & source details
 
 - Scope: General medical reference; pair with veterinary teaching
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11626,7 +11626,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -11686,7 +11686,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11716,7 +11716,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11726,13 +11726,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11762,7 +11762,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11772,13 +11772,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11812,7 +11812,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11822,13 +11822,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -11858,7 +11858,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -11868,7 +11868,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -12007,7 +12007,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12039,7 +12039,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12049,7 +12049,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -12151,7 +12151,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12189,7 +12189,7 @@ Edition & source details
 
 - Bibliographic year: 2010 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12204,13 +12204,13 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12238,7 +12238,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12248,13 +12248,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/necropsy-book-john-king/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/necropsy-book-john-king/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/necropsy-book-john-king/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12286,7 +12286,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12296,7 +12296,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -12503,7 +12503,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12568,7 +12568,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-epidemiology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12600,7 +12600,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12610,13 +12610,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12644,7 +12644,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12654,13 +12654,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/veterinary-medicine/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-medicine/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-medicine/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12694,7 +12694,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12704,7 +12704,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -12756,7 +12756,7 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/veterinary-mycology/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-mycology/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-mycology/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12792,7 +12792,7 @@ Edition & source details
 
 - Bibliographic year: 2015 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12802,13 +12802,13 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12846,7 +12846,7 @@ Edition & source details
 
 - Bibliographic year: 1956 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -12856,7 +12856,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---
@@ -12955,7 +12955,7 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -12989,7 +12989,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -13004,7 +13004,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
 
 
 ---

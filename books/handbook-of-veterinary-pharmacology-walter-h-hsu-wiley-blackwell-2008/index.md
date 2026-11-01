@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -26,7 +26,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -36,4 +36,4 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

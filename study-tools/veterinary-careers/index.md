@@ -496,10 +496,10 @@ Which postgraduate discipline fits?Match the work, then investigate the departme
 
 Admissions: follow the right routeAn exam application and a college application can be separate.Read answerClose answer+−
 
-- Pick the programme and institution. Read its current prospectus, recognised qualifications, subject eligibility and registration or internship requirements.
-- Identify the exact selection route. Check whether the applicable veterinary seats use an ICAR-linked process, a university examination or another route. Do not assume one exam covers every MVSc seat.
-- Track every stage. Examination, institutional application, counselling, document verification and fee deadlines may be separate.
-- Prepare the documents early. Check degree/provisional certificates, transcripts, internship completion, registration and category documents against the current notice.
+- Pick the programme and institution. Read its current prospectus, recognised qualifications, subject eligibility and registration or internship requirements. Note the date by which each requirement must be complete; being eligible eventually is not the same as meeting the advertised cut-off. Keep the relevant page of the prospectus with your checklist.
+- Identify the exact selection route. Check whether the applicable veterinary seats use an ICAR-linked process, a university examination or another route. Do not assume one exam covers every MVSc seat. For example, verify the applicable ICAR-linked route for the institution and seat category you want, while checking university-specific admissions separately. Use the institution’s current notice to resolve conflicts with coaching material.
+- Track every stage. Examination, institutional application, counselling, document verification and fee deadlines may be separate. Make one row per stage with the portal, deadline, fee and confirmation receipt. An exam score does not automatically register you for every counselling process or guarantee a seat.
+- Prepare the documents early. Check degree/provisional certificates, transcripts, internship completion, registration and category documents against the current notice. Confirm required formats and validity periods. Before paying for a seat, understand withdrawal, refund, reporting and any bond conditions, and keep a copy of what you accepted.
 
 [NTA: current ICAR notices](#source-pg-nta)[IVRI: MVSc information](#source-ivri)[TANUVAS: PG admissions](#source-pg-tanuvas)
 
@@ -657,19 +657,19 @@ A job search is more than an examIndian student/vet discussion · personal repor
 
 - What the discussion raised.: Commenters described finding private roles through seniors and professional networks, alongside job platforms. Salary reports varied and cannot establish what a fresh graduate will earn.
 
-- Our practical takeaway.: Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/)
+- Our practical takeaway.: Ask your college network for introductions, then compare real written offers. Separate pay, hours, supervision and location. Make the request specific: tell a senior the location, species or role you want, your registration status and when you can start. Ask whether they can introduce you to someone hiring. Then verify the vacancy and terms directly with the employer. Networking can open a conversation; it does not replace checking whether the role is suitable.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1wfkjju/job_scenario_after_bvsc_pls_help/)
 
 Lifestyle belongs in the decisionIndian career discussion · personal reportsRead answerClose answer+−
 
 - What the discussion raised.: An intern prioritised staying near home and work–life balance. One reply suggested municipal animal-birth-control work; this is an individual suggestion, not evidence of predictable hours or vacancies.
 
-- Our practical takeaway.: Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/)
+- Our practical takeaway.: Check actual municipal/NGO posts, facilities, emergency duties and registration requirements. Ask someone doing that exact job about a normal week. Staying near home can be a legitimate requirement, not a lack of ambition. List employers within a realistic commute and investigate what each actually needs. For an animal-birth-control role, ask about surgery supervision, recovery staffing and emergency cover. Do not infer predictable hours from a single commenter’s positive experience.[Read the original discussion](https://www.reddit.com/r/VETERetards/comments/1x5zjq3/title_career_options_after_bvsc_in_india_apart/)
 
 Ask what “mentorship” means on Monday morningInternational new-graduate discussion · not Indian recruitment guidanceRead answerClose answer+−
 
 - What the discussion raised.: A new graduate described a mismatch between promised support and early clinical responsibility. Replies discussed protected shadowing time, manageable appointments and ready access to a senior vet.
 
-- Our practical takeaway.: Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview.[Read the original discussion](https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/)
+- Our practical takeaway.: Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview. Try asking, “If I am uncertain in my first consultation, what happens next?” A useful answer names a person, a way to reach them and how work is adjusted while you learn. If support fails after joining, document the gap, request a clear plan and review whether the role remains appropriate for your competence.[Read the original discussion](https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/)
 
 Official checks & further reading 
 

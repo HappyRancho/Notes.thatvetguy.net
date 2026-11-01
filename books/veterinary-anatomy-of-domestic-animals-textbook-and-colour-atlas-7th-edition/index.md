@@ -26,7 +26,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 

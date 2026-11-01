@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/; updated: 2026-10-31 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/; updated: 2026-11-01 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[Books](https://notes.thatvetguy.net/books/)
@@ -36,7 +36,7 @@ Edition & source details
 
 - Bibliographic year: 2010 · linked edition may differ
 
-Cover extracted from the linked PDF.
+Cover extracted from a source PDF; available copies may differ.
 
 Credit belongs to the original authors and publishers.
 
@@ -51,4 +51,4 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

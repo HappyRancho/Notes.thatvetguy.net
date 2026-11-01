@@ -211,7 +211,7 @@ Show 7 more 7 remaining
 
 [Handbook of Small Animal Radiology and UltrasoundRuth Dennis · Google Drive](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
 
-[Plumb’s Veterinary Drug HandbookDonald C. Plumb · Google Drive](https://notes.thatvetguy.net/books/plumbs-handbook/)
+[Plumb’s Veterinary Drug HandbookJames A. Budde and Dawn M. McCluskey · Google Drive](https://notes.thatvetguy.net/books/plumbs-handbook/)
 
 [Pocket Handbook of Small Animal MedicineKit Sturgess · Google Drive](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/)
 
