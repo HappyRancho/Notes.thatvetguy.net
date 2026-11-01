@@ -55,7 +55,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified,DATA['lastChecked'],noindex=noindex);social=geo.social(path)
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     light,dark=('#eaf8ff','#112433')
-    fast_shell=home or path in ['/search/','/clinical/handbooks/'] or path.startswith('/study-tools/')
+    fast_shell=home or path in ['/search/','/objective/','/clinical/handbooks/'] or path.startswith('/study-tools/')
     core_style='rx-tools.css' if path.startswith('/study-tools/') else ('rx-core.css' if fast_shell else 'site.css')
     theme_boot='<script>'+ (ROOT/'assets/theme.js').read_text().strip()+'</script>' if fast_shell else f'<script src="/assets/theme.js?v={VERSION}"></script>'
     extra_assets='' if fast_shell else f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
