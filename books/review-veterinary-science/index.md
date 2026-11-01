@@ -4,7 +4,6 @@
 - ›[Books](https://notes.thatvetguy.net/books/)
 - ›Review of Veterinary Science
 
-Symbolic cover
 Study book · Exam revision
 
 # Review of Veterinary Science
@@ -23,7 +22,7 @@ Edition & source details
 
 - Access: Google Drive
 
-Symbolic artwork made for this listing; not the publisher’s cover.
+Reference cover; the linked edition may differ.
 
 Credit belongs to the original authors and publishers.
 

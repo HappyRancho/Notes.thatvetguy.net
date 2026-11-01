@@ -188,14 +188,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/symbolic-veterinary-capsule.webp",
-      "width": 500,
-      "height": 750,
-      "kind": "symbolic-cover",
-      "source": "Rx Notes original symbolic artwork",
-      "title": "All in One Veterinary Capsule",
-      "author": "Author not listed",
-      "fingerprint": "82f4cbe84f8a36c262a5c3c25b350c5f8c309b2091ab5a040fafa683a52a66be"
+      "path": "/assets/books/owner-veterinary-capsule.webp",
+      "width": 520,
+      "height": 681,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 4-1000088054.png",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "d5a12f0d7d3eb58e7fdd4176135e22db213ebdcec3d73bd46ed43b3b493ad4b3"
     },
     "page": "/books/veterinary-capsule/",
     "primaryDrive": {
@@ -405,11 +405,14 @@
     ],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/animal-science-refresher.webp",
-      "width": 386,
-      "height": 500,
-      "source": "https://images-na.ssl-images-amazon.com/images/P/1618138170.01.LZZZZZZZ.jpg",
-      "kind": "reference-cover"
+      "path": "/assets/books/owner-animal-science-refresher.webp",
+      "width": 520,
+      "height": 715,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 2-images-22-.jpg",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "7223fdd130c13c8fb218fa47ad140ddf7f5185e8b05dbc53548119bde98745c1"
     },
     "page": "/books/animal-science-refresher/",
     "primaryDrive": {
@@ -3644,14 +3647,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/symbolic-review-animal-science.webp",
-      "width": 500,
-      "height": 750,
-      "kind": "symbolic-cover",
-      "source": "Rx Notes original symbolic artwork",
-      "title": "Review of Animal Science",
-      "author": "Author not listed",
-      "fingerprint": "d2693f76f025f247fddf3f4dd7d8091aedfc7c84ab2ecc77d0f95103ca9a77ff"
+      "path": "/assets/books/owner-review-animal-science.webp",
+      "width": 520,
+      "height": 707,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 5-1000088057.jpg",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "bf76841e3d29c5ca7a96c6a7a0d8927bf6605ac408e67dbbf10470147cf488a6"
     },
     "page": "/books/review-animal-science/",
     "primaryDrive": {
@@ -3685,14 +3688,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/symbolic-review-veterinary-science.webp",
-      "width": 500,
-      "height": 750,
-      "kind": "symbolic-cover",
-      "source": "Rx Notes original symbolic artwork",
-      "title": "Review of Veterinary Science",
-      "author": "Author not listed",
-      "fingerprint": "a5e98fe1ff63ac7752dd343e2499ef788bba002aa2b44c2bbb141f8bae4c6048"
+      "path": "/assets/books/owner-review-veterinary-science.webp",
+      "width": 520,
+      "height": 693,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 1-images-23-.jpg",
+      "reviewed": "2026-11-01",
+      "review": "Owner-supplied cover visually matched to this book title.",
+      "sha256": "6a00dcfa96e8c01bb9cc4078235a526f026f62ee72704833ded4d6d730f56077"
     },
     "page": "/books/review-veterinary-science/",
     "primaryDrive": {
@@ -4647,14 +4650,14 @@
     "referenceISBNs": [],
     "bibliography": {},
     "cover": {
-      "path": "/assets/books/symbolic-ultimate-vet-handbook.webp",
-      "width": 500,
-      "height": 750,
-      "kind": "symbolic-cover",
-      "source": "Rx Notes original symbolic artwork",
-      "title": "Ultimate Vet Handbook",
-      "author": "Author not listed",
-      "fingerprint": "8ff5bf69f6154880a42f1e0d50073b44ffa3664ff9da87583f05aec0f476d61f"
+      "path": "/assets/books/owner-ultimate-vet-handbook.webp",
+      "width": 520,
+      "height": 605,
+      "kind": "reference-cover",
+      "source": "Owner-supplied cover image: 3-Screenshot_20261101-202030.png",
+      "reviewed": "2026-11-01",
+      "review": "Matched to the displayed book title; Ultimate Vet Handbook cover explicitly assigned by site owner.",
+      "sha256": "08c4c1d08863398a498fe02bb20a97a01ba71c10d109883fdbdc26fc9174bc91"
     },
     "page": "/books/ultimate-vet-handbook/",
     "primaryDrive": {
