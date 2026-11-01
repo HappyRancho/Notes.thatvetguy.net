@@ -63,7 +63,7 @@ Study smart. Because suffering manually is outdated.
 
 [Tools](https://notes.thatvetguy.net/study-tools/#tools)[Tips](https://notes.thatvetguy.net/study-tools/#tips)
 
-[Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
+[Vet Apps for StudentsRevision, reference & anatomy](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes WebsitesNotes, cases & trusted sources](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career OptionsFind your path after BVSc](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
@@ -73,11 +73,11 @@ Check the dose twice. The patient can’t leave a review.
 
 [
 
-### Handbooks Collection
+### Handbooks
 
 Open ](https://notes.thatvetguy.net/clinical/handbooks/)[
 
-### Drug Index Collection
+### Drug Index
 
 Open ](https://notes.thatvetguy.net/clinical/drug-index/)
 
@@ -93,19 +93,19 @@ Short notes and high-yield topics for one more revision.
 
 ## Get Involved
 
-Because your next note shouldn’t depend on a forwarded PDF.
+Find an opportunity. Help fill a gap.
 
 [
 
 ### Vet Job Updates
 
-Join the Telegram group for opportunities.
+Explore opportunities on Telegram.
 
 ](https://t.me/jobupdatesbytvg)[
 
 ### Request Resources
 
-Can’t find a resource? Ask for it.
+Missing a note or book? Let us know.
 
 ](https://notes.thatvetguy.net/request-resource/)
 
