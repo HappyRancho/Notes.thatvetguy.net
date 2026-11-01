@@ -43,6 +43,16 @@ def inspect(file):
  finally:path.unlink(missing_ok=True)
  print(file['name']+': '+str(result.get('pages',result.get('error'))),flush=True)
  return result
-files=json.loads((ROOT/'data/primary-drive-inventory.json').read_text())['files']
-with ThreadPoolExecutor(max_workers=5) as pool:results=list(pool.map(inspect,files))
-(ROOT/'data/primary-drive-verification.json').write_text(json.dumps({'reviewed':'2026-11-01','files':results},ensure_ascii=False,indent=2)+'\n')
+inventory=json.loads((ROOT/'data/primary-drive-inventory.json').read_text())['files']
+links=ROOT/'data/primary-drive-links.json'
+if links.exists():inventory+=list(json.loads(links.read_text())['books'].values())
+files={f['id']:f for f in inventory}
+previous=ROOT/'data/primary-drive-verification.json'
+results=json.loads(previous.read_text())['files'] if previous.exists() else []
+verified={f['id'] for f in results if not f.get('error')}
+pending=[f for fid,f in files.items() if fid not in verified]
+with ThreadPoolExecutor(max_workers=5) as pool:new=list(pool.map(inspect,pending))
+results={f['id']:f for f in results+new}
+previous.write_text(json.dumps({'reviewed':'2026-11-01','files':list(results.values())},ensure_ascii=False,indent=2)+'\n')
+assert not any(f.get('error') for f in new),'New primary PDF unavailable'
+print('Verified primary PDFs:',len(results),'New:',len(new))

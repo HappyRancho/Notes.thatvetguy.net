@@ -29,7 +29,7 @@ for b in books:
   assert 'Download via Telegram' in raw and b['telegram'] in d.links
   assert 'opens the book’s Telegram post' in raw
   if '/c/' in b['telegram']:assert 'private collection' in raw
- elif b['files']:
+ elif b.get('primaryDrive') or b['files']:
   assert 'Open in Google Drive' in raw and 'Download via Telegram' not in raw
   assert all(f['url'] in d.links for f in b['files']),(b['id'],'copy link lost')
  else:assert 'Request this book' in raw and 'reading recommendation' in raw

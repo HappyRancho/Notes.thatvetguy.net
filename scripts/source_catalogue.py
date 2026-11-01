@@ -54,8 +54,10 @@ def build_library(refresh=False):
   for f in book['files']:
    fmt=f['name'].rsplit('.',1)[-1].upper();binary=f['mime']!='application/vnd.google-apps.folder';download='https://drive.google.com/uc?export=download&id='+f['id'] if isinstance(f['size'],int) and f['size']<25_000_000 and binary else None
    variants.append(dict(f,format=fmt,extension=fmt,download=download))
+  if book.get('primaryDrive'):
+   primary=book['primaryDrive'];variants.insert(0,dict(id=primary['id'],name=primary['name'],url=primary['url'],mime='application/pdf',size=None,updated=None,format='PDF',extension='PDF',download=None))
   f=book['files'][0];rid=book['resourceId'];page=book['page']
-  rows.append(dict(id=rid,name=book['title'],title=book['title'],year=f['year'],subject=f['subject'],subjectSlug=slug(f['subject']),unit='Subject Books',path=f['path'],mime=f['mime'],size=f['size'],updated=f['updated'],kind='books',group='Books',format=variants[0]['format'],variants=variants,duplicateIds=[],photoIds=[],type='Book',page=page,permalink=page+'#file-'+rid,url=f['url'],source='Vetverse',sourceCredit=book.get('author') or 'Vetverse collection',sourcePage=f['sourceFolder'],lastVerified=book['lastVerified'],collections=['subject-books'],keywords=[book['title'],book.get('author') or '',f['subject'],'Books'],description=book['description'],new=False))
+  rows.append(dict(id=rid,name=book['title'],title=book['title'],year=f['year'],subject=f['subject'],subjectSlug=slug(f['subject']),unit='Subject Books',path=f['path'],mime=f['mime'],size=f['size'],updated=f['updated'],kind='books',group='Books',format=variants[0]['format'],variants=variants,duplicateIds=[],photoIds=[],type='Book',page=page,permalink=page+'#file-'+rid,url=book['primaryUrl'],source='Rx Notes primary Drive' if book.get('primaryDrive') else 'Vetverse',sourceCredit=book.get('author') or 'Vetverse collection',sourcePage=f['sourceFolder'],lastVerified=book['lastVerified'],collections=['subject-books'],keywords=[book['title'],book.get('author') or '',f['subject'],'Books'],description=book['description'],new=False))
  from practical_catalogue import build_records,manifest_rows
  rows+=build_records(rows)
  drive_rows=manifest_rows(rows)

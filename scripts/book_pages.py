@@ -11,7 +11,7 @@ def cover(b,book):
  return '<figure class="book-cover"><img src="'+e(c['path'],quote=True)+'" width="'+str(c['width'])+'" height="'+str(c['height'])+'" alt="'+e(label+' — '+book['title'],quote=True)+'" fetchpriority="high" decoding="async">'+('<figcaption>Symbolic cover</figcaption>' if symbolic else '')+'</figure>'
 def access_text(book):
  if book['telegram']:return 'This button opens the book’s Telegram post. View or download the file there.'+(' This is a private collection; access to its posts is required.' if '/c/' in book['telegram'] else '')
- if book['files']:return 'View or download this copy in Google Drive. Check its title page and edition before use.'
+ if book.get('primaryDrive') or book['files']:return 'View or download this copy in Google Drive. Check its title page and edition before use.'
  return 'This is a reading recommendation. A linked copy is not currently available; you can request one.'
 def facts(book):
  fields=[]
@@ -36,7 +36,7 @@ def page(b,book):
  if rid and rid in b.CATALOGUE:
   r=b.CATALOGUE[rid];aliases=''.join('<span class="anchor-alias" id="file-'+v['id']+'"></span>' for v in r['variants'] if v['id']!=rid)
  target=book['primaryUrl'] or '/request-resource/?resource='+__import__('urllib.parse',fromlist=['quote']).quote(book['title'])
- button=b.link(target,b.icon('telegram' if book['telegram'] else 'book' if book['files'] else 'message')+'<span>'+book['downloadLabel']+'</span>'+b.icon('external' if book['primaryUrl'] else 'arrow'),'book-download'+(' file-open' if rid else ''))
+ button=b.link(target,b.icon('telegram' if book['telegram'] else 'book' if book['primaryUrl'] else 'message')+'<span>'+book['downloadLabel']+'</span>'+b.icon('external' if book['primaryUrl'] else 'arrow'),'book-download'+(' file-open' if rid else ''))
  body+='<section class="book-overview"><div class="book-overview-grid">'+cover(b,book)+'<div class="book-hero-copy"><span class="book-category">'+e(book['type'])+' · '+e(('Year '+str(book['subjects'][0]['year'])) if book['subjects'] else 'Exam revision' if book['collection'] in ['objective-notes','question-banks'] else 'Clinical reference')+'</span><h1>'+e(book['title'])+'</h1>'
  if book.get('author'):body+='<p class="book-author">'+e(book['author'])+'</p>'
  body+='</div></div><article class="book-access"'+(' id="file-'+rid+'" data-resource-id="'+rid+'"' if rid else '')+'>'+aliases+button+'<p>'+access_text(book)+'</p></article></section>'
@@ -45,14 +45,16 @@ def page(b,book):
  if book['clinical']:body+='<aside class="book-clinical-note" role="note">For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.</aside>'
  body+='</section>'
  body+='<details class="book-source-details"><summary>Edition &amp; source details '+b.icon('chevron')+'</summary><div>'+facts(book)+('<p>Reference cover; the linked edition may differ.</p>' if book['cover']['kind']=='reference-cover' else '<p>Symbolic artwork made for this listing; not the publisher’s cover.</p>' if book['cover']['kind']=='symbolic-cover' else '<p>Cover extracted from the linked PDF.</p>')+'<p>Credit belongs to the original authors and publishers.</p>'
+ if book.get('primaryDrive'):body+='<p>Primary collection: Rx Notes. File: '+e(book['primaryDrive']['name'])+'</p>'
  if book['files']:body+='<p>Collection: Vetverse. Original file '+('labels' if len(book['files'])>1 else 'label')+':</p><ul>'+''.join('<li>'+e(f['name'])+'</li>' for f in book['files'])+'</ul>'
  elif book['telegram']:body+='<p>Access is provided through the original Telegram post.</p>'
  if book.get('originalLabel'):body+='<p>Shared file label: '+e(book['originalLabel'])+'</p>'
  body+=b.link('/request-resource/?resource='+__import__('urllib.parse',fromlist=['quote']).quote(book['title'])+'#report','Report a link or credit issue '+b.icon('arrow'),'book-report')+'</div></details>'
- if len(book['files'])>1:body+='<details class="book-other-copies"><summary>Other available copies '+b.icon('chevron')+'</summary><ul>'+''.join('<li><span>'+e(f['name'])+'</span>'+b.link(f['url'],'Open in Drive '+b.icon('external'))+'</li>' for f in book['files'][1:])+'</ul></details>'
+ copies=book['files'] if book.get('primaryDrive') else book['files'][1:]
+ if copies:body+='<details class="book-other-copies"><summary>Other available copies '+b.icon('chevron')+'</summary><ul>'+''.join('<li><span>'+e(f['name'])+'</span>'+b.link(f['url'],'Open in Drive '+b.icon('external'))+'</li>' for f in copies)+'</ul></details>'
  if book['subjects']:body+=b.link(f'/bvsc/year-{book["subjects"][0]["year"]}/'+slug(book['subjects'][0]['name'])+'/#books','Back to subject books '+b.icon('arrow'),'book-subject-link')
  else:body+=b.link('/objective/' if book['collection'] in ['objective-notes','question-banks'] else '/clinical/'+str(book['collection'])+'/' if book['collection'] in ['drug-index','handbooks'] else '/books/','Back to collection '+b.icon('arrow'),'book-subject-link')
- body+='</div>';suffix=' — Telegram Download' if book['telegram'] else ' — Details & Drive Access' if book['files'] else ' — BVSc Reading Guide'
+ body+='</div>';suffix=' — Telegram Download' if book['telegram'] else ' — Details & Drive Access' if book['primaryUrl'] else ' — BVSc Reading Guide'
  b.write_page(book['page'],book['title']+suffix,desc,body)
 
 def index(b):
