@@ -1,6 +1,6 @@
 {
   "/": {
-    "sha256": "cfc3e155af36a8c4353259b61183adfd9b57c72f4e0495ba590734e5dd3047cd",
+    "sha256": "ab8ec15b1ca6af07dfc89353b545bf3f972ec29fb1b2e3349bc1ca4593dd57bc",
     "modified": "2026-11-01"
   },
   "/bvsc/": {
@@ -164,7 +164,7 @@
     "modified": "2026-10-28"
   },
   "/clinical/handbooks/": {
-    "sha256": "5633e47419778521414c65b4c59bacb41446e29cd5ea7b50a3c6589418630849",
+    "sha256": "01c0119f11d9ce694e74e5f88ece759937a411d3c3f0a4020671566f469be7aa",
     "modified": "2026-11-01"
   },
   "/clinical/drug-index/": {

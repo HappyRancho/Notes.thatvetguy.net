@@ -52,9 +52,9 @@ MCQs repeat. Your confidence doesn’t.
 
 [Objective Notes](https://notes.thatvetguy.net/objective/#books)[Question Banks](https://notes.thatvetguy.net/objective/#subject-wise)
 
-[Compiled Question Bank by Dhruv N DesaiOpen ](https://drive.google.com/file/d/19uysGwt6_KkFjdbLe3f6iYd6lrnl5j25/view)[Animal Science RefresherOpen ](https://drive.google.com/file/d/1W--1DTvdAoTSAWr-T6Xv_Irl-FThmvZ9/view)[Review of Veterinary ScienceOpen ](https://drive.google.com/file/d/1TOduOUNho0mbKilOaZohpO0HKWQwS49D/view)[Review of Animal ScienceOpen ](https://drive.google.com/file/d/1lBsmrhg926FuxLJMVUETqL-1RX-jkeIc/view)[All in One Veterinary CapsuleOpen ](https://drive.google.com/file/d/1d-Vf74CelNRSyqGPTrFuY02XBxcdiYau/view)
+[Compiled Question Bank by Dhruv N DesaiView ](https://notes.thatvetguy.net/books/dhruv-desai/)[Animal Science RefresherView ](https://notes.thatvetguy.net/books/animal-science-refresher/)[Review of Veterinary ScienceView ](https://notes.thatvetguy.net/books/review-veterinary-science/)[Review of Animal ScienceView ](https://notes.thatvetguy.net/books/review-animal-science/)[All in One Veterinary CapsuleView ](https://notes.thatvetguy.net/books/veterinary-capsule/)
 
-[TANUVAS All-Subjects Question BankOpen ](https://drive.google.com/file/d/1d6YCC2pwTn5emKuQb8_AYQfYs7LpRa_B/view)[NDRI Veterinary Question BankOpen ](https://drive.google.com/file/d/1WdzlsxVj4mnl1pAnOWfgBkL-FUi2qnw6/view)[Vet Scorer 2022 — 1st EditionOpen ](https://drive.google.com/file/d/1RZ11Ul9wbKhYpfCp2EcSJx7606cywFaM/view)[KVAFSU Question BankOpen ](https://drive.google.com/file/d/14Q49pXxd0LEM--gQkh_oI8ROwqnd3Mds/view)[E. Nanu Veterinary Question BankOpen ](https://drive.google.com/file/d/1ArkjZrgw-IlKwAPgvuSk4h3yq9kJ_Tmv/view)
+[TANUVAS All-Subjects Question BankView ](https://notes.thatvetguy.net/books/tanuvas-qbank/)[NDRI Veterinary Question BankView ](https://notes.thatvetguy.net/books/ndri-qbank/)[Vet Scorer 2022 — 1st EditionView ](https://notes.thatvetguy.net/books/vet-scorer/)[KVAFSU Question BankView ](https://notes.thatvetguy.net/books/kvafsu-qbank/)[E. Nanu Veterinary Question BankView ](https://notes.thatvetguy.net/books/e-nanu-qbank/)
 [Explore more ](https://notes.thatvetguy.net/objective/)
 
 ## Tools & Tips
