@@ -12,6 +12,9 @@ def check_policy():
  allowed|={b['primaryUrl'] for b in books() if b.get('primaryUrl')}
  from study_tools import allowed_urls
  tool_allowed=allowed_urls()
+ # Reviewed citations belong only to their corresponding roadmap, not the catalogue.
+ from roadmaps import DATA as ROADMAPS, GUIDANCE
+ roadmap_allowed={ROOT/f'bvsc/year-{year}/roadmap/index.html':{s['url'] for s in ROADMAPS['academicSources'][:2]}|{s['url'] for s in GUIDANCE['sources'] if s['id'] in guide['sources']} for year,guide in GUIDANCE['years'].items()}
  curriculum=json.loads((ROOT/'data/msve-2016-source.json').read_text())['url']
  class Links(HTMLParser):
   def __init__(self,path):super().__init__();self.path=path;self.footer=False
@@ -25,6 +28,7 @@ def check_policy():
    counts+=1
    if host==BASE:return
    if self.path.is_relative_to(ROOT/'study-tools') and url in tool_allowed:return
+   if url in roadmap_allowed.get(self.path,set()):return
    if url in allowed or url in telegram or url.split('#')[0]==curriculum:return
    if host in OWN and self.footer:return
    errors.append((str(self.path.relative_to(ROOT)),url))

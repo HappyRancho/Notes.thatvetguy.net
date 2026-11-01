@@ -54,7 +54,7 @@ Subject-specific study methods, weekly rhythms and short margin notes are origin
 - Each roadmap includes a five-stage journey, four glance tiles, credit chart with subject links, exam checkpoints, subject disclosures, weekly study guidance and compact sources. Internship is an on-page section in fourth year, not a fabricated fifth-year course page.
 - The same source data feeds all four roadmaps. Static checks verify course names, reconciled credits, correct routes, framework notes, sitemap/Markdown discovery and external-link policy. Existing 520 resource entries and the original course PDF bytes remain intact.
 - Metadata, sitemap, Markdown mirrors and `LearningResource` JSON-LD are generated through the existing build pipeline. No new production dependency or additional JavaScript is required by the roadmap.
-- Source URLs are recorded here and in the data file. Public roadmap source credits are bibliographic text and local outline links, preserving the site's restricted outbound-link policy.
+- Source URLs are recorded here and in the data file. The original release used bibliographic text and local outline links. The November redesign adds exact-URL citation exceptions on the corresponding roadmap pages only; the resource and search-index restrictions remain in force.
 
 ## Verification
 
