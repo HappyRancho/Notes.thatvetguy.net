@@ -29,11 +29,7 @@ Find a note in the selected collection
 1 notes
 
 PDF
-Livestock Farm Practices
-
-Livestock Farm Practices — Livestock Farm Practices, Subject notes.
-
-[Open Livestock Farm Practices](https://drive.google.com/file/d/1cbm37Z7iAyVmuJZ0CJ3wxXI9pShZYHsy/view?usp=sharing)
+Livestock Farm Practices[Open Livestock Farm Practices](https://drive.google.com/file/d/1cbm37Z7iAyVmuJZ0CJ3wxXI9pShZYHsy/view?usp=sharing)
 
 ### TANUVAS Notes
 

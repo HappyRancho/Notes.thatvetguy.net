@@ -29,11 +29,7 @@ Find a note in the selected collection
 1 notes
 
 PDF
-Veterinary Clinical Practices
-
-Veterinary Clinical Practices — Veterinary Clinical Practices I, Subject notes.
-
-[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
+Veterinary Clinical Practices[Open Veterinary Clinical Practices](https://drive.google.com/file/d/1T_36gkEnbcGg2kBlE76O4vpyPk3wb1A6/view?usp=sharing)
 
 ### TANUVAS Notes
 
