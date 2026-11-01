@@ -77,8 +77,8 @@ def objectives(b):
             from book_catalogue import by_resource
             book=by_resource(r['id']);cover=book['cover']
             artwork='<img src="'+e(cover['path'],quote=True)+'" width="'+str(cover['width'])+'" height="'+str(cover['height'])+'" alt="" loading="lazy" decoding="async">'
-            content='<span class="rx-resource-cover" aria-hidden="true">'+artwork+'</span><span class="rx-row-label">'+e(r['title'])+'</span><span class="rx-row-open">Open '+icon('external')+'</span>'
-            rows+=link(r['url'],content,'rx-row rx-resource-row')
+            content='<span class="rx-resource-cover" aria-hidden="true">'+artwork+'</span><span class="rx-row-label">'+e(r['title'])+'</span><span class="rx-row-open">View '+icon('arrow')+'</span>'
+            rows+=link(book['page'],content,'rx-row rx-resource-row')
         body+=panel(ident,i,'<div class="rx-row-drawer">'+rows+'</div>')
     body+='<div class="rx-collection-footer">'+link('/objective/','Explore more '+icon('arrow'),'rx-explore')+'</div>'
     return '<section class="rx-section rx-objective" id="objective" data-home-tabs>'+body+'</section>'
