@@ -1,7 +1,7 @@
 /* New primary storage and collapsed-unit navigation, across every subject. */
-import fs from 'node:fs';import {spawn} from 'node:child_process';import {chromium} from 'playwright';
+import fs from 'node:fs';import {spawn} from 'node:child_process';import {chromium} from 'playwright';import AxeBuilder from '@axe-core/playwright';
 const base='http://127.0.0.1:4173',out='docs/qa/primary-storage',data=JSON.parse(fs.readFileSync('data/resources.json')),primary=JSON.parse(fs.readFileSync('data/primary-drive-links.json')).books;
-fs.mkdirSync(out,{recursive:true});const report={subjects:[],downloads:[],errors:[]};const assert=(ok,msg)=>{if(!ok)throw Error(msg)};let browser,server;
+fs.mkdirSync(out,{recursive:true});const report={subjects:[],downloads:[],careerPanels:[],errors:[]};const assert=(ok,msg)=>{if(!ok)throw Error(msg)};let browser,server;
 try{
  server=spawn('python3',['scripts/qa-server.py',process.cwd()],{stdio:'ignore'});for(let n=0;n<50;n++){try{if((await fetch(base)).ok)break}catch{}await new Promise(r=>setTimeout(r,100))}
  browser=await chromium.launch({headless:true,args:['--no-sandbox']});
@@ -14,17 +14,23 @@ try{
     await tile.click();const panel=p.locator('#'+option);assert(await panel.isVisible(),path+option+' hidden');
     assert(!await panel.locator('.reader-unit[open]').count(),path+' first unit auto-expanded');
     assert(await panel.evaluate(e=>e.getBoundingClientRect().bottom<=document.querySelector('.subject-practical-link').getBoundingClientRect().top),path+' panel below Vault');
-    await p.waitForTimeout(50);assert(await panel.locator(':scope > summary').evaluate(e=>{const r=e.getBoundingClientRect();return r.bottom>0&&r.top<innerHeight}),path+' expansion not brought into view');
+    await p.waitForTimeout(50);assert(await panel.locator(':scope > summary').evaluate(e=>{const r=e.getBoundingClientRect();const header=document.querySelector('.rx-header')?.getBoundingClientRect();return r.top>=(header?.bottom||0)-1&&r.bottom<innerHeight-85}),path+' expansion not brought into view');
     if(await panel.locator('.reader-unit').count()){await panel.locator('.reader-unit>summary').first().click();assert(await panel.locator('.file-row:visible').count()>0,'Unit will not open');await tile.click();await tile.click();assert(!await panel.locator('.reader-unit[open]').count(),'Reopened notes keep first unit open');}
    }
    await p.goto(base+path+'syllabus/');assert(!await p.locator('.syllabus-unit[open]').count(),path+' checklist starts open');
-   const unit=p.locator('.syllabus-unit').first();await unit.locator('summary').click();const tick=unit.locator('[data-topic]').first();await tick.check();await p.reload();assert(!await p.locator('.syllabus-unit[open]').count(),'Reload opens checklist');assert(await tick.isChecked(),'Saved tick lost');
+   const unit=p.locator('.syllabus-unit').first();await unit.locator(':scope > summary').click();const tick=unit.locator('[data-topic]').first();await tick.check();await p.reload();assert(!await p.locator('.syllabus-unit[open]').count(),'Reload opens checklist');assert(await tick.isChecked(),'Saved tick lost');
    assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'Horizontal overflow '+path);report.subjects.push({path,width});
   }
   const anatomy='/bvsc/year-1/veterinary-anatomy/';const note=data.files.find(r=>r.page===anatomy&&!r.collections.includes('tanuvas'));await p.goto(base+note.permalink);assert(await p.locator('#file-'+note.id).isVisible(),'Direct note link not revealed');
   await p.goto(base+anatomy+'#notes');assert(!await p.locator('#notes .reader-unit[open]').count(),'Notes collection hash opens first unit');
   await p.locator('.collection-query').fill('histology');assert(await p.locator('#notes .reader-unit[open]:visible').count()>0,'Search does not reveal matching unit');await p.locator('.collection-query').fill('');assert(!await p.locator('#notes .reader-unit[open]').count(),'Clear search opens first unit');
   if(width===360){await p.screenshot({path:out+'/notes-360.png',fullPage:false});console.log('PRIMARY_PREVIEW '+JSON.stringify({view:'notes',data:(await p.screenshot({type:'jpeg',quality:65})).toString('base64')}));}
+  await p.goto(base+'/study-tools/veterinary-careers/');
+  for(const id of ['career-routes','pg-or-practice','overseas','how-to-decide']){
+   await p.locator('.career-tab[href="#'+id+'"]').click();await p.locator('#'+id+' details').evaluateAll(es=>es.forEach(e=>e.open=true));
+   const geometry=await p.locator('#'+id).evaluate(e=>({overflow:document.documentElement.scrollWidth>innerWidth,clipped:[...e.querySelectorAll('p,dd,dt,h2,h3,li')].filter(x=>x.checkVisibility()&&x.scrollWidth>x.clientWidth+1).map(x=>x.textContent.slice(0,80))}));assert(!geometry.overflow&&!geometry.clipped.length,'Expanded career content clipped '+id+' '+width);
+   const audit=await new AxeBuilder({page:p}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();assert(!audit.violations.some(v=>['serious','critical'].includes(v.impact)),'Expanded career accessibility '+id);report.careerPanels.push({id,width});
+  }
   await c.close();
  }
  const c=await browser.newContext({viewport:{width:390,height:844}}),p=await c.newPage();

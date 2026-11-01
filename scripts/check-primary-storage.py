@@ -5,9 +5,11 @@ from html.parser import HTMLParser
 ROOT=Path(__file__).resolve().parent.parent
 read=lambda name:json.loads((ROOT/'data'/name).read_text())
 links=read('primary-drive-links.json');books={b['id']:b for b in read('books.json')};resources=read('resources.json')['files']
+verified={f['id']:f for f in read('primary-drive-verification.json')['files']}
 assert len(links['books'])==26
 assert len({f['id'] for f in links['books'].values()})==26,'Different books mapped to the same download'
 for ident,file in links['books'].items():
+ assert file['id'] in verified and verified[file['id']].get('pages',0)>0 and not verified[file['id']].get('error'),('Unverified primary PDF',ident)
  b=books[ident];raw=(ROOT/b['page'].strip('/')/'index.html').read_text()
  assert b['primaryUrl']==file['url'] and not b['telegram'],ident
  assert b['access']=='Google Drive' and b['downloadLabel']=='Open in Google Drive',ident
