@@ -26,7 +26,7 @@ for p in ROOT.rglob('index.html'):
  schema=next(x for x in graph if x['@type']=='BreadcrumbList')['itemListElement']
  assert crumbs==[(x['name'],x['item'].removeprefix('https://notes.thatvetguy.net')) for x in schema],(p,'HTML/schema mismatch')
  path='/'+str(p.parent.relative_to(ROOT))+'/'
- if path.endswith(('/syllabus/','/practicals/')):
+ if path.endswith(('/syllabus/','/practicals/')) and path.count('/')>3:
   assert len(crumbs)==5 and crumbs[-2][1]==path.rsplit('/',2)[0]+'/',(p,'subject parent missing')
  if path.startswith('/books/') and path!='/books/':assert [u for _,u in crumbs[:-1]]==['/','/books/'],(p,'mixed academic/book hierarchy')
  if path.startswith('/study-tools/') and path!='/study-tools/':assert len(crumbs)==3 and crumbs[1][1]=='/study-tools/',p

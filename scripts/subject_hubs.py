@@ -19,7 +19,11 @@ def book_card(b,book):
 def render(b,year,subject,books):
     name=subject['name'];label=b.DATA['labels'][str(year)];path=url(year,name);guide=b.SUBJECTS[name];rows=[b.CATALOGUE[r] for r in subject['resourceIds']]
     tanuvas=[r for r in rows if 'tanuvas' in r['collections']];topics=[r for r in rows if 'tanuvas' not in r['collections']];own=[r for r in books if {'year':year,'name':name} in r['subjects']]
-    description=f'{name} for {label} BVSc & AH: a unit-wise syllabus checklist, topic-wise notes, TANUVAS notes and subject books with available downloads.'
+    available=['unit-wise syllabus checklist']
+    if topics:available.append('topic-wise notes')
+    if tanuvas:available.append('TANUVAS collections')
+    if own:available.append('subject books')
+    description=f'{name} study material for {label} BVSc & AH: '+', '.join(available)+'. Browse resources and available source links.'
     intro=guide['summary'].split('. ',1)[0]+'.'
     body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')]).replace('container reading-page','container reading-page subject-page subject-hub',1)
     syllabus=b.link(checklist_url(year,name),'<span class="rx-row-icon sky">'+b.icon('check')+'</span><span><strong>Syllabus Checklist</strong><small>Unit by unit. One tick at a time.</small></span>'+b.icon('chevron'),'subject-syllabus-link')
@@ -44,4 +48,4 @@ def render(b,year,subject,books):
     else:body+='<p class="subject-book-unavailable">No book listed for this subject yet.</p>'+b.link('/request-resource/','Request a book '+b.icon('arrow'),'book-library-link')
     body+='</section>'
     body+='<nav class="subject-bottom-nav" aria-label="More study material">'+b.link(f'/bvsc/year-{year}/','All '+label+' subjects '+b.icon('arrow'))+'<button type="button" class="studied-button js-only" data-studied="'+subject['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></nav></div>'
-    b.write_page(path,name+' Notes, TANUVAS Material & Books',description,body,[(r['title'],r['url']) for r in rows])
+    b.write_page(path,name+' Notes & BVSc Study Resources',description,body,[(r['title'],r['url']) for r in rows])

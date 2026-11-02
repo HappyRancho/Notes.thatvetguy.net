@@ -5,7 +5,14 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
 
+# Keep deployment aliases out of search; the public custom domain stays indexable.
+https://notes-thatvetguy-net.pages.dev/*
+  X-Robots-Tag: noindex, follow
+https://:version.notes-thatvetguy-net.pages.dev/*
+  X-Robots-Tag: noindex, follow
+
 # BEGIN GENERATED DISCOVERY
+
 /index.md
   Link: <https://notes.thatvetguy.net/>; rel="canonical"
 /bvsc/index.md

@@ -1,6 +1,7 @@
 {
   "/": {
-    "description": "Free BVSc & AH veterinary notes, recommended books, objective question banks, clinical handbooks and drug references. Browse by year or search a topic."
+    "description": "Free veterinary notes and BVSc & AH study material: topic-wise PDFs, TANUVAS notes, books, question banks and syllabus checklists, organised by year.",
+    "title": "Free Veterinary Notes & BVSc Study Material | ThatVetGuy"
   },
   "/bvsc/": {
     "title": "BVSc Notes & Recommended Veterinary Books | ThatVetGuy",
@@ -12,7 +13,7 @@
   },
   "/clinical/handbooks/": {
     "title": "Veterinary Clinical Handbooks Collection | ThatVetGuy",
-    "description": "Find veterinary handbooks for clinical study, small animal medicine, radiology, ultrasound and emergency care. Six references with Telegram access."
+    "description": "Browse veterinary clinical handbooks for small animal medicine, imaging and emergency study. Open each book for its details and available Google Drive link."
   },
   "/clinical/drug-index/": {
     "title": "Veterinary Drug Index & Vaccination References | ThatVetGuy",
@@ -48,5 +49,13 @@
   "/study-tools/veterinary-careers/": {
     "title": "Explore Vet Career Options — Careers After BVSc & AH | Rx Notes",
     "description": "Explore 13 veterinary career paths, including Army RVC. Compare entry routes, postgraduate study and overseas registration, with a practical decision worksheet."
+  },
+  "/bvsc/tanuvas-notes/": {
+    "title": "TANUVAS Notes for BVSc & AH — Subject & Course Directory | Rx Notes",
+    "description": "Find TANUVAS veterinary notes by subject and original course code. Compare collection labels with your BVSc syllabus and open the credited study material."
+  },
+  "/bvsc/syllabus/": {
+    "title": "BVSc & AH Syllabus — MSVE 2016 Checklists & Course Outlines",
+    "description": "Browse the BVSc & AH syllabus by professional year: 19 subject checklists, theory and practical topics, and original MSVE 2016 course-outline PDFs."
   }
 }
