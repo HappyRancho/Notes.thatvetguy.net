@@ -1,0 +1,28 @@
+{
+  "publisherId": "ca-pub-3524774459480835",
+  "registeredDomain": "thatvetguy.net",
+  "siteHostname": "notes.thatvetguy.net",
+  "verificationEnabled": true,
+  "approved": false,
+  "renderEnabled": false,
+  "autoAdsOffConfirmed": false,
+  "placements": {
+    "home-after-bvsc": {
+      "enabled": false,
+      "slotId": null,
+      "pages": {"/": "notes"}
+    },
+    "long-resource-break": {
+      "enabled": false,
+      "slotId": null,
+      "pages": {
+        "/bvsc/year-1/roadmap/": "start",
+        "/bvsc/year-2/roadmap/": "start",
+        "/bvsc/year-3/roadmap/": "start",
+        "/bvsc/year-4/roadmap/": "start",
+        "/bvsc/tanuvas-notes/": "year-1",
+        "/bvsc/syllabus/": "year-1"
+      }
+    }
+  }
+}

@@ -5,7 +5,7 @@ import hashlib,json,re,sys,os
 from library import build_library,slug
 from library_views import keep_complete_resource
 from ui import icon,link
-import geo,site_shell,library_pages,homepage,breadcrumbs
+import geo,site_shell,library_pages,homepage,breadcrumbs,adsense
 ROOT=Path(__file__).resolve().parent.parent
 LIBRARY=build_library(refresh=bool(os.getenv('DRIVE_API_KEY')))
 for _year in LIBRARY['years']:
@@ -27,7 +27,7 @@ ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/
 (ROOT/'assets/rx-core.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['site.css','rx-pages.css','homepage.css']))
 (ROOT/'assets/rx-tools.css').write_text((ROOT/'assets/rx-core.css').read_text()+'\n'+(ROOT/'assets/study-tools.css').read_text())
 (ROOT/'assets/rx-subject.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['rx-core.css','academic-pages.css','subject-hub.css']))
-VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
+VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/adsense.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
     crumbs=crumbs or []
@@ -48,6 +48,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
         if not re.search(r'<nav class="breadcrumbs"[^>]*>.*?</nav>',body,flags=re.S):
             raise ValueError('Missing breadcrumb insertion point: '+path)
         body=re.sub(r'<nav class="breadcrumbs"[^>]*>.*?</nav>',lambda _:trail,body,count=1,flags=re.S)
+    body=adsense.insert(body,path)
     body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
     search_meta=geo.SEARCH_META.get(path,{})
     description=search_meta.get('description',description)
@@ -64,6 +65,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     # reuse the same cached bundle; the original cascade order is preserved.
     core_tag='<style id="rx-home-styles">'+(ROOT/'assets'/core_style).read_text()+'</style>' if home else f'<link rel="stylesheet" href="/assets/{core_style}?v={VERSION}">'
     extra_assets=''
+    if 'data-rx-ad=' in body:extra_assets+=f'<link rel="stylesheet" href="/assets/adsense.css?v={VERSION}"><script defer src="/assets/adsense.js?v={VERSION}"></script>'
     if path in ['/objective/','/clinical/drug-index/','/clinical/handbooks/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
@@ -95,6 +97,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:secure_url" content="{BASE+social}"><meta property="og:image:type" content="{social_type}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{escape(title,quote=True)} — Rx Notes by ThatVetGuy">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}"><meta name="twitter:image:alt" content="{escape(title,quote=True)} — Rx Notes by ThatVetGuy">
 {core_tag}{extra_assets}
+{adsense.verification()}
 <script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>{reader_script}
 </head><body class="mockup-home{' rx-inner' if not home else ''}{' rx-academic' if path.startswith('/bvsc/') else ''}">{page_header}<main id="main">{page_search}{body}</main>{page_footer}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
