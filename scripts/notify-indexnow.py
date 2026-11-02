@@ -45,7 +45,7 @@ def main():
             except HTTPError as error:code=error.code
             report['httpStatus']=code;report['status']='accepted' if code==200 else 'accepted-key-validation-pending' if code==202 else 'not-accepted'
         except (HTTPError,URLError,RuntimeError,TimeoutError) as error:
-            report['status']='preflight-or-network-error';report['error']=str(error)
+            report['status']='preflight-or-network-error';report['error']=str(error);report['errorURL']=getattr(error,'url',None)
     out=ROOT/'docs/qa/search';out.mkdir(parents=True,exist_ok=True);(out/'indexnow.json').write_text(json.dumps(report,indent=2)+'\n')
     print('INDEXNOW '+json.dumps(report))
     if report['status'] in ['not-accepted','preflight-or-network-error']:raise SystemExit(1)
