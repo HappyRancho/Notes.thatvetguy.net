@@ -66,6 +66,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
     if path.startswith('/study-tools/'):
         extra_assets+=f'<script src="/assets/study-tools.js?v={VERSION}" defer></script>'
+    if path in ['/bvsc/tanuvas-notes/','/bvsc/syllabus/']:extra_assets+=f'<link rel="stylesheet" href="/assets/resource-directories.css?v={VERSION}">'
     if path=='/search/':extra_assets+=f'<link rel="stylesheet" href="/assets/search-page.css?v={VERSION}">'
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
     if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
@@ -114,6 +115,8 @@ def discovery():
     from study_tools import GUIDES,route as tool_route
     for guide in GUIDES:
         u=tool_route(guide);index.append(dict(id='study-guide-'+guide['id'],title=guide['title'],subject='Study Tools',year=None,type='Guide',format='Guide',kind='other',group='Study Tools',path='Study Tools/'+guide['title'],permalink=u,url=u,fileIds=[],keywords=[guide['title'],guide['description'],'study tools']))
+    from resource_directories import ROUTES as DIRECTORIES
+    for u,title,summary in DIRECTORIES:index.append(dict(id='directory-'+u.strip('/').replace('/','-'),title=title,subject='BVSc & AH',year=None,type='Guide',format='Directory',kind='other',group='Study directories',path=title,permalink=u,url=u,fileIds=[],keywords=[title,summary]))
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').rglob('index.html'):
@@ -142,6 +145,8 @@ def run():
     render_books(b)
     from syllabus_pages import render as render_syllabi
     render_syllabi(b)
+    from resource_directories import render as render_directories
+    render_directories(b)
     from practical_pages import render as render_practicals
     render_practicals(b)
     body=article_intro(MICROCOPY['404'][0],'Try a subject or search for the resource you need.')+link('/bvsc/','Back to the notes '+icon('arrow'),'button')+'</div>'

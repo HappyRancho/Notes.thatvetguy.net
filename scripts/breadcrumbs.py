@@ -1,7 +1,7 @@
 """One route hierarchy for visible navigation and BreadcrumbList data."""
 import re
 from html import escape
-LABELS={'/bvsc/':'BVSc','/books/':'Books','/study-tools/':'Tools & Tips','/search/':'Search','/objective/':'Objective Resources','/about/':'About','/request-resource/':'Request a Resource','/404/':'Page not found','/clinical/drug-index/':'Drug Index','/clinical/handbooks/':'Handbooks'}
+LABELS={'/bvsc/tanuvas-notes/':'TANUVAS Notes','/bvsc/syllabus/':'BVSc Syllabus','/bvsc/':'BVSc','/books/':'Books','/study-tools/':'Tools & Tips','/search/':'Search','/objective/':'Objective Resources','/about/':'About','/request-resource/':'Request a Resource','/404/':'Page not found','/clinical/drug-index/':'Drug Index','/clinical/handbooks/':'Handbooks'}
 def trail(path,title,pages=None):
  pages=pages or {}
  rows=[('Home','/')]
@@ -17,7 +17,7 @@ def trail(path,title,pages=None):
  current=LABELS.get(path,title)
  if re.fullmatch(r'/bvsc/year-[1-4]/',path):current={'1':'1st','2':'2nd','3':'3rd','4':'4th'}[parts[1][-1]]+' Year'
  elif parts[0]=='books' and len(parts)>1:current=re.sub(r' — (Telegram Download|Details & Drive Access|BVSc Reading Guide)$','',title)
- elif parts[-1]=='syllabus':current='Syllabus Checklist'
+ elif parts[-1]=='syllabus' and len(parts)>2:current='Syllabus Checklist'
  elif parts[-1]=='practicals':current='Practical Vault'
  elif parts[-1]=='roadmap':current='Year Roadmap'
  elif parts[-1]=='notes':current='Topic-wise Notes'

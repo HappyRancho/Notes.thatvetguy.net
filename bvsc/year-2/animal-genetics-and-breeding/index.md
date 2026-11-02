@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Animal Genetics and Breeding Notes, TANUVAS Material & Books
+- ›Animal Genetics and Breeding Notes & BVSc Study Resources
 
 # Animal Genetics and Breeding
 
@@ -205,4 +205,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

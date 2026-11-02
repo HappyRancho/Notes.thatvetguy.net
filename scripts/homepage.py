@@ -77,6 +77,8 @@ def academics(b):
         roadmap='<aside class="rx-roadmap"><div class="rx-map-heading">'+roadmap_art(y['year'])+'<h3>'+label+'<br>Road Map</h3></div><p class="rx-hand">'+CONTENT['roadmaps'][str(y['year'])]['description']+'</p>'+'<div class="rx-roadmap-actions">'+link(base+'roadmap/','Road Map '+icon('arrow'),'rx-button rx-roadmap-button')+link(outline_url(y['year']),icon('paper')+'<span>Course Outline</span>','rx-course-outline')+'</div></aside>'
         footer='<div class="rx-year-footer"><span>'+icon('book')+'<span class="rx-hand">'+str(len(y['subjects']))+' subjects <span class="rx-footer-detail">· notes &amp; books</span></span></span>'+link(base,'Explore '+label+' '+icon('arrow'),'rx-explore')+'</div>'
         body+=panel(ident,i,'<div class="rx-year-drawer"><div class="rx-subjects">'+subjects+'</div>'+roadmap+'</div>'+footer)
+    from resource_directories import shortcuts
+    body+=shortcuts(b)
     return '<section class="rx-section rx-academics" id="notes" data-home-tabs>'+body+'</section>'
 
 def objectives(b):
@@ -137,6 +139,6 @@ def footer():
 
 def render(b):
     content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()
-    body='<div class="container rx-home">'+search()+'<div class="rx-content">'+content+'</div>'+share_strip('home')+'</div>'
-    mirror='<h1>Free Veterinary Academic Resources</h1><p>Thoughtfully organised for future vets.</p>'+content
+    body='<div class="container rx-home">'+search()+'<p class="rx-library-intro">Veterinary notes &amp; study material for BVSc &amp; AH. Browse by year, subject or resource.</p>'+'<div class="rx-content">'+content+'</div>'+share_strip('home')+'</div>'
+    mirror='<h1>Free Veterinary Academic Resources</h1><p>Veterinary notes &amp; study material for BVSc &amp; AH. Browse by year, subject or resource.</p>'+content
     b.write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',b.geo.META['/']['summary'],body,home=True,mirror_body=mirror)

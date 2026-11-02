@@ -87,7 +87,7 @@ def register(path,title,desc,body,date,source_review=None,noindex=False):
 def structured(path,title,description,items,home,body,records,date):
     orgid=BASE+'/#organization';siteid=BASE+'/#website'
     org={'@type':'Organization','@id':orgid,'name':'ThatVetGuy','url':'https://thatvetguy.net','logo':BASE+'/assets/favicon.svg','sameAs':['https://thatvetguy.net','https://t.me/vetshortnotesbytvg','https://t.me/jobupdatesbytvg']}
-    site={'@type':'WebSite','@id':siteid,'name':'Notes.ThatVetGuy','alternateName':'Rx Notes by ThatVetGuy','url':BASE+'/','inLanguage':'en','publisher':{'@id':orgid},'potentialAction':{'@type':'SearchAction','target':{'@type':'EntryPoint','urlTemplate':BASE+'/search/?q={search_term_string}'},'query-input':'required name=search_term_string'}}
+    site={'@type':'WebSite','@id':siteid,'name':'Notes.ThatVetGuy','alternateName':['Rx Notes','Rx Notes by ThatVetGuy','ThatVetGuy Notes'],'url':BASE+'/','inLanguage':'en','publisher':{'@id':orgid},'potentialAction':{'@type':'SearchAction','target':{'@type':'EntryPoint','urlTemplate':BASE+'/search/?q={search_term_string}'},'query-input':'required name=search_term_string'}}
     page={'@type':'CollectionPage' if items is not None else 'WebPage','@id':BASE+path+'#webpage','name':title,'url':BASE+path,'description':description,'dateModified':date,'inLanguage':'en','isPartOf':{'@id':siteid},'author':{'@id':orgid},'publisher':{'@id':orgid}}
     graph=[org,site,page]
     if path.startswith('/study-tools/') and path!='/study-tools/':
@@ -116,7 +116,7 @@ def structured(path,title,description,items,home,body,records,date):
         from breadcrumbs import trail
         crumbs=trail(path,title,PAGES)
         graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]})
-    if path.endswith('/syllabus/') and path.startswith('/bvsc/'):
+    if re.fullmatch(r'/bvsc/year-[1-4]/[^/]+/syllabus/',path):
         from syllabus_pages import DATA as SYLLABI,checklist_url
         subject=next(s for s in SYLLABI['subjects'] if checklist_url(s['year'],s['subject'])==path)
         learning={'@type':'LearningResource','@id':BASE+path+'#checklist','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+str(subject['year']),'learningResourceType':'Syllabus checklist','teaches':subject['subject'],'inLanguage':'en','isBasedOn':{'@type':'DigitalDocument','name':SYLLABI['authority'],'url':(subject['sourceUrl'] if subject['sourceUrl'].startswith('https://') else BASE+subject['sourceUrl'])+'#page='+str(subject['sourcePage'])},'dateModified':date}
@@ -155,7 +155,13 @@ def discovery(date,index):
     bots=['*','GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','PerplexityBot','Google-Extended','Applebot-Extended','CCBot']
     (ROOT/'robots.txt').write_text(''.join(f'User-agent: {b}\nAllow: /\n\n' for b in bots)+'Sitemap: '+BASE+'/sitemap.xml\n')
     indexed={p:d for p,d in PAGES.items() if not d.get('noindex')}
-    (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE+p}</loc><lastmod>{d["lastmod"]}</lastmod></url>\n' for p,d in indexed.items())+'</urlset>\n')
+    from book_catalogue import books as book_registry
+    covers={book['page']:book['cover']['path'] for book in book_registry() if book.get('cover')}
+    sitemap=[]
+    for path,entry in indexed.items():
+        image='<image:image><image:loc>'+escape(BASE+covers[path])+'</image:loc></image:image>' if path in covers else ''
+        sitemap.append('<url><loc>'+escape(BASE+path)+'</loc><lastmod>'+entry['lastmod']+'</lastmod>'+image+'</url>')
+    (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n'+'\n'.join(sitemap)+'\n</urlset>\n')
     intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: ThatVetGuy team. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
     mapping='## Sections and subject guides\n\n'+''.join(f'- [{d["title"]}]({BASE+p}): {d["description"]}\n  - Markdown: {BASE+p}index.md\n' for p,d in indexed.items())
     retrieval='\n## Machine retrieval\n\n- Full visible page content: '+BASE+'/llms-full.txt\n- Resource index: '+BASE+'/search-index.json\n- Sitemap: '+BASE+'/sitemap.xml\n- Search (noindex): '+BASE+'/search/\n\n## Community\n\n- Short notes: https://t.me/vetshortnotesbytvg\n- Jobs: https://t.me/jobupdatesbytvg\n- Requests and contact: '+BASE+'/request-resource/\n'
@@ -165,5 +171,6 @@ def discovery(date,index):
     (ROOT/'search-index.json').write_text(raw);(ROOT/'assets/catalogue.json').write_text(raw)
     # Keep text mirrors retrievable while pointing duplicate representations at HTML.
     headers=ROOT/'_headers';existing=headers.read_text().split('# BEGIN GENERATED DISCOVERY')[0].rstrip()
-    mirrors='\n'.join(p+'index.md\n  Link: <'+BASE+p+'>; rel="canonical"' for p in PAGES)
+    mirrors='/index.md\n  Link: <'+BASE+'/>; rel="canonical"\n/*/index.md\n  Link: <'+BASE+'/:splat/>; rel="canonical"'
+    mirrors+='\n'+ '\n'.join(p+'index.md\n  X-Robots-Tag: noindex, follow' for p,d in PAGES.items() if d.get('noindex'))
     headers.write_text(existing+'\n\n# BEGIN GENERATED DISCOVERY\n'+mirrors+'\n# END GENERATED DISCOVERY\n')

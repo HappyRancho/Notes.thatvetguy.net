@@ -54,7 +54,9 @@ def check():
         assert date==history[path]['modified'] and date<=datetime.date.today().isoformat(),(path,'lastmod')
         page=next(x for x in d.schemas if x.get('@id')==url+'#webpage');assert page['dateModified']==date
         assert page['description']==description,(path,'schema/meta description mismatch')
-        assert f'{path}index.md\n  Link: <{url}>; rel="canonical"' in (ROOT/'_headers').read_text(),(path,'mirror canonical header')
+        headers=(ROOT/'_headers').read_text()
+        rule='/index.md\n  Link: <'+BASE+'/>; rel="canonical"' if path=='/' else '/*/index.md\n  Link: <'+BASE+'/:splat/>; rel="canonical"'
+        assert rule in headers,(path,'mirror canonical rule')
     seen={'/'};queue=deque(['/'])
     while queue:
         for href in documents[queue.popleft()].links:
@@ -64,6 +66,33 @@ def check():
             if path in documents and path not in seen:seen.add(path);queue.append(path)
     assert seen==set(documents),('orphan sitemap pages',set(documents)-seen)
     search=Document((ROOT/'search/index.html').read_text());assert 'noindex' in search.meta['robots'] and BASE+'/search/' not in entries
+    header_text=(ROOT/'_headers').read_text()
+    header_rules=[line for line in header_text.splitlines() if line and not line.startswith(('#',' ','\t'))]
+    assert len(header_rules)<=100,('Cloudflare supports at most 100 header rules',len(header_rules))
+    assert all(len(line)<=2000 for line in header_text.splitlines()),'Cloudflare header line limit'
+    assert 'https://notes-thatvetguy-net.pages.dev/*\n  X-Robots-Tag: noindex, follow' in header_text
+    for path in ['/search/','/404/']+[f'/bvsc/year-{y}/notes/' for y in range(1,5)]:
+        assert path+'index.md\n  X-Robots-Tag: noindex, follow' in header_text,(path,'Excluded mirror must remain excluded')
+    for node in nodes:
+        for picture in node.findall('{http://www.google.com/schemas/sitemap-image/1.1}image'):
+            source=picture.find('{http://www.google.com/schemas/sitemap-image/1.1}loc').text
+            assert source.startswith(BASE+'/assets/books/') and (ROOT/urlsplit(source).path.lstrip('/')).is_file(),('Missing sitemap cover',source)
+    for path in ['/bvsc/tanuvas-notes/','/bvsc/syllabus/']:
+        assert path in documents and path in documents['/'].links and path in documents['/bvsc/'].links,(path,'Directory discovery')
+    tanuvas=(ROOT/'bvsc/tanuvas-notes/index.html').read_text()
+    source=json.loads((ROOT/'data/tanuvas-source.json').read_text())
+    assert set(re.findall(r'data-tanuvas-course="([^"]+)"',tanuvas))=={r['id'] for r in source['notes']},'TANUVAS directory must mirror reviewed source entries'
+    syllabus=(ROOT/'bvsc/syllabus/index.html').read_text()
+    for subject in json.loads((ROOT/'data/subject-syllabi.json').read_text())['subjects']:
+        assert '/bvsc/year-'+str(subject['year'])+'/'+subject['slug']+'/syllabus/' in syllabus
+    assert 'Telegram' not in documents['/clinical/handbooks/'].meta['description'],'Outdated access description'
+    from importlib.util import spec_from_file_location,module_from_spec
+    spec=spec_from_file_location('indexnow',ROOT/'scripts/notify-indexnow.py');notify=module_from_spec(spec);spec.loader.exec_module(notify)
+    current={BASE+'/',BASE+'/new/'};old={BASE+'/',BASE+'/gone/'}
+    assert notify.changed(current,old,{'/':{'sha256':'a'}},{'/':{'sha256':'a'}})==[BASE+'/gone/',BASE+'/new/']
+    assert notify.changed({BASE+'/'},{BASE+'/'},{'/':{'sha256':'b'}},{'/':{'sha256':'a'}})==[BASE+'/']
+    assert notify.changed(current,old,{}, {},True)==sorted(current)
+
     for s in json.loads((ROOT/'data/subject-map.json').read_text())['years'].values():
         for subject in s:
             # Source URLs are never rewritten by this audit.

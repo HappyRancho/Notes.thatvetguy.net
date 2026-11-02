@@ -18,7 +18,8 @@ def index(b):
     from book_catalogue import books as book_registry
     books=book_registry()
     desc='BVSc & AH notes, TANUVAS material and recommended books, organised by professional year. Choose a year or open a subject directly.'
-    body=b.article_intro('BVSc Notes & Books',desc)+'<div class="bvsc-year-sections">';items=[]
+    from resource_directories import shortcuts
+    body=b.article_intro('BVSc Notes & Books',desc)+shortcuts(b)+'<div class="bvsc-year-sections">';items=[]
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/';tone=['yellow','peach','sky','mint'][year-1]
         body+='<section class="bvsc-year-section" id="year-'+str(year)+'"><header class="bvsc-year-heading"><span class="bvsc-year-number '+tone+'" aria-hidden="true">'+str(year)+'</span><div><h2>'+e(label)+'</h2><p>'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' notes</p></div>'+b.link(path,'View year '+b.icon('arrow'),'bvsc-year-link')+'</header><div class="bvsc-subject-grid">'

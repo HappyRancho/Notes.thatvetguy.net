@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Microbiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- ›[Veterinary Microbiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 - ›Practical Vault
 
 # Veterinary Microbiology Practical Vault
@@ -54,4 +54,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Microbiology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

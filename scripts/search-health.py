@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = 'https://notes.thatvetguy.net'
-def fetch(url, ua='NotesThatVetGuy-SearchHealth/1'):
+def fetch(url, ua='NotesThatVetGuy-SearchHealth/1', retry=True):
     start = time.monotonic()
     try:
         try: response = urlopen(Request(url, headers={'User-Agent': ua}), timeout=20)
@@ -21,12 +21,14 @@ def fetch(url, ua='NotesThatVetGuy-SearchHealth/1'):
             match = re.search(pattern, raw, re.S|re.I);result[key]=match[1] if match else None
         result['h1Count']=len(re.findall(r'<h1\b',raw,re.I))
         return result,raw
-    except Exception as error: return {'url':url,'error':type(error).__name__+': '+str(error)},''
+    except Exception as error:
+        if retry:return fetch(url,ua,False)
+        return {'url':url,'error':type(error).__name__+': '+str(error)},''
 
 def main():
     parser=argparse.ArgumentParser();parser.add_argument('--label',default='live');args=parser.parse_args()
     urls=[node.text for node in ET.parse(ROOT/'sitemap.xml').getroot().iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
-    extras=['/robots.txt','/sitemap.xml','/llms.txt','/llms-full.txt','/search-index.json','/search/','/definitely-missing-search-health-check/','/bvsc/year-1/veterinary-anatomy/','/bvsc/year-1/notes/index.md','/index.html']
+    extras=['/search/index.md','/books/primary-veterinary-anatomy/index.md','/bvsc/syllabus/index.md','/robots.txt','/sitemap.xml','/llms.txt','/llms-full.txt','/search-index.json','/search/','/definitely-missing-search-health-check/','/bvsc/year-1/veterinary-anatomy/','/bvsc/year-1/notes/index.md','/index.html']
     targets=urls+[BASE+p for p in extras]+['http://notes.thatvetguy.net/','https://notes-thatvetguy-net.pages.dev/','https://notes-thatvetguy-net.pages.dev/bvsc/year-1/']
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool: responses=list(pool.map(fetch,targets))
     report={'label':args.label,'checkedAt':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'pages':[r for r,_ in responses],'findings':[],'botUserAgentProbes':[]}
@@ -39,10 +41,31 @@ def main():
             if result.get('h1Count')!=1:report['findings'].append({'url':url,'issue':'Expected one H1'})
         if '/definitely-missing-' in url and result.get('status')!=404:report['findings'].append({'url':url,'issue':'Missing URL does not return 404'})
         if url.endswith('/robots.txt'):report['robotsText']=raw
+        if url==BASE+'/sitemap.xml':
+            try:
+                root=ET.fromstring(raw);published=[n.text for n in root.iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
+                report['sitemap']={'status':result.get('status'),'contentType':result.get('headers',{}).get('content-type'),'urls':len(published),'matchesBuild':set(published)==set(urls),'validXML':True}
+                if result.get('status')!=200 or set(published)!=set(urls):report['findings'].append({'url':url,'issue':'Published sitemap differs from this build'})
+            except ET.ParseError:
+                report['sitemap']={'validXML':False};report['findings'].append({'url':url,'issue':'Sitemap is not valid XML'})
+        if url.endswith('/index.md'):
+            expected=url.removesuffix('index.md')
+            if '<'+expected+'>; rel="canonical"' not in result.get('headers',{}).get('link',''):report['findings'].append({'url':url,'issue':'Markdown canonical header missing or incorrect'})
+            if '/notes/index.md' in url or '/search/index.md' in url:
+                if 'noindex' not in result.get('headers',{}).get('x-robots-tag',''):report['findings'].append({'url':url,'issue':'Excluded Markdown mirror lacks noindex'})
+        if 'pages.dev/' in url and result.get('finalURL','').startswith('https://notes-thatvetguy-net.pages.dev/'):
+            if 'noindex' not in result.get('headers',{}).get('x-robots-tag',''):report['findings'].append({'url':url,'issue':'Deployment alias must redirect or carry noindex'})
+
     for name,ua in [('Googlebot','Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'),('Bingbot','Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)'),('OAI-SearchBot','OAI-SearchBot/1.3; +https://openai.com/searchbot')]:
         result,_=fetch(BASE+'/',ua);result['name']=name;report['botUserAgentProbes'].append(result)
+        result,body=fetch(BASE+'/sitemap.xml',ua);result['name']=name
+        try:result['validSitemapXML']=ET.fromstring(body).tag=='{http://www.sitemaps.org/schemas/sitemap/0.9}urlset'
+        except ET.ParseError:result['validSitemapXML']=False
+        report['botUserAgentProbes'].append(result)
+        if result.get('status')!=200 or not result['validSitemapXML']:report['findings'].append({'url':BASE+'/sitemap.xml','issue':name+'-labelled sitemap probe unsuccessful'})
     out=ROOT/'docs/qa/search';out.mkdir(parents=True,exist_ok=True);(out/(args.label+'.json')).write_text(json.dumps(report,indent=2)+'\n')
     print('SEARCH_HEALTH '+json.dumps(report))
-    # A public network error is diagnostic evidence, not proof of an indexing block.
+    # Fail on observed crawl-policy regressions. A failed probe still does not prove deindexing.
+    if report['findings']:raise SystemExit(1)
     return report
 if __name__=='__main__':main()
