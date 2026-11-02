@@ -42,4 +42,4 @@ Shared file label: Vet histology & embryology-RK Ghosh .pdf
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.

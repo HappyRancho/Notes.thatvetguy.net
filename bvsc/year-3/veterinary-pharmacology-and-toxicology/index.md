@@ -16,7 +16,7 @@ Veterinary Pharmacology and Toxicology focuses on connecting drug action with sp
 ## Notes
 
 31 notes
-[Topic-wise Notes27 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+[Topic-wise Notes27 notes](#notes)[Unit-wise NotesTANUVAS · 4 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -133,18 +133,18 @@ Veterinary Toxicology Note[Open Veterinary Toxicology Note](https://drive.google
 4 notes
 
 PDF
-VPT-311 General and Systemic Veterinary PharmacologyTANUVAS · listed by VetBVSc[Open VPT-311 General and Systemic Veterinary Pharmacology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-311.pdf)
+General and Systemic Veterinary Pharmacology.pdfTANUVAS[Open General and Systemic Veterinary Pharmacology.pdf](https://drive.google.com/file/d/1aNeV3jeRp-dp0oN0B3m22qVeMtGgUqVT/view)
 
 PDF
-VPT-321 Veterinary NeuropharmacologyTANUVAS · listed by VetBVSc[Open VPT-321 Veterinary Neuropharmacology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-321.pdf)
+Veterinary Neuropharmacology.pdfTANUVAS[Open Veterinary Neuropharmacology.pdf](https://drive.google.com/file/d/13rto_XK_JHT6DEQqMvcCuzHRpwKUlWdM/view)
 
 PDF
-VPT-411 Veterinary ChemotherapyTANUVAS · listed by VetBVSc[Open VPT-411 Veterinary Chemotherapy](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpt-411-veterinary-chemotherapy.pdf)
+Veterinary Chemotherapy.pdfTANUVAS[Open Veterinary Chemotherapy.pdf](https://drive.google.com/file/d/16rzIk66JVXH1yPBjQyehScRA_JAiJtpo/view)
 
 PDF
-VPT-421 Veterinary ToxicologyTANUVAS · listed by VetBVSc[Open VPT-421 Veterinary Toxicology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf)
+Veterinary Toxicology.pdfTANUVAS[Open Veterinary Toxicology.pdf](https://drive.google.com/file/d/1kaEjjxeyafuCO7iKcCNqSkalj9CdmT7F/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -170,4 +170,4 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

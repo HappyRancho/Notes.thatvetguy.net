@@ -113,4 +113,4 @@ Missing a note or book? Let us know.
 
 Students today. Better vets tomorrow.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

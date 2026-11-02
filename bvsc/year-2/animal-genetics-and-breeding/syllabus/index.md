@@ -163,4 +163,4 @@ Checked 2026-10-28.
 
 [Back to Animal Genetics and Breeding ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

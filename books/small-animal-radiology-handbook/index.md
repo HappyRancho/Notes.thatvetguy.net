@@ -42,4 +42,4 @@ Primary collection: Rx Notes. File: Handbook_of_Small_Animal_Radiology_and_Ultra
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.

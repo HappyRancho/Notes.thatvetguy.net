@@ -77,4 +77,4 @@ Open your subject checklist beside your lecture plan. Identify the topics curren
 
 Source transcription checked 2026-10-28. This is a study aid, not an official university portal.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

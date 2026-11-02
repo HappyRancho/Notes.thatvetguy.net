@@ -13,7 +13,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ## 1st Year
 
-3 subjects · 63 notes
+3 subjects · 64 notes
 
 [View year ](https://notes.thatvetguy.net/bvsc/year-1/)
 [
@@ -32,7 +32,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Livestock Production Management
 
-3 books · 29 notes
+3 books · 30 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
@@ -40,14 +40,14 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ## 2nd Year
 
-5 subjects · 223 notes
+5 subjects · 225 notes
 
 [View year ](https://notes.thatvetguy.net/bvsc/year-2/)
 [
 
 ### Veterinary Biochemistry
 
-1 book · 23 notes
+1 book · 24 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[
 
@@ -59,7 +59,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Pathology
 
-3 books · 52 notes
+3 books · 53 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[
 
@@ -92,7 +92,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Parasitology
 
-2 books · 50 notes
+2 books · 49 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[
 
@@ -110,7 +110,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary and Animal Husbandry Extension Education
 
-2 books · 25 notes
+2 books · 26 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[
 
@@ -130,26 +130,26 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ## 4th Year
 
-4 subjects · 59 notes
+4 subjects · 68 notes
 
 [View year ](https://notes.thatvetguy.net/bvsc/year-4/)
 [
 
 ### Veterinary Medicine
 
-16 books · 23 notes
+16 books · 29 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[
 
 ### Veterinary Surgery and Radiology
 
-9 books · 23 notes
+9 books · 25 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[
 
 ### Veterinary Gynaecology and Obstetrics
 
-6 books · 13 notes
+6 books · 14 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)[
 
@@ -161,4 +161,4 @@ Roadmap available
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

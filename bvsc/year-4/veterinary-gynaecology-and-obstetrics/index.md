@@ -15,8 +15,8 @@ Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fer
 
 ## Notes
 
-13 notes
-[Topic-wise Notes11 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)
+14 notes
+[Topic-wise Notes11 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -74,15 +74,18 @@ Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google
 
 ### TANUVAS Notes
 
-2 notes
+3 notes
 
 PDF
-Veterinary Gynaecology Note by TANUVAS part 1TANUVAS[Open Veterinary Gynaecology Note by TANUVAS part 1](https://drive.google.com/file/d/11YlCJulYov70ZCtrc05P3daHtp2VFn-r/view?usp=sharing)
+Veterinary Gynaecology.pdfTANUVAS[Open Veterinary Gynaecology.pdf](https://drive.google.com/file/d/1R1iCL_sj2PcQ1ogInIONKVrOl2uyvkGb/view)
 
 PDF
-Veterinary Gynaecology Note by TANUVAS part 2TANUVAS[Open Veterinary Gynaecology Note by TANUVAS part 2](https://drive.google.com/file/d/10MYo0iILewFOJoY75HkdlLelJ50SlIRY/view?usp=sharing)
+Veterinary Obstetrics.pdfTANUVAS[Open Veterinary Obstetrics.pdf](https://drive.google.com/file/d/1mEXIl7c3Gx_KBJmCGqsCQ_CLMuPUkmq7/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Veterinary Andrology & Reproduction Techniques.pdfTANUVAS[Open Veterinary Andrology & Reproduction Techniques.pdf](https://drive.google.com/file/d/1ppl4sU0IouRCWXMeWnkpSn5mgsXKLAUo/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -112,4 +115,4 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

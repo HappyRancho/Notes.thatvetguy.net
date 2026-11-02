@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Search
@@ -38,7 +38,7 @@ Choose a subject. These collections already have resources.
 
 ### Parasitology
 
-55
+54
 
 [PDFAnanthocephala (Macrocanthorhynchus)Veterinary Parasitology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1TrSIq8yOKJP5P6ahmmhh6f2iNB98fDzy)
 [PDFAnaplasma and EhrlichiaVeterinary Parasitology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1mT-ChzrAmmqKzYvSOTOMYRUR2SZtt7ek)
@@ -54,4 +54,4 @@ Choose a subject. These collections already have resources.
 
 Can’t find it? [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

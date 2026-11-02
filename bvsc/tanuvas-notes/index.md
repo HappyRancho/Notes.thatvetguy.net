@@ -6,121 +6,175 @@
 
 # TANUVAS Notes for BVSc & AH
 
-TANUVAS veterinary notes, organised by subject and original course code. Find the collection you need, then match it to your current BVSc & AH syllabus.
+TANUVAS veterinary notes across all four BVSc & AH professional years. Browse 16 subjects and 59 PDFs, with Google Drive access and subject syllabus checklists.
 
-[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)
+[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
 
 1
 
-## 1st Year subject collections
+## FIRST PROFESSIONAL YEAR
 
-### [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#tanuvas)
+### [LIVESTOCK PRODUCTION MANAGEMENT](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#tanuvas)
 
-- [VAN-111 Veterinary Gross Anatomy –IPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-a240ff27a67c927577)
-- [VAN-121 Veterinary Gross Anatomy- IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-4592eea910f6434b9b)
-- [VAN-211 Veterinary Histology and EmbryologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-59823e1aa0ff394eac)
-- [VAN-221 Veterinary Splanchnology And Applied AnatomyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-216315ab36b590d7a5)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/)
+- [Livestock Production Management - I(General Principles and Ruminants).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1o4rnKfqIAU-dcdDIaedJxoRg6XZMuAMq)
+- [Fodder Prodcution and Grassland Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1Fp66umq_vdFLSZ6OGF6wHspjl56BVhlb)
+- [Livestock Production Management - II(Monogastric and Laboratory Animals).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1L9kv4IuopWM-n9ovntGyq9yx3XD_E2oW)
+- [Avian Production Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1TFS2Q8gMU0L2MjinWl5my35EF2walz5L)
+- [Commercial Poultry Production  and Hatchery Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1xjtl6Q4eltepZd83BAUBrWMRuE69A5Ct)
 
-### [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/18QRJm4mH2H0ST67tyWl0ReHngIX6DzRJ)
 
-- [VPB -111 Veterinary Physiology-IPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-tanuvas-f0ac6816f9b6096d39)
-- [VPB -121 Veterinary Physiology-IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-tanuvas-8f9640a9a4d85763ca)
-- [Veterinary Physiology Book by TANUVASPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-1cOJOgFeO95LLwXiUOWKclIZghjYNevNV)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/)
+### [VETERINARY ANATOMY](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#tanuvas)
 
-### [Livestock Production Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#tanuvas)
+- [Veterinary Gross Anatomy - I(Osteology, Arthrology & Biomechanics).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1mJnqj3lB2LvYtq4LjQygW5y1HiDbj-Tf)
+- [Veterinary Gross Anatomy - (Myology, Neurology, Angiology & Aesthesiology).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1MtWOQmv0f5_p7EqMrtr0UWGsa_1ZfIFd)
+- [Veterinary Histology & Embryology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1fXscLubfQfvsTjCWjgeKC4yEpV8WQcmO)
+- [Veterinary Splancnology & Applied Anatomy.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1EOezzFDHL4eM3FCrEfIDi49CY4bmsibM)
 
-- [LPM-111 Livestock Production Management-IPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-aae6e7ecda0ae1f517)
-- [LPM -121 Fodder Production and Grassland ManagementPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-8e2824e2841fa45060)
-- [LPM -122 Livestock Production Management-IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-32b729a73dd389fa5e)
-- [LPM-211 Avian Production ManagementPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-9fadb473c67ffdd86e)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1_vTZ7RD9DNF_ym6BjUB3Nb-jXZluG5Qk)
+
+### [VETERINARY PHYSIOLOGY](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#tanuvas)
+
+- [Veterinary Physiology - I(Blood, Cardiovascular & Excretory Systems and Body Fluids).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-1X8wVsrNLF9khiSR63elBMC4sQHHKcBd_)
+- [Veterinary Physiology - II(Neuromuscular Digestive & Respiratory Systems).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-11u5DiKITV6k3zAz5ioiQlc7gTvYtBaga)
+- [Veterinary Physiology - III(Endocrinology, Reproduction, Growth & Environmental Physiology).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-1DQoVj4hvavwsHA-2OuD4FNBstgcfDLWY)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1tT_22-qDF8i2lGSNxasjmog0oZgKiehb)
 
 2
 
-## 2nd Year subject collections
+## SECOND PROFESSIONAL YEAR
 
-### [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#tanuvas)
+### [ANIMAL GENETICS & BREEDING](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#tanuvas)
 
-- [VPB 112 General Veterinary BiochemistryPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-tanuvas-28e8e22b829dc09f95)
-- [VPB 122 Veterinary Intermediary MetabolismPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-tanuvas-a18c3b0a11e67fd451)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/)
+- [Biostatistics and Computer Application.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1HO6D_IBj0muCKJjiTq_QxSufbBDQ2jT4)
+- [Principles of Animal Genetics and Population Genetics.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1xcynU_qBu3bI-3lJ8IhbR0iqsegraIFT)
+- [Livestock and Poultry Breeding.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1fXJo1Rt32KLoBQxo2ED50FQ6tfZDg9j1)
 
-### [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1O_S-VnCfCa_PAsyPJPYmIk8lHReCLTR7)
 
-- [VMC 211 General Veterinary MicrobiologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-7b3fe113f519aa39e0)
-- [VMC 221 Veterinary Immunology And SerologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-e68e63191275fc8e67)
-- [VMC 311 Systematic Veterinary Bacteriology And MycologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-7199850f921ed4bfd0)
-- [VMC 321 Systematic Veterinary VirologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-8efdd47d9a4dbf9bc1)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/)
+### [ANIMAL NUTRITION](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#tanuvas)
 
-### [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#tanuvas)
+- [Principles of Animal Nutrition & Feed Technology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-1cZY1tI4mIVAhYxjPjlwx7yXTf1R2It2u)
+- [Applied Animal Nutrition - I(Ruminants).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-1sVRyFzXKjwgXHy3YeqTZ5rhch5a55s3x)
+- [Applied Animal Nutrition - II(Non-ruminants, Poultry & Laboratory Animals).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-1r49tMJHLFFsesRr2Y6AdJaH7xXaNzU3I)
 
-- [VPP 211 General Veterinary PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-2e62388b8442f0ab95)
-- [VPP 221 Systemic Veterinary PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-3960a97ac3fa06f531)
-- [VPP 311 Special Veterinary PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-7665f98c27c5951327)
-- [VPP 321 Avian PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-7595d0ff8a8fd7c032)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1kQvKDNgupFxtT7jR5exDDNE2oSBgRI-u)
 
-### [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#tanuvas)
+### [VETERINARY BIOCHEMISTRY](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#tanuvas)
 
-- [AGB 111 Bio- Statistics and Computer ApplicationPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-tanuvas-8e65bbc2a6e017a0f4)
-- [AGB 121 Principles Of Animal Genetics And Population GeneticsPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-tanuvas-8163e18a0fb3652abd)
-- [AGB 211 Livestock and Poultry BreedingPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-tanuvas-9754615e9e90e7af81)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/)
+- [General Veterinary Biochemistry.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-1-gLOO1moCnou6khlHNPhCdCyWRBxD19Z)
+- [Veterinary Intermediary Metabolism.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-1pgYWiiRvy4-5raTD8vcYBxr2HNaKR7mr)
+- [Animal Biotechnology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-13RG2i-x0LSXTzGhEgs9PoVEp3m4QMHsO)
 
-### [Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1_xxI_R8ljzC73mdvIUO5R8H_7mCZ_iAo)
 
-- [ANN-111 Principles of Animal Nutrition and Feed TechnologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-tanuvas-75096a726d023fa51d)
-- [ANN-121 Applied Nutrition- 1 (Ruminants)PDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-tanuvas-0fda36c330ea1bab4e)
-- [ANN 211 Applied Nutrition-IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-tanuvas-1545f30134be435b5d)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/)
+### [VETERINARY MICROBIOLOGY](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#tanuvas)
+
+- [General Veterinary Microbiology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-1bqO-fUpZawhj8bjCauMjoX-iRxbZgCy-)
+- [Veterinary Immunology and Serology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-1CdXsG65dYrSCwR4qacJ-OZlEAdWSKDSu)
+- [Systemic Veterinary Bacteriology and Mycology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-1U61hMEo69enyGz5DqJJxZed0mEe2sXlg)
+- [Systemic Veterinary Virology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-175se8oWbLwFYOi4ovxUt8L3UzGn-hyet)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1I1eHNJeuGcGNe3ED_Zc9XKay4HjUWhDM)
+
+### [VETERINARY PATHOLOGY](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#tanuvas)
+
+- [General Veterinary Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1Jk3YYq-AHsWZVjMXMRze5wy9lNiwEatc)
+- [Systemic Veterinary Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-13Y6IeR24ZeqC6Efh-lCIvAQKtQVUjScO)
+- [Special Veterinary Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1tbGvqzABD3nAbR1o5ekCOYSAMQL89Nr0)
+- [Avian Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1xj5hSGVRUaluQn6BnRNryWou3Okj--Hr)
+- [Aquatic Animal Diseases, Health Care and Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1BS5GB-jpWzdWYNE7CcmBJZTaCrmi4IWJ)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1-70FotyrDBBS8FeI7tUW0xH3ONCNpcPA)
 
 3
 
-## 3rd Year subject collections
+## THIRD PROFESSIONAL YEAR
 
-### [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#tanuvas)
+### [LIVESTOCK PRODUCTS TECHNOLOGY](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#tanuvas)
 
-- [VPT-311 General and Systemic Veterinary PharmacologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-ad1bc125cc713fa59a)
-- [VPT-321 Veterinary NeuropharmacologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-ad20907ccd018cf7d1)
-- [VPT-411 Veterinary ChemotherapyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-7850b7fea3a950fcdb)
-- [VPT-421 Veterinary ToxicologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-830298dc73f5d32fe4)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)
+- [Milk and Milk Products Technology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-17hUHHmVEqf4_QyaJ2UqX80vgz4dj1sEY)
+- [Abattoir Practice and Animal Product Technology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-1UVfDGFVVet2lNVZyQkT3I35IsgWRIRZa)
+- [Meat Science.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-1DLa2ePAuPeZUCiv4LlwRAIx_91js4xnJ)
 
-### [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/181VHxR0_jamgadLX37g3wfTO75H46i2d)
 
-- [Veterinary Entomology (TANUVAS)DOCX · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-tanuvas-8ac1ab24b34875c74e)
-- [VPA-221 Veterinary Entomology And AcarologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-tanuvas-50d455d3b407629d78)
-- [VPA-222 Veterinary ProtozoologyDOCX · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-tanuvas-0e8f81a4680616b274)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)
+### [VETERINARY & ANIMAL HUSBANDRY EXTENSION AND EDUCATION](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#tanuvas)
 
-### [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#tanuvas)
+- [Principles & Techniques of Veterinary and A.H Extension.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-134p4lPa5k1eueb2yL6oaeBwNTVo1KMM_)
+- [Livestock Economics, Marketing and Business Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-18yuw1QSjiNN0Bi2QWNDk7dR5JqpeCOZV)
+- [Livestock Entreprenuership.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-1tpc8rD0IXMXsEbzcaSilMGNZBCIuAiqz)
 
-- [VPE-311 Milk and Meat Hygiene, Food Safety and Public HealthPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-tanuvas-57baa9b11145fd22cb)
-- [VPE-321 Veterinary Epidemiology And ZoonosesPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-tanuvas-cdd381ca5a135c4b60)
-- [VPE–511 Environment and Environmental HygienePDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-tanuvas-b49b6feba3bacf870c)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1ugc-Fur0TGjGcV35ZMO39uZansTFddgJ)
 
-### [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#tanuvas)
+### [VETERINARY PARASITOLOGY](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#tanuvas)
 
-- [LPT -311 Milk and Milk Products TechnologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-tanuvas-2485877b5d3702ce02)
-- [LPT -321 Meat SciencePDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-tanuvas-ab4c2774328381bd7b)
-- [LPT-312 Abattoir Practices And Animal Products 5TechnologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-tanuvas-b00b3cc5da5b5c0286)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)
+- [General Veterinary Parasitology & Helminthology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1UrV24pJZJWn7p4p1UXf-ac9gDSumEis2)
+- [Veterinary Entomology and Acarology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1er0HaPhUWTuP8q1SA377Kc9Dd_xO4Ybv)
+- [Veterinary Protozoology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1mE0LdfnKnwVcNmeZsLIf9eCyWl-7-z3d)
 
-### [Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1hQ_3OqvgGCGG_wOuBQdASjzhqd18D9yL)
 
-- [VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-tanuvas-bba8df4d430f7f95c6)
-- [VAE-321 Livestock Economics, Marketing And BusinessManagementPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-tanuvas-98209b61b6e8c3e754)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)
+### [VETERINARY PHARMACOLOGY & TOXICOLOGY](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#tanuvas)
 
-## Find the right course, not just the right year
+- [General and Systemic Veterinary Pharmacology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1aNeV3jeRp-dp0oN0B3m22qVeMtGgUqVT)
+- [Veterinary Neuropharmacology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-13rto_XK_JHT6DEQqMvcCuzHRpwKUlWdM)
+- [Veterinary Chemotherapy.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-16rzIk66JVXH1yPBjQyehScRA_JAiJtpo)
+- [Veterinary Toxicology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1kaEjjxeyafuCO7iKcCNqSkalj9CdmT7F)
 
-TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. These collections are credited to TANUVAS and listed through VetBVSc. This is an independent directory, not an official university website.
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1zqREJs7VmnlSmBZ4cgAn7FhT0aHBCsMw)
 
-Older course codes can span more than one current subject or professional year. Use the course title and your department’s outline to choose a file; a matching year label alone does not establish syllabus coverage.
+### [VETERINARY PUBLIC HEALTH & EPIDEMIOLOGY](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#tanuvas)
+
+- [Milk & Meat Hygiene, food safety and Public health.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-18rjMTk3_M4XVBwLqVFVHlaEgVd2dI6-5)
+- [Veterinary Epidemiology and Zoonosis.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-1-jYjiF-aa1xim4VcYTEchzQX8OtgHDvY)
+- [Environment and Environmental Hygiene.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-19hKwkQknmKpKXWXYmLxeF8Y7aiXdW4jz)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1hwDe5YnBWmqng0zxK4EXZSCjKI1Cqzt0)
+
+4
+
+## FOURTH PROFESSIONAL YEAR
+
+### [VETERINARY GYNAECOLOGY](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#tanuvas)
+
+- [Veterinary Gynaecology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#file-1R1iCL_sj2PcQ1ogInIONKVrOl2uyvkGb)
+- [Veterinary Obstetrics.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#file-1mEXIl7c3Gx_KBJmCGqsCQ_CLMuPUkmq7)
+- [Veterinary Andrology & Reproduction Techniques.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#file-1ppl4sU0IouRCWXMeWnkpSn5mgsXKLAUo)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1Ytp1M5_5MOpXtPQ4bFHZQ_eXAZ1CNHe0)
+
+### [VETERINARY MEDICINE](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#tanuvas)
+
+- [Veterinary Clinical Medicine - I(General & Systemic).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1CpUepv2525hU2Hr2Bdl21CRraSwN-H16)
+- [Veterinary Preventive Medicine - I (Bacterial, Fungal & Rickettsial Diseases).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1HM_fHQ3xfC01WhyhOgcPlSBykMDY9naw)
+- [Veterinary Clinical Medicine - II(Metabolic & Deficiency Diseases).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1_zC9WNbeQ8VNaXYtddycUbzx9DVCeMZz)
+- [Veterinary Preventive Medicine - II (Viral & Parasitic Diseases).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-11iJFN4JJ0WLqXXGSHjbF8aV9Y1lYHBnC)
+- [Animal Welfare, Ethics & Jurisprudence.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1KpCBIkYCdA49Da0Arq9CKrTQ2jpYrXZi)
+- [Zoo,Wild Animal Breeding, Management, Nutrition and Health Care.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1ZrepbgvrLybGHGTF_FTHqC4b-iANN4hl)
+- [Pet Animal Breeding, Management, Nutrition and Health Care.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1yVN-FkqlS9L5GsRsfDuegGCwCz8hc_We)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1Ig8_zCAVPIJ5qn3PB-w3mrvJqssvjeN6)
+
+### [VETERINARY SURGERY AND RADIOLOGY](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#tanuvas)
+
+- [General Veterinary Surgery, Anesthesiology and Diagnostic Imaging.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1eLqhKWTF1tGYrqWb3YDeF5caIyf-o1aI)
+- [Regional Veterinary Surgery.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1N_LeQjMgdmHLBqUV8r9NpRv8vXPcwiE-)
+- [Veterinary Orthopedics and Lameness.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1X4WZY7e9QxerVLFprA4PDnLjstUY0KQH)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1Vdu0QMVbC6N9J4LG5lxpLcRs4OUG7fps)
+
+## Your subject, then your unit
+
+Open a title to find its exact entry on the subject page, or browse the subject’s Drive folder. Compare the notes with your syllabus checklist to identify topics that need another source.
+
+TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. Original authors retain credit. This is an independent study directory, not an official university website.
+
+[Browse the complete TANUVAS Drive ](https://drive.google.com/drive/folders/13i3fxBDwbY8WraWKqirBugemkXDdpRyQ)
 
 [All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
-## Before you start reading
+59 PDFs · 16 subjects · Drive listing checked 2026-11-02. Access to external files may change.
 
-- Open a course: the link takes you to its exact entry on the subject page, where you can open the source file.
-- Check coverage: compare the topic list with the syllabus checklist. Keep unmatched topics on your reading list rather than assuming a collection is complete.
-- Separate revision from clinical decisions: older teaching notes are useful study material; drug information and treatment recommendations need current guidance and supervision.
-
-No dedicated fourth-year TANUVAS collection is listed in the reviewed source set.
-
-[Browse fourth-year topic notes and books ](https://notes.thatvetguy.net/bvsc/year-4/)
-
-42 entries · source collection reviewed 2026-10-26. Access to external files may change.
-
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

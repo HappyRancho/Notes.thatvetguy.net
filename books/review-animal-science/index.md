@@ -32,4 +32,4 @@ Primary collection: Rx Notes. File: REVIEW OF ANIMAL SCIENCE By RAKESH KUMAR GUP
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.

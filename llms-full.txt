@@ -6,7 +6,7 @@ Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & 
 
 Main website: https://thatvetguy.net
 Author: ThatVetGuy team
-Last source review: 2026-11-01. File access settings can change.
+Last source review: 2026-11-02. File access settings can change.
 
 ---
 Canonical: https://notes.thatvetguy.net/
@@ -126,7 +126,7 @@ Missing a note or book? Let us know.
 
 Students today. Better vets tomorrow.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -147,7 +147,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ## 1st Year
 
-3 subjects · 63 notes
+3 subjects · 64 notes
 
 [View year ](https://notes.thatvetguy.net/bvsc/year-1/)
 [
@@ -166,7 +166,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Livestock Production Management
 
-3 books · 29 notes
+3 books · 30 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
@@ -174,14 +174,14 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ## 2nd Year
 
-5 subjects · 223 notes
+5 subjects · 225 notes
 
 [View year ](https://notes.thatvetguy.net/bvsc/year-2/)
 [
 
 ### Veterinary Biochemistry
 
-1 book · 23 notes
+1 book · 24 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)[
 
@@ -193,7 +193,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Pathology
 
-3 books · 52 notes
+3 books · 53 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)[
 
@@ -226,7 +226,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary Parasitology
 
-2 books · 50 notes
+2 books · 49 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)[
 
@@ -244,7 +244,7 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ### Veterinary and Animal Husbandry Extension Education
 
-2 books · 25 notes
+2 books · 26 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)[
 
@@ -264,26 +264,26 @@ BVSc & AH notes, TANUVAS material and recommended books, organised by profession
 
 ## 4th Year
 
-4 subjects · 59 notes
+4 subjects · 68 notes
 
 [View year ](https://notes.thatvetguy.net/bvsc/year-4/)
 [
 
 ### Veterinary Medicine
 
-16 books · 23 notes
+16 books · 29 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)[
 
 ### Veterinary Surgery and Radiology
 
-9 books · 23 notes
+9 books · 25 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)[
 
 ### Veterinary Gynaecology and Obstetrics
 
-6 books · 13 notes
+6 books · 14 notes
 
 ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)[
 
@@ -295,13 +295,13 @@ Roadmap available
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -316,15 +316,15 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
 ## Choose a subject
 
-3 subjects · 63 resources
+3 subjects · 64 resources
 
 - [Veterinary Anatomy15 topic notes · 4 TANUVAS6 books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - [Veterinary Physiology12 topic notes · 3 TANUVAS4 books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
-- [Livestock Production Management25 topic notes · 4 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- [Livestock Production Management25 topic notes · 5 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -348,7 +348,7 @@ Veterinary Anatomy focuses on relating structure to function across domestic ani
 ## Notes
 
 19 notes
-[Topic-wise Notes15 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+[Topic-wise Notes15 notes](#notes)[Unit-wise NotesTANUVAS · 4 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -417,18 +417,18 @@ Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.goog
 4 notes
 
 PDF
-VAN-111 Veterinary Gross Anatomy –ITANUVAS · listed by VetBVSc[Open VAN-111 Veterinary Gross Anatomy –I](https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-111-tanuvas.pdf)
+Veterinary Gross Anatomy - I(Osteology, Arthrology & Biomechanics).pdfTANUVAS[Open Veterinary Gross Anatomy - I(Osteology, Arthrology & Biomechanics).pdf](https://drive.google.com/file/d/1mJnqj3lB2LvYtq4LjQygW5y1HiDbj-Tf/view)
 
 PDF
-VAN-121 Veterinary Gross Anatomy- IITANUVAS · listed by VetBVSc[Open VAN-121 Veterinary Gross Anatomy- II](https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-van-121.pdf)
+Veterinary Gross Anatomy - (Myology, Neurology, Angiology & Aesthesiology).pdfTANUVAS[Open Veterinary Gross Anatomy - (Myology, Neurology, Angiology & Aesthesiology).pdf](https://drive.google.com/file/d/1MtWOQmv0f5_p7EqMrtr0UWGsa_1ZfIFd/view)
 
 PDF
-VAN-211 Veterinary Histology and EmbryologyTANUVAS · listed by VetBVSc[Open VAN-211 Veterinary Histology and Embryology](https://vetbvsc.in/wp-content/uploads/2025/02/van-211-tanuvas.pdf)
+Veterinary Histology & Embryology.pdfTANUVAS[Open Veterinary Histology & Embryology.pdf](https://drive.google.com/file/d/1fXscLubfQfvsTjCWjgeKC4yEpV8WQcmO/view)
 
 PDF
-VAN-221 Veterinary Splanchnology And Applied AnatomyTANUVAS · listed by VetBVSc[Open VAN-221 Veterinary Splanchnology And Applied Anatomy](https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf)
+Veterinary Splancnology & Applied Anatomy.pdfTANUVAS[Open Veterinary Splancnology & Applied Anatomy.pdf](https://drive.google.com/file/d/1EOezzFDHL4eM3FCrEfIDi49CY4bmsibM/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -458,7 +458,7 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -482,7 +482,7 @@ Veterinary Physiology focuses on understanding how healthy animals maintain norm
 ## Notes
 
 15 notes
-[Topic-wise Notes12 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes12 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -550,15 +550,15 @@ Veterinary Physiology Note by KVASUKVASU[Open Veterinary Physiology Note by KVAS
 3 notes
 
 PDF
-Veterinary Physiology Note by TANUVASTANUVAS[Open Veterinary Physiology Note by TANUVAS](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
+Veterinary Physiology - I(Blood, Cardiovascular & Excretory Systems and Body Fluids).pdfTANUVAS[Open Veterinary Physiology - I(Blood, Cardiovascular & Excretory Systems and Body Fluids).pdf](https://drive.google.com/file/d/1X8wVsrNLF9khiSR63elBMC4sQHHKcBd_/view)
 
 PDF
-VPB -111 Veterinary Physiology-ITANUVAS · listed by VetBVSc[Open VPB -111 Veterinary Physiology-I](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-111.pdf)
+Veterinary Physiology - II(Neuromuscular Digestive & Respiratory Systems).pdfTANUVAS[Open Veterinary Physiology - II(Neuromuscular Digestive & Respiratory Systems).pdf](https://drive.google.com/file/d/11u5DiKITV6k3zAz5ioiQlc7gTvYtBaga/view)
 
 PDF
-VPB -121 Veterinary Physiology-IITANUVAS · listed by VetBVSc[Open VPB -121 Veterinary Physiology-II](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf)
+Veterinary Physiology - III(Endocrinology, Reproduction, Growth & Environmental Physiology).pdfTANUVAS[Open Veterinary Physiology - III(Endocrinology, Reproduction, Growth & Environmental Physiology).pdf](https://drive.google.com/file/d/1DQoVj4hvavwsHA-2OuD4FNBstgcfDLWY/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -584,7 +584,7 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -607,8 +607,8 @@ Livestock Production Management focuses on connecting animal husbandry principle
 
 ## Notes
 
-29 notes
-[Topic-wise Notes25 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+30 notes
+[Topic-wise Notes25 notes](#notes)[Unit-wise NotesTANUVAS · 5 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -728,21 +728,24 @@ Swine Production Management Note[Open Swine Production Management Note](https://
 
 ### TANUVAS Notes
 
-4 notes
+5 notes
 
 PDF
-LPM -121 Fodder Production and Grassland ManagementTANUVAS · listed by VetBVSc[Open LPM -121 Fodder Production and Grassland Management](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-121-fodder.pdf)
+Livestock Production Management - I(General Principles and Ruminants).pdfTANUVAS[Open Livestock Production Management - I(General Principles and Ruminants).pdf](https://drive.google.com/file/d/1o4rnKfqIAU-dcdDIaedJxoRg6XZMuAMq/view)
 
 PDF
-LPM -122 Livestock Production Management-IITANUVAS · listed by VetBVSc[Open LPM -122 Livestock Production Management-II](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-122.pdf)
+Fodder Prodcution and Grassland Management.pdfTANUVAS[Open Fodder Prodcution and Grassland Management.pdf](https://drive.google.com/file/d/1Fp66umq_vdFLSZ6OGF6wHspjl56BVhlb/view)
 
 PDF
-LPM-111 Livestock Production Management-ITANUVAS · listed by VetBVSc[Open LPM-111 Livestock Production Management-I](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf)
+Livestock Production Management - II(Monogastric and Laboratory Animals).pdfTANUVAS[Open Livestock Production Management - II(Monogastric and Laboratory Animals).pdf](https://drive.google.com/file/d/1L9kv4IuopWM-n9ovntGyq9yx3XD_E2oW/view)
 
 PDF
-LPM-211 Avian Production ManagementTANUVAS · listed by VetBVSc[Open LPM-211 Avian Production Management](https://vetbvsc.in/wp-content/uploads/2025/02/copy-of-lpm-211.pdf)
+Avian Production Management.pdfTANUVAS[Open Avian Production Management.pdf](https://drive.google.com/file/d/1TFS2Q8gMU0L2MjinWl5my35EF2walz5L/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Commercial Poultry Production  and Hatchery Management.pdfTANUVAS[Open Commercial Poultry Production  and Hatchery Management.pdf](https://drive.google.com/file/d/1xjtl6Q4eltepZd83BAUBrWMRuE69A5Ct/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -766,13 +769,13 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -785,15 +788,15 @@ Choose a 1st Year subject to read topic-wise notes and TANUVAS material. Each su
 
 - [Veterinary Anatomy19 resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - [Veterinary Physiology15 resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
-- [Livestock Production Management29 resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- [Livestock Production Management30 resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -808,17 +811,17 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
 ## Choose a subject
 
-5 subjects · 223 resources
+5 subjects · 225 resources
 
-- [Veterinary Biochemistry21 topic notes · 2 TANUVAS1 book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- [Veterinary Biochemistry21 topic notes · 3 TANUVAS1 book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - [Veterinary Microbiology63 topic notes · 4 TANUVAS5 books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
-- [Veterinary Pathology48 topic notes · 4 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- [Veterinary Pathology48 topic notes · 5 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 - [Animal Genetics and Breeding45 topic notes · 3 TANUVAS2 books](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - [Animal Nutrition30 topic notes · 3 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -841,8 +844,8 @@ Veterinary Biochemistry focuses on linking molecular processes with animal healt
 
 ## Notes
 
-23 notes
-[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)
+24 notes
+[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -926,15 +929,18 @@ Liver Function Tests[Open Liver Function Tests](https://drive.google.com/file/d/
 
 ### TANUVAS Notes
 
-2 notes
+3 notes
 
 PDF
-VPB 112 General Veterinary BiochemistryTANUVAS · listed by VetBVSc[Open VPB 112 General Veterinary Biochemistry](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-112-general-veterinary-biochemistry-1.pdf)
+General Veterinary Biochemistry.pdfTANUVAS[Open General Veterinary Biochemistry.pdf](https://drive.google.com/file/d/1-gLOO1moCnou6khlHNPhCdCyWRBxD19Z/view)
 
 PDF
-VPB 122 Veterinary Intermediary MetabolismTANUVAS · listed by VetBVSc[Open VPB 122 Veterinary Intermediary Metabolism](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-122-veterinary-intermediary-metabolism-1.pdf)
+Veterinary Intermediary Metabolism.pdfTANUVAS[Open Veterinary Intermediary Metabolism.pdf](https://drive.google.com/file/d/1pgYWiiRvy4-5raTD8vcYBxr2HNaKR7mr/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Animal Biotechnology.pdfTANUVAS[Open Animal Biotechnology.pdf](https://drive.google.com/file/d/13RG2i-x0LSXTzGhEgs9PoVEp3m4QMHsO/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -954,7 +960,7 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -978,7 +984,7 @@ Veterinary Microbiology focuses on distinguishing infectious agents and the host
 ## Notes
 
 67 notes
-[Topic-wise Notes63 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+[Topic-wise Notes63 notes](#notes)[Unit-wise NotesTANUVAS · 4 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -1199,18 +1205,18 @@ Veterinary Virology Overall Note[Open Veterinary Virology Overall Note](https://
 4 notes
 
 PDF
-VMC 211 General Veterinary MicrobiologyTANUVAS · listed by VetBVSc[Open VMC 211 General Veterinary Microbiology](https://vetbvsc.in/wp-content/uploads/2025/02/VMC-211-1.pdf)
+General Veterinary Microbiology.pdfTANUVAS[Open General Veterinary Microbiology.pdf](https://drive.google.com/file/d/1bqO-fUpZawhj8bjCauMjoX-iRxbZgCy-/view)
 
 PDF
-VMC 221 Veterinary Immunology And SerologyTANUVAS · listed by VetBVSc[Open VMC 221 Veterinary Immunology And Serology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-221-veterinary-immunology-and-serology-1.pdf)
+Veterinary Immunology and Serology.pdfTANUVAS[Open Veterinary Immunology and Serology.pdf](https://drive.google.com/file/d/1CdXsG65dYrSCwR4qacJ-OZlEAdWSKDSu/view)
 
 PDF
-VMC 311 Systematic Veterinary Bacteriology And MycologyTANUVAS · listed by VetBVSc[Open VMC 311 Systematic Veterinary Bacteriology And Mycology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-311-systematic-veterinary-bacteriology-and-mycology-1.pdf)
+Systemic Veterinary Bacteriology and Mycology.pdfTANUVAS[Open Systemic Veterinary Bacteriology and Mycology.pdf](https://drive.google.com/file/d/1U61hMEo69enyGz5DqJJxZed0mEe2sXlg/view)
 
 PDF
-VMC 321 Systematic Veterinary VirologyTANUVAS · listed by VetBVSc[Open VMC 321 Systematic Veterinary Virology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf)
+Systemic Veterinary Virology.pdfTANUVAS[Open Systemic Veterinary Virology.pdf](https://drive.google.com/file/d/175se8oWbLwFYOi4ovxUt8L3UzGn-hyet/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -1238,7 +1244,7 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -1261,8 +1267,8 @@ Veterinary Pathology focuses on recognising mechanisms of disease and the lesion
 
 ## Notes
 
-52 notes
-[Topic-wise Notes48 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+53 notes
+[Topic-wise Notes48 notes](#notes)[Unit-wise NotesTANUVAS · 5 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -1439,21 +1445,24 @@ Pathology of Diseases of Laboratory Animals[Open Pathology of Diseases of Labora
 
 ### TANUVAS Notes
 
-4 notes
+5 notes
 
 PDF
-VPP 211 General Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 211 General Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-211-general-veterinary-pathology-1.pdf)
+General Veterinary Pathology.pdfTANUVAS[Open General Veterinary Pathology.pdf](https://drive.google.com/file/d/1Jk3YYq-AHsWZVjMXMRze5wy9lNiwEatc/view)
 
 PDF
-VPP 221 Systemic Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 221 Systemic Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-221-systemic-veterinary-pathology-1.pdf)
+Systemic Veterinary Pathology.pdfTANUVAS[Open Systemic Veterinary Pathology.pdf](https://drive.google.com/file/d/13Y6IeR24ZeqC6Efh-lCIvAQKtQVUjScO/view)
 
 PDF
-VPP 311 Special Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 311 Special Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-311-special-veterinary-pathology-1.pdf)
+Special Veterinary Pathology.pdfTANUVAS[Open Special Veterinary Pathology.pdf](https://drive.google.com/file/d/1tbGvqzABD3nAbR1o5ekCOYSAMQL89Nr0/view)
 
 PDF
-VPP 321 Avian PathologyTANUVAS · listed by VetBVSc[Open VPP 321 Avian Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-321-avian-pathology-1.pdf)
+Avian Pathology.pdfTANUVAS[Open Avian Pathology.pdf](https://drive.google.com/file/d/1xj5hSGVRUaluQn6BnRNryWou3Okj--Hr/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Aquatic Animal Diseases, Health Care and Management.pdfTANUVAS[Open Aquatic Animal Diseases, Health Care and Management.pdf](https://drive.google.com/file/d/1BS5GB-jpWzdWYNE7CcmBJZTaCrmi4IWJ/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -1477,7 +1486,7 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -1501,7 +1510,7 @@ Animal Genetics and Breeding focuses on applying inheritance and population prin
 ## Notes
 
 48 notes
-[Topic-wise Notes45 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes45 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -1660,15 +1669,15 @@ West Bengal Goat Breeding Policy[Open West Bengal Goat Breeding Policy](https://
 3 notes
 
 PDF
-AGB 111 Bio- Statistics and Computer ApplicationTANUVAS · listed by VetBVSc[Open AGB 111 Bio- Statistics and Computer Application](https://vetbvsc.in/wp-content/uploads/2025/02/agb-111-bio-statistics-and-computer-application-1.pdf)
+Biostatistics and Computer Application.pdfTANUVAS[Open Biostatistics and Computer Application.pdf](https://drive.google.com/file/d/1HO6D_IBj0muCKJjiTq_QxSufbBDQ2jT4/view)
 
 PDF
-AGB 121 Principles Of Animal Genetics And Population GeneticsTANUVAS · listed by VetBVSc[Open AGB 121 Principles Of Animal Genetics And Population Genetics](https://vetbvsc.in/wp-content/uploads/2025/02/agb-121-principles-of-animal-genetics-and-population-genetics-1.pdf)
+Principles of Animal Genetics and Population Genetics.pdfTANUVAS[Open Principles of Animal Genetics and Population Genetics.pdf](https://drive.google.com/file/d/1xcynU_qBu3bI-3lJ8IhbR0iqsegraIFT/view)
 
 PDF
-AGB 211 Livestock and Poultry BreedingTANUVAS · listed by VetBVSc[Open AGB 211 Livestock and Poultry Breeding](https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf)
+Livestock and Poultry Breeding.pdfTANUVAS[Open Livestock and Poultry Breeding.pdf](https://drive.google.com/file/d/1fXJo1Rt32KLoBQxo2ED50FQ6tfZDg9j1/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -1690,7 +1699,7 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -1714,7 +1723,7 @@ Animal Nutrition focuses on understanding feeds, nutrient requirements and feedi
 ## Notes
 
 33 notes
-[Topic-wise Notes30 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes30 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -1832,15 +1841,15 @@ Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://dr
 3 notes
 
 PDF
-ANN 211 Applied Nutrition-IITANUVAS · listed by VetBVSc[Open ANN 211 Applied Nutrition-II](https://vetbvsc.in/wp-content/uploads/2025/02/ann-211-applied-nutrition-ii-1.pdf)
+Principles of Animal Nutrition & Feed Technology.pdfTANUVAS[Open Principles of Animal Nutrition & Feed Technology.pdf](https://drive.google.com/file/d/1cZY1tI4mIVAhYxjPjlwx7yXTf1R2It2u/view)
 
 PDF
-ANN-111 Principles of Animal Nutrition and Feed TechnologyTANUVAS · listed by VetBVSc[Open ANN-111 Principles of Animal Nutrition and Feed Technology](https://vetbvsc.in/wp-content/uploads/2025/02/ann-111-principles-of-animal-nutrition-and-feed-technology-1.pdf)
+Applied Animal Nutrition - I(Ruminants).pdfTANUVAS[Open Applied Animal Nutrition - I(Ruminants).pdf](https://drive.google.com/file/d/1sVRyFzXKjwgXHy3YeqTZ5rhch5a55s3x/view)
 
 PDF
-ANN-121 Applied Nutrition- 1 (Ruminants)TANUVAS · listed by VetBVSc[Open ANN-121 Applied Nutrition- 1 (Ruminants)](https://vetbvsc.in/wp-content/uploads/2025/02/ann-121-applied-nutrition-1-ruminants-1.pdf)
+Applied Animal Nutrition - II(Non-ruminants, Poultry & Laboratory Animals).pdfTANUVAS[Open Applied Animal Nutrition - II(Non-ruminants, Poultry & Laboratory Animals).pdf](https://drive.google.com/file/d/1r49tMJHLFFsesRr2Y6AdJaH7xXaNzU3I/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -1864,13 +1873,13 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -1881,19 +1890,19 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/
 
 Choose a 2nd Year subject to read topic-wise notes and TANUVAS material. Each subject now has its own notes and books page.
 
-- [Veterinary Biochemistry23 resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- [Veterinary Biochemistry24 resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - [Veterinary Microbiology67 resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
-- [Veterinary Pathology52 resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- [Veterinary Pathology53 resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 - [Animal Genetics and Breeding48 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - [Animal Nutrition33 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -1911,16 +1920,16 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 7 subjects · 195 resources
 
 - [Veterinary Pharmacology and Toxicology27 topic notes · 4 TANUVAS4 books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
-- [Veterinary Parasitology46 topic notes · 4 TANUVAS2 books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- [Veterinary Parasitology46 topic notes · 3 TANUVAS2 books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 - [Veterinary Public Health and Epidemiology35 topic notes · 3 TANUVAS1 book](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 - [Livestock Products Technology46 topic notes · 3 TANUVAS7 books](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
-- [Veterinary and Animal Husbandry Extension Education23 topic notes · 2 TANUVAS2 books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- [Veterinary and Animal Husbandry Extension Education23 topic notes · 3 TANUVAS2 books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 - [Veterinary Clinical Practices I1 topic note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - [Livestock Farm Practices1 topic note](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -1944,7 +1953,7 @@ Veterinary Pharmacology and Toxicology focuses on connecting drug action with sp
 ## Notes
 
 31 notes
-[Topic-wise Notes27 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+[Topic-wise Notes27 notes](#notes)[Unit-wise NotesTANUVAS · 4 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -2061,18 +2070,18 @@ Veterinary Toxicology Note[Open Veterinary Toxicology Note](https://drive.google
 4 notes
 
 PDF
-VPT-311 General and Systemic Veterinary PharmacologyTANUVAS · listed by VetBVSc[Open VPT-311 General and Systemic Veterinary Pharmacology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-311.pdf)
+General and Systemic Veterinary Pharmacology.pdfTANUVAS[Open General and Systemic Veterinary Pharmacology.pdf](https://drive.google.com/file/d/1aNeV3jeRp-dp0oN0B3m22qVeMtGgUqVT/view)
 
 PDF
-VPT-321 Veterinary NeuropharmacologyTANUVAS · listed by VetBVSc[Open VPT-321 Veterinary Neuropharmacology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt-321.pdf)
+Veterinary Neuropharmacology.pdfTANUVAS[Open Veterinary Neuropharmacology.pdf](https://drive.google.com/file/d/13rto_XK_JHT6DEQqMvcCuzHRpwKUlWdM/view)
 
 PDF
-VPT-411 Veterinary ChemotherapyTANUVAS · listed by VetBVSc[Open VPT-411 Veterinary Chemotherapy](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpt-411-veterinary-chemotherapy.pdf)
+Veterinary Chemotherapy.pdfTANUVAS[Open Veterinary Chemotherapy.pdf](https://drive.google.com/file/d/16rzIk66JVXH1yPBjQyehScRA_JAiJtpo/view)
 
 PDF
-VPT-421 Veterinary ToxicologyTANUVAS · listed by VetBVSc[Open VPT-421 Veterinary Toxicology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/copy-of-vpt421-veterinary-toxicology-tanuvas-lecture-notes.pdf)
+Veterinary Toxicology.pdfTANUVAS[Open Veterinary Toxicology.pdf](https://drive.google.com/file/d/1kaEjjxeyafuCO7iKcCNqSkalj9CdmT7F/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -2098,7 +2107,7 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -2121,8 +2130,8 @@ Veterinary Parasitology focuses on understanding parasite life cycles and their 
 
 ## Notes
 
-50 notes
-[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+49 notes
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -2289,21 +2298,18 @@ Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni[Open Veterinary Para
 
 ### TANUVAS Notes
 
-4 notes
-
-DOCX
-Veterinary Entomology (TANUVAS)TANUVAS · listed by VetBVSc[Open Veterinary Entomology (TANUVAS)](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx)
+3 notes
 
 PDF
-Veterinary Protozoology Note by TANUVASTANUVAS[Open Veterinary Protozoology Note by TANUVAS](https://drive.google.com/file/d/1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k/view?usp=sharing)
+General Veterinary Parasitology & Helminthology.pdfTANUVAS[Open General Veterinary Parasitology & Helminthology.pdf](https://drive.google.com/file/d/1UrV24pJZJWn7p4p1UXf-ac9gDSumEis2/view)
 
 PDF
-VPA-221 Veterinary Entomology And AcarologyTANUVAS · listed by VetBVSc[Open VPA-221 Veterinary Entomology And Acarology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf)
+Veterinary Entomology and Acarology.pdfTANUVAS[Open Veterinary Entomology and Acarology.pdf](https://drive.google.com/file/d/1er0HaPhUWTuP8q1SA377Kc9Dd_xO4Ybv/view)
 
-DOCX
-VPA-222 Veterinary ProtozoologyTANUVAS · listed by VetBVSc[Open VPA-222 Veterinary Protozoology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx)
+PDF
+Veterinary Protozoology.pdfTANUVAS[Open Veterinary Protozoology.pdf](https://drive.google.com/file/d/1mE0LdfnKnwVcNmeZsLIf9eCyWl-7-z3d/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -2325,7 +2331,7 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -2349,7 +2355,7 @@ Veterinary Public Health and Epidemiology focuses on connecting animal health, h
 ## Notes
 
 38 notes
-[Topic-wise Notes35 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes35 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -2482,15 +2488,15 @@ Noise and Radiation Pollution[Open Noise and Radiation Pollution](https://drive.
 3 notes
 
 PDF
-VPE-311 Milk and Meat Hygiene, Food Safety and Public HealthTANUVAS · listed by VetBVSc[Open VPE-311 Milk and Meat Hygiene, Food Safety and Public Health](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-311-tanuvas.pdf)
+Milk & Meat Hygiene, food safety and Public health.pdfTANUVAS[Open Milk & Meat Hygiene, food safety and Public health.pdf](https://drive.google.com/file/d/18rjMTk3_M4XVBwLqVFVHlaEgVd2dI6-5/view)
 
 PDF
-VPE-321 Veterinary Epidemiology And ZoonosesTANUVAS · listed by VetBVSc[Open VPE-321 Veterinary Epidemiology And Zoonoses](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-321-tanuvas.pdf)
+Veterinary Epidemiology and Zoonosis.pdfTANUVAS[Open Veterinary Epidemiology and Zoonosis.pdf](https://drive.google.com/file/d/1-jYjiF-aa1xim4VcYTEchzQX8OtgHDvY/view)
 
 PDF
-VPE–511 Environment and Environmental HygieneTANUVAS · listed by VetBVSc[Open VPE–511 Environment and Environmental Hygiene](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf)
+Environment and Environmental Hygiene.pdfTANUVAS[Open Environment and Environmental Hygiene.pdf](https://drive.google.com/file/d/19hKwkQknmKpKXWXYmLxeF8Y7aiXdW4jz/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -2510,7 +2516,7 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -2534,7 +2540,7 @@ Livestock Products Technology focuses on following animal products from producti
 ## Notes
 
 49 notes
-[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -2700,15 +2706,15 @@ Structure and Composition of Muscle[Open Structure and Composition of Muscle](ht
 3 notes
 
 PDF
-LPT -311 Milk and Milk Products TechnologyTANUVAS · listed by VetBVSc[Open LPT -311 Milk and Milk Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf)
+Milk and Milk Products Technology.pdfTANUVAS[Open Milk and Milk Products Technology.pdf](https://drive.google.com/file/d/17hUHHmVEqf4_QyaJ2UqX80vgz4dj1sEY/view)
 
 PDF
-LPT -321 Meat ScienceTANUVAS · listed by VetBVSc[Open LPT -321 Meat Science](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf)
+Abattoir Practice and Animal Product Technology.pdfTANUVAS[Open Abattoir Practice and Animal Product Technology.pdf](https://drive.google.com/file/d/1UVfDGFVVet2lNVZyQkT3I35IsgWRIRZa/view)
 
 PDF
-LPT-312 Abattoir Practices And Animal Products TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
+Meat Science.pdfTANUVAS[Open Meat Science.pdf](https://drive.google.com/file/d/1DLa2ePAuPeZUCiv4LlwRAIx_91js4xnJ/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -2734,15 +2740,13 @@ Try a shorter title or another collection.
 
 [Outlines of Dairy Technology](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
 
-Show 1 more book
-
 [Principles of Meat Science — Forrest](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)
 
 No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -2765,8 +2769,8 @@ Veterinary and Animal Husbandry Extension Education focuses on communicating ani
 
 ## Notes
 
-25 notes
-[Topic-wise Notes23 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)
+26 notes
+[Topic-wise Notes23 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -2876,15 +2880,18 @@ Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livesto
 
 ### TANUVAS Notes
 
-2 notes
+3 notes
 
 PDF
-VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionTANUVAS · listed by VetBVSc[Open VAE-311 Principles And Techniques of Veterinary And Animal Husbandry Extension](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae311.pdf)
+Principles & Techniques of Veterinary and A.H Extension.pdfTANUVAS[Open Principles & Techniques of Veterinary and A.H Extension.pdf](https://drive.google.com/file/d/134p4lPa5k1eueb2yL6oaeBwNTVo1KMM_/view)
 
 PDF
-VAE-321 Livestock Economics, Marketing And Business ManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And Business Management](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
+Livestock Economics, Marketing and Business Management.pdfTANUVAS[Open Livestock Economics, Marketing and Business Management.pdf](https://drive.google.com/file/d/18yuw1QSjiNN0Bi2QWNDk7dR5JqpeCOZV/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Livestock Entreprenuership.pdfTANUVAS[Open Livestock Entreprenuership.pdf](https://drive.google.com/file/d/1tpc8rD0IXMXsEbzcaSilMGNZBCIuAiqz/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -2906,7 +2913,7 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -2931,7 +2938,7 @@ Veterinary Clinical Practices I focuses on bringing foundational subjects into s
 
 1 note
 [Topic-wise Notes1 note](#notes)
-Unit-wise NotesTANUVAS · 0 collectionsComing soon
+Unit-wise NotesTANUVAS · 0 PDFsComing soon
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -2972,7 +2979,7 @@ No book listed for this subject yet.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -2997,7 +3004,7 @@ Livestock Farm Practices focuses on turning husbandry knowledge into supervised 
 
 1 note
 [Topic-wise Notes1 note](#notes)
-Unit-wise NotesTANUVAS · 0 collectionsComing soon
+Unit-wise NotesTANUVAS · 0 PDFsComing soon
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -3038,13 +3045,13 @@ No book listed for this subject yet.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -3056,20 +3063,20 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/
 Choose a 3rd Year subject to read topic-wise notes and TANUVAS material. Each subject now has its own notes and books page.
 
 - [Veterinary Pharmacology and Toxicology31 resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
-- [Veterinary Parasitology50 resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- [Veterinary Parasitology49 resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 - [Veterinary Public Health and Epidemiology38 resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 - [Livestock Products Technology49 resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
-- [Veterinary and Animal Husbandry Extension Education25 resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- [Veterinary and Animal Husbandry Extension Education26 resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 - [Veterinary Clinical Practices I1 resource](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - [Livestock Farm Practices1 resource](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -3084,16 +3091,16 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
 ## Choose a subject
 
-4 subjects · 59 resources
+4 subjects · 68 resources
 
-- [Veterinary Medicine22 topic notes · 1 TANUVAS16 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
-- [Veterinary Surgery and Radiology22 topic notes · 1 TANUVAS9 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
-- [Veterinary Gynaecology and Obstetrics11 topic notes · 2 TANUVAS6 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- [Veterinary Medicine22 topic notes · 7 TANUVAS16 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- [Veterinary Surgery and Radiology22 topic notes · 3 TANUVAS9 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- [Veterinary Gynaecology and Obstetrics11 topic notes · 3 TANUVAS6 books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - [Veterinary Clinical Practices IINotes coming soon · course outline available](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -3116,8 +3123,8 @@ Veterinary Medicine focuses on organising clinical reasoning around animal disea
 
 ## Notes
 
-23 notes
-[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)
+29 notes
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 7 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -3224,12 +3231,30 @@ List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary
 
 ### TANUVAS Notes
 
-1 note
+7 notes
 
 PDF
-Animal Welfare, Ethics and Jurisprudence by TANUVASTANUVAS[Open Animal Welfare, Ethics and Jurisprudence by TANUVAS](https://drive.google.com/file/d/14Zo51O6tgACim6OzSVIw0XGItdjgce8T/view?usp=sharing)
+Veterinary Clinical Medicine - I(General & Systemic).pdfTANUVAS[Open Veterinary Clinical Medicine - I(General & Systemic).pdf](https://drive.google.com/file/d/1CpUepv2525hU2Hr2Bdl21CRraSwN-H16/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Veterinary Preventive Medicine - I (Bacterial, Fungal & Rickettsial Diseases).pdfTANUVAS[Open Veterinary Preventive Medicine - I (Bacterial, Fungal & Rickettsial Diseases).pdf](https://drive.google.com/file/d/1HM_fHQ3xfC01WhyhOgcPlSBykMDY9naw/view)
+
+PDF
+Veterinary Clinical Medicine - II(Metabolic & Deficiency Diseases).pdfTANUVAS[Open Veterinary Clinical Medicine - II(Metabolic & Deficiency Diseases).pdf](https://drive.google.com/file/d/1_zC9WNbeQ8VNaXYtddycUbzx9DVCeMZz/view)
+
+PDF
+Veterinary Preventive Medicine - II (Viral & Parasitic Diseases).pdfTANUVAS[Open Veterinary Preventive Medicine - II (Viral & Parasitic Diseases).pdf](https://drive.google.com/file/d/11iJFN4JJ0WLqXXGSHjbF8aV9Y1lYHBnC/view)
+
+PDF
+Animal Welfare, Ethics & Jurisprudence.pdfTANUVAS[Open Animal Welfare, Ethics & Jurisprudence.pdf](https://drive.google.com/file/d/1KpCBIkYCdA49Da0Arq9CKrTQ2jpYrXZi/view)
+
+PDF
+Zoo,Wild Animal Breeding, Management, Nutrition and Health Care.pdfTANUVAS[Open Zoo,Wild Animal Breeding, Management, Nutrition and Health Care.pdf](https://drive.google.com/file/d/1ZrepbgvrLybGHGTF_FTHqC4b-iANN4hl/view)
+
+PDF
+Pet Animal Breeding, Management, Nutrition and Health Care.pdfTANUVAS[Open Pet Animal Breeding, Management, Nutrition and Health Care.pdf](https://drive.google.com/file/d/1yVN-FkqlS9L5GsRsfDuegGCwCz8hc_We/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -3256,7 +3281,7 @@ Find a book or author
 
 [Laboratory Animal and Exotic Pet Medicine Principles and Procedures](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
 
-Show 10 more books
+Show 10 more booksShow fewer books
 
 [Manual of Canine and Feline Cardiology](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
 
@@ -3282,7 +3307,7 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -3305,8 +3330,8 @@ Veterinary Surgery and Radiology focuses on understanding surgical principles al
 
 ## Notes
 
-23 notes
-[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)
+25 notes
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -3409,12 +3434,18 @@ Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/f
 
 ### TANUVAS Notes
 
-1 note
+3 notes
 
 PDF
-Orthopedics and Lameness Note by TANUVASTANUVAS[Open Orthopedics and Lameness Note by TANUVAS](https://drive.google.com/file/d/1UCcfQK4ebhIQikk2exqcXxJCcCd1raO_/view?usp=sharing)
+General Veterinary Surgery, Anesthesiology and Diagnostic Imaging.pdfTANUVAS[Open General Veterinary Surgery, Anesthesiology and Diagnostic Imaging.pdf](https://drive.google.com/file/d/1eLqhKWTF1tGYrqWb3YDeF5caIyf-o1aI/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Regional Veterinary Surgery.pdfTANUVAS[Open Regional Veterinary Surgery.pdf](https://drive.google.com/file/d/1N_LeQjMgdmHLBqUV8r9NpRv8vXPcwiE-/view)
+
+PDF
+Veterinary Orthopedics and Lameness.pdfTANUVAS[Open Veterinary Orthopedics and Lameness.pdf](https://drive.google.com/file/d/1X4WZY7e9QxerVLFprA4PDnLjstUY0KQH/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -3440,7 +3471,7 @@ Try a shorter title or another collection.
 
 [Ruminant Surgery](https://notes.thatvetguy.net/books/ruminant-surgery/)
 
-Show 3 more books
+Show 3 more booksShow fewer books
 
 [Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
 
@@ -3452,7 +3483,7 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -3475,8 +3506,8 @@ Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fer
 
 ## Notes
 
-13 notes
-[Topic-wise Notes11 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)
+14 notes
+[Topic-wise Notes11 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -3534,15 +3565,18 @@ Veterinary Gynecology Male[Open Veterinary Gynecology Male](https://drive.google
 
 ### TANUVAS Notes
 
-2 notes
+3 notes
 
 PDF
-Veterinary Gynaecology Note by TANUVAS part 1TANUVAS[Open Veterinary Gynaecology Note by TANUVAS part 1](https://drive.google.com/file/d/11YlCJulYov70ZCtrc05P3daHtp2VFn-r/view?usp=sharing)
+Veterinary Gynaecology.pdfTANUVAS[Open Veterinary Gynaecology.pdf](https://drive.google.com/file/d/1R1iCL_sj2PcQ1ogInIONKVrOl2uyvkGb/view)
 
 PDF
-Veterinary Gynaecology Note by TANUVAS part 2TANUVAS[Open Veterinary Gynaecology Note by TANUVAS part 2](https://drive.google.com/file/d/10MYo0iILewFOJoY75HkdlLelJ50SlIRY/view?usp=sharing)
+Veterinary Obstetrics.pdfTANUVAS[Open Veterinary Obstetrics.pdf](https://drive.google.com/file/d/1mEXIl7c3Gx_KBJmCGqsCQ_CLMuPUkmq7/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Veterinary Andrology & Reproduction Techniques.pdfTANUVAS[Open Veterinary Andrology & Reproduction Techniques.pdf](https://drive.google.com/file/d/1ppl4sU0IouRCWXMeWnkpSn5mgsXKLAUo/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -3572,7 +3606,7 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -3598,7 +3632,7 @@ Veterinary Clinical Practices II focuses on integrating supervised clinical lear
 0 notes
 
 Topic-wise Notes0 notesComing soon
-Unit-wise NotesTANUVAS · 0 collectionsComing soon
+Unit-wise NotesTANUVAS · 0 PDFsComing soon
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -3637,13 +3671,13 @@ No book listed for this subject yet.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -3654,12 +3688,12 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/
 
 Choose a 4th Year subject to read topic-wise notes and TANUVAS material. Each subject now has its own notes and books page.
 
-- [Veterinary Medicine23 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
-- [Veterinary Surgery and Radiology23 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
-- [Veterinary Gynaecology and Obstetrics13 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- [Veterinary Medicine29 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- [Veterinary Surgery and Radiology25 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- [Veterinary Gynaecology and Obstetrics14 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - [Veterinary Clinical Practices II0 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -3870,7 +3904,7 @@ Research reviewed 1 November 2026. International learning resources inform study
 
 [All 1st Year resources](https://notes.thatvetguy.net/bvsc/year-1/)[Next year’s roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -4115,7 +4149,7 @@ Research reviewed 1 November 2026. International learning resources inform study
 
 [All 2nd Year resources](https://notes.thatvetguy.net/bvsc/year-2/)[Next year’s roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -4397,7 +4431,7 @@ Research reviewed 1 November 2026. International learning resources inform study
 
 [All 3rd Year resources](https://notes.thatvetguy.net/bvsc/year-3/)[Next year’s roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -4633,20 +4667,20 @@ Research reviewed 1 November 2026. International learning resources inform study
 
 [All 4th Year resources](https://notes.thatvetguy.net/bvsc/year-4/)[Explore career options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/objective/
 
-<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/objective/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Objective Resources
 
 # Objective & Competition Resources
 
-Objective notes and veterinary question banks for BVSc & AH revision. Browse Dhruv N Desai, Animal Science Refresher, TANUVAS and more, with direct Telegram access.
+Objective notes and veterinary question banks for BVSc & AH revision. Browse Dhruv N Desai, Animal Science Refresher, TANUVAS and more, with Google Drive access.
 
 Choose a collection below. Open a book for its details and Google Drive link.
 
@@ -4746,7 +4780,7 @@ E. Nanu
 
 [Open Book: E. Nanu Veterinary Question Bank](https://notes.thatvetguy.net/books/e-nanu-qbank/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -4768,7 +4802,7 @@ Choose veterinary apps, reliable online reading and career paths worth exploring
 
 [1st Year Roadmap](https://notes.thatvetguy.net/bvsc/year-1/roadmap/)[2nd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-2/roadmap/)[3rd Year Roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)[4th Year Roadmap](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -4922,7 +4956,7 @@ ICAR-IVRI & ICAR-IASRI
 
 [Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -5152,7 +5186,7 @@ Curated 2026-10-28. Links open the original websites. Access terms and availabil
 
 [Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -5909,7 +5943,7 @@ Manitoba regulator explains removal of the NEB PSA requirement in June 2026 and 
 
 [Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -5964,13 +5998,13 @@ A missing topic, a broken file or a credit that needs correcting: tell us so the
 
 Where do resources open?
 
-Topic-wise notes open on Google Drive. Objective notes, question banks, drug references and handbooks open in Telegram; some collections require access. Recommended books do not always have a linked copy. Original authors retain credit.
+Notes, objective resources, question banks, drug references and handbooks open in Google Drive. Open a book’s page for its available copy. Some recommended books have no linked copy. Original authors retain credit.
 
 Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6019,13 +6053,13 @@ Can I contribute a resource?
 
 Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/search/
 
-<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/search/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Search
@@ -6065,7 +6099,7 @@ Choose a subject. These collections already have resources.
 
 ### Parasitology
 
-55
+54
 
 [PDFAnanthocephala (Macrocanthorhynchus)Veterinary Parasitology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1TrSIq8yOKJP5P6ahmmhh6f2iNB98fDzy)
 [PDFAnaplasma and EhrlichiaVeterinary Parasitology · Note](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1mT-ChzrAmmqKzYvSOTOMYRUR2SZtt7ek)
@@ -6081,7 +6115,7 @@ Choose a subject. These collections already have resources.
 
 Can’t find it? [Request a resource ](https://notes.thatvetguy.net/request-resource/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6149,7 +6183,7 @@ Colour handbook of Small Animal Emergency and Critical care.
 
 Open a book to view or download its PDF in Google Drive. Use clinical references alongside supervised training and current guidance.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6213,20 +6247,20 @@ A vaccination-schedule reference to compare with species, local guidance and pro
 
 Open a book to view or download its PDF in Google Drive. Use clinical references alongside supervised training and current guidance.
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/books/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Books
 
 # Veterinary Books Library
 
-Subject books, objective resources and clinical handbooks for BVSc & AH study. Open a book for its details, cover and available Telegram or Google Drive access.
+Subject books, objective resources and clinical handbooks for BVSc & AH study. Open a book for its details, cover and available download links.
 
 [1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)[Objective & Competition](#objective)[Clinical References](#clinical)
 
@@ -6446,7 +6480,7 @@ Show 7 more 7 remaining
 
 [Veterinary Practice HandbookRK Chandolia · Google Drive](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6496,7 +6530,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6544,7 +6578,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6590,7 +6624,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6630,7 +6664,7 @@ Primary collection: Rx Notes. File: All in One Veterinary Capsule (Subjective) (
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6678,7 +6712,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6723,7 +6757,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6771,7 +6805,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6815,7 +6849,7 @@ Primary collection: Rx Notes. File: Animal Science Refresher for ICAR-PG.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6863,7 +6897,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6909,7 +6943,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -6955,7 +6989,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7001,7 +7035,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7055,7 +7089,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7109,7 +7143,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7155,7 +7189,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7213,7 +7247,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7267,7 +7301,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7317,7 +7351,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7359,7 +7393,7 @@ Primary collection: Rx Notes. File: A_Color_Handbook_of_Small_Animall.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7403,7 +7437,7 @@ Primary collection: Rx Notes. File: ICAR-PG Question Bank by Dhruv N Desai.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7451,7 +7485,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7494,7 +7528,7 @@ Primary collection: Rx Notes. File: Drug Dose (for wall) (1) (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7542,7 +7576,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7587,7 +7621,7 @@ Primary collection: Rx Notes. File: ICAR-PG Question Bank by E Nanu.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7639,7 +7673,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7689,7 +7723,7 @@ Shared file label: Vet histology & embryology-RK Ghosh .pdf
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7737,7 +7771,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7783,7 +7817,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7833,7 +7867,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7881,7 +7915,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7925,7 +7959,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -7971,7 +8005,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8019,7 +8053,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8063,7 +8097,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8119,7 +8153,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8166,7 +8200,7 @@ Primary collection: Rx Notes. File: Handbook for Veterinary Clinician (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8216,7 +8250,7 @@ Primary collection: Rx Notes. File: Handbook_of_Small_Animal_Radiology_and_Ultra
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8260,7 +8294,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8301,7 +8335,7 @@ Primary collection: Rx Notes. File: KVAFSU ICAR-PG Question Bank.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8351,7 +8385,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8403,7 +8437,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8449,7 +8483,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8503,7 +8537,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8557,7 +8591,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8604,7 +8638,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8648,7 +8682,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8702,7 +8736,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8743,7 +8777,7 @@ Primary collection: Rx Notes. File: NDRI Veterinary Question Bank.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8791,7 +8825,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8841,7 +8875,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8900,7 +8934,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -8950,7 +8984,7 @@ Primary collection: Rx Notes. File: Plumb's Veterinary Drug Handbook (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9008,7 +9042,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9058,7 +9092,7 @@ Primary collection: Rx Notes. File: Pocket Handbook of Small Animal Medicine (1)
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9112,7 +9146,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9156,7 +9190,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9206,7 +9240,7 @@ Shared file label: Veterinary Anatomy by RK Ghosh.pdf
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9258,7 +9292,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9303,7 +9337,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9349,7 +9383,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9401,7 +9435,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9441,7 +9475,7 @@ Primary collection: Rx Notes. File: REVIEW OF ANIMAL SCIENCE By RAKESH KUMAR GUP
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9481,7 +9515,7 @@ Primary collection: Rx Notes. File: Review of Veterinary science .pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9531,7 +9565,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9579,7 +9613,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9633,7 +9667,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9679,7 +9713,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9725,7 +9759,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9775,7 +9809,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9821,7 +9855,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9862,7 +9896,7 @@ Primary collection: Rx Notes. File: Tanuvas ICAR Question Bank.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9907,7 +9941,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -9954,7 +9988,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10002,7 +10036,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10052,7 +10086,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10098,7 +10132,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10157,7 +10191,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10201,7 +10235,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10249,7 +10283,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10291,7 +10325,7 @@ Primary collection: Rx Notes. File: Ultimate Vet handbook.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10334,7 +10368,7 @@ Primary collection: Rx Notes. File: Veterinary Vaccination Schedule (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10377,7 +10411,7 @@ Primary collection: Rx Notes. File: VENDEX- The Fundamental Veterinary Drug Inde
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10421,7 +10455,7 @@ Primary collection: Rx Notes. File: Vet_Scorer_2022_(1st_Edition)[1]_rotated (2)
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10471,7 +10505,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10514,7 +10548,7 @@ Primary collection: Rx Notes. File: Veterinary Drug Index (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10562,7 +10596,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10606,7 +10640,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10656,7 +10690,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10702,7 +10736,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10754,7 +10788,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10808,7 +10842,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10854,7 +10888,7 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10901,7 +10935,7 @@ Primary collection: Rx Notes. File: Veterinary practice handbook (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -10956,7 +10990,7 @@ Other available copies
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -11006,7 +11040,7 @@ Collection: Vetverse. Original file label:
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -11253,7 +11287,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Anatomy ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -11426,7 +11460,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Physiology ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -11780,7 +11814,7 @@ Checked 2026-10-28.
 
 [Back to Livestock Production Management ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -11916,7 +11950,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Biochemistry ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -12134,7 +12168,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Microbiology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -12289,7 +12323,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Pathology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -12460,7 +12494,7 @@ Checked 2026-10-28.
 
 [Back to Animal Genetics and Breeding ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -12605,7 +12639,7 @@ Checked 2026-10-28.
 
 [Back to Animal Nutrition ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -12775,7 +12809,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Pharmacology and Toxicology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -12950,7 +12984,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Parasitology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -13147,7 +13181,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Public Health and Epidemiology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -13302,7 +13336,7 @@ Checked 2026-10-28.
 
 [Back to Livestock Products Technology ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -13501,7 +13535,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary and Animal Husbandry Extension Education ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -13553,7 +13587,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Clinical Practices I ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -13602,7 +13636,7 @@ Checked 2026-10-28.
 
 [Back to Livestock Farm Practices ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -13765,7 +13799,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Medicine ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -13996,7 +14030,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Surgery and Radiology ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14113,7 +14147,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Gynaecology and Obstetrics ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14265,7 +14299,7 @@ Checked 2026-10-28.
 
 [Back to Veterinary Clinical Practices II ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14279,124 +14313,178 @@ Canonical: https://notes.thatvetguy.net/bvsc/tanuvas-notes/
 
 # TANUVAS Notes for BVSc & AH
 
-TANUVAS veterinary notes, organised by subject and original course code. Find the collection you need, then match it to your current BVSc & AH syllabus.
+TANUVAS veterinary notes across all four BVSc & AH professional years. Browse 16 subjects and 59 PDFs, with Google Drive access and subject syllabus checklists.
 
-[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)
+[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
 
 1
 
-## 1st Year subject collections
+## FIRST PROFESSIONAL YEAR
 
-### [Veterinary Anatomy](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#tanuvas)
+### [LIVESTOCK PRODUCTION MANAGEMENT](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#tanuvas)
 
-- [VAN-111 Veterinary Gross Anatomy –IPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-a240ff27a67c927577)
-- [VAN-121 Veterinary Gross Anatomy- IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-4592eea910f6434b9b)
-- [VAN-211 Veterinary Histology and EmbryologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-59823e1aa0ff394eac)
-- [VAN-221 Veterinary Splanchnology And Applied AnatomyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-tanuvas-216315ab36b590d7a5)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/)
+- [Livestock Production Management - I(General Principles and Ruminants).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1o4rnKfqIAU-dcdDIaedJxoRg6XZMuAMq)
+- [Fodder Prodcution and Grassland Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1Fp66umq_vdFLSZ6OGF6wHspjl56BVhlb)
+- [Livestock Production Management - II(Monogastric and Laboratory Animals).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1L9kv4IuopWM-n9ovntGyq9yx3XD_E2oW)
+- [Avian Production Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1TFS2Q8gMU0L2MjinWl5my35EF2walz5L)
+- [Commercial Poultry Production  and Hatchery Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-1xjtl6Q4eltepZd83BAUBrWMRuE69A5Ct)
 
-### [Veterinary Physiology](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/18QRJm4mH2H0ST67tyWl0ReHngIX6DzRJ)
 
-- [VPB -111 Veterinary Physiology-IPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-tanuvas-f0ac6816f9b6096d39)
-- [VPB -121 Veterinary Physiology-IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-tanuvas-8f9640a9a4d85763ca)
-- [Veterinary Physiology Book by TANUVASPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-1cOJOgFeO95LLwXiUOWKclIZghjYNevNV)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/)
+### [VETERINARY ANATOMY](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#tanuvas)
 
-### [Livestock Production Management](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#tanuvas)
+- [Veterinary Gross Anatomy - I(Osteology, Arthrology & Biomechanics).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1mJnqj3lB2LvYtq4LjQygW5y1HiDbj-Tf)
+- [Veterinary Gross Anatomy - (Myology, Neurology, Angiology & Aesthesiology).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1MtWOQmv0f5_p7EqMrtr0UWGsa_1ZfIFd)
+- [Veterinary Histology & Embryology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1fXscLubfQfvsTjCWjgeKC4yEpV8WQcmO)
+- [Veterinary Splancnology & Applied Anatomy.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#file-1EOezzFDHL4eM3FCrEfIDi49CY4bmsibM)
 
-- [LPM-111 Livestock Production Management-IPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-aae6e7ecda0ae1f517)
-- [LPM -121 Fodder Production and Grassland ManagementPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-8e2824e2841fa45060)
-- [LPM -122 Livestock Production Management-IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-32b729a73dd389fa5e)
-- [LPM-211 Avian Production ManagementPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#file-tanuvas-9fadb473c67ffdd86e)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1_vTZ7RD9DNF_ym6BjUB3Nb-jXZluG5Qk)
+
+### [VETERINARY PHYSIOLOGY](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#tanuvas)
+
+- [Veterinary Physiology - I(Blood, Cardiovascular & Excretory Systems and Body Fluids).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-1X8wVsrNLF9khiSR63elBMC4sQHHKcBd_)
+- [Veterinary Physiology - II(Neuromuscular Digestive & Respiratory Systems).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-11u5DiKITV6k3zAz5ioiQlc7gTvYtBaga)
+- [Veterinary Physiology - III(Endocrinology, Reproduction, Growth & Environmental Physiology).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#file-1DQoVj4hvavwsHA-2OuD4FNBstgcfDLWY)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1tT_22-qDF8i2lGSNxasjmog0oZgKiehb)
 
 2
 
-## 2nd Year subject collections
+## SECOND PROFESSIONAL YEAR
 
-### [Veterinary Biochemistry](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#tanuvas)
+### [ANIMAL GENETICS & BREEDING](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#tanuvas)
 
-- [VPB 112 General Veterinary BiochemistryPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-tanuvas-28e8e22b829dc09f95)
-- [VPB 122 Veterinary Intermediary MetabolismPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-tanuvas-a18c3b0a11e67fd451)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/)
+- [Biostatistics and Computer Application.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1HO6D_IBj0muCKJjiTq_QxSufbBDQ2jT4)
+- [Principles of Animal Genetics and Population Genetics.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1xcynU_qBu3bI-3lJ8IhbR0iqsegraIFT)
+- [Livestock and Poultry Breeding.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-1fXJo1Rt32KLoBQxo2ED50FQ6tfZDg9j1)
 
-### [Veterinary Microbiology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1O_S-VnCfCa_PAsyPJPYmIk8lHReCLTR7)
 
-- [VMC 211 General Veterinary MicrobiologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-7b3fe113f519aa39e0)
-- [VMC 221 Veterinary Immunology And SerologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-e68e63191275fc8e67)
-- [VMC 311 Systematic Veterinary Bacteriology And MycologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-7199850f921ed4bfd0)
-- [VMC 321 Systematic Veterinary VirologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-tanuvas-8efdd47d9a4dbf9bc1)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/)
+### [ANIMAL NUTRITION](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#tanuvas)
 
-### [Veterinary Pathology](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#tanuvas)
+- [Principles of Animal Nutrition & Feed Technology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-1cZY1tI4mIVAhYxjPjlwx7yXTf1R2It2u)
+- [Applied Animal Nutrition - I(Ruminants).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-1sVRyFzXKjwgXHy3YeqTZ5rhch5a55s3x)
+- [Applied Animal Nutrition - II(Non-ruminants, Poultry & Laboratory Animals).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-1r49tMJHLFFsesRr2Y6AdJaH7xXaNzU3I)
 
-- [VPP 211 General Veterinary PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-2e62388b8442f0ab95)
-- [VPP 221 Systemic Veterinary PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-3960a97ac3fa06f531)
-- [VPP 311 Special Veterinary PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-7665f98c27c5951327)
-- [VPP 321 Avian PathologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-tanuvas-7595d0ff8a8fd7c032)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1kQvKDNgupFxtT7jR5exDDNE2oSBgRI-u)
 
-### [Animal Genetics and Breeding](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#tanuvas)
+### [VETERINARY BIOCHEMISTRY](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#tanuvas)
 
-- [AGB 111 Bio- Statistics and Computer ApplicationPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-tanuvas-8e65bbc2a6e017a0f4)
-- [AGB 121 Principles Of Animal Genetics And Population GeneticsPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-tanuvas-8163e18a0fb3652abd)
-- [AGB 211 Livestock and Poultry BreedingPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#file-tanuvas-9754615e9e90e7af81)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/)
+- [General Veterinary Biochemistry.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-1-gLOO1moCnou6khlHNPhCdCyWRBxD19Z)
+- [Veterinary Intermediary Metabolism.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-1pgYWiiRvy4-5raTD8vcYBxr2HNaKR7mr)
+- [Animal Biotechnology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/#file-13RG2i-x0LSXTzGhEgs9PoVEp3m4QMHsO)
 
-### [Animal Nutrition](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1_xxI_R8ljzC73mdvIUO5R8H_7mCZ_iAo)
 
-- [ANN-111 Principles of Animal Nutrition and Feed TechnologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-tanuvas-75096a726d023fa51d)
-- [ANN-121 Applied Nutrition- 1 (Ruminants)PDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-tanuvas-0fda36c330ea1bab4e)
-- [ANN 211 Applied Nutrition-IIPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#file-tanuvas-1545f30134be435b5d)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/)
+### [VETERINARY MICROBIOLOGY](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#tanuvas)
+
+- [General Veterinary Microbiology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-1bqO-fUpZawhj8bjCauMjoX-iRxbZgCy-)
+- [Veterinary Immunology and Serology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-1CdXsG65dYrSCwR4qacJ-OZlEAdWSKDSu)
+- [Systemic Veterinary Bacteriology and Mycology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-1U61hMEo69enyGz5DqJJxZed0mEe2sXlg)
+- [Systemic Veterinary Virology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#file-175se8oWbLwFYOi4ovxUt8L3UzGn-hyet)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1I1eHNJeuGcGNe3ED_Zc9XKay4HjUWhDM)
+
+### [VETERINARY PATHOLOGY](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#tanuvas)
+
+- [General Veterinary Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1Jk3YYq-AHsWZVjMXMRze5wy9lNiwEatc)
+- [Systemic Veterinary Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-13Y6IeR24ZeqC6Efh-lCIvAQKtQVUjScO)
+- [Special Veterinary Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1tbGvqzABD3nAbR1o5ekCOYSAMQL89Nr0)
+- [Avian Pathology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1xj5hSGVRUaluQn6BnRNryWou3Okj--Hr)
+- [Aquatic Animal Diseases, Health Care and Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#file-1BS5GB-jpWzdWYNE7CcmBJZTaCrmi4IWJ)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1-70FotyrDBBS8FeI7tUW0xH3ONCNpcPA)
 
 3
 
-## 3rd Year subject collections
+## THIRD PROFESSIONAL YEAR
 
-### [Veterinary Pharmacology and Toxicology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#tanuvas)
+### [LIVESTOCK PRODUCTS TECHNOLOGY](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#tanuvas)
 
-- [VPT-311 General and Systemic Veterinary PharmacologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-ad1bc125cc713fa59a)
-- [VPT-321 Veterinary NeuropharmacologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-ad20907ccd018cf7d1)
-- [VPT-411 Veterinary ChemotherapyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-7850b7fea3a950fcdb)
-- [VPT-421 Veterinary ToxicologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-tanuvas-830298dc73f5d32fe4)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)
+- [Milk and Milk Products Technology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-17hUHHmVEqf4_QyaJ2UqX80vgz4dj1sEY)
+- [Abattoir Practice and Animal Product Technology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-1UVfDGFVVet2lNVZyQkT3I35IsgWRIRZa)
+- [Meat Science.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-1DLa2ePAuPeZUCiv4LlwRAIx_91js4xnJ)
 
-### [Veterinary Parasitology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/181VHxR0_jamgadLX37g3wfTO75H46i2d)
 
-- [Veterinary Entomology (TANUVAS)DOCX · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-tanuvas-8ac1ab24b34875c74e)
-- [VPA-221 Veterinary Entomology And AcarologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-tanuvas-50d455d3b407629d78)
-- [VPA-222 Veterinary ProtozoologyDOCX · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-tanuvas-0e8f81a4680616b274)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)
+### [VETERINARY & ANIMAL HUSBANDRY EXTENSION AND EDUCATION](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#tanuvas)
 
-### [Veterinary Public Health and Epidemiology](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#tanuvas)
+- [Principles & Techniques of Veterinary and A.H Extension.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-134p4lPa5k1eueb2yL6oaeBwNTVo1KMM_)
+- [Livestock Economics, Marketing and Business Management.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-18yuw1QSjiNN0Bi2QWNDk7dR5JqpeCOZV)
+- [Livestock Entreprenuership.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-1tpc8rD0IXMXsEbzcaSilMGNZBCIuAiqz)
 
-- [VPE-311 Milk and Meat Hygiene, Food Safety and Public HealthPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-tanuvas-57baa9b11145fd22cb)
-- [VPE-321 Veterinary Epidemiology And ZoonosesPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-tanuvas-cdd381ca5a135c4b60)
-- [VPE–511 Environment and Environmental HygienePDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-tanuvas-b49b6feba3bacf870c)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1ugc-Fur0TGjGcV35ZMO39uZansTFddgJ)
 
-### [Livestock Products Technology](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#tanuvas)
+### [VETERINARY PARASITOLOGY](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#tanuvas)
 
-- [LPT -311 Milk and Milk Products TechnologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-tanuvas-2485877b5d3702ce02)
-- [LPT -321 Meat SciencePDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-tanuvas-ab4c2774328381bd7b)
-- [LPT-312 Abattoir Practices And Animal Products 5TechnologyPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#file-tanuvas-b00b3cc5da5b5c0286)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)
+- [General Veterinary Parasitology & Helminthology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1UrV24pJZJWn7p4p1UXf-ac9gDSumEis2)
+- [Veterinary Entomology and Acarology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1er0HaPhUWTuP8q1SA377Kc9Dd_xO4Ybv)
+- [Veterinary Protozoology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#file-1mE0LdfnKnwVcNmeZsLIf9eCyWl-7-z3d)
 
-### [Veterinary and Animal Husbandry Extension Education](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#tanuvas)
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1hQ_3OqvgGCGG_wOuBQdASjzhqd18D9yL)
 
-- [VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-tanuvas-bba8df4d430f7f95c6)
-- [VAE-321 Livestock Economics, Marketing And BusinessManagementPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-tanuvas-98209b61b6e8c3e754)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)
+### [VETERINARY PHARMACOLOGY & TOXICOLOGY](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#tanuvas)
 
-## Find the right course, not just the right year
+- [General and Systemic Veterinary Pharmacology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1aNeV3jeRp-dp0oN0B3m22qVeMtGgUqVT)
+- [Veterinary Neuropharmacology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-13rto_XK_JHT6DEQqMvcCuzHRpwKUlWdM)
+- [Veterinary Chemotherapy.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-16rzIk66JVXH1yPBjQyehScRA_JAiJtpo)
+- [Veterinary Toxicology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#file-1kaEjjxeyafuCO7iKcCNqSkalj9CdmT7F)
 
-TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. These collections are credited to TANUVAS and listed through VetBVSc. This is an independent directory, not an official university website.
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1zqREJs7VmnlSmBZ4cgAn7FhT0aHBCsMw)
 
-Older course codes can span more than one current subject or professional year. Use the course title and your department’s outline to choose a file; a matching year label alone does not establish syllabus coverage.
+### [VETERINARY PUBLIC HEALTH & EPIDEMIOLOGY](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#tanuvas)
+
+- [Milk & Meat Hygiene, food safety and Public health.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-18rjMTk3_M4XVBwLqVFVHlaEgVd2dI6-5)
+- [Veterinary Epidemiology and Zoonosis.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-1-jYjiF-aa1xim4VcYTEchzQX8OtgHDvY)
+- [Environment and Environmental Hygiene.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#file-19hKwkQknmKpKXWXYmLxeF8Y7aiXdW4jz)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1hwDe5YnBWmqng0zxK4EXZSCjKI1Cqzt0)
+
+4
+
+## FOURTH PROFESSIONAL YEAR
+
+### [VETERINARY GYNAECOLOGY](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#tanuvas)
+
+- [Veterinary Gynaecology.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#file-1R1iCL_sj2PcQ1ogInIONKVrOl2uyvkGb)
+- [Veterinary Obstetrics.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#file-1mEXIl7c3Gx_KBJmCGqsCQ_CLMuPUkmq7)
+- [Veterinary Andrology & Reproduction Techniques.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#file-1ppl4sU0IouRCWXMeWnkpSn5mgsXKLAUo)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1Ytp1M5_5MOpXtPQ4bFHZQ_eXAZ1CNHe0)
+
+### [VETERINARY MEDICINE](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#tanuvas)
+
+- [Veterinary Clinical Medicine - I(General & Systemic).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1CpUepv2525hU2Hr2Bdl21CRraSwN-H16)
+- [Veterinary Preventive Medicine - I (Bacterial, Fungal & Rickettsial Diseases).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1HM_fHQ3xfC01WhyhOgcPlSBykMDY9naw)
+- [Veterinary Clinical Medicine - II(Metabolic & Deficiency Diseases).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1_zC9WNbeQ8VNaXYtddycUbzx9DVCeMZz)
+- [Veterinary Preventive Medicine - II (Viral & Parasitic Diseases).pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-11iJFN4JJ0WLqXXGSHjbF8aV9Y1lYHBnC)
+- [Animal Welfare, Ethics & Jurisprudence.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1KpCBIkYCdA49Da0Arq9CKrTQ2jpYrXZi)
+- [Zoo,Wild Animal Breeding, Management, Nutrition and Health Care.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1ZrepbgvrLybGHGTF_FTHqC4b-iANN4hl)
+- [Pet Animal Breeding, Management, Nutrition and Health Care.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#file-1yVN-FkqlS9L5GsRsfDuegGCwCz8hc_We)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1Ig8_zCAVPIJ5qn3PB-w3mrvJqssvjeN6)
+
+### [VETERINARY SURGERY AND RADIOLOGY](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#tanuvas)
+
+- [General Veterinary Surgery, Anesthesiology and Diagnostic Imaging.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1eLqhKWTF1tGYrqWb3YDeF5caIyf-o1aI)
+- [Regional Veterinary Surgery.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1N_LeQjMgdmHLBqUV8r9NpRv8vXPcwiE-)
+- [Veterinary Orthopedics and Lameness.pdfPDF · View in subject notes](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#file-1X4WZY7e9QxerVLFprA4PDnLjstUY0KQH)
+
+[Syllabus checklist ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/)[Drive folder ](https://drive.google.com/drive/folders/1Vdu0QMVbC6N9J4LG5lxpLcRs4OUG7fps)
+
+## Your subject, then your unit
+
+Open a title to find its exact entry on the subject page, or browse the subject’s Drive folder. Compare the notes with your syllabus checklist to identify topics that need another source.
+
+TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. Original authors retain credit. This is an independent study directory, not an official university website.
+
+[Browse the complete TANUVAS Drive ](https://drive.google.com/drive/folders/13i3fxBDwbY8WraWKqirBugemkXDdpRyQ)
 
 [All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
-## Before you start reading
+59 PDFs · 16 subjects · Drive listing checked 2026-11-02. Access to external files may change.
 
-- Open a course: the link takes you to its exact entry on the subject page, where you can open the source file.
-- Check coverage: compare the topic list with the syllabus checklist. Keep unmatched topics on your reading list rather than assuming a collection is complete.
-- Separate revision from clinical decisions: older teaching notes are useful study material; drug information and treatment recommendations need current guidance and supervision.
-
-No dedicated fourth-year TANUVAS collection is listed in the reviewed source set.
-
-[Browse fourth-year topic notes and books ](https://notes.thatvetguy.net/bvsc/year-4/)
-
-42 entries · source collection reviewed 2026-10-26. Access to external files may change.
-
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14481,7 +14569,7 @@ Open your subject checklist beside your lecture plan. Identify the topics curren
 
 Source transcription checked 2026-10-28. This is a study aid, not an official university portal.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14550,7 +14638,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Anatomy ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14607,7 +14695,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Physiology ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14676,7 +14764,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Production Management ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14736,7 +14824,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Biochemistry ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14798,7 +14886,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Microbiology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14859,7 +14947,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Pathology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14921,7 +15009,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Animal Genetics and Breeding ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -14978,7 +15066,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Animal Nutrition ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15036,7 +15124,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Pharmacology and Toxicology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15100,7 +15188,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Parasitology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15157,7 +15245,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Public Health and Epidemiology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15214,7 +15302,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Products Technology ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15269,7 +15357,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary and Animal Husbandry Extension Education ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15321,7 +15409,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Clinical Practices I ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15373,7 +15461,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Farm Practices ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15435,7 +15523,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Medicine ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15496,7 +15584,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Surgery and Radiology ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15558,7 +15646,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Gynaecology and Obstetrics ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15615,7 +15703,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Clinical Practices II ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---
@@ -15632,4 +15720,4 @@ Try a subject or search for the resource you need.
 
 [Back to the notes ](https://notes.thatvetguy.net/bvsc/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-10-28. Sources last reviewed: 2026-11-02; external file availability can change.

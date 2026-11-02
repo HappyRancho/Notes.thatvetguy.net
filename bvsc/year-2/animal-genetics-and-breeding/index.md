@@ -16,7 +16,7 @@ Animal Genetics and Breeding focuses on applying inheritance and population prin
 ## Notes
 
 48 notes
-[Topic-wise Notes45 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes45 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -175,15 +175,15 @@ West Bengal Goat Breeding Policy[Open West Bengal Goat Breeding Policy](https://
 3 notes
 
 PDF
-AGB 111 Bio- Statistics and Computer ApplicationTANUVAS · listed by VetBVSc[Open AGB 111 Bio- Statistics and Computer Application](https://vetbvsc.in/wp-content/uploads/2025/02/agb-111-bio-statistics-and-computer-application-1.pdf)
+Biostatistics and Computer Application.pdfTANUVAS[Open Biostatistics and Computer Application.pdf](https://drive.google.com/file/d/1HO6D_IBj0muCKJjiTq_QxSufbBDQ2jT4/view)
 
 PDF
-AGB 121 Principles Of Animal Genetics And Population GeneticsTANUVAS · listed by VetBVSc[Open AGB 121 Principles Of Animal Genetics And Population Genetics](https://vetbvsc.in/wp-content/uploads/2025/02/agb-121-principles-of-animal-genetics-and-population-genetics-1.pdf)
+Principles of Animal Genetics and Population Genetics.pdfTANUVAS[Open Principles of Animal Genetics and Population Genetics.pdf](https://drive.google.com/file/d/1xcynU_qBu3bI-3lJ8IhbR0iqsegraIFT/view)
 
 PDF
-AGB 211 Livestock and Poultry BreedingTANUVAS · listed by VetBVSc[Open AGB 211 Livestock and Poultry Breeding](https://vetbvsc.in/wp-content/uploads/2025/02/agb-211-livestock-and-poultry-breeding-1.pdf)
+Livestock and Poultry Breeding.pdfTANUVAS[Open Livestock and Poultry Breeding.pdf](https://drive.google.com/file/d/1fXJo1Rt32KLoBQxo2ED50FQ6tfZDg9j1/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -205,4 +205,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

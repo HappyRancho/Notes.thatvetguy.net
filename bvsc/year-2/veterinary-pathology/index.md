@@ -15,8 +15,8 @@ Veterinary Pathology focuses on recognising mechanisms of disease and the lesion
 
 ## Notes
 
-52 notes
-[Topic-wise Notes48 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+53 notes
+[Topic-wise Notes48 notes](#notes)[Unit-wise NotesTANUVAS · 5 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -193,21 +193,24 @@ Pathology of Diseases of Laboratory Animals[Open Pathology of Diseases of Labora
 
 ### TANUVAS Notes
 
-4 notes
+5 notes
 
 PDF
-VPP 211 General Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 211 General Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-211-general-veterinary-pathology-1.pdf)
+General Veterinary Pathology.pdfTANUVAS[Open General Veterinary Pathology.pdf](https://drive.google.com/file/d/1Jk3YYq-AHsWZVjMXMRze5wy9lNiwEatc/view)
 
 PDF
-VPP 221 Systemic Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 221 Systemic Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-221-systemic-veterinary-pathology-1.pdf)
+Systemic Veterinary Pathology.pdfTANUVAS[Open Systemic Veterinary Pathology.pdf](https://drive.google.com/file/d/13Y6IeR24ZeqC6Efh-lCIvAQKtQVUjScO/view)
 
 PDF
-VPP 311 Special Veterinary PathologyTANUVAS · listed by VetBVSc[Open VPP 311 Special Veterinary Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-311-special-veterinary-pathology-1.pdf)
+Special Veterinary Pathology.pdfTANUVAS[Open Special Veterinary Pathology.pdf](https://drive.google.com/file/d/1tbGvqzABD3nAbR1o5ekCOYSAMQL89Nr0/view)
 
 PDF
-VPP 321 Avian PathologyTANUVAS · listed by VetBVSc[Open VPP 321 Avian Pathology](https://vetbvsc.in/wp-content/uploads/2025/02/vpp-321-avian-pathology-1.pdf)
+Avian Pathology.pdfTANUVAS[Open Avian Pathology.pdf](https://drive.google.com/file/d/1xj5hSGVRUaluQn6BnRNryWou3Okj--Hr/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Aquatic Animal Diseases, Health Care and Management.pdfTANUVAS[Open Aquatic Animal Diseases, Health Care and Management.pdf](https://drive.google.com/file/d/1BS5GB-jpWzdWYNE7CcmBJZTaCrmi4IWJ/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -231,4 +234,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

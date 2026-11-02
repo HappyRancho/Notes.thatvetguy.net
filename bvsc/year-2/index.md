@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -13,14 +13,14 @@
 
 ## Choose a subject
 
-5 subjects · 223 resources
+5 subjects · 225 resources
 
-- [Veterinary Biochemistry21 topic notes · 2 TANUVAS1 book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- [Veterinary Biochemistry21 topic notes · 3 TANUVAS1 book](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - [Veterinary Microbiology63 topic notes · 4 TANUVAS5 books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
-- [Veterinary Pathology48 topic notes · 4 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- [Veterinary Pathology48 topic notes · 5 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 - [Animal Genetics and Breeding45 topic notes · 3 TANUVAS2 books](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - [Animal Nutrition30 topic notes · 3 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

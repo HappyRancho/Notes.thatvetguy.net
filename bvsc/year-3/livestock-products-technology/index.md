@@ -16,7 +16,7 @@ Livestock Products Technology focuses on following animal products from producti
 ## Notes
 
 49 notes
-[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -182,15 +182,15 @@ Structure and Composition of Muscle[Open Structure and Composition of Muscle](ht
 3 notes
 
 PDF
-LPT -311 Milk and Milk Products TechnologyTANUVAS · listed by VetBVSc[Open LPT -311 Milk and Milk Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-311-milk-and-milk-products-technology.pdf)
+Milk and Milk Products Technology.pdfTANUVAS[Open Milk and Milk Products Technology.pdf](https://drive.google.com/file/d/17hUHHmVEqf4_QyaJ2UqX80vgz4dj1sEY/view)
 
 PDF
-LPT -321 Meat ScienceTANUVAS · listed by VetBVSc[Open LPT -321 Meat Science](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt-321-meat-science.pdf)
+Abattoir Practice and Animal Product Technology.pdfTANUVAS[Open Abattoir Practice and Animal Product Technology.pdf](https://drive.google.com/file/d/1UVfDGFVVet2lNVZyQkT3I35IsgWRIRZa/view)
 
 PDF
-LPT-312 Abattoir Practices And Animal Products TechnologyTANUVAS · listed by VetBVSc[Open LPT-312 Abattoir Practices And Animal Products Technology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/lpt312.pdf)
+Meat Science.pdfTANUVAS[Open Meat Science.pdf](https://drive.google.com/file/d/1DLa2ePAuPeZUCiv4LlwRAIx_91js4xnJ/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -216,12 +216,10 @@ Try a shorter title or another collection.
 
 [Outlines of Dairy Technology](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
 
-Show 1 more book
-
 [Principles of Meat Science — Forrest](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)
 
 No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

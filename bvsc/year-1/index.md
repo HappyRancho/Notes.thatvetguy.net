@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -13,12 +13,12 @@
 
 ## Choose a subject
 
-3 subjects · 63 resources
+3 subjects · 64 resources
 
 - [Veterinary Anatomy15 topic notes · 4 TANUVAS6 books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - [Veterinary Physiology12 topic notes · 3 TANUVAS4 books](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
-- [Livestock Production Management25 topic notes · 4 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- [Livestock Production Management25 topic notes · 5 TANUVAS3 books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
