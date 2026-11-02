@@ -2,10 +2,10 @@
 
 > Free academic resources, thoughtfully made for future vets.
 
-Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.
+Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: ThatVetGuy team. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.
 
 Main website: https://thatvetguy.net
-Author: Dr. Chirag Patidar
+Author: ThatVetGuy team
 Last source review: 2026-11-01. File access settings can change.
 
 ## Sections and subject guides

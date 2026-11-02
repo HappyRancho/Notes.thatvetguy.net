@@ -39,7 +39,13 @@ for p in ROOT.rglob('index.html'):
     assert '<h2>Explore.' not in raw and 'Unsorted' not in raw
     assert p.with_suffix('.md').exists(),(p,'markdown')
     assert 'page-checked' not in raw and 'rx-footer-ecosystem' not in raw,(p,'Removed footer clutter returned')
-    types={t for g in page.schema for t in (g['@type'] if isinstance(g['@type'],list) else [g['@type']])};assert {'Organization','Person','WebSite'}<=types
+    types={t for g in page.schema for t in (g['@type'] if isinstance(g['@type'],list) else [g['@type']])};assert {'Organization','WebSite'}<=types
+    organization='https://notes.thatvetguy.net/#organization'
+    assert any(g.get('@id')==organization and g.get('name')=='ThatVetGuy' for g in page.schema),(p,'Missing team attribution')
+    for entry in page.schema:
+        if entry.get('@id','').endswith(('#webpage','#guide')):
+            assert entry.get('author')=={'@id':organization},(p,'Site guidance must credit the team')
+        assert entry.get('@id')!='https://notes.thatvetguy.net/#author',(p,'Removed personal profile returned')
     assert ('FAQPage' in types)==(p.parent.name in ['about','request-resource'])
     if p!=ROOT/'index.html':assert 'BreadcrumbList' in types
 for p,page in pages.items():

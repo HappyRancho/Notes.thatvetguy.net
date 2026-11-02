@@ -8,7 +8,7 @@ from urllib.parse import urlsplit
 ROOT=Path(__file__).resolve().parent.parent
 BASE='https://notes.thatvetguy.net'
 META=json.loads((ROOT/'data/page-meta.json').read_text())
-AUTHOR='Dr. Chirag Patidar'
+AUTHOR='ThatVetGuy team'
 PAGES={}
 HISTORY_PATH=ROOT/'data/page-history.json'
 HISTORY=json.loads(HISTORY_PATH.read_text()) if HISTORY_PATH.exists() else {}
@@ -85,16 +85,15 @@ def register(path,title,desc,body,date,source_review=None,noindex=False):
     PAGES[path]={'title':title,'description':desc,'markdown':md,'lastmod':date,'noindex':noindex}
 
 def structured(path,title,description,items,home,body,records,date):
-    orgid=BASE+'/#organization';personid=BASE+'/#author';siteid=BASE+'/#website'
+    orgid=BASE+'/#organization';siteid=BASE+'/#website'
     org={'@type':'Organization','@id':orgid,'name':'ThatVetGuy','url':'https://thatvetguy.net','logo':BASE+'/assets/favicon.svg','sameAs':['https://thatvetguy.net','https://t.me/vetshortnotesbytvg','https://t.me/jobupdatesbytvg']}
-    person={'@type':'Person','@id':personid,'name':'Dr. Chirag Patidar','url':'https://www.thatvetguy.net/chirag','sameAs':['https://thatvetguy.net'],'hasCredential':[{'@type':'EducationalOccupationalCredential','name':'BVSc & AH'},{'@type':'EducationalOccupationalCredential','name':'MVSc'}]}
     site={'@type':'WebSite','@id':siteid,'name':'Notes.ThatVetGuy','alternateName':'Rx Notes by ThatVetGuy','url':BASE+'/','inLanguage':'en','publisher':{'@id':orgid},'potentialAction':{'@type':'SearchAction','target':{'@type':'EntryPoint','urlTemplate':BASE+'/search/?q={search_term_string}'},'query-input':'required name=search_term_string'}}
-    page={'@type':'CollectionPage' if items is not None else 'WebPage','@id':BASE+path+'#webpage','name':title,'url':BASE+path,'description':description,'dateModified':date,'inLanguage':'en','isPartOf':{'@id':siteid},'author':{'@id':personid},'publisher':{'@id':orgid}}
-    graph=[org,person,site,page]
+    page={'@type':'CollectionPage' if items is not None else 'WebPage','@id':BASE+path+'#webpage','name':title,'url':BASE+path,'description':description,'dateModified':date,'inLanguage':'en','isPartOf':{'@id':siteid},'author':{'@id':orgid},'publisher':{'@id':orgid}}
+    graph=[org,site,page]
     if path.startswith('/study-tools/') and path!='/study-tools/':
         from study_tools import DATA as TOOLS,GUIDES,route as tool_route
         guide=next(g for g in GUIDES if tool_route(g)==path)
-        learning={'@type':'LearningResource','@id':BASE+path+'#guide','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH students and graduates','learningResourceType':'Career guide' if guide['id']=='veterinary-careers' else 'Study guide','inLanguage':'en','author':{'@id':personid},'dateModified':date}
+        learning={'@type':'LearningResource','@id':BASE+path+'#guide','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH students and graduates','learningResourceType':'Career guide' if guide['id']=='veterinary-careers' else 'Study guide','inLanguage':'en','author':{'@id':orgid},'dateModified':date}
         if guide['id']=='veterinary-careers':learning['citation']=[s['url'] for s in TOOLS['careerSources']]
         if guide['id']=='vet-apps':
             learning['hasPart']=[]
@@ -107,7 +106,7 @@ def structured(path,title,description,items,home,body,records,date):
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):
         from roadmaps import DATA as ROADMAPS, GUIDANCE
         yr=path.split('/')[2][-1]
-        guide={'@type':'LearningResource','@id':BASE+path+'#guide','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+yr,'learningResourceType':'Study guide','teaches':[s['name'] for s in ROADMAPS['years'][yr]['subjects']],'inLanguage':'en','author':{'@id':personid},'dateModified':date,'citation':[s['title']+'; '+s['location'] for s in ROADMAPS['academicSources'][:2]]}
+        guide={'@type':'LearningResource','@id':BASE+path+'#guide','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+yr,'learningResourceType':'Study guide','teaches':[s['name'] for s in ROADMAPS['years'][yr]['subjects']],'inLanguage':'en','author':{'@id':orgid},'dateModified':date,'citation':[s['title']+'; '+s['location'] for s in ROADMAPS['academicSources'][:2]]}
         guide['citation']=[s['url'] for s in ROADMAPS['academicSources'][:2]]+[s['url'] for s in GUIDANCE['sources'] if s['id'] in GUIDANCE['years'][yr]['sources']]
         graph.append(guide);page['hasPart']={'@id':guide['@id']}
     if items is not None:
@@ -157,7 +156,7 @@ def discovery(date,index):
     (ROOT/'robots.txt').write_text(''.join(f'User-agent: {b}\nAllow: /\n\n' for b in bots)+'Sitemap: '+BASE+'/sitemap.xml\n')
     indexed={p:d for p,d in PAGES.items() if not d.get('noindex')}
     (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE+p}</loc><lastmod>{d["lastmod"]}</lastmod></url>\n' for p,d in indexed.items())+'</urlset>\n')
-    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: Dr. Chirag Patidar, BVSc & AH, MVSc. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
+    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: ThatVetGuy team. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
     mapping='## Sections and subject guides\n\n'+''.join(f'- [{d["title"]}]({BASE+p}): {d["description"]}\n  - Markdown: {BASE+p}index.md\n' for p,d in indexed.items())
     retrieval='\n## Machine retrieval\n\n- Full visible page content: '+BASE+'/llms-full.txt\n- Resource index: '+BASE+'/search-index.json\n- Sitemap: '+BASE+'/sitemap.xml\n- Search (noindex): '+BASE+'/search/\n\n## Community\n\n- Short notes: https://t.me/vetshortnotesbytvg\n- Jobs: https://t.me/jobupdatesbytvg\n- Requests and contact: '+BASE+'/request-resource/\n'
     (ROOT/'llms.txt').write_text(intro+mapping+retrieval)
