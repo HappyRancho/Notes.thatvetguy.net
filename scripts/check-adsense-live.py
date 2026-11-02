@@ -14,7 +14,7 @@ class Tags(HTMLParser):
   if t=='ins' and 'adsbygoogle' in a.get('class','').split():self.units.append(a)
  def handle_endtag(self,t):
   if t=='head':self.head=False
-urls=['https://thatvetguy.net/','https://thatvetguy.net/ads.txt','https://thatvetguy.net/robots.txt','https://notes.thatvetguy.net/ads.txt','https://notes.thatvetguy.net/','https://notes.thatvetguy.net/objective/','https://notes.thatvetguy.net/bvsc/year-1/roadmap/','https://notes.thatvetguy.net/books/dhruv-desai/']
+urls=['https://thatvetguy.net/','https://thatvetguy.net/ads.txt','https://www.thatvetguy.net/ads.txt','https://thatvetguy.net/robots.txt','https://notes.thatvetguy.net/ads.txt','https://notes.thatvetguy.net/','https://notes.thatvetguy.net/objective/','https://notes.thatvetguy.net/bvsc/year-1/roadmap/','https://notes.thatvetguy.net/books/dhruv-desai/']
 def fetch(url):
  for attempt in range(3):
   try:

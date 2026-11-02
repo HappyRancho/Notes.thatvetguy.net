@@ -11,7 +11,8 @@ try{
   const p=await c.newPage();for(const path of paths){
    const requests=[];const listener=req=>{if(req.url().includes('/pagead/js/adsbygoogle.js'))requests.push(req.url())};p.on('request',listener);
    await p.goto(base+path);await p.waitForTimeout(600);await p.evaluate(()=>document.fonts.ready);
-   const state=await p.evaluate(()=>({scripts:[...document.querySelectorAll('script[src*="adsbygoogle.js"]')].map(s=>({src:s.src,head:s.parentElement===document.head,async:s.async,crossorigin:s.crossOrigin})),units:document.querySelectorAll('ins.adsbygoogle,.rx-ad,[data-ad-slot]').length,manualRuntime:!!document.querySelector('script[src*="assets/adsense.js"]'),adFrames:[...document.querySelectorAll('iframe')].filter(f=>/google_ads|aswift/.test(f.id)).length,overflow:document.documentElement.scrollWidth>innerWidth}));
+   const state=await p.evaluate(()=>({scripts:[...document.querySelectorAll('script[src*="adsbygoogle.js"]')].map(s=>({src:s.src,head:s.parentElement===document.head,async:s.async,crossorigin:s.crossOrigin})),units:document.querySelectorAll('ins.adsbygoogle,.rx-ad,[data-ad-slot]').length,manualRuntime:!!document.querySelector('script[src*="assets/adsense.js"]'),frames:[...document.querySelectorAll('iframe')].map(f=>({id:f.id,width:f.getBoundingClientRect().width,height:f.getBoundingClientRect().height,visible:f.checkVisibility()})),adFrames:[...document.querySelectorAll('iframe')].filter(f=>/google_ads|aswift/.test(f.id)&&f.checkVisibility()&&f.getBoundingClientRect().width>1&&f.getBoundingClientRect().height>1).length,overflow:document.documentElement.scrollWidth>innerWidth}));
+   report.lastState={path,width,theme,...state};
    assert(state.scripts.length===1&&state.scripts[0].head&&state.scripts[0].async&&state.scripts[0].crossorigin==='anonymous','Loader configuration '+path);
    assert(state.scripts[0].src.endsWith('client=ca-pub-3524774459480835')&&requests.length===1,'Publisher or duplicate request '+path);
    assert(!state.units&&!state.manualRuntime&&!state.adFrames,'Unexpected advertisement '+path);assert(!state.overflow,'Overflow '+path);
@@ -23,4 +24,4 @@ try{
   assert(await p.locator('.rx-ad-frame').evaluate(e=>e.getBoundingClientRect().height===250),'Ad shell must reserve its height');assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'Responsive shell overflows');
   await c.close();
  }
-}catch(e){report.errors.push(e.stack||String(e))}finally{if(browser)await browser.close();if(server)server.kill();fs.writeFileSync(out+'/browser.json',JSON.stringify(report,null,2));console.log('ADSENSE_BROWSER '+JSON.stringify({views:report.views.length,errors:report.errors}));if(report.errors.length)process.exitCode=1}
+}catch(e){report.errors.push(e.stack||String(e))}finally{if(browser)await browser.close();if(server)server.kill();fs.writeFileSync(out+'/browser.json',JSON.stringify(report,null,2));console.log('ADSENSE_BROWSER '+JSON.stringify({views:report.views.length,errors:report.errors,lastState:report.errors.length?report.lastState:undefined}));if(report.errors.length)process.exitCode=1}
