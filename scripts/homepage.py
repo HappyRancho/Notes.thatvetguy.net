@@ -7,7 +7,7 @@ import json
 from html import escape as e
 from pathlib import Path
 from urllib.parse import quote
-from ui import icon, link
+from ui import icon, link, share_strip
 
 ROOT=Path(__file__).resolve().parent.parent
 CONTENT=json.loads((ROOT/'data/homepage.json').read_text())
@@ -137,6 +137,6 @@ def footer():
 
 def render(b):
     content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()
-    body='<div class="container rx-home">'+search()+'<div class="rx-content">'+content+'</div></div>'
+    body='<div class="container rx-home">'+search()+'<div class="rx-content">'+content+'</div>'+share_strip('home')+'</div>'
     mirror='<h1>Free Veterinary Academic Resources</h1><p>Thoughtfully organised for future vets.</p>'+content
     b.write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',b.geo.META['/']['summary'],body,home=True,mirror_body=mirror)

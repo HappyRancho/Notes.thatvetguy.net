@@ -2,6 +2,19 @@
 (()=>{'use strict';
 const $=(s,p=document)=>p.querySelector(s),$$=(s,p=document)=>[...p.querySelectorAll(s)];
 const root=document.documentElement,logic=window.NotesLogic;
+// Share the public homepage, with a copyable link when native sharing is unavailable.
+$$('[data-share-site]').forEach(button=>button.addEventListener('click',async()=>{
+ const wrap=button.closest('.rx-share-wrap'),status=$('.rx-share-status',wrap),field=$('.rx-share-link',wrap);
+ const url='https://notes.thatvetguy.net/';status.textContent='';field.hidden=true;button.disabled=true;
+ try{
+  if(typeof navigator.share==='function'){
+   try{await navigator.share({title:'Rx Notes by ThatVetGuy',text:'Spread good things in your circle — free veterinary notes, books and study resources.',url});return}
+   catch(error){if(error.name==='AbortError')return}
+  }
+  try{await navigator.clipboard.writeText(url);status.textContent='Link copied. Pass it on to your circle.'}
+  catch{field.hidden=false;field.focus();field.select();status.textContent='Select and copy this link to share it.'}
+ }finally{button.disabled=false}
+}));
 let storage;try{storage=localStorage}catch{storage={getItem:()=>null,setItem:()=>{throw Error('Storage unavailable')}}}
 const store=logic.store(storage),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const media=matchMedia('(prefers-color-scheme: dark)');
