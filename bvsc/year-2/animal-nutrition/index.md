@@ -16,7 +16,7 @@ Animal Nutrition focuses on understanding feeds, nutrient requirements and feedi
 ## Notes
 
 33 notes
-[Topic-wise Notes30 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes30 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -134,15 +134,15 @@ Unconventional Feed Ingredients[Open Unconventional Feed Ingredients](https://dr
 3 notes
 
 PDF
-ANN 211 Applied Nutrition-IITANUVAS · listed by VetBVSc[Open ANN 211 Applied Nutrition-II](https://vetbvsc.in/wp-content/uploads/2025/02/ann-211-applied-nutrition-ii-1.pdf)
+Principles of Animal Nutrition & Feed Technology.pdfTANUVAS[Open Principles of Animal Nutrition & Feed Technology.pdf](https://drive.google.com/file/d/1cZY1tI4mIVAhYxjPjlwx7yXTf1R2It2u/view)
 
 PDF
-ANN-111 Principles of Animal Nutrition and Feed TechnologyTANUVAS · listed by VetBVSc[Open ANN-111 Principles of Animal Nutrition and Feed Technology](https://vetbvsc.in/wp-content/uploads/2025/02/ann-111-principles-of-animal-nutrition-and-feed-technology-1.pdf)
+Applied Animal Nutrition - I(Ruminants).pdfTANUVAS[Open Applied Animal Nutrition - I(Ruminants).pdf](https://drive.google.com/file/d/1sVRyFzXKjwgXHy3YeqTZ5rhch5a55s3x/view)
 
 PDF
-ANN-121 Applied Nutrition- 1 (Ruminants)TANUVAS · listed by VetBVSc[Open ANN-121 Applied Nutrition- 1 (Ruminants)](https://vetbvsc.in/wp-content/uploads/2025/02/ann-121-applied-nutrition-1-ruminants-1.pdf)
+Applied Animal Nutrition - II(Non-ruminants, Poultry & Laboratory Animals).pdfTANUVAS[Open Applied Animal Nutrition - II(Non-ruminants, Poultry & Laboratory Animals).pdf](https://drive.google.com/file/d/1r49tMJHLFFsesRr2Y6AdJaH7xXaNzU3I/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -166,4 +166,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

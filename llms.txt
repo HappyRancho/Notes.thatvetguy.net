@@ -6,7 +6,7 @@ Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & 
 
 Main website: https://thatvetguy.net
 Author: ThatVetGuy team
-Last source review: 2026-11-01. File access settings can change.
+Last source review: 2026-11-02. File access settings can change.
 
 ## Sections and subject guides
 

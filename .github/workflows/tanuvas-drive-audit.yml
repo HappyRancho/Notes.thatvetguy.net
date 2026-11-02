@@ -1,0 +1,31 @@
+name: Inspect reorganized TANUVAS Drive
+on:
+  push:
+    branches: [homepage-approved-mockups]
+permissions:
+  contents: write
+jobs:
+  inventory:
+    if: contains(github.event.head_commit.message, '[tanuvas-drive-audit]')
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/inspect-tanuvas-drive.py
+      - name: Record the public hierarchy
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/tanuvas-drive-inventory.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record reorganized TANUVAS Drive hierarchy [generated]'
+            git push origin HEAD:homepage-approved-mockups
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: tanuvas-drive-inventory
+          path: data/tanuvas-drive-inventory.json

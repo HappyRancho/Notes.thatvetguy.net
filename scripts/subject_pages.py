@@ -3,6 +3,7 @@ from html import escape as e
 import re
 from library import slug,natural,normal
 from course_outlines import outline_url
+from tanuvas_drive import legacy_hashes
 
 def url(year,subject):return f'/bvsc/year-{year}/'+slug(subject)+'/'
 
@@ -33,7 +34,7 @@ def groups(b,rows,subject,category,level=3):
             unit=record['unit'];alias='' if unit in seen else '<span class="anchor-alias" id="'+subject['slug']+'-tanuvas-'+slug(unit)+'"></span>'
             seen.add(unit)
             return alias+file_card(builder,record)
-        return chunks(b,sorted(rows,key=lambda r:natural(r['title'])),course_row)
+        return chunks(b,sorted(rows,key=lambda r:(r.get('sourceOrder',100000),natural(r['title']))),course_row)
     result=[]
     for i,unit in enumerate(units):
         own=[r for r in rows if r['unit']==unit];code,title=unit_parts(unit);ident=subject['slug']+'-'+slug(unit)
@@ -57,6 +58,7 @@ def legacy_notes(b,y):
             anchors['file-'+r['id']]=r['permalink']
             anchors.setdefault(s['slug']+'-'+slug(r['unit']),target+'#'+s['slug']+('-tanuvas-' if 'tanuvas' in r['collections'] else '-')+slug(r['unit']))
             for alias in r['duplicateIds']+[v['id'] for v in r['variants'][1:]]:anchors['file-'+alias]=r['permalink']
+        anchors.update({ident:target+'#'+ident for ident in legacy_hashes(year,s['name'])})
         body+='<li>'+''.join('<span class="anchor-alias" id="'+ident+'" data-destination="'+e(dest,quote=True)+'"></span>' for ident,dest in anchors.items())+b.link(target,'<span><strong>'+e(s['name'])+'</strong><small>'+str(s['count'])+' '+('resource' if s['count']==1 else 'resources')+'</small></span>'+b.icon('chevron'),'academic-subject-card')+'</li>'
     body+='</ul></div></div>'
     b.write_page(path,label+' Veterinary Notes by Subject',desc,body,noindex=True)

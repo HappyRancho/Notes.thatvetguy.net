@@ -16,7 +16,7 @@ Veterinary Microbiology focuses on distinguishing infectious agents and the host
 ## Notes
 
 67 notes
-[Topic-wise Notes63 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+[Topic-wise Notes63 notes](#notes)[Unit-wise NotesTANUVAS · 4 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -237,18 +237,18 @@ Veterinary Virology Overall Note[Open Veterinary Virology Overall Note](https://
 4 notes
 
 PDF
-VMC 211 General Veterinary MicrobiologyTANUVAS · listed by VetBVSc[Open VMC 211 General Veterinary Microbiology](https://vetbvsc.in/wp-content/uploads/2025/02/VMC-211-1.pdf)
+General Veterinary Microbiology.pdfTANUVAS[Open General Veterinary Microbiology.pdf](https://drive.google.com/file/d/1bqO-fUpZawhj8bjCauMjoX-iRxbZgCy-/view)
 
 PDF
-VMC 221 Veterinary Immunology And SerologyTANUVAS · listed by VetBVSc[Open VMC 221 Veterinary Immunology And Serology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-221-veterinary-immunology-and-serology-1.pdf)
+Veterinary Immunology and Serology.pdfTANUVAS[Open Veterinary Immunology and Serology.pdf](https://drive.google.com/file/d/1CdXsG65dYrSCwR4qacJ-OZlEAdWSKDSu/view)
 
 PDF
-VMC 311 Systematic Veterinary Bacteriology And MycologyTANUVAS · listed by VetBVSc[Open VMC 311 Systematic Veterinary Bacteriology And Mycology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-311-systematic-veterinary-bacteriology-and-mycology-1.pdf)
+Systemic Veterinary Bacteriology and Mycology.pdfTANUVAS[Open Systemic Veterinary Bacteriology and Mycology.pdf](https://drive.google.com/file/d/1U61hMEo69enyGz5DqJJxZed0mEe2sXlg/view)
 
 PDF
-VMC 321 Systematic Veterinary VirologyTANUVAS · listed by VetBVSc[Open VMC 321 Systematic Veterinary Virology](https://vetbvsc.in/wp-content/uploads/2025/02/vmc-321-systematic-veterinary-virology-1.pdf)
+Systemic Veterinary Virology.pdfTANUVAS[Open Systemic Veterinary Virology.pdf](https://drive.google.com/file/d/175se8oWbLwFYOi4ovxUt8L3UzGn-hyet/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -276,4 +276,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

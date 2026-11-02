@@ -42,4 +42,4 @@ Primary collection: Rx Notes. File: Pocket Handbook of Small Animal Medicine (1)
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/handbooks/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.

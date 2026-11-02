@@ -16,7 +16,7 @@ Veterinary Anatomy focuses on relating structure to function across domestic ani
 ## Notes
 
 19 notes
-[Topic-wise Notes15 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+[Topic-wise Notes15 notes](#notes)[Unit-wise NotesTANUVAS · 4 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -85,18 +85,18 @@ Veterinary Embryology Notes[Open Veterinary Embryology Notes](https://drive.goog
 4 notes
 
 PDF
-VAN-111 Veterinary Gross Anatomy –ITANUVAS · listed by VetBVSc[Open VAN-111 Veterinary Gross Anatomy –I](https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-111-tanuvas.pdf)
+Veterinary Gross Anatomy - I(Osteology, Arthrology & Biomechanics).pdfTANUVAS[Open Veterinary Gross Anatomy - I(Osteology, Arthrology & Biomechanics).pdf](https://drive.google.com/file/d/1mJnqj3lB2LvYtq4LjQygW5y1HiDbj-Tf/view)
 
 PDF
-VAN-121 Veterinary Gross Anatomy- IITANUVAS · listed by VetBVSc[Open VAN-121 Veterinary Gross Anatomy- II](https://vetbvsc.in/wp-content/uploads/2025/02/anatomy-van-121.pdf)
+Veterinary Gross Anatomy - (Myology, Neurology, Angiology & Aesthesiology).pdfTANUVAS[Open Veterinary Gross Anatomy - (Myology, Neurology, Angiology & Aesthesiology).pdf](https://drive.google.com/file/d/1MtWOQmv0f5_p7EqMrtr0UWGsa_1ZfIFd/view)
 
 PDF
-VAN-211 Veterinary Histology and EmbryologyTANUVAS · listed by VetBVSc[Open VAN-211 Veterinary Histology and Embryology](https://vetbvsc.in/wp-content/uploads/2025/02/van-211-tanuvas.pdf)
+Veterinary Histology & Embryology.pdfTANUVAS[Open Veterinary Histology & Embryology.pdf](https://drive.google.com/file/d/1fXscLubfQfvsTjCWjgeKC4yEpV8WQcmO/view)
 
 PDF
-VAN-221 Veterinary Splanchnology And Applied AnatomyTANUVAS · listed by VetBVSc[Open VAN-221 Veterinary Splanchnology And Applied Anatomy](https://vetbvsc.in/wp-content/uploads/2025/02/van-221-splanchno.pdf)
+Veterinary Splancnology & Applied Anatomy.pdfTANUVAS[Open Veterinary Splancnology & Applied Anatomy.pdf](https://drive.google.com/file/d/1EOezzFDHL4eM3FCrEfIDi49CY4bmsibM/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -126,4 +126,4 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

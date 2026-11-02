@@ -26,10 +26,10 @@
             "1-VAG9uGZyWwdztZ6s5Sk4yMdjHNA-9nI",
             "1ofrM8JPNnH4tZUNAoeBbEOFPJ5mdEoG7",
             "17X59Z0T2ZObhsP6iIO3IxB8yW-B8zise",
-            "tanuvas-a240ff27a67c927577",
-            "tanuvas-4592eea910f6434b9b",
-            "tanuvas-59823e1aa0ff394eac",
-            "tanuvas-216315ab36b590d7a5"
+            "1MtWOQmv0f5_p7EqMrtr0UWGsa_1ZfIFd",
+            "1mJnqj3lB2LvYtq4LjQygW5y1HiDbj-Tf",
+            "1fXscLubfQfvsTjCWjgeKC4yEpV8WQcmO",
+            "1EOezzFDHL4eM3FCrEfIDi49CY4bmsibM"
           ]
         },
         {
@@ -41,7 +41,6 @@
           },
           "resourceIds": [
             "1KO7Lzb5LXW6yIy45tXwnM2oLHYqgRryR",
-            "1cOJOgFeO95LLwXiUOWKclIZghjYNevNV",
             "1lN7rD4i7BjkxbDv0ZwMCFeVLdeoeHPcq",
             "1kY_H7WiB3IATiBFRzrshXTwIEIreVlXL",
             "1AVaAZetnsD5hDImP7bGa8_1jHsntg2un",
@@ -53,22 +52,24 @@
             "1G4VB6Ruf6scRbOGp1wIK3aw2LVehJ3Cr",
             "1ThiSbeyYn-GCDEqvDQ0WagiRTZx8eR_N",
             "1Ji7mcCxsitxUa8sAh0uc3rt38Z_fzlQb",
-            "tanuvas-f0ac6816f9b6096d39",
-            "tanuvas-8f9640a9a4d85763ca"
+            "1X8wVsrNLF9khiSR63elBMC4sQHHKcBd_",
+            "11u5DiKITV6k3zAz5ioiQlc7gTvYtBaga",
+            "1DQoVj4hvavwsHA-2OuD4FNBstgcfDLWY"
           ]
         },
         {
           "name": "Livestock Production Management",
           "slug": "livestock-production-management",
-          "count": 29,
+          "count": 30,
           "groups": {
-            "notes": 29
+            "notes": 30
           },
           "resourceIds": [
-            "tanuvas-aae6e7ecda0ae1f517",
-            "tanuvas-8e2824e2841fa45060",
-            "tanuvas-32b729a73dd389fa5e",
-            "tanuvas-9fadb473c67ffdd86e",
+            "1TFS2Q8gMU0L2MjinWl5my35EF2walz5L",
+            "1xjtl6Q4eltepZd83BAUBrWMRuE69A5Ct",
+            "1Fp66umq_vdFLSZ6OGF6wHspjl56BVhlb",
+            "1o4rnKfqIAU-dcdDIaedJxoRg6XZMuAMq",
+            "1L9kv4IuopWM-n9ovntGyq9yx3XD_E2oW",
             "1AGbIMXNivCW5o-pFaPm7rbKehpUBqnoN",
             "1HJ6X0mF8E_7V_0RYdaNNozGVCBcq7sFi",
             "1x85Z3MK8berY8uBAWxHXnrFEznDs3Fry",
@@ -97,10 +98,10 @@
           ]
         }
       ],
-      "count": 63,
+      "count": 64,
       "extras": [],
-      "rawCount": 63,
-      "fileCount": 63
+      "rawCount": 64,
+      "fileCount": 64
     },
     {
       "year": 2,
@@ -108,11 +109,13 @@
         {
           "name": "Veterinary Biochemistry",
           "slug": "veterinary-biochemistry",
-          "count": 23,
+          "count": 24,
           "groups": {
-            "notes": 23
+            "notes": 24
           },
           "resourceIds": [
+            "13RG2i-x0LSXTzGhEgs9PoVEp3m4QMHsO",
+            "1-gLOO1moCnou6khlHNPhCdCyWRBxD19Z",
             "15hnEfRiNLEE-_PWVprarRDu3MRg-9zYY",
             "1x89uJKfHdUKYIqNukLs8xwzzp8HwQR9b",
             "1-E_1oxIN4x4IQCI2fYsZOWws_0zTNrHO",
@@ -134,8 +137,7 @@
             "1wLhpYYGnvMcn8JRJ4eWM6hwDfiYEB4DS",
             "1TM15K93D84FgVBeAMpeDM2Rjg7C10rMG",
             "1oQX9ZPTR2ubX_nERVpyWKr6CCaQ10rZb",
-            "tanuvas-28e8e22b829dc09f95",
-            "tanuvas-a18c3b0a11e67fd451"
+            "1pgYWiiRvy4-5raTD8vcYBxr2HNaKR7mr"
           ]
         },
         {
@@ -146,6 +148,9 @@
             "notes": 67
           },
           "resourceIds": [
+            "1bqO-fUpZawhj8bjCauMjoX-iRxbZgCy-",
+            "1U61hMEo69enyGz5DqJJxZed0mEe2sXlg",
+            "175se8oWbLwFYOi4ovxUt8L3UzGn-hyet",
             "1f1O_7UQdwCgEPp8JurA5Qlv0cCf14_kN",
             "1e-p_i_joWSph_UjcuQgNDjEmPDmxGexH",
             "1hOjZoELlfMzPxImqGlpUYCqyW7tcwFKr",
@@ -209,20 +214,22 @@
             "1QV1lI2cDCO2pMt05GhdJoZozUAdiS2f6",
             "10nke7B2QTC-VrheN9mPfyIV_aq4hvzbN",
             "1BrDcnVBIbSX4GhaMWkARDvm-YGQnMLiO",
-            "tanuvas-7b3fe113f519aa39e0",
-            "tanuvas-e68e63191275fc8e67",
-            "tanuvas-7199850f921ed4bfd0",
-            "tanuvas-8efdd47d9a4dbf9bc1"
+            "1CdXsG65dYrSCwR4qacJ-OZlEAdWSKDSu"
           ]
         },
         {
           "name": "Veterinary Pathology",
           "slug": "veterinary-pathology",
-          "count": 52,
+          "count": 53,
           "groups": {
-            "notes": 52
+            "notes": 53
           },
           "resourceIds": [
+            "1BS5GB-jpWzdWYNE7CcmBJZTaCrmi4IWJ",
+            "1xj5hSGVRUaluQn6BnRNryWou3Okj--Hr",
+            "1Jk3YYq-AHsWZVjMXMRze5wy9lNiwEatc",
+            "1tbGvqzABD3nAbR1o5ekCOYSAMQL89Nr0",
+            "13Y6IeR24ZeqC6Efh-lCIvAQKtQVUjScO",
             "12qH_M5E9iEUuN554pPOjrm-jDwd-pjUP",
             "1LspljoGHHw1AiFnX1pDYjRbOmKDLF7dC",
             "1ke3NI7JH8jgcR6ZeUeOaXZLt1XX1sL5k",
@@ -270,11 +277,7 @@
             "18dMEUhdMlhgDh7xNpqwMgRriEyhjicOd",
             "1qXR72fmDHTDJF6OookkhY1RYfR42TiNA",
             "1UaPagZbp-7nxLzWKtAqMI0mkn95ZjwlF",
-            "1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL",
-            "tanuvas-2e62388b8442f0ab95",
-            "tanuvas-3960a97ac3fa06f531",
-            "tanuvas-7665f98c27c5951327",
-            "tanuvas-7595d0ff8a8fd7c032"
+            "1ksFfkKjREuxYsGqZnWoXJX7qgiBlQqzL"
           ]
         },
         {
@@ -285,9 +288,9 @@
             "notes": 48
           },
           "resourceIds": [
-            "tanuvas-8e65bbc2a6e017a0f4",
-            "tanuvas-8163e18a0fb3652abd",
-            "tanuvas-9754615e9e90e7af81",
+            "1HO6D_IBj0muCKJjiTq_QxSufbBDQ2jT4",
+            "1fXJo1Rt32KLoBQxo2ED50FQ6tfZDg9j1",
+            "1xcynU_qBu3bI-3lJ8IhbR0iqsegraIFT",
             "16_dng4BTAZRQiTFoac6SFE0X8nZ497ZD",
             "1_M7m5N5pmHVydSGZIetQi2v2w3L1CXGV",
             "1XiCkmx9J0P01yipLtS_8lC793iZ0FN6u",
@@ -343,9 +346,9 @@
             "notes": 33
           },
           "resourceIds": [
-            "tanuvas-75096a726d023fa51d",
-            "tanuvas-0fda36c330ea1bab4e",
-            "tanuvas-1545f30134be435b5d",
+            "1sVRyFzXKjwgXHy3YeqTZ5rhch5a55s3x",
+            "1r49tMJHLFFsesRr2Y6AdJaH7xXaNzU3I",
+            "1cZY1tI4mIVAhYxjPjlwx7yXTf1R2It2u",
             "1gMgO4jwRNG1fca2SAVQhSlt3NqbF8Sm9",
             "1Btdb3TxEQO8rJeCDeT0D32GkZl9cwIiT",
             "1JThVtR7woX1TZXdEXlVrsa8LfGMZR2Eg",
@@ -379,10 +382,10 @@
           ]
         }
       ],
-      "count": 223,
+      "count": 225,
       "extras": [],
-      "rawCount": 223,
-      "fileCount": 223
+      "rawCount": 225,
+      "fileCount": 225
     },
     {
       "year": 3,
@@ -395,6 +398,7 @@
             "notes": 31
           },
           "resourceIds": [
+            "1aNeV3jeRp-dp0oN0B3m22qVeMtGgUqVT",
             "1jvPHw1ELFsIGSDxMWUsX8RHmHpXebEh9",
             "1q4bdnC-rttiPMMyMbhf35ErKHy_SzGeT",
             "11XmEsBUWnEGqALvnKU8tTTl-NSCz4LgA",
@@ -422,20 +426,20 @@
             "1x0btw5V5JU18SfjQflWu0Z3_45nT4agC",
             "1MSf3Em3drGbth-qhpMenQly6ARAGOvRr",
             "1koOSAWiSDcyXIxeLkfBT1tmEiedD4Wzu",
-            "tanuvas-ad1bc125cc713fa59a",
-            "tanuvas-ad20907ccd018cf7d1",
-            "tanuvas-7850b7fea3a950fcdb",
-            "tanuvas-830298dc73f5d32fe4"
+            "16rzIk66JVXH1yPBjQyehScRA_JAiJtpo",
+            "13rto_XK_JHT6DEQqMvcCuzHRpwKUlWdM",
+            "1kaEjjxeyafuCO7iKcCNqSkalj9CdmT7F"
           ]
         },
         {
           "name": "Veterinary Parasitology",
           "slug": "veterinary-parasitology",
-          "count": 50,
+          "count": 49,
           "groups": {
-            "notes": 50
+            "notes": 49
           },
           "resourceIds": [
+            "1UrV24pJZJWn7p4p1UXf-ac9gDSumEis2",
             "10_zxvjAdbkJ8ots_sjK4S2aFJxAX4dK9",
             "1nBmXiERmNFbJAMvgWJiDqs7OWrJhSRLF",
             "1-bx-xkJFUG98Q1HE7PqE4nsXgCdpCbSN",
@@ -482,10 +486,8 @@
             "1KkuQ3zk6ZJcmmVVbh-ErKgk4RwGIXZbj",
             "1ASO8cl3rBGItKZniGfMYDk04S4xoAIhR",
             "1CZI5OUbNThzh0WUKwWY7DFYSFxTyudfn",
-            "1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k",
-            "tanuvas-8ac1ab24b34875c74e",
-            "tanuvas-50d455d3b407629d78",
-            "tanuvas-0e8f81a4680616b274"
+            "1er0HaPhUWTuP8q1SA377Kc9Dd_xO4Ybv",
+            "1mE0LdfnKnwVcNmeZsLIf9eCyWl-7-z3d"
           ]
         },
         {
@@ -496,6 +498,8 @@
             "notes": 38
           },
           "resourceIds": [
+            "19hKwkQknmKpKXWXYmLxeF8Y7aiXdW4jz",
+            "18rjMTk3_M4XVBwLqVFVHlaEgVd2dI6-5",
             "1qOGQ88LK_WPCYaczN5B-qr77MCqM_RHP",
             "1_RcTiy6v4CJpHbKsvTIMOYnc-krHtuYs",
             "1B6nGJPe6wZ8Q6kMFqo5KTOS8hxVLp8kQ",
@@ -531,9 +535,7 @@
             "1UmOf5kLRtioqrxAKFdttc8W_19cgdbpB",
             "1YYO0oGZcvN3gUMMFbLNwMvMvg3YcJHbU",
             "1DumDtiG3vdMlHug2sV3QgfwWJuI0_-p-",
-            "tanuvas-57baa9b11145fd22cb",
-            "tanuvas-cdd381ca5a135c4b60",
-            "tanuvas-b49b6feba3bacf870c"
+            "1-jYjiF-aa1xim4VcYTEchzQX8OtgHDvY"
           ]
         },
         {
@@ -544,9 +546,9 @@
             "notes": 49
           },
           "resourceIds": [
-            "tanuvas-2485877b5d3702ce02",
-            "tanuvas-b00b3cc5da5b5c0286",
-            "tanuvas-ab4c2774328381bd7b",
+            "1UVfDGFVVet2lNVZyQkT3I35IsgWRIRZa",
+            "1DLa2ePAuPeZUCiv4LlwRAIx_91js4xnJ",
+            "17hUHHmVEqf4_QyaJ2UqX80vgz4dj1sEY",
             "1svCrcIi4ceCoCp6pf4tAYCcfVGdexysb",
             "1dRklNbpfrdBb-YoQWKP8R_qZ06vux-A3",
             "1iwPIm6WlZ-n55a1qtssQGSV0rYJ-kAYl",
@@ -598,11 +600,14 @@
         {
           "name": "Veterinary and Animal Husbandry Extension Education",
           "slug": "veterinary-and-animal-husbandry-extension-education",
-          "count": 25,
+          "count": 26,
           "groups": {
-            "notes": 25
+            "notes": 26
           },
           "resourceIds": [
+            "18yuw1QSjiNN0Bi2QWNDk7dR5JqpeCOZV",
+            "1tpc8rD0IXMXsEbzcaSilMGNZBCIuAiqz",
+            "134p4lPa5k1eueb2yL6oaeBwNTVo1KMM_",
             "1ihGFxdZ3hGq09sPdbGe_Io_2MakF-lw5",
             "1cGxtgj5kZn_Tjm6KM-tVnm0pdxeqkydL",
             "18ydS53eeJomMPxTVthCRR9CJ0qa67NDT",
@@ -625,9 +630,7 @@
             "1dPJ_1c7liDD3tPPn3ZqZjCmlie2gZLr6",
             "1q8FKrva2t_meCAW3oIpIWKwv-4iwofeO",
             "1GC9MOdz3KwfcGWDxu88ts9F4GWcLfMm3",
-            "12EAS1o4GHCpAvou4pASwrJD-_THHhGeX",
-            "tanuvas-bba8df4d430f7f95c6",
-            "tanuvas-98209b61b6e8c3e754"
+            "12EAS1o4GHCpAvou4pASwrJD-_THHhGeX"
           ]
         },
         {
@@ -664,14 +667,16 @@
         {
           "name": "Veterinary Medicine",
           "slug": "veterinary-medicine",
-          "count": 23,
+          "count": 29,
           "groups": {
-            "notes": 23
+            "notes": 29
           },
           "resourceIds": [
             "17nlJDxn-6r79mmyY5eTzMGVA4dOFdYXJ",
             "1jAzZ6qbURtk37Za6MmKBeyNyoT8BKCfH",
             "1ylkmnKTMb2gdePkaAKLvEM1On1PBsSCU",
+            "1KpCBIkYCdA49Da0Arq9CKrTQ2jpYrXZi",
+            "1yVN-FkqlS9L5GsRsfDuegGCwCz8hc_We",
             "1fEl_Fc3D5rMXvkFAL14KqIVzy1_hgh-m",
             "1N1gVdLaljq7AhJ3e0_-kdRSl4-iY9tVA",
             "1_tkl6YFsO8LeYCZNpJt27nRZIjeQO4uZ",
@@ -690,22 +695,28 @@
             "197xDJa3Am57ZEohPjvNPSgfTRSPTcoCQ",
             "1uY2HQwK9yoLQ1lD4uymIuLJqgzy4_2sH",
             "1ciw_By2QeasUhPeHFxm9KQg1brYec-kV",
-            "14Zo51O6tgACim6OzSVIw0XGItdjgce8T",
-            "1v-NH4PsLAmh2euiUMUSWjwN0AdlUBu3e"
+            "1v-NH4PsLAmh2euiUMUSWjwN0AdlUBu3e",
+            "1CpUepv2525hU2Hr2Bdl21CRraSwN-H16",
+            "1_zC9WNbeQ8VNaXYtddycUbzx9DVCeMZz",
+            "1HM_fHQ3xfC01WhyhOgcPlSBykMDY9naw",
+            "11iJFN4JJ0WLqXXGSHjbF8aV9Y1lYHBnC",
+            "1ZrepbgvrLybGHGTF_FTHqC4b-iANN4hl"
           ]
         },
         {
           "name": "Veterinary Surgery and Radiology",
           "slug": "veterinary-surgery-and-radiology",
-          "count": 23,
+          "count": 25,
           "groups": {
-            "notes": 23
+            "notes": 25
           },
           "resourceIds": [
             "1BITtbWXIPy4R0i1kQz1ezAPyNG1aomiU",
             "12hseXIppM1376EIQjbyZsRT6XSrijM7l",
             "1v0NWrTEOZPztrCH9kEKTswvH7gz9qafB",
             "1um601lvkyKJDKQqhoJ59aEyO1knB2iRX",
+            "1eLqhKWTF1tGYrqWb3YDeF5caIyf-o1aI",
+            "1N_LeQjMgdmHLBqUV8r9NpRv8vXPcwiE-",
             "1O_mEAfwD8Xl3ZKxY84amGfHRg3GD9Yuk",
             "1pHbznMH3RLQwC_ANanejnh0ctuVUmCF5",
             "1GYTCj_tUTjoowBtjKxO9O2NOTa8QurbI",
@@ -724,15 +735,15 @@
             "1__Pl7bL-hmpmxdigoqTcsr-gOC_gJT6S",
             "1rOaWNLc9WuTWMxEJvwacCkxGcCHW_pCi",
             "1hFMUUYYkE4FCf_YSr-DoJgnk26O6ym2S",
-            "1UCcfQK4ebhIQikk2exqcXxJCcCd1raO_"
+            "1X4WZY7e9QxerVLFprA4PDnLjstUY0KQH"
           ]
         },
         {
           "name": "Veterinary Gynaecology and Obstetrics",
           "slug": "veterinary-gynaecology-and-obstetrics",
-          "count": 13,
+          "count": 14,
           "groups": {
-            "notes": 13
+            "notes": 14
           },
           "resourceIds": [
             "1AKLg8XOEzxBu8Q9MqkEU-Cv67-8jSD6B",
@@ -742,12 +753,13 @@
             "11TCNrQ9J2hznPONP65OGyJEgVeTOvNNR",
             "1URNwvtfTyCzS0zA1iLTW2cfMiBrtP13H",
             "1mlDj00eiatKj0EXaz7RV-J4R70vaP4V1",
-            "11YlCJulYov70ZCtrc05P3daHtp2VFn-r",
-            "10MYo0iILewFOJoY75HkdlLelJ50SlIRY",
             "1XAlIcqJsEZwptRcQyG6OK6aGkneVV7-n",
             "1kxVOV0V-yP7jhgxAJUdhLmWOs4BaO3A1",
             "1WMGHtLML8XYPIuhdcKZxbg-pNTYhCVQZ",
-            "1Ef69on82Q3UzeyQgpsEDsqRtcSsWy5lk"
+            "1Ef69on82Q3UzeyQgpsEDsqRtcSsWy5lk",
+            "1ppl4sU0IouRCWXMeWnkpSn5mgsXKLAUo",
+            "1R1iCL_sj2PcQ1ogInIONKVrOl2uyvkGb",
+            "1mEXIl7c3Gx_KBJmCGqsCQ_CLMuPUkmq7"
           ]
         },
         {
@@ -758,10 +770,10 @@
           "resourceIds": []
         }
       ],
-      "count": 59,
+      "count": 68,
       "extras": [],
-      "rawCount": 59,
-      "fileCount": 59
+      "rawCount": 68,
+      "fileCount": 68
     }
   ],
   "cleanup": {

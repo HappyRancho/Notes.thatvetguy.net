@@ -60,4 +60,4 @@ Colour handbook of Small Animal Emergency and Critical care.
 
 Open a book to view or download its PDF in Google Drive. Use clinical references alongside supervised training and current guidance.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

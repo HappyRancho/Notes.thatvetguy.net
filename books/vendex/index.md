@@ -35,4 +35,4 @@ Primary collection: Rx Notes. File: VENDEX- The Fundamental Veterinary Drug Inde
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.

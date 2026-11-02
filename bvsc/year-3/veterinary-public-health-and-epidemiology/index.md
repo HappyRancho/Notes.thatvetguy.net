@@ -16,7 +16,7 @@ Veterinary Public Health and Epidemiology focuses on connecting animal health, h
 ## Notes
 
 38 notes
-[Topic-wise Notes35 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes35 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -149,15 +149,15 @@ Noise and Radiation Pollution[Open Noise and Radiation Pollution](https://drive.
 3 notes
 
 PDF
-VPE-311 Milk and Meat Hygiene, Food Safety and Public HealthTANUVAS · listed by VetBVSc[Open VPE-311 Milk and Meat Hygiene, Food Safety and Public Health](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-311-tanuvas.pdf)
+Milk & Meat Hygiene, food safety and Public health.pdfTANUVAS[Open Milk & Meat Hygiene, food safety and Public health.pdf](https://drive.google.com/file/d/18rjMTk3_M4XVBwLqVFVHlaEgVd2dI6-5/view)
 
 PDF
-VPE-321 Veterinary Epidemiology And ZoonosesTANUVAS · listed by VetBVSc[Open VPE-321 Veterinary Epidemiology And Zoonoses](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-321-tanuvas.pdf)
+Veterinary Epidemiology and Zoonosis.pdfTANUVAS[Open Veterinary Epidemiology and Zoonosis.pdf](https://drive.google.com/file/d/1-jYjiF-aa1xim4VcYTEchzQX8OtgHDvY/view)
 
 PDF
-VPE–511 Environment and Environmental HygieneTANUVAS · listed by VetBVSc[Open VPE–511 Environment and Environmental Hygiene](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpe-511-tanuvas.pdf)
+Environment and Environmental Hygiene.pdfTANUVAS[Open Environment and Environmental Hygiene.pdf](https://drive.google.com/file/d/19hKwkQknmKpKXWXYmLxeF8Y7aiXdW4jz/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -177,4 +177,4 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

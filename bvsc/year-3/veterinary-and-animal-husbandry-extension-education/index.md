@@ -15,8 +15,8 @@ Veterinary and Animal Husbandry Extension Education focuses on communicating ani
 
 ## Notes
 
-25 notes
-[Topic-wise Notes23 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)
+26 notes
+[Topic-wise Notes23 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -126,15 +126,18 @@ Contemporary Issues in Livestock Enterprises[Open Contemporary Issues in Livesto
 
 ### TANUVAS Notes
 
-2 notes
+3 notes
 
 PDF
-VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionTANUVAS · listed by VetBVSc[Open VAE-311 Principles And Techniques of Veterinary And Animal Husbandry Extension](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae311.pdf)
+Principles & Techniques of Veterinary and A.H Extension.pdfTANUVAS[Open Principles & Techniques of Veterinary and A.H Extension.pdf](https://drive.google.com/file/d/134p4lPa5k1eueb2yL6oaeBwNTVo1KMM_/view)
 
 PDF
-VAE-321 Livestock Economics, Marketing And Business ManagementTANUVAS · listed by VetBVSc[Open VAE-321 Livestock Economics, Marketing And Business Management](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vae_321_livestock_economics_marketing.pdf)
+Livestock Economics, Marketing and Business Management.pdfTANUVAS[Open Livestock Economics, Marketing and Business Management.pdf](https://drive.google.com/file/d/18yuw1QSjiNN0Bi2QWNDk7dR5JqpeCOZV/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Livestock Entreprenuership.pdfTANUVAS[Open Livestock Entreprenuership.pdf](https://drive.google.com/file/d/1tpc8rD0IXMXsEbzcaSilMGNZBCIuAiqz/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -156,4 +159,4 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

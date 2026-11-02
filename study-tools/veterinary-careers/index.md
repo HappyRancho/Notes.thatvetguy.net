@@ -749,4 +749,4 @@ Manitoba regulator explains removal of the NEB PSA requirement in June 2026 and 
 
 [Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.

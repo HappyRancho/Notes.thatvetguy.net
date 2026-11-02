@@ -15,8 +15,8 @@ Veterinary Biochemistry focuses on linking molecular processes with animal healt
 
 ## Notes
 
-23 notes
-[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 2 collections](#tanuvas)
+24 notes
+[Topic-wise Notes21 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -100,15 +100,18 @@ Liver Function Tests[Open Liver Function Tests](https://drive.google.com/file/d/
 
 ### TANUVAS Notes
 
-2 notes
+3 notes
 
 PDF
-VPB 112 General Veterinary BiochemistryTANUVAS · listed by VetBVSc[Open VPB 112 General Veterinary Biochemistry](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-112-general-veterinary-biochemistry-1.pdf)
+General Veterinary Biochemistry.pdfTANUVAS[Open General Veterinary Biochemistry.pdf](https://drive.google.com/file/d/1-gLOO1moCnou6khlHNPhCdCyWRBxD19Z/view)
 
 PDF
-VPB 122 Veterinary Intermediary MetabolismTANUVAS · listed by VetBVSc[Open VPB 122 Veterinary Intermediary Metabolism](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-122-veterinary-intermediary-metabolism-1.pdf)
+Veterinary Intermediary Metabolism.pdfTANUVAS[Open Veterinary Intermediary Metabolism.pdf](https://drive.google.com/file/d/1pgYWiiRvy4-5raTD8vcYBxr2HNaKR7mr/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Animal Biotechnology.pdfTANUVAS[Open Animal Biotechnology.pdf](https://drive.google.com/file/d/13RG2i-x0LSXTzGhEgs9PoVEp3m4QMHsO/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -128,4 +131,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

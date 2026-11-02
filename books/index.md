@@ -1,11 +1,11 @@
-<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Books
 
 # Veterinary Books Library
 
-Subject books, objective resources and clinical handbooks for BVSc & AH study. Open a book for its details, cover and available Telegram or Google Drive access.
+Subject books, objective resources and clinical handbooks for BVSc & AH study. Open a book for its details, cover and available download links.
 
 [1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)[Objective & Competition](#objective)[Clinical References](#clinical)
 
@@ -225,4 +225,4 @@ Show 7 more 7 remaining
 
 [Veterinary Practice HandbookRK Chandolia · Google Drive](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

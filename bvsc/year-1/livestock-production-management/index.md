@@ -15,8 +15,8 @@ Livestock Production Management focuses on connecting animal husbandry principle
 
 ## Notes
 
-29 notes
-[Topic-wise Notes25 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+30 notes
+[Topic-wise Notes25 notes](#notes)[Unit-wise NotesTANUVAS · 5 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -136,21 +136,24 @@ Swine Production Management Note[Open Swine Production Management Note](https://
 
 ### TANUVAS Notes
 
-4 notes
+5 notes
 
 PDF
-LPM -121 Fodder Production and Grassland ManagementTANUVAS · listed by VetBVSc[Open LPM -121 Fodder Production and Grassland Management](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-121-fodder.pdf)
+Livestock Production Management - I(General Principles and Ruminants).pdfTANUVAS[Open Livestock Production Management - I(General Principles and Ruminants).pdf](https://drive.google.com/file/d/1o4rnKfqIAU-dcdDIaedJxoRg6XZMuAMq/view)
 
 PDF
-LPM -122 Livestock Production Management-IITANUVAS · listed by VetBVSc[Open LPM -122 Livestock Production Management-II](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-122.pdf)
+Fodder Prodcution and Grassland Management.pdfTANUVAS[Open Fodder Prodcution and Grassland Management.pdf](https://drive.google.com/file/d/1Fp66umq_vdFLSZ6OGF6wHspjl56BVhlb/view)
 
 PDF
-LPM-111 Livestock Production Management-ITANUVAS · listed by VetBVSc[Open LPM-111 Livestock Production Management-I](https://vetbvsc.in/wp-content/uploads/2025/02/lpm-111.pdf)
+Livestock Production Management - II(Monogastric and Laboratory Animals).pdfTANUVAS[Open Livestock Production Management - II(Monogastric and Laboratory Animals).pdf](https://drive.google.com/file/d/1L9kv4IuopWM-n9ovntGyq9yx3XD_E2oW/view)
 
 PDF
-LPM-211 Avian Production ManagementTANUVAS · listed by VetBVSc[Open LPM-211 Avian Production Management](https://vetbvsc.in/wp-content/uploads/2025/02/copy-of-lpm-211.pdf)
+Avian Production Management.pdfTANUVAS[Open Avian Production Management.pdf](https://drive.google.com/file/d/1TFS2Q8gMU0L2MjinWl5my35EF2walz5L/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Commercial Poultry Production  and Hatchery Management.pdfTANUVAS[Open Commercial Poultry Production  and Hatchery Management.pdf](https://drive.google.com/file/d/1xjtl6Q4eltepZd83BAUBrWMRuE69A5Ct/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -174,4 +177,4 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

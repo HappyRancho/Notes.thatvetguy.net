@@ -15,8 +15,8 @@ Veterinary Parasitology focuses on understanding parasite life cycles and their 
 
 ## Notes
 
-50 notes
-[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 4 collections](#tanuvas)
+49 notes
+[Topic-wise Notes46 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -183,21 +183,18 @@ Veterinary Parasitology Titbits by Dr.Srikanth Vallabhaneni[Open Veterinary Para
 
 ### TANUVAS Notes
 
-4 notes
-
-DOCX
-Veterinary Entomology (TANUVAS)TANUVAS · listed by VetBVSc[Open Veterinary Entomology (TANUVAS)](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-211-entomology.docx)
+3 notes
 
 PDF
-Veterinary Protozoology Note by TANUVASTANUVAS[Open Veterinary Protozoology Note by TANUVAS](https://drive.google.com/file/d/1KWRcp3rouWGJoe06QDSrDWDHUMXF_H0k/view?usp=sharing)
+General Veterinary Parasitology & Helminthology.pdfTANUVAS[Open General Veterinary Parasitology & Helminthology.pdf](https://drive.google.com/file/d/1UrV24pJZJWn7p4p1UXf-ac9gDSumEis2/view)
 
 PDF
-VPA-221 Veterinary Entomology And AcarologyTANUVAS · listed by VetBVSc[Open VPA-221 Veterinary Entomology And Acarology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/01/vpa-221-entomology.pdf)
+Veterinary Entomology and Acarology.pdfTANUVAS[Open Veterinary Entomology and Acarology.pdf](https://drive.google.com/file/d/1er0HaPhUWTuP8q1SA377Kc9Dd_xO4Ybv/view)
 
-DOCX
-VPA-222 Veterinary ProtozoologyTANUVAS · listed by VetBVSc[Open VPA-222 Veterinary Protozoology](https://himanshuvet.wordpress.com/wp-content/uploads/2021/05/vpa-222-proto.docx)
+PDF
+Veterinary Protozoology.pdfTANUVAS[Open Veterinary Protozoology.pdf](https://drive.google.com/file/d/1mE0LdfnKnwVcNmeZsLIf9eCyWl-7-z3d/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -219,4 +216,4 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

@@ -38,3 +38,6 @@
 .vault-source a{display:inline-flex;align-items:center;gap:5px;min-height:48px}.vault-source .icon-svg{flex-shrink:0}
 .vault-preparation .practical-checklist-link{color:var(--text)}
 .rx-inner .practical-vault .vault-folder>a.file-open{height:auto;min-height:76px;line-height:1.5}
+
+/* Match the disclosure wording and arrow to its actual open state. */
+.subject-more-books .books-show-less,.subject-more-books[open] .books-show-more{display:none}.subject-more-books[open] .books-show-less{display:inline}.subject-more-books[open]>summary>.icon-svg{transform:rotate(90deg)}

@@ -15,8 +15,8 @@ Veterinary Surgery and Radiology focuses on understanding surgical principles al
 
 ## Notes
 
-23 notes
-[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)
+25 notes
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -119,12 +119,18 @@ Veterinary X-Ray Plates[Open Veterinary X-Ray Plates](https://drive.google.com/f
 
 ### TANUVAS Notes
 
-1 note
+3 notes
 
 PDF
-Orthopedics and Lameness Note by TANUVASTANUVAS[Open Orthopedics and Lameness Note by TANUVAS](https://drive.google.com/file/d/1UCcfQK4ebhIQikk2exqcXxJCcCd1raO_/view?usp=sharing)
+General Veterinary Surgery, Anesthesiology and Diagnostic Imaging.pdfTANUVAS[Open General Veterinary Surgery, Anesthesiology and Diagnostic Imaging.pdf](https://drive.google.com/file/d/1eLqhKWTF1tGYrqWb3YDeF5caIyf-o1aI/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Regional Veterinary Surgery.pdfTANUVAS[Open Regional Veterinary Surgery.pdf](https://drive.google.com/file/d/1N_LeQjMgdmHLBqUV8r9NpRv8vXPcwiE-/view)
+
+PDF
+Veterinary Orthopedics and Lameness.pdfTANUVAS[Open Veterinary Orthopedics and Lameness.pdf](https://drive.google.com/file/d/1X4WZY7e9QxerVLFprA4PDnLjstUY0KQH/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -150,7 +156,7 @@ Try a shorter title or another collection.
 
 [Ruminant Surgery](https://notes.thatvetguy.net/books/ruminant-surgery/)
 
-Show 3 more books
+Show 3 more booksShow fewer books
 
 [Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
 
@@ -162,4 +168,4 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

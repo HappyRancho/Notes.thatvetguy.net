@@ -10,6 +10,8 @@ def check_policy():
  data=json.loads((ROOT/'data/resources.json').read_text());allowed={v['url'] for r in data['files'] for v in r['variants']}|{v['download'] for r in data['files'] for v in r['variants'] if v.get('download')};telegram={'https://t.me/vetshortnotesbytvg','https://t.me/jobupdatesbytvg'};errors=[];counts=0
  from book_catalogue import books
  allowed|={b['primaryUrl'] for b in books() if b.get('primaryUrl')}
+ tanuvas=json.loads((ROOT/'data/tanuvas-source.json').read_text())
+ allowed|={tanuvas['rootUrl']}|{s['url'] for s in tanuvas['subjectFolders']}
  from study_tools import allowed_urls
  tool_allowed=allowed_urls()
  # Reviewed citations belong only to their corresponding roadmap, not the catalogue.

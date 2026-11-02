@@ -15,8 +15,8 @@ Veterinary Medicine focuses on organising clinical reasoning around animal disea
 
 ## Notes
 
-23 notes
-[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 1 collection](#tanuvas)
+29 notes
+[Topic-wise Notes22 notes](#notes)[Unit-wise NotesTANUVAS · 7 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -123,12 +123,30 @@ List of All Diseases of Veterinary (PVM)[Open List of All Diseases of Veterinary
 
 ### TANUVAS Notes
 
-1 note
+7 notes
 
 PDF
-Animal Welfare, Ethics and Jurisprudence by TANUVASTANUVAS[Open Animal Welfare, Ethics and Jurisprudence by TANUVAS](https://drive.google.com/file/d/14Zo51O6tgACim6OzSVIw0XGItdjgce8T/view?usp=sharing)
+Veterinary Clinical Medicine - I(General & Systemic).pdfTANUVAS[Open Veterinary Clinical Medicine - I(General & Systemic).pdf](https://drive.google.com/file/d/1CpUepv2525hU2Hr2Bdl21CRraSwN-H16/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+PDF
+Veterinary Preventive Medicine - I (Bacterial, Fungal & Rickettsial Diseases).pdfTANUVAS[Open Veterinary Preventive Medicine - I (Bacterial, Fungal & Rickettsial Diseases).pdf](https://drive.google.com/file/d/1HM_fHQ3xfC01WhyhOgcPlSBykMDY9naw/view)
+
+PDF
+Veterinary Clinical Medicine - II(Metabolic & Deficiency Diseases).pdfTANUVAS[Open Veterinary Clinical Medicine - II(Metabolic & Deficiency Diseases).pdf](https://drive.google.com/file/d/1_zC9WNbeQ8VNaXYtddycUbzx9DVCeMZz/view)
+
+PDF
+Veterinary Preventive Medicine - II (Viral & Parasitic Diseases).pdfTANUVAS[Open Veterinary Preventive Medicine - II (Viral & Parasitic Diseases).pdf](https://drive.google.com/file/d/11iJFN4JJ0WLqXXGSHjbF8aV9Y1lYHBnC/view)
+
+PDF
+Animal Welfare, Ethics & Jurisprudence.pdfTANUVAS[Open Animal Welfare, Ethics & Jurisprudence.pdf](https://drive.google.com/file/d/1KpCBIkYCdA49Da0Arq9CKrTQ2jpYrXZi/view)
+
+PDF
+Zoo,Wild Animal Breeding, Management, Nutrition and Health Care.pdfTANUVAS[Open Zoo,Wild Animal Breeding, Management, Nutrition and Health Care.pdf](https://drive.google.com/file/d/1ZrepbgvrLybGHGTF_FTHqC4b-iANN4hl/view)
+
+PDF
+Pet Animal Breeding, Management, Nutrition and Health Care.pdfTANUVAS[Open Pet Animal Breeding, Management, Nutrition and Health Care.pdf](https://drive.google.com/file/d/1yVN-FkqlS9L5GsRsfDuegGCwCz8hc_We/view)
+
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -155,7 +173,7 @@ Find a book or author
 
 [Laboratory Animal and Exotic Pet Medicine Principles and Procedures](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
 
-Show 10 more books
+Show 10 more booksShow fewer books
 
 [Manual of Canine and Feline Cardiology](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
 
@@ -181,4 +199,4 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

@@ -16,7 +16,7 @@ Veterinary Physiology focuses on understanding how healthy animals maintain norm
 ## Notes
 
 15 notes
-[Topic-wise Notes12 notes](#notes)[Unit-wise NotesTANUVAS · 3 collections](#tanuvas)
+[Topic-wise Notes12 notes](#notes)[Unit-wise NotesTANUVAS · 3 PDFs](#tanuvas)
 Find a note in the selected collection
 
 ### Topic-wise Notes
@@ -84,15 +84,15 @@ Veterinary Physiology Note by KVASUKVASU[Open Veterinary Physiology Note by KVAS
 3 notes
 
 PDF
-Veterinary Physiology Note by TANUVASTANUVAS[Open Veterinary Physiology Note by TANUVAS](https://drive.google.com/file/d/1cOJOgFeO95LLwXiUOWKclIZghjYNevNV/view?usp=sharing)
+Veterinary Physiology - I(Blood, Cardiovascular & Excretory Systems and Body Fluids).pdfTANUVAS[Open Veterinary Physiology - I(Blood, Cardiovascular & Excretory Systems and Body Fluids).pdf](https://drive.google.com/file/d/1X8wVsrNLF9khiSR63elBMC4sQHHKcBd_/view)
 
 PDF
-VPB -111 Veterinary Physiology-ITANUVAS · listed by VetBVSc[Open VPB -111 Veterinary Physiology-I](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-111.pdf)
+Veterinary Physiology - II(Neuromuscular Digestive & Respiratory Systems).pdfTANUVAS[Open Veterinary Physiology - II(Neuromuscular Digestive & Respiratory Systems).pdf](https://drive.google.com/file/d/11u5DiKITV6k3zAz5ioiQlc7gTvYtBaga/view)
 
 PDF
-VPB -121 Veterinary Physiology-IITANUVAS · listed by VetBVSc[Open VPB -121 Veterinary Physiology-II](https://vetbvsc.in/wp-content/uploads/2025/02/vpb-121-physiology.pdf)
+Veterinary Physiology - III(Endocrinology, Reproduction, Growth & Environmental Physiology).pdfTANUVAS[Open Veterinary Physiology - III(Endocrinology, Reproduction, Growth & Environmental Physiology).pdf](https://drive.google.com/file/d/1DQoVj4hvavwsHA-2OuD4FNBstgcfDLWY/view)
 
-Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.
+Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.
 
 No notes found.
 
@@ -118,4 +118,4 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

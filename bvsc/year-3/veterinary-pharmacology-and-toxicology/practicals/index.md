@@ -50,4 +50,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Pharmacology and Toxicology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

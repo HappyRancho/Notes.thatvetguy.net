@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -11,6 +11,6 @@ Choose a 1st Year subject to read topic-wise notes and TANUVAS material. Each su
 
 - [Veterinary Anatomy19 resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - [Veterinary Physiology15 resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
-- [Livestock Production Management29 resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- [Livestock Production Management30 resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

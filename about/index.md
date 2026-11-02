@@ -47,10 +47,10 @@ A missing topic, a broken file or a credit that needs correcting: tell us so the
 
 Where do resources open?
 
-Topic-wise notes open on Google Drive. Objective notes, question banks, drug references and handbooks open in Telegram; some collections require access. Recommended books do not always have a linked copy. Original authors retain credit.
+Notes, objective resources, question banks, drug references and handbooks open in Google Drive. Open a book’s page for its available copy. Some recommended books have no linked copy. Original authors retain credit.
 
 Does the year grouping match my syllabus?
 
 Year grouping may vary by university. Check your syllabus before planning revision.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
