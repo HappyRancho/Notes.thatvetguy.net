@@ -26,6 +26,7 @@ ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/
 # One cacheable request for the shared Rx styles, in their original cascade order.
 (ROOT/'assets/rx-core.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['site.css','rx-pages.css','homepage.css']))
 (ROOT/'assets/rx-tools.css').write_text((ROOT/'assets/rx-core.css').read_text()+'\n'+(ROOT/'assets/study-tools.css').read_text())
+(ROOT/'assets/rx-subject.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['rx-core.css','academic-pages.css','subject-hub.css']))
 VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
@@ -56,7 +57,8 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     social_type='image/jpeg' if social.endswith('.jpg') else 'image/webp'
     light,dark=('#eaf8ff','#112433')
-    core_style='rx-tools.css' if path.startswith('/study-tools/') else 'rx-core.css'
+    subject_hub='subject-hub' in body
+    core_style='rx-subject.css' if subject_hub else 'rx-tools.css' if path.startswith('/study-tools/') else 'rx-core.css'
     theme_boot='<script>'+ (ROOT/'assets/theme.js').read_text().strip()+'</script>'
     # The home page paints without a blocking stylesheet round trip. Inner pages
     # reuse the same cached bundle; the original cascade order is preserved.
@@ -71,9 +73,9 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if path in ['/bvsc/tanuvas-notes/','/bvsc/syllabus/']:extra_assets+=f'<link rel="stylesheet" href="/assets/resource-directories.css?v={VERSION}">'
     if path=='/search/':extra_assets+=f'<link rel="stylesheet" href="/assets/search-page.css?v={VERSION}">'
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
-    if path.startswith('/bvsc/'):extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
+    if path.startswith('/bvsc/') and not subject_hub:extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'
-    if 'subject-hub' in body or 'data-syllabus=' in body or 'practical-vault' in body:extra_assets+=f'<link rel="stylesheet" href="/assets/subject-hub.css?v={VERSION}">'
+    if not subject_hub and ('data-syllabus=' in body or 'practical-vault' in body):extra_assets+=f'<link rel="stylesheet" href="/assets/subject-hub.css?v={VERSION}">'
     if 'data-syllabus=' in body:extra_assets+=f'<script src="/assets/syllabus-checklist.js?v={VERSION}" defer></script>'
     reader_script=f'<script src="/assets/subject-reader.js?v={VERSION}" defer></script>' if 'data-subject-reader' in body else ''
     preload='balsamiq'

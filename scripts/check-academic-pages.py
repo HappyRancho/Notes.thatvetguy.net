@@ -5,6 +5,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parent.parent
 data=json.loads((ROOT/'data/resources.json').read_text())
 rows={r['id']:r for r in data['files']}
+assert (ROOT/'assets/rx-subject.css').read_text()=='\n'.join((ROOT/'assets'/name).read_text() for name in ['rx-core.css','academic-pages.css','subject-hub.css']),'Subject bundle changed the stylesheet cascade'
 routes=[]
 for year in data['years']:
  n=year['year'];base=f'/bvsc/year-{n}/';raw=(ROOT/base.strip('/')/'index.html').read_text()
@@ -17,6 +18,7 @@ for year in data['years']:
  for subject in year['subjects']:
   path=base+subject['slug']+'/';routes.append(path)
   html=(ROOT/path.strip('/')/'index.html').read_text()
+  assert re.findall(r'<link rel="stylesheet" href="([^"]+)"',html)==[re.search(r'/assets/rx-subject.css\?v=[^\"]+',html)[0]],'Subject page must load one shared stylesheet'
   assert f'href="{path}"' in raw
   assert 'data-subject-reader' in html and html.count('data-note-option=')==sum(any(('tanuvas' in rows[r]['collections'])==is_tanuvas for r in subject['resourceIds']) for is_tanuvas in [False,True])
   assert path+'syllabus/' in html and 'subject-practical-link' in html
