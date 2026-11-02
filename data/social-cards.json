@@ -1,0 +1,58 @@
+{
+  "home": {
+    "path": "/assets/social/rx-home-0b760c746c21.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 Free Veterinary Academic Resources"
+  },
+  "bvsc": {
+    "path": "/assets/social/rx-bvsc-5da73f28715c.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 Your year. Your subjects. A clearer way to study."
+  },
+  "objective": {
+    "path": "/assets/social/rx-objective-a46e1817c7f4.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 Build your confidence. One question at a time."
+  },
+  "study-tools": {
+    "path": "/assets/social/rx-study-tools-f156df3c2ab0.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 A smarter study kit. A wider world of veterinary."
+  },
+  "clinical": {
+    "path": "/assets/social/rx-clinical-a65df75336c6.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 Keep clinical references close at hand."
+  },
+  "search": {
+    "path": "/assets/social/rx-search-20ab48cfb0fa.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 Find your next veterinary reference."
+  },
+  "about": {
+    "path": "/assets/social/rx-about-67eb70bc3474.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 Made for future vets. Built around your studies."
+  },
+  "request-resource": {
+    "path": "/assets/social/rx-request-resource-bfaa4af18650.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg",
+    "alt": "Rx Notes by ThatVetGuy \u2014 Help your next batch find their next good read."
+  }
+}
