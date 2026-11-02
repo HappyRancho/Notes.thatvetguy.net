@@ -61,12 +61,15 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     subject_hub='subject-hub' in body
     core_style='rx-subject.css' if subject_hub else 'rx-tools.css' if path.startswith('/study-tools/') else 'rx-core.css'
     theme_boot='<script>'+ (ROOT/'assets/theme.js').read_text().strip()+'</script>'
-    # The home page paints without a blocking stylesheet round trip. Inner pages
-    # reuse the same cached bundle; the original cascade order is preserved.
-    core_tag='<style id="rx-home-styles">'+(ROOT/'assets'/core_style).read_text()+'</style>' if home else f'<link rel="stylesheet" href="/assets/{core_style}?v={VERSION}">'
+    # Inline the home and Objective collection styles so their initial text can
+    # paint without stylesheet round trips competing with the verification SDK.
+    # All CSS and cascade order stay identical; other pages reuse cached bundles.
+    inline_styles = home or path == '/objective/'
+    core_tag='<style id="rx-home-styles">'+(ROOT/'assets'/core_style).read_text()+'</style>' if inline_styles else f'<link rel="stylesheet" href="/assets/{core_style}?v={VERSION}">'
     extra_assets=''
     if 'data-rx-ad=' in body:extra_assets+=f'<link rel="stylesheet" href="/assets/adsense.css?v={VERSION}"><script defer src="/assets/adsense.js?v={VERSION}"></script>'
-    if path in ['/objective/','/clinical/drug-index/','/clinical/handbooks/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
+    if path == '/objective/':extra_assets+='<style id="rx-collection-styles">'+(ROOT/'assets/collections.css').read_text()+'</style>'
+    elif path in ['/clinical/drug-index/','/clinical/handbooks/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/roadmaps.css?v={VERSION}">'
