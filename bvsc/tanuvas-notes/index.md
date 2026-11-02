@@ -8,14 +8,6 @@
 
 TANUVAS veterinary notes, organised by subject and original course code. Find the collection you need, then match it to your current BVSc & AH syllabus.
 
-## Find the right course, not just the right year
-
-TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. These collections are credited to TANUVAS and listed through VetBVSc. This is an independent directory, not an official university website.
-
-Older course codes can span more than one current subject or professional year. Use the course title and your department’s outline to choose a file; a matching year label alone does not establish syllabus coverage.
-
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
-
 [1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)
 
 1
@@ -110,6 +102,14 @@ Older course codes can span more than one current subject or professional year. 
 
 - [VAE-311 Principles And Techniques of Veterinary And Animal Husbandry ExtensionPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-tanuvas-bba8df4d430f7f95c6)
 - [VAE-321 Livestock Economics, Marketing And BusinessManagementPDF · credited source in subject collection](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#file-tanuvas-98209b61b6e8c3e754)[Match with syllabus ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)
+
+## Find the right course, not just the right year
+
+TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. These collections are credited to TANUVAS and listed through VetBVSc. This is an independent directory, not an official university website.
+
+Older course codes can span more than one current subject or professional year. Use the course title and your department’s outline to choose a file; a matching year label alone does not establish syllabus coverage.
+
+[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 ## Before you start reading
 

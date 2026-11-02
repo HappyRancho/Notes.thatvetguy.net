@@ -8,14 +8,6 @@
 
 Your BVSc & AH syllabus in one place: subject checklists, original professional-year course outlines, and theory and practical topics from MSVE 2016.
 
-## Use the outline to plan; use the checklist to track
-
-The checklists reproduce course topics from the Veterinary Council of India’s MSVE 2016 curriculum hosted by DUVASU. They separate theory and practical work and link back to the source. Your university’s current timetable, amendments and examination instructions take precedence.
-
-Ticked topics are saved in this browser on this device. A tick is a personal study marker, not a record of attendance or an official completion certificate.
-
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
-
 [1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)
 
 1
@@ -64,6 +56,14 @@ Ticked topics are saved in this browser on this device. A tick is a personal stu
 - [Veterinary Surgery and Radiology83 theory topics · 48 practical topics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/)
 - [Veterinary Gynaecology and Obstetrics32 theory topics · 15 practical topics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/)
 - [Veterinary Clinical Practices II82 practical topics](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/)
+
+## Use the outline to plan; use the checklist to track
+
+The checklists reproduce course topics from the Veterinary Council of India’s MSVE 2016 curriculum hosted by DUVASU. They separate theory and practical work and link back to the source. Your university’s current timetable, amendments and examination instructions take precedence.
+
+Ticked topics are saved in this browser on this device. A tick is a personal study marker, not a record of attendance or an official completion certificate.
+
+[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 ## Why a subject may appear in a different year
 
