@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/roadmap/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -237,4 +237,4 @@ Research reviewed 1 November 2026. International learning resources inform study
 
 [All 2nd Year resources](https://notes.thatvetguy.net/bvsc/year-2/)[Next year’s roadmap](https://notes.thatvetguy.net/bvsc/year-3/roadmap/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.

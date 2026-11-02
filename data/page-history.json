@@ -1,6 +1,6 @@
 {
   "/": {
-    "sha256": "856337eb08f19a0529170e6226ff4745117c7f6aed8666a6686d31765bd10af6",
+    "sha256": "24f87b34c0b7eae5f5067f0ea8b346a7fefb6674877bcb2c1795ee267bb1375b",
     "modified": "2026-11-02"
   },
   "/bvsc/": {
@@ -116,20 +116,20 @@
     "modified": "2026-11-02"
   },
   "/bvsc/year-1/roadmap/": {
-    "sha256": "be42baf56b1cadf18c88431721c6901ff116ca6deac01d798827c941a0c76455",
-    "modified": "2026-11-01"
+    "sha256": "9ba4f104b2e7dc5183067e1e66cdec2839cd17277fe39abbd4029cdd7be97e1c",
+    "modified": "2026-11-02"
   },
   "/bvsc/year-2/roadmap/": {
-    "sha256": "2eeea0f5707a2c2c0b7cd9824fb34eff405cb3a47d4e1af96a801bb2026da49e",
-    "modified": "2026-11-01"
+    "sha256": "9a3c5d79fb8b297d5f4a387b00e53da423ae7e7dbf636119cfc31d0e4c97d7ec",
+    "modified": "2026-11-02"
   },
   "/bvsc/year-3/roadmap/": {
-    "sha256": "3d790cdc544094a7d919787efd48e42b744a90c6bf967f7b37f8ee7e649605d9",
-    "modified": "2026-11-01"
+    "sha256": "64cd316d5cff61b70e9ecd428e706c5b3b24c0c37f991dad4328aa57fd11819f",
+    "modified": "2026-11-02"
   },
   "/bvsc/year-4/roadmap/": {
-    "sha256": "70291146a09072731e53ef32fc588ec4b0354b97c447e4ab775bdbc0361bd3c2",
-    "modified": "2026-11-01"
+    "sha256": "a78a57cf57b67c6579e06f878bfe3921cf313a4f6b39bac711bb1054a3d2ea02",
+    "modified": "2026-11-02"
   },
   "/objective/": {
     "sha256": "a6f11239d68dc9f9b290c2a4603131310b4b422cbe3fa1a1884f87becbd918a0",
@@ -632,11 +632,11 @@
     "modified": "2026-11-02"
   },
   "/bvsc/tanuvas-notes/": {
-    "sha256": "c3671ca9a7cb74e59e040630f2073482b4a42306c0d41f824f85fb3f8e760c71",
+    "sha256": "498fa435c2830e978d4c3cf2bd6d0ad45c9e45bf96bc3668a19cf74ddb53a8c8",
     "modified": "2026-11-02"
   },
   "/bvsc/syllabus/": {
-    "sha256": "99818399843d83f648fe2459b79d0e994e82ae890329a9e6519f2e9ddc3de15c",
+    "sha256": "6ffe54fd368ba9227f6cdbb167d5deff6d878216a882cf866fb2ded771afff07",
     "modified": "2026-11-02"
   },
   "/bvsc/year-1/veterinary-anatomy/practicals/": {
