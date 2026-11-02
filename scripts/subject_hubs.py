@@ -4,6 +4,7 @@ from library import normal
 from subject_pages import url,groups
 from syllabus_pages import checklist_url
 from practical_catalogue import vault_url
+from tanuvas_drive import legacy_hashes
 
 def note_tile(b,ident,title,detail,ic,tone,available):
     content='<span class="rx-row-icon '+tone+'">'+b.icon(ic)+'</span><strong>'+title+'</strong><small>'+detail+'</small>'
@@ -30,11 +31,11 @@ def render(b,year,subject,books):
     body=body.replace('</header>',syllabus+'</header>',1)
     body+='<section class="subject-reader subject-notes-card" data-subject-reader aria-labelledby="notes-title"><header class="subject-card-heading"><span class="subject-rx" aria-hidden="true">℞</span><h2 id="notes-title">Notes</h2><span>'+str(len(rows))+' '+('note' if len(rows)==1 else 'notes')+'</span></header><div class="subject-notes-options">'
     body+=note_tile(b,'notes','Topic-wise Notes',str(len(topics))+' '+('note' if len(topics)==1 else 'notes'),'paper','sky',bool(topics))
-    body+=note_tile(b,'tanuvas','Unit-wise Notes','TANUVAS · '+str(len(tanuvas))+' '+('collection' if len(tanuvas)==1 else 'collections'),'book','mint',bool(tanuvas))+'</div>'
+    body+=note_tile(b,'tanuvas','Unit-wise Notes','TANUVAS · '+str(len(tanuvas))+' '+('PDF' if len(tanuvas)==1 else 'PDFs'),'book','mint',bool(tanuvas))+'</div>'
     body+='<div class="reader-search js-only" hidden><label class="sr-only" for="'+subject['slug']+'-query">Find a note in the selected collection</label><div class="inline-search">'+b.icon('search')+'<input id="'+subject['slug']+'-query" class="collection-query" type="search" placeholder="Find a topic or note…" autocomplete="off"></div><span class="reader-search-status sr-only" role="status"></span></div>'
     for ident,title,records,category in [('notes','Topic-wise Notes',topics,'topic'),('tanuvas','TANUVAS Notes',tanuvas,'tanuvas')]:
-        body+='<details class="reader-panel" data-subject-panel data-selected="false" id="'+ident+'"><summary class="reader-panel-heading"><h3>'+title+'</h3><span>'+str(len(records))+' '+('note' if len(records)==1 else 'notes')+'</span>'+b.icon('chevron')+'</summary>'+groups(b,records,subject,category,level=4)
-        if ident=='tanuvas' and records:body+='<p class="reader-source-note">Course codes follow the source collection and may differ from your current syllabus. Credit remains with the original authors.</p>'
+        body+='<details class="reader-panel" data-subject-panel data-selected="false" id="'+ident+'"><summary class="reader-panel-heading"><h3>'+title+'</h3><span>'+str(len(records))+' '+('note' if len(records)==1 else 'notes')+'</span>'+b.icon('chevron')+'</summary>'+(''.join('<span class="anchor-alias" id="'+ident+'"></span>' for ident in legacy_hashes(year,name)) if ident=='tanuvas' else '')+groups(b,records,subject,category,level=4)
+        if ident=='tanuvas' and records:body+='<p class="reader-source-note">Organised from the ThatVetGuy TANUVAS Drive. Names follow the files, with leading numbering removed. Credit remains with the original authors.</p>'
         body+='</details>'
     body+='<div class="reader-empty filter-empty" hidden><strong>No notes found.</strong><p>Try a shorter title or another collection.</p>'+b.link('/request-resource/','Request a resource '+b.icon('arrow'),'button secondary')+'</div>'
     body+=b.link(vault_url(year,name),'<span class="rx-row-icon peach">'+b.icon('flask')+'</span><span><strong>Practical Vault</strong><small>Practical folders &amp; assessment guide</small></span>'+b.icon('chevron'),'subject-practical-link')
@@ -42,8 +43,9 @@ def render(b,year,subject,books):
     body+='<section class="subject-books-card" id="books" aria-labelledby="subject-books-title"><header class="subject-card-heading"><span class="subject-rx" aria-hidden="true">℞</span><h2 id="subject-books-title">Books</h2><span>'+str(len(own))+' '+('book' if len(own)==1 else 'books')+'</span></header>'
     if own:
         if len(own)>12:body+='<div class="subject-books-search js-only"><label for="subject-book-query" class="sr-only">Find a book or author</label><input id="subject-book-query" type="search" placeholder="Find a book or author…" autocomplete="off"><span class="sr-only" role="status" id="subject-book-status"></span></div>'
-        body+='<div class="subject-book-grid">'+''.join(book_card(b,book) for book in own[:6])+'</div>'
-        if len(own)>6:body+='<details class="subject-more-books"><summary>Show '+str(len(own)-6)+' more '+('book' if len(own)-6==1 else 'books')+b.icon('chevron')+'</summary><div class="subject-book-grid">'+''.join(book_card(b,book) for book in own[6:])+'</div></details>'
+        visible=len(own) if len(own)<=8 else 6
+        body+='<div class="subject-book-grid">'+''.join(book_card(b,book) for book in own[:visible])+'</div>'
+        if len(own)>visible:body+='<details class="subject-more-books"><summary><span class="books-show-more">Show '+str(len(own)-visible)+' more books</span><span class="books-show-less">Show fewer books</span>'+b.icon('chevron')+'</summary><div class="subject-book-grid">'+''.join(book_card(b,book) for book in own[visible:])+'</div></details>'
         body+='<p class="subject-books-empty" hidden>No books match that title or author.</p>'
     else:body+='<p class="subject-book-unavailable">No book listed for this subject yet.</p>'+b.link('/request-resource/','Request a book '+b.icon('arrow'),'book-library-link')
     body+='</section>'

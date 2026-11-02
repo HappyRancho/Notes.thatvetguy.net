@@ -1,4 +1,4 @@
-"""Reviewed VetBVSc links are the sole active notes catalogue."""
+"""Reviewed topic notes and the owner's TANUVAS Drive feed the active catalogue."""
 from pathlib import Path
 from collections import Counter
 import json,re
@@ -8,6 +8,7 @@ ROOT=Path(__file__).resolve().parent.parent
 def build_library(refresh=False):
  source=json.loads((ROOT/'data/vetbvsc-source.json').read_text());mapping=json.loads((ROOT/'data/subject-map.json').read_text());rows=[]
  tanuvas_path=ROOT/'data/tanuvas-source.json';tanuvas=json.loads(tanuvas_path.read_text()) if tanuvas_path.exists() else {'notes':[],'reviewed':source['reviewed']}
+ tanuvas_ids={r['id'] for r in tanuvas['notes']}
  incoming={}
  for f in source['notes']+tanuvas['notes']:
   if f['id'] in incoming:
@@ -23,19 +24,21 @@ def build_library(refresh=False):
   if re.search(r'\b(objectives?|mcqs?|question bank|one mark)\b',n):kind='objective'
   elif re.search(r'\b(practical|practicals|practical manual)\b',n):kind='practical'
   collections=[]
-  if f.get('tanuvas') or f.get('collection')=='TANUVAS' or 'tanuvas' in (f.get('sourceCredit') or '').lower():collections.append('tanuvas')
+  if f['id'] in tanuvas_ids:collections.append('tanuvas')
   if kind=='objective':collections.append('objective-questions')
   if re.search(r'\b(handbook|handbooks)\b',n):collections.append('handbooks')
-  title=clean_title(f['title']).replace('Products 5Technology','Products Technology').replace('BusinessManagement','Business Management');ss=slug(f['subject']);page=f'/bvsc/year-{f["year"]}/{ss}/';path=f'{f["subject"]}/{f["unit"]}/{f["name"]}'
+  title=f['title'] if f.get('preserveSourceName') else clean_title(f['title']).replace('Products 5Technology','Products Technology').replace('BusinessManagement','Business Management');ss=slug(f['subject']);page=f'/bvsc/year-{f["year"]}/{ss}/';path=f'{f["subject"]}/{f["unit"]}/{f["name"]}'
   variant=dict(id=f['id'],name=f['name'],mime='video/mp4' if fmt=='VIDEO' else 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' if fmt=='DOCX' else 'application/pdf',size=None,updated=None,url=f['url'],format=fmt,extension=fmt,download=None)
   r=dict(f,title=title,path=path,mime=variant['mime'],size=None,updated=None,subjectSlug=ss,kind=kind,group=KINDS[kind],format=fmt,mapping='Reviewed source subject and unit',duplicateIds=[],photoIds=[],variants=[variant],type='Objective' if kind=='objective' else 'Note',page=page,permalink=page+'#file-'+f['id'],source='VetBVSc',sourceCredit=f.get('sourceCredit'),lastVerified=tanuvas['reviewed'] if f.get('collection')=='TANUVAS' or f.get('tanuvas') else source['reviewed'],description=f'{title} — {f["subject"]}, {f["unit"]}.',keywords=[f['subject'],f['unit'],title]+(['TANUVAS'] if 'tanuvas' in collections else []),collections=collections,new=False)
+  if f.get('preserveSourceName'):r['source']='ThatVetGuy TANUVAS Drive'
+  if f['id'] in tanuvas.get('supersededTopicIds',[]):r.update(public=False,supersededByCollection='TANUVAS')
   rows.append(r)
  rows.sort(key=lambda r:(r['year'],natural(r['subject']),natural(r['unit']),natural(r['title'])))
  years=[]
  for year,names in mapping['years'].items():
   yr=int(year);subjects=[]
   for name in names:
-   own=[r for r in rows if r['year']==yr and r['subject']==name]
+   own=[r for r in rows if r['year']==yr and r['subject']==name and r.get('public',True)]
    subjects.append(dict(name=name,slug=slug(name),count=len(own),groups=dict(Counter(r['kind'] for r in own)),resourceIds=[r['id'] for r in own]))
   total=sum(s['count'] for s in subjects)
   years.append(dict(year=yr,subjects=subjects,count=total,extras=[],rawCount=total,fileCount=total))

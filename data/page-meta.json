@@ -26,11 +26,11 @@
     ]
   },
   "/objective/": {
-    "summary": "Objective notes and veterinary question banks for BVSc & AH revision. Browse Dhruv N Desai, Animal Science Refresher, TANUVAS and more, with direct Telegram access.",
+    "summary": "Objective notes and veterinary question banks for BVSc & AH revision. Browse Dhruv N Desai, Animal Science Refresher, TANUVAS and more, with Google Drive access.",
     "faq": [
       [
         "What is in this collection?",
-        "Five objective revision resources and five question banks, with the resource names, descriptions and Telegram links shown on the page."
+        "Five objective revision resources and five question banks. Choose a book to see its cover, details and Google Drive link."
       ]
     ]
   },
@@ -52,7 +52,7 @@
     "faq": [
       [
         "Where do resources open?",
-        "Topic-wise notes open on Google Drive. Objective notes, question banks, drug references and handbooks open in Telegram; some collections require access. Recommended books do not always have a linked copy. Original authors retain credit."
+        "Notes, objective resources, question banks, drug references and handbooks open in Google Drive. Open a book’s page for its available copy. Some recommended books have no linked copy. Original authors retain credit."
       ],
       [
         "Does the year grouping match my syllabus?",

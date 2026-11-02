@@ -7,33 +7,34 @@ from syllabus_pages import DATA as SYLLABI,checklist_url
 from course_outlines import outline_url
 ROOT=Path(__file__).resolve().parent.parent
 TANUVAS=json.loads((ROOT/'data/tanuvas-source.json').read_text())
-ROUTES=[('/bvsc/tanuvas-notes/','TANUVAS Notes','TANUVAS veterinary notes, original course codes and subject collections'),('/bvsc/syllabus/','BVSc Syllabus & Course Outlines','MSVE 2016 theory and practical syllabus checklists by subject')]
+ROUTES=[('/bvsc/tanuvas-notes/','TANUVAS Notes','TANUVAS veterinary notes by professional year, subject and unit'),('/bvsc/syllabus/','BVSc Syllabus & Course Outlines','MSVE 2016 theory and practical syllabus checklists by subject')]
 
 def shortcuts(b):
     return '<nav class="resource-shortcuts" aria-label="Browse veterinary study material">'+''.join(b.link(path,b.icon(ic)+'<span>'+label+'</span>') for path,label,ic in [('/bvsc/','All subjects','book'),('/bvsc/tanuvas-notes/','TANUVAS notes','paper'),('/bvsc/syllabus/','Syllabus &amp; outlines','check')])+'</nav>'
 
 def tanuvas(b):
     path='/bvsc/tanuvas-notes/'
-    desc='TANUVAS veterinary notes, organised by subject and original course code. Find the collection you need, then match it to your current BVSc & AH syllabus.'
+    desc='TANUVAS veterinary notes across all four BVSc & AH professional years. Browse 16 subjects and 59 PDFs, with Google Drive access and subject syllabus checklists.'
     body=b.article_intro('TANUVAS Notes for BVSc & AH',desc).replace('container reading-page','container reading-page resource-directory')
-    source_guide='<section class="directory-guide"><h2>Find the right course, not just the right year</h2><p>TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. These collections are credited to TANUVAS and listed through VetBVSc. This is an independent directory, not an official university website.</p><p>Older course codes can span more than one current subject or professional year. Use the course title and your department’s outline to choose a file; a matching year label alone does not establish syllabus coverage.</p>'+shortcuts(b)+'</section>'
+    source_guide='<section class="directory-guide"><h2>Your subject, then your unit</h2><p>Open a title to find its exact entry on the subject page, or browse the subject’s Drive folder. Compare the notes with your syllabus checklist to identify topics that need another source.</p><p>TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. Original authors retain credit. This is an independent study directory, not an official university website.</p>'+b.link(TANUVAS['rootUrl'],'Browse the complete TANUVAS Drive '+b.icon('external'),'directory-next')+shortcuts(b)+'</section>'
     available=[y for y in b.LIBRARY['years'] if any(r['year']==y['year'] for r in TANUVAS['notes'])]
     body+='<nav class="directory-jump" aria-label="TANUVAS years">'+''.join(b.link('#year-'+str(y['year']),b.DATA['labels'][str(y['year'])]) for y in available)+'</nav>'
     items=[]
     for year in available:
         n=year['year'];label=b.DATA['labels'][str(n)]
-        body+='<section class="directory-year" id="year-'+str(n)+'"><header><span class="rx-row-icon sky">'+str(n)+'</span><h2>'+label+' subject collections</h2></header><div class="directory-grid">'
-        for subject in year['subjects']:
-            rows=[r for r in TANUVAS['notes'] if r['year']==n and r['subject']==subject['name']]
+        folders=[f for f in TANUVAS['subjectFolders'] if f['year']==n]
+        body+='<section class="directory-year" id="year-'+str(n)+'"><header><span class="rx-row-icon sky">'+str(n)+'</span><h2>'+e(folders[0]['yearName'])+'</h2></header><div class="directory-grid">'
+        for subject in folders:
+            rows=sorted([r for r in TANUVAS['notes'] if r['folderId']==subject['id']],key=lambda r:r['sourceOrder'])
             if not rows:continue
-            target=subject_url(n,subject['name'])
+            target=subject_url(n,subject['subject'])
             body+='<article class="directory-card"><h3>'+b.link(target+'#tanuvas',e(subject['name']))+'</h3><ul class="directory-courses">'
             for row in rows:
-                course=b.CATALOGUE[row['id']];href=target+'#file-'+row['id'];items.append((row['title'],href))
-                body+='<li data-tanuvas-course="'+e(row['id'])+'">'+b.link(href,'<span><strong>'+e(row['title'])+'</strong><small>'+e(course['format'])+' · credited source in subject collection</small></span>'+b.icon('chevron'))+'</li>'
-            body+='</ul>'+b.link(checklist_url(n,subject['name']),'Match with syllabus '+b.icon('arrow'),'directory-next')+'</article>'
+                href=target+'#file-'+row['id'];items.append((row['title'],href))
+                body+='<li data-tanuvas-course="'+e(row['id'])+'">'+b.link(href,'<span><strong>'+e(row['title'])+'</strong><small>PDF · View in subject notes</small></span>'+b.icon('chevron'))+'</li>'
+            body+='</ul><nav class="directory-actions" aria-label="'+e(subject['name'],quote=True)+' resources">'+b.link(checklist_url(n,subject['subject']),'Syllabus checklist '+b.icon('check'),'directory-next')+b.link(subject['url'],'Drive folder '+b.icon('external'),'directory-next')+'</nav></article>'
         body+='</div></section>'
-    body+=source_guide+'<section class="directory-guide"><h2>Before you start reading</h2><ol><li><strong>Open a course:</strong> the link takes you to its exact entry on the subject page, where you can open the source file.</li><li><strong>Check coverage:</strong> compare the topic list with the syllabus checklist. Keep unmatched topics on your reading list rather than assuming a collection is complete.</li><li><strong>Separate revision from clinical decisions:</strong> older teaching notes are useful study material; drug information and treatment recommendations need current guidance and supervision.</li></ol><p>No dedicated fourth-year TANUVAS collection is listed in the reviewed source set.</p>'+b.link('/bvsc/year-4/','Browse fourth-year topic notes and books '+b.icon('arrow'),'directory-next')+'<p class="source-note">'+str(len(TANUVAS['notes']))+' entries · source collection reviewed '+e(TANUVAS['reviewed'])+'. Access to external files may change.</p></section></div>'
+    body+=source_guide+'<p class="source-note">'+str(len(TANUVAS['notes']))+' PDFs · '+str(len(TANUVAS['subjectFolders']))+' subjects · Drive listing checked '+e(TANUVAS['reviewed'])+'. Access to external files may change.</p></div>'
     b.write_page(path,'TANUVAS Notes for BVSc & AH',desc,body,items)
 
 def syllabus(b):
