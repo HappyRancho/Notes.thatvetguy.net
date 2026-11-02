@@ -11,6 +11,9 @@ https://notes-thatvetguy-net.pages.dev/*
 https://:version.notes-thatvetguy-net.pages.dev/*
   X-Robots-Tag: noindex, follow
 
+/indexnow.txt
+  X-Robots-Tag: noindex, follow
+
 # BEGIN GENERATED DISCOVERY
 /index.md
   Link: <https://notes.thatvetguy.net/>; rel="canonical"

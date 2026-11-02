@@ -8,9 +8,9 @@ import json,re,gzip,xml.etree.ElementTree as ET,importlib.util
 from library_views import keep_complete_resource
 ROOT=Path(__file__).resolve().parent.parent
 class Page(HTMLParser):
-    def __init__(self,path):super().__init__();self.path=path;self.ids=set();self.urls=[];self.headings=[];self.rows=[];self.capture=False;self.schema=[];self.buffer='';self.themes=[]
+    def __init__(self,path):super().__init__();self.path=path;self.ids=set();self.classes=set();self.urls=[];self.headings=[];self.rows=[];self.capture=False;self.schema=[];self.buffer='';self.themes=[]
     def handle_starttag(self,t,attrs):
-        a=dict(attrs)
+        a=dict(attrs);self.classes.update(a.get('class','').split())
         if a.get('id'):
             assert a['id'] not in self.ids,(self.path,'duplicate id',a['id']);self.ids.add(a['id'])
         if re.fullmatch('h[1-6]',t):self.headings.append(int(t[1]))
@@ -38,7 +38,7 @@ for p in ROOT.rglob('index.html'):
     assert not re.search(r'\b(supplied|indexed|matching files|Drive library|original revision guidance)\b',raw,re.I),(p,'developer copy')
     assert '<h2>Explore.' not in raw and 'Unsorted' not in raw
     assert p.with_suffix('.md').exists(),(p,'markdown')
-    assert 'page-checked' not in raw and 'rx-footer-ecosystem' not in raw,(p,'Removed footer clutter returned')
+    assert not {'page-checked','rx-footer-ecosystem'} & page.classes,(p,'Removed footer clutter returned')
     types={t for g in page.schema for t in (g['@type'] if isinstance(g['@type'],list) else [g['@type']])};assert {'Organization','WebSite'}<=types
     organization='https://notes.thatvetguy.net/#organization'
     assert any(g.get('@id')==organization and g.get('name')=='ThatVetGuy' for g in page.schema),(p,'Missing team attribution')
@@ -112,7 +112,7 @@ for p in pages:
         assert ('<span class="open-label">Open Book</span>' if 'rx-book-card' in row else '<span class="open-label">Open</span>') in row
 assert all(r.get('unit') and r.get('sourcePage') for r in records),'missing source context'
 assert not any('icar-pyq' in r['collections'] for r in records if 'transfer of technology' in r['title'].lower())
-home=(ROOT/'index.html').read_text();assert all(x not in home for x in ['faq-list','Recently Added','quick-tiles'])
+home=(ROOT/'index.html').read_text();assert not {'faq-list','quick-tiles'} & pages[ROOT/'index.html'].classes and 'Recently Added' not in home
 assert home.count('role="tablist"')==3 and 'BVSc &amp; AH Resources' in home
 assert 'content="noindex,follow"' in (ROOT/'search/index.html').read_text()
 xml=ET.parse(ROOT/'sitemap.xml');ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}

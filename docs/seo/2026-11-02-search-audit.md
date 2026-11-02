@@ -26,6 +26,7 @@ The owner also reports “Sitemaps: Temporary processing error”. Google docume
 | Weak discovery of these study tasks from entry pages | Add compact Home, BVSc index and More menu links; index both directories in site search | Reachability, mobile layout and keyboard/accessibility checks |
 | Cover images not advertised in the sitemap | Add existing book-cover image URLs to canonical book entries | Local file and namespace validation |
 | No search-engine change notification | Add IndexNow, with a live key/sitemap check, initial canonical URL submission and changed/added/deleted URLs only afterward | Offline change selection tests and logged live acceptance status |
+| Live first-visit rendering waited for several shared stylesheets and a theme-script request | Inline the small theme initializer, use the existing combined stylesheet throughout inner pages, and include the homepage styles in its initial HTML | Mobile/desktop visual parity and production Lighthouse; thresholds unchanged |
 | Search HTTP audit logged problems without failing | Make observed crawl-policy regressions fail verification, retry transport errors once, inspect alias and Markdown headers | Production audit exit status and diagnostics |
 | Team attribution needed to remain accurate | Retain anonymous team authorship, explain editorial approach and distinguish linked source authors | About content and structured author checks |
 
