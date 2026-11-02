@@ -10,6 +10,8 @@ Site: https://notes.thatvetguy.net/
 - Requests carrying Googlebot, Bingbot and OAI-SearchBot user-agent strings received 200 HTML. These are accessibility probes, not authenticated crawler visits or proof that an engine indexed the page.
 - Search Console performance, query impressions, clicks, country/device rankings, manual actions, links and field Core Web Vitals are not connected here. Traffic growth and the exact cause of low ranking cannot be measured from the public crawl alone.
 
+The owner also reports “Sitemaps: Temporary processing error”. Google documents that this wording in URL Inspection can be a temporary reporting-system error retrieving sitemap data. It is not, by itself, proof of malformed XML or blocked crawling. Baseline live sitemap response: HTTP 200, `application/xml`. After the release, live XML parsing, URL parity and user-agent probes must pass; Search Console processing status still requires the owner to check its Sitemaps report.
+
 ## Findings and implementation
 
 | Finding | Change | Verification |
@@ -57,3 +59,5 @@ Structured data describes what is on the page. No fake qualifications, reviews, 
 - Bing AI Performance: https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/
 
 Indexing, top positions, AI inclusion and visitor growth remain decisions of search engines and users; no technical audit can promise them.
+
+- Search Console sitemap and temporary reporting errors: https://support.google.com/webmasters/answer/7451001 and https://support.google.com/webmasters/answer/9012289

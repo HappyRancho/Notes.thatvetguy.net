@@ -41,6 +41,13 @@ def main():
             if result.get('h1Count')!=1:report['findings'].append({'url':url,'issue':'Expected one H1'})
         if '/definitely-missing-' in url and result.get('status')!=404:report['findings'].append({'url':url,'issue':'Missing URL does not return 404'})
         if url.endswith('/robots.txt'):report['robotsText']=raw
+        if url==BASE+'/sitemap.xml':
+            try:
+                root=ET.fromstring(raw);published=[n.text for n in root.iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
+                report['sitemap']={'status':result.get('status'),'contentType':result.get('headers',{}).get('content-type'),'urls':len(published),'matchesBuild':set(published)==set(urls),'validXML':True}
+                if result.get('status')!=200 or set(published)!=set(urls):report['findings'].append({'url':url,'issue':'Published sitemap differs from this build'})
+            except ET.ParseError:
+                report['sitemap']={'validXML':False};report['findings'].append({'url':url,'issue':'Sitemap is not valid XML'})
         if url.endswith('/index.md'):
             expected=url.removesuffix('index.md')
             if '<'+expected+'>; rel="canonical"' not in result.get('headers',{}).get('link',''):report['findings'].append({'url':url,'issue':'Markdown canonical header missing or incorrect'})
@@ -51,6 +58,11 @@ def main():
 
     for name,ua in [('Googlebot','Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'),('Bingbot','Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)'),('OAI-SearchBot','OAI-SearchBot/1.3; +https://openai.com/searchbot')]:
         result,_=fetch(BASE+'/',ua);result['name']=name;report['botUserAgentProbes'].append(result)
+        result,body=fetch(BASE+'/sitemap.xml',ua);result['name']=name
+        try:result['validSitemapXML']=ET.fromstring(body).tag=='{http://www.sitemaps.org/schemas/sitemap/0.9}urlset'
+        except ET.ParseError:result['validSitemapXML']=False
+        report['botUserAgentProbes'].append(result)
+        if result.get('status')!=200 or not result['validSitemapXML']:report['findings'].append({'url':BASE+'/sitemap.xml','issue':name+'-labelled sitemap probe unsuccessful'})
     out=ROOT/'docs/qa/search';out.mkdir(parents=True,exist_ok=True);(out/(args.label+'.json')).write_text(json.dumps(report,indent=2)+'\n')
     print('SEARCH_HEALTH '+json.dumps(report))
     # Fail on observed crawl-policy regressions. A failed probe still does not prove deindexing.

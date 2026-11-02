@@ -116,7 +116,7 @@ def structured(path,title,description,items,home,body,records,date):
         from breadcrumbs import trail
         crumbs=trail(path,title,PAGES)
         graph.append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]})
-    if path.endswith('/syllabus/') and path.startswith('/bvsc/'):
+    if re.fullmatch(r'/bvsc/year-[1-4]/[^/]+/syllabus/',path):
         from syllabus_pages import DATA as SYLLABI,checklist_url
         subject=next(s for s in SYLLABI['subjects'] if checklist_url(s['year'],s['subject'])==path)
         learning={'@type':'LearningResource','@id':BASE+path+'#checklist','name':title,'url':BASE+path,'description':description,'educationalLevel':'BVSc & AH — Year '+str(subject['year']),'learningResourceType':'Syllabus checklist','teaches':subject['subject'],'inLanguage':'en','isBasedOn':{'@type':'DigitalDocument','name':SYLLABI['authority'],'url':(subject['sourceUrl'] if subject['sourceUrl'].startswith('https://') else BASE+subject['sourceUrl'])+'#page='+str(subject['sourcePage'])},'dateModified':date}
