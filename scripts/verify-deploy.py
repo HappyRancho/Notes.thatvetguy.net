@@ -29,5 +29,21 @@ for path in ['/bvsc/year-1/veterinary-anatomy/syllabus/','/bvsc/year-1/veterinar
   record.update(sha256=hashlib.sha256(raw).hexdigest(),repoSha256=hashlib.sha256(local).hexdigest(),matchesRepo=raw==local,oldExploreHeading=bool(re.search(r'<h2\b[^>]*>\s*Explore\.',html)),orphanObjective='Past papers: a reality check, without the viva.' in html)
  except Exception as e:record.update(status='unverified',reason=type(e).__name__+': '+str(e))
  report['pages'].append(record)
+# Link previews are separate assets; verify the advertised homepage card as a crawler.
+preview={'status':'unverified'}
+try:
+ agent={'User-Agent':'WhatsApp/2.24.0','Cache-Control':'no-cache'}
+ with urlopen(Request('https://notes.thatvetguy.net/',headers=agent),timeout=25) as response:
+  preview['pageStatus']=response.status;shared_html=response.read().decode('utf-8')
+ pattern=r'<meta property="og:image" content="([^"]+)"'
+ advertised=re.search(pattern,shared_html)[1];expected=re.search(pattern,(ROOT/'index.html').read_text())[1]
+ if advertised!=expected or not advertised.startswith('https://notes.thatvetguy.net/assets/social/'):
+  raise ValueError('Shared image metadata does not match this build')
+ with urlopen(Request(advertised,headers=agent),timeout=25) as response:
+  raw=response.read();preview.update(status=response.status,contentType=response.headers.get('Content-Type',''))
+ local=(ROOT/advertised.removeprefix('https://notes.thatvetguy.net/')).read_bytes()
+ preview.update(url=advertised,matchesRepo=raw==local,sha256=hashlib.sha256(raw).hexdigest())
+except Exception as error:preview['reason']=type(error).__name__+': '+str(error)
+report['socialPreview']=preview
 (out/'deployment.json').write_text(json.dumps(report,indent=2)+'\n');print('DEPLOY_AUDIT '+json.dumps(report))
-raise SystemExit(0 if all((p.get('matchesRepo') or p.get('buildMatches')) for p in report['pages']) else 1)
+raise SystemExit(0 if all((p.get('matchesRepo') or p.get('buildMatches')) for p in report['pages']) and preview.get('matchesRepo') and preview.get('contentType','').startswith('image/') else 1)

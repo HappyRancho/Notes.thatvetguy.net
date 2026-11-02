@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add index.html index.md 404.html 404/ bvsc/ objective/ clinical/ study-tools/ search/ about/ request-resource/ assets/fonts/ assets/social/ data/resources.json data/catalogue.json data/duplicates-report.json assets/catalogue.json search-index.json build-info.json robots.txt sitemap.xml llms.txt llms-full.txt _redirects docs/qa/task3/contrast.json docs/qa/task3/counts.json
+          git add index.html index.md 404.html 404/ bvsc/ objective/ clinical/ study-tools/ search/ about/ request-resource/ assets/fonts/ assets/social/ data/social-cards.json data/resources.json data/catalogue.json data/duplicates-report.json assets/catalogue.json search-index.json build-info.json robots.txt sitemap.xml llms.txt llms-full.txt _redirects docs/qa/task3/contrast.json docs/qa/task3/counts.json
           if ! git diff --cached --quiet; then
             git commit -m 'Task 3 — render cleaned catalogue, pages and self-hosted fonts [generated]'
             git push origin HEAD:task3-study-clinic

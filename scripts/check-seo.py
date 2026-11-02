@@ -5,6 +5,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote
 from collections import deque
 import datetime,json,re,xml.etree.ElementTree as ET
+from PIL import Image
 ROOT=Path(__file__).resolve().parent.parent
 BASE='https://notes.thatvetguy.net'
 class Document(HTMLParser):
@@ -30,6 +31,7 @@ def check():
     nodes=ET.parse(ROOT/'sitemap.xml').getroot();ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
     entries={n.find('s:loc',ns).text:n.find('s:lastmod',ns).text for n in nodes}
     history=json.loads((ROOT/'data/page-history.json').read_text());documents={};titles=set();descriptions=set()
+    checked_images=set()
     for url,date in entries.items():
         path=urlsplit(url).path;p=ROOT/path.strip('/')/'index.html';d=Document(p.read_text());documents[path]=d
         assert d.canonical==[url],(path,'canonical')
@@ -37,6 +39,16 @@ def check():
         assert d.h1==1,(path,'one H1')
         assert d.title not in titles,(path,'duplicate title');titles.add(d.title)
         description=d.meta.get('description');assert description and description not in descriptions,(path,'duplicate/missing description');descriptions.add(description)
+        preview=d.meta.get('og:image','');assert preview.startswith(BASE+'/assets/social/'),(path,'social image origin')
+        assert d.meta.get('twitter:image')==preview and d.meta.get('og:image:secure_url')==preview,(path,'social image mismatch')
+        assert d.meta.get('og:image:width')=='1200' and d.meta.get('og:image:height')=='630',(path,'social dimensions')
+        assert d.meta.get('og:image:alt') and d.meta.get('twitter:image:alt'),(path,'social image alt text')
+        if not path.startswith('/books/'):assert '/assets/social/rx-' in preview and preview.endswith('.jpg'),(path,'legacy section card')
+        if preview not in checked_images:
+            with Image.open(ROOT/urlsplit(preview).path.lstrip('/')) as picture:
+                assert picture.size==(1200,630),(path,'preview dimensions')
+                assert d.meta.get('og:image:type')==Image.MIME[picture.format],(path,'preview MIME type')
+            checked_images.add(preview)
         assert d.alternates==[url+'index.md'],(path,'markdown discovery')
         assert (ROOT/path.strip('/')/'index.md').exists(),(path,'mirror')
         assert date==history[path]['modified'] and date<=datetime.date.today().isoformat(),(path,'lastmod')
