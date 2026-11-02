@@ -77,7 +77,12 @@ from syllabus_pages import DATA as SYLLABI
 syllabus_ids={'syllabus-'+s['slug'] for s in SYLLABI['subjects']}
 from study_tools import GUIDES
 tool_ids={'study-guide-'+g['id'] for g in GUIDES}
-assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids|syllabus_ids|tool_ids,'search mismatch'
+from resource_directories import ROUTES as DIRECTORY_ROUTES
+directory_ids={'directory-'+path.strip('/').replace('/','-') for path,_,_ in DIRECTORY_ROUTES}
+assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids|syllabus_ids|tool_ids|directory_ids,'search mismatch'
+for entry in search:
+    if entry['id'] in directory_ids:
+        assert entry['url']==entry['permalink'] and (ROOT/entry['url'].strip('/')/'index.html') in pages,'Directory search target missing'
 assert not any(re.match(r'^(IMG[-_]|PXL_|DSC[_-]|Screenshot)',r['title'],re.I) for r in search),'camera file title'
 counts=Counter(rid for p in pages.values() for rid in p.rows)
 for r in records:
