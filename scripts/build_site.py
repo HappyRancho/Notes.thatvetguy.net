@@ -56,10 +56,12 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     social_type='image/jpeg' if social.endswith('.jpg') else 'image/webp'
     light,dark=('#eaf8ff','#112433')
-    fast_shell=home or path in ['/search/','/objective/','/clinical/handbooks/'] or path.startswith('/study-tools/')
-    core_style='rx-tools.css' if path.startswith('/study-tools/') else ('rx-core.css' if fast_shell else 'site.css')
-    theme_boot='<script>'+ (ROOT/'assets/theme.js').read_text().strip()+'</script>' if fast_shell else f'<script src="/assets/theme.js?v={VERSION}"></script>'
-    extra_assets='' if fast_shell else f'<link rel="stylesheet" href="/assets/rx-pages.css?v={VERSION}"><link rel="stylesheet" href="/assets/homepage.css?v={VERSION}">'
+    core_style='rx-tools.css' if path.startswith('/study-tools/') else 'rx-core.css'
+    theme_boot='<script>'+ (ROOT/'assets/theme.js').read_text().strip()+'</script>'
+    # The home page paints without a blocking stylesheet round trip. Inner pages
+    # reuse the same cached bundle; the original cascade order is preserved.
+    core_tag='<style id="rx-home-styles">'+(ROOT/'assets'/core_style).read_text()+'</style>' if home else f'<link rel="stylesheet" href="/assets/{core_style}?v={VERSION}">'
+    extra_assets=''
     if path in ['/objective/','/clinical/drug-index/','/clinical/handbooks/']:extra_assets+=f'<link rel="stylesheet" href="/assets/collections.css?v={VERSION}">'
     if path=='/bvsc/' or re.fullmatch(r'/bvsc/year-[1-4]/(?:notes/)?',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-hubs.css?v={VERSION}">'
     if re.fullmatch(r'/bvsc/year-[1-4]/',path):extra_assets+=f'<link rel="stylesheet" href="/assets/year-pages.css?v={VERSION}">'
@@ -78,10 +80,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     page_header=homepage.header(path,home)
     page_footer=homepage.footer()
     font_preload= '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>'
-    if fast_shell:
-        font_preload+='<link rel="preload" href="/assets/fonts/caveat-latin.woff2" as="font" type="font/woff2" crossorigin>'
-    if re.fullmatch(r'/bvsc/year-[1-4]/',path):font_preload+='<link rel="preload" href="/assets/fonts/caveat-latin.woff2" as="font" type="font/woff2" crossorigin>'
-    if re.fullmatch(r'/bvsc/year-[1-4]/roadmap/',path):font_preload+='<link rel="preload" href="/assets/fonts/caveat-latin.woff2" as="font" type="font/woff2" crossorigin>'
+    font_preload+='<link rel="preload" href="/assets/fonts/caveat-latin.woff2" as="font" type="font/woff2" crossorigin>'
     if path=='/clinical/handbooks/':font_preload+='<link rel="preload" as="image" href="/assets/collections/handbook-reference.webp">'
     page_search=''
     html=f'''<!doctype html><html lang="en" data-ui="rx"><head>
@@ -93,7 +92,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
 <link rel="canonical" href="{BASE+path}"><link rel="alternate" type="text/markdown" href="{BASE+path}index.md" title="Markdown version"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Notes.ThatVetGuy"><meta property="og:title" content="{escape(page_title,quote=True)}"><meta property="og:description" content="{escape(description,quote=True)}"><meta property="og:url" content="{BASE+path}"><meta property="og:image" content="{BASE+social}"><meta property="og:image:secure_url" content="{BASE+social}"><meta property="og:image:type" content="{social_type}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{escape(title,quote=True)} — Rx Notes by ThatVetGuy">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(page_title,quote=True)}"><meta name="twitter:description" content="{escape(description,quote=True)}"><meta name="twitter:image" content="{BASE+social}"><meta name="twitter:image:alt" content="{escape(title,quote=True)} — Rx Notes by ThatVetGuy">
-<link rel="stylesheet" href="/assets/{core_style}?v={VERSION}">{extra_assets}
+{core_tag}{extra_assets}
 <script type="application/ld+json">{schema}</script><script src="/assets/logic.js?v={VERSION}" defer></script><script src="/assets/site.js?v={VERSION}" defer></script><script src="/assets/motion.js?v={VERSION}" defer></script>{reader_script}
 </head><body class="mockup-home{' rx-inner' if not home else ''}{' rx-academic' if path.startswith('/bvsc/') else ''}">{page_header}<main id="main">{page_search}{body}</main>{page_footer}{site_shell.navigation(path)}{site_shell.palette()}</body></html>'''
     dest=ROOT/path.strip('/')/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html+'\n')
