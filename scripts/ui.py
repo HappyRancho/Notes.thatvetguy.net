@@ -2,6 +2,7 @@ from html import escape
 import re
 BASE="https://notes.thatvetguy.net"
 ICONS = {
+    'share': '<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 10.5 6.8-4M8.6 13.5l6.8 4"/>',
     'home': '<path d="m3 10 9-8 9 8v11h-6v-7H9v7H3Z"/>',
     'chevron': '<path d="m9 5 7 7-7 7"/>',
     'cap': '<path d="m2 8 10-5 10 5-10 5Z"/><path d="M5 10v7c4 4 10 4 14 0v-7M22 8v8"/>',
@@ -49,6 +50,9 @@ def icon(name, cls=''):
 
 def slug(text):
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
+
+def share_strip(context):
+    return '<div class="rx-share-wrap js-only rx-share-'+context+'"><button type="button" class="rx-share-button" data-share-site aria-describedby="share-status-'+context+'"><span class="rx-share-symbol">'+icon('share')+'</span><span class="rx-share-copy">Spread good things in your circle</span><span class="rx-share-action">Share '+icon('arrow')+'</span></button><p class="rx-share-status" id="share-status-'+context+'" role="status"></p><input class="rx-share-link" type="url" value="'+BASE+'/" readonly hidden aria-label="Website link to copy"></div>'
 
 def link(url, text, cls='', external=False):
     external = url.startswith(('https://','http://')) and not url.startswith(BASE+'/')

@@ -495,6 +495,25 @@ html{scroll-padding-top:165px}.mockup-home [id]{scroll-margin-top:165px}
 .rx-tools .rx-roadmap-row+.rx-roadmap-row:before{left:60px}
 @media(min-width:600px){.rx-academics .rx-map-heading .rx-road-art{width:50px;height:46px;flex-basis:50px}}
 
+/* A slim invitation to pass the library on, shared by Home and the More menu. */
+.rx-share-wrap{--display-js:block;min-width:0;margin-top:14px}
+.rx-share-button{display:flex;align-items:center;gap:10px;width:100%;min-height:54px;padding:9px 12px;border:1px solid #a9cfe2;border-radius:15px;background:linear-gradient(110deg,#e1f4ff,#f0f9ed 65%,#fff5cf);color:#14264e;text-align:left;box-shadow:0 3px 10px #166ba30a}
+.rx-share-symbol{display:grid;place-items:center;flex:0 0 30px;height:30px;border-radius:10px;background:#ffffffb3;color:#0769ce}
+.rx-share-symbol .icon-svg{width:19px;height:19px}
+.rx-share-copy{font:700 15px/1.25 var(--rx-heading);max-width:28ch}
+.rx-share-action{display:flex;align-items:center;gap:5px;margin-left:auto;font:600 12px/1.2 var(--ui);white-space:nowrap;color:#0761b8}
+.rx-share-action .icon-svg{width:17px;height:17px}
+.rx-share-button:hover{border-color:#0769ce;box-shadow:0 3px 12px #166ba31a}
+.rx-share-button:disabled{cursor:wait}
+.rx-share-status{font-size:12px;line-height:1.4;color:var(--muted)}
+.rx-share-status:not(:empty){padding:6px 4px 0}
+.rx-share-link{margin-top:6px;font-size:13px}
+.rx-share-menu{margin-top:10px}.rx-share-menu .rx-share-button{gap:8px;padding:9px 10px}.rx-share-menu .rx-share-copy{font-size:14px}
+@media(min-width:600px){.rx-share-home{max-width:760px;margin:16px auto 0}.rx-share-home .rx-share-button{padding-inline:18px}.rx-share-home .rx-share-copy{max-width:none;font-size:18px}.rx-share-home .rx-share-action{font-size:14px}}
+html[data-theme=dark] .rx-share-button{background:linear-gradient(110deg,#203e55,#234843);border-color:#416a7c;color:#eff6ff}
+html[data-theme=dark] .rx-share-symbol{background:#2b5267;color:#a9dcff}html[data-theme=dark] .rx-share-action{color:#a9dcff}
+@media(prefers-color-scheme:dark){html:not([data-theme=light]) .rx-share-button{background:linear-gradient(110deg,#203e55,#234843);border-color:#416a7c;color:#eff6ff}html:not([data-theme=light]) .rx-share-symbol{background:#2b5267;color:#a9dcff}html:not([data-theme=light]) .rx-share-action{color:#a9dcff}}
+
 /* Rx Notes student tools: compact, progressive and readable without JavaScript. */
 .reading-page:has(.study-guide){padding-top:0}.reading-page:has(.study-guide)>.breadcrumbs{margin:0 0 6px;padding:0;min-height:48px}.reading-page:has(.study-guide)>.reading-header{padding:14px;margin-bottom:10px}.reading-page:has(.study-guide)>.reading-header h1{font-size:24px}.reading-page:has(.study-guide)>.reading-header p{font-size:14px;margin:5px 0 0}.study-guide{display:grid;gap:12px;min-width:0}.study-guide [hidden]{display:none!important}.study-guide p{max-width:70ch}.study-guide :is(h2,h3,h4){overflow-wrap:normal}.study-guide .tool-section{padding:15px;margin:0;background:var(--surface);border-radius:18px;box-shadow:var(--rx-shadow)}.tool-section-title{display:flex;align-items:center;gap:9px;margin-bottom:12px}.tool-section-title>.rx-row-icon{width:35px;height:36px;flex-basis:35px}.study-guide .tool-section-title h2{font-size:21px;margin:0}.tool-section-title .rx-hand{font-size:18px;margin:3px 0 0}.tool-eyebrow{text-transform:uppercase;letter-spacing:.07em;font-size:10px;font-weight:600;color:var(--muted)}.study-guide .tool-copy,.study-guide .tool-review-note{font-size:13px;line-height:1.55;color:var(--muted);margin:8px 0}.tool-callout{padding:10px 12px;border-radius:12px;background:var(--rx-yellow);color:#384664;font-size:12px;line-height:1.5;border-left:3px solid #d7ac32}.tool-related{display:grid;gap:8px}.tool-related>a{display:flex;align-items:center;gap:8px;min-height:60px;padding:10px;border-radius:14px;background:var(--surface);color:var(--text);font-size:13px;box-shadow:var(--rx-shadow)}.tool-related .rx-row-icon{width:32px;height:34px;flex-basis:32px}.tool-related>a>span:nth-child(2){flex:1}.tool-related>a>.icon-svg{width:18px}.tool-hub-card{display:grid;grid-template-columns:40px minmax(0,1fr) 18px;gap:10px;align-items:center;background:var(--surface);border-radius:16px;padding:16px;margin:10px 0;color:var(--text)}.tool-hub-card strong{display:block;font:700 21px/1.2 var(--rx-heading);margin-bottom:5px}.tool-hub-card small{font-size:13px;line-height:1.5;color:var(--muted)}.tool-hub-card>.icon-svg{width:18px}.tool-hub-card .rx-row-icon{width:36px;height:38px}
 /* A real app shelf: the apps come before every secondary collection. */

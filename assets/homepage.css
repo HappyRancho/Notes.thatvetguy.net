@@ -265,3 +265,22 @@ html{scroll-padding-top:165px}.mockup-home [id]{scroll-margin-top:165px}
 .rx-tools .rx-roadmap-row{gap:10px;min-height:67px}
 .rx-tools .rx-roadmap-row+.rx-roadmap-row:before{left:60px}
 @media(min-width:600px){.rx-academics .rx-map-heading .rx-road-art{width:50px;height:46px;flex-basis:50px}}
+
+/* A slim invitation to pass the library on, shared by Home and the More menu. */
+.rx-share-wrap{--display-js:block;min-width:0;margin-top:14px}
+.rx-share-button{display:flex;align-items:center;gap:10px;width:100%;min-height:54px;padding:9px 12px;border:1px solid #a9cfe2;border-radius:15px;background:linear-gradient(110deg,#e1f4ff,#f0f9ed 65%,#fff5cf);color:#14264e;text-align:left;box-shadow:0 3px 10px #166ba30a}
+.rx-share-symbol{display:grid;place-items:center;flex:0 0 30px;height:30px;border-radius:10px;background:#ffffffb3;color:#0769ce}
+.rx-share-symbol .icon-svg{width:19px;height:19px}
+.rx-share-copy{font:700 15px/1.25 var(--rx-heading);max-width:28ch}
+.rx-share-action{display:flex;align-items:center;gap:5px;margin-left:auto;font:600 12px/1.2 var(--ui);white-space:nowrap;color:#0761b8}
+.rx-share-action .icon-svg{width:17px;height:17px}
+.rx-share-button:hover{border-color:#0769ce;box-shadow:0 3px 12px #166ba31a}
+.rx-share-button:disabled{cursor:wait}
+.rx-share-status{font-size:12px;line-height:1.4;color:var(--muted)}
+.rx-share-status:not(:empty){padding:6px 4px 0}
+.rx-share-link{margin-top:6px;font-size:13px}
+.rx-share-menu{margin-top:10px}.rx-share-menu .rx-share-button{gap:8px;padding:9px 10px}.rx-share-menu .rx-share-copy{font-size:14px}
+@media(min-width:600px){.rx-share-home{max-width:760px;margin:16px auto 0}.rx-share-home .rx-share-button{padding-inline:18px}.rx-share-home .rx-share-copy{max-width:none;font-size:18px}.rx-share-home .rx-share-action{font-size:14px}}
+html[data-theme=dark] .rx-share-button{background:linear-gradient(110deg,#203e55,#234843);border-color:#416a7c;color:#eff6ff}
+html[data-theme=dark] .rx-share-symbol{background:#2b5267;color:#a9dcff}html[data-theme=dark] .rx-share-action{color:#a9dcff}
+@media(prefers-color-scheme:dark){html:not([data-theme=light]) .rx-share-button{background:linear-gradient(110deg,#203e55,#234843);border-color:#416a7c;color:#eff6ff}html:not([data-theme=light]) .rx-share-symbol{background:#2b5267;color:#a9dcff}html:not([data-theme=light]) .rx-share-action{color:#a9dcff}}
