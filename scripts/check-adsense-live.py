@@ -30,16 +30,17 @@ def fetch(url):
   except Exception as e:
    if attempt==2:return {'url':url,'error':str(e)}
   time.sleep(attempt+1)
-report={'pages':list(ThreadPoolExecutor(4).map(fetch,urls)),'accountApproval':'Not accessible; confirm in AdSense Sites','autoAds':'Account-controlled; must remain OFF','errors':[]}
+report={'pages':list(ThreadPoolExecutor(4).map(fetch,urls)),'accountApproval':'Not accessible; confirm in AdSense Sites','autoAds':'Account-controlled; must remain OFF','errors':[],'parentActions':[]}
 if '--audit-only' not in sys.argv:
  for p in report['pages']:
+  failures=report['errors'] if p['url'].startswith('https://notes.') else report['parentActions']
   if p['url'].endswith('robots.txt'):continue
-  if p.get('status')!=200:report['errors'].append(p['url']+' not HTTP 200');continue
+  if p.get('status')!=200:failures.append(p['url']+' not HTTP 200');continue
   if p['url'].endswith('ads.txt'):
-   if not p.get('sellerPresent') or 'text/plain' not in p.get('contentType',''):report['errors'].append(p['url']+' missing plain-text seller entry')
+   if not p.get('sellerPresent') or 'text/plain' not in p.get('contentType',''):failures.append(p['url']+' missing plain-text seller entry')
   else:
    ls=p.get('loaders',[])
-   if len(ls)!=1 or CLIENT not in ls[0].get('src','') or not ls[0]['head']:report['errors'].append(p['url']+' publisher loader mismatch')
-   if p['url'].startswith('https://notes.') and (p['adUnits'] or p['manualAdRuntime']):report['errors'].append(p['url']+' unexpectedly rendering ads')
+   if len(ls)!=1 or CLIENT not in ls[0].get('src','') or not ls[0]['head']:failures.append(p['url']+' publisher loader mismatch')
+   if p['url'].startswith('https://notes.') and (p['adUnits'] or p['manualAdRuntime']):failures.append(p['url']+' unexpectedly rendering ads')
 p=ROOT/'docs/qa/adsense';p.mkdir(parents=True,exist_ok=True);(p/'live.json').write_text(json.dumps(report,indent=2)+'\n');print('ADSENSE_LIVE '+json.dumps(report))
-if report['errors']:raise SystemExit(1)
+if report['errors'] or ('--require-parent' in sys.argv and report['parentActions']):raise SystemExit(1)

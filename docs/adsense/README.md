@@ -27,3 +27,7 @@ Only after an explicit activation request: set approved, renderEnabled and autoA
 The responsive component reserves 250px creative height from first paint, adapts to the content width, and has a small Advertisement label. It has no sticky positioning, overlays, full-width expansion or collapse-on-no-fill. Validate actual creatives before activation; current browser tests exercise only an inert shell, never invented ad units.
 
 Official references: [Connect your site](https://support.google.com/adsense/answer/7584263), [ads.txt guide](https://support.google.com/adsense/answer/12171612), [subdomain handling](https://support.google.com/adsense/answer/9785052), [Auto ads settings](https://support.google.com/adsense/answer/9305577).
+
+## Observed parent routing issue
+
+The parent homepage redirects to www and already has the correct script. The new seller file returns HTTP 200 at https://www.thatvetguy.net/ads.txt. The bare-domain /ads.txt and /robots.txt paths return Cloudflare 522/523. Edit the existing apex redirect in Cloudflare Rules so hostname equals thatvetguy.net for all paths; use dynamic target concat("https://www.thatvetguy.net", http.request.uri.path), status 301, with query strings preserved. Do not match notes.thatvetguy.net or other subdomains. The public audit records these parent actions separately from Rx Notes verification errors; --require-parent also fails until parent actions are resolved.
