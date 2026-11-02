@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Pharmacology and Toxicology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+- ›[Veterinary Pharmacology and Toxicology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 - ›Practical Vault
 
 # Veterinary Pharmacology and Toxicology Practical Vault
@@ -50,4 +50,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Pharmacology and Toxicology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

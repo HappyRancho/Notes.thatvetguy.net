@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Livestock Farm Practices Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+- ›[Livestock Farm Practices Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 - ›Syllabus Checklist
 
 # Livestock Farm Practices Syllabus Checklist
@@ -41,4 +41,4 @@ Checked 2026-10-28.
 
 [Back to Livestock Farm Practices ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

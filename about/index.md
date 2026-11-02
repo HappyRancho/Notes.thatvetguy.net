@@ -29,6 +29,14 @@ Keep learning, ask for help, and be kind to the person beside you. There is room
 
 Linked materials retain their original authorship. Inclusion does not imply medical review or ownership.
 
+## How this library is organised
+
+Rx Notes is an independent study-resource directory maintained by the ThatVetGuy team. It is not an official university or Veterinary Council of India website. Subject pages bring together credited notes, book details, syllabus checklists and practical folders; the original authors retain credit for their work.
+
+Resource titles, course labels and editions are checked against the available source. Where a book uses a symbolic cover rather than a source or publisher cover, its page identifies that distinction. A source-review date records the review shown on that page; it does not promise that an external file will remain available.
+
+The syllabus checklists link to the published MSVE 2016 course contents. Career guides distinguish official entry requirements from personal accounts. Study and clinical references support learning and supervised use; listing a resource is not a claim of medical review.
+
 ## Help the next student
 
 A missing topic, a broken file or a credit that needs correcting: tell us so the library can get better.

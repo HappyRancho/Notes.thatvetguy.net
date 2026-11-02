@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Livestock Products Technology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
+- ›[Livestock Products Technology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 - ›Practical Vault
 
 # Livestock Products Technology Practical Vault
@@ -49,4 +49,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Products Technology ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

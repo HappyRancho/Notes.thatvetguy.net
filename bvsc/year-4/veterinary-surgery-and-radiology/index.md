@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›Veterinary Surgery and Radiology Notes, TANUVAS Material & Books
+- ›Veterinary Surgery and Radiology Notes & BVSc Study Resources
 
 # Veterinary Surgery and Radiology
 
@@ -162,4 +162,4 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

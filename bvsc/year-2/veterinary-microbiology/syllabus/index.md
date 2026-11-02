@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Microbiology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- ›[Veterinary Microbiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 - ›Syllabus Checklist
 
 # Veterinary Microbiology Syllabus Checklist
@@ -210,4 +210,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Microbiology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

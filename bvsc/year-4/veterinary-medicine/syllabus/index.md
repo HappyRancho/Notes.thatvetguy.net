@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Medicine Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- ›[Veterinary Medicine Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 - ›Syllabus Checklist
 
 # Veterinary Medicine Syllabus Checklist
@@ -155,4 +155,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Medicine ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

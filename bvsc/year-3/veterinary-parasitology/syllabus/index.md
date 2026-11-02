@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Parasitology Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- ›[Veterinary Parasitology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 - ›Syllabus Checklist
 
 # Veterinary Parasitology Syllabus Checklist
@@ -167,4 +167,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Parasitology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

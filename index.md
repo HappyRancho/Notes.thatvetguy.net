@@ -2,7 +2,7 @@
 
 # Free Veterinary Academic Resources
 
-Thoughtfully organised for future vets.
+Veterinary notes & study material for BVSc & AH. Browse by year, subject or resource.
 
 ## BVSc & AH Resources
 
@@ -45,6 +45,8 @@ From notes to clinical thinking.
 
 [Road Map ](https://notes.thatvetguy.net/bvsc/year-4/roadmap/)[Course Outline](https://notes.thatvetguy.net/assets/course-outlines/4th-year-course-outline.pdf)
 4 subjects · notes & books[Explore 4th Year ](https://notes.thatvetguy.net/bvsc/year-4/)
+
+[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 ## Objective & Competition Resources
 

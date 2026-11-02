@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›Veterinary Anatomy Notes, TANUVAS Material & Books
+- ›Veterinary Anatomy Notes & BVSc Study Resources
 
 # Veterinary Anatomy
 
@@ -126,4 +126,4 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.

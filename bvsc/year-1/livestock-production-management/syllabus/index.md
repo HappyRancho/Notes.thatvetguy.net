@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/; updated: 2026-11-01 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/; updated: 2026-11-02 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Livestock Production Management Notes, TANUVAS Material & Books](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- ›[Livestock Production Management Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 - ›Syllabus Checklist
 
 # Livestock Production Management Syllabus Checklist
@@ -346,4 +346,4 @@ Checked 2026-10-28.
 
 [Back to Livestock Production Management ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-01; external file availability can change.
