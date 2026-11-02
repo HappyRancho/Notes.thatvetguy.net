@@ -13,6 +13,7 @@ PAGES={}
 HISTORY_PATH=ROOT/'data/page-history.json'
 HISTORY=json.loads(HISTORY_PATH.read_text()) if HISTORY_PATH.exists() else {}
 SEARCH_META=json.loads((ROOT/'data/search-metadata.json').read_text())
+SOCIAL_CARDS=json.loads((ROOT/'data/social-cards.json').read_text())
 
 def page_modified(path,title,description,body):
     """Track content changes, independently of source review and deploy dates."""
@@ -148,7 +149,7 @@ def social(path):
         return '/assets/social/books/'+(path.strip('/').split('/')[-1] if path!='/books/' else 'index')+'.webp'
     section=path.strip('/').split('/')[0] or 'home'
     if section=='404':section='home'
-    return '/assets/social/'+section+'.webp'
+    return SOCIAL_CARDS.get(section,SOCIAL_CARDS['home'])['path']
 
 def discovery(date,index):
     HISTORY_PATH.write_text(json.dumps({p:HISTORY[p] for p in PAGES},indent=2)+'\n')
