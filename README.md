@@ -54,3 +54,7 @@ Static checks reconcile every original manifest ID through files, formats, photo
 The Drive publication workflow can refresh the original public folders. The Study Clinic workflow builds and checks the saved inventory, commits generated output to its review branch, and captures screenshots, axe and Lighthouse results. Production verification checks both hostnames and the exact deployed build. Cloudflare purge is possible only when its token and zone are connected. See `docs/qa/task3/report.md` for measured results and limitations.
 
 Lighthouse's SEO category penalises the intentionally noindex search page; this exception is reported explicitly. Link checks distinguish redirects, HTTP errors and network failures, and the default command can audit every URL; CI samples links rather than issuing thousands of download requests.
+
+## Advertising verification and performance
+
+While ads are disabled, each page uses the `google-adsense-account` meta tag for publisher verification. The AdSense SDK is included only when both approval and rendering are enabled in `data/adsense.json`. The ads.txt seller record and placement approval gates remain in place. `scripts/check-crawlability.py` validates canonical sitemap pages and their static internal-link paths as part of `npm run check`.

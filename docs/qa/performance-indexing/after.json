@@ -1,0 +1,665 @@
+{
+  "phase": "performance-final",
+  "views": [
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 3286,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 3229,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 2227,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 3906,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 3712,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 2699,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 8442,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 8132,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 5263,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 1836,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [
+          213.796875,
+          172.40625,
+          172.40625,
+          172.40625,
+          192
+        ],
+        "clipped": [],
+        "flatLists": [
+          5,
+          5
+        ]
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 1681,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [
+          175.359375,
+          153.5625,
+          153.5625,
+          153.5625,
+          153.5625
+        ],
+        "clipped": [],
+        "flatLists": [
+          5,
+          5
+        ]
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 1380,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [
+          124.5625,
+          124,
+          124,
+          124,
+          124
+        ],
+        "clipped": [],
+        "flatLists": [
+          5,
+          5
+        ]
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 1058,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 1058,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 1041,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 3286,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 3229,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 2227,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 3906,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 3712,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 2699,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 8442,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 8132,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 5263,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 1836,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [
+          213.796875,
+          172.40625,
+          172.40625,
+          172.40625,
+          192
+        ],
+        "clipped": [],
+        "flatLists": [
+          5,
+          5
+        ]
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 1681,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [
+          175.359375,
+          153.5625,
+          153.5625,
+          153.5625,
+          153.5625
+        ],
+        "clipped": [],
+        "flatLists": [
+          5,
+          5
+        ]
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/objective/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 1380,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [
+          124.5625,
+          124,
+          124,
+          124,
+          124
+        ],
+        "clipped": [],
+        "flatLists": [
+          5,
+          5
+        ]
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "width": 360,
+        "documentWidth": 345,
+        "height": 1058,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "width": 390,
+        "documentWidth": 375,
+        "height": 1058,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "width": 1280,
+        "documentWidth": 1265,
+        "height": 1041,
+        "h1": 1,
+        "cls": 0,
+        "smallTargets": [],
+        "fileHeights": [],
+        "clipped": [],
+        "flatLists": []
+      },
+      "violations": [],
+      "jsErrors": []
+    }
+  ],
+  "lighthouse": [
+    {
+      "url": "/",
+      "scores": {
+        "performance": 97,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2262.8826,
+      "cls": 0
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "scores": {
+        "performance": 97,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1971.0018,
+      "cls": 0
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "scores": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 1957.9070000000002,
+      "cls": 0
+    },
+    {
+      "url": "/objective/",
+      "scores": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2332.4171,
+      "cls": 0
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2120.95275,
+      "cls": 0
+    }
+  ],
+  "errors": [],
+  "interactions": [
+    "Menu: Escape, outside tap, scroll lock; command search; arrow selection; theme persistence; single Open action and studied persistence; subject search; search empty state and batching.",
+    "All four preset topics work with JavaScript disabled.",
+    "Reduced-motion content remains visible."
+  ],
+  "exceptions": [
+    "Search is deliberately noindex; its SEO score cannot reach 95 without violating the indexing policy."
+  ]
+}
