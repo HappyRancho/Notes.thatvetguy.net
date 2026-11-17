@@ -11,10 +11,11 @@ assert not c['approved'] and not c['renderEnabled']
 assert all(not p['enabled'] and p['slotId'] is None for p in c['placements'].values())
 assert (ROOT/'ads.txt').read_text()==adsense.ads_txt()
 class Page(HTMLParser):
- def __init__(self):super().__init__();self.head=False;self.scripts=[];self.units=[]
+ def __init__(self):super().__init__();self.head=False;self.scripts=[];self.units=[];self.verification=[]
  def handle_starttag(self,t,attrs):
   a=dict(attrs)
   if t=='head':self.head=True
+  if t=='meta' and a.get('name')=='google-adsense-account':self.verification.append((self.head,a.get('content')))
   if t=='script' and 'adsbygoogle.js' in a.get('src',''):self.scripts.append((self.head,a))
   if 'adsbygoogle' in a.get('class','').split() or 'data-rx-ad' in a:self.units.append(a)
  def handle_endtag(self,t):
@@ -23,10 +24,8 @@ count=0
 for p in ROOT.rglob('*.html'):
  if any(x in p.parts for x in ['node_modules','.git','docs','attachments','dist']):continue
  s=p.read_text();d=Page();d.feed(s)
- assert len(d.scripts)==1,(p,'loader duplicated or missing')
- head,a=d.scripts[0]
- assert head and 'async' in a and a.get('crossorigin')=='anonymous'
- assert a['src']=='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+c['publisherId']
+ assert d.verification==[(True,c['publisherId'])],(p,'publisher verification missing or duplicated')
+ assert not d.scripts,(p,'Ad runtime downloaded before approval')
  assert not d.units and '/assets/adsense.js?' not in s and '/assets/adsense.css?' not in s,(p,'Ads rendered before approval')
  assert s.count('<!-- rx-ad-placement:')<=1
  count+=1
@@ -42,4 +41,13 @@ for approval,enable,autoff in [(False,False,False),(True,False,True),(False,True
  for key in test['placements']:
   test['placements'][key]['enabled']=True
   assert adsense.component(key,test)=='','Missing slot must always fail closed'
-print(f'PASS AdSense: exact loader once in {count} HTML heads; no ad units, runtime, placeholders or invented slots; ads.txt and section boundaries verified.')
+print(f'PASS AdSense: publisher meta tag once in {count} HTML heads; no ad units, SDK requests, placeholders or invented slots; ads.txt and section boundaries verified.')
+
+# Verification remains available while the runtime follows rendering approval.
+for approved in (False,True):
+ for enabled in (False,True):
+  config={**c,'approved':approved,'renderEnabled':enabled}
+  markup=adsense.verification(config)
+  assert 'google-adsense-account' in markup
+  assert ('adsbygoogle.js' in markup)==(approved and enabled)
+assert adsense.verification({**c,'verificationEnabled':False})==''

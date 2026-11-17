@@ -1,0 +1,61 @@
+{
+  "phase": "before-performance",
+  "lighthouse": [
+    {
+      "url": "/",
+      "scores": {
+        "performance": 97,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "lcp": 2270.8754,
+      "cls": 0
+    },
+    {
+      "url": "/bvsc/year-1/roadmap/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "lcp": 1962.9985999999997,
+      "cls": 0
+    },
+    {
+      "url": "/bvsc/tanuvas-notes/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "lcp": 1960.8716,
+      "cls": 0
+    },
+    {
+      "url": "/objective/",
+      "scores": {
+        "performance": 95,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "lcp": 2281.6333,
+      "cls": 0
+    },
+    {
+      "url": "/books/dhruv-desai/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "lcp": 2119.1381,
+      "cls": 0
+    }
+  ],
+  "errors": []
+}

@@ -8,7 +8,13 @@ CONFIG=json.loads((ROOT/'data/adsense.json').read_text())
 assert re.fullmatch(r'ca-pub-\d{16}',CONFIG['publisherId'])
 def verification(config=CONFIG):
     if not config.get('verificationEnabled'):return ''
-    return '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+config['publisherId']+'"\n     crossorigin="anonymous"></script>'
+    # The account meta tag verifies ownership without downloading an ad runtime
+    # on a site that cannot yet display ads. Keep the SDK for approved rendering.
+    tag='<meta name="google-adsense-account" content="'+config['publisherId']+'">'
+    if config.get('approved') and config.get('renderEnabled'):
+        tag+='\n<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+config['publisherId']+'" crossorigin="anonymous"></script>'
+    return tag
+
 def ads_txt(config=CONFIG):
     return 'google.com, '+config['publisherId'].removeprefix('ca-')+', DIRECT, f08c47fec0942fa0\n'
 def component(key,config=CONFIG):
