@@ -58,3 +58,5 @@ Lighthouse's SEO category penalises the intentionally noindex search page; this 
 ## Advertising verification and performance
 
 While ads are disabled, each page uses the `google-adsense-account` meta tag for publisher verification. The AdSense SDK is included only when both approval and rendering are enabled in `data/adsense.json`. The ads.txt seller record and placement approval gates remain in place. `scripts/check-crawlability.py` validates canonical sitemap pages and their static internal-link paths as part of `npm run check`.
+
+Minimal manual banner layout: at most one unit per eligible notes page, after a complete content section. The ad frame reserves 100px in height, caps its width at 728px and has 24px vertical separation. It stays in document flow with an Advertisement label. Activation requires an approved site, real display slot IDs and confirmation that Auto ads are off. Inactive placements emit no visible placeholder.
