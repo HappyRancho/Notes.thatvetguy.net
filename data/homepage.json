@@ -121,5 +121,33 @@
     "1F4VgJziYlOGh17x4D2o9c1J9Yj3oMK9N",
     "1tMqWIPLPxMiYJHIeHEHk62O6DLc2PD-L",
     "1eNJf0tPojv7FY3EQZXGtjl_g2VkIQlNs"
+  ],
+  "bookShelves": [
+    {
+      "id": "clinical",
+      "title": "Clinical Picks",
+      "url": "/books/#clinical",
+      "books": [
+        "minivet-guide",
+        "the-small-animal-veterinary-nerdbook",
+        "handbook-of-exotic-pet-medicine",
+        "manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition",
+        "handbook-of-equine-anaesthesia-2nd-edition",
+        "reptile-medicine-and-surgery-in-clinical-practice"
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Core Subjects",
+      "url": "/books/#basic-sciences",
+      "books": [
+        "primary-veterinary-anatomy",
+        "cunningham-s-textbook-of-veterinary-physiology",
+        "biochemistry",
+        "color-atlas-of-veterinary-histology",
+        "colour-atlas-of-veterinary-anatomy-the-ruminants",
+        "dukes-physiology-of-domestic-animals"
+      ]
+    }
   ]
 }

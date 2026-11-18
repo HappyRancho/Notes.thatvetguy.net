@@ -113,7 +113,7 @@ for p in pages:
 assert all(r.get('unit') and r.get('sourcePage') for r in records),'missing source context'
 assert not any('icar-pyq' in r['collections'] for r in records if 'transfer of technology' in r['title'].lower())
 home=(ROOT/'index.html').read_text();assert not {'faq-list','quick-tiles'} & pages[ROOT/'index.html'].classes and 'Recently Added' not in home
-assert home.count('role="tablist"')==3 and 'BVSc &amp; AH Notes' in home
+assert home.count('role="tablist"')==4 and 'BVSc &amp; AH Notes' in home
 assert 'content="noindex,follow"' in (ROOT/'search/index.html').read_text()
 xml=ET.parse(ROOT/'sitemap.xml');ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
 assert len(xml.findall('s:url',ns))==sum('content="noindex,follow"' not in p.read_text() for p in pages)
