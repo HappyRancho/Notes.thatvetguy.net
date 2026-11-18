@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Pathology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- ›[Veterinary Pathology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 - ›Syllabus Checklist
 
 # Veterinary Pathology Syllabus Checklist
@@ -147,4 +147,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Pathology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

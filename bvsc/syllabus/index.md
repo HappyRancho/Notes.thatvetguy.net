@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -63,7 +63,7 @@ The checklists reproduce course topics from the Veterinary Council of India’s 
 
 Ticked topics are saved in this browser on this device. A tick is a personal study marker, not a record of attendance or an official completion certificate.
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 ## Why a subject may appear in a different year
 
@@ -77,4 +77,4 @@ Open your subject checklist beside your lecture plan. Identify the topics curren
 
 Source transcription checked 2026-10-28. This is a study aid, not an official university portal.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

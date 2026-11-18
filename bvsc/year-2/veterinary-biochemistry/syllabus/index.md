@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Biochemistry Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- ›[Veterinary Biochemistry Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - ›Syllabus Checklist
 
 # Veterinary Biochemistry Syllabus Checklist
@@ -128,4 +128,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Biochemistry ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

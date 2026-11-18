@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›Veterinary Physiology Notes & BVSc Study Resources
+- ›Veterinary Physiology Notes & Books for BVSc
 
-# Veterinary Physiology
+# Veterinary Physiology Notes
 
-Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions.
+Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/)
 
@@ -118,4 +118,4 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

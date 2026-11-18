@@ -24,7 +24,8 @@ def burst():return '<span class="rx-burst" aria-hidden="true"><i></i><i></i><i><
 def header(path='/', home=True):
     syringe='<span class="rx-letter-t"><span class="rx-glyph-t">t</span><span class="rx-syringe"><img src="/assets/home/syringe.webp" width="23" height="129" alt="" loading="eager" decoding="async"></span></span>'
     logo='<span class="rx-wordmark" aria-hidden="true"><span class="rx-symbol">R<sub>x</sub></span> <span class="rx-notes">No'+syringe+'es</span> <span class="rx-by">by <b>thatvetguy</b></span></span>'
-    promise=('<h1 id="academic-resources">' if home else '<div class="rx-promise-title">')+'Free Veterinary<br>Academic Resources'+('</h1>' if home else '</div>')
+    promise_text='Free Veterinary<br>Notes &amp; Books' if home else 'Free Veterinary<br>Academic Resources'
+    promise=('<h1 id="academic-resources">' if home else '<div class="rx-promise-title">')+promise_text+('</h1>' if home else '</div>')
     return '<a class="skip-link" href="#main">Skip to content</a><header class="rx-header container"><div class="rx-paper"><span class="rx-tape" aria-hidden="true"></span><a href="/" class="rx-brand" aria-label="Rx Notes by ThatVetGuy — Home">'+logo+'</a><div class="rx-promise">'+promise+'<p>Thoughtfully organised for <mark>future vets.</mark></p></div><span class="rx-vet-emblem" aria-hidden="true"><svg viewBox="0 0 40 48" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M18 11C12 3 7 7 2 3c0 9 5 14 15 13M22 11C28 3 33 7 38 3c0 9-5 14-15 13" fill="#bde9dc" stroke="#17664d" stroke-width="1.8"/><path d="m5 9 9 4m21-4-9 4M20 8v37" stroke="#101b43" stroke-width="2.2"/><circle cx="20" cy="5" r="2.5" fill="#0769ce"/><path d="M14 16c-9 4 1 9 9 12s5 8-5 11m8-23c9 4-1 9-9 12s-5 8 5 11" stroke="#17664d" stroke-width="2.4"/><path d="m9 27 11 18 11-18" stroke="#0769ce" stroke-width="2.4"/></svg></span><span class="rx-paper-paw" aria-hidden="true">'+icon('paw')+'</span></div></header>'
 
 def search():
@@ -67,7 +68,7 @@ def roadmap_art(year):
 
 def academics(b):
     from course_outlines import outline_url
-    ident='year';body=heading('BVSc &amp; AH Resources','Four years. Infinite syllabus. Character development included.','cap','mint','<span class="rx-section-paw" aria-hidden="true">'+icon('paw')+'</span>')
+    ident='year';body=heading('BVSc &amp; AH Notes','Four years. Infinite syllabus. Character development included.','cap','mint','<span class="rx-section-paw" aria-hidden="true">'+icon('paw')+'</span>')
     body+=tabs(ident,[(b.DATA['labels'][str(y['year'])],'/bvsc/year-'+str(y['year'])+'/') for y in b.LIBRARY['years']])
     for i,y in enumerate(b.LIBRARY['years']):
         label=b.DATA['labels'][str(y['year'])];base='/bvsc/year-'+str(y['year'])+'/';subjects=''
@@ -139,6 +140,6 @@ def footer():
 
 def render(b):
     content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()
-    body='<div class="container rx-home">'+search()+'<p class="rx-library-intro">Veterinary notes &amp; study material for BVSc &amp; AH. Browse by year, subject or resource.</p>'+'<div class="rx-content">'+content+'</div>'+share_strip('home')+'</div>'
-    mirror='<h1>Free Veterinary Academic Resources</h1><p>Veterinary notes &amp; study material for BVSc &amp; AH. Browse by year, subject or resource.</p>'+content
+    body='<div class="container rx-home">'+search()+'<p class="rx-library-intro">Free veterinary notes, books and study material for BVSc &amp; AH. Browse by year or subject.</p>'+'<div class="rx-content">'+content+'</div>'+share_strip('home')+'</div>'
+    mirror='<h1>Free Veterinary Notes &amp; Books</h1><p>Free veterinary notes, books and study material for BVSc &amp; AH. Browse by year or subject.</p>'+content
     b.write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',b.geo.META['/']['summary'],body,home=True,mirror_body=mirror)

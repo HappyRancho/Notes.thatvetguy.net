@@ -27,7 +27,7 @@ ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/
 (ROOT/'assets/rx-core.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['site.css','rx-pages.css','homepage.css']))
 (ROOT/'assets/rx-tools.css').write_text((ROOT/'assets/rx-core.css').read_text()+'\n'+(ROOT/'assets/study-tools.css').read_text())
 (ROOT/'assets/rx-subject.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['rx-core.css','academic-pages.css','subject-hub.css']))
-VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/adsense.json',ROOT/'data/vet-ebooks-books.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
+VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/adsense.json',ROOT/'data/search-metadata.json',ROOT/'data/vet-ebooks-books.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
     crumbs=crumbs or []
@@ -42,7 +42,7 @@ def article_intro(title,description,crumbs=None):
     return '<div class="container reading-page"><nav class="breadcrumbs" aria-label="Breadcrumb">'+breadcrumb+'<span aria-hidden="true">/</span><span>'+escape(title)+'</span></nav><header class="reading-header rx-section"><div class="rx-page-title"><span class="rx-row-icon '+tone+'">'+icon(ic)+'</span><h1>'+escape(title)+'</h1></div><p>'+escape(description)+'</p></header>'
 
 def search_form(page=False):return site_shell.search(sys.modules[__name__],page)
-def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None,source_review=None):
+def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None,source_review=None,search_title=None):
     if not home:
         trail=breadcrumbs.render(breadcrumbs.trail(path,title,geo.PAGES))
         if not re.search(r'<nav class="breadcrumbs"[^>]*>.*?</nav>',body,flags=re.S):
@@ -52,7 +52,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
     search_meta=geo.SEARCH_META.get(path,{})
     description=search_meta.get('description',description)
-    page_title=search_meta.get('title',title if home else title+' | Notes.ThatVetGuy')
+    page_title=search_meta.get('title',search_title or (title if home else title+' | Notes.ThatVetGuy'))
     modified=geo.page_modified(path,page_title,description,body)
     geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified,source_review or DATA['lastChecked'],noindex=noindex);social=geo.social(path)
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)

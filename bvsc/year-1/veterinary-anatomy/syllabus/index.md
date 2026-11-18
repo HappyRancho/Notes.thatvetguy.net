@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Veterinary Anatomy Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
+- ›[Veterinary Anatomy Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - ›Syllabus Checklist
 
 # Veterinary Anatomy Syllabus Checklist
@@ -239,4 +239,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Anatomy ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

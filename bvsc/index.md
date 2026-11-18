@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›BVSc
 
-# BVSc Notes & Books
+# BVSc & AH Notes by Year & Subject
 
 BVSc & AH notes, TANUVAS material and recommended books, organised by professional year. Choose a year or open a subject directly.
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 1
 
@@ -161,4 +161,4 @@ Roadmap available
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

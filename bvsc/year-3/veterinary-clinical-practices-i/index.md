@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary Clinical Practices I Notes & BVSc Study Resources
+- ›Veterinary Clinical Practices I Notes for BVSc
 
-# Veterinary Clinical Practices I
+# Veterinary Clinical Practices I Notes
 
-Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation.
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/)
 
@@ -58,4 +58,4 @@ No book listed for this subject yet.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

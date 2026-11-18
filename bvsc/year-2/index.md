@@ -1,10 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›2nd Year
 
-# 2nd Year Notes & Books
+# 2nd Year BVSc Notes & Books
 
 2nd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
@@ -23,4 +23,4 @@
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

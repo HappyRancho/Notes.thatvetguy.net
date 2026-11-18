@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary Parasitology Notes & BVSc Study Resources
+- ›Veterinary Parasitology Notes & Books for BVSc
 
-# Veterinary Parasitology
+# Veterinary Parasitology Notes
 
-Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health.
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)
 
@@ -216,4 +216,4 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

@@ -1,0 +1,75 @@
+{
+  "method": "curl via configured network proxy; urllib direct transport was unavailable",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Free Veterinary Notes &amp; BVSc Study Material | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "a61928145199",
+      "body": null,
+      "error": null
+    },
+    {
+      "path": "/bvsc/",
+      "status": 200,
+      "title": "BVSc Notes &amp; Recommended Veterinary Books | ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "a61928145199",
+      "body": null,
+      "error": null
+    },
+    {
+      "path": "/books/",
+      "status": 200,
+      "title": "Veterinary Books, Textbooks &amp; Clinical References | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/books/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "a61928145199",
+      "body": null,
+      "error": null
+    },
+    {
+      "path": "/bvsc/year-1/veterinary-anatomy/",
+      "status": 200,
+      "title": "Veterinary Anatomy Notes &amp; BVSc Study Resources | Notes.ThatVetGuy",
+      "canonical": "https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/",
+      "robots": "index,follow,max-image-preview:large",
+      "build": "a61928145199",
+      "body": null,
+      "error": null
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "title": "",
+      "canonical": "",
+      "robots": "",
+      "build": "",
+      "body": "User-agent: *\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: Claude-SearchBot\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: Applebot-Extended\nAllow: /\n\nUser-agent: CCBot\nAllow: /\n\nSitemap: https://notes.thatvetguy.net/sitemap.xml\n",
+      "error": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "title": "",
+      "canonical": "",
+      "robots": "",
+      "build": "",
+      "body": null,
+      "error": null
+    },
+    {
+      "path": "/build-info.json",
+      "status": 200,
+      "title": "",
+      "canonical": "",
+      "robots": "",
+      "build": "",
+      "body": "{\"build\": \"a61928145199\", \"resources\": 831, \"rawFiles\": 971, \"lastInspected\": \"2026-11-18\"}\n",
+      "error": null
+    }
+  ]
+}

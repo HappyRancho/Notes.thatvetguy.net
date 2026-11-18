@@ -1,0 +1,392 @@
+{
+  "views": [
+    {
+      "path": "/",
+      "theme": "light",
+      "width": 360,
+      "title": "Free Veterinary Notes, Books & BVSc Study Material | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Free VeterinaryNotes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/books/",
+      "theme": "light",
+      "width": 360,
+      "title": "Veterinary Books & Clinical PDF Library | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/",
+      "theme": "light",
+      "width": 360,
+      "title": "BVSc & AH Notes by Year & Subject | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "BVSc & AH Notes by Year & Subject"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/",
+      "theme": "light",
+      "width": 360,
+      "title": "4th Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "4th Year BVSc Notes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/",
+      "theme": "light",
+      "width": 360,
+      "title": "Veterinary Extension Education Notes | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary and Animal Husbandry Extension Education Notes"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/veterinary-clinical-practices-ii/",
+      "theme": "light",
+      "width": 360,
+      "title": "Veterinary Clinical Practices II Study Guide | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Clinical Practices II Study Guide"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "light",
+      "width": 1280,
+      "title": "Free Veterinary Notes, Books & BVSc Study Material | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Free VeterinaryNotes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/books/",
+      "theme": "light",
+      "width": 1280,
+      "title": "Veterinary Books & Clinical PDF Library | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/",
+      "theme": "light",
+      "width": 1280,
+      "title": "BVSc & AH Notes by Year & Subject | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "BVSc & AH Notes by Year & Subject"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/",
+      "theme": "light",
+      "width": 1280,
+      "title": "4th Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "4th Year BVSc Notes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/",
+      "theme": "light",
+      "width": 1280,
+      "title": "Veterinary Extension Education Notes | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary and Animal Husbandry Extension Education Notes"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/veterinary-clinical-practices-ii/",
+      "theme": "light",
+      "width": 1280,
+      "title": "Veterinary Clinical Practices II Study Guide | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Clinical Practices II Study Guide"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "dark",
+      "width": 360,
+      "title": "Free Veterinary Notes, Books & BVSc Study Material | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Free VeterinaryNotes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/books/",
+      "theme": "dark",
+      "width": 360,
+      "title": "Veterinary Books & Clinical PDF Library | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/",
+      "theme": "dark",
+      "width": 360,
+      "title": "BVSc & AH Notes by Year & Subject | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "BVSc & AH Notes by Year & Subject"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/",
+      "theme": "dark",
+      "width": 360,
+      "title": "4th Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "4th Year BVSc Notes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/",
+      "theme": "dark",
+      "width": 360,
+      "title": "Veterinary Extension Education Notes | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary and Animal Husbandry Extension Education Notes"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/veterinary-clinical-practices-ii/",
+      "theme": "dark",
+      "width": 360,
+      "title": "Veterinary Clinical Practices II Study Guide | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Clinical Practices II Study Guide"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "dark",
+      "width": 1280,
+      "title": "Free Veterinary Notes, Books & BVSc Study Material | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Free VeterinaryNotes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/books/",
+      "theme": "dark",
+      "width": 1280,
+      "title": "Veterinary Books & Clinical PDF Library | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/",
+      "theme": "dark",
+      "width": 1280,
+      "title": "BVSc & AH Notes by Year & Subject | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "BVSc & AH Notes by Year & Subject"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/",
+      "theme": "dark",
+      "width": 1280,
+      "title": "4th Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "4th Year BVSc Notes & Books"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/",
+      "theme": "dark",
+      "width": 1280,
+      "title": "Veterinary Extension Education Notes | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary and Animal Husbandry Extension Education Notes"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "path": "/bvsc/year-4/veterinary-clinical-practices-ii/",
+      "theme": "dark",
+      "width": 1280,
+      "title": "Veterinary Clinical Practices II Study Guide | ThatVetGuy",
+      "geometry": {
+        "overflow": false,
+        "h1": [
+          "Veterinary Clinical Practices II Study Guide"
+        ],
+        "clipped": [],
+        "small": []
+      },
+      "violations": 0,
+      "errors": []
+    }
+  ],
+  "interactions": [
+    "No JavaScript: home shortcut → all 119 books → MiniVet detail and download action; home shortcut → BVSc subjects → Anatomy notes."
+  ],
+  "errors": []
+}

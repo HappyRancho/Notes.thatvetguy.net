@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Veterinary Biochemistry Notes & BVSc Study Resources
+- ›Veterinary Biochemistry Notes & Books for BVSc
 
-# Veterinary Biochemistry
+# Veterinary Biochemistry Notes
 
-Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition.
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/)
 
@@ -131,4 +131,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

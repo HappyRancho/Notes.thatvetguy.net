@@ -1,10 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-11-18 -->
 
-# Free Veterinary Academic Resources
+# Free Veterinary Notes & Books
 
-Veterinary notes & study material for BVSc & AH. Browse by year, subject or resource.
+Free veterinary notes, books and study material for BVSc & AH. Browse by year or subject.
 
-## BVSc & AH Resources
+## BVSc & AH Notes
 
 Four years. Infinite syllabus. Character development included.
 
@@ -50,7 +50,7 @@ From notes to clinical thinking.
 
 4 subjects · notes & books[Explore 4th Year ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 ## Objective & Competition Resources
 
@@ -117,4 +117,4 @@ Missing a note or book? Let us know.
 
 Students today. Better vets tomorrow.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

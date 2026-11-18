@@ -1,11 +1,11 @@
 {
   "/": {
-    "description": "Free veterinary notes and BVSc & AH study material: topic-wise PDFs, TANUVAS notes, books, question banks and syllabus checklists, organised by year.",
-    "title": "Free Veterinary Notes & BVSc Study Material | ThatVetGuy"
+    "description": "Find free veterinary notes, BVSc & AH study material, veterinary books, TANUVAS PDFs and question banks. Browse by subject or professional year.",
+    "title": "Free Veterinary Notes, Books & BVSc Study Material | ThatVetGuy"
   },
   "/bvsc/": {
-    "title": "BVSc Notes & Recommended Veterinary Books | ThatVetGuy",
-    "description": "Find BVSc & AH notes, recommended veterinary books and course outlines for 1st, 2nd, 3rd and 4th Year. Browse by professional year and subject."
+    "title": "BVSc & AH Notes by Year & Subject | ThatVetGuy",
+    "description": "Browse BVSc & AH notes for 1st, 2nd, 3rd and 4th Year. Find subject-wise veterinary notes, TANUVAS material, books and syllabus checklists."
   },
   "/objective/": {
     "title": "Veterinary Objective Notes & Question Banks | ThatVetGuy",
@@ -21,18 +21,6 @@
   },
   "/about/": {
     "title": "About Notes.ThatVetGuy | Free BVSc Study Resources"
-  },
-  "/bvsc/year-1/notes/": {
-    "description": "1st Year BVSc & AH notes in veterinary anatomy, physiology and livestock production management. Browse topic-wise PDFs by subject and unit."
-  },
-  "/bvsc/year-2/notes/": {
-    "description": "2nd Year BVSc & AH notes in biochemistry, microbiology, pathology, animal genetics and nutrition. Browse topic-wise notes by subject and unit."
-  },
-  "/bvsc/year-3/notes/": {
-    "description": "3rd Year BVSc & AH notes in pharmacology, parasitology, public health, livestock products, extension and practical subjects. Browse by topic."
-  },
-  "/bvsc/year-4/notes/": {
-    "description": "4th Year BVSc & AH notes in veterinary medicine, surgery, radiology, gynaecology and obstetrics. Find topic-wise reading grouped by subject and unit."
   },
   "/study-tools/": {
     "title": "Veterinary Study Tools, Apps & Career Guides | Rx Notes",
@@ -51,11 +39,31 @@
     "description": "Explore 13 veterinary career paths, including Army RVC. Compare entry routes, postgraduate study and overseas registration, with a practical decision worksheet."
   },
   "/bvsc/tanuvas-notes/": {
-    "title": "TANUVAS Notes for BVSc & AH — Subject & Course Directory | Rx Notes",
-    "description": "Find TANUVAS veterinary notes by subject and original course code. Compare collection labels with your BVSc syllabus and open the credited study material."
+    "title": "TANUVAS Veterinary Notes — BVSc Subject Directory | ThatVetGuy",
+    "description": "Find TANUVAS veterinary notes across all four BVSc & AH years: 59 PDFs in 16 subjects, original file names, Google Drive links and syllabus checklists."
   },
   "/bvsc/syllabus/": {
     "title": "BVSc & AH Syllabus — MSVE 2016 Checklists & Course Outlines",
     "description": "Browse the BVSc & AH syllabus by professional year: 19 subject checklists, theory and practical topics, and original MSVE 2016 course-outline PDFs."
+  },
+  "/books/": {
+    "title": "Veterinary Books & Clinical PDF Library | ThatVetGuy",
+    "description": "Browse veterinary books, clinical handbooks and exam references by subject. Open a title for authors, edition details and available PDF or Google Drive access."
+  },
+  "/bvsc/year-1/": {
+    "title": "1st Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "1st Year BVSc & AH notes for anatomy, physiology and livestock management. Browse books, topic notes and syllabus checklists."
+  },
+  "/bvsc/year-2/": {
+    "title": "2nd Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "2nd Year BVSc & AH notes for biochemistry, microbiology, pathology, genetics and nutrition. Browse books, topic notes and syllabus checklists."
+  },
+  "/bvsc/year-3/": {
+    "title": "3rd Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "3rd Year BVSc & AH notes for pharmacology, parasitology, public health and animal husbandry. Browse books, topic notes and syllabus checklists."
+  },
+  "/bvsc/year-4/": {
+    "title": "4th Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "4th Year BVSc & AH notes for medicine, surgery, radiology, gynaecology and obstetrics. Browse books, topic notes and syllabus checklists."
   }
 }

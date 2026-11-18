@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›Veterinary Anatomy Notes & BVSc Study Resources
+- ›Veterinary Anatomy Notes & Books for BVSc
 
-# Veterinary Anatomy
+# Veterinary Anatomy Notes
 
-Veterinary Anatomy focuses on relating structure to function across domestic animal species.
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/)
 
@@ -126,4 +126,4 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

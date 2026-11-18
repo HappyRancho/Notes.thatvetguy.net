@@ -1,10 +1,10 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›4th Year
 
-# 4th Year Notes & Books
+# 4th Year BVSc Notes & Books
 
 4th Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
@@ -22,4 +22,4 @@
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

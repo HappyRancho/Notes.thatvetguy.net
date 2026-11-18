@@ -19,7 +19,7 @@ def index(b):
     books=book_registry()
     desc='BVSc & AH notes, TANUVAS material and recommended books, organised by professional year. Choose a year or open a subject directly.'
     from resource_directories import shortcuts
-    body=b.article_intro('BVSc Notes & Books',desc)+shortcuts(b)+'<div class="bvsc-year-sections">';items=[]
+    body=b.article_intro('BVSc & AH Notes by Year & Subject',desc)+shortcuts(b)+'<div class="bvsc-year-sections">';items=[]
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/';tone=['yellow','peach','sky','mint'][year-1]
         body+='<section class="bvsc-year-section" id="year-'+str(year)+'"><header class="bvsc-year-heading"><span class="bvsc-year-number '+tone+'" aria-hidden="true">'+str(year)+'</span><div><h2>'+e(label)+'</h2><p>'+str(len(y['subjects']))+' subjects · '+str(y['count'])+' notes</p></div>'+b.link(path,'View year '+b.icon('arrow'),'bvsc-year-link')+'</header><div class="bvsc-subject-grid">'
@@ -42,7 +42,7 @@ def render(b):
     for y in b.LIBRARY['years']:
         year=y['year'];label=b.DATA['labels'][str(year)];path=f'/bvsc/year-{year}/'
         desc=f'{label} BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.'
-        body=b.article_intro(label+' Notes & Books',desc,[('BVSc','/bvsc/')]).replace('container reading-page','container reading-page year-page year-directory',1)
+        body=b.article_intro(label+' BVSc Notes & Books',desc,[('BVSc','/bvsc/')]).replace('container reading-page','container reading-page year-page year-directory',1)
         body+=year_nav(b,year)+'<div class="year-essentials">'
         body+=b.link(path+'roadmap/','<span class="rx-row-icon yellow">'+b.icon('map')+'</span><span><strong>'+label+' Roadmap</strong><small>Plan your year</small></span>'+b.icon('chevron'),'year-essential year-roadmap-cta').replace('<a ','<a id="road-map" ',1)
         body+=b.link(outline_url(year),'<span class="rx-row-icon peach">'+b.icon('paper')+'</span><span><strong>Course Outline</strong><small>Read the year syllabus</small></span>'+b.icon('chevron'),'year-essential year-outline-cta')+'</div>'
