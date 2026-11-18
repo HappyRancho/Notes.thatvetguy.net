@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A general medical microbiology text for foundational concepts in microbes, infection and laboratory methods. Pair it with veterinary microbiology notes for animal-specific organisms and diseases.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: C. K. J. Paniker (editor)
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Ananthanarayan microbio.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ananthanarayan%20and%20Paniker%E2%80%99s%20Textbook%20of%20Microbiology#report)
+- Ananthanarayan microbio.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ananthanarayan%20and%20Paniker%E2%80%99s%20Textbook%20of%20Microbiology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

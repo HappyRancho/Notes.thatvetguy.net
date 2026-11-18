@@ -19,7 +19,7 @@ A veterinary drug-reference collection labelled NAVSARI.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Resource type: Handbook
 
@@ -35,4 +35,4 @@ Primary collection: Rx Notes. File: Veterinary Drug Index (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

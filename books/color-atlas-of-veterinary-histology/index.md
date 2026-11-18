@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A veterinary anatomy reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Linda M. Bacha
 
@@ -42,12 +42,14 @@ Primary collection: Rx Notes. File: Color Atlas of Veterinary Histology.pdf
 
 Collection: Vetverse. Original file label:
 
-- Color Atlas of Veterinary Histology.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Color%20Atlas%20of%20Veterinary%20Histology#report)
+- Color Atlas of Veterinary Histology.pdf
 
-Other available copies 
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Color%20Atlas%20of%20Veterinary%20Histology#report)
+
+Other available copies
 
 - Color Atlas of Veterinary Histology.pdf[Open in Drive ](https://drive.google.com/file/d/11WCjKYT9W1SsDBwjgVl7-O02RWDGJqDe/view)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

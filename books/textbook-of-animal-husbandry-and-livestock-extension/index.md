@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Connect extension methods with communication and livestock development.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: P. Mathialagan
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Textbook of AH and Extension - Mathialagan.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Animal%20Husbandry%20and%20Livestock%20Extension#report)
+- Textbook of AH and Extension - Mathialagan.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Animal%20Husbandry%20and%20Livestock%20Extension#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

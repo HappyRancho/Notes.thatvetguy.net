@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Build a veterinary foundation in how body systems work and interact.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: William O. Reece et al.
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Dukes Physiology of Domestic Animals.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Dukes%E2%80%99%20Physiology%20of%20Domestic%20Animals#report)
+- Dukes Physiology of Domestic Animals.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Dukes%E2%80%99%20Physiology%20of%20Domestic%20Animals#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

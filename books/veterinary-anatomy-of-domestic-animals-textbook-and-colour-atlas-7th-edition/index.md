@@ -16,7 +16,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A veterinary anatomy reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary Anatomy
 
@@ -34,12 +34,14 @@ Primary collection: Rx Notes. File: Veterinary Anatomy of Domestic Animals, Text
 
 Collection: Vetverse. Original file label:
 
-- Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Anatomy%20of%20Domestic%20Animals%2C%20Textbook%20and%20Colour%20Atlas%2C%207th%20Edition#report)
+- Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition.pdf
 
-Other available copies 
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Anatomy%20of%20Domestic%20Animals%2C%20Textbook%20and%20Colour%20Atlas%2C%207th%20Edition#report)
+
+Other available copies
 
 - Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition.pdf[Open in Drive ](https://drive.google.com/file/d/11bxwhHjGLv3AiXLd9U2yPezwd89bbVYf/view)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

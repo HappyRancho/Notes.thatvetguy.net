@@ -16,7 +16,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A veterinary and animal husbandry extension education reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary and Animal Husbandry Extension Education
 
@@ -32,8 +32,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Veterinary Extension Education GRK Sharma.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Extension%20Education%20GRK%20Sharma#report)
+- Veterinary Extension Education GRK Sharma.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Extension%20Education%20GRK%20Sharma#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

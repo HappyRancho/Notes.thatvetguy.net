@@ -27,7 +27,7 @@ ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/
 (ROOT/'assets/rx-core.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['site.css','rx-pages.css','homepage.css']))
 (ROOT/'assets/rx-tools.css').write_text((ROOT/'assets/rx-core.css').read_text()+'\n'+(ROOT/'assets/study-tools.css').read_text())
 (ROOT/'assets/rx-subject.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['rx-core.css','academic-pages.css','subject-hub.css']))
-VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/adsense.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
+VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/adsense.json',ROOT/'data/vet-ebooks-books.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
     crumbs=crumbs or []
@@ -42,7 +42,7 @@ def article_intro(title,description,crumbs=None):
     return '<div class="container reading-page"><nav class="breadcrumbs" aria-label="Breadcrumb">'+breadcrumb+'<span aria-hidden="true">/</span><span>'+escape(title)+'</span></nav><header class="reading-header rx-section"><div class="rx-page-title"><span class="rx-row-icon '+tone+'">'+icon(ic)+'</span><h1>'+escape(title)+'</h1></div><p>'+escape(description)+'</p></header>'
 
 def search_form(page=False):return site_shell.search(sys.modules[__name__],page)
-def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None):
+def write_page(path,title,description,body,items=None,home=False,noindex=False,mirror_body=None,source_review=None):
     if not home:
         trail=breadcrumbs.render(breadcrumbs.trail(path,title,geo.PAGES))
         if not re.search(r'<nav class="breadcrumbs"[^>]*>.*?</nav>',body,flags=re.S):
@@ -54,7 +54,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     description=search_meta.get('description',description)
     page_title=search_meta.get('title',title if home else title+' | Notes.ThatVetGuy')
     modified=geo.page_modified(path,page_title,description,body)
-    geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified,DATA['lastChecked'],noindex=noindex);social=geo.social(path)
+    geo.register(path,title,description,mirror_body if mirror_body is not None else body,modified,source_review or DATA['lastChecked'],noindex=noindex);social=geo.social(path)
     schema=geo.structured(path,title,description,items,home,body,RECORDS,modified)
     social_type='image/jpeg' if social.endswith('.jpg') else 'image/webp'
     light,dark=('#eaf8ff','#112433')
@@ -116,7 +116,7 @@ def discovery():
         item={k:r.get(k) for k in ['id','title','subject','year','type','format','kind','group','path','permalink','keywords']};item['fileIds']=r.get('searchFileIds') or (r['photoIds'] or [v['id'] for v in r['variants']])+r['duplicateIds'];item['url']=r['permalink'];item['subject']=item['subject'] or 'Year '+str(r['year'])+' extras';index.append(item)
     from book_catalogue import books as book_registry
     for book in book_registry():
-        if not book.get('resourceId') and book.get('primaryUrl'):index.append(dict(id='book-guide-'+book['id'],title=book['title'],subject=', '.join(s['name'] for s in book['subjects']),year=book['subjects'][0]['year'] if book['subjects'] else None,type='Book',format='Guide',kind='books',group='Books',path='Books/'+book['title'],permalink=book['page'],url=book['page'],fileIds=[],keywords=[book['title'],book.get('author') or '', 'Books']))
+        if not book.get('resourceId') and book.get('primaryUrl'):index.append(dict(id='book-guide-'+book['id'],title=book['title'],subject=', '.join(s['name'] for s in book['subjects']),year=book['subjects'][0]['year'] if book['subjects'] else None,type='Book',format='PDF' if book.get('directPdf') else 'Guide',kind='books',group='Books',path='Books/'+book['title'],permalink=book['page'],url=book['page'],fileIds=[],keywords=[book['title'],book.get('author') or '', 'Books',*book.get('studyUses',[]),(book.get('directPdf') or {}).get('provider','')]))
     from syllabus_pages import DATA as SYLLABI,checklist_url
     for subject in SYLLABI['subjects']:
         route=checklist_url(subject['year'],subject['subject']);index.append(dict(id='syllabus-'+subject['slug'],title=subject['subject']+' Syllabus Checklist',subject=subject['subject'],year=subject['year'],type='Syllabus',format='Checklist',kind='other',group='Syllabus',path='Syllabus/'+subject['subject'],permalink=route,url=route,fileIds=[],keywords=[subject['subject'],'syllabus','course outline','checklist']))

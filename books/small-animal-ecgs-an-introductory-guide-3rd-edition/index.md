@@ -18,7 +18,7 @@ A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapte
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary Medicine
 
@@ -34,8 +34,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Small Animal ECGs, An Introductory Guide, 3rd Edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Small%20Animal%20ECGs%2C%20An%20Introductory%20Guide%2C%203rd%20Edition#report)
+- Small Animal ECGs, An Introductory Guide, 3rd Edition.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Small%20Animal%20ECGs%2C%20An%20Introductory%20Guide%2C%203rd%20Edition#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

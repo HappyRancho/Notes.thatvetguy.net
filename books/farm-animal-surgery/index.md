@@ -20,7 +20,7 @@ Use for operative principles and procedure context in farm animals.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Susan L. Fubini and Norm Ducharme (editors)
 
@@ -40,4 +40,4 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-18; external file availability can change.

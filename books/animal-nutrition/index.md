@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A detailed reference for nutrients, digestion and ration-related concepts.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: P. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. Wilkinson
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Animal Nutrition, 7th edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Animal%20Nutrition#report)
+- Animal Nutrition, 7th edition.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Animal%20Nutrition#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

@@ -157,7 +157,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Demonstration of Haemoproteus columbae in the blood.
 - [ ] Demonstration of sporulation for diagnosis of coccidian parasites.
 
-Course outline & source notes 
+Course outline & source notes
 
 Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
@@ -167,4 +167,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Parasitology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.

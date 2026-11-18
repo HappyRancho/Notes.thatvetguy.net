@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Organise drug classes by mechanism, action and therapeutic use.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: H. S. Sandhu
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Essentials Of Veterinary Pharmacology and Therapeutics-Sandhu 2nd Edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Essentials%20of%20Veterinary%20Pharmacology%20and%20Therapeutics#report)
+- Essentials Of Veterinary Pharmacology and Therapeutics-Sandhu 2nd Edition.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Essentials%20of%20Veterinary%20Pharmacology%20and%20Therapeutics#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

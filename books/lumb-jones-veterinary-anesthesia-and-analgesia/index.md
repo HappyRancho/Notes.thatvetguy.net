@@ -20,7 +20,7 @@ A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the re
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Kurt Grimm, John Thurmon
 
@@ -42,8 +42,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Lumb & Jones Veterinary Anesthesia and Analgesia.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Lumb%20%26%20Jones%20Veterinary%20Anesthesia%20and%20Analgesia#report)
+- Lumb & Jones Veterinary Anesthesia and Analgesia.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Lumb%20%26%20Jones%20Veterinary%20Anesthesia%20and%20Analgesia#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

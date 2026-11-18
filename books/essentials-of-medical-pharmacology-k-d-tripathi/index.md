@@ -20,7 +20,7 @@ A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose 
 
 This is a general medical text. Use veterinary-specific teaching and current species-specific references for clinical decisions.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: K. D. Tripathi
 
@@ -40,8 +40,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Essentials of Medical Pharmacology - K.D.Tripathi (PDFDrive).pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Essentials%20of%20Medical%20Pharmacology%20-%20K.D.Tripathi#report)
+- Essentials of Medical Pharmacology - K.D.Tripathi (PDFDrive).pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Essentials%20of%20Medical%20Pharmacology%20-%20K.D.Tripathi#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

@@ -35,6 +35,12 @@ def books():
   book['files'].append(dict(f));book['lastVerified']=source['reviewed']
   book.setdefault('resourceId','book-'+ident)
  for extra in c.get('additionalBooks',[]):all[extra['id']]=dict(extra)
+ imported=read('vet-ebooks-books.json',{'entries':[]})
+ for item in imported['entries']:
+  ident=item['id']
+  if ident not in all:
+   all[ident]={'id':ident,'title':item['title'],'author':item['author'],'description':item['description'],'subjects':[],'files':[],'telegram':None,'collection':None,'recommended':False,'type':item['type'],'references':[],'lastVerified':imported['reviewed'],'directCover':item['cover']}
+  all[ident].update(description=item['description'],directPdf=dict(item['directPdf']),libraryCategory=item['libraryCategory'],studyUses=item['studyUses'],lastVerified=imported['reviewed'])
  for book in all.values():
   if book['id'] in c.get('telegramOverrides',{}):
    override=c['telegramOverrides'][book['id']];book['telegram']=override['url'];book['originalLabel']=override['originalLabel']
@@ -60,6 +66,7 @@ def books():
     image=image.convert('RGB').rotate(c['coverRotations'][book['id']],expand=True);image.thumbnail((520,760));image.save(dest,'WEBP',quality=85,method=6)
     book['cover']={**original,'path':'/assets/books/'+dest.name,'width':image.width,'height':image.height,'manualOrientation':c['coverRotations'][book['id']]}
   if book['id'] in c.get('coverOverrides',{}):book['cover']=c['coverOverrides'][book['id']]
+  if book.get('directCover'):book['cover']=book['directCover']
   from book_covers import resolve
   book['cover']=resolve(book)
   book['page']=route(book['id'])
@@ -68,12 +75,12 @@ def books():
   if book['primaryDrive']:
    book['telegram']=None
    book['lastVerified']=read('primary-drive-links.json',{})['reviewed']
-  book['primaryUrl']=(book['primaryDrive']['url'] if book['primaryDrive'] else None) or book['telegram'] or (book['files'][0]['url'] if book['files'] else None)
-  book['access']='Telegram' if book['telegram'] else 'Google Drive' if book['primaryDrive'] or book['files'] else 'Reading guide'
-  book['downloadLabel']='Download via Telegram' if book['telegram'] else 'Open in Google Drive' if book['primaryDrive'] or book['files'] else 'Request this book'
+  book['primaryUrl']=(book['primaryDrive']['url'] if book['primaryDrive'] else None) or book['telegram'] or (book['files'][0]['url'] if book['files'] else None) or (book.get('directPdf') or {}).get('url')
+  book['access']='Direct PDF' if book.get('directPdf') else 'Telegram' if book['telegram'] else 'Google Drive' if book['primaryDrive'] or book['files'] else 'Reading guide'
+  book['downloadLabel']='Download PDF' if book.get('directPdf') else 'Download via Telegram' if book['telegram'] else 'Open in Google Drive' if book['primaryDrive'] or book['files'] else 'Request this book'
   if not book['description']:
    subject=book['subjects'][0]['name'];book['description']=f'A {subject.lower()} reference for Year {book["subjects"][0]["year"]} BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.'
-  book['clinical']=book['collection'] in ['handbooks','drug-index'] or any(s['year']==4 for s in book['subjects'])
+  book['clinical']=book.get('libraryCategory') in ['clinical','drug-references','disease-diagnostics'] or book['collection'] in ['handbooks','drug-index'] or any(s['year']==4 for s in book['subjects'])
  result=sorted(all.values(),key=lambda b:natural(b['title']))
  (ROOT/'data/books.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
  return result

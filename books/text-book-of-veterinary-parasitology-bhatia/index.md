@@ -17,7 +17,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A veterinary parasitology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary Parasitology
 
@@ -33,8 +33,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Text Book of Veterinary Parasitology - Bhatia.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Text%20Book%20of%20Veterinary%20Parasitology%20-%20Bhatia#report)
+- Text Book of Veterinary Parasitology - Bhatia.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Text%20Book%20of%20Veterinary%20Parasitology%20-%20Bhatia#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

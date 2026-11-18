@@ -20,7 +20,7 @@ A substantial large-animal reference for disease mechanisms, diagnosis and manag
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Peter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg
 
@@ -38,8 +38,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Veterinary Medicine A Textbook of the Diseases of Cattle, Horses, Sheep, Pigs and Goats,11th Edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Medicine#report)
+- Veterinary Medicine A Textbook of the Diseases of Cattle, Horses, Sheep, Pigs and Goats,11th Edition.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Medicine#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

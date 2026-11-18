@@ -25,7 +25,13 @@ for b in books:
  schema=next(x for x in d.schemas if x.get('@id')=='https://notes.thatvetguy.net'+b['page']+'#book')
  assert schema['name']==b['title'] and schema['educationalLevel']=='BVSc & AH'
  assert not any(k in schema for k in ['isbn','aggregateRating','offers']),'Unverified commercial metadata'
- if b['telegram']:
+ if b.get('directPdf'):
+  assert 'Download PDF' in raw and b['directPdf']['url'] in d.links
+  assert b['directPdf']['sizeLabel'] in raw and b['directPdf']['provider'] in raw
+  assert all(f['url'] in d.links for f in b['files']),(b['id'],'existing copy link lost')
+  assert schema['encoding']['contentUrl']==b['directPdf']['url'] and schema['encoding']['encodingFormat']=='application/pdf'
+  assert schema['teaches']==b['studyUses']
+ elif b['telegram']:
   assert 'Download via Telegram' in raw and b['telegram'] in d.links
   assert 'opens the book’s Telegram post' in raw
   if '/c/' in b['telegram']:assert 'private collection' in raw
@@ -33,7 +39,7 @@ for b in books:
   assert 'Open in Google Drive' in raw and 'Download via Telegram' not in raw
   assert all(f['url'] in d.links for f in b['files']),(b['id'],'copy link lost')
  else:assert 'Request this book' in raw and 'reading recommendation' in raw
- if b['primaryUrl']:assert schema['potentialAction']['target']==b['primaryUrl']
+ if b['primaryUrl']:assert schema['potentialAction']['target']==((b.get('directPdf') or {}).get('url') or b['primaryUrl'])
  if b['cover']:
   c=b['cover'];path=ROOT/c['path'].lstrip('/')
   with Image.open(path) as image:assert image.size==(c['width'],c['height'])

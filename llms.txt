@@ -2,11 +2,11 @@
 
 > Free academic resources, thoughtfully made for future vets.
 
-Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: ThatVetGuy team. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.
+Notes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: ThatVetGuy team. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Books with a Download PDF action use checked public provider links; other titles may be reading recommendations without a linked copy. Known source credits are preserved; inclusion does not imply authorship or medical review.
 
 Main website: https://thatvetguy.net
 Author: ThatVetGuy team
-Last source review: 2026-11-02. File access settings can change.
+Latest source check: 2026-11-18. Individual page dates identify older source checks. File access settings can change.
 
 ## Sections and subject guides
 
@@ -108,13 +108,23 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/index.md
 - [Applied Veterinary Gynaecology and Obstetrics Dr Pradeep — Details & Drive Access](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/): Applied Veterinary Gynaecology and Obstetrics Dr Pradeep. A reference on veterinary gynaecology and obstetrics, connecting reproductive study with applied clinical topics..
   - Markdown: https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/index.md
+- [Behaviour Problems in Small Animals: Practical Advice for the Veterinary Team — PDF Download](https://notes.thatvetguy.net/books/behaviour-problems-in-small-animals-practical-advice-for-the-veterinary-team/): Behaviour Problems in Small Animals: Practical Advice for the Veterinary Team. PDF · 9.0 MB. A practical guide to behaviour problems encountered by veterinary teams.
+  - Markdown: https://notes.thatvetguy.net/books/behaviour-problems-in-small-animals-practical-advice-for-the-veterinary-team/index.md
 - [Biochemistry — BVSc Reading Guide](https://notes.thatvetguy.net/books/biochemistry/): Biochemistry by U. Satyanarayana and U. Chakrapani. Use for core pathways and biomolecules; pair with veterinary examples from class.
   - Markdown: https://notes.thatvetguy.net/books/biochemistry/index.md
+- [Blackwell’s Five-Minute Veterinary Consult Clinical Companion Equine Theriogenology — PDF Download](https://notes.thatvetguy.net/books/blackwells-five-minute-veterinary-consult-clinical-companion-equine-theriogenology/): Blackwell’s Five-Minute Veterinary Consult Clinical Companion Equine Theriogenology. PDF · 34.9 MB. An equine theriogenology reference in the Five-Minute Veterinary.
+  - Markdown: https://notes.thatvetguy.net/books/blackwells-five-minute-veterinary-consult-clinical-companion-equine-theriogenology/index.md
 - [Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics — Details & Drive Access](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/): Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics. A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using.
   - Markdown: https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/index.md
+- [BSAVA Manual of Canine and Feline Abdominal Imaging — PDF Download](https://notes.thatvetguy.net/books/bsava-manual-of-canine-and-feline-abdominal-imaging/): BSAVA Manual of Canine and Feline Abdominal Imaging. PDF · 9.8 MB. A small-animal imaging manual focused on the abdomen. It supports review of radiographic and ultrasound.
+  - Markdown: https://notes.thatvetguy.net/books/bsava-manual-of-canine-and-feline-abdominal-imaging/index.md
+- [BSAVA Manual of Canine and Feline Fracture Repair and Management 2nd Edition — PDF Download](https://notes.thatvetguy.net/books/bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition/): BSAVA Manual of Canine and Feline Fracture Repair and Management 2nd Edition. PDF · 34.8 MB. A surgical manual on fracture repair and management in dogs and cats. It.
+  - Markdown: https://notes.thatvetguy.net/books/bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition/index.md
+- [Calf Rearing, A Practical Guide, 2nd Edition — PDF Download](https://notes.thatvetguy.net/books/calf-rearing-a-practical-guide-2nd-edition/): Calf Rearing, A Practical Guide, 2nd Edition. PDF · 5.6 MB. A practical calf-management guide covering the rearing period, nutrition and everyday husbandry. It supports.
+  - Markdown: https://notes.thatvetguy.net/books/calf-rearing-a-practical-guide-2nd-edition/index.md
 - [Canine and Feline Endocrinology and Reproduction — Details & Drive Access](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/): Canine and Feline Endocrinology and Reproduction by Edward C. Feldman, Richard W. Nelson. A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose.
   - Markdown: https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/index.md
-- [Clinical Examination of Farm Animals — Details & Drive Access](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/): Clinical Examination of Farm Animals by Peter G. G. Jackson, Peter D. Cockcroft. A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using.
+- [Clinical Examination of Farm Animals — PDF Download](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/): Clinical Examination of Farm Animals. PDF · 7.6 MB. A farm-animal reference on clinical examination and the collection of useful diagnostic findings. It supports a.
   - Markdown: https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/index.md
 - [Clinical Handbook on Canine Dermatology 3rd Edition — Details & Drive Access](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/): Clinical Handbook on Canine Dermatology 3rd Edition. A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm.
   - Markdown: https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/index.md
@@ -128,14 +138,24 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/small-animal-colour-handbook/index.md
 - [Compiled Question Bank by Dhruv N Desai — Details & Drive Access](https://notes.thatvetguy.net/books/dhruv-desai/): Compiled Question Bank by Dhruv N Desai by Dhruv N Desai. Compiled objective questions across veterinary subjects for focused revision.
   - Markdown: https://notes.thatvetguy.net/books/dhruv-desai/index.md
+- [Concepts and Applications in Veterinary Toxicology, An Interactive Guide — PDF Download](https://notes.thatvetguy.net/books/concepts-and-applications-in-veterinary-toxicology-an-interactive-guide/): Concepts and Applications in Veterinary Toxicology, An Interactive Guide. PDF · 8.8 MB. A veterinary toxicology reference connecting foundational concepts with practical.
+  - Markdown: https://notes.thatvetguy.net/books/concepts-and-applications-in-veterinary-toxicology-an-interactive-guide/index.md
 - [Cunningham’s Textbook of Veterinary Physiology — Details & Drive Access](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/): Cunningham’s Textbook of Veterinary Physiology by Bradley G. Klein (editor). A companion for understanding mechanisms before memorising values.
   - Markdown: https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/index.md
+- [Decision Making in Small Animal Oncology — PDF Download](https://notes.thatvetguy.net/books/decision-making-in-small-animal-oncology/): Decision Making in Small Animal Oncology. PDF · 6.4 MB. A clinical oncology reference organised around decision making in small-animal cases. It supports review of.
+  - Markdown: https://notes.thatvetguy.net/books/decision-making-in-small-animal-oncology/index.md
 - [Drug Dose — Wall Reference — Details & Drive Access](https://notes.thatvetguy.net/books/wall-drug-dose/): Drug Dose — Wall Reference. A printable quick-reference sheet; verify every dose against current clinical guidance.
   - Markdown: https://notes.thatvetguy.net/books/wall-drug-dose/index.md
 - [Dukes’ Physiology of Domestic Animals — Details & Drive Access](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/): Dukes’ Physiology of Domestic Animals by William O. Reece et al.. Build a veterinary foundation in how body systems work and interact.
   - Markdown: https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/index.md
 - [E. Nanu Veterinary Question Bank — Details & Drive Access](https://notes.thatvetguy.net/books/e-nanu-qbank/): E. Nanu Veterinary Question Bank by E. Nanu. Another veterinary question set for checking recall and identifying revision gaps.
   - Markdown: https://notes.thatvetguy.net/books/e-nanu-qbank/index.md
+- [Electrocardiography In Veterinary Medicine — PDF Download](https://notes.thatvetguy.net/books/electrocardiography-in-veterinary-medicine/): Electrocardiography In Veterinary Medicine. PDF · 18.6 MB. A veterinary electrocardiography reference covering ECG recording and interpretation across animal species. It.
+  - Markdown: https://notes.thatvetguy.net/books/electrocardiography-in-veterinary-medicine/index.md
+- [Equine Neck and Back Pathology: Diagnosis and Treatment 2nd Edition — PDF Download](https://notes.thatvetguy.net/books/equine-neck-and-back-pathology-diagnosis-and-treatment-2nd-edition/): Equine Neck and Back Pathology: Diagnosis and Treatment 2nd Edition. PDF · 9.0 MB. An equine reference on disorders of the neck, back and pelvis. It connects anatomy and.
+  - Markdown: https://notes.thatvetguy.net/books/equine-neck-and-back-pathology-diagnosis-and-treatment-2nd-edition/index.md
+- [Essentials of Avian Medicine and Surgery 3rd Edition — PDF Download](https://notes.thatvetguy.net/books/essentials-of-avian-medicine-and-surgery-3rd-edition/): Essentials of Avian Medicine and Surgery 3rd Edition. PDF · 4.3 MB. A practical avian reference covering patient assessment, medical problems and surgical care. It brings.
+  - Markdown: https://notes.thatvetguy.net/books/essentials-of-avian-medicine-and-surgery-3rd-edition/index.md
 - [Essentials of Medical Pharmacology - K.D.Tripathi — Details & Drive Access](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/): Essentials of Medical Pharmacology - K.D.Tripathi by K. D. Tripathi. A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose the relevant chapters.
   - Markdown: https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/index.md
 - [Essentials of Veterinary Histology & Embryology — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/): Essentials of Veterinary Histology & Embryology by R. K. Ghosh. R. K. Ghosh’s text brings microscopic anatomy and embryology together for veterinary study. Use it to.
@@ -150,6 +170,8 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/farm-animal-surgery/index.md
 - [Fenner’s Veterinary Virology 5th edition — Details & Drive Access](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/): Fenner’s Veterinary Virology 5th edition. A veterinary microbiology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the.
   - Markdown: https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/index.md
+- [Fish Diseases and Medicine — PDF Download](https://notes.thatvetguy.net/books/fish-diseases-and-medicine/): Fish Diseases and Medicine. PDF · 18.0 MB. A clinical reference on fish diseases and their investigation. It supports study of how patient findings and husbandry.
+  - Markdown: https://notes.thatvetguy.net/books/fish-diseases-and-medicine/index.md
 - [Fluid therapy guidelines for dogs and cats — Details & Drive Access](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/): Fluid therapy guidelines for dogs and cats. A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm the.
   - Markdown: https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/index.md
 - [Goodman and Gilman’s The Pharmacological Basis of Therapeutics — Details & Drive Access](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/): Goodman and Gilman’s The Pharmacological Basis of Therapeutics. A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose the relevant chapters using.
@@ -160,10 +182,22 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/index.md
 - [Handbook for Veterinary Clinician — Details & Drive Access](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/): Handbook for Veterinary Clinician by A U Bhikane. A clinical handbook by A. U. Bhikane for quick veterinary reference. Use it to revisit clinical topics alongside current.
   - Markdown: https://notes.thatvetguy.net/books/veterinary-clinician-handbook/index.md
+- [Handbook of Equine Anaesthesia 2nd Edition — PDF Download](https://notes.thatvetguy.net/books/handbook-of-equine-anaesthesia-2nd-edition/): Handbook of Equine Anaesthesia 2nd Edition. PDF · 14.8 MB. A focused handbook on equine anaesthesia, sedation and perioperative care. It supports review of the.
+  - Markdown: https://notes.thatvetguy.net/books/handbook-of-equine-anaesthesia-2nd-edition/index.md
+- [Handbook of Equine Parasite Control 2nd Edition — PDF Download](https://notes.thatvetguy.net/books/handbook-of-equine-parasite-control-2nd-edition/): Handbook of Equine Parasite Control 2nd Edition. PDF · 4.3 MB. A focused handbook on parasite monitoring and control in horses. It connects equine parasitology with.
+  - Markdown: https://notes.thatvetguy.net/books/handbook-of-equine-parasite-control-2nd-edition/index.md
+- [Handbook of Exotic Pet Medicine — PDF Download](https://notes.thatvetguy.net/books/handbook-of-exotic-pet-medicine/): Handbook of Exotic Pet Medicine. PDF · 24.2 MB. A handbook covering the clinical care of exotic pets. It supports review of patient assessment and species-related medical.
+  - Markdown: https://notes.thatvetguy.net/books/handbook-of-exotic-pet-medicine/index.md
+- [Handbook of Laboratory Animal Anesthesia and Pain Management: Rodents — PDF Download](https://notes.thatvetguy.net/books/handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents/): Handbook of Laboratory Animal Anesthesia and Pain Management: Rodents. PDF · 34.9 MB. A handbook focused on anaesthesia and pain management in laboratory rodents. It.
+  - Markdown: https://notes.thatvetguy.net/books/handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents/index.md
 - [Handbook of Small Animal Radiology and Ultrasound — Details & Drive Access](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/): Handbook of Small Animal Radiology and Ultrasound by Ruth Dennis. Handbook of Small Animal Radiology and Ultrasound.
   - Markdown: https://notes.thatvetguy.net/books/small-animal-radiology-handbook/index.md
+- [Handbook of Veterinary Nursing 2nd Edition — PDF Download](https://notes.thatvetguy.net/books/handbook-of-veterinary-nursing-2nd-edition/): Handbook of Veterinary Nursing 2nd Edition. PDF · 13.0 MB. A veterinary nursing handbook bringing together practical patient-care topics. It supports study of nursing.
+  - Markdown: https://notes.thatvetguy.net/books/handbook-of-veterinary-nursing-2nd-edition/index.md
 - [Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008) — Details & Drive Access](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/): Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008). A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose the relevant.
   - Markdown: https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/index.md
+- [Introduction to Veterinary and Comparative Forensic Medicine — PDF Download](https://notes.thatvetguy.net/books/introduction-to-veterinary-and-comparative-forensic-medicine/): Introduction to Veterinary and Comparative Forensic Medicine. PDF · 10.6 MB. An introduction to veterinary and comparative forensic medicine. It supports study of how.
+  - Markdown: https://notes.thatvetguy.net/books/introduction-to-veterinary-and-comparative-forensic-medicine/index.md
 - [KVAFSU Question Bank — Details & Drive Access](https://notes.thatvetguy.net/books/kvafsu-qbank/): KVAFSU Question Bank. Build a subject-wise practice routine with this veterinary question collection.
   - Markdown: https://notes.thatvetguy.net/books/kvafsu-qbank/index.md
 - [Laboratory Animal and Exotic Pet Medicine Principles and Procedures — Details & Drive Access](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/): Laboratory Animal and Exotic Pet Medicine Principles and Procedures by Margi Sirois. A reference on the principles and procedures used with laboratory animals and exotic.
@@ -176,12 +210,18 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/index.md
 - [Manual of Canine and Feline Cardiology — Details & Drive Access](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/): Manual of Canine and Feline Cardiology by Larry P. Tilley, John-Karl Goodwin. A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your.
   - Markdown: https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/index.md
+- [Manual of Skin Diseases of the Dog and Cat 2nd Edition — PDF Download](https://notes.thatvetguy.net/books/manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition/): Manual of Skin Diseases of the Dog and Cat 2nd Edition. PDF · 32.6 MB. A clinical manual focused on skin diseases in dogs and cats. It supports study of dermatological.
+  - Markdown: https://notes.thatvetguy.net/books/manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition/index.md
+- [Manual of Veterinary Transfusion Medicine and Blood Banking — PDF Download](https://notes.thatvetguy.net/books/manual-of-veterinary-transfusion-medicine-and-blood-banking/): Manual of Veterinary Transfusion Medicine and Blood Banking. PDF · 15.6 MB. A practical manual covering veterinary transfusion medicine and blood banking. It brings.
+  - Markdown: https://notes.thatvetguy.net/books/manual-of-veterinary-transfusion-medicine-and-blood-banking/index.md
 - [Meat and Meat Products Technology — BVSc Reading Guide](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/): Meat and Meat Products Technology by B. D. Sharma. Read alongside abattoir and meat-science teaching for processing and product concepts.
   - Markdown: https://notes.thatvetguy.net/books/meat-and-meat-products-technology/index.md
 - [Meat Processing Technology — Details & Drive Access](https://notes.thatvetguy.net/books/meat-processing-technology/): Meat Processing Technology. A livestock products technology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in.
   - Markdown: https://notes.thatvetguy.net/books/meat-processing-technology/index.md
 - [Metabolic Diseases in Farm Animals — Details & Drive Access](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/): Metabolic Diseases in Farm Animals by Jack M. Payne. A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline; confirm.
   - Markdown: https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/index.md
+- [MiniVet Guide: Companion Animal Medicine — PDF Download](https://notes.thatvetguy.net/books/minivet-guide/): MiniVet Guide: Companion Animal Medicine. PDF · 13.1 MB. A compact companion-animal guide intended for clinical rotations and everyday reference. It organises common.
+  - Markdown: https://notes.thatvetguy.net/books/minivet-guide/index.md
 - [NDRI Veterinary Question Bank — Details & Drive Access](https://notes.thatvetguy.net/books/ndri-qbank/): NDRI Veterinary Question Bank. An additional question collection to work through during exam preparation.
   - Markdown: https://notes.thatvetguy.net/books/ndri-qbank/index.md
 - [Ockerman Animal Byproduct Processing — Details & Drive Access](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/): Ockerman Animal Byproduct Processing by H. W. Ockerman and C. L. Hansen. Explores the processing and use of animal by-products. Relevant to livestock-products technology,.
@@ -198,6 +238,8 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/small-animal-medicine-handbook/index.md
 - [Poultry Metabolic Disorders and Mycotoxins — Details & Drive Access](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/): Poultry Metabolic Disorders and Mycotoxins by Steven Leeson. A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline;.
   - Markdown: https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/index.md
+- [Practical Veterinary Urinalysis — PDF Download](https://notes.thatvetguy.net/books/practical-veterinary-urinalysis/): Practical Veterinary Urinalysis. PDF · 26.9 MB. A practical reference for veterinary urine testing and interpretation. It supports review of sample assessment, laboratory.
+  - Markdown: https://notes.thatvetguy.net/books/practical-veterinary-urinalysis/index.md
 - [Prescott’s Microbiology — Details & Drive Access](https://notes.thatvetguy.net/books/prescott-s-microbiology/): Prescott’s Microbiology. A veterinary microbiology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the.
   - Markdown: https://notes.thatvetguy.net/books/prescott-s-microbiology/index.md
 - [Primary Veterinary Anatomy — Details & Drive Access](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/): Primary Veterinary Anatomy by R. K. Ghosh. Primary Veterinary Anatomy introduces gross anatomy for veterinary students. R. K. Ghosh’s text relates the arrangement of.
@@ -208,6 +250,8 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/index.md
 - [Reproduction in Farm Animals,7th Edition by Hafeez — Details & Drive Access](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/): Reproduction in Farm Animals,7th Edition by Hafeez. A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose the relevant chapters using your course.
   - Markdown: https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/index.md
+- [Reptile Medicine and Surgery in Clinical Practice — PDF Download](https://notes.thatvetguy.net/books/reptile-medicine-and-surgery-in-clinical-practice/): Reptile Medicine and Surgery in Clinical Practice. PDF · 21.7 MB. A practice-oriented reference for reptile medicine and surgery. It supports study of clinical assessment,.
+  - Markdown: https://notes.thatvetguy.net/books/reptile-medicine-and-surgery-in-clinical-practice/index.md
 - [Restraint and Handling of Wild and Domestic Animals — Details & Drive Access](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/): Restraint and Handling of Wild and Domestic Animals by Murray Fowler. A livestock production management reference for Year 1 BVSc & AH. Choose the relevant chapters using.
   - Markdown: https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/index.md
 - [Review of Animal Science — Details & Drive Access](https://notes.thatvetguy.net/books/review-animal-science/): Review of Animal Science. Review important animal-science topics alongside your syllabus and class notes.
@@ -222,6 +266,8 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/index.md
 - [Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition — Details & Drive Access](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/): Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition. A veterinary surgery and radiology reference for Year 4 BVSc & AH. Choose the relevant chapters using your.
   - Markdown: https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/index.md
+- [Small Animal Dermatology: Self-Assessment Color Review — PDF Download](https://notes.thatvetguy.net/books/small-animal-dermatology-self-assessment-colour-review/): Small Animal Dermatology: Self-Assessment Color Review. PDF · 10.1 MB. A dermatology revision resource built around clinical self-assessment. It supports practice in.
+  - Markdown: https://notes.thatvetguy.net/books/small-animal-dermatology-self-assessment-colour-review/index.md
 - [Small Animal ECGs, An Introductory Guide, 3rd Edition — Details & Drive Access](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/): Small Animal ECGs, An Introductory Guide, 3rd Edition. A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapters using your course outline;.
   - Markdown: https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/index.md
 - [Small Animal Internal Medicine 5th Edition — Details & Drive Access](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/): Small Animal Internal Medicine 5th Edition by Richard W. Nelson and C. Guillermo Couto. A small-animal medicine reference for studying internal diseases in dogs and cats..
@@ -246,6 +292,8 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/index.md
 - [The Necropsy Book — Details & Drive Access](https://notes.thatvetguy.net/books/necropsy-book-john-king/): The Necropsy Book by John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom. A veterinary pathology reference for Year 2 BVSc & AH. Choose the relevant.
   - Markdown: https://notes.thatvetguy.net/books/necropsy-book-john-king/index.md
+- [The Small Animal Veterinary Nerdbook — PDF Download](https://notes.thatvetguy.net/books/the-small-animal-veterinary-nerdbook/): The Small Animal Veterinary Nerdbook. PDF · 22.2 MB. A compact small-animal reference for students and clinicians reviewing everyday clinical questions. It brings multiple.
+  - Markdown: https://notes.thatvetguy.net/books/the-small-animal-veterinary-nerdbook/index.md
 - [Ultimate Vet Handbook — Details & Drive Access](https://notes.thatvetguy.net/books/ultimate-vet-handbook/): Ultimate Vet Handbook. DVM standards handbook for Crisp Veterinary Clinical Knowledge.
   - Markdown: https://notes.thatvetguy.net/books/ultimate-vet-handbook/index.md
 - [Vaccination Schedule of All Animals — Details & Drive Access](https://notes.thatvetguy.net/books/vaccination-schedule/): Vaccination Schedule of All Animals. A vaccination-schedule reference to compare with species, local guidance and product labels.

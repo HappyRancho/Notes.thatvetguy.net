@@ -20,7 +20,7 @@ A companion for clinical examination and a systematic approach to disease.
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Amalendu Chakrabarti
 
@@ -38,8 +38,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Textbook of Clinical Veterinary Medicine by Amalendu Chakrabarti.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Clinical%20Veterinary%20Medicine#report)
+- Textbook of Clinical Veterinary Medicine by Amalendu Chakrabarti.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Clinical%20Veterinary%20Medicine#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

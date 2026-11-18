@@ -1,0 +1,139 @@
+{
+  "views": [
+    {
+      "theme": "light",
+      "width": 360,
+      "books": 119,
+      "geometry": {
+        "viewport": 360,
+        "document": 345,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "books": 119,
+      "geometry": {
+        "viewport": 390,
+        "document": 375,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 430,
+      "books": 119,
+      "geometry": {
+        "viewport": 430,
+        "document": 415,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 768,
+      "books": 119,
+      "geometry": {
+        "viewport": 768,
+        "document": 753,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 1280,
+      "books": 119,
+      "geometry": {
+        "viewport": 1280,
+        "document": 1265,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 360,
+      "books": 119,
+      "geometry": {
+        "viewport": 360,
+        "document": 345,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "books": 119,
+      "geometry": {
+        "viewport": 390,
+        "document": 375,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 430,
+      "books": 119,
+      "geometry": {
+        "viewport": 430,
+        "document": 415,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 768,
+      "books": 119,
+      "geometry": {
+        "viewport": 768,
+        "document": 753,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 1280,
+      "books": 119,
+      "geometry": {
+        "viewport": 1280,
+        "document": 1265,
+        "h1": 1,
+        "clipped": []
+      },
+      "violations": 0,
+      "errors": []
+    }
+  ],
+  "interactions": [
+    "Bottom navigation to Books; book/detail navigation; title, author and subject filters; empty state; Clear and Escape reset; category filters and keyboard selection; Show more reaches the entire catalogue; search available from More.",
+    "The entire catalogue, category jumps and book detail access work with JavaScript disabled."
+  ],
+  "errors": []
+}

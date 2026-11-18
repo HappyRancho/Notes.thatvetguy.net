@@ -20,7 +20,7 @@ A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapte
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Steven Leeson
 
@@ -42,8 +42,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Poultry Metabolic Disorders and Mycotoxins.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Poultry%20Metabolic%20Disorders%20and%20Mycotoxins#report)
+- Poultry Metabolic Disorders and Mycotoxins.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Poultry%20Metabolic%20Disorders%20and%20Mycotoxins#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

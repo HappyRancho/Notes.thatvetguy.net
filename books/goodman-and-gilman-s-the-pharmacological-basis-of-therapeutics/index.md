@@ -18,7 +18,7 @@ A veterinary pharmacology and toxicology reference for Year 3 BVSc & AH. Choose 
 
 This is a general medical text. Use veterinary-specific teaching and current species-specific references for clinical decisions.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary Pharmacology and Toxicology
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Goodman and Gilman’s The Pharmacological Basis of Therapeutics (PDFDrive).pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Goodman%20and%20Gilman%E2%80%99s%20The%20Pharmacological%20Basis%20of%20Therapeutics#report)
+- Goodman and Gilman’s The Pharmacological Basis of Therapeutics (PDFDrive).pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Goodman%20and%20Gilman%E2%80%99s%20The%20Pharmacological%20Basis%20of%20Therapeutics#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

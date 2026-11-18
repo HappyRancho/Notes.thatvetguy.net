@@ -20,7 +20,7 @@ The linked copy is the 10th edition of Plumb’s Veterinary Drug Handbook by Jam
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: James A. Budde and Dawn M. McCluskey
 
@@ -42,4 +42,4 @@ Primary collection: Rx Notes. File: Plumb's Veterinary Drug Handbook (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

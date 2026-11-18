@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 R. K. Ghosh’s text brings microscopic anatomy and embryology together for veterinary study. Use it to connect normal tissue structure with organ function, then follow development from fertilisation to birth. It is useful alongside slide identification and embryology lectures. Check the linked copy’s title page and edition before planning your reading.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: R. K. Ghosh
 
@@ -42,4 +42,4 @@ Shared file label: Vet histology & embryology-RK Ghosh .pdf
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

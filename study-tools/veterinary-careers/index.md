@@ -673,7 +673,7 @@ Ask what “mentorship” means on Monday morningInternational new-graduate disc
 
 - Our practical takeaway.: Ask for the mentor’s name, shared shifts, protected case-review time and the plan when that person is absent. Check these in a placement or interview. Try asking, “If I am uncertain in my first consultation, what happens next?” A useful answer names a person, a way to reach them and how work is adjusted while you learn. If support fails after joining, document the gap, request a clear plan and review whether the role remains appropriate for your competence.[Read the original discussion](https://www.reddit.com/r/Veterinary/comments/1uyv8fr/new_grad_feeling_overwhelmed/)
 
-Official checks & further reading 
+Official checks & further reading
 
 ## Official sources
 
@@ -749,4 +749,4 @@ Manitoba regulator explains removal of the NEB PSA requirement in June 2026 and 
 
 [Vet Apps for Students](https://notes.thatvetguy.net/study-tools/vet-apps/)[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-18; external file availability can change.

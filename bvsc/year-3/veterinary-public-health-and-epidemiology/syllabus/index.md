@@ -55,7 +55,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Importance of ISO 9000 and 14000 series in meat industry.
 - [ ] Risk analysis, assessment and management.
 
-Show 4 more topics 
+Show 4 more topics
 
 - [ ] International food safety standards: World Organisation for Animal Health (OIE), World Trade Organization (WTO) agreements and Codex Alimentarius Commission.
 - [ ] Sanitary and phytosanitary measures in relation to foods of animal origin.
@@ -179,7 +179,7 @@ Show 4 more topics
 - [ ] Demonstration of toxic residues in water and other environmental sources.
 - [ ] Visit to local polluted site and documentation of local environmental problems — like dumping grounds, local slum areas, crowded localities etc.
 
-Course outline & source notes 
+Course outline & source notes
 
 Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
@@ -189,4 +189,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Public Health and Epidemiology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.

@@ -18,7 +18,7 @@ This is a reading recommendation. A linked copy is not currently available; you 
 
 Support your study of milk processing, preservation and dairy products.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Sukumar De
 
@@ -42,4 +42,4 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-18; external file availability can change.

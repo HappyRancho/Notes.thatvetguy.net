@@ -20,7 +20,7 @@ A veterinary physiology reference for Year 1 BVSc & AH. Choose the relevant chap
 
 This is a general medical text. Use veterinary-specific teaching and current species-specific references for clinical decisions.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: John E. Hall, Arthur C. Guyton
 
@@ -44,8 +44,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Guyton and Hall Textbook of Medical Physiology.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Guyton%20and%20Hall%20Textbook%20of%20Medical%20Physiology#report)
+- Guyton and Hall Textbook of Medical Physiology.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Guyton%20and%20Hall%20Textbook%20of%20Medical%20Physiology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

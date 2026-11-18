@@ -17,7 +17,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 An animal-breeding reading resource from the second-year collection. Use your syllabus to select relevant breeding and selection topics; the shared file does not establish a verified author or edition.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Animal Genetics and Breeding
 
@@ -33,8 +33,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Animal breeding.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Animal%20breeding#report)
+- Animal breeding.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Animal%20breeding#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

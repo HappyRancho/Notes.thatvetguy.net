@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A veterinary-science revision book combining subject review with practice questions. The 2022 listing includes three mock tests and three previous PSC papers. Best used to identify gaps after studying a topic.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Shailesh Kumar Patel, Jigyasa Rana and B. Balamurugan
 
@@ -36,4 +36,4 @@ Primary collection: Rx Notes. File: Vet_Scorer_2022_(1st_Edition)[1]_rotated (2)
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

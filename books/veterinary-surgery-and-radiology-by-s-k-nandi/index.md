@@ -20,7 +20,7 @@ A veterinary surgery and radiology textbook organised for veterinary study. Use 
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Samit Kumar Nandi, Samar Halder and Mozammel Hoque
 
@@ -38,8 +38,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Veterinary surgery and radiology by s.k.nandi .pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20surgery%20and%20radiology%20by%20s.k.nandi#report)
+- Veterinary surgery and radiology by s.k.nandi .pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20surgery%20and%20radiology%20by%20s.k.nandi#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

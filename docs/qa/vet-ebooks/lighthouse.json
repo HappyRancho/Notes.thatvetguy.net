@@ -1,0 +1,417 @@
+{
+  "phase": "vet-ebooks-lighthouse",
+  "views": [],
+  "lighthouse": [
+    {
+      "url": "/books/",
+      "scores": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2341.8744,
+      "lcpElement": [
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "node",
+              "valueType": "node",
+              "label": "Element"
+            }
+          ],
+          "items": [
+            {
+              "node": {
+                "type": "node",
+                "lhId": "page-0-IMG",
+                "path": "1,HTML,1,BODY,2,MAIN,0,DIV,5,DIV,0,SECTION,1,DIV,1,ARTICLE,0,A,0,SPAN,0,IMG",
+                "selector": "article.subject-book-card > a.year-book-link > span.subject-book-art > img",
+                "boundingRect": {
+                  "top": 487,
+                  "bottom": 595,
+                  "left": 168,
+                  "right": 243,
+                  "width": 75,
+                  "height": 108
+                },
+                "snippet": "<img src=\"/assets/books/source-color-atlas-of-veterinary-histology.webp\" width=\"600\" height=\"832\" alt=\"\" loading=\"lazy\" decoding=\"async\">",
+                "nodeLabel": "article.subject-book-card > a.year-book-link > span.subject-book-art > img"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "phase",
+              "valueType": "text",
+              "label": "Phase"
+            },
+            {
+              "key": "percent",
+              "valueType": "text",
+              "label": "% of LCP"
+            },
+            {
+              "key": "timing",
+              "valueType": "ms",
+              "label": "Timing"
+            }
+          ],
+          "items": [
+            {
+              "phase": "TTFB",
+              "timing": 458.4372,
+              "percent": "20%"
+            },
+            {
+              "phase": "Load Delay",
+              "timing": 450.490042415092,
+              "percent": "19%"
+            },
+            {
+              "phase": "Load Time",
+              "timing": 92.90058311706377,
+              "percent": "4%"
+            },
+            {
+              "phase": "Render Delay",
+              "timing": 1340.0465744678445,
+              "percent": "57%"
+            }
+          ]
+        }
+      ],
+      "cls": 0,
+      "failures": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.92
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "score": 0.99
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "lcp-lazy-loaded",
+          "title": "Largest Contentful Paint image was lazily loaded",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "score": 0
+        },
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "score": 0
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0.5
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0.5
+        },
+        {
+          "id": "lcp-discovery-insight",
+          "title": "LCP request discovery",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/books/minivet-guide/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2040.3163,
+      "lcpElement": [
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "node",
+              "valueType": "node",
+              "label": "Element"
+            }
+          ],
+          "items": [
+            {
+              "node": {
+                "type": "node",
+                "lhId": "page-1-P",
+                "path": "1,HTML,1,BODY,2,MAIN,0,DIV,2,SECTION,1,P",
+                "selector": "main#main > div.container > section.book-about > p",
+                "boundingRect": {
+                  "top": 600,
+                  "bottom": 715,
+                  "left": 31,
+                  "right": 381,
+                  "width": 350,
+                  "height": 115
+                },
+                "snippet": "<p>",
+                "nodeLabel": "A compact companion-animal guide intended for clinical rotations and everyday r\u2026"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "phase",
+              "valueType": "text",
+              "label": "Phase"
+            },
+            {
+              "key": "percent",
+              "valueType": "text",
+              "label": "% of LCP"
+            },
+            {
+              "key": "timing",
+              "valueType": "ms",
+              "label": "Timing"
+            }
+          ],
+          "items": [
+            {
+              "phase": "TTFB",
+              "timing": 457.65815,
+              "percent": "22%"
+            },
+            {
+              "phase": "Load Delay",
+              "timing": 0,
+              "percent": "0%"
+            },
+            {
+              "phase": "Load Time",
+              "timing": 0,
+              "percent": "0%"
+            },
+            {
+              "phase": "Render Delay",
+              "timing": 1582.65815,
+              "percent": "78%"
+            }
+          ]
+        }
+      ],
+      "cls": 0,
+      "failures": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.97
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "score": 0.5
+        },
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "score": 0.5
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "url": "/books/clinical-examination-of-farm-animals/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2033.469,
+      "lcpElement": [
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "node",
+              "valueType": "node",
+              "label": "Element"
+            }
+          ],
+          "items": [
+            {
+              "node": {
+                "type": "node",
+                "lhId": "page-0-IMG",
+                "path": "1,HTML,1,BODY,2,MAIN,0,DIV,1,SECTION,0,DIV,0,FIGURE,0,IMG",
+                "selector": "section.book-overview > div.book-overview-grid > figure.book-cover > img",
+                "boundingRect": {
+                  "top": 214,
+                  "bottom": 386,
+                  "left": 31,
+                  "right": 143,
+                  "width": 112,
+                  "height": 172
+                },
+                "snippet": "<img src=\"/assets/books/clinical-examination-of-farm-animals.webp\" width=\"300\" height=\"379\" alt=\"Book cover \u2014 Clinical Examination of Farm Animals\" fetchpriority=\"high\" decoding=\"async\">",
+                "nodeLabel": "Book cover \u2014 Clinical Examination of Farm Animals"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "phase",
+              "valueType": "text",
+              "label": "Phase"
+            },
+            {
+              "key": "percent",
+              "valueType": "text",
+              "label": "% of LCP"
+            },
+            {
+              "key": "timing",
+              "valueType": "ms",
+              "label": "Timing"
+            }
+          ],
+          "items": [
+            {
+              "phase": "TTFB",
+              "timing": 454.2345,
+              "percent": "22%"
+            },
+            {
+              "phase": "Load Delay",
+              "timing": 101.85730218208766,
+              "percent": "5%"
+            },
+            {
+              "phase": "Load Time",
+              "timing": 303.0400905638811,
+              "percent": "15%"
+            },
+            {
+              "phase": "Render Delay",
+              "timing": 1174.3371072540313,
+              "percent": "58%"
+            }
+          ]
+        }
+      ],
+      "cls": 0,
+      "failures": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.97
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "score": 0.99
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "score": 0
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "score": 0.5
+        },
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "score": 0
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0.5
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render blocking requests",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "interactions": [],
+  "exceptions": [
+    "Search is deliberately noindex; its SEO score cannot reach 95 without violating the indexing policy."
+  ]
+}

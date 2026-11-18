@@ -1,0 +1,851 @@
+{
+  "reviewed": "2026-11-18",
+  "source": "https://www.vet-ebooks.com/free-download/",
+  "selection": "25 clinical and practical references selected from publicly available free downloads, prioritising smaller files and concise handbooks; one existing work is updated rather than duplicated.",
+  "entries": [
+    {
+      "id": "essentials-of-avian-medicine-and-surgery-3rd-edition",
+      "title": "Essentials of Avian Medicine and Surgery 3rd Edition",
+      "author": "Brian H. Coles",
+      "sourcePage": "https://www.vet-ebooks.com/essentials-of-avian-medicine-and-surgery-3rd-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-essentials-of-avian-medicine-and-surgery-3rd-edition.jpg",
+        "width": 282,
+        "height": 400,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/01/essentials-of-avian-medicine-and-surgery-3rd-edition.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/orta",
+        "bytes": 4260496,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "4.3 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A practical avian reference covering patient assessment, medical problems and surgical care. It brings together core clinical topics for studying companion-bird cases and reviewing the different needs of avian patients.",
+      "studyUses": [
+        "Avian clinical assessment",
+        "Companion-bird medicine",
+        "Avian surgical care"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "handbook-of-equine-parasite-control-2nd-edition",
+      "title": "Handbook of Equine Parasite Control 2nd Edition",
+      "author": "Martin K. Nielsen and Craig R. Reinemeyer",
+      "sourcePage": "https://www.vet-ebooks.com/handbook-of-equine-parasite-control-2nd-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-handbook-of-equine-parasite-control-2nd-edition.jpg",
+        "width": 300,
+        "height": 453,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/10/handbook-of-equine-parasite-control-2nd-edition.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/5dkd",
+        "bytes": 4263975,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "4.3 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "disease-diagnostics",
+      "description": "A focused handbook on parasite monitoring and control in horses. It connects equine parasitology with practical management questions, making it useful for reviewing diagnostic approaches and comparing control strategies.",
+      "studyUses": [
+        "Equine parasite monitoring",
+        "Diagnostic approaches",
+        "Parasite-control planning"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "calf-rearing-a-practical-guide-2nd-edition",
+      "title": "Calf Rearing, A Practical Guide, 2nd Edition",
+      "author": "John Moran",
+      "sourcePage": "https://www.vet-ebooks.com/calf-rearing-a-practical-guide-2nd-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-calf-rearing-a-practical-guide-2nd-edition.jpg",
+        "width": 300,
+        "height": 425,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/11/Calf-Rearing-A-Practical-Guide-2nd-Edition-300x425.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/hazv",
+        "bytes": 5557563,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "5.6 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "animal-science",
+      "description": "A practical calf-management guide covering the rearing period, nutrition and everyday husbandry. It supports study of how management decisions affect calf health and development, with a farm-focused perspective.",
+      "studyUses": [
+        "Calf husbandry",
+        "Feeding and development",
+        "Farm-management review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "decision-making-in-small-animal-oncology",
+      "title": "Decision Making in Small Animal Oncology",
+      "author": "David J. Argyle, Malcolm J. Brearley and Michelle M. Turek",
+      "sourcePage": "https://www.vet-ebooks.com/decision-making-in-small-animal-oncology/",
+      "cover": {
+        "path": "/assets/books/vebooks-decision-making-in-small-animal-oncology.jpg",
+        "width": 300,
+        "height": 428,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/10/Decision-Making-in-Small-Animal-Oncology-300x428.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/ozzj",
+        "bytes": 6367130,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "6.4 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A clinical oncology reference organised around decision making in small-animal cases. It supports review of diagnostic choices, staging and treatment planning, helping readers connect cancer-related findings with the next clinical question.",
+      "studyUses": [
+        "Oncology case assessment",
+        "Diagnostic decision making",
+        "Treatment-planning review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "clinical-examination-of-farm-animals",
+      "title": "Clinical Examination of Farm Animals",
+      "author": "Peter Jackson and Peter Cockcroft",
+      "sourcePage": "https://www.vet-ebooks.com/clinical-examination-of-farm-animals-pdf/",
+      "cover": null,
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/njwf",
+        "bytes": 7621235,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "7.6 MB"
+      },
+      "existingWork": true,
+      "libraryCategory": "clinical",
+      "description": "A farm-animal reference on clinical examination and the collection of useful diagnostic findings. It supports a systematic approach to patient assessment and clinical reasoning across common livestock presentations.",
+      "studyUses": [
+        "Systematic clinical examination",
+        "Livestock patient assessment",
+        "Clinical reasoning"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "concepts-and-applications-in-veterinary-toxicology-an-interactive-guide",
+      "title": "Concepts and Applications in Veterinary Toxicology, An Interactive Guide",
+      "author": "P. K. Gupta",
+      "sourcePage": "https://www.vet-ebooks.com/concepts-and-applications-in-veterinary-toxicology-an-interactive-guide/",
+      "cover": {
+        "path": "/assets/books/vebooks-concepts-and-applications-in-veterinary-toxicology-an-interactive-guide.jpg",
+        "width": 300,
+        "height": 467,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/11/Concepts-and-Applications-in-Veterinary-Toxicology-An-Interactive-Guide-300x467.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/k14i",
+        "bytes": 8770696,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "8.8 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "drug-references",
+      "description": "A veterinary toxicology reference connecting foundational concepts with practical applications. It supports review of exposure, toxic effects and the investigation of suspected poisoning, with an emphasis on organising toxicological information.",
+      "studyUses": [
+        "Toxicology concepts",
+        "Exposure investigation",
+        "Poisoning case review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "equine-neck-and-back-pathology-diagnosis-and-treatment-2nd-edition",
+      "title": "Equine Neck and Back Pathology: Diagnosis and Treatment 2nd Edition",
+      "author": "Frances M. D. Henson",
+      "sourcePage": "https://www.vet-ebooks.com/equine-neck-and-back-pathology-diagnosis-and-treatment-2nd-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-equine-neck-and-back-pathology-diagnosis-and-treatment-2nd-edition.jpg",
+        "width": 300,
+        "height": 428,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/10/equine-neck-and-back-pathology-diagnosis-and-treatment.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/vkgp",
+        "bytes": 8974093,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "9.0 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "An equine reference on disorders of the neck, back and pelvis. It connects anatomy and clinical findings with diagnostic investigation and treatment options, supporting study of musculoskeletal cases beyond the limbs.",
+      "studyUses": [
+        "Equine neck and back assessment",
+        "Musculoskeletal investigation",
+        "Rehabilitation topics"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "behaviour-problems-in-small-animals-practical-advice-for-the-veterinary-team",
+      "title": "Behaviour Problems in Small Animals: Practical Advice for the Veterinary Team",
+      "author": "Jon Bowen and Sarah Heath",
+      "sourcePage": "https://www.vet-ebooks.com/behaviour-problems-in-small-animals-practical-advice-for-the-veterinary-team/",
+      "cover": {
+        "path": "/assets/books/vebooks-behaviour-problems-in-small-animals-practical-advice-for-the-veterinary-team.jpg",
+        "width": 300,
+        "height": 392,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/09/Behaviour-Problems-in-Small-Animals-Practical-Advice-for-the-Veterinary-Team-300x392.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/u3xe",
+        "bytes": 9027031,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "9.0 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A practical guide to behaviour problems encountered by veterinary teams working with dogs and cats. It supports review of behavioural histories, assessment and management approaches, with attention to communication within clinical practice.",
+      "studyUses": [
+        "Behavioural history taking",
+        "Small-animal behaviour assessment",
+        "Veterinary-team communication"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "bsava-manual-of-canine-and-feline-abdominal-imaging",
+      "title": "BSAVA Manual of Canine and Feline Abdominal Imaging",
+      "author": "Robert O'Brien and Frances J. Barr",
+      "sourcePage": "https://www.vet-ebooks.com/bsava-manual-of-canine-and-feline-abdominal-imaging/",
+      "cover": {
+        "path": "/assets/books/vebooks-bsava-manual-of-canine-and-feline-abdominal-imaging.jpg",
+        "width": 283,
+        "height": 400,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/01/bsava-manual-of-canine-and-feline-abdominal-imaging.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/wjzw",
+        "bytes": 9840855,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "9.8 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "disease-diagnostics",
+      "description": "A small-animal imaging manual focused on the abdomen. It supports review of radiographic and ultrasound findings, helping readers organise abdominal imaging by anatomy, clinical questions and the interpretation of diagnostic studies.",
+      "studyUses": [
+        "Abdominal radiography",
+        "Abdominal ultrasonography",
+        "Imaging interpretation"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "small-animal-dermatology-self-assessment-colour-review",
+      "title": "Small Animal Dermatology: Self-Assessment Color Review",
+      "author": "Karen Moriello",
+      "sourcePage": "https://www.vet-ebooks.com/small-animal-dermatology-self-assessment-colour-review-pdf/",
+      "cover": {
+        "path": "/assets/books/vebooks-small-animal-dermatology-self-assessment-colour-review.jpg",
+        "width": 300,
+        "height": 424,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/11/small-animal-dermatology-selfassessment-color-review-300x424.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/azri",
+        "bytes": 10091483,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "10.1 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A dermatology revision resource built around clinical self-assessment. It supports practice in recognising skin presentations and reasoning through relevant differentials, making it useful alongside broader small-animal dermatology references.",
+      "studyUses": [
+        "Dermatology case revision",
+        "Skin-lesion recognition",
+        "Differential-diagnosis review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "introduction-to-veterinary-and-comparative-forensic-medicine",
+      "title": "Introduction to Veterinary and Comparative Forensic Medicine",
+      "author": "John E. Cooper, Margaret E. Cooper",
+      "sourcePage": "https://www.vet-ebooks.com/introduction-to-veterinary-and-comparative-forensic-medicine/",
+      "cover": {
+        "path": "/assets/books/vebooks-introduction-to-veterinary-and-comparative-forensic-medicine.jpg",
+        "width": 300,
+        "height": 393,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/12/introduction-to-veterinary-and-comparative-forensic-medicine-1-300x393.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/re1u",
+        "bytes": 10589582,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "10.6 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "public-health",
+      "description": "An introduction to veterinary and comparative forensic medicine. It supports study of how clinical and pathological findings are documented and assessed in investigations, linking veterinary examination with the wider forensic context.",
+      "studyUses": [
+        "Forensic examination",
+        "Documentation of findings",
+        "Comparative forensic medicine"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "handbook-of-veterinary-nursing-2nd-edition",
+      "title": "Handbook of Veterinary Nursing 2nd Edition",
+      "author": "Hilary Orpet and Perdi Welsh",
+      "sourcePage": "https://www.vet-ebooks.com/handbook-of-veterinary-nursing-2nd-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-handbook-of-veterinary-nursing-2nd-edition.jpg",
+        "width": 300,
+        "height": 428,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/12/Handbook-of-Veterinary-Nursing-2nd-Edition-300x428.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/x2y2",
+        "bytes": 12970201,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "13.0 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A veterinary nursing handbook bringing together practical patient-care topics. It supports study of nursing procedures, clinical assistance and everyday care responsibilities, with a format suited to reviewing core nursing knowledge.",
+      "studyUses": [
+        "Nursing patient care",
+        "Clinical assistance",
+        "Practical nursing procedures"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "minivet-guide",
+      "title": "MiniVet Guide: Companion Animal Medicine",
+      "author": "Gerardo Poli",
+      "sourcePage": "https://www.vet-ebooks.com/minivet-guide/",
+      "cover": {
+        "path": "/assets/books/vebooks-minivet-guide.jpg",
+        "width": 300,
+        "height": 386,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/03/minivet-guide-companion-animal-medicine-300x386.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/fhf8",
+        "bytes": 13141407,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "13.1 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A compact companion-animal guide intended for clinical rotations and everyday reference. It organises common presentations and diagnostic thinking into an accessible format, supporting case review and revision across dog and cat medicine.",
+      "studyUses": [
+        "Clinical-rotation revision",
+        "Common dog and cat presentations",
+        "Diagnostic pathways"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "handbook-of-equine-anaesthesia-2nd-edition",
+      "title": "Handbook of Equine Anaesthesia 2nd Edition",
+      "author": "Polly Taylor and Kathy Clarke",
+      "sourcePage": "https://www.vet-ebooks.com/handbook-of-equine-anaesthesia-2nd/",
+      "cover": {
+        "path": "/assets/books/vebooks-handbook-of-equine-anaesthesia-2nd-edition.jpg",
+        "width": 850,
+        "height": 1214,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2022/11/equine-anesthesia-and-pain-management-a-color-handbook-1.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/yavo",
+        "bytes": 14801877,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "14.8 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A focused handbook on equine anaesthesia, sedation and perioperative care. It supports review of the horse-specific considerations involved in preparing patients, monitoring anaesthesia and understanding recovery-related concerns.",
+      "studyUses": [
+        "Equine perioperative care",
+        "Anaesthetic monitoring",
+        "Sedation and recovery review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "manual-of-veterinary-transfusion-medicine-and-blood-banking",
+      "title": "Manual of Veterinary Transfusion Medicine and Blood Banking",
+      "author": "Kenichiro Yagi and Marie Holowaychuk",
+      "sourcePage": "https://www.vet-ebooks.com/manual-of-veterinary-transfusion-medicine-and-blood-banking/",
+      "cover": {
+        "path": "/assets/books/vebooks-manual-of-veterinary-transfusion-medicine-and-blood-banking.jpg",
+        "width": 300,
+        "height": 387,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/10/manual-of-veterinary-transfusion-medicine-and-blood-banking.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/qp6x",
+        "bytes": 15598746,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "15.6 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A practical manual covering veterinary transfusion medicine and blood banking. It brings together donor, blood-product and recipient considerations, supporting review of how transfusion services are organised and assessed in clinical practice.",
+      "studyUses": [
+        "Blood-product handling",
+        "Donor and recipient considerations",
+        "Transfusion-service review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "fish-diseases-and-medicine",
+      "title": "Fish Diseases and Medicine",
+      "author": "Stephen A. Smith",
+      "sourcePage": "https://www.vet-ebooks.com/fishs-diseases-and-medicine-1st-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-fishs-diseases-and-medicine-1st-edition.jpg",
+        "width": 213,
+        "height": 300,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/12/fish-diseases-and-medicine-scaled.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/jrx0",
+        "bytes": 18009868,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "18.0 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A clinical reference on fish diseases and their investigation. It supports study of how patient findings and husbandry conditions contribute to diagnostic assessment, broadening the library beyond terrestrial companion-animal medicine.",
+      "studyUses": [
+        "Fish clinical assessment",
+        "Disease investigation",
+        "Husbandry-related clinical questions"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "electrocardiography-in-veterinary-medicine",
+      "title": "Electrocardiography In Veterinary Medicine",
+      "author": "J.P. Varshney",
+      "sourcePage": "https://www.vet-ebooks.com/electrocardiography-in-veterinary-medicine-pdf/",
+      "cover": {
+        "path": "/assets/books/vebooks-electrocardiography-in-veterinary-medicine.jpg",
+        "width": 300,
+        "height": 467,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/12/Electrocardiography-In-Veterinarary-Medicine-300x467.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/6w4i",
+        "bytes": 18589684,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "18.6 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A veterinary electrocardiography reference covering ECG recording and interpretation across animal species. It supports review of tracing features and rhythm assessment, helping readers connect technical recording methods with clinical cardiac investigation.",
+      "studyUses": [
+        "ECG recording methods",
+        "Rhythm interpretation",
+        "Veterinary cardiac assessment"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "reptile-medicine-and-surgery-in-clinical-practice",
+      "title": "Reptile Medicine and Surgery in Clinical Practice",
+      "author": "Bob Doneley, Deborah Monks, Robert Johnson and Brendan Carmel",
+      "sourcePage": "https://www.vet-ebooks.com/reptile-medicine-and-surgery-in-clinical-practice/",
+      "cover": {
+        "path": "/assets/books/vebooks-reptile-medicine-and-surgery-in-clinical-practice.jpg",
+        "width": 300,
+        "height": 391,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/11/reptile-medicine-and-surgery-in-clinical-practice.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/tvlo",
+        "bytes": 21716937,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "21.7 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A practice-oriented reference for reptile medicine and surgery. It supports study of clinical assessment, medical presentations and surgical considerations in reptile patients, with attention to the species-specific context of clinical care.",
+      "studyUses": [
+        "Reptile patient assessment",
+        "Reptile medical cases",
+        "Surgical-care topics"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "the-small-animal-veterinary-nerdbook",
+      "title": "The Small Animal Veterinary Nerdbook",
+      "author": "Sophia A. Yin",
+      "sourcePage": "https://www.vet-ebooks.com/the-small-animal-veterinary-nerdbook/",
+      "cover": {
+        "path": "/assets/books/vebooks-the-small-animal-veterinary-nerdbook.jpg",
+        "width": 300,
+        "height": 486,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/03/the-small-animal-veterinary-nerdbook-300x486.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/exex",
+        "bytes": 22220306,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "22.2 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A compact small-animal reference for students and clinicians reviewing everyday clinical questions. It brings multiple practical topics together in a concise format suited to clinical rotations, revision and structured case preparation.",
+      "studyUses": [
+        "Small-animal clinical revision",
+        "Clinical-rotation preparation",
+        "Everyday case reference"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "handbook-of-exotic-pet-medicine",
+      "title": "Handbook of Exotic Pet Medicine",
+      "author": "Marie Kubiak",
+      "sourcePage": "https://www.vet-ebooks.com/handbook-of-exotic-pet-medicine/",
+      "cover": {
+        "path": "/assets/books/vebooks-handbook-of-exotic-pet-medicine.jpg",
+        "width": 300,
+        "height": 384,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/09/Handbook-of-Exotic-Pet-Medicine-300x384.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/ck04",
+        "bytes": 24233773,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "24.2 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A handbook covering the clinical care of exotic pets. It supports review of patient assessment and species-related medical considerations, helping readers organise clinical questions when working beyond dog and cat practice.",
+      "studyUses": [
+        "Exotic-pet assessment",
+        "Species-related clinical considerations",
+        "Exotic-animal case review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "practical-veterinary-urinalysis",
+      "title": "Practical Veterinary Urinalysis",
+      "author": "Carolyn A. Sink and Nicole M. Weinstein",
+      "sourcePage": "https://www.vet-ebooks.com/practical-veterinary-urinalysis/",
+      "cover": {
+        "path": "/assets/books/vebooks-practical-veterinary-urinalysis.jpg",
+        "width": 303,
+        "height": 420,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/03/practical-veterinary-urinalysis-303x420.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/nz2f",
+        "bytes": 26930045,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "26.9 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "disease-diagnostics",
+      "description": "A practical reference for veterinary urine testing and interpretation. It supports review of sample assessment, laboratory findings and their clinical context, helping readers connect urinalysis results with the wider patient investigation.",
+      "studyUses": [
+        "Urine-sample assessment",
+        "Urinalysis interpretation",
+        "Laboratory-to-clinic reasoning"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition",
+      "title": "Manual of Skin Diseases of the Dog and Cat 2nd Edition",
+      "author": "Sue Paterson",
+      "sourcePage": "https://www.vet-ebooks.com/manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition.jpg",
+        "width": 300,
+        "height": 391,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2024/10/manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition-300x391.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/ex8x",
+        "bytes": 32610452,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "32.6 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A clinical manual focused on skin diseases in dogs and cats. It supports study of dermatological assessment, diagnostic investigation and management options, with broad coverage of the questions encountered in companion-animal dermatology.",
+      "studyUses": [
+        "Dog and cat dermatology",
+        "Skin-disease investigation",
+        "Dermatological case review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition",
+      "title": "BSAVA Manual of Canine and Feline Fracture Repair and Management 2nd Edition",
+      "author": "Toby Gemmill and Dylan Clements",
+      "sourcePage": "https://www.vet-ebooks.com/bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition/",
+      "cover": {
+        "path": "/assets/books/vebooks-bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition.jpg",
+        "width": 282,
+        "height": 400,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2018/01/bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/lme4",
+        "bytes": 34832137,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "34.8 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A surgical manual on fracture repair and management in dogs and cats. It supports review of orthopaedic assessment, repair methods and follow-up considerations, linking fracture principles with small-animal clinical practice.",
+      "studyUses": [
+        "Fracture assessment",
+        "Orthopaedic repair methods",
+        "Postoperative follow-up review"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "blackwells-five-minute-veterinary-consult-clinical-companion-equine-theriogenology",
+      "title": "Blackwell’s Five-Minute Veterinary Consult Clinical Companion Equine Theriogenology",
+      "author": "Carla L. Carleton",
+      "sourcePage": "https://www.vet-ebooks.com/blackwells-five-minute-veterinary-consult-clinical-companion-equine-theriogenology/",
+      "cover": {
+        "path": "/assets/books/vebooks-blackwells-five-minute-veterinary-consult-clinical-companion-equine-theriogenology.jpg",
+        "width": 300,
+        "height": 426,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2020/12/blackwells-fiveminute-veterinary-consult-clinical-companion-equine-theriogenology-300x426.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/j5fn",
+        "bytes": 34888690,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "34.9 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "An equine theriogenology reference in the Five-Minute Veterinary Consult series. It supports quick review of reproductive presentations, diagnostic questions and clinical management topics relevant to equine reproductive practice.",
+      "studyUses": [
+        "Equine reproductive assessment",
+        "Theriogenology case review",
+        "Reproductive diagnostic questions"
+      ],
+      "type": "Book"
+    },
+    {
+      "id": "handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents",
+      "title": "Handbook of Laboratory Animal Anesthesia and Pain Management: Rodents",
+      "author": "Cholawat Pacharinsak and Jennifer C. Smith",
+      "sourcePage": "https://www.vet-ebooks.com/handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents/",
+      "cover": {
+        "path": "/assets/books/vebooks-handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents.jpg",
+        "width": 300,
+        "height": 463,
+        "kind": "reference-cover",
+        "source": "https://www.vet-ebooks.com/wp-content/uploads/2019/10/handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents-300x463.jpg"
+      },
+      "directPdf": {
+        "url": "https://download.vet-ebooks.com/ttky",
+        "bytes": 34939266,
+        "format": "PDF",
+        "encodingFormat": "application/pdf",
+        "provider": "Vet eBooks",
+        "checked": "2026-11-18",
+        "httpStatus": 200,
+        "signature": "%PDF-",
+        "resolvedHost": "content.filelynk.com",
+        "sizeLabel": "34.9 MB"
+      },
+      "existingWork": false,
+      "libraryCategory": "clinical",
+      "description": "A handbook focused on anaesthesia and pain management in laboratory rodents. It supports review of species-related considerations, monitoring and peri-procedural care, with applications to laboratory-animal veterinary practice.",
+      "studyUses": [
+        "Rodent anaesthesia",
+        "Pain-management review",
+        "Laboratory-animal monitoring"
+      ],
+      "type": "Book"
+    }
+  ]
+}

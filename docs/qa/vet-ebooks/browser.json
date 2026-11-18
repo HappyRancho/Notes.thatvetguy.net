@@ -1,0 +1,92 @@
+{
+  "views": [
+    {
+      "id": "clinical-examination-of-farm-animals",
+      "theme": "light",
+      "width": 390,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "minivet-guide",
+      "theme": "light",
+      "width": 390,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition",
+      "theme": "light",
+      "width": 390,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "clinical-examination-of-farm-animals",
+      "theme": "light",
+      "width": 1280,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "minivet-guide",
+      "theme": "light",
+      "width": 1280,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition",
+      "theme": "light",
+      "width": 1280,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "clinical-examination-of-farm-animals",
+      "theme": "dark",
+      "width": 390,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "minivet-guide",
+      "theme": "dark",
+      "width": 390,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition",
+      "theme": "dark",
+      "width": 390,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "clinical-examination-of-farm-animals",
+      "theme": "dark",
+      "width": 1280,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "minivet-guide",
+      "theme": "dark",
+      "width": 1280,
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "id": "bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition",
+      "theme": "dark",
+      "width": 1280,
+      "violations": 0,
+      "errors": []
+    }
+  ],
+  "interactions": [
+    "Provider search finds all 25 records, Show more exposes the final result, and the book card opens a canonical page with the correct direct PDF button."
+  ],
+  "errors": []
+}

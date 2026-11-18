@@ -18,7 +18,7 @@ A reference on veterinary gynaecology and obstetrics, connecting reproductive st
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary Gynaecology and Obstetrics
 
@@ -34,8 +34,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Applied Veterinary Gynaecology and Obstetrics Dr Pradeep.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Applied%20Veterinary%20Gynaecology%20and%20Obstetrics%20Dr%20Pradeep#report)
+- Applied Veterinary Gynaecology and Obstetrics Dr Pradeep.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Applied%20Veterinary%20Gynaecology%20and%20Obstetrics%20Dr%20Pradeep#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.
