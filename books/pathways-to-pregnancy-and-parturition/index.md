@@ -20,7 +20,7 @@ A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose t
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: P. L. Senger
 
@@ -43,12 +43,14 @@ Credit belongs to the original authors and publishers.
 Collection: Vetverse. Original file labels:
 
 - Pathways to Pregnancy and Parturition 3rd Edition.pdf
-- Pathways to pregnancy and Parturition 2nd Edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Pathways%20to%20Pregnancy%20and%20Parturition#report)
+- Pathways to pregnancy and Parturition 2nd Edition.pdf
 
-Other available copies 
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Pathways%20to%20Pregnancy%20and%20Parturition#report)
+
+Other available copies
 
 - Pathways to pregnancy and Parturition 2nd Edition.pdf[Open in Drive ](https://drive.google.com/file/d/1lYhetKBdgnAYZwt26-JtQR7R-R7TNR0z/view)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

@@ -17,7 +17,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Build a subject-wise practice routine with this veterinary question collection.
 
-Edition & source details 
+Edition & source details
 
 - Resource type: Question bank
 
@@ -33,4 +33,4 @@ Primary collection: Rx Notes. File: KVAFSU ICAR-PG Question Bank.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

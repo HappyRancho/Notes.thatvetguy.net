@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A veterinary pathology reference for Year 2 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: John M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- King John Necropsy Book Mar16.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=The%20Necropsy%20Book#report)
+- King John Necropsy Book Mar16.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=The%20Necropsy%20Book#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

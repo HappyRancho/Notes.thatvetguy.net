@@ -20,7 +20,7 @@ An introduction to exotic-animal medicine for veterinary technicians. A useful c
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Bonnie Ballard and Ryan Cheek
 
@@ -38,8 +38,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Exotic_Animal_Medicine_for_the_Veterinary_Technician_by_Bonnie_Ballard.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Exotic%20Animal%20Medicine%20for%20the%20Veterinary%20Technician%20by%20Bonnie%20Ballard#report)
+- Exotic_Animal_Medicine_for_the_Veterinary_Technician_by_Bonnie_Ballard.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Exotic%20Animal%20Medicine%20for%20the%20Veterinary%20Technician%20by%20Bonnie%20Ballard#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

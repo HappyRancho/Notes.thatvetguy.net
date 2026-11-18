@@ -16,7 +16,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A visual anatomy reference focused on ruminants. Useful beside dissection notes for recognising structures and understanding their spatial relationships.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary Anatomy
 
@@ -34,12 +34,14 @@ Primary collection: Rx Notes. File: Colour Atlas of Veterinary Anatomy - The Rum
 
 Collection: Vetverse. Original file label:
 
-- Colour Atlas of Veterinary Anatomy - The Ruminants.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Colour%20Atlas%20of%20Veterinary%20Anatomy%20-%20The%20Ruminants#report)
+- Colour Atlas of Veterinary Anatomy - The Ruminants.pdf
 
-Other available copies 
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Colour%20Atlas%20of%20Veterinary%20Anatomy%20-%20The%20Ruminants#report)
+
+Other available copies
 
 - Colour Atlas of Veterinary Anatomy - The Ruminants.pdf[Open in Drive ](https://drive.google.com/file/d/11XoUGYh3QQCeovB4gBQ12qGCF-7xgieE/view)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

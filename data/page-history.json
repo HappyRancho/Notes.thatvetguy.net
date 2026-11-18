@@ -172,7 +172,7 @@
     "modified": "2026-11-01"
   },
   "/books/": {
-    "sha256": "5c69243260e8845b62fccf35d0235967c2381abc4a7d504556d9fc95421d0c3e",
+    "sha256": "f3ccc0d4b01720ff0a10598667715b9f0151ac5338a0fc110d3c9c92689521a4",
     "modified": "2026-11-18"
   },
   "/books/a-textbook-of-animal-husbandry/": {
@@ -215,21 +215,41 @@
     "sha256": "019f31d1226e245802f3cf27ba08f25014ea327f21ad2c4a0ebbe4e13b3d9977",
     "modified": "2026-11-01"
   },
+  "/books/behaviour-problems-in-small-animals-practical-advice-for-the-veterinary-team/": {
+    "sha256": "0739a4698ba82fba4c8c32d2156f0cc291a75090623287f9c99c241599148d74",
+    "modified": "2026-11-18"
+  },
   "/books/biochemistry/": {
     "sha256": "130decac626472c5ab173d4807a24b8ebd506522649129e28fab362951e3a0e9",
     "modified": "2026-10-31"
   },
+  "/books/blackwells-five-minute-veterinary-consult-clinical-companion-equine-theriogenology/": {
+    "sha256": "5319717e066abb0562afe04f96718c3fcfa6edc2f99f7820d11ba4808d4f2725",
+    "modified": "2026-11-18"
+  },
   "/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/": {
     "sha256": "56acad081c8d437465f9142e884cdc2c13f81445a156eb7c5dfcf53ae594d6c8",
     "modified": "2026-11-01"
+  },
+  "/books/bsava-manual-of-canine-and-feline-abdominal-imaging/": {
+    "sha256": "a5f2b99c2d0ecfbaae459509b4f710f369308ddf21ffa45fb31dda15b118b8d2",
+    "modified": "2026-11-18"
+  },
+  "/books/bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition/": {
+    "sha256": "b50ade09cdb6b446f35ccda4a67dff96637004b4a8ecc025afd3b11c5b716aad",
+    "modified": "2026-11-18"
+  },
+  "/books/calf-rearing-a-practical-guide-2nd-edition/": {
+    "sha256": "c6398f886ae78ba8f23251c88e636efa6941719435c696602bd6185f93e3f1a6",
+    "modified": "2026-11-18"
   },
   "/books/canine-and-feline-endocrinology-and-reproduction/": {
     "sha256": "dff7da30083d682c28774e7fa22717a0d15a8afaeb4096beb588dde39ea5c2d8",
     "modified": "2026-11-01"
   },
   "/books/clinical-examination-of-farm-animals/": {
-    "sha256": "11d545c1c4400a6dd529a7b65af56527976ea06d5559897364a818a57978ce35",
-    "modified": "2026-10-31"
+    "sha256": "a35ba10104651776081aab934ae35fb02a16d5399bb8909e01ca07fc957cf9e9",
+    "modified": "2026-11-18"
   },
   "/books/clinical-handbook-on-canine-dermatology-3rd-edition/": {
     "sha256": "e1d569473c0bfa9766e6f6972a2ade48854c73644584bf2e66218899da4c8762",
@@ -255,9 +275,17 @@
     "sha256": "57a94dcd9566ae7c00dfbe39c489112cf0e66576e389992c745d772a5db5dc27",
     "modified": "2026-11-01"
   },
+  "/books/concepts-and-applications-in-veterinary-toxicology-an-interactive-guide/": {
+    "sha256": "463b2da7fb4fcbf9e1063ac7ef80743dd7b984ee6fc757fcad49e463e58f0129",
+    "modified": "2026-11-18"
+  },
   "/books/cunningham-s-textbook-of-veterinary-physiology/": {
     "sha256": "2962d664ed6ac143ee2db938f41c5da8128cf0aec10ca7e10d0b59350aef6ed0",
     "modified": "2026-11-01"
+  },
+  "/books/decision-making-in-small-animal-oncology/": {
+    "sha256": "c2e76d205fec3342d7994b8574ad5713d22650aec696b6a4884abd9797fb7339",
+    "modified": "2026-11-18"
   },
   "/books/wall-drug-dose/": {
     "sha256": "379eeaa1e9aabc5dfae4ac9f9f54eae1aaaf5c6501cb37dadb7d6e5d7d8d474e",
@@ -270,6 +298,18 @@
   "/books/e-nanu-qbank/": {
     "sha256": "02be9bbe76e6eaf06dcb0589ccda17ede745325df7b2224abfd9cbf78103927a",
     "modified": "2026-11-01"
+  },
+  "/books/electrocardiography-in-veterinary-medicine/": {
+    "sha256": "351f845b2d8c51b0889c85fceeddcb8d22835cf51c439a507cb8cec8e447b02e",
+    "modified": "2026-11-18"
+  },
+  "/books/equine-neck-and-back-pathology-diagnosis-and-treatment-2nd-edition/": {
+    "sha256": "74323d33ebab6a89eb7b3d244317177208f5d038b7508e9b7b39ef9c02953ea5",
+    "modified": "2026-11-18"
+  },
+  "/books/essentials-of-avian-medicine-and-surgery-3rd-edition/": {
+    "sha256": "d75736da69789954a6080304bcad54813f4af403982968e25b7b49139b24aea5",
+    "modified": "2026-11-18"
   },
   "/books/essentials-of-medical-pharmacology-k-d-tripathi/": {
     "sha256": "b47a9a01728f02657423d19133389db9d2c189ed0de1751d30d931ddbad67bb6",
@@ -299,6 +339,10 @@
     "sha256": "35c11a62017227ef6e773bdc6aff52835f9283bbf117ebfb4b35765b41af3bb6",
     "modified": "2026-10-31"
   },
+  "/books/fish-diseases-and-medicine/": {
+    "sha256": "8ff4f0c4b21dbb868dfe50c5ddd37a54bbd727778c811cd00657e0b947e31b86",
+    "modified": "2026-11-18"
+  },
   "/books/fluid-therapy-guidelines-for-dogs-and-cats/": {
     "sha256": "7a207a969ba398fc7aad41a9e04d1513adcef587c1c3a7dd8df340e6704ae0b1",
     "modified": "2026-11-01"
@@ -319,13 +363,37 @@
     "sha256": "ebb8146c4ad65682cedd4d1e1dfc4fae132f081c64b214707730713c5876b9b8",
     "modified": "2026-11-01"
   },
+  "/books/handbook-of-equine-anaesthesia-2nd-edition/": {
+    "sha256": "c3e19ab4d4b9e21e080aee7bfcbddb307a07ebc1dc3e6f20bd5f40a838126b3e",
+    "modified": "2026-11-18"
+  },
+  "/books/handbook-of-equine-parasite-control-2nd-edition/": {
+    "sha256": "b8bfec03f110668558c58430e2c14a7ae49aa014d83ea176566315d0307709f3",
+    "modified": "2026-11-18"
+  },
+  "/books/handbook-of-exotic-pet-medicine/": {
+    "sha256": "18f1099746efee65276e391b808720dbcb349db27acd523bd0ec0d885a75eb3b",
+    "modified": "2026-11-18"
+  },
+  "/books/handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents/": {
+    "sha256": "94e34e5dde39487ff0163d3040d80d04b3dc16b71ee709997f80b042b9036d6c",
+    "modified": "2026-11-18"
+  },
   "/books/small-animal-radiology-handbook/": {
     "sha256": "3fd31df3213f49cc2d0690d66734620a0eacde911f89041700b915b327fbc0aa",
     "modified": "2026-11-01"
   },
+  "/books/handbook-of-veterinary-nursing-2nd-edition/": {
+    "sha256": "9eb311576c109f763f94d0aa4bae32ed87add7517f75576730048ab7e10a80d5",
+    "modified": "2026-11-18"
+  },
   "/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/": {
     "sha256": "45615b2582b627c0ac37575545897d313a426d918af9c67fe2dbde2f8ca1bf91",
     "modified": "2026-11-01"
+  },
+  "/books/introduction-to-veterinary-and-comparative-forensic-medicine/": {
+    "sha256": "140fa5ef3d4e5721a459dae2fca388af903259c3e924bdece32fe1dc33dd739b",
+    "modified": "2026-11-18"
   },
   "/books/kvafsu-qbank/": {
     "sha256": "f0268631dba06d39bae8c087f728a1bea6ed0a2e2d2fdfdc6de7e66127fba7a6",
@@ -351,6 +419,14 @@
     "sha256": "605182bed7b0c17bcbae434355bb0734b72d2f5e5645530f336f208d83a18bd2",
     "modified": "2026-11-01"
   },
+  "/books/manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition/": {
+    "sha256": "dd9c4422da1a3e94984cabfe00186c206abe56e662f836413c38a6b081082bfc",
+    "modified": "2026-11-18"
+  },
+  "/books/manual-of-veterinary-transfusion-medicine-and-blood-banking/": {
+    "sha256": "3d663e293bc8e2cff361e2a35cd90846822e95d739989a4f1bf66f918b82a1e5",
+    "modified": "2026-11-18"
+  },
   "/books/meat-and-meat-products-technology/": {
     "sha256": "52a5abd4db95e6432ba3d6221e37c7737762fe209c326166e1716da3c73afcf1",
     "modified": "2026-10-31"
@@ -362,6 +438,10 @@
   "/books/metabolic-diseases-in-farm-animals/": {
     "sha256": "6ba7569a1bd6bc21994b7694088e3d1dbeaaff19896ef43a0ceb946b99af0da3",
     "modified": "2026-11-01"
+  },
+  "/books/minivet-guide/": {
+    "sha256": "e3ac34c69ae5bacbaeb90b5a57fee51fcb01ae134e19feacc409ac4c5e71f231",
+    "modified": "2026-11-18"
   },
   "/books/ndri-qbank/": {
     "sha256": "91aa9244916933c01db810268045066d0b60ff6d635f636fbaf95a346a12e33b",
@@ -395,6 +475,10 @@
     "sha256": "e0bff9c9ca571ef0d027c93afe59ef8f2022c8dd69af8fd6af4735bb52f8f70f",
     "modified": "2026-11-01"
   },
+  "/books/practical-veterinary-urinalysis/": {
+    "sha256": "d0109dba0a8f444dca42be4215a03feac08958b63a1f688b775db8edcaabb59b",
+    "modified": "2026-11-18"
+  },
   "/books/prescott-s-microbiology/": {
     "sha256": "41b451c1c611b1809bea28f55b741182c5d5f6f08fc8cc5e1f4e4be9dfbd33f3",
     "modified": "2026-11-01"
@@ -414,6 +498,10 @@
   "/books/reproduction-in-farm-animals-7th-edition-by-hafeez/": {
     "sha256": "f2a8bd9e0f12bfecd7ed9a52d67abaa52bef4f2d81c1e55d8dcdb0ecbec9475d",
     "modified": "2026-11-01"
+  },
+  "/books/reptile-medicine-and-surgery-in-clinical-practice/": {
+    "sha256": "83619c658914d4f87af3c8ce83b143521b1810c442f1f24ac3fc9ed145acbb2c",
+    "modified": "2026-11-18"
   },
   "/books/restraint-and-handling-of-wild-and-domestic-animals/": {
     "sha256": "96f293665cf47d8787079ace479e760f3b16402d3b4cd1c43b6d127cf80ba8c6",
@@ -442,6 +530,10 @@
   "/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/": {
     "sha256": "5872ba8e8d80333bf090b17a0530ec86987231817e14825fd1a04acb86e60723",
     "modified": "2026-11-01"
+  },
+  "/books/small-animal-dermatology-self-assessment-colour-review/": {
+    "sha256": "5ef57903ddc56c89399454c8453cfb533170ad7ba4fc8f15973237f8e04ddd71",
+    "modified": "2026-11-18"
   },
   "/books/small-animal-ecgs-an-introductory-guide-3rd-edition/": {
     "sha256": "2de6222a331119cf3f6be32308786a0173150f40de4eefd3b4fd1f65760dec2c",
@@ -490,6 +582,10 @@
   "/books/necropsy-book-john-king/": {
     "sha256": "caa9256e6b6ab5491b5cc6588d768bf106512feb7cc7027056b54e64fc3f6ecd",
     "modified": "2026-11-01"
+  },
+  "/books/the-small-animal-veterinary-nerdbook/": {
+    "sha256": "e80457fb8065d9908ce781cc84e7cffdd47fb7431d13866475b6efc598340e63",
+    "modified": "2026-11-18"
   },
   "/books/ultimate-vet-handbook/": {
     "sha256": "e16f0d1520beadba03467530161a9128fd52f7efe640ba03126f2eb3413bc9b7",

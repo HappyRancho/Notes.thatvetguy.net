@@ -99,7 +99,7 @@ You can tick topics here. Enable JavaScript to save progress between visits.
 - [ ] Handling and maintenance of LN) containers. Diagnostic procedures in investigation of infertility in male animals
 - [ ] Breeding soundness evaluation of bulls - Oestrus synchronization procedures - Multiple Ovulation and Embryo Transfer - Jn Vitro Fertilization
 
-Course outline & source notes 
+Course outline & source notes
 
 Veterinary Council of India — MSVE Regulations 2016, course contents published in The Gazette of India. Topics follow the VCI MSVE 2016 course contents in the DUVASU-hosted curriculum. Your university’s current syllabus and teaching instructions take precedence.
 
@@ -109,4 +109,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Gynaecology and Obstetrics ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.

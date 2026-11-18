@@ -124,7 +124,7 @@ Explore one species at a time.
 
 Paid apps · Telegram link coming soon.
 
-Sources & how this guide was checked 
+Sources & how this guide was checked
 
 Descriptions and next steps are our editorial guidance. Requirements and availability can change; the linked official notice or publisher listing takes priority. Reviewed 2026-10-28.
 
@@ -144,6 +144,8 @@ Merck Sharp & Dohme LLC
 
 ICAR-IVRI & ICAR-IASRI
 
-[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
+[Top Vet Notes Websites](https://notes.thatvetguy.net/study-tools/online-resources/)[Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/)
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-02; external file availability can change.
+For study and supervised reference. Check species, formulation and current clinical guidance before using drug or treatment information.
+
+Page updated: 2026-10-28. Sources last reviewed: 2026-11-18; external file availability can change.

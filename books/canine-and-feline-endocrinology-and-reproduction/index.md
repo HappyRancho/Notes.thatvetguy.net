@@ -20,7 +20,7 @@ A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose t
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Edward C. Feldman, Richard W. Nelson
 
@@ -42,8 +42,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Canine and Feline Endocrinology and Reproduction.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Canine%20and%20Feline%20Endocrinology%20and%20Reproduction#report)
+- Canine and Feline Endocrinology and Reproduction.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Canine%20and%20Feline%20Endocrinology%20and%20Reproduction#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

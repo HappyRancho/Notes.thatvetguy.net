@@ -30,13 +30,13 @@ Annual practical: two papers of 60 marks each, each carrying a weightage of 20. 
 
 - Practical Paper II: Units 3–4 · 60 marks · weightage 20
 
-Assessment rules 
+Assessment rules
 
 - At least 75% attendance in theory and practical separately is required for examination eligibility.
 - Pass theory (internal and external combined) and practical separately with at least 50%.
 - Practical evaluation considers records or logbooks, demonstrated skills or written work, and viva voce.
 
-Practical units & skills 
+Practical units & skills
 
 - Principles Of Animal Nutrition And Feed Technology
 - Applied Ruminant Nutrition-D Calculation Of Nutritive Value Of Different Feed Stuffs In Terms Of Digestible Crude Protein (Dcp
@@ -49,4 +49,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Animal Nutrition ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.

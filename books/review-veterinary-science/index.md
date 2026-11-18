@@ -16,7 +16,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Revisit veterinary subjects and consolidate key points before an exam.
 
-Edition & source details 
+Edition & source details
 
 - Resource type: Study book
 
@@ -32,4 +32,4 @@ Primary collection: Rx Notes. File: Review of Veterinary science .pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

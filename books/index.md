@@ -7,12 +7,12 @@
 
 A little shelf. A world of learning.
 
-95titles
+119titles
 Find a book by title, author or subject
 
-[All Books95](#books-shelves)[Basics11](#basic-sciences)[Disease10](#disease-diagnostics)[Animal Sci.10](#animal-science)[Clinical37](#clinical)[Drugs9](#drug-references)[Public Health8](#public-health)[Exam Prep10](#exam-prep)
+[All Books119](#books-shelves)[Basics11](#basic-sciences)[Disease13](#disease-diagnostics)[Animal Sci.11](#animal-science)[Clinical55](#clinical)[Drugs10](#drug-references)[Public Health9](#public-health)[Exam Prep10](#exam-prep)
 
-95 books · browse the collection
+119 books · browse the collection
 
 ## Basic Sciences
 
@@ -42,13 +42,19 @@ Find a book by title, author or subject
 
 ## Disease & Diagnostics
 
-10
+13
 
 [A Textbook of Veterinary General Pathology](https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/)
 
 [Ananthanarayan and Paniker’s Textbook of Microbiology](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
 
+[BSAVA Manual of Canine and Feline Abdominal Imaging](https://notes.thatvetguy.net/books/bsava-manual-of-canine-and-feline-abdominal-imaging/)
+
 [Fenner’s Veterinary Virology 5th edition](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
+
+[Handbook of Equine Parasite Control 2nd Edition](https://notes.thatvetguy.net/books/handbook-of-equine-parasite-control-2nd-edition/)
+
+[Practical Veterinary Urinalysis](https://notes.thatvetguy.net/books/practical-veterinary-urinalysis/)
 
 [Prescott’s Microbiology](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
 
@@ -66,7 +72,7 @@ Find a book by title, author or subject
 
 ## Animal Science
 
-10
+11
 
 [A Textbook of Animal Husbandry](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
 
@@ -75,6 +81,8 @@ Find a book by title, author or subject
 [Animal Nutrition](https://notes.thatvetguy.net/books/animal-nutrition/)
 
 [Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
+
+[Calf Rearing, A Practical Guide, 2nd Edition](https://notes.thatvetguy.net/books/calf-rearing-a-practical-guide-2nd-edition/)
 
 [Livestock Production Management](https://notes.thatvetguy.net/books/livestock-production-management/)
 
@@ -90,13 +98,19 @@ Find a book by title, author or subject
 
 ## Clinical Medicine & Surgery
 
-37
+55
 
 [Adam's Lameness in Horses 7th Edition](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
 
 [Applied Veterinary Gynaecology and Obstetrics Dr Pradeep](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
 
+[Behaviour Problems in Small Animals: Practical Advice for the Veterinary Team](https://notes.thatvetguy.net/books/behaviour-problems-in-small-animals-practical-advice-for-the-veterinary-team/)
+
+[Blackwell’s Five-Minute Veterinary Consult Clinical Companion Equine Theriogenology](https://notes.thatvetguy.net/books/blackwells-five-minute-veterinary-consult-clinical-companion-equine-theriogenology/)
+
 [Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
+
+[BSAVA Manual of Canine and Feline Fracture Repair and Management 2nd Edition](https://notes.thatvetguy.net/books/bsava-manual-of-canine-and-feline-fracture-repair-and-management-2nd-edition/)
 
 [Canine and Feline Endocrinology and Reproduction](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
 
@@ -108,17 +122,35 @@ Find a book by title, author or subject
 
 [Colour Handbook of Small Animal Emergency and Critical Care](https://notes.thatvetguy.net/books/small-animal-colour-handbook/)
 
+[Decision Making in Small Animal Oncology](https://notes.thatvetguy.net/books/decision-making-in-small-animal-oncology/)
+
+[Electrocardiography In Veterinary Medicine](https://notes.thatvetguy.net/books/electrocardiography-in-veterinary-medicine/)
+
+[Equine Neck and Back Pathology: Diagnosis and Treatment 2nd Edition](https://notes.thatvetguy.net/books/equine-neck-and-back-pathology-diagnosis-and-treatment-2nd-edition/)
+
+[Essentials of Avian Medicine and Surgery 3rd Edition](https://notes.thatvetguy.net/books/essentials-of-avian-medicine-and-surgery-3rd-edition/)
+
 [Essentials of Veterinary Surgery, 8th Edition](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
 
 [Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
 
 [Farm Animal Surgery](https://notes.thatvetguy.net/books/farm-animal-surgery/)
 
+[Fish Diseases and Medicine](https://notes.thatvetguy.net/books/fish-diseases-and-medicine/)
+
 [Fluid therapy guidelines for dogs and cats](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
 
 [Handbook for Veterinary Clinician](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/)
 
+[Handbook of Equine Anaesthesia 2nd Edition](https://notes.thatvetguy.net/books/handbook-of-equine-anaesthesia-2nd-edition/)
+
+[Handbook of Exotic Pet Medicine](https://notes.thatvetguy.net/books/handbook-of-exotic-pet-medicine/)
+
+[Handbook of Laboratory Animal Anesthesia and Pain Management: Rodents](https://notes.thatvetguy.net/books/handbook-of-laboratory-animal-anesthesia-and-pain-management-rodents/)
+
 [Handbook of Small Animal Radiology and Ultrasound](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
+
+[Handbook of Veterinary Nursing 2nd Edition](https://notes.thatvetguy.net/books/handbook-of-veterinary-nursing-2nd-edition/)
 
 [Laboratory Animal and Exotic Pet Medicine Principles and Procedures](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
 
@@ -126,7 +158,13 @@ Find a book by title, author or subject
 
 [Manual of Canine and Feline Cardiology](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
 
+[Manual of Skin Diseases of the Dog and Cat 2nd Edition](https://notes.thatvetguy.net/books/manual-of-skin-diseases-of-the-dog-and-cat-2nd-edition/)
+
+[Manual of Veterinary Transfusion Medicine and Blood Banking](https://notes.thatvetguy.net/books/manual-of-veterinary-transfusion-medicine-and-blood-banking/)
+
 [Metabolic Diseases in Farm Animals](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
+
+[MiniVet Guide: Companion Animal Medicine](https://notes.thatvetguy.net/books/minivet-guide/)
 
 [Pathways to Pregnancy and Parturition](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
 
@@ -138,11 +176,15 @@ Find a book by title, author or subject
 
 [Reproduction in Farm Animals,7th Edition by Hafeez](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
 
+[Reptile Medicine and Surgery in Clinical Practice](https://notes.thatvetguy.net/books/reptile-medicine-and-surgery-in-clinical-practice/)
+
 [Ruminant Surgery](https://notes.thatvetguy.net/books/ruminant-surgery/)
 
 [Skin Diseases of Exotic Pets](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
 
 [Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
+
+[Small Animal Dermatology: Self-Assessment Color Review](https://notes.thatvetguy.net/books/small-animal-dermatology-self-assessment-colour-review/)
 
 [Small Animal ECGs, An Introductory Guide, 3rd Edition](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
 
@@ -153,6 +195,8 @@ Find a book by title, author or subject
 [Textbook of Clinical Veterinary Medicine](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
 
 [Textbook of Veterinary Internal Medicine](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
+
+[The Small Animal Veterinary Nerdbook](https://notes.thatvetguy.net/books/the-small-animal-veterinary-nerdbook/)
 
 [Ultimate Vet Handbook](https://notes.thatvetguy.net/books/ultimate-vet-handbook/)
 
@@ -168,7 +212,9 @@ Find a book by title, author or subject
 
 ## Pharmacology & Drug References
 
-9
+10
+
+[Concepts and Applications in Veterinary Toxicology, An Interactive Guide](https://notes.thatvetguy.net/books/concepts-and-applications-in-veterinary-toxicology-an-interactive-guide/)
 
 [Drug Dose — Wall Reference](https://notes.thatvetguy.net/books/wall-drug-dose/)
 
@@ -190,9 +236,11 @@ Find a book by title, author or subject
 
 ## Public Health & Food Science
 
-8
+9
 
 [Gracey's Meat Hygiene 11Edition](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
+
+[Introduction to Veterinary and Comparative Forensic Medicine](https://notes.thatvetguy.net/books/introduction-to-veterinary-and-comparative-forensic-medicine/)
 
 [Lawrie's Meat Science](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
 
@@ -238,4 +286,4 @@ Try a shorter title, an author’s surname or another subject.
 
 [Request a book ](https://notes.thatvetguy.net/request-resource/)
 
-Page updated: 2026-11-18. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

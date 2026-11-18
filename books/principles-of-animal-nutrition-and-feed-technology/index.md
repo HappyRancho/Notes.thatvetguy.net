@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Covers the principles of animal nutrition, evaluation of feedstuffs and feed technology. A companion for understanding the science behind feeds before moving to applied ration work.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: D. V. Reddy
 
@@ -40,8 +40,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- D V. REDDY part 1.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Principles%20of%20Animal%20Nutrition%20and%20Feed%20Technology#report)
+- D V. REDDY part 1.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Principles%20of%20Animal%20Nutrition%20and%20Feed%20Technology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

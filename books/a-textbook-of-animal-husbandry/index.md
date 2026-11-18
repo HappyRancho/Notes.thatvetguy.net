@@ -18,7 +18,7 @@ This is a reading recommendation. A linked copy is not currently available; you 
 
 A broader reference for breeds, production systems and farm management.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: G. C. Banerjee
 
@@ -42,4 +42,4 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-18; external file availability can change.

@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Compiled objective questions across veterinary subjects for focused revision.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Dhruv N Desai
 
@@ -36,4 +36,4 @@ Primary collection: Rx Notes. File: ICAR-PG Question Bank by Dhruv N Desai.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

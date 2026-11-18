@@ -43,18 +43,18 @@ try{
  await page.locator('#books-clear').click();
  await page.locator('.books-filter[data-book-category="clinical"]').click();assert(await page.locator('[data-book-id]:visible').count()===24,'Clinical category first batch');
  assert(await page.locator('[data-book-id]:visible').evaluateAll(nodes=>nodes.every(n=>n.dataset.bookCategory==='clinical')),'Category isolation');
- await page.locator('#books-more').click();assert(await page.locator('[data-book-id]:visible').count()===37,'More reveals remaining clinical titles');
+ await page.locator('#books-more').click();const clinicalCount=await page.locator('[data-book-id][data-book-category=clinical]').count();assert(await page.locator('[data-book-id]:visible').count()===Math.min(48,clinicalCount),'More reveals the next clinical batch');
  await page.locator('.books-filter[data-book-category="exam-prep"]').focus();await page.keyboard.press('Space');assert(await page.locator('[data-book-id]:visible').count()===10,'Keyboard category selection');
  await page.locator('.books-filter[data-book-category="all"]').click();
  while(await page.locator('#books-more').isVisible())await page.locator('#books-more').click();
  assert(await page.locator('[data-book-id]:visible').count()===books.length,'All books reachable through Show more');
  await page.locator('.bottom-nav [data-dialog="more-sheet"]').click();assert(await page.locator('#more-sheet a[href="/search/"]').isVisible(),'Search available in More');
- report.interactions.push('Bottom navigation to Books; book/detail navigation; title, author and subject filters; empty state; Clear and Escape reset; category filters and keyboard selection; Show more reaches all 95 titles; search available from More.');
+ report.interactions.push('Bottom navigation to Books; book/detail navigation; title, author and subject filters; empty state; Clear and Escape reset; category filters and keyboard selection; Show more reaches the entire catalogue; search available from More.');
  await context.close();
  const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:360,height:900}}),n=await nojs.newPage();await n.goto(base+'/books/');
  assert(await n.locator('[data-book-id]:visible').count()===books.length,'No-JavaScript catalogue');
  await n.locator('.books-category-links a[href="#exam-prep"]').click();assert(new URL(n.url()).hash==='#exam-prep','No-JavaScript category navigation');
  await n.locator('#exam-prep [data-book-id] a').first().click();await n.waitForURL('**/books/*/');assert(await n.locator('.book-download').isVisible(),'No-JavaScript detail access');
- await nojs.close();report.interactions.push('All 95 books, category jumps and book detail access work with JavaScript disabled.');
+ await nojs.close();report.interactions.push('The entire catalogue, category jumps and book detail access work with JavaScript disabled.');
 }catch(error){report.errors.push(error.stack||String(error));process.exitCode=1;}
 finally{if(browser)await browser.close();if(server)server.kill();fs.writeFileSync(out+'/browser.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify(report));}

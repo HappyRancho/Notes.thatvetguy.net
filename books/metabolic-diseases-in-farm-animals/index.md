@@ -20,7 +20,7 @@ A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapte
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Jack M. Payne
 
@@ -42,8 +42,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Metabolic Diseases in Farm Animals.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Metabolic%20Diseases%20in%20Farm%20Animals#report)
+- Metabolic Diseases in Farm Animals.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Metabolic%20Diseases%20in%20Farm%20Animals#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

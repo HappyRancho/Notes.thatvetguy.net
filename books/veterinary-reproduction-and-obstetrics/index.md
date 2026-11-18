@@ -20,7 +20,7 @@ Follow reproductive physiology through fertility, pregnancy and obstetrical prob
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: David E. Noakes, Timothy J. Parkinson and Gary C. W. England
 
@@ -39,12 +39,14 @@ Credit belongs to the original authors and publishers.
 Collection: Vetverse. Original file labels:
 
 - Arthur's Veterinary Reproduction and Obstetrics.pdf
-- Veterinary Reproduction and Obstetrics by David Noakes.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Reproduction%20and%20Obstetrics#report)
+- Veterinary Reproduction and Obstetrics by David Noakes.pdf
 
-Other available copies 
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Reproduction%20and%20Obstetrics#report)
+
+Other available copies
 
 - Veterinary Reproduction and Obstetrics by David Noakes.pdf[Open in Drive ](https://drive.google.com/file/d/1mGlzshSsykL0lNOpo_65VTJzz_-dDDDi/view)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

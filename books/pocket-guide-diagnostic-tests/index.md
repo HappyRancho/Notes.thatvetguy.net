@@ -22,7 +22,7 @@ This is a general medical text. Use veterinary-specific teaching and current spe
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Diana Nicoll, Stephen J. McPhee and Michael Pignone
 
@@ -46,8 +46,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Pocket Guide Diagnostic Tests.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Pocket%20Guide%20Diagnostic%20Tests#report)
+- Pocket Guide Diagnostic Tests.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Pocket%20Guide%20Diagnostic%20Tests#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

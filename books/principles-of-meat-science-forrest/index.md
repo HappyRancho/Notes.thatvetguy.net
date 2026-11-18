@@ -17,7 +17,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A meat-science reference for understanding muscle, meat quality and processing concepts. Useful alongside livestock-products technology lectures.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Livestock Products Technology
 
@@ -33,8 +33,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Principle of Meat science, Forest.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Principles%20of%20Meat%20Science%20%E2%80%94%20Forrest#report)
+- Principle of Meat science, Forest.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Principles%20of%20Meat%20Science%20%E2%80%94%20Forrest#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

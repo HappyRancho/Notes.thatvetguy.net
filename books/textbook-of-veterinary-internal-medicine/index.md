@@ -20,7 +20,7 @@ A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapte
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Stephen J. Ettinger
 
@@ -43,12 +43,14 @@ Credit belongs to the original authors and publishers.
 Collection: Vetverse. Original file labels:
 
 - Textbook of Veterinary Internal Medicine - 8th Edition.pdf
-- Textbook of Veterinary Internal Medicine, 7th_Edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Veterinary%20Internal%20Medicine#report)
+- Textbook of Veterinary Internal Medicine, 7th_Edition.pdf
 
-Other available copies 
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Textbook%20of%20Veterinary%20Internal%20Medicine#report)
+
+Other available copies
 
 - Textbook of Veterinary Internal Medicine, 7th_Edition.pdf[Open in Drive ](https://drive.google.com/file/d/1tGP8prOcf7cKz-2x0O8ctr-BI9BIauRQ/view)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

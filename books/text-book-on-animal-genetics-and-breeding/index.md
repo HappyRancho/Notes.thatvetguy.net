@@ -19,7 +19,7 @@ This is a reading recommendation. A linked copy is not currently available; you 
 
 A subject-focused companion for inheritance, population genetics and breeding principles.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: P. Kanakaraj
 
@@ -39,4 +39,4 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-18; external file availability can change.

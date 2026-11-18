@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Explores the processing and use of animal by-products. Relevant to livestock-products technology, especially the relationship between processing, utilisation and waste management.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: H. W. Ockerman and C. L. Hansen
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Ockerman Animal Byproduct Processing.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ockerman%20Animal%20Byproduct%20Processing#report)
+- Ockerman Animal Byproduct Processing.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Ockerman%20Animal%20Byproduct%20Processing#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

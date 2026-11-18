@@ -14,4 +14,4 @@ Choose a 4th Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Gynaecology and Obstetrics14 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - [Veterinary Clinical Practices II0 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.

@@ -19,7 +19,7 @@ A vaccination-schedule reference to compare with species, local guidance and pro
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Resource type: Reference sheet
 
@@ -35,4 +35,4 @@ Primary collection: Rx Notes. File: Veterinary Vaccination Schedule (1).pdf
 
 [Back to collection ](https://notes.thatvetguy.net/clinical/drug-index/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

@@ -19,7 +19,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 Another veterinary question set for checking recall and identifying revision gaps.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: E. Nanu
 
@@ -37,4 +37,4 @@ Primary collection: Rx Notes. File: ICAR-PG Question Bank by E Nanu.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

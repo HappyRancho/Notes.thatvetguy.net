@@ -20,7 +20,7 @@ A veterinary gynaecology and obstetrics reference for Year 4 BVSc & AH. Choose t
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Stephen J. Roberts
 
@@ -42,8 +42,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Veterinary Obstetrics and Genital disease .pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Obstetrics%20and%20Genital%20disease#report)
+- Veterinary Obstetrics and Genital disease .pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Obstetrics%20and%20Genital%20disease#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

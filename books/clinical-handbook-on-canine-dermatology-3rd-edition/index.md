@@ -18,7 +18,7 @@ A veterinary medicine reference for Year 4 BVSc & AH. Choose the relevant chapte
 
 For study and supervised reference. Verify the species, dose, edition and current clinical guidance before treating a patient.
 
-Edition & source details 
+Edition & source details
 
 - Study area: Veterinary Medicine
 
@@ -34,8 +34,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Clinical Handbook on Canine Dermatology 3rd Edition.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Clinical%20Handbook%20on%20Canine%20Dermatology%203rd%20Edition#report)
+- Clinical Handbook on Canine Dermatology 3rd Edition.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Clinical%20Handbook%20on%20Canine%20Dermatology%203rd%20Edition#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

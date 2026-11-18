@@ -58,7 +58,7 @@ class Markdown(HTMLParser):
         a=dict(attrs)
         if tag in ('svg','button','script','style'):self.hide+=1
         if self.hide:return
-        if tag in ('section','article','div','p','ul','ol','details','nav'):self.out.append('\n\n' if tag in ('section','article','p','details','nav') else '\n')
+        if tag in ('section','article','div','p','ul','ol','details','nav','aside'):self.out.append('\n\n' if tag in ('section','article','p','details','nav','aside') else '\n')
         if re.fullmatch('h[1-6]',tag):self.out.append('\n\n'+'#'*int(tag[1])+' ')
         if tag=='li':self.out.append('\n- ')
         if tag=='dt':self.out.append('\n- ')
@@ -73,16 +73,16 @@ class Markdown(HTMLParser):
             self.hide=max(0,self.hide-1);return
         if self.hide:return
         if tag=='a' and self.anchor:self.out.append(']('+self.anchor.pop()+')')
-        if tag in ('p','section','article','details') or re.fullmatch('h[1-6]',tag):self.out.append('\n\n')
+        if tag in ('p','section','article','details','aside','ul','ol') or re.fullmatch('h[1-6]',tag):self.out.append('\n\n')
     def handle_data(self,data):
         if not self.hide:self.out.append(data)
-    def result(self):return re.sub(r'\n{3,}','\n\n',''.join(self.out)).strip()+'\n'
+    def result(self):return re.sub(r'\n{3,}','\n\n','\n'.join(line.rstrip() for line in ''.join(self.out).splitlines())).strip()+'\n'
 
 def register(path,title,desc,body,date,source_review=None,noindex=False):
     mirror=Markdown();mirror.feed(body)
     md=f'<!-- Canonical: {BASE+path}; updated: {date} -->\n\n'+mirror.result()+f'\nPage updated: {date}. Sources last reviewed: {source_review or date}; external file availability can change.\n'
     dest=ROOT/path.strip('/')/'index.md';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(md)
-    PAGES[path]={'title':title,'description':desc,'markdown':md,'lastmod':date,'noindex':noindex}
+    PAGES[path]={'title':title,'description':desc,'markdown':md,'lastmod':date,'sourceReviewed':source_review or date,'noindex':noindex}
 
 def structured(path,title,description,items,home,body,records,date):
     orgid=BASE+'/#organization';siteid=BASE+'/#website'
@@ -128,7 +128,10 @@ def structured(path,title,description,items,home,body,records,date):
         if book.get('author'):entry['editor' if re.search(r'\(editors?\)',book['author'],re.I) else 'author']=[{'@type':'Person','name':re.sub(r'\s*\([^)]*\)|\s+et al\.?','',name).strip()} for name in re.split(r',\s*|\s+and\s+',book['author']) if name.strip().lower() not in ['editors','editor']]
         if book['references']:entry['citation']=book['references']
         if book.get('cover'):entry['image']=BASE+book['cover']['path']
-        if book['primaryUrl']:entry['potentialAction']={'@type':'ReadAction','target':book['primaryUrl']}
+        if book['primaryUrl']:entry['potentialAction']={'@type':'ReadAction','target':(book.get('directPdf') or {}).get('url') or book['primaryUrl']}
+        if book.get('directPdf'):
+            pdf=book['directPdf'];entry.update(bookFormat='https://schema.org/EBook',isAccessibleForFree=True,encoding={'@type':'MediaObject','contentUrl':pdf['url'],'encodingFormat':pdf['encodingFormat'],'contentSize':pdf['sizeLabel']},teaches=book['studyUses'])
+            if edition:=re.search(r'\b(\d+(?:st|nd|rd|th))\s+Edition\b',book['title'],re.I):entry['bookEdition']=edition[1]+' edition'
         page['mainEntity']={'@id':entry['@id']};graph.append(entry)
     pairs=faq_for(path)
     if pairs:graph.append({'@type':'FAQPage','@id':BASE+path+'#faq','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in pairs]})
@@ -151,6 +154,7 @@ def social(path):
     return SOCIAL_CARDS.get(section,SOCIAL_CARDS['home'])['path']
 
 def discovery(date,index):
+    date=max([date]+[p['sourceReviewed'] for p in PAGES.values()])
     HISTORY_PATH.write_text(json.dumps({p:HISTORY[p] for p in PAGES},indent=2)+'\n')
     bots=['*','GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','PerplexityBot','Google-Extended','Applebot-Extended','CCBot']
     (ROOT/'robots.txt').write_text(''.join(f'User-agent: {b}\nAllow: /\n\n' for b in bots)+'Sitemap: '+BASE+'/sitemap.xml\n')
@@ -162,7 +166,7 @@ def discovery(date,index):
         image='<image:image><image:loc>'+escape(BASE+covers[path])+'</image:loc></image:image>' if path in covers else ''
         sitemap.append('<url><loc>'+escape(BASE+path)+'</loc><lastmod>'+entry['lastmod']+'</lastmod>'+image+'</url>')
     (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n'+'\n'.join(sitemap)+'\n</urlset>\n')
-    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: ThatVetGuy team. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Book recommendations do not imply a downloadable copy is available. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLast source review: '+date+'. File access settings can change.\n\n'
+    intro='# Notes.ThatVetGuy\n\n> Free academic resources, thoughtfully made for future vets.\n\nNotes.ThatVetGuy (Rx Notes by ThatVetGuy) is a free academic library for BVSc & AH students in India. Site summaries: ThatVetGuy team. Notes and recommended reading are organised by professional year and subject. Topic notes open on Google Drive or their credited source PDFs and documents; objective and clinical collections open their matching PDFs in the owner’s primary Google Drive storage. Books with a Download PDF action use checked public provider links; other titles may be reading recommendations without a linked copy. Known source credits are preserved; inclusion does not imply authorship or medical review.\n\nMain website: https://thatvetguy.net\nAuthor: '+AUTHOR+'\nLatest source check: '+date+'. Individual page dates identify older source checks. File access settings can change.\n\n'
     mapping='## Sections and subject guides\n\n'+''.join(f'- [{d["title"]}]({BASE+p}): {d["description"]}\n  - Markdown: {BASE+p}index.md\n' for p,d in indexed.items())
     retrieval='\n## Machine retrieval\n\n- Full visible page content: '+BASE+'/llms-full.txt\n- Resource index: '+BASE+'/search-index.json\n- Sitemap: '+BASE+'/sitemap.xml\n- Search (noindex): '+BASE+'/search/\n\n## Community\n\n- Short notes: https://t.me/vetshortnotesbytvg\n- Jobs: https://t.me/jobupdatesbytvg\n- Requests and contact: '+BASE+'/request-resource/\n'
     (ROOT/'llms.txt').write_text(intro+mapping+retrieval)

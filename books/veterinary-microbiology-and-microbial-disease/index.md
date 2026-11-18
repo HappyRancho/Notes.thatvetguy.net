@@ -18,7 +18,7 @@ This is a reading recommendation. A linked copy is not currently available; you 
 
 Connect organism characteristics with the infections they cause in animals.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: P. J. Quinn et al.
 
@@ -38,4 +38,4 @@ Credit belongs to the original authors and publishers.
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-18; external file availability can change.

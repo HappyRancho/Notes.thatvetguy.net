@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A livestock products technology reference for Year 3 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: R. A. Lawrie
 
@@ -40,8 +40,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Lawrie's Meat Science.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Lawrie%27s%20Meat%20Science#report)
+- Lawrie's Meat Science.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Lawrie%27s%20Meat%20Science#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/#books)
 
-Page updated: 2026-10-31. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file availability can change.

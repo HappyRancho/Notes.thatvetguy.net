@@ -31,7 +31,7 @@ The original routes remain available. New routes are `/bvsc/year-1/` through `/b
 
 ## Link policy
 
-Generated navigation permits only the two specified Telegram URLs, exact Drive URLs from the manifest (and generated downloads for those IDs), and ThatVetGuy main/blog links in the footer. Other resource providers are removed from the library and machine indexes. Software names in the on-site guides are plain text. Developer documentation and historical QA artifacts are not application navigation.
+Resource links come from reviewed inventories: the two specified Telegram channels, exact Drive URLs and generated downloads, and the checked public PDF URLs in `data/vet-ebooks-books.json`. ThatVetGuy main/blog links appear in the footer. Study-tool and roadmap citations remain scoped to their corresponding pages. Provider URLs are explicitly recorded rather than allowing arbitrary links from a whole domain. Developer documentation and historical QA artifacts are not application navigation.
 
 ## Accessibility, search and retrieval
 
@@ -65,4 +65,8 @@ Configured AdSense display slot: `9530493668` (Notes – Minimal Banner), publis
 
 ## Books library
 
-The Books item in the bottom navigation opens `/books/`. The library draws all 95 existing canonical books from the same catalogue as the subject bookshelves. Seven broad subject categories have count filters, with title/author/subject search and 24-book batches through Show more. The compact covers reuse the subject-page card markup. With JavaScript disabled, the full catalogue and category anchor links remain available. `assets/books-directory.js` is loaded only on the library page and does not fetch another catalogue. Run `node scripts/books-library-qa.mjs` for the responsive, accessibility and browsing checks.
+The Books item in the bottom navigation opens `/books/`. The library draws all current canonical books from the same catalogue as the subject bookshelves. Seven broad subject categories have count filters, with title/author/subject search and 24-book batches through Show more. The compact covers reuse the subject-page card markup. With JavaScript disabled, the full catalogue and category anchor links remain available. `assets/books-directory.js` is loaded only on the library page and does not fetch another catalogue. Run `node scripts/books-library-qa.mjs` for the responsive, accessibility and browsing checks.
+
+## Verified clinical PDF references
+
+`data/vet-ebooks-books.json` supplies 25 clinical and practical references, selected for concise coverage and smaller public PDF downloads. Entries include a provider URL, checked byte size, PDF signature, author, cover, original overview and study topics. The catalogue merges existing works by canonical ID. Our own book pages remain the search, sitemap and Markdown targets; Download PDF opens the verified public provider endpoint directly. No PDF is downloaded while browsing the library. Availability is controlled by the external provider.

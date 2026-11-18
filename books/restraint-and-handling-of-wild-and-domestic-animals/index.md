@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A livestock production management reference for Year 1 BVSc & AH. Choose the relevant chapters using your course outline; confirm the edition in the linked copy.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Murray Fowler
 
@@ -40,8 +40,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Restraint and Handling of Wild and Domestic Animals.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Restraint%20and%20Handling%20of%20Wild%20and%20Domestic%20Animals#report)
+- Restraint and Handling of Wild and Domestic Animals.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Restraint%20and%20Handling%20of%20Wild%20and%20Domestic%20Animals#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.

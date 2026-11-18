@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A broad animal-science revision companion for reviewing core concepts.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Sheelendra Kumar Tanwar
 
@@ -36,4 +36,4 @@ Primary collection: Rx Notes. File: Animal Science Refresher for ICAR-PG.pdf
 
 [Back to collection ](https://notes.thatvetguy.net/objective/)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-11-01; external file availability can change.

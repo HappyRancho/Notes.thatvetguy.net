@@ -18,7 +18,7 @@ View or download this copy in Google Drive. Check its title page and edition bef
 
 A reference for disease patterns, study design and interpreting diagnostic tests.
 
-Edition & source details 
+Edition & source details
 
 - Authors / editors: Michael Thrusfield and Robert Christley
 
@@ -36,8 +36,10 @@ Credit belongs to the original authors and publishers.
 
 Collection: Vetverse. Original file label:
 
-- Michael Thrusfield Veterinary Epidemiology.pdf[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Epidemiology#report)
+- Michael Thrusfield Veterinary Epidemiology.pdf
+
+[Report a link or credit issue ](https://notes.thatvetguy.net/request-resource/?resource=Veterinary%20Epidemiology#report)
 
 [Back to subject books ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/#books)
 
-Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file availability can change.
+Page updated: 2026-11-01. Sources last reviewed: 2026-10-28; external file availability can change.
