@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Public Health and Epidemiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- ›[Veterinary Public Health and Epidemiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 - ›Syllabus Checklist
 
 # Veterinary Public Health and Epidemiology Syllabus Checklist
@@ -189,4 +189,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Public Health and Epidemiology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

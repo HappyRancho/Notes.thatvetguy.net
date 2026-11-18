@@ -11,13 +11,13 @@ Latest source check: 2026-11-18. Individual page dates identify older source che
 ---
 Canonical: https://notes.thatvetguy.net/
 
-<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/; updated: 2026-11-18 -->
 
-# Free Veterinary Academic Resources
+# Free Veterinary Notes & Books
 
-Veterinary notes & study material for BVSc & AH. Browse by year, subject or resource.
+Free veterinary notes, books and study material for BVSc & AH. Browse by year or subject.
 
-## BVSc & AH Resources
+## BVSc & AH Notes
 
 Four years. Infinite syllabus. Character development included.
 
@@ -63,7 +63,7 @@ From notes to clinical thinking.
 
 4 subjects · notes & books[Explore 4th Year ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 ## Objective & Competition Resources
 
@@ -130,22 +130,22 @@ Missing a note or book? Let us know.
 
 Students today. Better vets tomorrow.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›BVSc
 
-# BVSc Notes & Books
+# BVSc & AH Notes by Year & Subject
 
 BVSc & AH notes, TANUVAS material and recommended books, organised by professional year. Choose a year or open a subject directly.
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 1
 
@@ -299,19 +299,19 @@ Roadmap available
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›1st Year
 
-# 1st Year Notes & Books
+# 1st Year BVSc Notes & Books
 
 1st Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
@@ -328,22 +328,22 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-1/
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›Veterinary Anatomy Notes & BVSc Study Resources
+- ›Veterinary Anatomy Notes & Books for BVSc
 
-# Veterinary Anatomy
+# Veterinary Anatomy Notes
 
-Veterinary Anatomy focuses on relating structure to function across domestic animal species.
+Veterinary Anatomy focuses on relating structure to function across domestic animal species. Use labelled diagrams to compare the same structure between species, then explain its functional significance.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/)
 
@@ -462,22 +462,22 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›Veterinary Physiology Notes & BVSc Study Resources
+- ›Veterinary Physiology Notes & Books for BVSc
 
-# Veterinary Physiology
+# Veterinary Physiology Notes
 
-Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions.
+Veterinary Physiology focuses on understanding how healthy animals maintain normal body functions. Draw a process from stimulus to response before learning the individual hormones, transporters or feedback loops.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/)
 
@@ -588,22 +588,22 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›Livestock Production Management Notes & BVSc Study Resources
+- ›Livestock Production Management Notes & Books for BVSc
 
-# Livestock Production Management
+# Livestock Production Management Notes
 
-Livestock Production Management focuses on connecting animal husbandry principles with practical farm management.
+Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/)
 
@@ -773,13 +773,13 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/notes/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -794,19 +794,19 @@ Choose a 1st Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Physiology15 resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 - [Livestock Production Management30 resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›2nd Year
 
-# 2nd Year Notes & Books
+# 2nd Year BVSc Notes & Books
 
 2nd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
@@ -825,22 +825,22 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-2/
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Veterinary Biochemistry Notes & BVSc Study Resources
+- ›Veterinary Biochemistry Notes & Books for BVSc
 
-# Veterinary Biochemistry
+# Veterinary Biochemistry Notes
 
-Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition.
+Veterinary Biochemistry focuses on linking molecular processes with animal health and nutrition. Build pathway maps around inputs, outputs and regulation instead of memorising disconnected reaction names.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/)
 
@@ -964,22 +964,22 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Veterinary Microbiology Notes & BVSc Study Resources
+- ›Veterinary Microbiology Notes & Books for BVSc
 
-# Veterinary Microbiology
+# Veterinary Microbiology Notes
 
-Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke.
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/)
 
@@ -1248,22 +1248,22 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Veterinary Pathology Notes & BVSc Study Resources
+- ›Veterinary Pathology Notes & Books for BVSc
 
-# Veterinary Pathology
+# Veterinary Pathology Notes
 
-Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce.
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/)
 
@@ -1490,22 +1490,22 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Animal Genetics and Breeding Notes & BVSc Study Resources
+- ›Animal Genetics and Breeding Notes & Books for BVSc
 
-# Animal Genetics and Breeding
+# Animal Genetics and Breeding Notes
 
-Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement.
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/)
 
@@ -1703,22 +1703,22 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Animal Nutrition Notes & BVSc Study Resources
+- ›Animal Nutrition Notes & Books for BVSc
 
-# Animal Nutrition
+# Animal Nutrition Notes
 
-Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems.
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/)
 
@@ -1877,13 +1877,13 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/notes/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -1900,19 +1900,19 @@ Choose a 2nd Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Animal Genetics and Breeding48 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - [Animal Nutrition33 resources](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›3rd Year
 
-# 3rd Year Notes & Books
+# 3rd Year BVSc Notes & Books
 
 3rd Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
@@ -1933,22 +1933,22 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-3/
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary Pharmacology and Toxicology Notes & BVSc Study Resources
+- ›Veterinary Pharmacology and Toxicology Notes & Books for BVSc
 
-# Veterinary Pharmacology and Toxicology
+# Veterinary Pharmacology and Toxicology Notes
 
-Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context.
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)
 
@@ -2111,22 +2111,22 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary Parasitology Notes & BVSc Study Resources
+- ›Veterinary Parasitology Notes & Books for BVSc
 
-# Veterinary Parasitology
+# Veterinary Parasitology Notes
 
-Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health.
+Veterinary Parasitology focuses on understanding parasite life cycles and their significance in animal health. Sketch life cycles with hosts and infective stages, then connect those stages to diagnosis and prevention.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/)
 
@@ -2335,22 +2335,22 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary Public Health and Epidemiology Notes & BVSc Study Resources
+- ›Veterinary Public Health and Epidemiology Notes & Books for BVSc
 
-# Veterinary Public Health and Epidemiology
+# Veterinary Public Health and Epidemiology Notes
 
-Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence.
+Veterinary Public Health and Epidemiology focuses on connecting animal health, human health and population evidence. Separate individual clinical findings from population measures, and state the denominator whenever interpreting disease frequency.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/)
 
@@ -2520,22 +2520,22 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Livestock Products Technology Notes & BVSc Study Resources
+- ›Livestock Products Technology Notes & Books for BVSc
 
-# Livestock Products Technology
+# Livestock Products Technology Notes
 
-Livestock Products Technology focuses on following animal products from production through processing and safety.
+Livestock Products Technology focuses on following animal products from production through processing and safety. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)
 
@@ -2750,22 +2750,22 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary and Animal Husbandry Extension Education Notes & BVSc Study Resources
+- ›Veterinary and Animal Husbandry Extension Education Notes & Books for BVSc
 
-# Veterinary and Animal Husbandry Extension Education
+# Veterinary and Animal Husbandry Extension Education Notes
 
-Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use.
+Veterinary and Animal Husbandry Extension Education focuses on communicating animal husbandry knowledge in ways communities can use. Match the communication method to the audience and explain how you would assess whether the advice was understood.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/)
 
@@ -2917,22 +2917,22 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary Clinical Practices I Notes & BVSc Study Resources
+- ›Veterinary Clinical Practices I Notes for BVSc
 
-# Veterinary Clinical Practices I
+# Veterinary Clinical Practices I Notes
 
-Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation.
+Veterinary Clinical Practices I focuses on bringing foundational subjects into supervised clinical observation. Practise clear histories and structured records under supervision, keeping observation separate from interpretation.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/)
 
@@ -2983,22 +2983,22 @@ No book listed for this subject yet.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Livestock Farm Practices Notes & BVSc Study Resources
+- ›Livestock Farm Practices Notes for BVSc
 
-# Livestock Farm Practices
+# Livestock Farm Practices Notes
 
-Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills.
+Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/)
 
@@ -3049,13 +3049,13 @@ No book listed for this subject yet.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/notes/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -3074,19 +3074,19 @@ Choose a 3rd Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Clinical Practices I1 resource](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - [Livestock Farm Practices1 resource](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›4th Year
 
-# 4th Year Notes & Books
+# 4th Year BVSc Notes & Books
 
 4th Year BVSc & AH notes, TANUVAS material and recommended books. Pick a subject to start.
 
@@ -3104,22 +3104,22 @@ Canonical: https://notes.thatvetguy.net/bvsc/year-4/
 
 Year grouping may vary by university. Check your syllabus.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›Veterinary Medicine Notes & BVSc Study Resources
+- ›Veterinary Medicine Notes & Books for BVSc
 
-# Veterinary Medicine
+# Veterinary Medicine Notes
 
-Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems.
+Veterinary Medicine focuses on organising clinical reasoning around animal diseases and presenting problems. Build problem lists before differential diagnoses, and compare diseases by distinguishing findings rather than isolated facts.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/)
 
@@ -3311,22 +3311,22 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›Veterinary Surgery and Radiology Notes & BVSc Study Resources
+- ›Veterinary Surgery and Radiology Notes & Books for BVSc
 
-# Veterinary Surgery and Radiology
+# Veterinary Surgery and Radiology Notes
 
-Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging.
+Veterinary Surgery and Radiology focuses on understanding surgical principles alongside diagnostic imaging. Connect anatomy, patient preparation and procedural reasoning; clinical techniques require supervised training and current guidance.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/)
 
@@ -3487,22 +3487,22 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›Veterinary Gynaecology and Obstetrics Notes & BVSc Study Resources
+- ›Veterinary Gynaecology and Obstetrics Notes & Books for BVSc
 
-# Veterinary Gynaecology and Obstetrics
+# Veterinary Gynaecology and Obstetrics Notes
 
-Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species.
+Veterinary Gynaecology and Obstetrics focuses on understanding reproduction, fertility and obstetrical principles across species. Compare reproductive timelines by species, then relate abnormal findings to the relevant stage and clinical history.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/)
 
@@ -3610,22 +3610,22 @@ No books match that title or author.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›Veterinary Clinical Practices II Notes & BVSc Study Resources
+- ›Veterinary Clinical Practices II Study Guide for BVSc
 
-# Veterinary Clinical Practices II
+# Veterinary Clinical Practices II Study Guide
 
-Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year.
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/)
 
@@ -3675,13 +3675,13 @@ No book listed for this subject yet.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/notes/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -3697,7 +3697,7 @@ Choose a 4th Year subject to read topic-wise notes and TANUVAS material. Each su
 - [Veterinary Gynaecology and Obstetrics14 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - [Veterinary Clinical Practices II0 resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
@@ -6264,11 +6264,14 @@ Canonical: https://notes.thatvetguy.net/books/
 - [Home](https://notes.thatvetguy.net/)
 - ›Books
 
-# Books
+# Veterinary Books
 
 A little shelf. A world of learning.
 
 119titles
+
+Textbooks, clinical handbooks and exam references. Open a title for available downloads and edition details.
+
 Find a book by title, author or subject
 
 [All Books119](#books-shelves)[Basics11](#basic-sciences)[Disease13](#disease-diagnostics)[Animal Sci.11](#animal-science)[Clinical55](#clinical)[Drugs10](#drug-references)[Public Health9](#public-health)[Exam Prep10](#exam-prep)
@@ -12643,12 +12646,12 @@ Page updated: 2026-10-31. Sources last reviewed: 2026-10-28; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Veterinary Anatomy Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
+- ›[Veterinary Anatomy Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - ›Syllabus Checklist
 
 # Veterinary Anatomy Syllabus Checklist
@@ -12884,18 +12887,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Anatomy ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Veterinary Physiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
+- ›[Veterinary Physiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 - ›Syllabus Checklist
 
 # Veterinary Physiology Syllabus Checklist
@@ -13057,18 +13060,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Physiology ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Livestock Production Management Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- ›[Livestock Production Management Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 - ›Syllabus Checklist
 
 # Livestock Production Management Syllabus Checklist
@@ -13411,18 +13414,18 @@ Checked 2026-10-28.
 
 [Back to Livestock Production Management ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Biochemistry Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- ›[Veterinary Biochemistry Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - ›Syllabus Checklist
 
 # Veterinary Biochemistry Syllabus Checklist
@@ -13547,18 +13550,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Biochemistry ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Microbiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- ›[Veterinary Microbiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 - ›Syllabus Checklist
 
 # Veterinary Microbiology Syllabus Checklist
@@ -13765,18 +13768,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Microbiology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Pathology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- ›[Veterinary Pathology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 - ›Syllabus Checklist
 
 # Veterinary Pathology Syllabus Checklist
@@ -13920,18 +13923,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Pathology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Animal Genetics and Breeding Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
+- ›[Animal Genetics and Breeding Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - ›Syllabus Checklist
 
 # Animal Genetics and Breeding Syllabus Checklist
@@ -14091,18 +14094,18 @@ Checked 2026-10-28.
 
 [Back to Animal Genetics and Breeding ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Animal Nutrition Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+- ›[Animal Nutrition Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 - ›Syllabus Checklist
 
 # Animal Nutrition Syllabus Checklist
@@ -14236,18 +14239,18 @@ Checked 2026-10-28.
 
 [Back to Animal Nutrition ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Pharmacology and Toxicology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+- ›[Veterinary Pharmacology and Toxicology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 - ›Syllabus Checklist
 
 # Veterinary Pharmacology and Toxicology Syllabus Checklist
@@ -14406,18 +14409,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Pharmacology and Toxicology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Parasitology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- ›[Veterinary Parasitology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 - ›Syllabus Checklist
 
 # Veterinary Parasitology Syllabus Checklist
@@ -14581,18 +14584,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Parasitology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Public Health and Epidemiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- ›[Veterinary Public Health and Epidemiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 - ›Syllabus Checklist
 
 # Veterinary Public Health and Epidemiology Syllabus Checklist
@@ -14778,18 +14781,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Public Health and Epidemiology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Livestock Products Technology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
+- ›[Livestock Products Technology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 - ›Syllabus Checklist
 
 # Livestock Products Technology Syllabus Checklist
@@ -14933,18 +14936,18 @@ Checked 2026-10-28.
 
 [Back to Livestock Products Technology ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary and Animal Husbandry Extension Education Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- ›[Veterinary and Animal Husbandry Extension Education Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 - ›Syllabus Checklist
 
 # Veterinary and Animal Husbandry Extension Education Syllabus Checklist
@@ -15132,18 +15135,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary and Animal Husbandry Extension Education ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Clinical Practices I Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
+- ›[Veterinary Clinical Practices I Notes for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - ›Syllabus Checklist
 
 # Veterinary Clinical Practices I Syllabus Checklist
@@ -15184,18 +15187,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Clinical Practices I ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Livestock Farm Practices Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+- ›[Livestock Farm Practices Notes for BVSc](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 - ›Syllabus Checklist
 
 # Livestock Farm Practices Syllabus Checklist
@@ -15233,18 +15236,18 @@ Checked 2026-10-28.
 
 [Back to Livestock Farm Practices ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Medicine Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- ›[Veterinary Medicine Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 - ›Syllabus Checklist
 
 # Veterinary Medicine Syllabus Checklist
@@ -15396,18 +15399,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Medicine ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Surgery and Radiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- ›[Veterinary Surgery and Radiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 - ›Syllabus Checklist
 
 # Veterinary Surgery and Radiology Syllabus Checklist
@@ -15627,18 +15630,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Surgery and Radiology ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Gynaecology and Obstetrics Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- ›[Veterinary Gynaecology and Obstetrics Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - ›Syllabus Checklist
 
 # Veterinary Gynaecology and Obstetrics Syllabus Checklist
@@ -15744,18 +15747,18 @@ Checked 2026-10-28.
 
 [Back to Veterinary Gynaecology and Obstetrics ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Clinical Practices II Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
+- ›[Veterinary Clinical Practices II Study Guide for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 - ›Syllabus Checklist
 
 # Veterinary Clinical Practices II Syllabus Checklist
@@ -15896,13 +15899,13 @@ Checked 2026-10-28.
 
 [Back to Veterinary Clinical Practices II ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/tanuvas-notes/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/tanuvas-notes/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/tanuvas-notes/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -16077,17 +16080,17 @@ TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. Origina
 
 [Browse the complete TANUVAS Drive ](https://drive.google.com/drive/folders/13i3fxBDwbY8WraWKqirBugemkXDdpRyQ)
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 59 PDFs · 16 subjects · Drive listing checked 2026-11-02. Access to external files may change.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/syllabus/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -16152,7 +16155,7 @@ The checklists reproduce course topics from the Veterinary Council of India’s 
 
 Ticked topics are saved in this browser on this device. A tick is a personal study marker, not a record of attendance or an official completion certificate.
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 ## Why a subject may appear in a different year
 
@@ -16166,18 +16169,18 @@ Open your subject checklist beside your lecture plan. Identify the topics curren
 
 Source transcription checked 2026-10-28. This is a study aid, not an official university portal.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Veterinary Anatomy Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
+- ›[Veterinary Anatomy Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 - ›Practical Vault
 
 # Veterinary Anatomy Practical Vault
@@ -16235,18 +16238,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Anatomy ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-anatomy/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Veterinary Physiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
+- ›[Veterinary Physiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 - ›Practical Vault
 
 # Veterinary Physiology Practical Vault
@@ -16292,18 +16295,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Physiology ](https://notes.thatvetguy.net/bvsc/year-1/veterinary-physiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›[Livestock Production Management Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
+- ›[Livestock Production Management Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 - ›Practical Vault
 
 # Livestock Production Management Practical Vault
@@ -16361,18 +16364,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Production Management ](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Biochemistry Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
+- ›[Veterinary Biochemistry Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 - ›Practical Vault
 
 # Veterinary Biochemistry Practical Vault
@@ -16421,18 +16424,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Biochemistry ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-biochemistry/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Microbiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
+- ›[Veterinary Microbiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 - ›Practical Vault
 
 # Veterinary Microbiology Practical Vault
@@ -16483,18 +16486,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Microbiology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Veterinary Pathology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
+- ›[Veterinary Pathology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 - ›Practical Vault
 
 # Veterinary Pathology Practical Vault
@@ -16544,18 +16547,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Pathology ](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Animal Genetics and Breeding Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
+- ›[Animal Genetics and Breeding Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - ›Practical Vault
 
 # Animal Genetics and Breeding Practical Vault
@@ -16606,18 +16609,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Animal Genetics and Breeding ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Animal Nutrition Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+- ›[Animal Nutrition Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 - ›Practical Vault
 
 # Animal Nutrition Practical Vault
@@ -16663,18 +16666,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Animal Nutrition ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Pharmacology and Toxicology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
+- ›[Veterinary Pharmacology and Toxicology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 - ›Practical Vault
 
 # Veterinary Pharmacology and Toxicology Practical Vault
@@ -16721,18 +16724,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Pharmacology and Toxicology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Parasitology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
+- ›[Veterinary Parasitology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 - ›Practical Vault
 
 # Veterinary Parasitology Practical Vault
@@ -16785,18 +16788,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Parasitology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-parasitology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Public Health and Epidemiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
+- ›[Veterinary Public Health and Epidemiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 - ›Practical Vault
 
 # Veterinary Public Health and Epidemiology Practical Vault
@@ -16842,18 +16845,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Public Health and Epidemiology ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-public-health-and-epidemiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Livestock Products Technology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
+- ›[Livestock Products Technology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 - ›Practical Vault
 
 # Livestock Products Technology Practical Vault
@@ -16899,18 +16902,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Products Technology ](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary and Animal Husbandry Extension Education Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
+- ›[Veterinary and Animal Husbandry Extension Education Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 - ›Practical Vault
 
 # Veterinary and Animal Husbandry Extension Education Practical Vault
@@ -16954,18 +16957,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary and Animal Husbandry Extension Education ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Clinical Practices I Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
+- ›[Veterinary Clinical Practices I Notes for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - ›Practical Vault
 
 # Veterinary Clinical Practices I Practical Vault
@@ -17006,18 +17009,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Clinical Practices I ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Livestock Farm Practices Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+- ›[Livestock Farm Practices Notes for BVSc](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 - ›Practical Vault
 
 # Livestock Farm Practices Practical Vault
@@ -17058,18 +17061,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Farm Practices ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Medicine Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- ›[Veterinary Medicine Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 - ›Practical Vault
 
 # Veterinary Medicine Practical Vault
@@ -17120,18 +17123,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Medicine ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Surgery and Radiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- ›[Veterinary Surgery and Radiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 - ›Practical Vault
 
 # Veterinary Surgery and Radiology Practical Vault
@@ -17181,18 +17184,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Surgery and Radiology ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Gynaecology and Obstetrics Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- ›[Veterinary Gynaecology and Obstetrics Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - ›Practical Vault
 
 # Veterinary Gynaecology and Obstetrics Practical Vault
@@ -17243,18 +17246,18 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Gynaecology and Obstetrics ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/
 
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Clinical Practices II Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
+- ›[Veterinary Clinical Practices II Study Guide for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 - ›Practical Vault
 
 # Veterinary Clinical Practices II Practical Vault
@@ -17300,7 +17303,7 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Clinical Practices II ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---

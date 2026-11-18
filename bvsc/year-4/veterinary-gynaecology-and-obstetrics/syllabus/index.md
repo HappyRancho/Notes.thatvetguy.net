@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Gynaecology and Obstetrics Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
+- ›[Veterinary Gynaecology and Obstetrics Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 - ›Syllabus Checklist
 
 # Veterinary Gynaecology and Obstetrics Syllabus Checklist
@@ -109,4 +109,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Gynaecology and Obstetrics ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-gynaecology-and-obstetrics/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

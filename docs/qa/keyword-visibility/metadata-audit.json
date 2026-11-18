@@ -1,0 +1,250 @@
+[
+  {
+    "path": "/",
+    "primaryQueryFamily": "veterinary notes",
+    "previousTitle": "Free Veterinary Notes & BVSc Study Material | ThatVetGuy",
+    "title": "Free Veterinary Notes, Books & BVSc Study Material | ThatVetGuy",
+    "description": "Find free veterinary notes, BVSc & AH study material, veterinary books, TANUVAS PDFs and question banks. Browse by subject or professional year.",
+    "h1": "Free Veterinary Notes & Books"
+  },
+  {
+    "path": "/bvsc/",
+    "primaryQueryFamily": "BVSc notes",
+    "previousTitle": "BVSc Notes & Recommended Veterinary Books | ThatVetGuy",
+    "title": "BVSc & AH Notes by Year & Subject | ThatVetGuy",
+    "description": "Browse BVSc & AH notes for 1st, 2nd, 3rd and 4th Year. Find subject-wise veterinary notes, TANUVAS material, books and syllabus checklists.",
+    "h1": "BVSc & AH Notes by Year & Subject"
+  },
+  {
+    "path": "/books/",
+    "primaryQueryFamily": "veterinary books",
+    "previousTitle": "Veterinary Books, Textbooks & Clinical References | Notes.ThatVetGuy",
+    "title": "Veterinary Books & Clinical PDF Library | ThatVetGuy",
+    "description": "Browse veterinary books, clinical handbooks and exam references by subject. Open a title for authors, edition details and available PDF or Google Drive access.",
+    "h1": "Veterinary Books"
+  },
+  {
+    "path": "/bvsc/year-1/",
+    "primaryQueryFamily": "1st Year BVSc notes",
+    "previousTitle": "1st Year BVSc Notes, TANUVAS Material & Books | Notes.ThatVetGuy",
+    "title": "1st Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "1st Year BVSc & AH notes for anatomy, physiology and livestock management. Browse books, topic notes and syllabus checklists.",
+    "h1": "1st Year BVSc Notes & Books"
+  },
+  {
+    "path": "/bvsc/year-1/veterinary-anatomy/",
+    "primaryQueryFamily": "Veterinary Anatomy notes",
+    "previousTitle": "Veterinary Anatomy Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Anatomy Notes | ThatVetGuy",
+    "description": "Veterinary Anatomy Notes for 1st Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Anatomy Notes"
+  },
+  {
+    "path": "/bvsc/year-1/veterinary-physiology/",
+    "primaryQueryFamily": "Veterinary Physiology notes",
+    "previousTitle": "Veterinary Physiology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Physiology Notes | ThatVetGuy",
+    "description": "Veterinary Physiology Notes for 1st Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Physiology Notes"
+  },
+  {
+    "path": "/bvsc/year-1/livestock-production-management/",
+    "primaryQueryFamily": "Livestock Production Management notes",
+    "previousTitle": "Livestock Production Management Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Livestock Production Management Notes | ThatVetGuy",
+    "description": "Livestock Production Management Notes for 1st Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Livestock Production Management Notes"
+  },
+  {
+    "path": "/bvsc/year-2/",
+    "primaryQueryFamily": "2nd Year BVSc notes",
+    "previousTitle": "2nd Year BVSc Notes, TANUVAS Material & Books | Notes.ThatVetGuy",
+    "title": "2nd Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "2nd Year BVSc & AH notes for biochemistry, microbiology, pathology, genetics and nutrition. Browse books, topic notes and syllabus checklists.",
+    "h1": "2nd Year BVSc Notes & Books"
+  },
+  {
+    "path": "/bvsc/year-2/veterinary-biochemistry/",
+    "primaryQueryFamily": "Veterinary Biochemistry notes",
+    "previousTitle": "Veterinary Biochemistry Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Biochemistry Notes | ThatVetGuy",
+    "description": "Veterinary Biochemistry Notes for 2nd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Biochemistry Notes"
+  },
+  {
+    "path": "/bvsc/year-2/veterinary-microbiology/",
+    "primaryQueryFamily": "Veterinary Microbiology notes",
+    "previousTitle": "Veterinary Microbiology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Microbiology Notes | ThatVetGuy",
+    "description": "Veterinary Microbiology Notes for 2nd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Microbiology Notes"
+  },
+  {
+    "path": "/bvsc/year-2/veterinary-pathology/",
+    "primaryQueryFamily": "Veterinary Pathology notes",
+    "previousTitle": "Veterinary Pathology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Pathology Notes | ThatVetGuy",
+    "description": "Veterinary Pathology Notes for 2nd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Pathology Notes"
+  },
+  {
+    "path": "/bvsc/year-2/animal-genetics-and-breeding/",
+    "primaryQueryFamily": "Animal Genetics and Breeding notes",
+    "previousTitle": "Animal Genetics and Breeding Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Animal Genetics & Breeding Notes | ThatVetGuy",
+    "description": "Animal Genetics and Breeding Notes for 2nd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Animal Genetics and Breeding Notes"
+  },
+  {
+    "path": "/bvsc/year-2/animal-nutrition/",
+    "primaryQueryFamily": "Animal Nutrition notes",
+    "previousTitle": "Animal Nutrition Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Animal Nutrition Notes | ThatVetGuy",
+    "description": "Animal Nutrition Notes for 2nd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Animal Nutrition Notes"
+  },
+  {
+    "path": "/bvsc/year-3/",
+    "primaryQueryFamily": "3rd Year BVSc notes",
+    "previousTitle": "3rd Year BVSc Notes, TANUVAS Material & Books | Notes.ThatVetGuy",
+    "title": "3rd Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "3rd Year BVSc & AH notes for pharmacology, parasitology, public health and animal husbandry. Browse books, topic notes and syllabus checklists.",
+    "h1": "3rd Year BVSc Notes & Books"
+  },
+  {
+    "path": "/bvsc/year-3/veterinary-pharmacology-and-toxicology/",
+    "primaryQueryFamily": "Veterinary Pharmacology and Toxicology notes",
+    "previousTitle": "Veterinary Pharmacology and Toxicology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Pharmacology & Toxicology Notes | ThatVetGuy",
+    "description": "Veterinary Pharmacology and Toxicology Notes for 3rd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Pharmacology and Toxicology Notes"
+  },
+  {
+    "path": "/bvsc/year-3/veterinary-parasitology/",
+    "primaryQueryFamily": "Veterinary Parasitology notes",
+    "previousTitle": "Veterinary Parasitology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Parasitology Notes | ThatVetGuy",
+    "description": "Veterinary Parasitology Notes for 3rd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Parasitology Notes"
+  },
+  {
+    "path": "/bvsc/year-3/veterinary-public-health-and-epidemiology/",
+    "primaryQueryFamily": "Veterinary Public Health and Epidemiology notes",
+    "previousTitle": "Veterinary Public Health and Epidemiology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Public Health & Epidemiology Notes | ThatVetGuy",
+    "description": "Veterinary Public Health and Epidemiology Notes for 3rd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Public Health and Epidemiology Notes"
+  },
+  {
+    "path": "/bvsc/year-3/livestock-products-technology/",
+    "primaryQueryFamily": "Livestock Products Technology notes",
+    "previousTitle": "Livestock Products Technology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Livestock Products Technology Notes | ThatVetGuy",
+    "description": "Livestock Products Technology Notes for 3rd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Livestock Products Technology Notes"
+  },
+  {
+    "path": "/bvsc/year-3/veterinary-and-animal-husbandry-extension-education/",
+    "primaryQueryFamily": "Veterinary and Animal Husbandry Extension Education notes",
+    "previousTitle": "Veterinary and Animal Husbandry Extension Education Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Extension Education Notes | ThatVetGuy",
+    "description": "Veterinary and Animal Husbandry Extension Education Notes for 3rd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary and Animal Husbandry Extension Education Notes"
+  },
+  {
+    "path": "/bvsc/year-3/veterinary-clinical-practices-i/",
+    "primaryQueryFamily": "Veterinary Clinical Practices I notes",
+    "previousTitle": "Veterinary Clinical Practices I Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Clinical Practices I Notes | ThatVetGuy",
+    "description": "Veterinary Clinical Practices I Notes for 3rd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes.",
+    "h1": "Veterinary Clinical Practices I Notes"
+  },
+  {
+    "path": "/bvsc/year-3/livestock-farm-practices/",
+    "primaryQueryFamily": "Livestock Farm Practices notes",
+    "previousTitle": "Livestock Farm Practices Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Livestock Farm Practices Notes | ThatVetGuy",
+    "description": "Livestock Farm Practices Notes for 3rd Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes.",
+    "h1": "Livestock Farm Practices Notes"
+  },
+  {
+    "path": "/bvsc/year-4/",
+    "primaryQueryFamily": "4th Year BVSc notes",
+    "previousTitle": "4th Year BVSc Notes, TANUVAS Material & Books | Notes.ThatVetGuy",
+    "title": "4th Year BVSc Notes, Books & Syllabus | ThatVetGuy",
+    "description": "4th Year BVSc & AH notes for medicine, surgery, radiology, gynaecology and obstetrics. Browse books, topic notes and syllabus checklists.",
+    "h1": "4th Year BVSc Notes & Books"
+  },
+  {
+    "path": "/bvsc/year-4/veterinary-medicine/",
+    "primaryQueryFamily": "Veterinary Medicine notes",
+    "previousTitle": "Veterinary Medicine Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Medicine Notes | ThatVetGuy",
+    "description": "Veterinary Medicine Notes for 4th Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Medicine Notes"
+  },
+  {
+    "path": "/bvsc/year-4/veterinary-surgery-and-radiology/",
+    "primaryQueryFamily": "Veterinary Surgery and Radiology notes",
+    "previousTitle": "Veterinary Surgery and Radiology Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Surgery & Radiology Notes | ThatVetGuy",
+    "description": "Veterinary Surgery and Radiology Notes for 4th Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Surgery and Radiology Notes"
+  },
+  {
+    "path": "/bvsc/year-4/veterinary-gynaecology-and-obstetrics/",
+    "primaryQueryFamily": "Veterinary Gynaecology and Obstetrics notes",
+    "previousTitle": "Veterinary Gynaecology and Obstetrics Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Gynaecology & Obstetrics Notes | ThatVetGuy",
+    "description": "Veterinary Gynaecology and Obstetrics Notes for 4th Year BVSc & AH. Browse unit-wise syllabus checklist, topic-wise notes, TANUVAS collections, subject books.",
+    "h1": "Veterinary Gynaecology and Obstetrics Notes"
+  },
+  {
+    "path": "/bvsc/year-4/veterinary-clinical-practices-ii/",
+    "primaryQueryFamily": "Veterinary Clinical Practices II study guide",
+    "previousTitle": "Veterinary Clinical Practices II Notes & BVSc Study Resources | Notes.ThatVetGuy",
+    "title": "Veterinary Clinical Practices II Study Guide | ThatVetGuy",
+    "description": "Veterinary Clinical Practices II Study Guide for 4th Year BVSc & AH. Browse unit-wise syllabus checklist.",
+    "h1": "Veterinary Clinical Practices II Study Guide"
+  },
+  {
+    "path": "/objective/",
+    "primaryQueryFamily": "veterinary objective notes",
+    "previousTitle": "Veterinary Objective Notes & Question Banks | ThatVetGuy",
+    "title": "Veterinary Objective Notes & Question Banks | ThatVetGuy",
+    "description": "Browse veterinary objective notes and question banks: Dhruv N Desai, Animal Science Refresher, TANUVAS, NDRI, Vet Scorer, KVAFSU and E. Nanu.",
+    "h1": "Objective & Competition Resources"
+  },
+  {
+    "path": "/clinical/handbooks/",
+    "primaryQueryFamily": "veterinary clinical handbooks",
+    "previousTitle": "Veterinary Clinical Handbooks Collection | ThatVetGuy",
+    "title": "Veterinary Clinical Handbooks Collection | ThatVetGuy",
+    "description": "Browse veterinary clinical handbooks for small animal medicine, imaging and emergency study. Open each book for its details and available Google Drive link.",
+    "h1": "Handbooks"
+  },
+  {
+    "path": "/clinical/drug-index/",
+    "primaryQueryFamily": "veterinary drug index",
+    "previousTitle": "Veterinary Drug Index & Vaccination References | ThatVetGuy",
+    "title": "Veterinary Drug Index & Vaccination References | ThatVetGuy",
+    "description": "Browse VENDEX, NAVSARI, Plumb's Veterinary Drug Handbook, a drug-dose wall reference and animal vaccination schedules for veterinary study.",
+    "h1": "Drug Index Collection"
+  },
+  {
+    "path": "/bvsc/tanuvas-notes/",
+    "primaryQueryFamily": "TANUVAS veterinary notes",
+    "previousTitle": "TANUVAS Notes for BVSc & AH \u2014 Subject & Course Directory | Rx Notes",
+    "title": "TANUVAS Veterinary Notes \u2014 BVSc Subject Directory | ThatVetGuy",
+    "description": "Find TANUVAS veterinary notes across all four BVSc & AH years: 59 PDFs in 16 subjects, original file names, Google Drive links and syllabus checklists.",
+    "h1": "TANUVAS Notes for BVSc & AH"
+  },
+  {
+    "path": "/bvsc/syllabus/",
+    "primaryQueryFamily": "BVSc & AH syllabus",
+    "previousTitle": "BVSc & AH Syllabus \u2014 MSVE 2016 Checklists & Course Outlines",
+    "title": "BVSc & AH Syllabus \u2014 MSVE 2016 Checklists & Course Outlines",
+    "description": "Browse the BVSc & AH syllabus by professional year: 19 subject checklists, theory and practical topics, and original MSVE 2016 course-outline PDFs.",
+    "h1": "BVSc & AH Syllabus & Course Outlines"
+  }
+]

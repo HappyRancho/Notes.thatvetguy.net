@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Medicine Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
+- ›[Veterinary Medicine Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 - ›Practical Vault
 
 # Veterinary Medicine Practical Vault
@@ -54,4 +54,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Medicine ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-medicine/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

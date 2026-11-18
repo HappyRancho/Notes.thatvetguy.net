@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Animal Nutrition Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
+- ›[Animal Nutrition Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 - ›Syllabus Checklist
 
 # Animal Nutrition Syllabus Checklist
@@ -137,4 +137,4 @@ Checked 2026-10-28.
 
 [Back to Animal Nutrition ](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

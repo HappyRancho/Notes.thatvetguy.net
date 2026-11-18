@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[1st Year](https://notes.thatvetguy.net/bvsc/year-1/)
-- ›Livestock Production Management Notes & BVSc Study Resources
+- ›Livestock Production Management Notes & Books for BVSc
 
-# Livestock Production Management
+# Livestock Production Management Notes
 
-Livestock Production Management focuses on connecting animal husbandry principles with practical farm management.
+Livestock Production Management focuses on connecting animal husbandry principles with practical farm management. Compare management requirements by species, age and production stage, with welfare and daily observation in view.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-1/livestock-production-management/syllabus/)
 
@@ -177,4 +177,4 @@ No books match that title or author.
 
 [All 1st Year subjects ](https://notes.thatvetguy.net/bvsc/year-1/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

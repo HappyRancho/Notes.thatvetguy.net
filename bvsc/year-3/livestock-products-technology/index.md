@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Livestock Products Technology Notes & BVSc Study Resources
+- ›Livestock Products Technology Notes & Books for BVSc
 
-# Livestock Products Technology
+# Livestock Products Technology Notes
 
-Livestock Products Technology focuses on following animal products from production through processing and safety.
+Livestock Products Technology focuses on following animal products from production through processing and safety. Use process flow diagrams to connect preservation methods, product quality and the purpose of each processing step.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/livestock-products-technology/syllabus/)
 
@@ -222,4 +222,4 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

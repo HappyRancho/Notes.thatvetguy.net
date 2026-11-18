@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Clinical Practices I Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
+- ›[Veterinary Clinical Practices I Notes for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - ›Syllabus Checklist
 
 # Veterinary Clinical Practices I Syllabus Checklist
@@ -44,4 +44,4 @@ Checked 2026-10-28.
 
 [Back to Veterinary Clinical Practices I ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

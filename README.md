@@ -70,3 +70,7 @@ The Books item in the bottom navigation opens `/books/`. The library draws all c
 ## Verified clinical PDF references
 
 `data/vet-ebooks-books.json` supplies 25 clinical and practical references, selected for concise coverage and smaller public PDF downloads. Entries include a provider URL, checked byte size, PDF signature, author, cover, original overview and study topics. The catalogue merges existing works by canonical ID. Our own book pages remain the search, sitemap and Markdown targets; Download PDF opens the verified public provider endpoint directly. No PDF is downloaded while browsing the library. Availability is controlled by the external provider.
+
+## Search keyword targeting
+
+The [keyword plan](docs/seo/2026-11-18-keyword-targeting.md) and [31-page query map](docs/seo/2026-11-18-keyword-map.csv) describe the notes, books, year and subject search targets. Landing-page overrides are in `data/search-metadata.json`; source-aware subject titles, visible headings and guidance remain in their page generators. Run `node scripts/keyword-visibility-qa.mjs` to check narrow-screen layouts and ordinary notes/book navigation without JavaScript.

@@ -1,4 +1,4 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/tanuvas-notes/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/tanuvas-notes/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
@@ -173,8 +173,8 @@ TANUVAS stands for Tamil Nadu Veterinary and Animal Sciences University. Origina
 
 [Browse the complete TANUVAS Drive ](https://drive.google.com/drive/folders/13i3fxBDwbY8WraWKqirBugemkXDdpRyQ)
 
-[All subjects](https://notes.thatvetguy.net/bvsc/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
+[BVSc notes](https://notes.thatvetguy.net/bvsc/)[Veterinary books](https://notes.thatvetguy.net/books/)[TANUVAS notes](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)[Syllabus & outlines](https://notes.thatvetguy.net/bvsc/syllabus/)
 
 59 PDFs · 16 subjects · Drive listing checked 2026-11-02. Access to external files may change.
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

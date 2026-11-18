@@ -24,9 +24,13 @@ def render(b,year,subject,books):
     if topics:available.append('topic-wise notes')
     if tanuvas:available.append('TANUVAS collections')
     if own:available.append('subject books')
-    description=f'{name} study material for {label} BVSc & AH: '+', '.join(available)+'. Browse resources and available source links.'
-    intro=guide['summary'].split('. ',1)[0]+'.'
-    body=b.article_intro(name,intro,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')]).replace('container reading-page','container reading-page subject-page subject-hub',1)
+    heading=name+(' Notes' if rows else ' Study Guide')
+    search_name=name.replace(' and ',' & ')
+    if search_name=='Veterinary & Animal Husbandry Extension Education':search_name='Veterinary Extension Education'
+    search_title=search_name+(' Notes' if rows else ' Study Guide')+' | ThatVetGuy'
+    description=f'{heading} for {label} BVSc & AH. Browse '+', '.join(available)+'.'
+    intro=guide['summary'].split('. ',1)[0]+'. '+guide['studyTip']
+    body=b.article_intro(heading,intro,[('BVSc','/bvsc/'),(label,f'/bvsc/year-{year}/')]).replace('container reading-page','container reading-page subject-page subject-hub',1)
     syllabus=b.link(checklist_url(year,name),'<span class="rx-row-icon sky">'+b.icon('check')+'</span><span><strong>Syllabus Checklist</strong><small>Unit by unit. One tick at a time.</small></span>'+b.icon('chevron'),'subject-syllabus-link')
     body=body.replace('</header>',syllabus+'</header>',1)
     body+='<section class="subject-reader subject-notes-card" data-subject-reader aria-labelledby="notes-title"><header class="subject-card-heading"><span class="subject-rx" aria-hidden="true">℞</span><h2 id="notes-title">Notes</h2><span>'+str(len(rows))+' '+('note' if len(rows)==1 else 'notes')+'</span></header><div class="subject-notes-options">'
@@ -50,4 +54,4 @@ def render(b,year,subject,books):
     else:body+='<p class="subject-book-unavailable">No book listed for this subject yet.</p>'+b.link('/request-resource/','Request a book '+b.icon('arrow'),'book-library-link')
     body+='</section>'
     body+='<nav class="subject-bottom-nav" aria-label="More study material">'+b.link(f'/bvsc/year-{year}/','All '+label+' subjects '+b.icon('arrow'))+'<button type="button" class="studied-button js-only" data-studied="'+subject['slug']+'" aria-pressed="false">'+b.icon('check')+'<span>Mark as studied</span></button></nav></div>'
-    b.write_page(path,name+' Notes & BVSc Study Resources',description,body,[(r['title'],r['url']) for r in rows])
+    b.write_page(path,heading+(' & Books' if own else '')+' for BVSc',description,body,[(r['title'],r['url']) for r in rows],search_title=search_title)

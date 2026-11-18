@@ -10,7 +10,7 @@ TANUVAS=json.loads((ROOT/'data/tanuvas-source.json').read_text())
 ROUTES=[('/bvsc/tanuvas-notes/','TANUVAS Notes','TANUVAS veterinary notes by professional year, subject and unit'),('/bvsc/syllabus/','BVSc Syllabus & Course Outlines','MSVE 2016 theory and practical syllabus checklists by subject')]
 
 def shortcuts(b):
-    return '<nav class="resource-shortcuts" aria-label="Browse veterinary study material">'+''.join(b.link(path,b.icon(ic)+'<span>'+label+'</span>') for path,label,ic in [('/bvsc/','All subjects','book'),('/bvsc/tanuvas-notes/','TANUVAS notes','paper'),('/bvsc/syllabus/','Syllabus &amp; outlines','check')])+'</nav>'
+    return '<nav class="resource-shortcuts" aria-label="Browse veterinary study material">'+''.join(b.link(path,b.icon(ic)+'<span>'+label+'</span>') for path,label,ic in [('/bvsc/','BVSc notes','paper'),('/books/','Veterinary books','book'),('/bvsc/tanuvas-notes/','TANUVAS notes','paper'),('/bvsc/syllabus/','Syllabus &amp; outlines','check')])+'</nav>'
 
 def tanuvas(b):
     path='/bvsc/tanuvas-notes/'

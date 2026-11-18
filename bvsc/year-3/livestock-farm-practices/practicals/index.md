@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Livestock Farm Practices Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
+- ›[Livestock Farm Practices Notes for BVSc](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 - ›Practical Vault
 
 # Livestock Farm Practices Practical Vault
@@ -44,4 +44,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Livestock Farm Practices ](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

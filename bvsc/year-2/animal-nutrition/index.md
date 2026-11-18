@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Animal Nutrition Notes & BVSc Study Resources
+- ›Animal Nutrition Notes & Books for BVSc
 
-# Animal Nutrition
+# Animal Nutrition Notes
 
-Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems.
+Animal Nutrition focuses on understanding feeds, nutrient requirements and feeding systems. Compare nutrient requirements with feed characteristics and production stage before attempting a balanced ration.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/animal-nutrition/syllabus/)
 
@@ -166,4 +166,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

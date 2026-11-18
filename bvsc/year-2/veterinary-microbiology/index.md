@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Veterinary Microbiology Notes & BVSc Study Resources
+- ›Veterinary Microbiology Notes & Books for BVSc
 
-# Veterinary Microbiology
+# Veterinary Microbiology Notes
 
-Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke.
+Veterinary Microbiology focuses on distinguishing infectious agents and the host responses they provoke. Compare each agent by classification, transmission and laboratory identification while keeping species context clear.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-microbiology/syllabus/)
 
@@ -276,4 +276,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

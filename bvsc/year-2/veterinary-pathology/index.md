@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Veterinary Pathology Notes & BVSc Study Resources
+- ›Veterinary Pathology Notes & Books for BVSc
 
-# Veterinary Pathology
+# Veterinary Pathology Notes
 
-Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce.
+Veterinary Pathology focuses on recognising mechanisms of disease and the lesions they produce. Link the underlying mechanism to gross and microscopic changes, then practise describing lesions precisely.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/veterinary-pathology/syllabus/)
 
@@ -234,4 +234,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

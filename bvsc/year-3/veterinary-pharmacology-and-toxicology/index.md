@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Veterinary Pharmacology and Toxicology Notes & BVSc Study Resources
+- ›Veterinary Pharmacology and Toxicology Notes & Books for BVSc
 
-# Veterinary Pharmacology and Toxicology
+# Veterinary Pharmacology and Toxicology Notes
 
-Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context.
+Veterinary Pharmacology and Toxicology focuses on connecting drug action with species, safety and clinical context. Organise drug classes by mechanism, indications and adverse effects; verify clinical details against a current professional reference.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/veterinary-pharmacology-and-toxicology/syllabus/)
 
@@ -170,4 +170,4 @@ No books match that title or author.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

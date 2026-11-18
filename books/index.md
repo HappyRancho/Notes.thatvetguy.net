@@ -3,11 +3,14 @@
 - [Home](https://notes.thatvetguy.net/)
 - ›Books
 
-# Books
+# Veterinary Books
 
 A little shelf. A world of learning.
 
 119titles
+
+Textbooks, clinical handbooks and exam references. Open a title for available downloads and edition details.
+
 Find a book by title, author or subject
 
 [All Books119](#books-shelves)[Basics11](#basic-sciences)[Disease13](#disease-diagnostics)[Animal Sci.11](#animal-science)[Clinical55](#clinical)[Drugs10](#drug-references)[Public Health9](#public-health)[Exam Prep10](#exam-prep)

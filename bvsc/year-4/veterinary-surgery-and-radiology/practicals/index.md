@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›[Veterinary Surgery and Radiology Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
+- ›[Veterinary Surgery and Radiology Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 - ›Practical Vault
 
 # Veterinary Surgery and Radiology Practical Vault
@@ -53,4 +53,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Surgery and Radiology ](https://notes.thatvetguy.net/bvsc/year-4/veterinary-surgery-and-radiology/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

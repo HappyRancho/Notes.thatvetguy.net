@@ -93,7 +93,8 @@ def index(b):
  short={'basic-sciences':'Basics','disease-diagnostics':'Disease','animal-science':'Animal Sci.','clinical':'Clinical','drug-references':'Drugs','public-health':'Public Health','exam-prep':'Exam Prep'}
  intro=b.article_intro('Books','').split('<header class="reading-header',1)[0]
  body=intro.replace('container reading-page','container reading-page books-directory',1)
- body+='<header class="books-library-heading"><span class="books-sketch" aria-hidden="true">'+b.icon('book')+'</span><div><h1>Books</h1><p class="rx-hand">A little shelf. A world of learning.</p></div><span class="books-total">'+str(len(catalogue))+'<small>titles</small></span></header>'
+ body+='<header class="books-library-heading"><span class="books-sketch" aria-hidden="true">'+b.icon('book')+'</span><div><h1>Veterinary Books</h1><p class="rx-hand">A little shelf. A world of learning.</p></div><span class="books-total">'+str(len(catalogue))+'<small>titles</small></span></header>'
+ body+='<p class="books-library-intro">Textbooks, clinical handbooks and exam references. Open a title for available downloads and edition details.</p>'
  body+='<div class="books-search js-only">'+b.icon('search')+'<label for="books-query" class="sr-only">Find a book by title, author or subject</label><input id="books-query" type="search" placeholder="Title, author or subject…" autocomplete="off" aria-controls="books-shelves"><button type="button" id="books-clear" hidden aria-label="Clear book search">'+b.icon('close')+'</button></div>'
  body+='<nav class="books-category-links" aria-label="Book categories">'+b.link('#books-shelves','<span>All Books</span><small>'+str(len(catalogue))+'</small>','books-filter').replace('<a ','<a data-book-category="all" ',1)
  for key,title,_,_,tone in categories:

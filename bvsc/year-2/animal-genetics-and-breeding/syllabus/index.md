@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›[Animal Genetics and Breeding Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
+- ›[Animal Genetics and Breeding Notes & Books for BVSc](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 - ›Syllabus Checklist
 
 # Animal Genetics and Breeding Syllabus Checklist
@@ -163,4 +163,4 @@ Checked 2026-10-28.
 
 [Back to Animal Genetics and Breeding ](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[2nd Year](https://notes.thatvetguy.net/bvsc/year-2/)
-- ›Animal Genetics and Breeding Notes & BVSc Study Resources
+- ›Animal Genetics and Breeding Notes & Books for BVSc
 
-# Animal Genetics and Breeding
+# Animal Genetics and Breeding Notes
 
-Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement.
+Animal Genetics and Breeding focuses on applying inheritance and population principles to animal improvement. Work through inheritance and selection examples step by step, checking assumptions before interpreting the result.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-2/animal-genetics-and-breeding/syllabus/)
 
@@ -205,4 +205,4 @@ No books match that title or author.
 
 [All 2nd Year subjects ](https://notes.thatvetguy.net/bvsc/year-2/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

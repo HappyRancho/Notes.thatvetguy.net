@@ -1,9 +1,9 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/practicals/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›[Veterinary Clinical Practices I Notes & BVSc Study Resources](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
+- ›[Veterinary Clinical Practices I Notes for BVSc](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 - ›Practical Vault
 
 # Veterinary Clinical Practices I Practical Vault
@@ -44,4 +44,4 @@ Assessment source: [VCI MSVE 2016 curriculum ](https://upvetuniv.edu.in/wp-conte
 
 [Back to Veterinary Clinical Practices I ](https://notes.thatvetguy.net/bvsc/year-3/veterinary-clinical-practices-i/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

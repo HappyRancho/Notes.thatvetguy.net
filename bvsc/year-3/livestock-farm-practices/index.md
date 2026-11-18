@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[3rd Year](https://notes.thatvetguy.net/bvsc/year-3/)
-- ›Livestock Farm Practices Notes & BVSc Study Resources
+- ›Livestock Farm Practices Notes for BVSc
 
-# Livestock Farm Practices
+# Livestock Farm Practices Notes
 
-Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills.
+Livestock Farm Practices focuses on turning husbandry knowledge into supervised practical farm skills. Keep brief observation notes that connect daily routines with animal welfare, production and the reasons behind management decisions.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-3/livestock-farm-practices/syllabus/)
 
@@ -58,4 +58,4 @@ No book listed for this subject yet.
 
 [All 3rd Year subjects ](https://notes.thatvetguy.net/bvsc/year-3/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

@@ -1,13 +1,13 @@
-<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›[BVSc](https://notes.thatvetguy.net/bvsc/)
 - ›[4th Year](https://notes.thatvetguy.net/bvsc/year-4/)
-- ›Veterinary Clinical Practices II Notes & BVSc Study Resources
+- ›Veterinary Clinical Practices II Study Guide for BVSc
 
-# Veterinary Clinical Practices II
+# Veterinary Clinical Practices II Study Guide
 
-Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year.
+Veterinary Clinical Practices II focuses on integrating supervised clinical learning across the final professional year. Present cases with a concise history, problem list and reasoned plan, and document what needs further confirmation.
 
 [Syllabus ChecklistUnit by unit. One tick at a time.](https://notes.thatvetguy.net/bvsc/year-4/veterinary-clinical-practices-ii/syllabus/)
 
@@ -57,4 +57,4 @@ No book listed for this subject yet.
 
 [All 4th Year subjects ](https://notes.thatvetguy.net/bvsc/year-4/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
