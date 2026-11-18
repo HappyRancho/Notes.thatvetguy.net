@@ -12,7 +12,7 @@ def header(path):
 def navigation(path):
     links=''
     home=path=='/'
-    for url,title,ic in [('/','Home','home'),('/bvsc/','Notes','paper'),('/objective/','Objective','cap'),('/search/','Search','search')]:
+    for url,title,ic in [('/','Home','home'),('/bvsc/','Notes','paper'),('/objective/','Objective','cap'),('/books/','Books','book')]:
         active=' aria-current="page"' if (path==url or url!="/" and path.startswith(url)) else ''
         links+=f'<a href="{url}"{active}>'+icon(ic)+'<span>'+title+'</span></a>'
     def tile(url, title, detail, glyph, tone):

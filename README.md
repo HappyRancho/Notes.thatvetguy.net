@@ -62,3 +62,7 @@ While ads are disabled, each page uses the `google-adsense-account` meta tag for
 Minimal manual banner layout: at most one unit per eligible notes page, after a complete content section. The ad frame reserves 100px in height, caps its width at 728px and has 24px vertical separation. It stays in document flow with an Advertisement label. Activation requires an approved site, real display slot IDs and confirmation that Auto ads are off. Inactive placements emit no visible placeholder.
 
 Configured AdSense display slot: `9530493668` (Notes – Minimal Banner), publisher `ca-pub-3524774459480835`. Both reserved placements use this unit, with at most one placement per eligible page. The supplied dashboard screenshot shows Getting ready and Ads.txt not found, so approval/rendering flags remain disabled until approval is confirmed.
+
+## Books library
+
+The Books item in the bottom navigation opens `/books/`. The library draws all 95 existing canonical books from the same catalogue as the subject bookshelves. Seven broad subject categories have count filters, with title/author/subject search and 24-book batches through Show more. The compact covers reuse the subject-page card markup. With JavaScript disabled, the full catalogue and category anchor links remain available. `assets/books-directory.js` is loaded only on the library page and does not fetch another catalogue. Run `node scripts/books-library-qa.mjs` for the responsive, accessibility and browsing checks.
