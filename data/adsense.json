@@ -9,12 +9,14 @@
   "placements": {
     "home-after-bvsc": {
       "enabled": false,
-      "slotId": null,
-      "pages": {"/": "notes"}
+      "slotId": "9530493668",
+      "pages": {
+        "/": "notes"
+      }
     },
     "long-resource-break": {
       "enabled": false,
-      "slotId": null,
+      "slotId": "9530493668",
       "pages": {
         "/bvsc/year-1/roadmap/": "start",
         "/bvsc/year-2/roadmap/": "start",

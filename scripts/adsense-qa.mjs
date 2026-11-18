@@ -6,7 +6,7 @@ const assert=(ok,msg)=>{if(!ok)throw Error(msg)};
 try{
  if(!process.env.QA_BASE_URL){server=spawn('python3',['scripts/qa-server.py',process.cwd()],{stdio:'ignore'});for(let i=0;i<50;i++){try{if((await fetch(base)).ok)break}catch{}await new Promise(r=>setTimeout(r,100))}}
  browser=await chromium.launch({args:['--no-sandbox']});
- for(const width of [360,390,430])for(const theme of ['light','dark']){
+ for(const width of [360,390,430,1280])for(const theme of ['light','dark']){
   const c=await browser.newContext({viewport:{width,height:844},reducedMotion:'reduce'});await c.addInitScript(t=>localStorage.setItem('tvg-theme',t),theme);
   const p=await c.newPage();for(const path of paths){
    const requests=[];const listener=req=>{if(req.url().includes('/pagead/js/adsbygoogle.js'))requests.push(req.url())};p.on('request',listener);
@@ -21,7 +21,11 @@ try{
   // Exercise the reserved responsive shell with local inert markup, never an ad request.
   await p.goto(base+'/');await p.addStyleTag({content:fs.readFileSync('assets/adsense.css','utf8')});
   await p.evaluate(()=>{const el=document.createElement('aside');el.className='rx-ad';el.setAttribute('aria-label','Advertisement');el.innerHTML='<span class="rx-ad-label">Advertisement</span><div class="rx-ad-frame"><div class="rx-ad-unit"></div></div>';document.querySelector('#notes').after(el)});
-  assert(await p.locator('.rx-ad-frame').evaluate(e=>e.getBoundingClientRect().height===250),'Ad shell must reserve its height');assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'Responsive shell overflows');
+  assert(await p.locator('.rx-ad-frame').evaluate(e=>e.getBoundingClientRect().height===100),'Ad shell must reserve its height');assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'Responsive shell overflows');
+  assert(await p.locator('.rx-ad').evaluate(e=>getComputedStyle(e).position==='static'),'Banner must stay in document flow');
+  assert(await p.locator('.rx-ad-frame').evaluate(e=>e.getBoundingClientRect().width<=728),'Banner exceeds its width cap');
+  assert(await p.locator('.rx-ad').evaluate(e=>{const s=getComputedStyle(e);return parseFloat(s.marginTop)>=24&&parseFloat(s.marginBottom)>=24}),'Banner needs separation from content');
+  if([390,1280].includes(width)&&theme==='light'){await p.locator('.rx-ad').scrollIntoViewIfNeeded();await p.screenshot({path:out+'/minimal-banner-'+width+'.png'});}
   await c.close();
  }
 }catch(e){report.errors.push(e.stack||String(e))}finally{if(browser)await browser.close();if(server)server.kill();fs.writeFileSync(out+'/browser.json',JSON.stringify(report,null,2));console.log('ADSENSE_BROWSER '+JSON.stringify({views:report.views.length,errors:report.errors,lastState:report.errors.length?report.lastState:undefined}));if(report.errors.length)process.exitCode=1}
