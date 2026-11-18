@@ -6253,234 +6253,247 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-02; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/books/
 
-<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/books/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
 - ›Books
 
-# Veterinary Books Library
+# Books
 
-Subject books, objective resources and clinical handbooks for BVSc & AH study. Open a book for its details, cover and available download links.
+A little shelf. A world of learning.
 
-[1st Year](#year-1)[2nd Year](#year-2)[3rd Year](#year-3)[4th Year](#year-4)[Objective & Competition](#objective)[Clinical References](#clinical)
+95titles
+Find a book by title, author or subject
 
-## 1st Year
+[All Books95](#books-shelves)[Basics11](#basic-sciences)[Disease10](#disease-diagnostics)[Animal Sci.10](#animal-science)[Clinical37](#clinical)[Drugs9](#drug-references)[Public Health8](#public-health)[Exam Prep10](#exam-prep)
 
-13 resources
+95 books · browse the collection
 
-[A Textbook of Animal HusbandryG. C. Banerjee · Reading guide](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
+## Basic Sciences
 
-[Color Atlas of Veterinary HistologyLinda M. Bacha · Google Drive](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/)
+11
 
-[Colour Atlas of Veterinary Anatomy - The RuminantsGoogle Drive](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
+[Biochemistry](https://notes.thatvetguy.net/books/biochemistry/)
 
-[Cunningham’s Textbook of Veterinary PhysiologyBradley G. Klein (editor) · Google Drive](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/)
+[Color Atlas of Veterinary Histology](https://notes.thatvetguy.net/books/color-atlas-of-veterinary-histology/)
 
-[Dukes’ Physiology of Domestic AnimalsWilliam O. Reece et al. · Google Drive](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
+[Colour Atlas of Veterinary Anatomy - The Ruminants](https://notes.thatvetguy.net/books/colour-atlas-of-veterinary-anatomy-the-ruminants/)
 
-[Essentials of Veterinary Histology & EmbryologyR. K. Ghosh · Google Drive](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
+[Cunningham’s Textbook of Veterinary Physiology](https://notes.thatvetguy.net/books/cunningham-s-textbook-of-veterinary-physiology/)
 
-[Guyton and Hall Textbook of Medical PhysiologyJohn E. Hall, Arthur C. Guyton · Google Drive](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
+[Dukes’ Physiology of Domestic Animals](https://notes.thatvetguy.net/books/dukes-physiology-of-domestic-animals/)
 
-[Livestock Production ManagementN. S. R. Sastry and C. K. Thomas · Reading guide](https://notes.thatvetguy.net/books/livestock-production-management/)
+[Essentials of Veterinary Histology & Embryology](https://notes.thatvetguy.net/books/veterinary-histology-and-embryology-r-k-ghosh/)
 
-[Primary Veterinary AnatomyR. K. Ghosh · Google Drive](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
+[Guyton and Hall Textbook of Medical Physiology](https://notes.thatvetguy.net/books/guyton-and-hall-textbook-of-medical-physiology/)
 
-[Restraint and Handling of Wild and Domestic AnimalsMurray Fowler · Google Drive](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)
+[Primary Veterinary Anatomy](https://notes.thatvetguy.net/books/primary-veterinary-anatomy/)
 
-[Sembulingam Medical Physiology 6th-editionGoogle Drive](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/)
+[Sembulingam Medical Physiology 6th-edition](https://notes.thatvetguy.net/books/sembulingam-medical-physiology-6th-edition/)
 
-[Textbook of Veterinary AnatomyK. M. Dyce, W. O. Sack and C. J. G. Wensing · Reading guide](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
+[Textbook of Veterinary Anatomy](https://notes.thatvetguy.net/books/textbook-of-veterinary-anatomy/)
 
-[Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
+[Veterinary Anatomy of Domestic Animals, Textbook and Colour Atlas, 7th Edition](https://notes.thatvetguy.net/books/veterinary-anatomy-of-domestic-animals-textbook-and-colour-atlas-7th-edition/)
 
-## 2nd Year
+## Disease & Diagnostics
 
-14 resources
+10
 
-[A Textbook of Veterinary General PathologyJ. L. Vegad · Google Drive](https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/)
+[A Textbook of Veterinary General Pathology](https://notes.thatvetguy.net/books/a-textbook-of-veterinary-general-pathology/)
 
-[Ananthanarayan and Paniker’s Textbook of MicrobiologyC. K. J. Paniker (editor) · Google Drive](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
+[Ananthanarayan and Paniker’s Textbook of Microbiology](https://notes.thatvetguy.net/books/ananthanarayan-microbiology/)
 
-[Animal breedingGoogle Drive](https://notes.thatvetguy.net/books/animal-breeding/)
+[Fenner’s Veterinary Virology 5th edition](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
 
-[Animal NutritionP. McDonald, R. A. Edwards, J. F. D. Greenhalgh, C. A. Morgan, L. A. Sinclair and R. G. Wilkinson · Google Drive](https://notes.thatvetguy.net/books/animal-nutrition/)
+[Prescott’s Microbiology](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
 
-[Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory AnimalsD. V. Reddy · Google Drive](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
+[Text Book of Veterinary Parasitology - Bhatia](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/)
 
-[BiochemistryU. Satyanarayana and U. Chakrapani · Reading guide](https://notes.thatvetguy.net/books/biochemistry/)
+[Textbook of Veterinary Pathology](https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/)
 
-[Fenner’s Veterinary Virology 5th editionGoogle Drive](https://notes.thatvetguy.net/books/fenner-s-veterinary-virology-5th-edition/)
+[The Necropsy Book](https://notes.thatvetguy.net/books/necropsy-book-john-king/)
 
-[Prescott’s MicrobiologyGoogle Drive](https://notes.thatvetguy.net/books/prescott-s-microbiology/)
+[Veterinary Microbiology and Microbial Disease](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/)
 
-[Principles of Animal Nutrition and Feed TechnologyD. V. Reddy · Google Drive](https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/)
+[Veterinary Mycology](https://notes.thatvetguy.net/books/veterinary-mycology/)
 
-[Text Book on Animal Genetics and BreedingP. Kanakaraj · Reading guide](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/)
+[Veterinary Parasitology](https://notes.thatvetguy.net/books/veterinary-parasitology/)
 
-[Textbook of Veterinary PathologyGoogle Drive](https://notes.thatvetguy.net/books/textbook-of-veterinary-pathology/)
+## Animal Science
 
-[The Necropsy BookJohn M. King, Lois Roth-Johnson, David C. Dodd and Marion E. Newsom · Google Drive](https://notes.thatvetguy.net/books/necropsy-book-john-king/)
+10
 
-[Veterinary Microbiology and Microbial DiseaseP. J. Quinn et al. · Reading guide](https://notes.thatvetguy.net/books/veterinary-microbiology-and-microbial-disease/)
+[A Textbook of Animal Husbandry](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/)
 
-[Veterinary MycologyIndranil Samanta · Google Drive](https://notes.thatvetguy.net/books/veterinary-mycology/)
+[Animal breeding](https://notes.thatvetguy.net/books/animal-breeding/)
 
-## 3rd Year
+[Animal Nutrition](https://notes.thatvetguy.net/books/animal-nutrition/)
 
-16 resources
+[Applied Nutrition: Livestock, Poultry, Rabbits and Laboratory Animals](https://notes.thatvetguy.net/books/applied-nutrition-d-v-reddy/)
 
-[Essentials of Medical Pharmacology - K.D.TripathiK. D. Tripathi · Google Drive](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
+[Livestock Production Management](https://notes.thatvetguy.net/books/livestock-production-management/)
 
-[Essentials of Veterinary Pharmacology and TherapeuticsH. S. Sandhu · Google Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
+[Principles of Animal Nutrition and Feed Technology](https://notes.thatvetguy.net/books/principles-of-animal-nutrition-and-feed-technology/)
 
-[Goodman and Gilman’s The Pharmacological Basis of TherapeuticsGoogle Drive](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/)
+[Restraint and Handling of Wild and Domestic Animals](https://notes.thatvetguy.net/books/restraint-and-handling-of-wild-and-domestic-animals/)
 
-[Gracey's Meat Hygiene 11EditionGoogle Drive](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
+[Text Book on Animal Genetics and Breeding](https://notes.thatvetguy.net/books/text-book-on-animal-genetics-and-breeding/)
 
-[Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)Google Drive](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/)
+[Textbook of Animal Husbandry and Livestock Extension](https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/)
 
-[Lawrie's Meat ScienceR. A. Lawrie · Google Drive](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
+[Veterinary Extension Education GRK Sharma](https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/)
 
-[Meat and Meat Products TechnologyB. D. Sharma · Reading guide](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
+## Clinical Medicine & Surgery
 
-[Meat Processing TechnologyGoogle Drive](https://notes.thatvetguy.net/books/meat-processing-technology/)
+37
 
-[Ockerman Animal Byproduct ProcessingH. W. Ockerman and C. L. Hansen · Google Drive](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
+[Adam's Lameness in Horses 7th Edition](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
 
-[Outlines of Dairy TechnologySukumar De · Reading guide](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
+[Applied Veterinary Gynaecology and Obstetrics Dr Pradeep](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
 
-[Principles of Meat Science — ForrestGoogle Drive](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)
+[Brinker, Piermattei and Flo's Handbook of Small Animal Orthopedics](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
 
-[Text Book of Veterinary Parasitology - BhatiaGoogle Drive](https://notes.thatvetguy.net/books/text-book-of-veterinary-parasitology-bhatia/)
+[Canine and Feline Endocrinology and Reproduction](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
 
-[Textbook of Animal Husbandry and Livestock ExtensionP. Mathialagan · Google Drive](https://notes.thatvetguy.net/books/textbook-of-animal-husbandry-and-livestock-extension/)
+[Clinical Examination of Farm Animals](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/)
 
-[Veterinary EpidemiologyMichael Thrusfield and Robert Christley · Google Drive](https://notes.thatvetguy.net/books/veterinary-epidemiology/)
+[Clinical Handbook on Canine Dermatology 3rd Edition](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/)
 
-[Veterinary Extension Education GRK SharmaGoogle Drive](https://notes.thatvetguy.net/books/veterinary-extension-education-grk-sharma/)
+[Color handbook of Skin Diseases of Dog and Cat](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/)
 
-[Veterinary ParasitologyM. A. Taylor, R. L. Coop and R. L. Wall · Reading guide](https://notes.thatvetguy.net/books/veterinary-parasitology/)
+[Colour Handbook of Small Animal Emergency and Critical Care](https://notes.thatvetguy.net/books/small-animal-colour-handbook/)
 
-## 4th Year
+[Essentials of Veterinary Surgery, 8th Edition](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
 
-31 resources
+[Exotic Animal Medicine for the Veterinary Technician by Bonnie Ballard](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
 
-[Adam's Lameness in Horses 7th EditionGoogle Drive](https://notes.thatvetguy.net/books/adam-s-lameness-in-horses-7th-edition/)
+[Farm Animal Surgery](https://notes.thatvetguy.net/books/farm-animal-surgery/)
 
-[Applied Veterinary Gynaecology and Obstetrics Dr PradeepGoogle Drive](https://notes.thatvetguy.net/books/applied-veterinary-gynaecology-and-obstetrics-dr-pradeep/)
+[Fluid therapy guidelines for dogs and cats](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
 
-[Brinker, Piermattei and Flo's Handbook of Small Animal OrthopedicsGoogle Drive](https://notes.thatvetguy.net/books/brinker-piermattei-and-flo-s-handbook-of-small-animal-orthopedics/)
+[Handbook for Veterinary Clinician](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/)
 
-[Canine and Feline Endocrinology and ReproductionEdward C. Feldman, Richard W. Nelson · Google Drive](https://notes.thatvetguy.net/books/canine-and-feline-endocrinology-and-reproduction/)
+[Handbook of Small Animal Radiology and Ultrasound](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
 
-[Clinical Examination of Farm AnimalsPeter G. G. Jackson, Peter D. Cockcroft · Google Drive](https://notes.thatvetguy.net/books/clinical-examination-of-farm-animals/)
+[Laboratory Animal and Exotic Pet Medicine Principles and Procedures](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
 
-[Clinical Handbook on Canine Dermatology 3rd EditionGoogle Drive](https://notes.thatvetguy.net/books/clinical-handbook-on-canine-dermatology-3rd-edition/)
+[Lumb & Jones Veterinary Anesthesia and Analgesia](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
 
-[Color handbook of Skin Diseases of Dog and CatP. J. McKeever · Google Drive](https://notes.thatvetguy.net/books/color-handbook-of-skin-diseases-of-dog-and-cat/)
+[Manual of Canine and Feline Cardiology](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
 
-[Essentials of Veterinary Surgery, 8th EditionGoogle Drive](https://notes.thatvetguy.net/books/essentials-of-veterinary-surgery-8th-edition/)
+[Metabolic Diseases in Farm Animals](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
 
-[Exotic Animal Medicine for the Veterinary Technician by Bonnie BallardBonnie Ballard and Ryan Cheek · Google Drive](https://notes.thatvetguy.net/books/exotic-animal-medicine-for-the-veterinary-technician-by-bonnie-ballard/)
+[Pathways to Pregnancy and Parturition](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
 
-[Farm Animal SurgerySusan L. Fubini and Norm Ducharme (editors) · Reading guide](https://notes.thatvetguy.net/books/farm-animal-surgery/)
+[Pocket Guide Diagnostic Tests](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/)
 
-[Fluid therapy guidelines for dogs and catsGoogle Drive](https://notes.thatvetguy.net/books/fluid-therapy-guidelines-for-dogs-and-cats/)
+[Pocket Handbook of Small Animal Medicine](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/)
 
-[Laboratory Animal and Exotic Pet Medicine Principles and ProceduresMargi Sirois · Google Drive](https://notes.thatvetguy.net/books/laboratory-animal-and-exotic-pet-medicine-principles-and-procedures/)
+[Poultry Metabolic Disorders and Mycotoxins](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/)
 
-[Lumb & Jones Veterinary Anesthesia and AnalgesiaKurt Grimm, John Thurmon · Google Drive](https://notes.thatvetguy.net/books/lumb-jones-veterinary-anesthesia-and-analgesia/)
+[Reproduction in Farm Animals,7th Edition by Hafeez](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
 
-[Manual of Canine and Feline CardiologyLarry P. Tilley, John-Karl Goodwin · Google Drive](https://notes.thatvetguy.net/books/manual-of-canine-and-feline-cardiology/)
+[Ruminant Surgery](https://notes.thatvetguy.net/books/ruminant-surgery/)
 
-[Metabolic Diseases in Farm AnimalsJack M. Payne · Google Drive](https://notes.thatvetguy.net/books/metabolic-diseases-in-farm-animals/)
+[Skin Diseases of Exotic Pets](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
 
-[Pathways to Pregnancy and ParturitionP. L. Senger · Google Drive](https://notes.thatvetguy.net/books/pathways-to-pregnancy-and-parturition/)
+[Slatter's Fundamentals of Veterinary Ophthalmology, 6th Edition](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
 
-[Pocket Guide Diagnostic TestsDiana Nicoll, Stephen J. McPhee and Michael Pignone · Google Drive](https://notes.thatvetguy.net/books/pocket-guide-diagnostic-tests/)
+[Small Animal ECGs, An Introductory Guide, 3rd Edition](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
 
-[Poultry Metabolic Disorders and MycotoxinsSteven Leeson · Google Drive](https://notes.thatvetguy.net/books/poultry-metabolic-disorders-and-mycotoxins/)
+[Small Animal Internal Medicine 5th Edition](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
 
-[Reproduction in Farm Animals,7th Edition by HafeezGoogle Drive](https://notes.thatvetguy.net/books/reproduction-in-farm-animals-7th-edition-by-hafeez/)
+[Small Animal Surgery, 5th Edition - Theresa Fossum](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/)
 
-[Ruminant SurgeryR. P. S. Tyagi and Jit Singh · Google Drive](https://notes.thatvetguy.net/books/ruminant-surgery/)
+[Textbook of Clinical Veterinary Medicine](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
 
-[Skin Diseases of Exotic PetsSue Paterson · Google Drive](https://notes.thatvetguy.net/books/skin-diseases-of-exotic-pets/)
+[Textbook of Veterinary Internal Medicine](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
 
-[Slatter's Fundamentals of Veterinary Ophthalmology, 6th EditionGoogle Drive](https://notes.thatvetguy.net/books/slatter-s-fundamentals-of-veterinary-ophthalmology-6th-edition/)
+[Ultimate Vet Handbook](https://notes.thatvetguy.net/books/ultimate-vet-handbook/)
 
-[Small Animal ECGs, An Introductory Guide, 3rd EditionGoogle Drive](https://notes.thatvetguy.net/books/small-animal-ecgs-an-introductory-guide-3rd-edition/)
+[Veterinary Medicine](https://notes.thatvetguy.net/books/veterinary-medicine/)
 
-[Small Animal Internal Medicine 5th EditionRichard W. Nelson and C. Guillermo Couto · Google Drive](https://notes.thatvetguy.net/books/small-animal-internal-medicine-5th-edition/)
+[Veterinary Obstetrics and Genital disease](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/)
 
-Show 7 more 7 remaining
+[Veterinary Practice Handbook](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
 
-[Small Animal Surgery, 5th Edition - Theresa FossumGoogle Drive](https://notes.thatvetguy.net/books/small-animal-surgery-5th-edition-theresa-fossum/)
+[Veterinary Reproduction and Obstetrics](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)
 
-[Textbook of Clinical Veterinary MedicineAmalendu Chakrabarti · Google Drive](https://notes.thatvetguy.net/books/textbook-of-clinical-veterinary-medicine/)
+[Veterinary surgery and radiology by s.k.nandi](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)
 
-[Textbook of Veterinary Internal MedicineStephen J. Ettinger · Google Drive](https://notes.thatvetguy.net/books/textbook-of-veterinary-internal-medicine/)
+## Pharmacology & Drug References
 
-[Veterinary MedicinePeter D. Constable, Kenneth W. Hinchcliff, Stanley H. Done and Walter Grünberg · Google Drive](https://notes.thatvetguy.net/books/veterinary-medicine/)
+9
 
-[Veterinary Obstetrics and Genital diseaseStephen J. Roberts · Google Drive](https://notes.thatvetguy.net/books/veterinary-obstetrics-and-genital-disease/)
+[Drug Dose — Wall Reference](https://notes.thatvetguy.net/books/wall-drug-dose/)
 
-[Veterinary Reproduction and ObstetricsDavid E. Noakes, Timothy J. Parkinson and Gary C. W. England · Google Drive](https://notes.thatvetguy.net/books/veterinary-reproduction-and-obstetrics/)
+[Essentials of Medical Pharmacology - K.D.Tripathi](https://notes.thatvetguy.net/books/essentials-of-medical-pharmacology-k-d-tripathi/)
 
-[Veterinary surgery and radiology by s.k.nandiSamit Kumar Nandi, Samar Halder and Mozammel Hoque · Google Drive](https://notes.thatvetguy.net/books/veterinary-surgery-and-radiology-by-s-k-nandi/)
+[Essentials of Veterinary Pharmacology and Therapeutics](https://notes.thatvetguy.net/books/essentials-of-veterinary-pharmacology-and-therapeutics/)
 
-## Objective & Competition
+[Goodman and Gilman’s The Pharmacological Basis of Therapeutics](https://notes.thatvetguy.net/books/goodman-and-gilman-s-the-pharmacological-basis-of-therapeutics/)
 
-10 resources
+[Handbook of Veterinary Pharmacology-Walter H. Hsu-Wiley Blackwell (2008)](https://notes.thatvetguy.net/books/handbook-of-veterinary-pharmacology-walter-h-hsu-wiley-blackwell-2008/)
 
-[All in One Veterinary CapsuleGoogle Drive](https://notes.thatvetguy.net/books/veterinary-capsule/)
+[Plumb’s Veterinary Drug Handbook](https://notes.thatvetguy.net/books/plumbs-handbook/)
 
-[Animal Science RefresherSheelendra Kumar Tanwar · Google Drive](https://notes.thatvetguy.net/books/animal-science-refresher/)
+[Vaccination Schedule of All Animals](https://notes.thatvetguy.net/books/vaccination-schedule/)
 
-[Compiled Question Bank by Dhruv N DesaiDhruv N Desai · Google Drive](https://notes.thatvetguy.net/books/dhruv-desai/)
+[VENDEX: The Fundamental Veterinary Drug Index](https://notes.thatvetguy.net/books/vendex/)
 
-[E. Nanu Veterinary Question BankE. Nanu · Google Drive](https://notes.thatvetguy.net/books/e-nanu-qbank/)
+[Veterinary Drug Index by NAVSARI](https://notes.thatvetguy.net/books/navsari-drug-index/)
 
-[KVAFSU Question BankGoogle Drive](https://notes.thatvetguy.net/books/kvafsu-qbank/)
+## Public Health & Food Science
 
-[NDRI Veterinary Question BankGoogle Drive](https://notes.thatvetguy.net/books/ndri-qbank/)
+8
 
-[Review of Animal ScienceGoogle Drive](https://notes.thatvetguy.net/books/review-animal-science/)
+[Gracey's Meat Hygiene 11Edition](https://notes.thatvetguy.net/books/gracey-s-meat-hygiene-11edition/)
 
-[Review of Veterinary ScienceGoogle Drive](https://notes.thatvetguy.net/books/review-veterinary-science/)
+[Lawrie's Meat Science](https://notes.thatvetguy.net/books/lawrie-s-meat-science/)
 
-[TANUVAS All-Subjects Question BankGoogle Drive](https://notes.thatvetguy.net/books/tanuvas-qbank/)
+[Meat and Meat Products Technology](https://notes.thatvetguy.net/books/meat-and-meat-products-technology/)
 
-[Vet Scorer 2022 — 1st EditionShailesh Kumar Patel, Jigyasa Rana and B. Balamurugan · Google Drive](https://notes.thatvetguy.net/books/vet-scorer/)
+[Meat Processing Technology](https://notes.thatvetguy.net/books/meat-processing-technology/)
 
-## Clinical References
+[Ockerman Animal Byproduct Processing](https://notes.thatvetguy.net/books/ockerman-animal-byproduct-processing/)
 
-11 resources
+[Outlines of Dairy Technology](https://notes.thatvetguy.net/books/outlines-of-dairy-technology/)
 
-[Colour Handbook of Small Animal Emergency and Critical CareGoogle Drive](https://notes.thatvetguy.net/books/small-animal-colour-handbook/)
+[Principles of Meat Science — Forrest](https://notes.thatvetguy.net/books/principles-of-meat-science-forrest/)
 
-[Drug Dose — Wall ReferenceGoogle Drive](https://notes.thatvetguy.net/books/wall-drug-dose/)
+[Veterinary Epidemiology](https://notes.thatvetguy.net/books/veterinary-epidemiology/)
 
-[Handbook for Veterinary ClinicianA U Bhikane · Google Drive](https://notes.thatvetguy.net/books/veterinary-clinician-handbook/)
+## Exam Preparation
 
-[Handbook of Small Animal Radiology and UltrasoundRuth Dennis · Google Drive](https://notes.thatvetguy.net/books/small-animal-radiology-handbook/)
+10
 
-[Plumb’s Veterinary Drug HandbookJames A. Budde and Dawn M. McCluskey · Google Drive](https://notes.thatvetguy.net/books/plumbs-handbook/)
+[All in One Veterinary Capsule](https://notes.thatvetguy.net/books/veterinary-capsule/)
 
-[Pocket Handbook of Small Animal MedicineKit Sturgess · Google Drive](https://notes.thatvetguy.net/books/small-animal-medicine-handbook/)
+[Animal Science Refresher](https://notes.thatvetguy.net/books/animal-science-refresher/)
 
-[Ultimate Vet HandbookGoogle Drive](https://notes.thatvetguy.net/books/ultimate-vet-handbook/)
+[Compiled Question Bank by Dhruv N Desai](https://notes.thatvetguy.net/books/dhruv-desai/)
 
-[Vaccination Schedule of All AnimalsGoogle Drive](https://notes.thatvetguy.net/books/vaccination-schedule/)
+[E. Nanu Veterinary Question Bank](https://notes.thatvetguy.net/books/e-nanu-qbank/)
 
-[VENDEX: The Fundamental Veterinary Drug IndexGoogle Drive](https://notes.thatvetguy.net/books/vendex/)
+[KVAFSU Question Bank](https://notes.thatvetguy.net/books/kvafsu-qbank/)
 
-[Veterinary Drug Index by NAVSARIGoogle Drive](https://notes.thatvetguy.net/books/navsari-drug-index/)
+[NDRI Veterinary Question Bank](https://notes.thatvetguy.net/books/ndri-qbank/)
 
-[Veterinary Practice HandbookRK Chandolia · Google Drive](https://notes.thatvetguy.net/books/veterinary-practice-handbook/)
+[Review of Animal Science](https://notes.thatvetguy.net/books/review-animal-science/)
 
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-02; external file availability can change.
+[Review of Veterinary Science](https://notes.thatvetguy.net/books/review-veterinary-science/)
+
+[TANUVAS All-Subjects Question Bank](https://notes.thatvetguy.net/books/tanuvas-qbank/)
+
+[Vet Scorer 2022 — 1st Edition](https://notes.thatvetguy.net/books/vet-scorer/)
+
+## No books found
+
+Try a shorter title, an author’s surname or another subject.
+
+[Request a book ](https://notes.thatvetguy.net/request-resource/)
+
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-02; external file availability can change.
 
 
 ---

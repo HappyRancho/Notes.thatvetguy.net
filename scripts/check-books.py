@@ -51,3 +51,15 @@ by_year=Counter(f['year'] for b in books for f in b['files'])
 report={'pages':len(books),'driveFiles':len(actual),'driveWorks':sum(bool(b['files']) for b in books),'telegram':sum(bool(b['telegram']) for b in books),'readingGuides':sum(not b['primaryUrl'] for b in books),'filesByYear':dict(by_year),'coverTypes':dict(coverage),'coversUnavailable':unavailable,'excludedObjectivePacks':curation['excludedFiles']}
 out=ROOT/'docs/qa/book-pages';out.mkdir(parents=True,exist_ok=True);(out/'data-report.json').write_text(json.dumps(report,indent=2)+'\n')
 print('PASS BOOKS '+json.dumps({k:v for k,v in report.items() if k not in ['coversUnavailable','excludedObjectivePacks']}))
+
+# The open library must include every canonical book exactly once.
+library=(ROOT/'books/index.html').read_text()
+library_ids=re.findall(r'data-book-id="([^"]+)"',library)
+assert Counter(library_ids)==Counter(b['id'] for b in books),'Book missing or repeated in the library'
+assert len(re.findall(r'data-books-section',library))==7,'Broad library categories missing'
+assert 'data-books-group' not in library and 'books-year-links' not in library,'Library must remain open, without year groups'
+for file in [ROOT/'index.html',ROOT/'books/index.html',ROOT/'books/animal-nutrition/index.html']:
+ raw=file.read_text();nav=re.search(r'<nav class="bottom-nav".*?</nav>',raw,re.S)[0]
+ assert 'href="/books/"' in nav and 'href="/search/"' not in nav,'Books must replace Search in the bottom bar'
+ if file.relative_to(ROOT).parts[0]=='books':assert 'href="/books/" aria-current="page"' in nav
+print('PASS open library: all '+str(len(library_ids))+' books, seven broad categories, Books bottom navigation.')

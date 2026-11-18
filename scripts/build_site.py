@@ -77,6 +77,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
         extra_assets+=f'<script src="/assets/study-tools.js?v={VERSION}" defer></script>'
     if path in ['/bvsc/tanuvas-notes/','/bvsc/syllabus/']:extra_assets+=f'<link rel="stylesheet" href="/assets/resource-directories.css?v={VERSION}">'
     if path=='/search/':extra_assets+=f'<link rel="stylesheet" href="/assets/search-page.css?v={VERSION}">'
+    if path=='/books/':extra_assets+=f'<script defer src="/assets/books-directory.js?v={VERSION}"></script>'
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
     if path.startswith('/bvsc/') and not subject_hub:extra_assets+=f'<link rel="stylesheet" href="/assets/academic-pages.css?v={VERSION}">'
     extra_assets+=f'<script src="/assets/homepage.js?v={VERSION}" defer></script>'

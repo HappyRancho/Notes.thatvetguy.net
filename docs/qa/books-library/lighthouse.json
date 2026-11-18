@@ -1,0 +1,24 @@
+[
+  {
+    "url": "/books/",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 2338.3091999999997,
+    "cls": 0
+  },
+  {
+    "url": "/",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 2264.7655999999997,
+    "cls": 0
+  }
+]

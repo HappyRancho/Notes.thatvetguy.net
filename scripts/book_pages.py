@@ -57,16 +57,52 @@ def page(b,book):
  body+='</div>';suffix=' — Telegram Download' if book['telegram'] else ' — Details & Drive Access' if book['primaryUrl'] else ' — BVSc Reading Guide'
  b.write_page(book['page'],book['title']+suffix,desc,body)
 
+def library_categories():
+ return [
+  ('basic-sciences','Basic Sciences','Anatomy, physiology & biochemistry','flask','mint'),
+  ('disease-diagnostics','Disease & Diagnostics','Pathology, microbiology & parasitology','shield','peach'),
+  ('animal-science','Animal Science','Nutrition, breeding & livestock care','paw','yellow'),
+  ('clinical','Clinical Medicine & Surgery','Medicine, surgery, reproduction & handbooks','stethoscope','sky'),
+  ('drug-references','Pharmacology & Drug References','Pharmacology, doses & drug indexes','pill','mint'),
+  ('public-health','Public Health & Food Science','Public health, epidemiology & food technology','people','peach'),
+  ('exam-prep','Exam Preparation','Objective notes & question banks','cap','yellow'),
+ ]
+
+def library_category(book):
+ if book['collection'] in ['objective-notes','question-banks']:return 'exam-prep'
+ if book['collection']=='drug-index':return 'drug-references'
+ if book['collection']=='handbooks':return 'clinical'
+ names={s['name'] for s in book['subjects']}
+ if names & {'Veterinary Anatomy','Veterinary Physiology','Veterinary Biochemistry'}:return 'basic-sciences'
+ if names & {'Veterinary Pathology','Veterinary Microbiology','Veterinary Parasitology'}:return 'disease-diagnostics'
+ if names & {'Animal Nutrition','Animal Genetics and Breeding','Livestock Production Management','Veterinary and Animal Husbandry Extension Education','Livestock Farm Practices'}:return 'animal-science'
+ if 'Veterinary Pharmacology and Toxicology' in names:return 'drug-references'
+ if names & {'Veterinary Public Health and Epidemiology','Livestock Products Technology'}:return 'public-health'
+ return 'clinical'
+
 def index(b):
- from library_views import chunks
- def card(builder,book):
-  image='<img src="'+book['cover']['path']+'" width="'+str(book['cover']['width'])+'" height="'+str(book['cover']['height'])+'" alt="" loading="lazy" decoding="async">' if book.get('cover') else b.icon('book')
-  return '<article class="book-directory-card">'+b.link(book['page'],'<span class="book-directory-cover" aria-hidden="true">'+image+'</span><span><strong>'+e(book['title'])+'</strong><small>'+e((book.get('author')+' · ' if book.get('author') else '')+book['access'])+'</small></span>'+b.icon('chevron'))+'</article>'
- body=b.article_intro('Veterinary Books Library','Subject books, objective resources and clinical handbooks for BVSc & AH study. Open a book for its details, cover and available download links.').replace('container reading-page','container reading-page books-directory',1)
- categories=[('year-'+str(y),str(y)+('st' if y==1 else 'nd' if y==2 else 'rd' if y==3 else 'th')+' Year',[r for r in books() if any(s['year']==y for s in r['subjects'])]) for y in range(1,5)]+[('objective','Objective & Competition',[r for r in books() if r['collection'] in ['objective-notes','question-banks']]),('clinical','Clinical References',[r for r in books() if r['collection'] in ['handbooks','drug-index']])]
- body+='<nav class="books-year-links" aria-label="Book collections">'+''.join(b.link('#'+key,title) for key,title,_ in categories)+'</nav>'
- for key,title,rows in categories:body+='<section class="book-directory-section" id="'+key+'"><header><h2>'+title+'</h2><p>'+str(len(rows))+' resources</p></header>'+chunks(b,rows,card,24)+'</section>'
- b.write_page('/books/','Veterinary Books, Textbooks & Clinical References', 'Browse BVSc & AH books by professional year, objective collections and clinical references. Each title has its own details and available download links.',body+'</div>',[(r['title'],r['page']) for r in books()])
+ from subject_hubs import book_card
+ from library import normal
+ catalogue=books();categories=library_categories()
+ short={'basic-sciences':'Basics','disease-diagnostics':'Disease','animal-science':'Animal Sci.','clinical':'Clinical','drug-references':'Drugs','public-health':'Public Health','exam-prep':'Exam Prep'}
+ intro=b.article_intro('Books','').split('<header class="reading-header',1)[0]
+ body=intro.replace('container reading-page','container reading-page books-directory',1)
+ body+='<header class="books-library-heading"><span class="books-sketch" aria-hidden="true">'+b.icon('book')+'</span><div><h1>Books</h1><p class="rx-hand">A little shelf. A world of learning.</p></div><span class="books-total">'+str(len(catalogue))+'<small>titles</small></span></header>'
+ body+='<div class="books-search js-only">'+b.icon('search')+'<label for="books-query" class="sr-only">Find a book by title, author or subject</label><input id="books-query" type="search" placeholder="Title, author or subject…" autocomplete="off" aria-controls="books-shelves"><button type="button" id="books-clear" hidden aria-label="Clear book search">'+b.icon('close')+'</button></div>'
+ body+='<nav class="books-category-links" aria-label="Book categories">'+b.link('#books-shelves','<span>All Books</span><small>'+str(len(catalogue))+'</small>','books-filter').replace('<a ','<a data-book-category="all" ',1)
+ for key,title,_,_,tone in categories:
+  count=sum(library_category(r)==key for r in catalogue)
+  body+=b.link('#'+key,'<span>'+short[key]+'</span><small>'+str(count)+'</small>','books-filter').replace('<a ','<a data-book-category="'+key+'" title="'+e(title,quote=True)+'" ',1)
+ body+='</nav><p class="books-count" id="books-count" role="status">'+str(len(catalogue))+' books · browse the collection</p><div id="books-shelves">'
+ for key,title,description,glyph,tone in categories:
+  rows=[r for r in catalogue if library_category(r)==key]
+  body+='<section class="books-category" data-books-section="'+key+'" id="'+key+'"><header class="books-section-heading"><span class="rx-row-icon '+tone+'" aria-hidden="true">'+b.icon(glyph)+'</span><h2>'+title+'</h2><span>'+str(len(rows))+'</span></header><div class="books-shelf subject-book-grid">'
+  for book in rows:
+   keywords=normal(' '.join([title,description,book['type'],*[s['name'] for s in book['subjects']]]))
+   body+=book_card(b,book).replace('data-row-search="','data-book-id="'+e(book['id'],quote=True)+'" data-book-category="'+key+'" data-row-search="'+e(keywords,quote=True)+' ',1)
+  body+='</div></section>'
+ body+='</div><div class="books-more-wrap js-only"><button type="button" id="books-more" hidden>Show more books '+b.icon('chevron')+'</button></div><div class="books-empty" id="books-empty" hidden><h2>No books found</h2><p>Try a shorter title, an author’s surname or another subject.</p>'+b.link('/request-resource/','Request a book '+b.icon('arrow'),'book-subject-link')+'</div>'
+ b.write_page('/books/','Veterinary Books, Textbooks & Clinical References','Explore veterinary books by broad subject: basic sciences, disease, animal science, clinical medicine, drug references, public health and exam preparation.',body+'</div>',[(r['title'],r['page']) for r in catalogue])
 def social_cards():
  from PIL import Image,ImageDraw,ImageFont
  import textwrap

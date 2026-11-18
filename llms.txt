@@ -86,7 +86,7 @@ Last source review: 2026-11-02. File access settings can change.
   - Markdown: https://notes.thatvetguy.net/clinical/handbooks/index.md
 - [Drug Index Collection](https://notes.thatvetguy.net/clinical/drug-index/): Browse VENDEX, NAVSARI, Plumb's Veterinary Drug Handbook, a drug-dose wall reference and animal vaccination schedules for veterinary study.
   - Markdown: https://notes.thatvetguy.net/clinical/drug-index/index.md
-- [Veterinary Books, Textbooks & Clinical References](https://notes.thatvetguy.net/books/): Browse BVSc & AH books by professional year, objective collections and clinical references. Each title has its own details and available download links.
+- [Veterinary Books, Textbooks & Clinical References](https://notes.thatvetguy.net/books/): Explore veterinary books by broad subject: basic sciences, disease, animal science, clinical medicine, drug references, public health and exam preparation.
   - Markdown: https://notes.thatvetguy.net/books/index.md
 - [A Textbook of Animal Husbandry — BVSc Reading Guide](https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/): A Textbook of Animal Husbandry by G. C. Banerjee. A broader reference for breeds, production systems and farm management.
   - Markdown: https://notes.thatvetguy.net/books/a-textbook-of-animal-husbandry/index.md
