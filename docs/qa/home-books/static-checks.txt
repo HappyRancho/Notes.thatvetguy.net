@@ -1,0 +1,31 @@
+
+> check
+> python3 scripts/task3-static.py && python3 scripts/check-seo.py && python3 scripts/check-crawlability.py && python3 scripts/check-roadmaps.py && python3 scripts/check-academic-pages.py && python3 scripts/check-drive.py && node scripts/check-interactions.cjs && node scripts/contrast-check.mjs && node scripts/homepage-contrast.mjs && python3 scripts/check-books.py && python3 scripts/check-vet-ebooks.py && python3 scripts/check-community.py && python3 scripts/check-syllabi.py && python3 scripts/check-practicals.py && python3 scripts/ci/test-robots-policy.py && python3 scripts/check-study-tools.py && python3 scripts/check-breadcrumbs.py && python3 scripts/check-primary-storage.py && python3 scripts/check-tanuvas-drive.py && python3 scripts/check-adsense.py
+
+PASS: strict link policy across generated HTML and the complete search index; 1241 HTTP links checked.
+PASS 205 pages; 971 originals accounted for; 674 public rows in search. Home HTML/CSS/JS 62790 bytes gzip; JS 7968.
+PASS SEO: 199 reachable sitemap pages, unique metadata, canonical mirrors, matching schema and content dates.
+CRAWLABILITY: 199 canonical sitemap pages; no orphans or broken internal links; maximum depth 2.
+PASS: four roadmap routes; 18/22/24/17 credits reconcile; 19 course entries; 19 syllabus backlinks; closed study guides; cited academic and editorial sources.
+PASS: 19 canonical subject pages; four compact year hubs; old file anchors preserved; 59 TANUVAS source entries reconciled.
+PASS: API v3 page tokens, nested folders, requested fields, key isolation, title cleanup and natural sorting.
+PASS: production search normalization, multiword/preset/empty queries and storage recovery. Browser interaction assertions are in qa-browser.mjs.
+PASS 31 contrast pairs; minimum 4.52:1.
+PASS 33 approved-theme contrast pairs.
+PASS BOOKS {"pages": 119, "driveFiles": 65, "driveWorks": 62, "telegram": 0, "readingGuides": 10, "filesByYear": {"2": 11, "4": 33, "1": 8, "3": 13}, "coverTypes": {"reference-cover": 55, "file-cover": 49, "symbolic-cover": 15}}
+PASS open library: all 119 books, seven broad categories, Books bottom navigation.
+PASS Vet eBooks: 25 verified direct PDF records, unique canonical cards, complete schema, dated mirrors and crawl/search coverage.
+PASS Community: 22 full FAQ answers/schema/mirrors; five structured mail drafts; labelled controls; static support anchors and global student notice.
+PASS: 19 source-credited checklists, 169 units/sections, 1651 unique topic checkboxes; full university curriculum checked; no syllabus text dropped; subject-only styles.
+PASS PRACTICALS {"publicFolders": 39, "sourceFiles": 324, "individualFilesPublished": 0, "bySubject": {"Animal Genetics and Breeding": 4, "Animal Nutrition": 1, "Livestock Production Management": 5, "Livestock Products Technology": 1, "Veterinary Anatomy": 5, "Veterinary Biochemistry": 3, "Veterinary Gynaecology and Obstetrics": 4, "Veterinary Medicine": 3, "Veterinary Microbiology": 3, "Veterinary Parasitology": 4, "Veterinary Pathology": 2, "Veterinary Pharmacology and Toxicology": 1, "Veterinary Public Health and Epidemiology": 1, "Veterinary Surgery and Radiology": 2}}
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+OK
+PASS: strict link policy across generated HTML and the complete search index; 1241 HTTP links checked.
+PASS Tools: three sourced guides, 4 free Play links, 6 paid anatomy entries, 12 websites, 13 career paths; all icons attributed.
+PASS breadcrumbs: 204 pages; current page, real parents and JSON-LD agree.
+PASS primary storage: 26 exact file mappings, stable collection IDs, existing notes preserved, all subject/checklist units closed by default.
+PASS TANUVAS Drive: 59 exact filenames, 16 subject folders, all four years, stable legacy anchors; all book download labels and disclosure thresholds checked.
+PASS AdSense: publisher meta tag once in 206 HTML heads; configured slot remains inactive; no ad units, SDK requests or placeholders; ads.txt and section boundaries verified.

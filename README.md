@@ -82,3 +82,7 @@ The [keyword plan](docs/seo/2026-11-18-keyword-targeting.md) and [31-page query 
 `data/community.json` supplies the 22 FAQ answers and the student-use notice. The full answers are rendered at `/faq/`, with matching FAQPage data, Markdown and discovery links. Request/report field definitions and templates are in `scripts/community_pages.py`; `assets/community.js` handles draft context and copy actions. Only the support page loads that script.
 
 The header notice is 26 px high when scrolling, pauses on hover, and can be paused in More → Header notice. Reduced-motion and no-JavaScript views show still text. The pause preference is applied before paint. Run `node scripts/community-qa.mjs` for layout, email-draft, FAQ, no-JavaScript and notice checks; `npm run check` includes static community validation.
+
+## Homepage book shelves
+
+The Books section below Backbenchers Corner previews six Clinical Picks and six Core Subjects titles, configured in `data/homepage.json` under `bookShelves`. It reuses canonical book cards and existing home-tab behavior, with lazy covers and a live catalogue count. Without JavaScript, shelf tabs link to their real library categories.

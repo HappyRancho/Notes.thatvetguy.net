@@ -1,0 +1,138 @@
+{
+  "views": [
+    {
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "width": 321,
+        "height": 656.078125,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "width": 351,
+        "height": 630.078125,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 430,
+      "geometry": {
+        "overflow": false,
+        "width": 391,
+        "height": 636.375,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "width": 705,
+        "height": 485.921875,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "width": 1100,
+        "height": 505.34375,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "width": 321,
+        "height": 656.078125,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "width": 351,
+        "height": 630.078125,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 430,
+      "geometry": {
+        "overflow": false,
+        "width": 391,
+        "height": 636.375,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "width": 705,
+        "height": 485.921875,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "width": 1100,
+        "height": 505.34375,
+        "cards": 6,
+        "small": 0
+      },
+      "violations": 0,
+      "errors": []
+    }
+  ],
+  "interactions": [
+    "Both shelves, lazy-loaded covers, keyboard arrows/Home, canonical book detail and full-library links, no-JavaScript preview and category fallback."
+  ],
+  "errors": []
+}

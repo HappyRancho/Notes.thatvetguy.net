@@ -132,6 +132,18 @@ def clinical():
 def backbench():
     return '<section class="rx-section rx-backbench" id="backbench">'+heading('Backbenchers Corner','For when the exam is tomorrow and the motivation arrived today.','telegram','sky')+'<div class="rx-revision-card">'+art('community',(53,290,250,270),'rx-phone-art')+'<div><h3><mark>Last-minute revision notes</mark></h3><p>Short notes and high-yield topics for one more revision.</p>'+link('https://t.me/vetshortnotesbytvg','View Notes','rx-button')+'</div></div></section>'
 
+def book_shelf(b):
+    from book_catalogue import books
+    from subject_hubs import book_card
+    registry=books();lookup={book['id']:book for book in registry};shelves=CONTENT['bookShelves']
+    body=heading('Books','Good company for long study nights.','book','mint')
+    body+=tabs('home-books',[(shelf['title'],shelf['url']) for shelf in shelves])
+    for i,shelf in enumerate(shelves):
+        cards=''.join(book_card(b,lookup[ident]) for ident in shelf['books'])
+        body+=panel('home-books',i,'<div class="subject-book-grid">'+cards+'</div>')
+    body+='<div class="rx-home-books-footer"><span class="rx-hand">Pick a title. Find your next chapter.</span>'+link('/books/','All '+str(len(registry))+' books '+icon('arrow'),'rx-explore')+'</div>'
+    return '<section class="rx-section rx-home-books" id="home-books" data-home-tabs>'+body+'</section>'
+
 def involved():
     body=heading('Get Involved','Find an opportunity. Help fill a gap.','people','sky')+'<div class="rx-community-grid">'
     for title,text,url,ic,tone in [('Vet Job Updates','Explore opportunities on Telegram.','https://t.me/jobupdatesbytvg','jobs','mint'),('Community & Support','Requests, reports and a helping hand.','/request-resource/','message','peach')]:
@@ -144,7 +156,7 @@ def footer():
     return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About us'),('/faq/','FAQ'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><p class="footer-note">Free resources for future vets. Credit to the original authors. © 2026 ThatVetGuy.</p></div></footer>'
 
 def render(b):
-    content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()
+    content=academics(b)+objectives(b)+tools()+clinical()+backbench()+book_shelf(b)+involved()
     body='<div class="container rx-home">'+search()+'<p class="rx-library-intro">Free veterinary notes, books and study material for BVSc &amp; AH. Browse by year or subject.</p>'+'<div class="rx-content">'+content+'</div>'+share_strip('home')+'</div>'
     mirror='<h1>Free Veterinary Notes &amp; Books</h1><p>Free veterinary notes, books and study material for BVSc &amp; AH. Browse by year or subject.</p>'+content
     b.write_page('/','Free Veterinary Notes, Books & Study Resources | ThatVetGuy',b.geo.META['/']['summary'],body,home=True,mirror_body=mirror)

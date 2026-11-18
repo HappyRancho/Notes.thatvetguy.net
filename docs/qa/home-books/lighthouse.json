@@ -1,0 +1,143 @@
+{
+  "phase": "home-books-lighthouse",
+  "views": [],
+  "lighthouse": [
+    {
+      "url": "/",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2262.7657,
+      "lcpElement": [
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "node",
+              "valueType": "node",
+              "label": "Element"
+            }
+          ],
+          "items": [
+            {
+              "node": {
+                "type": "node",
+                "lhId": "page-0-P",
+                "path": "1,HTML,1,BODY,3,MAIN,0,DIV,2,DIV,0,SECTION,0,HEADER,1,DIV,1,P",
+                "selector": "section#notes > header.rx-section-heading > div > p.rx-hand",
+                "boundingRect": {
+                  "top": 323,
+                  "bottom": 375,
+                  "left": 84,
+                  "right": 382,
+                  "width": 298,
+                  "height": 52
+                },
+                "snippet": "<p class=\"rx-hand\">",
+                "nodeLabel": "Four years. Infinite syllabus. Character development included."
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "headings": [
+            {
+              "key": "phase",
+              "valueType": "text",
+              "label": "Phase"
+            },
+            {
+              "key": "percent",
+              "valueType": "text",
+              "label": "% of LCP"
+            },
+            {
+              "key": "timing",
+              "valueType": "ms",
+              "label": "Timing"
+            }
+          ],
+          "items": [
+            {
+              "phase": "TTFB",
+              "timing": 456.38285,
+              "percent": "20%"
+            },
+            {
+              "phase": "Load Delay",
+              "timing": 0,
+              "percent": "0%"
+            },
+            {
+              "phase": "Load Time",
+              "timing": 0,
+              "percent": "0%"
+            },
+            {
+              "phase": "Render Delay",
+              "timing": 1806.38285,
+              "percent": "80%"
+            }
+          ]
+        }
+      ],
+      "cls": 0,
+      "failures": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.94
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "score": 0.98
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.99
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "score": 0.5
+        },
+        {
+          "id": "modern-image-formats",
+          "title": "Serve images in next-gen formats",
+          "score": 0.5
+        },
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "score": 0.5
+        },
+        {
+          "id": "dom-size",
+          "title": "Avoid an excessive DOM size",
+          "score": 0
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "interactions": [],
+  "exceptions": [
+    "Search is deliberately noindex; its SEO score cannot reach 95 without violating the indexing policy."
+  ]
+}
