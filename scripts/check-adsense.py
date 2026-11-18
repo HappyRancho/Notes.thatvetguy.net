@@ -8,7 +8,7 @@ ROOT=Path(__file__).resolve().parent.parent
 c=adsense.CONFIG
 assert c['publisherId']=='ca-pub-3524774459480835'
 assert not c['approved'] and not c['renderEnabled']
-assert all(not p['enabled'] and p['slotId'] is None for p in c['placements'].values())
+assert all(not p['enabled'] and re.fullmatch(r'\d{10}',p['slotId'] or '') for p in c['placements'].values())
 assert (ROOT/'ads.txt').read_text()==adsense.ads_txt()
 class Page(HTMLParser):
  def __init__(self):super().__init__();self.head=False;self.scripts=[];self.units=[];self.verification=[]
@@ -40,8 +40,11 @@ for approval,enable,autoff in [(False,False,False),(True,False,True),(False,True
  test=deepcopy(c);test.update(approved=approval,renderEnabled=enable,autoAdsOffConfirmed=autoff)
  for key in test['placements']:
   test['placements'][key]['enabled']=True
-  assert adsense.component(key,test)=='','Missing slot must always fail closed'
-print(f'PASS AdSense: publisher meta tag once in {count} HTML heads; no ad units, SDK requests, placeholders or invented slots; ads.txt and section boundaries verified.')
+  assert bool(adsense.component(key,test))==(approval and enable and autoff),'Approval gates must control the configured slot'
+  for invalid in [None,'','123','not-a-slot']:
+   missing=deepcopy(test);missing['placements'][key]['slotId']=invalid
+   assert adsense.component(key,missing)=='','Missing or invalid slot must always fail closed'
+print(f'PASS AdSense: publisher meta tag once in {count} HTML heads; configured slot remains inactive; no ad units, SDK requests or placeholders; ads.txt and section boundaries verified.')
 
 # Verification remains available while the runtime follows rendering approval.
 for approved in (False,True):
