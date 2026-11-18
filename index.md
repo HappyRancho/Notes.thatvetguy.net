@@ -109,11 +109,13 @@ Explore opportunities on Telegram.
 
 ](https://t.me/jobupdatesbytvg)[
 
-### Request Resources
+### Community & Support
 
-Missing a note or book? Let us know.
+Requests, reports and a helping hand.
 
 ](https://notes.thatvetguy.net/request-resource/)
+
+[About us](https://notes.thatvetguy.net/about/)[FAQ](https://notes.thatvetguy.net/faq/)[Contact](https://notes.thatvetguy.net/request-resource/#contact)
 
 Students today. Better vets tomorrow.
 

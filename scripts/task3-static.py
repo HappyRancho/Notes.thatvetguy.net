@@ -46,7 +46,7 @@ for p in ROOT.rglob('index.html'):
         if entry.get('@id','').endswith(('#webpage','#guide')):
             assert entry.get('author')=={'@id':organization},(p,'Site guidance must credit the team')
         assert entry.get('@id')!='https://notes.thatvetguy.net/#author',(p,'Removed personal profile returned')
-    assert ('FAQPage' in types)==(p.parent.name in ['about','request-resource'])
+    assert ('FAQPage' in types)==(p.parent.name=='faq')
     if p!=ROOT/'index.html':assert 'BreadcrumbList' in types
 for p,page in pages.items():
     for url in page.urls:
@@ -79,7 +79,7 @@ from study_tools import GUIDES
 tool_ids={'study-guide-'+g['id'] for g in GUIDES}
 from resource_directories import ROUTES as DIRECTORY_ROUTES
 directory_ids={'directory-'+path.strip('/').replace('/','-') for path,_,_ in DIRECTORY_ROUTES}
-assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids|syllabus_ids|tool_ids|directory_ids,'search mismatch'
+assert {r['id'] for r in search}=={r['id'] for r in visible_records}|guide_ids|syllabus_ids|tool_ids|directory_ids|{'community-faq','community-about','community-request-resource'},'search mismatch'
 for entry in search:
     if entry['id'] in directory_ids:
         assert entry['url']==entry['permalink'] and (ROOT/entry['url'].strip('/')/'index.html') in pages,'Directory search target missing'

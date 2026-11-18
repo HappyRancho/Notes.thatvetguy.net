@@ -17,6 +17,10 @@ $$('[data-share-site]').forEach(button=>button.addEventListener('click',async()=
 }));
 let storage;try{storage=localStorage}catch{storage={getItem:()=>null,setItem:()=>{throw Error('Storage unavailable')}}}
 const store=logic.store(storage),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const noticeMotion=matchMedia('(prefers-reduced-motion: reduce)');
+let noticePaused=store.read('tvg-notice-paused',false)===true;
+const paintNotice=()=>{root.dataset.noticePaused=String(noticePaused);$$('[data-notice-toggle]').forEach(button=>{button.disabled=noticeMotion.matches;button.setAttribute('aria-pressed',String(noticePaused||noticeMotion.matches));button.textContent=noticeMotion.matches?'Motion reduced':noticePaused?'Resume':'Pause';});};
+$$('[data-notice-toggle]').forEach(button=>button.addEventListener('click',()=>{noticePaused=!noticePaused;store.write('tvg-notice-paused',noticePaused);paintNotice();}));noticeMotion.addEventListener('change',paintNotice);paintNotice();
 const media=matchMedia('(prefers-color-scheme: dark)');
 function theme(){const rx=root.dataset.ui==='rx',lightColor=rx?'#eaf8ff':'#FFF8EC',darkColor=rx?'#112433':'#0F1714';const dark=(root.dataset.theme|| (media.matches?'dark':'light'))==='dark';$$('.theme-toggle').forEach(b=>{b.setAttribute('aria-pressed',String(dark));b.setAttribute('aria-label','Switch to '+(dark?'light':'dark')+' theme')});$$('meta[name="theme-color"]').forEach(m=>{m.content=root.dataset.theme?(dark?darkColor:lightColor):(m.media.includes('dark')?darkColor:lightColor)})}
 $$('.theme-toggle').forEach(b=>b.addEventListener('click',()=>{root.dataset.theme=(root.dataset.theme||(media.matches?'dark':'light'))==='dark'?'light':'dark';try{storage.setItem('tvg-theme',root.dataset.theme)}catch{}theme()}));media.addEventListener('change',theme);theme();
@@ -61,5 +65,5 @@ window.addEventListener('hashchange',()=>{if(!legacyNoteTarget())revealHash()});
 const studiedKey='tvg-studied';
 const legacyStudied=store.read(studiedKey,{});if(Array.isArray(legacyStudied))store.write(studiedKey,Object.fromEntries(legacyStudied.map(id=>[id,true])));
 $$('[data-studied]').forEach(b=>{const id=b.dataset.studied;const update=()=>{const on=!!store.read(studiedKey,{})[id];b.setAttribute('aria-pressed',String(on));$('span',b).textContent=on?'Marked as studied':'Mark as studied'};b.addEventListener('click',()=>{const state=store.read(studiedKey,{});state[id]=!state[id];store.write(studiedKey,state);update()});update()});
-const request=$('#request-file-id');if(request){const params=new URLSearchParams(location.search),id=params.get('file')||'',resource=params.get('resource')||'';request.value=id;function email(){const value=request.value.trim();$('.request-email').href='mailto:contact@thatvetguy.net?subject='+encodeURIComponent(value?'Resource report: '+value:resource?'Resource request: '+resource:'Resource request')+'&body='+encodeURIComponent(value?'File ID: '+value+'\nIssue or takedown request:\n':'Resource: '+resource+'\nTopic / subject / year:\n');$('#request-context').textContent=value?'This file ID will be included in your email.':resource?'Requesting: '+resource:''}request.addEventListener('input',email);email()}
+
 })();

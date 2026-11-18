@@ -1,6 +1,6 @@
 {
   "/": {
-    "sha256": "300c24a99ac6dbb5db94c5232b2432d5e2153a65672a5d0559fb02e49b833098",
+    "sha256": "56c2529601cd553ca02c4d29710b6b491c43d794358c8f9e2f222a0e97b10b68",
     "modified": "2026-11-18"
   },
   "/bvsc/": {
@@ -152,12 +152,16 @@
     "modified": "2026-11-01"
   },
   "/about/": {
-    "sha256": "c2fdd2a3c7359a10d74da6535e50db3d2c1e4ac7a62cc94b958830995ef1dd95",
-    "modified": "2026-11-02"
+    "sha256": "95d3b22b54514601e75478be36cfe8548c00288089ea72b6628f38f34fb2edb2",
+    "modified": "2026-11-18"
   },
   "/request-resource/": {
-    "sha256": "e1f87df9ad119b2f292239621e0d83d88ecc54dd1ef40b21787c9001e82959a4",
-    "modified": "2026-10-28"
+    "sha256": "0755ad0220c90ed6fddeaaf701e279b03612ff5b387bac80879716d618cebdff",
+    "modified": "2026-11-18"
+  },
+  "/faq/": {
+    "sha256": "3c482841159cb9581d5c528eddb413a9d34381da386a3a92c3378b89189daffc",
+    "modified": "2026-11-18"
   },
   "/search/": {
     "sha256": "98af4cf471b7011efe6ccdd7974898e42188afcb4a04aa06c0435cbed182e291",

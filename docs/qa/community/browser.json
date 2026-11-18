@@ -1,0 +1,488 @@
+{
+  "views": [
+    {
+      "path": "/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 535.6875,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "light",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 535.6875,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "light",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 500.28125,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "light",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 512.28125,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "light",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 535.6875,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "dark",
+      "width": 360,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 535.6875,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "dark",
+      "width": 390,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 500.28125,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "dark",
+      "width": 768,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/about/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/request-resource/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": 512.28125,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    },
+    {
+      "path": "/faq/",
+      "theme": "dark",
+      "width": 1280,
+      "geometry": {
+        "overflow": false,
+        "h1": 1,
+        "noticeHeight": 26,
+        "firstFieldTop": null,
+        "clipped": [],
+        "small": []
+      },
+      "violations": [],
+      "errors": []
+    }
+  ],
+  "interactions": [
+    "Request/report drafts encode entered details, dates and resource/file context; copy and denied-clipboard fallback; FAQ-to-report navigation; all support sections and templates without JS; notice pause persistence and reduced motion."
+  ],
+  "errors": []
+}
