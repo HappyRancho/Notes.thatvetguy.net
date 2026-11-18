@@ -1,56 +1,70 @@
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
-- ›About
+- ›About us
 
-# About Notes.ThatVetGuy
+# About Rx Notes
 
-Notes.ThatVetGuy is a free academic library for BVSc & AH students. Find notes, books and practical material by year, with study guides to help you choose what to read next.
+For future vets. Thoughtfully organised.
 
-## A useful place to start.
+By the ThatVetGuy team · Independent project
 
-Pick your professional year, find a subject and get to the reading. Notes.ThatVetGuy brings notes, books and practical material together for veterinary students.
+## Built for the student behind the syllabus.
 
-## A message from a ThatVetGuy team member
+Finding good notes should not be another entrance exam. Rx Notes brings credited notes, books and practical material into one organised library for veterinary students.
 
-Veterinary school is demanding enough. Finding a decent set of notes should not be another entrance exam.
+## What you will find here
 
-I want this little corner of the internet to give you more time to understand a topic, ask a better question, or finally take that break you keep postponing. Preferably before your browser has more open tabs than you have remaining brain cells.
+Different resources. One familiar shelf.
+
+[
+
+### Notes by subject
+
+Topic notes and TANUVAS collections.
+
+](https://notes.thatvetguy.net/bvsc/)[
+
+### An open book library
+
+Broad categories, authors and available copies.
+
+](https://notes.thatvetguy.net/books/)[
+
+### A plan for your syllabus
+
+Checklists, course outlines and practical resources.
+
+](https://notes.thatvetguy.net/bvsc/syllabus/)[
+
+### Revision & study tools
+
+Question banks, apps and study guides.
+
+](https://notes.thatvetguy.net/objective/)
+
+## Your first three steps
+
+- Find your subject.Choose a professional year or browse the open book library.
+- Check your course.Compare the syllabus checklist with your university’s current plan.
+- Read, recall, repeat.Use notes with your prescribed texts and supervised practical work.
+
+A note from the team
 
 If you are behind, confused, or quietly wondering whether everyone else has it figured out: you belong here too. One difficult viva is not a verdict on the vet you can become.
 
-Use the notes. Question the answers. Credit the people who did the work. And share what helps. Good resources do not become less useful when your classmates have them too. Shocking, I know.
+Use the notes. Question the answers. Credit the people who did the work. Share what helps—good resources do not become less useful when your classmates have them too.
 
 Keep learning, ask for help, and be kind to the person beside you. There is room for all of us to become better at this.
 
 — A ThatVetGuy team member
 
-## Credit where it belongs
+## Credit, care & clarity
 
-Linked materials retain their original authorship. Inclusion does not imply medical review or ownership.
+Original authors and publishers retain their rights. Rx Notes is not an official university or VCI website, and inclusion does not imply ownership or medical review. External access can change; check the linked copy’s edition and your current course requirements.
 
-## How this library is organised
+Clinical references support study and supervised use. Follow current species-specific guidance and qualified supervision when treating patients.
 
-Rx Notes is an independent study-resource directory maintained by the ThatVetGuy team. It is not an official university or Veterinary Council of India website. Subject pages bring together credited notes, book details, syllabus checklists and practical folders; the original authors retain credit for their work.
+[Read the FAQ ](https://notes.thatvetguy.net/faq/)[Community & Support ](https://notes.thatvetguy.net/request-resource/)
 
-Resource titles, course labels and editions are checked against the available source. Where a book uses a symbolic cover rather than a source or publisher cover, its page identifies that distinction. A source-review date records the review shown on that page; it does not promise that an external file will remain available.
-
-The syllabus checklists link to the published MSVE 2016 course contents. Career guides distinguish official entry requirements from personal accounts. Study and clinical references support learning and supervised use; listing a resource is not a claim of medical review.
-
-## Help the next student
-
-A missing topic, a broken file or a credit that needs correcting: tell us so the library can get better.
-
-[Request or report a resource ](https://notes.thatvetguy.net/request-resource/)
-
-## Questions, answered
-
-Where do resources open?
-
-Notes, objective resources, question banks, drug references and handbooks open in Google Drive. Open a book’s page for its available copy. Some recommended books have no linked copy. Original authors retain credit.
-
-Does the year grouping match my syllabus?
-
-Year grouping may vary by university. Check your syllabus before planning revision.
-
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.

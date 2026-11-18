@@ -27,7 +27,7 @@ ROUTES={'ai-guide':'/study-tools/veterinary-careers/','free-apps':'/study-tools/
 (ROOT/'assets/rx-core.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['site.css','rx-pages.css','homepage.css']))
 (ROOT/'assets/rx-tools.css').write_text((ROOT/'assets/rx-core.css').read_text()+'\n'+(ROOT/'assets/study-tools.css').read_text())
 (ROOT/'assets/rx-subject.css').write_text('\n'.join((ROOT/'assets'/name).read_text() for name in ['rx-core.css','academic-pages.css','subject-hub.css']))
-VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/adsense.json',ROOT/'data/search-metadata.json',ROOT/'data/vet-ebooks-books.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
+VERSION=hashlib.sha256(b''.join(p.read_bytes() for p in sorted([* (ROOT/'scripts').glob('*.py'),*(ROOT/'assets').glob('*.css'),*(ROOT/'assets').glob('*.js'),ROOT/'data/resources.json',ROOT/'data/adsense.json',ROOT/'data/search-metadata.json',ROOT/'data/community.json',ROOT/'data/vet-ebooks-books.json',ROOT/'data/study-tools.json',ROOT/'data/career-guidance.json',ROOT/'data/roadmap-guidance.json']))).hexdigest()[:12]
 def section_aside(key,variant=0):return '<p class="margin-note"><span aria-hidden="true">↳</span> '+escape(MICROCOPY[key][variant])+'</p>'
 def article_intro(title,description,crumbs=None):
     crumbs=crumbs or []
@@ -49,7 +49,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
             raise ValueError('Missing breadcrumb insertion point: '+path)
         body=re.sub(r'<nav class="breadcrumbs"[^>]*>.*?</nav>',lambda _:trail,body,count=1,flags=re.S)
     body=adsense.insert(body,path)
-    body=geo.heading_ids(geo.external_links(body)+geo.faq_html(path));date=DATA['lastChecked']
+    body=geo.heading_ids(geo.external_links(body));date=DATA['lastChecked']
     search_meta=geo.SEARCH_META.get(path,{})
     description=search_meta.get('description',description)
     page_title=search_meta.get('title',search_title or (title if home else title+' | Notes.ThatVetGuy'))
@@ -76,6 +76,8 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if path.startswith('/study-tools/'):
         extra_assets+=f'<script src="/assets/study-tools.js?v={VERSION}" defer></script>'
     if path in ['/bvsc/tanuvas-notes/','/bvsc/syllabus/']:extra_assets+=f'<link rel="stylesheet" href="/assets/resource-directories.css?v={VERSION}">'
+    if path in ['/about/','/request-resource/','/faq/']:extra_assets+=f'<link rel="stylesheet" href="/assets/community.css?v={VERSION}">'
+    if path=='/request-resource/':extra_assets+=f'<script defer src="/assets/community.js?v={VERSION}"></script>'
     if path=='/search/':extra_assets+=f'<link rel="stylesheet" href="/assets/search-page.css?v={VERSION}">'
     if path=='/books/':extra_assets+=f'<script defer src="/assets/books-directory.js?v={VERSION}"></script>'
     if path.startswith('/books/'):extra_assets+=f'<link rel="stylesheet" href="/assets/books.css?v={VERSION}">'
@@ -85,7 +87,7 @@ def write_page(path,title,description,body,items=None,home=False,noindex=False,m
     if 'data-syllabus=' in body:extra_assets+=f'<script src="/assets/syllabus-checklist.js?v={VERSION}" defer></script>'
     reader_script=f'<script src="/assets/subject-reader.js?v={VERSION}" defer></script>' if 'data-subject-reader' in body else ''
     preload='balsamiq'
-    page_header=homepage.header(path,home)
+    page_header=homepage.header(path,home)+homepage.student_notice()
     page_footer=homepage.footer()
     font_preload= '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>'
     font_preload+='<link rel="preload" href="/assets/fonts/caveat-latin.woff2" as="font" type="font/woff2" crossorigin>'
@@ -125,6 +127,8 @@ def discovery():
         u=tool_route(guide);index.append(dict(id='study-guide-'+guide['id'],title=guide['title'],subject='Study Tools',year=None,type='Guide',format='Guide',kind='other',group='Study Tools',path='Study Tools/'+guide['title'],permalink=u,url=u,fileIds=[],keywords=[guide['title'],guide['description'],'study tools']))
     from resource_directories import ROUTES as DIRECTORIES
     for u,title,summary in DIRECTORIES:index.append(dict(id='directory-'+u.strip('/').replace('/','-'),title=title,subject='BVSc & AH',year=None,type='Guide',format='Directory',kind='other',group='Study directories',path=title,permalink=u,url=u,fileIds=[],keywords=[title,summary]))
+    for u,title in [('/faq/','FAQ — Rx Notes'),('/about/','About Rx Notes'),('/request-resource/','Community & Support')]:
+        index.append(dict(id='community-'+u.strip('/'),title=title,subject='Community',year=None,type='Guide',format='Help',kind='other',group='Community',path=title,permalink=u,url=u,fileIds=[],keywords=[title,'contact','requests','report a bug','copyright'] if u=='/request-resource/' else [title,'getting started','features','questions']))
     geo.discovery(DATA['lastChecked'],index)
     (ROOT/'build-info.json').write_text(json.dumps({'build':VERSION,'resources':len(RECORDS),'rawFiles':LIBRARY['stats']['rawFiles'],'lastInspected':LIBRARY['lastInspected']})+'\n')
     for stale in (ROOT/'bvsc').rglob('index.html'):

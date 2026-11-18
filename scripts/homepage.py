@@ -28,6 +28,11 @@ def header(path='/', home=True):
     promise=('<h1 id="academic-resources">' if home else '<div class="rx-promise-title">')+promise_text+('</h1>' if home else '</div>')
     return '<a class="skip-link" href="#main">Skip to content</a><header class="rx-header container"><div class="rx-paper"><span class="rx-tape" aria-hidden="true"></span><a href="/" class="rx-brand" aria-label="Rx Notes by ThatVetGuy — Home">'+logo+'</a><div class="rx-promise">'+promise+'<p>Thoughtfully organised for <mark>future vets.</mark></p></div><span class="rx-vet-emblem" aria-hidden="true"><svg viewBox="0 0 40 48" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M18 11C12 3 7 7 2 3c0 9 5 14 15 13M22 11C28 3 33 7 38 3c0 9-5 14-15 13" fill="#bde9dc" stroke="#17664d" stroke-width="1.8"/><path d="m5 9 9 4m21-4-9 4M20 8v37" stroke="#101b43" stroke-width="2.2"/><circle cx="20" cy="5" r="2.5" fill="#0769ce"/><path d="M14 16c-9 4 1 9 9 12s5 8-5 11m8-23c9 4-1 9-9 12s-5 8 5 11" stroke="#17664d" stroke-width="2.4"/><path d="m9 27 11 18 11-18" stroke="#0769ce" stroke-width="2.4"/></svg></span><span class="rx-paper-paw" aria-hidden="true">'+icon('paw')+'</span></div></header>'
 
+def student_notice():
+    from community_pages import DATA
+    text='<!--email_off-->'+e(DATA['notice'])+'<!--/email_off-->'
+    return '<div class="container rx-student-notice" id="student-notice" role="note" aria-label="Student use and copyright. Pause scrolling in More under Header notice."><div class="notice-window"><div class="notice-track"><p>'+text+'</p><p aria-hidden="true">'+text+'</p></div></div></div>'
+
 def search():
     return '<div class="rx-search-wrap"><div class="search-area"><form class="search-form" action="/search/" method="get" role="search"><label for="resource-search" class="sr-only">Search veterinary resources</label><div class="search-field">'+icon('search')+'<input id="resource-search" type="search" name="q" placeholder="Search notes, books, PYQs, drugs…" autocomplete="off" enterkeyhint="search"><button class="icon-button search-submit" type="submit" aria-label="Search">'+icon('arrow')+'</button></div><div id="search-suggestions" class="search-suggestions" hidden><p class="search-loading" hidden>Searching…</p><ul id="suggestion-list" class="suggestion-list"></ul></div></form><p id="search-status" class="sr-only" role="status"></p></div></div>'
 
@@ -129,14 +134,14 @@ def backbench():
 
 def involved():
     body=heading('Get Involved','Find an opportunity. Help fill a gap.','people','sky')+'<div class="rx-community-grid">'
-    for title,text,url,ic,tone in [('Vet Job Updates','Explore opportunities on Telegram.','https://t.me/jobupdatesbytvg','jobs','mint'),('Request Resources','Missing a note or book? Let us know.','/request-resource/','message','peach')]:
+    for title,text,url,ic,tone in [('Vet Job Updates','Explore opportunities on Telegram.','https://t.me/jobupdatesbytvg','jobs','mint'),('Community & Support','Requests, reports and a helping hand.','/request-resource/','message','peach')]:
         artwork=toolkit_art('jobs') if ic=='jobs' else '<span class="rx-cta-icon">'+icon(ic)+'</span>'
         body+=link(url,artwork+'<div class="rx-community-copy"><h3>'+title+'</h3><p>'+text+'</p></div><span class="rx-cta-arrow">'+icon('arrow')+'</span>','rx-community-card '+tone)
-    body+='</div><p class="rx-signoff">'+icon('paw')+'<span class="rx-hand">Students today. Better vets tomorrow.</span>'+icon('paw')+'</p>'
+    body+='</div><nav class="resource-shortcuts" aria-label="About and help">'+link('/about/','About us')+link('/faq/','FAQ')+link('/request-resource/#contact','Contact')+'</nav><p class="rx-signoff">'+icon('paw')+'<span class="rx-hand">Students today. Better vets tomorrow.</span>'+icon('paw')+'</p>'
     return '<section class="rx-section rx-involved" id="community">'+body+'</section>'
 
 def footer():
-    return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><p class="footer-note">Free resources for future vets. Credit to the original authors. © 2026 ThatVetGuy.</p></div></footer>'
+    return '<footer class="site-footer rx-footer"><div class="container"><nav aria-label="Footer">'+''.join(link(u,t) for u,t in [('/about/','About us'),('/faq/','FAQ'),('/request-resource/#contact','Contact'),('/request-resource/#contribute','Contribute'),('/request-resource/','Request'),('/request-resource/#report','Report an error')])+'</nav><p class="footer-note">Free resources for future vets. Credit to the original authors. © 2026 ThatVetGuy.</p></div></footer>'
 
 def render(b):
     content=academics(b)+objectives(b)+tools()+clinical()+backbench()+involved()

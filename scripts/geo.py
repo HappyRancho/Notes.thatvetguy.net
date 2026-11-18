@@ -24,12 +24,9 @@ def page_modified(path,title,description,body):
     return date
 
 def faq_for(path):
-    return META.get(path,{}).get('faq',[])[:2] if path in ['/about/','/request-resource/'] else []
-
-def faq_html(path):
-    pairs=faq_for(path)
-    if not pairs:return ''
-    return '<section class="content-section faq-list container" id="faq"><h2>Questions, answered</h2>'+''.join('<details><summary>'+escape(q)+'</summary><p>'+escape(a)+'</p></details>' for q,a in pairs)+'</section>'
+    if path!='/faq/':return []
+    from community_pages import FAQS
+    return [(q['question'],q['answer']) for q in FAQS]
 
 def external_links(body):
     def fix(m):
@@ -134,7 +131,9 @@ def structured(path,title,description,items,home,body,records,date):
             if edition:=re.search(r'\b(\d+(?:st|nd|rd|th))\s+Edition\b',book['title'],re.I):entry['bookEdition']=edition[1]+' edition'
         page['mainEntity']={'@id':entry['@id']};graph.append(entry)
     pairs=faq_for(path)
-    if pairs:graph.append({'@type':'FAQPage','@id':BASE+path+'#faq','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in pairs]})
+    if pairs:
+        page['mainEntity']={'@id':BASE+path+'#faq'}
+        graph.append({'@type':'FAQPage','@id':BASE+path+'#faq','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in pairs]})
     for r in records:
         if r.get('public') is False:continue
         if not r['url'] or escape(r['url'],quote=True) not in body:continue

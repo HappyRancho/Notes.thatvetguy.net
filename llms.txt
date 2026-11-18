@@ -78,10 +78,12 @@ Latest source check: 2026-11-18. Individual page dates identify older source che
   - Markdown: https://notes.thatvetguy.net/study-tools/online-resources/index.md
 - [Explore Vet Career Options](https://notes.thatvetguy.net/study-tools/veterinary-careers/): Explore 13 veterinary career paths, including Army RVC. Compare entry routes, postgraduate study and overseas registration, with a practical decision worksheet.
   - Markdown: https://notes.thatvetguy.net/study-tools/veterinary-careers/index.md
-- [About Notes.ThatVetGuy](https://notes.thatvetguy.net/about/): Notes.ThatVetGuy is a free academic library for BVSc & AH students. Find notes, books and practical material by year, with study guides to help you choose what to read next.
+- [About Rx Notes — Veterinary Student Library](https://notes.thatvetguy.net/about/): Discover Rx Notes, an independent veterinary study library: its purpose, features, getting started, source credits and community support.
   - Markdown: https://notes.thatvetguy.net/about/index.md
-- [Request a Resource](https://notes.thatvetguy.net/request-resource/): Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
+- [Community & Support — Requests, Reports & Contact](https://notes.thatvetguy.net/request-resource/): Request a veterinary resource, report a broken link or bug, contribute material, raise a copyright concern, or contact Rx Notes with a structured email draft.
   - Markdown: https://notes.thatvetguy.net/request-resource/index.md
+- [FAQ — Veterinary Notes, Books & Community Help](https://notes.thatvetguy.net/faq/): Answers about Rx Notes, getting started, notes and books, TANUVAS, resource requests, error reports, screenshots, contributions, privacy and copyright.
+  - Markdown: https://notes.thatvetguy.net/faq/index.md
 - [Handbooks](https://notes.thatvetguy.net/clinical/handbooks/): Browse veterinary clinical handbooks for small animal medicine, imaging and emergency study. Open each book for its details and available Google Drive link.
   - Markdown: https://notes.thatvetguy.net/clinical/handbooks/index.md
 - [Drug Index Collection](https://notes.thatvetguy.net/clinical/drug-index/): Browse VENDEX, NAVSARI, Plumb's Veterinary Drug Handbook, a drug-dose wall reference and animal vaccination schedules for veterinary study.

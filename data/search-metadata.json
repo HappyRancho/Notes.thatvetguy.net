@@ -20,7 +20,8 @@
     "description": "Browse VENDEX, NAVSARI, Plumb's Veterinary Drug Handbook, a drug-dose wall reference and animal vaccination schedules for veterinary study."
   },
   "/about/": {
-    "title": "About Notes.ThatVetGuy | Free BVSc Study Resources"
+    "title": "About Rx Notes | Veterinary Student Library",
+    "description": "Discover Rx Notes, an independent veterinary study library: its purpose, features, getting started, source credits and community support."
   },
   "/study-tools/": {
     "title": "Veterinary Study Tools, Apps & Career Guides | Rx Notes",
@@ -65,5 +66,13 @@
   "/bvsc/year-4/": {
     "title": "4th Year BVSc Notes, Books & Syllabus | ThatVetGuy",
     "description": "4th Year BVSc & AH notes for medicine, surgery, radiology, gynaecology and obstetrics. Browse books, topic notes and syllabus checklists."
+  },
+  "/request-resource/": {
+    "title": "Community & Support | Rx Notes Requests, Reports & Contact",
+    "description": "Request a veterinary resource, report a broken link or bug, contribute material, raise a copyright concern, or contact Rx Notes with a structured email draft."
+  },
+  "/faq/": {
+    "title": "FAQ | Rx Notes Veterinary Notes, Books & Help",
+    "description": "Answers about Rx Notes, getting started, notes and books, TANUVAS, resource requests, error reports, screenshots, contributions, privacy and copyright."
   }
 }

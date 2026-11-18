@@ -122,11 +122,13 @@ Explore opportunities on Telegram.
 
 ](https://t.me/jobupdatesbytvg)[
 
-### Request Resources
+### Community & Support
 
-Missing a note or book? Let us know.
+Requests, reports and a helping hand.
 
 ](https://notes.thatvetguy.net/request-resource/)
+
+[About us](https://notes.thatvetguy.net/about/)[FAQ](https://notes.thatvetguy.net/faq/)[Contact](https://notes.thatvetguy.net/request-resource/#contact)
 
 Students today. Better vets tomorrow.
 
@@ -5955,111 +5957,427 @@ Page updated: 2026-11-01. Sources last reviewed: 2026-11-18; external file avail
 ---
 Canonical: https://notes.thatvetguy.net/about/
 
-<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-11-02 -->
+<!-- Canonical: https://notes.thatvetguy.net/about/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
-- ›About
+- ›About us
 
-# About Notes.ThatVetGuy
+# About Rx Notes
 
-Notes.ThatVetGuy is a free academic library for BVSc & AH students. Find notes, books and practical material by year, with study guides to help you choose what to read next.
+For future vets. Thoughtfully organised.
 
-## A useful place to start.
+By the ThatVetGuy team · Independent project
 
-Pick your professional year, find a subject and get to the reading. Notes.ThatVetGuy brings notes, books and practical material together for veterinary students.
+## Built for the student behind the syllabus.
 
-## A message from a ThatVetGuy team member
+Finding good notes should not be another entrance exam. Rx Notes brings credited notes, books and practical material into one organised library for veterinary students.
 
-Veterinary school is demanding enough. Finding a decent set of notes should not be another entrance exam.
+## What you will find here
 
-I want this little corner of the internet to give you more time to understand a topic, ask a better question, or finally take that break you keep postponing. Preferably before your browser has more open tabs than you have remaining brain cells.
+Different resources. One familiar shelf.
+
+[
+
+### Notes by subject
+
+Topic notes and TANUVAS collections.
+
+](https://notes.thatvetguy.net/bvsc/)[
+
+### An open book library
+
+Broad categories, authors and available copies.
+
+](https://notes.thatvetguy.net/books/)[
+
+### A plan for your syllabus
+
+Checklists, course outlines and practical resources.
+
+](https://notes.thatvetguy.net/bvsc/syllabus/)[
+
+### Revision & study tools
+
+Question banks, apps and study guides.
+
+](https://notes.thatvetguy.net/objective/)
+
+## Your first three steps
+
+- Find your subject.Choose a professional year or browse the open book library.
+- Check your course.Compare the syllabus checklist with your university’s current plan.
+- Read, recall, repeat.Use notes with your prescribed texts and supervised practical work.
+
+A note from the team
 
 If you are behind, confused, or quietly wondering whether everyone else has it figured out: you belong here too. One difficult viva is not a verdict on the vet you can become.
 
-Use the notes. Question the answers. Credit the people who did the work. And share what helps. Good resources do not become less useful when your classmates have them too. Shocking, I know.
+Use the notes. Question the answers. Credit the people who did the work. Share what helps—good resources do not become less useful when your classmates have them too.
 
 Keep learning, ask for help, and be kind to the person beside you. There is room for all of us to become better at this.
 
 — A ThatVetGuy team member
 
-## Credit where it belongs
+## Credit, care & clarity
 
-Linked materials retain their original authorship. Inclusion does not imply medical review or ownership.
+Original authors and publishers retain their rights. Rx Notes is not an official university or VCI website, and inclusion does not imply ownership or medical review. External access can change; check the linked copy’s edition and your current course requirements.
 
-## How this library is organised
+Clinical references support study and supervised use. Follow current species-specific guidance and qualified supervision when treating patients.
 
-Rx Notes is an independent study-resource directory maintained by the ThatVetGuy team. It is not an official university or Veterinary Council of India website. Subject pages bring together credited notes, book details, syllabus checklists and practical folders; the original authors retain credit for their work.
+[Read the FAQ ](https://notes.thatvetguy.net/faq/)[Community & Support ](https://notes.thatvetguy.net/request-resource/)
 
-Resource titles, course labels and editions are checked against the available source. Where a book uses a symbolic cover rather than a source or publisher cover, its page identifies that distinction. A source-review date records the review shown on that page; it does not promise that an external file will remain available.
-
-The syllabus checklists link to the published MSVE 2016 course contents. Career guides distinguish official entry requirements from personal accounts. Study and clinical references support learning and supervised use; listing a resource is not a claim of medical review.
-
-## Help the next student
-
-A missing topic, a broken file or a credit that needs correcting: tell us so the library can get better.
-
-[Request or report a resource ](https://notes.thatvetguy.net/request-resource/)
-
-## Questions, answered
-
-Where do resources open?
-
-Notes, objective resources, question banks, drug references and handbooks open in Google Drive. Open a book’s page for its available copy. Some recommended books have no linked copy. Original authors retain credit.
-
-Does the year grouping match my syllabus?
-
-Year grouping may vary by university. Check your syllabus before planning revision.
-
-Page updated: 2026-11-02. Sources last reviewed: 2026-11-18; external file availability can change.
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---
 Canonical: https://notes.thatvetguy.net/request-resource/
 
-<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-10-28 -->
+<!-- Canonical: https://notes.thatvetguy.net/request-resource/; updated: 2026-11-18 -->
 
 - [Home](https://notes.thatvetguy.net/)
-- ›Request a Resource
+- ›Community & Support
 
-# Can’t find what you need?
+# Community & Support
 
-Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.
+Requests, reports and a helping hand.
 
-↳ Can't find it? Ask. The library has an excellent memory.
+[Request](#request)[Report](#report)[Contact](#contact)[Contribute](#contribute)[Copyright](#rights)[FAQ](https://notes.thatvetguy.net/faq/)
 
-## Tell us what would help.
+Build the library
 
-Include the topic, subject, year and edition if relevant.
+## Request a resource
 
-File ID, if reporting a file
+Tell us the title, subject and material you need.
 
-[Email your request ](mailto:contact@thatvetguy.net?subject=Resource%20request)
+Resource title / topic
+Subject
+Professional yearNot specified1st Year2nd Year3rd Year4th YearOther / not applicable
+Resource typeNot specifiedNotesBook / handbookQuestion bankPractical materialOther
+What would this help you study?
 
-You can also copy contact@thatvetguy.net into your email app.
+Additional details optional
 
-## Contact
+Author / edition
+Known source URL
+Remarks
+Your name / username (optional)
 
-Send your question to contact@thatvetguy.net.
+[Open email draft ](mailto:contact@thatvetguy.net?subject=Rx+Notes+%7C+Resource+request&body=Hello+ThatVetGuy+team%2C%0A%0ARequest+a+resource%0A%0AResource+title+%2F+topic%3A+%5BAdd+details%5D%0ASubject%3A+%5BAdd+details%5D%0AProfessional+year%3A+%5BAdd+details%5D%0AResource+type%3A+%5BAdd+details%5D%0AWhat+would+this+help+you+study%3F%3A+%5BAdd+details%5D%0AAuthor+%2F+edition%3A+%5BAdd+details%5D%0AKnown+source+URL%3A+%5BAdd+details%5D%0ARemarks%3A+%5BAdd+details%5D%0AYour+name+%2F+username+%28optional%29%3A+%5BAdd+details%5D%0AScreenshot+%2F+attachment%3A+%5BAttach+a+screenshot+in+your+email+app%2C+if+useful%5D%0A%0AThank+you.)
 
-## Contribute
+Preview email template Email template for Request a resourceHello ThatVetGuy team,
 
-Send the title, subject and original source credit. Share only material you have permission to contribute.
+Request a resource
 
-## Report an error / takedown
+Resource title / topic: [Add details]
+Subject: [Add details]
+Professional year: [Add details]
+Resource type: [Add details]
+What would this help you study?: [Add details]
+Author / edition: [Add details]
+Known source URL: [Add details]
+Remarks: [Add details]
+Your name / username (optional): [Add details]
+Screenshot / attachment: [Attach a screenshot in your email app, if useful]
 
-Include the file ID or page URL, the issue and your contact details. For a takedown request, explain your connection to the material.
+Thank you.
 
-## Questions, answered
+Open the template and fill in your details in your email app.
 
-How do I report a broken link?
+Help us put it right
 
-Email contact@thatvetguy.net with the page URL and resource name. The visible email address can be copied if your email application does not open.
+## Report an error
 
-Can I contribute a resource?
+Broken link, wrong detail or bug? Tell us what happened.
 
-Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute.
+Issue / short summary
+Issue typeNot specifiedBroken / inaccessible linkIncorrect information / editionWebsite bugOther
+Encountered on date
+Affected page / resource URL
+What happened?
 
-Page updated: 2026-10-28. Sources last reviewed: 2026-11-18; external file availability can change.
+Additional details optional
+
+Resource / file name
+File ID (if known)
+Device / browser
+Steps to reproduce
+Expected behaviour
+Actual behaviour
+Remarks
+Screenshot link (optional)
+Your name / username (optional)
+
+Attach screenshots in your email app after the draft opens, or add a screenshot link above. This page does not upload files.
+
+[Open email draft ](mailto:contact@thatvetguy.net?subject=Rx+Notes+%7C+Error+report&body=Hello+ThatVetGuy+team%2C%0A%0AReport+an+error%0A%0AIssue+%2F+short+summary%3A+%5BAdd+details%5D%0AIssue+type%3A+%5BAdd+details%5D%0AEncountered+on+date%3A+%5BAdd+details%5D%0AAffected+page+%2F+resource+URL%3A+%5BAdd+details%5D%0AWhat+happened%3F%3A+%5BAdd+details%5D%0AResource+%2F+file+name%3A+%5BAdd+details%5D%0AFile+ID+%28if+known%29%3A+%5BAdd+details%5D%0ADevice+%2F+browser%3A+%5BAdd+details%5D%0ASteps+to+reproduce%3A+%5BAdd+details%5D%0AExpected+behaviour%3A+%5BAdd+details%5D%0AActual+behaviour%3A+%5BAdd+details%5D%0ARemarks%3A+%5BAdd+details%5D%0AScreenshot+link+%28optional%29%3A+%5BAdd+details%5D%0AYour+name+%2F+username+%28optional%29%3A+%5BAdd+details%5D%0AScreenshot+%2F+attachment%3A+%5BAttach+a+screenshot+in+your+email+app%2C+if+useful%5D%0A%0AThank+you.)
+
+Preview email template Email template for Report an errorHello ThatVetGuy team,
+
+Report an error
+
+Issue / short summary: [Add details]
+Issue type: [Add details]
+Encountered on date: [Add details]
+Affected page / resource URL: [Add details]
+What happened?: [Add details]
+Resource / file name: [Add details]
+File ID (if known): [Add details]
+Device / browser: [Add details]
+Steps to reproduce: [Add details]
+Expected behaviour: [Add details]
+Actual behaviour: [Add details]
+Remarks: [Add details]
+Screenshot link (optional): [Add details]
+Your name / username (optional): [Add details]
+Screenshot / attachment: [Attach a screenshot in your email app, if useful]
+
+Thank you.
+
+Open the template and fill in your details in your email app.
+
+One inbox. Real people.
+
+## Contact the team
+
+Questions, feedback or an idea for Rx Notes? We would like to hear from you.
+
+contact@thatvetguy.net
+
+Topic
+Your message
+Your name / username (optional)
+[Open email draft ](mailto:contact@thatvetguy.net?subject=Rx+Notes+%7C+General+enquiry&body=Hello+ThatVetGuy+team%2C%0A%0AContact+the+team%0A%0ATopic%3A+%5BAdd+details%5D%0AYour+message%3A+%5BAdd+details%5D%0AYour+name+%2F+username+%28optional%29%3A+%5BAdd+details%5D%0A%0AThank+you.)
+
+Preview email template Email template for Contact the teamHello ThatVetGuy team,
+
+Contact the team
+
+Topic: [Add details]
+Your message: [Add details]
+Your name / username (optional): [Add details]
+
+Thank you.
+
+Open the template and fill in your details in your email app.
+
+Pass the good notes on
+
+## Contribute a resource
+
+Share something you are entitled to contribute, with its original credit and source.
+
+Title / subject
+Original source URL
+Original author / publisher credit
+Your permission to share this material
+
+Additional details optional
+
+Remarks
+Your name / username (optional)
+
+[Open email draft ](mailto:contact@thatvetguy.net?subject=Rx+Notes+%7C+Resource+contribution&body=Hello+ThatVetGuy+team%2C%0A%0AContribute+a+resource%0A%0ATitle+%2F+subject%3A+%5BAdd+details%5D%0AOriginal+source+URL%3A+%5BAdd+details%5D%0AOriginal+author+%2F+publisher+credit%3A+%5BAdd+details%5D%0AYour+permission+to+share+this+material%3A+%5BAdd+details%5D%0ARemarks%3A+%5BAdd+details%5D%0AYour+name+%2F+username+%28optional%29%3A+%5BAdd+details%5D%0A%0AThank+you.)
+
+Preview email template Email template for Contribute a resourceHello ThatVetGuy team,
+
+Contribute a resource
+
+Title / subject: [Add details]
+Original source URL: [Add details]
+Original author / publisher credit: [Add details]
+Your permission to share this material: [Add details]
+Remarks: [Add details]
+Your name / username (optional): [Add details]
+
+Thank you.
+
+Open the template and fill in your details in your email app.
+
+Respect the work behind the work
+
+## Copyright & credit concerns
+
+No copyright infringement is intended. Send the affected links and your connection to the work. We will review promptly and remove affected links or material as soon as possible.
+
+Work / material title
+Affected page / file URL
+Your connection to the work
+Correction / removal requested
+Your name / organisation
+
+Additional details optional
+
+Original source / supporting information
+Remarks
+
+[Open email draft ](mailto:contact@thatvetguy.net?subject=Rx+Notes+%7C+Copyright+or+credit+concern&body=Hello+ThatVetGuy+team%2C%0A%0ACopyright+%26+credit+concerns%0A%0AWork+%2F+material+title%3A+%5BAdd+details%5D%0AAffected+page+%2F+file+URL%3A+%5BAdd+details%5D%0AYour+connection+to+the+work%3A+%5BAdd+details%5D%0ACorrection+%2F+removal+requested%3A+%5BAdd+details%5D%0AYour+name+%2F+organisation%3A+%5BAdd+details%5D%0AOriginal+source+%2F+supporting+information%3A+%5BAdd+details%5D%0ARemarks%3A+%5BAdd+details%5D%0A%0AThank+you.)
+
+Preview email template Email template for Copyright & credit concernsHello ThatVetGuy team,
+
+Copyright & credit concerns
+
+Work / material title: [Add details]
+Affected page / file URL: [Add details]
+Your connection to the work: [Add details]
+Correction / removal requested: [Add details]
+Your name / organisation: [Add details]
+Original source / supporting information: [Add details]
+Remarks: [Add details]
+
+Thank you.
+
+Open the template and fill in your details in your email app.
+
+Your form details stay in this browser until you choose to open or copy an email draft. We do not submit or store them on the website.
+
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
+
+
+---
+Canonical: https://notes.thatvetguy.net/faq/
+
+<!-- Canonical: https://notes.thatvetguy.net/faq/; updated: 2026-11-18 -->
+
+- [Home](https://notes.thatvetguy.net/)
+- ›FAQ
+
+# FAQ
+
+Quick answers, so you can get back to learning.
+
+[Start here](#start)[Using the library](#resources)[Requests & fixes](#help)[Credits, rights & privacy](#rights)
+
+## Start here
+
+5 answers
+
+### What is Rx Notes?
+
+Rx Notes, also called Notes.ThatVetGuy, is an independent study-resource library maintained by the ThatVetGuy team for veterinary students. It organises credited notes, books and practical resources so students can spend less time searching.
+
+[About the project ](https://notes.thatvetguy.net/about/)
+
+### Who is this website for?
+
+The library is intended for veterinary students, especially BVSc & AH learners. Academic and clinical references support study and supervised learning; they do not replace a veterinarian’s advice or current clinical guidance.
+
+### What are the key features?
+
+Browse subject notes and TANUVAS collections, an open book library, objective resources and question banks, syllabus checklists, practical folders, professional-year roadmaps and study-tool guides. Search helps you find a topic, title or author.
+
+### How should I start?
+
+Choose your BVSc professional year, open a subject and compare its syllabus checklist with your university’s current teaching plan. Read the matching notes, then use the books and practical resources to support revision.
+
+[Choose a year and subject ](https://notes.thatvetguy.net/bvsc/)
+
+### How do I find a veterinary book?
+
+Open Books and browse broad subject categories, or search by title, author or subject. Each title has its own page with available access, source and edition details. The open library is not grouped by professional year.
+
+[Explore the book library ](https://notes.thatvetguy.net/books/)
+
+## Using the library
+
+7 answers
+
+### Is the library free to use?
+
+Browsing Rx Notes is free. Linked resources are controlled by their providers; availability and access settings can change. A book listed as a reading recommendation may not have a linked copy.
+
+### Where do notes and book downloads open?
+
+Notes and many references open in Google Drive. Some book pages offer a direct PDF from an external provider. Each page states the available access. Credit and rights remain with the original authors and publishers.
+
+### Where can I find TANUVAS notes?
+
+Use the TANUVAS directory to browse the reviewed subject and course collections, then open a title on its matching subject page. Compare original course labels with your own syllabus.
+
+[Browse TANUVAS notes ](https://notes.thatvetguy.net/bvsc/tanuvas-notes/)
+
+### Does the year grouping match my university?
+
+Year grouping and teaching schedules may vary. The checklists reference the VCI MSVE 2016 course contents and link to their source. Your university’s current syllabus, amendments and examination instructions take precedence.
+
+[Open syllabus checklists ](https://notes.thatvetguy.net/bvsc/syllabus/)
+
+### How do I check a book’s edition?
+
+Read its title and source details, then verify the title page of the linked copy. A reference cover does not guarantee the edition of every available copy. Report a mismatch if a listing needs correction.
+
+### Can I use the library without JavaScript?
+
+Yes. Core pages, subject links, book listings, FAQs and email templates are ordinary HTML. Live search, saved checklist ticks and some convenience controls use JavaScript.
+
+### Can I pause the scrolling notice?
+
+Yes. Open More and choose Pause under Header notice. That choice is saved on this device. The notice is also still when your device requests reduced motion, and without JavaScript.
+
+## Requests & fixes
+
+6 answers
+
+### How do I request a missing resource?
+
+Open Community & Support and choose Request a resource. Include the topic or title, subject, professional year and resource type. Add an author, edition or known source when useful. Review the prepared email draft and send it from your email app.
+
+[Request a resource ](https://notes.thatvetguy.net/request-resource/#request)
+
+### How do I report an error, broken link or bug?
+
+Choose Report an error and include the issue, affected page or resource URL, date encountered and what happened. For a website bug, add your device/browser and steps to reproduce it. A name, remarks and screenshot can help us investigate.
+
+[Report an error ](https://notes.thatvetguy.net/request-resource/#report)
+
+### How do I include a screenshot?
+
+Attach the screenshot in your email app after opening the draft, or include a screenshot link. The website does not upload or attach files. Avoid including passwords, private records or other people’s personal information.
+
+### What if the email button does not open my mail app?
+
+Use Copy email draft, or open the template preview and copy it manually. Paste it into an email to contact@thatvetguy.net, add any attachments and send it yourself.
+
+### When will my request be reviewed?
+
+The team reviews requests and reports as it can; there is no fixed response or publication deadline. A request does not guarantee that a resource can be added. Clear details and a working page link help us assess it.
+
+### How can I contact the team?
+
+Email contact@thatvetguy.net. Use Contact for general questions, feedback or suggestions. Choose the matching request, error report or copyright template when your message concerns one of those topics.
+
+[Contact the team ](https://notes.thatvetguy.net/request-resource/#contact)
+
+## Credits, rights & privacy
+
+4 answers
+
+### Is this an official university or VCI website?
+
+No. Rx Notes is an independent project maintained by the ThatVetGuy team. Listing a university resource does not imply affiliation, endorsement or ownership.
+
+### Can I contribute study material?
+
+Yes. Send the title, subject, original source and author credit, and explain your permission to share it. Contribute only material you are entitled to share. The team may review whether it fits the library.
+
+[Contribute a resource ](https://notes.thatvetguy.net/request-resource/#contribute)
+
+### How do I raise a copyright or credit concern?
+
+Email contact@thatvetguy.net with the work’s title, affected page or file links, your connection to the work and the correction or removal you request. No infringement is intended. We will review rights concerns promptly and remove affected links or material as soon as possible.
+
+[Raise a rights concern ](https://notes.thatvetguy.net/request-resource/#rights)
+
+### Are support form details uploaded to the website?
+
+No. These fields prepare an email draft in your browser. The website does not submit or store their contents. You review and send the message through your own email app. Copying a draft places it on your device’s clipboard.
+
+## Still have a question?
+
+Send it our way. Clear questions help us build better answers.
+
+[Contact the team ](https://notes.thatvetguy.net/request-resource/#contact)
+
+Page updated: 2026-11-18. Sources last reviewed: 2026-11-18; external file availability can change.
 
 
 ---

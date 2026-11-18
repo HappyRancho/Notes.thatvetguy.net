@@ -1,7 +1,7 @@
 """One route hierarchy for visible navigation and BreadcrumbList data."""
 import re
 from html import escape
-LABELS={'/bvsc/tanuvas-notes/':'TANUVAS Notes','/bvsc/syllabus/':'BVSc Syllabus','/bvsc/':'BVSc','/books/':'Books','/study-tools/':'Tools & Tips','/search/':'Search','/objective/':'Objective Resources','/about/':'About','/request-resource/':'Request a Resource','/404/':'Page not found','/clinical/drug-index/':'Drug Index','/clinical/handbooks/':'Handbooks'}
+LABELS={'/bvsc/tanuvas-notes/':'TANUVAS Notes','/bvsc/syllabus/':'BVSc Syllabus','/bvsc/':'BVSc','/books/':'Books','/study-tools/':'Tools & Tips','/search/':'Search','/objective/':'Objective Resources','/about/':'About us','/faq/':'FAQ','/request-resource/':'Community & Support','/404/':'Page not found','/clinical/drug-index/':'Drug Index','/clinical/handbooks/':'Handbooks'}
 def trail(path,title,pages=None):
  pages=pages or {}
  rows=[('Home','/')]

@@ -49,28 +49,14 @@
   },
   "/about/": {
     "summary": "Notes.ThatVetGuy is a free academic library for BVSc & AH students. Find notes, books and practical material by year, with study guides to help you choose what to read next.",
-    "faq": [
-      [
-        "Where do resources open?",
-        "Notes, objective resources, question banks, drug references and handbooks open in Google Drive. Open a book’s page for its available copy. Some recommended books have no linked copy. Original authors retain credit."
-      ],
-      [
-        "Does the year grouping match my syllabus?",
-        "Year grouping may vary by university. Check your syllabus before planning revision."
-      ]
-    ]
+    "faq": []
   },
   "/request-resource/": {
     "summary": "Request a veterinary note, book, PYQ or useful study resource, or report a link that needs attention. Include the subject, year and source so the library can be improved for other veterinary students.",
-    "faq": [
-      [
-        "How do I report a broken link?",
-        "Email contact@thatvetguy.net with the page URL and resource name. The visible email address can be copied if your email application does not open."
-      ],
-      [
-        "Can I contribute a resource?",
-        "Send the original source, title and subject to contact@thatvetguy.net. Share material you have permission to contribute."
-      ]
-    ]
+    "faq": []
+  },
+  "/faq/": {
+    "summary": "Answers to common questions about Rx Notes and its study resources.",
+    "faq": []
   }
 }
