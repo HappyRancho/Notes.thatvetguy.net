@@ -1,7 +1,7 @@
-Rx Notes for Android — direct-install live-site app
+Rx Vet Notes by TVG for Android — direct-install live-site app
 
 App: net.thatvetguy.notes
-Version: 0.1.0 (1)
+Version: 0.1.1 (2)
 Minimum Android: 8.0 (API 26)
 Compile / target: Android 16 (API 36)
 
@@ -36,3 +36,13 @@ no signing key is stored in source or CI artifacts. This workflow does not submi
 anything to Google Play or publish a public release.
 
 This live-site app needs internet access. An offline book collection is not bundled.
+
+Branding: ice-blue background, navy book, handwritten blue Rx and yellow TVG
+badge. Adaptive Android 8+ launcher icons keep artwork within the safe area;
+Android 13+ also supports a monochrome themed icon. The launcher label is
+Rx Vet Notes by TVG. The package and release signing key remain unchanged.
+
+Direct install: android/dist/RxVetNotes-TVG-v0.1.1.apk is the signed release.
+Verify it with android/dist/SHA256SUMS.txt. Its versionCode is higher than the
+initial build and it reuses the original certificate, so Android can update
+the installed app without removing saved preferences or checklists.

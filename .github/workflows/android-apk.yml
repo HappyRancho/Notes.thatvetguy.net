@@ -3,6 +3,8 @@ on:
   push:
     branches: [main, feat/android-live-app]
     paths: ['android/**', '.github/workflows/android-apk.yml']
+  pull_request:
+    paths: ['android/**', '.github/workflows/android-apk.yml']
   workflow_dispatch:
 permissions:
   contents: read
