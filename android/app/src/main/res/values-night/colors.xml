@@ -1,0 +1,5 @@
+<resources>
+    <color name="app_background">#112433</color>
+    <color name="app_text">#F0F6FF</color>
+    <color name="app_muted">#C5D6E8</color>
+</resources>

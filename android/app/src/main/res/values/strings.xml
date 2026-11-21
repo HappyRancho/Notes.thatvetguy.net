@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rx Notes</string>
+    <string name="connection_title">Let’s reconnect.</string>
+    <string name="connection_message">We couldn’t load the notes site. Check your connection and try again.</string>
+    <string name="retry">Try again</string>
+    <string name="open_browser">Open in browser</string>
+    <string name="unsupported_link">This link can’t be opened here.</string>
+    <string name="no_handler">No app is available to open this link.</string>
+    <string name="secure_error">A secure connection could not be established. Please try again later.</string>
+    <string name="http_error">This page is unavailable right now. Try again, or open the site in your browser.</string>
+</resources>
