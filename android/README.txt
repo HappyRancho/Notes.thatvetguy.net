@@ -1,7 +1,7 @@
 Rx Vet Notes by TVG for Android — direct-install live-site app
 
 App: net.thatvetguy.notes
-Version: 0.1.1 (2)
+Version: 0.1.2 (3)
 Minimum Android: 8.0 (API 26)
 Compile / target: Android 16 (API 36)
 
@@ -37,12 +37,18 @@ anything to Google Play or publish a public release.
 
 This live-site app needs internet access. An offline book collection is not bundled.
 
-Branding: ice-blue background, navy book, handwritten blue Rx and yellow TVG
-badge. Adaptive Android 8+ launcher icons keep artwork within the safe area;
+Branding: the header-style handwritten R-sub-x, navy Notes wordmark, syringe
+letter-t, white paper and pink-underlined TVG signature. Adaptive Android 8+ launcher icons keep artwork within the safe area;
 Android 13+ also supports a monochrome themed icon. The launcher label is
 Rx Vet Notes by TVG. The package and release signing key remain unchanged.
 
-Direct install: android/dist/RxVetNotes-TVG-v0.1.1.apk is the signed release.
+Direct install: android/dist/RxVetNotes-TVG-v0.1.2.apk is the signed release.
 Verify it with android/dist/SHA256SUMS.txt. Its versionCode is higher than the
 initial build and it reuses the original certificate, so Android can update
 the installed app without removing saved preferences or checklists.
+
+Loading: the header wordmark gently pulses during startup and moves to a
+compact indicator on later navigations. Progress comes from WebView loading
+callbacks. The overlay clears at the first visible page commit, with page-finish
+fallback, and on errors. It never imposes a minimum splash duration. Motion
+stops in the background, when hidden, or when Android animations are disabled.
