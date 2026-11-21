@@ -219,6 +219,9 @@ public final class MainActivity extends Activity {
         catch (ActivityNotFoundException | SecurityException ignored) { Toast.makeText(this, R.string.no_handler, Toast.LENGTH_LONG).show(); }
     }
 
+    // API 33+ uses the native OnBackInvokedDispatcher registered in onCreate.
+    // This override is exclusively the compatibility path for Android 8–12.
+    @SuppressLint("GestureBackNavigation")
     @SuppressWarnings("deprecation")
     @Override public void onBackPressed() { handleBack(); }
 

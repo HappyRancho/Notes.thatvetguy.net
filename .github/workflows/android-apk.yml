@@ -28,6 +28,9 @@ jobs:
       - name: Test, lint and build optimized APK
         working-directory: android
         run: ./gradlew --no-daemon testDebugUnitTest lintDebug assembleRelease assembleDebug assembleDebugAndroidTest
+      - name: Print lint diagnostics
+        if: failure()
+        run: cat android/app/build/intermediates/lint_intermediate_text_report/debug/lintReportDebug/lint-results-debug.txt
       - name: Upload build and test reports
         if: always()
         uses: actions/upload-artifact@v4
