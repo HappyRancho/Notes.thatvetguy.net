@@ -38,6 +38,8 @@ public final class MainActivity extends Activity {
     private FrameLayout root;
     private WebView webView;
     private ProgressBar progress;
+    private BrandLoadingView brandLoader;
+    private boolean hasVisiblePage;
     private ScrollView connectionPanel;
     private TextView connectionMessage;
     private String lastInternalUrl = LinkPolicy.HOME;
@@ -53,6 +55,8 @@ public final class MainActivity extends Activity {
         progress = new ProgressBar(this, null, android.R.attr.progressBarStyleHorizontal);
         progress.setMax(100);
         root.addView(progress, new FrameLayout.LayoutParams(-1, dp(2), Gravity.TOP));
+        brandLoader = new BrandLoadingView(this);
+        root.addView(brandLoader, new FrameLayout.LayoutParams(-1, -1));
         createConnectionPanel();
         if (Build.VERSION.SDK_INT >= 33) {
             getOnBackInvokedDispatcher().registerOnBackInvokedCallback(0, this::handleBack);
@@ -120,6 +124,7 @@ public final class MainActivity extends Activity {
             @Override public void onProgressChanged(WebView view, int value) {
                 if (progress == null || connectionPanel == null) return;
                 progress.setProgress(value);
+                if (brandLoader != null) brandLoader.updateProgress(value);
                 progress.setVisibility(value < 100 && connectionPanel.getVisibility() != View.VISIBLE ? View.VISIBLE : View.GONE);
             }
             @Override public void onPermissionRequest(PermissionRequest request) { request.deny(); }
@@ -156,8 +161,13 @@ public final class MainActivity extends Activity {
         @Override public void onPageStarted(WebView view, String url, android.graphics.Bitmap icon) {
             if (LinkPolicy.classify(url) == LinkPolicy.Destination.INTERNAL) lastInternalUrl = url;
             if (connectionPanel != null) connectionPanel.setVisibility(View.GONE);
+            if (brandLoader != null) brandLoader.show(!hasVisiblePage);
+        }
+        @Override public void onPageCommitVisible(WebView view, String url) {
+            revealPage();
         }
         @Override public void onPageFinished(WebView view, String url) {
+            revealPage();
             if (LinkPolicy.classify(url) != LinkPolicy.Destination.INTERNAL) return;
             view.evaluateJavascript("(function(){const m=document.querySelector('#more-sheet');"
                     + "if(!m||document.querySelector('#rx-android-refresh'))return;"
@@ -189,6 +199,12 @@ public final class MainActivity extends Activity {
         }
     }
 
+    private void revealPage() {
+        if (brandLoader == null || connectionPanel == null || connectionPanel.getVisibility() == View.VISIBLE) return;
+        hasVisiblePage = true;
+        brandLoader.hide();
+    }
+
     private boolean routeFromPage(String value, boolean popup) {
         LinkPolicy.Destination destination = LinkPolicy.classify(value);
         if (destination == LinkPolicy.Destination.INTERNAL) {
@@ -203,6 +219,7 @@ public final class MainActivity extends Activity {
         if (LinkPolicy.classify(value) != LinkPolicy.Destination.INTERNAL) return;
         lastInternalUrl = value;
         connectionPanel.setVisibility(View.GONE);
+        brandLoader.show(!hasVisiblePage);
         webView.loadUrl(value);
     }
 
@@ -283,6 +300,7 @@ public final class MainActivity extends Activity {
     private void showConnectionError(String message) {
         if (isFinishing() || isDestroyed()) return;
         progress.setVisibility(View.GONE);
+        brandLoader.hide();
         connectionMessage.setText(message);
         connectionPanel.setVisibility(View.VISIBLE);
     }
@@ -294,9 +312,10 @@ public final class MainActivity extends Activity {
         super.onSaveInstanceState(outState);
     }
     @Override public void onConfigurationChanged(Configuration config) { super.onConfigurationChanged(config); root.requestApplyInsets(); }
-    @Override protected void onResume() { super.onResume(); if (webView != null) webView.onResume(); }
-    @Override protected void onPause() { if (webView != null) webView.onPause(); super.onPause(); }
+    @Override protected void onResume() { super.onResume(); if (webView != null) webView.onResume(); if (brandLoader != null) brandLoader.setPaused(false); }
+    @Override protected void onPause() { if (brandLoader != null) brandLoader.setPaused(true); if (webView != null) webView.onPause(); super.onPause(); }
     @Override protected void onDestroy() {
+        if (brandLoader != null) brandLoader.hide();
         if (webView != null) { root.removeView(webView); webView.destroy(); }
         super.onDestroy();
     }

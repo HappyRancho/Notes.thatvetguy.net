@@ -8,4 +8,6 @@
     <string name="no_handler">No app is available to open this link.</string>
     <string name="secure_error">A secure connection could not be established. Please try again later.</string>
     <string name="http_error">This page is unavailable right now. Try again, or open the site in your browser.</string>
+    <string name="startup_loading">Opening your next read · %1$d%%</string>
+    <string name="page_loading">Loading · %1$d%%</string>
 </resources>
