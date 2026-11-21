@@ -1,12 +1,16 @@
-Rx Vet Notes by TVG — Android v0.1.1
+Rx Vet Notes by TVG — Android v0.1.2
 
 Requires Android 8.0+ and internet. Download the APK, open it on your phone
 and choose Install. If prompted, allow installation from your browser or
-file manager. This updates v0.1.0 without uninstalling it.
+file manager. This updates earlier app versions without uninstalling them.
 
 This release keeps the same application ID and signing certificate.
-Version code: 2. Only INTERNET permission is requested.
+Version code: 3. Only INTERNET permission is requested.
 The icon supports adaptive Android launchers and Android 13+ themed icons.
 Website updates appear automatically; More > Refresh page loads current content.
 
 SHA256SUMS.txt verifies the APK file. Signing keys are never included here.
+
+Loading: the header-style logo gently pulses while opening a page. Startup
+uses a centered wordmark; later pages use a compact status chip. It clears as
+soon as content is visible. Disable Android animations for a static indicator.
