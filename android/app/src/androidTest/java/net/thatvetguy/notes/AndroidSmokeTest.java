@@ -2,6 +2,7 @@ package net.thatvetguy.notes;
 
 import android.app.Instrumentation;
 import android.content.pm.ActivityInfo;
+import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.view.View;
@@ -55,7 +56,9 @@ public class AndroidSmokeTest {
                 assertEquals(WebSettings.MIXED_CONTENT_NEVER_ALLOW, web.getSettings().getMixedContentMode());
                 assertTrue(activity.findViewById(R.id.app_root).getPaddingTop() > 0);
             });
-            File shot = new File(instrumentation.getTargetContext().getExternalFilesDir(null), "rx-notes-home.png");
+            boolean dark = (instrumentation.getTargetContext().getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK) == Configuration.UI_MODE_NIGHT_YES;
+            assertEquals(Boolean.toString(dark), js(scenario, "matchMedia('(prefers-color-scheme: dark)').matches"));
+            File shot = new File(instrumentation.getTargetContext().getExternalFilesDir(null), dark ? "rx-notes-home-dark.png" : "rx-notes-home-light.png");
             try (FileOutputStream out = new FileOutputStream(shot)) { instrumentation.getUiAutomation().takeScreenshot().compress(Bitmap.CompressFormat.PNG, 100, out); }
             scenario.onActivity(activity -> ((WebView) activity.findViewById(R.id.web_view)).loadUrl(LinkPolicy.HOME + "books/"));
             waitFor(scenario, "location.pathname==='/books/' && !!document.querySelector('#books-query')");
