@@ -1,7 +1,7 @@
 name: Android APK
 on:
   push:
-    branches: [feat/android-live-app]
+    branches: [main, feat/android-live-app]
     paths: ['android/**', '.github/workflows/android-apk.yml']
   workflow_dispatch:
 permissions:

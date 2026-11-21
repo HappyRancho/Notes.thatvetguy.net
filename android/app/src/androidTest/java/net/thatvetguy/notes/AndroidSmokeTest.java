@@ -6,7 +6,8 @@ import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.view.View;
-import android.webkit.WebResourceError;
+import android.webkit.WebResourceResponse;
+import java.io.ByteArrayInputStream;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
@@ -58,6 +59,7 @@ public class AndroidSmokeTest {
             });
             boolean dark = (instrumentation.getTargetContext().getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK) == Configuration.UI_MODE_NIGHT_YES;
             assertEquals(Boolean.toString(dark), js(scenario, "matchMedia('(prefers-color-scheme: dark)').matches"));
+            waitFor(scenario, "!!document.querySelector('#rx-android-refresh')");
             File shot = new File(instrumentation.getTargetContext().getExternalFilesDir(null), dark ? "rx-notes-home-dark.png" : "rx-notes-home-light.png");
             try (FileOutputStream out = new FileOutputStream(shot)) { instrumentation.getUiAutomation().takeScreenshot().compress(Bitmap.CompressFormat.PNG, 100, out); }
             scenario.onActivity(activity -> ((WebView) activity.findViewById(R.id.web_view)).loadUrl(LinkPolicy.HOME + "books/"));
@@ -82,7 +84,7 @@ public class AndroidSmokeTest {
         }
     }
 
-    @Test public void mainFrameNetworkFailureShowsUsableRetry() {
+    @Test public void mainFrameServerFailureShowsUsableRetry() {
         try (ActivityScenario<MainActivity> scenario = ActivityScenario.launch(MainActivity.class)) {
             scenario.onActivity(activity -> {
                 WebView web = activity.findViewById(R.id.web_view);
@@ -95,10 +97,9 @@ public class AndroidSmokeTest {
                     public String getMethod() { return "GET"; }
                     public Map<String,String> getRequestHeaders() { return Collections.emptyMap(); }
                 };
-                web.getWebViewClient().onReceivedError(web, request, new WebResourceError() {
-                    public int getErrorCode() { return -2; }
-                    public CharSequence getDescription() { return "Network unavailable"; }
-                });
+                web.getWebViewClient().onReceivedHttpError(web, request,
+                        new WebResourceResponse("text/html", "UTF-8", 503, "Service Unavailable",
+                                Collections.emptyMap(), new ByteArrayInputStream(new byte[0])));
                 assertEquals(View.VISIBLE, activity.findViewById(R.id.connection_panel).getVisibility());
                 assertTrue(activity.findViewById(R.id.retry_button).isEnabled());
             });

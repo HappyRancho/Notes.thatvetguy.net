@@ -10,6 +10,7 @@ No browser toolbar or second app navigation bar is added. Existing notes,
 books, support, theme preferences and saved checklists remain website features.
 
 Android-specific behavior:
+- The More menu adds Refresh page for checking the latest website content.
 - Native back closes website dialogs before navigating page history or exiting.
 - System bars, cutouts and the keyboard have native window insets.
 - Rotation retains the active WebView and unsent form fields.

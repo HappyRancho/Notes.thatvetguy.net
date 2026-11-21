@@ -157,6 +157,17 @@ public final class MainActivity extends Activity {
             if (LinkPolicy.classify(url) == LinkPolicy.Destination.INTERNAL) lastInternalUrl = url;
             if (connectionPanel != null) connectionPanel.setVisibility(View.GONE);
         }
+        @Override public void onPageFinished(WebView view, String url) {
+            if (LinkPolicy.classify(url) != LinkPolicy.Destination.INTERNAL) return;
+            view.evaluateJavascript("(function(){const m=document.querySelector('#more-sheet');"
+                    + "if(!m||document.querySelector('#rx-android-refresh'))return;"
+                    + "const row=document.createElement('div');row.id='rx-android-refresh';"
+                    + "row.className='rx-theme-option notice-settings';"
+                    + "const label=document.createElement('span');label.textContent='Refresh page';"
+                    + "const small=document.createElement('small');small.textContent='Load the latest content';label.append(small);"
+                    + "const button=document.createElement('button');button.type='button';button.textContent='Refresh';"
+                    + "button.addEventListener('click',()=>location.reload());row.append(label,button);m.append(row);})()", null);
+        }
         @Override public void onReceivedError(WebView view, WebResourceRequest request, WebResourceError error) {
             if (request.isForMainFrame()) showConnectionError(getString(R.string.connection_message));
         }
