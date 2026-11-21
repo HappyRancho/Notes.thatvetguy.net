@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Rx Notes</string>
+    <string name="app_name">Rx Vet Notes by TVG</string>
     <string name="connection_title">Let’s reconnect.</string>
     <string name="connection_message">We couldn’t load the notes site. Check your connection and try again.</string>
     <string name="retry">Try again</string>
